@@ -6,3 +6,5 @@ out
 .DS_Store
 *.log
 public/data/index.json
+tsconfig.tsbuildinfo
+*.tsbuildinfo
