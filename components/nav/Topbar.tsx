@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Search, Menu, X, Sun, Moon, Landmark } from "lucide-react";
+import { Search, Menu, X, Sun, Moon, ChevronsRight } from "lucide-react";
 import { useTheme } from "next-themes";
 import { useEffect, useState } from "react";
 import { cn } from "@/lib/utils";
@@ -38,13 +38,6 @@ export function Topbar({ onOpenSearch }: Props) {
 
   return (
     <header className="sticky top-0 z-40 bg-bg border-b border-border">
-      {/* Ribbon */}
-      <div className="flag-ribbon" aria-hidden>
-        <span />
-        <span />
-        <span />
-      </div>
-
       <div className="container-app">
         <div className="h-[72px] flex items-center gap-6">
           <Link
@@ -155,20 +148,15 @@ export function Topbar({ onOpenSearch }: Props) {
 
 export function Brand() {
   return (
-    <span className="flex items-center gap-3">
+    <span className="flex items-center gap-2">
       <span
-        className="inline-flex items-center justify-center h-10 w-10 shrink-0"
-        style={{ background: "rgb(var(--navy))", color: "white", borderRadius: 2 }}
+        className="inline-flex items-center justify-center h-9 w-9 rounded-md"
+        style={{ background: "rgb(var(--accent))", color: "white" }}
       >
-        <Landmark className="h-5 w-5" strokeWidth={1.8} />
+        <ChevronsRight className="h-4 w-4" strokeWidth={3} />
       </span>
-      <span className="leading-none">
-        <span className="block display-tight text-[20px] tracking-tight text-fg">
-          policytracker<span style={{ color: "rgb(var(--accent))" }}>.lat</span>
-        </span>
-        <span className="block text-[10px] uppercase tracking-[0.18em] text-fg-muted font-medium mt-1">
-          Regulación tecnológica · LATAM
-        </span>
+      <span className="display-tight text-[18px] tracking-tight leading-none text-fg">
+        policytracker<span style={{ color: "rgb(var(--accent))" }}>.lat</span>
       </span>
     </span>
   );

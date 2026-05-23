@@ -61,9 +61,10 @@
     --nav-bg: 10 19 45;
     --nav-fg: 255 255 255;
     --nav-fg-muted: 165 175 200;
-    --hero-from: 10 19 45;
-    --hero-to: 26 39 78;
-    --hero-deep: 10 19 45;
+    /* Hero Strides — lavender/periwinkle */
+    --hero-from: 168 174 234;
+    --hero-to: 192 195 240;
+    --hero-deep: 130 138 218;
   }
 
   .dark {
