@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getIndex } from "@/lib/index";
 import { AREAS, type Area } from "@/lib/taxonomy";
-import { areaColor } from "@/components/ui/AreaChip";
 
 export const metadata: Metadata = {
   title: "Áreas temáticas",
@@ -33,17 +32,12 @@ export default async function AreasIndex() {
 
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {grouped.map((a) => {
-          const color = areaColor(a.key);
           return (
             <Link
               key={a.key}
               href={`/areas/${a.key}`}
-              className="group relative rounded-xl border border-border bg-bg-elevated p-5 hover:border-accent/60 transition-all overflow-hidden"
+              className="group rounded-xl border border-border bg-bg-elevated p-5 hover:border-accent/60 transition-all"
             >
-              <div
-                className="absolute inset-y-0 left-0 w-1"
-                style={{ background: `rgb(${color})` }}
-              />
               <div className="flex items-baseline justify-between mb-1.5">
                 <h3 className="font-display text-lg font-semibold group-hover:text-accent transition-colors">
                   {a.meta.name}
