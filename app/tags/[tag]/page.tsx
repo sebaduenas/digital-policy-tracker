@@ -45,7 +45,7 @@ export default async function TagPage({ params }: PageProps) {
         <p className="text-xs uppercase tracking-wider text-accent font-medium mb-1.5">
           Etiqueta
         </p>
-        <h1 className="font-serif text-3xl sm:text-4xl font-semibold tracking-tight">
+        <h1 className="font-display text-3xl sm:text-4xl font-semibold tracking-tight">
           #{tag}
         </h1>
         <p className="mt-2 text-fg-muted">

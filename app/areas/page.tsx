@@ -22,7 +22,7 @@ export default async function AreasIndex() {
   return (
     <div className="container py-8">
       <header className="mb-8">
-        <h1 className="font-serif text-3xl sm:text-4xl font-semibold tracking-tight">
+        <h1 className="font-display text-3xl sm:text-4xl font-semibold tracking-tight">
           Áreas temáticas
         </h1>
         <p className="mt-2 text-fg-muted max-w-2xl">
@@ -45,7 +45,7 @@ export default async function AreasIndex() {
                 style={{ background: `rgb(${color})` }}
               />
               <div className="flex items-baseline justify-between mb-1.5">
-                <h3 className="font-serif text-lg font-semibold group-hover:text-accent transition-colors">
+                <h3 className="font-display text-lg font-semibold group-hover:text-accent transition-colors">
                   {a.meta.name}
                 </h3>
                 <span className="text-xs text-fg-muted">

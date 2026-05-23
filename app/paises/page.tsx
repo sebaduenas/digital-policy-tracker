@@ -22,7 +22,7 @@ export default async function CountriesIndex() {
   return (
     <div className="container py-8">
       <header className="mb-8">
-        <h1 className="font-serif text-3xl sm:text-4xl font-semibold tracking-tight">
+        <h1 className="font-display text-3xl sm:text-4xl font-semibold tracking-tight">
           Países
         </h1>
         <p className="mt-2 text-fg-muted max-w-2xl">
@@ -36,7 +36,7 @@ export default async function CountriesIndex() {
           const inRegion = grouped.filter((g) => g.region === region);
           return (
             <section key={region}>
-              <h2 className="font-serif text-xl font-semibold mb-4">{region}</h2>
+              <h2 className="font-display text-xl font-semibold mb-4">{region}</h2>
               <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
                 {inRegion.map((c) => (
                   <Link

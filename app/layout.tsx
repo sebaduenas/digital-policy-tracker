@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, Source_Serif_4, JetBrains_Mono } from "next/font/google";
+import { Inter, Fraunces, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme/ThemeProvider";
 import { AppShell } from "@/components/AppShell";
@@ -11,10 +11,11 @@ const inter = Inter({
   display: "swap",
 });
 
-const serif = Source_Serif_4({
+const display = Fraunces({
   subsets: ["latin"],
-  variable: "--font-serif",
+  variable: "--font-display",
   display: "swap",
+  axes: ["SOFT", "WONK", "opsz"],
 });
 
 const mono = JetBrains_Mono({
@@ -59,8 +60,8 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#FAFAF9" },
-    { media: "(prefers-color-scheme: dark)", color: "#0A0A0A" },
+    { media: "(prefers-color-scheme: light)", color: "#F7F2E9" },
+    { media: "(prefers-color-scheme: dark)", color: "#11100E" },
   ],
 };
 
@@ -75,12 +76,12 @@ export default async function RootLayout({
     <html
       lang="es"
       suppressHydrationWarning
-      className={`${inter.variable} ${serif.variable} ${mono.variable}`}
+      className={`${inter.variable} ${display.variable} ${mono.variable}`}
     >
-      <body className="min-h-screen flex flex-col">
+      <body>
         <ThemeProvider
           attribute="class"
-          defaultTheme="system"
+          defaultTheme="light"
           enableSystem
           disableTransitionOnChange
         >

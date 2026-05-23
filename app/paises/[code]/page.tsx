@@ -90,7 +90,7 @@ export default async function CountryPage({ params }: PageProps) {
             <p className="text-xs uppercase tracking-wider text-fg-muted">
               {country.region}
             </p>
-            <h1 className="font-serif text-3xl sm:text-4xl font-semibold tracking-tight">
+            <h1 className="font-display text-3xl sm:text-4xl font-semibold tracking-tight">
               {country.name}
             </h1>
           </div>
@@ -151,7 +151,7 @@ export default async function CountryPage({ params }: PageProps) {
 
       {items.length > 0 && (
         <section className="mb-10">
-          <h2 className="font-serif text-xl font-semibold mb-2">Línea temporal</h2>
+          <h2 className="font-display text-xl font-semibold mb-2">Línea temporal</h2>
           <div className="rounded-xl border border-border bg-bg-elevated/40 p-4">
             <MiniTimeline items={items} />
           </div>
@@ -159,7 +159,7 @@ export default async function CountryPage({ params }: PageProps) {
       )}
 
       <section>
-        <h2 className="font-serif text-xl font-semibold mb-4">Regulaciones</h2>
+        <h2 className="font-display text-xl font-semibold mb-4">Regulaciones</h2>
         {items.length === 0 ? (
           <p className="text-sm text-fg-muted italic">
             Aún no hay fichas publicadas para {country.name}. ¿Quieres

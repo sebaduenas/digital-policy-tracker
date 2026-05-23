@@ -131,7 +131,7 @@ export function CompareClient({ index, regulations }: Props) {
                   </div>
                   <Link
                     href={`/regulaciones/${r.slug}`}
-                    className="font-serif text-base font-semibold leading-tight hover:text-accent transition-colors block"
+                    className="font-display text-base font-semibold leading-tight hover:text-accent transition-colors block"
                   >
                     {r.shortTitle}
                   </Link>
@@ -280,7 +280,7 @@ function Row({
 function EmptyCompare() {
   return (
     <div className="rounded-2xl border border-dashed border-border p-10 text-center bg-bg-elevated/40">
-      <h2 className="font-serif text-2xl font-semibold mb-2">
+      <h2 className="font-display text-2xl font-semibold mb-2">
         Selecciona regulaciones para comparar
       </h2>
       <p className="text-fg-muted max-w-md mx-auto">

@@ -33,7 +33,7 @@ import {
   LayoutGrid,
   List,
   Search,
-  Sparkles,
+  NotebookPen,
   X,
   Download,
 } from "lucide-react";
@@ -186,7 +186,7 @@ export function CatalogClient({ data }: { data: IndexedRegulation[] }) {
                   : "border-border bg-bg-elevated text-fg-muted hover:text-fg",
               )}
             >
-              <Sparkles className="h-3.5 w-3.5" />
+              <NotebookPen className="h-3.5 w-3.5" />
               Con análisis crítico
             </button>
 
@@ -266,7 +266,7 @@ export function CatalogClient({ data }: { data: IndexedRegulation[] }) {
 function EmptyState({ onReset }: { onReset: () => void }) {
   return (
     <div className="rounded-xl border border-dashed border-border p-12 text-center">
-      <p className="font-serif text-xl font-semibold mb-1">Sin resultados</p>
+      <p className="font-display text-xl font-semibold mb-1">Sin resultados</p>
       <p className="text-sm text-fg-muted mb-4">
         Tus filtros no devolvieron fichas. Prueba con criterios más amplios.
       </p>

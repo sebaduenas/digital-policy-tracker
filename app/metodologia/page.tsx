@@ -14,7 +14,7 @@ export default function MetodologiaPage() {
         <p className="text-xs uppercase tracking-wider text-accent font-medium mb-1.5">
           Documentación editorial
         </p>
-        <h1 className="font-serif text-4xl font-semibold tracking-tight">
+        <h1 className="font-display text-4xl font-semibold tracking-tight">
           Metodología
         </h1>
         <p className="mt-3 text-fg-muted leading-relaxed">

@@ -25,7 +25,7 @@ export function RelatedRegulations({ current, all }: Props) {
 
   return (
     <section className="mt-8 pt-6 border-t border-border">
-      <h2 className="font-serif text-xl font-semibold mb-4">
+      <h2 className="font-display text-xl font-semibold mb-4">
         Relacionadas en el tracker
       </h2>
       <div className="grid gap-3 sm:grid-cols-2">

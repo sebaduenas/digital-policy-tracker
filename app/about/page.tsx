@@ -15,7 +15,7 @@ export default function AboutPage() {
         <p className="text-xs uppercase tracking-wider text-accent font-medium mb-1.5">
           Sobre el proyecto
         </p>
-        <h1 className="font-serif text-4xl font-semibold tracking-tight">
+        <h1 className="font-display text-4xl font-semibold tracking-tight">
           About
         </h1>
       </header>

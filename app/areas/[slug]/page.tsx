@@ -56,7 +56,7 @@ export default async function AreaPage({ params }: PageProps) {
             Área temática · {items.length} ficha{items.length === 1 ? "" : "s"}
           </p>
           <h1
-            className="font-serif text-3xl sm:text-4xl font-semibold tracking-tight mt-1"
+            className="font-display text-3xl sm:text-4xl font-semibold tracking-tight mt-1"
             style={{ color: `rgb(${color})` }}
           >
             {area.name}
@@ -69,7 +69,7 @@ export default async function AreaPage({ params }: PageProps) {
 
       {byCountry.length > 0 && (
         <section className="mb-10">
-          <h2 className="font-serif text-xl font-semibold mb-4">
+          <h2 className="font-display text-xl font-semibold mb-4">
             Mapa de calor por país
           </h2>
           <div className="rounded-xl border border-border bg-bg-elevated/40 p-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
@@ -101,7 +101,7 @@ export default async function AreaPage({ params }: PageProps) {
       )}
 
       <section>
-        <h2 className="font-serif text-xl font-semibold mb-4">Regulaciones</h2>
+        <h2 className="font-display text-xl font-semibold mb-4">Regulaciones</h2>
         {items.length === 0 ? (
           <p className="text-sm text-fg-muted italic">
             Aún no hay fichas en esta área.

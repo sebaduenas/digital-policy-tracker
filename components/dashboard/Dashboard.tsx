@@ -116,7 +116,7 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
               >
                 <div className="flex items-center justify-between mb-1">
                   <span className="text-2xl">{c.flag}</span>
-                  <span className="text-2xl font-serif font-semibold text-accent">
+                  <span className="text-2xl font-display font-semibold text-accent">
                     {c.count}
                   </span>
                 </div>
@@ -318,7 +318,7 @@ function Kpi({
 }) {
   return (
     <div className="rounded-xl border border-border bg-bg-elevated p-5">
-      <p className="font-serif text-3xl font-semibold" style={{ color: accentColor }}>
+      <p className="font-display text-3xl font-semibold" style={{ color: accentColor }}>
         {value}
       </p>
       <p className="text-xs text-fg-muted uppercase tracking-wider mt-1">{label}</p>
@@ -337,7 +337,7 @@ function Section({
 }) {
   return (
     <section className="rounded-xl border border-border bg-bg-elevated/40 p-5">
-      <h2 className="font-serif text-lg font-semibold">{title}</h2>
+      <h2 className="font-display text-lg font-semibold">{title}</h2>
       {subtitle && <p className="text-xs text-fg-muted mt-0.5 mb-4">{subtitle}</p>}
       {children}
     </section>

@@ -3,8 +3,8 @@ import Link from "next/link";
 export default function NotFound() {
   return (
     <div className="container py-24 text-center">
-      <p className="font-serif text-7xl font-semibold text-accent">404</p>
-      <h1 className="font-serif text-2xl font-semibold mt-4">
+      <p className="font-display text-7xl font-semibold text-accent">404</p>
+      <h1 className="font-display text-2xl font-semibold mt-4">
         Página no encontrada
       </h1>
       <p className="mt-2 text-fg-muted max-w-md mx-auto">

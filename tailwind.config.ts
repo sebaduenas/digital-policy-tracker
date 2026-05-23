@@ -18,21 +18,26 @@ const config: Config = {
     extend: {
       fontFamily: {
         sans: ["var(--font-sans)", "system-ui", "sans-serif"],
-        serif: ["var(--font-serif)", "Georgia", "serif"],
+        display: ["var(--font-display)", "Georgia", "serif"],
+        serif: ["var(--font-display)", "Georgia", "serif"],
         mono: ["var(--font-mono)", "monospace"],
       },
       colors: {
         bg: "rgb(var(--bg) / <alpha-value>)",
         "bg-elevated": "rgb(var(--bg-elevated) / <alpha-value>)",
+        "bg-sunken": "rgb(var(--bg-sunken) / <alpha-value>)",
         fg: "rgb(var(--fg) / <alpha-value>)",
         "fg-muted": "rgb(var(--fg-muted) / <alpha-value>)",
         border: "rgb(var(--border) / <alpha-value>)",
+        "border-strong": "rgb(var(--border-strong) / <alpha-value>)",
         accent: "rgb(var(--accent) / <alpha-value>)",
         "accent-fg": "rgb(var(--accent-fg) / <alpha-value>)",
+        "accent-soft": "rgb(var(--accent-soft) / <alpha-value>)",
         ring: "rgb(var(--accent) / <alpha-value>)",
       },
       borderRadius: {
-        lg: "0.625rem",
+        xl: "1rem",
+        lg: "0.75rem",
         md: "0.5rem",
         sm: "0.375rem",
       },

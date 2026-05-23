@@ -147,7 +147,7 @@ export default function GlossaryPage() {
         <p className="text-xs uppercase tracking-wider text-accent font-medium mb-1.5">
           Definiciones canónicas
         </p>
-        <h1 className="font-serif text-4xl font-semibold tracking-tight">
+        <h1 className="font-display text-4xl font-semibold tracking-tight">
           Glosario
         </h1>
         <p className="mt-3 text-fg-muted leading-relaxed">
@@ -162,7 +162,7 @@ export default function GlossaryPage() {
           if (!items.length) return null;
           return (
             <section key={g}>
-              <h2 className="font-serif text-xl font-semibold mb-4">
+              <h2 className="font-display text-xl font-semibold mb-4">
                 {CATEGORY_LABELS[g]}
               </h2>
               <dl className="space-y-4">

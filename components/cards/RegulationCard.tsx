@@ -4,21 +4,27 @@ import { AreaChip } from "@/components/ui/AreaChip";
 import { StatusBadge } from "@/components/ui/StatusBadge";
 import { CountryFlag } from "@/components/ui/CountryFlag";
 import { NORM_TYPES } from "@/lib/taxonomy";
-import { ChevronRight, Sparkles, ExternalLink } from "lucide-react";
+import { ChevronRight, ExternalLink, NotebookPen } from "lucide-react";
 
 export function RegulationCard({ r }: { r: IndexedRegulation }) {
   return (
-    <article className="group relative flex flex-col rounded-xl border border-border bg-bg-elevated p-5 hover:border-accent/60 hover:shadow-sm transition-all">
-      <div className="flex items-start gap-2 mb-2">
-        <CountryFlag code={r.country} link={false} showName={false} className="text-xl" />
-        <span className="text-xs text-fg-muted uppercase tracking-wider font-medium">
+    <article className="group relative flex flex-col rounded-xl border border-border bg-bg-elevated p-5 hover:border-accent/60 hover:shadow-[0_2px_24px_-12px_rgb(var(--accent)/0.4)] transition-all">
+      <div className="flex items-center gap-2 mb-2">
+        <CountryFlag code={r.country} link={false} showName={false} className="text-lg" />
+        <span className="text-[0.65rem] text-fg-muted uppercase tracking-[0.15em] font-medium">
           {r.countryName} · {NORM_TYPES[r.normType]}
         </span>
         {r.hasCriticalAnalysis && (
-          <Sparkles className="ml-auto h-3.5 w-3.5 text-accent" aria-label="Análisis crítico" />
+          <span
+            className="ml-auto inline-flex items-center gap-1 text-[0.6rem] uppercase tracking-wider text-accent font-medium"
+            title="Tiene análisis crítico firmado"
+          >
+            <NotebookPen className="h-3 w-3" />
+            anotada
+          </span>
         )}
       </div>
-      <h3 className="font-serif text-lg font-semibold leading-snug text-balance mb-1 group-hover:text-accent transition-colors">
+      <h3 className="font-display text-lg font-medium leading-snug text-balance mb-1 group-hover:text-accent transition-colors">
         <Link
           href={`/regulaciones/${r.slug}`}
           className="before:absolute before:inset-0 before:rounded-xl"
@@ -36,7 +42,7 @@ export function RegulationCard({ r }: { r: IndexedRegulation }) {
         {r.areas.length > 2 && (
           <span className="text-[0.65rem] text-fg-muted">+{r.areas.length - 2}</span>
         )}
-        <span className="ml-auto inline-flex items-center text-xs text-fg-muted group-hover:text-accent transition-colors">
+        <span className="ml-auto inline-flex items-center text-xs text-fg-muted tabular-nums group-hover:text-accent transition-colors">
           {r.year ?? "—"}
           <ChevronRight className="ml-1 h-3.5 w-3.5" />
         </span>
@@ -72,7 +78,13 @@ export function RegulationRow({ r }: { r: IndexedRegulation }) {
             {r.shortTitle}
           </Link>
           {r.hasCriticalAnalysis && (
-            <Sparkles className="inline-block ml-1.5 h-3 w-3 text-accent align-baseline" aria-label="Análisis crítico" />
+            <span
+              className="inline-flex items-center gap-1 ml-2 align-middle text-[0.55rem] uppercase tracking-wider text-accent font-medium"
+              title="Tiene análisis crítico firmado"
+            >
+              <NotebookPen className="h-2.5 w-2.5" />
+              anotada
+            </span>
           )}
         </p>
         <p className="text-xs text-fg-muted truncate">{r.officialTitle}</p>
@@ -84,7 +96,7 @@ export function RegulationRow({ r }: { r: IndexedRegulation }) {
         </div>
       </div>
       <div className="text-right text-xs text-fg-muted shrink-0">
-        <div>{r.year ?? "—"}</div>
+        <div className="tabular-nums">{r.year ?? "—"}</div>
         <div className="mt-1">{NORM_TYPES[r.normType]}</div>
       </div>
       {r.officialUrl ? (

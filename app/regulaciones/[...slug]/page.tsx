@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { ChevronLeft, Sparkles } from "lucide-react";
+import { ChevronLeft, NotebookPen } from "lucide-react";
 import { loadRegulations, getRegulationBySlug } from "@/lib/content";
 import { renderMarkdown } from "@/lib/markdown";
 import { AreaChip } from "@/components/ui/AreaChip";
@@ -74,13 +74,13 @@ export default async function RegulationDetail({ params }: PageProps) {
   };
 
   return (
-    <div className="container py-6">
+    <div className="px-4 sm:px-8 lg:px-10 py-6 sm:py-8 max-w-[1200px] mx-auto">
       <Link
         href="/regulaciones"
-        className="inline-flex items-center gap-1 text-sm text-fg-muted hover:text-fg transition-colors mb-4"
+        className="inline-flex items-center gap-1 text-sm text-fg-muted hover:text-fg transition-colors mb-5"
       >
         <ChevronLeft className="h-3.5 w-3.5" />
-        Volver al catálogo
+        Catálogo
       </Link>
 
       <article>
@@ -92,16 +92,17 @@ export default async function RegulationDetail({ params }: PageProps) {
             ))}
             <StatusBadge status={reg.status as Parameters<typeof StatusBadge>[0]["status"]} />
             {reg.hasCriticalAnalysis && (
-              <span className="inline-flex items-center gap-1 text-xs text-accent">
-                <Sparkles className="h-3 w-3" /> análisis crítico
+              <span className="inline-flex items-center gap-1 text-[0.65rem] uppercase tracking-wider text-accent font-medium">
+                <NotebookPen className="h-3 w-3" />
+                anotada
               </span>
             )}
           </div>
-          <h1 className="font-serif text-3xl sm:text-4xl font-semibold tracking-tight text-balance leading-tight">
+          <h1 className="font-display text-3xl sm:text-4xl lg:text-[2.75rem] font-medium tracking-tight text-balance leading-[1.05]">
             {reg.officialTitle}
           </h1>
           {reg.aliases && reg.aliases.length > 0 && (
-            <p className="mt-2 text-sm text-fg-muted">
+            <p className="mt-3 text-sm text-fg-muted">
               También conocida como: {reg.aliases.join(" · ")}
             </p>
           )}
@@ -110,8 +111,8 @@ export default async function RegulationDetail({ params }: PageProps) {
 
         <div className="grid gap-10 lg:grid-cols-[1fr_320px]">
           <div className="min-w-0">
-            <div className="rounded-xl border border-accent/20 bg-accent/5 p-5 mb-8">
-              <p className="text-[0.65rem] uppercase tracking-wider text-accent font-medium mb-1.5">
+            <div className="rounded-xl border border-accent/25 bg-accent-soft/40 p-5 mb-8">
+              <p className="text-[0.65rem] uppercase tracking-[0.18em] text-accent font-medium mb-1.5">
                 Resumen
               </p>
               <p className="text-fg leading-relaxed">{reg.summary}</p>
@@ -119,7 +120,7 @@ export default async function RegulationDetail({ params }: PageProps) {
 
             {reg.keyProvisions && reg.keyProvisions.length > 0 && (
               <section className="mb-8">
-                <h2 className="font-serif text-xl font-semibold mb-3">
+                <h2 className="font-display text-xl font-medium mb-3">
                   Disposiciones clave
                 </h2>
                 <ul className="space-y-2">
@@ -134,7 +135,7 @@ export default async function RegulationDetail({ params }: PageProps) {
             )}
 
             {reg.penalties && (
-              <section className="mb-8 rounded-lg border border-border bg-bg-elevated/50 p-4">
+              <section className="mb-8 rounded-lg border border-border bg-bg-elevated/60 p-4">
                 <h2 className="text-xs uppercase tracking-wider text-fg-muted font-medium mb-1.5">
                   Régimen sancionatorio
                 </h2>
@@ -175,7 +176,7 @@ export default async function RegulationDetail({ params }: PageProps) {
             </div>
           </div>
 
-          <div className="lg:sticky lg:top-20 lg:self-start">
+          <div className="lg:sticky lg:top-6 lg:self-start">
             <RegulationDetailSidebar reg={reg} />
           </div>
         </div>

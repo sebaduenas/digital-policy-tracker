@@ -18,7 +18,7 @@ export default async function ComparePage() {
   return (
     <div className="container py-8">
       <header className="mb-6">
-        <h1 className="font-serif text-3xl sm:text-4xl font-semibold tracking-tight">
+        <h1 className="font-display text-3xl sm:text-4xl font-semibold tracking-tight">
           Comparador
         </h1>
         <p className="mt-2 text-fg-muted max-w-2xl">
