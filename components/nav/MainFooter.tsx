@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Github, Mail } from "lucide-react";
+import { Mail } from "lucide-react";
 
 export function MainFooter() {
   return (
@@ -11,7 +11,7 @@ export function MainFooter() {
           </p>
           <p className="mt-2 text-fg-muted leading-relaxed text-xs">
             Mapa curado de la regulación de nuevas tecnologías en América
-            Latina. Contenido bajo CC BY 4.0, código bajo MIT.
+            Latina. Contenido bajo licencia CC BY 4.0.
           </p>
         </div>
         <nav className="flex flex-wrap gap-x-6 gap-y-2 text-xs text-fg-muted md:col-span-1">
@@ -29,14 +29,6 @@ export function MainFooter() {
           </Link>
         </nav>
         <div className="flex md:justify-end gap-3 items-start text-fg-muted text-xs md:col-span-1">
-          <a
-            className="inline-flex items-center gap-1 hover:text-fg"
-            href="https://github.com/sebaduenas/digital-policy-tracker"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Github className="h-3.5 w-3.5" /> GitHub
-          </a>
           <a
             className="inline-flex items-center gap-1 hover:text-fg"
             href="mailto:contacto@policytracker.lat"

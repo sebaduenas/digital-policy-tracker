@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Github, Mail, ScrollText, ExternalLink } from "lucide-react";
+import { Mail, ScrollText } from "lucide-react";
 
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Sobre el Policy Tracker LATAM, su propósito y forma de contribuir.",
+    "Sobre el Digital Policy Tracker LATAM, su propósito y forma de contribuir.",
 };
 
 export default function AboutPage() {
@@ -65,9 +65,9 @@ export default function AboutPage() {
         <h2>Cómo se construye</h2>
         <p>
           Cada ficha sigue una metodología documentada (ver{" "}
-          <Link href="/metodologia">Metodología</Link>) y se publica en formato
-          MDX validado por esquema. Los datos están abiertos bajo licencia CC BY
-          4.0 y el código bajo licencia MIT en un repositorio público.
+          <Link href="/metodologia">Metodología</Link>) y se publica con
+          referencias verificables a las fuentes oficiales. El contenido
+          editorial se publica bajo licencia Creative Commons Attribution 4.0.
         </p>
 
         <h2>Cómo contribuir</h2>
@@ -76,17 +76,10 @@ export default function AboutPage() {
           <li>Reportar errores u omisiones en fichas existentes.</li>
           <li>Proponer nuevas regulaciones para indexar.</li>
           <li>Colaborar como editor invitado en jurisdicciones específicas.</li>
-          <li>
-            Citar el tracker en publicaciones académicas o profesionales (ver
-            cita sugerida abajo).
-          </li>
         </ul>
-
-        <h2>Cómo citar</h2>
-        <blockquote>
-          Policy Tracker LATAM (2026). <em>Mapa regulatorio de la tecnología en
-          Latinoamérica</em>. https://policytracker.lat
-        </blockquote>
+        <p>
+          Para cualquiera de estas vías, escríbenos al correo de contacto.
+        </p>
       </article>
 
       <div className="mt-10 flex flex-wrap gap-3">
@@ -103,16 +96,6 @@ export default function AboutPage() {
         >
           <Mail className="h-4 w-4" />
           Contacto
-        </a>
-        <a
-          href="https://github.com/sebaduenas/digital-policy-tracker"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center gap-2 rounded-md border border-border bg-bg-elevated px-4 py-2 text-sm font-medium hover:border-accent/60 transition-colors"
-        >
-          <Github className="h-4 w-4" />
-          Ver código
-          <ExternalLink className="h-3 w-3" />
         </a>
       </div>
     </div>
