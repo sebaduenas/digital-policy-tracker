@@ -74,8 +74,8 @@ export function Sidebar({
         <Link href="/" className="flex items-center gap-2.5 group">
           <Mark />
           <div className="leading-none">
-            <div className="display-italic text-[18px] text-fg">
-              Policy<span className="text-accent">.lat</span>
+            <div className="display-italic text-[15px] text-fg">
+              policytracker<span className="text-accent">.lat</span>
             </div>
             <div className="text-[9px] uppercase tracking-[0.22em] text-fg-muted font-semibold mt-1">
               LATAM tracker

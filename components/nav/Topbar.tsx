@@ -158,8 +158,8 @@ export function Brand() {
       <span className="inline-flex items-center justify-center h-9 w-9 rounded-md bg-accent text-accent-fg">
         <ChevronsRight className="h-4 w-4" strokeWidth={3} />
       </span>
-      <span className="display-tight text-[22px] tracking-tight leading-none">
-        Policy<span className="text-accent">.lat</span>
+      <span className="display-tight text-[18px] tracking-tight leading-none">
+        policytracker<span className="text-accent">.lat</span>
       </span>
     </span>
   );

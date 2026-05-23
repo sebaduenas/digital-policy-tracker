@@ -32,8 +32,8 @@ export function MobileTopbar({ onOpenSearch }: { onOpenSearch?: () => void }) {
       <div className="flex h-14 items-center px-4 gap-2">
         <Link href="/" className="flex items-center gap-2" onClick={() => setOpen(false)}>
           <Mark className="h-8 w-8" />
-          <span className="display-italic text-lg">
-            Policy<span className="text-accent">.lat</span>
+          <span className="display-italic text-base">
+            policytracker<span className="text-accent">.lat</span>
           </span>
         </Link>
         <button
