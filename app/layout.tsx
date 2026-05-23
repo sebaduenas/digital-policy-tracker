@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     "policy tracker",
     "América Latina",
   ],
-  authors: [{ name: "Sebastián Dueñas Müller" }],
+  authors: [{ name: "Policy Tracker LATAM" }],
   openGraph: {
     type: "website",
     locale: "es_CL",

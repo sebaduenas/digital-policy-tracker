@@ -222,15 +222,6 @@ export function CompareClient({ index, regulations }: Props) {
               )}
             />
             <Row
-              label="Confianza"
-              rows={selected}
-              render={(r) => (
-                <span className="uppercase text-xs font-medium">
-                  {r.confidenceLevel}
-                </span>
-              )}
-            />
-            <Row
               label="Ficha completa"
               rows={selected}
               render={(r) => (

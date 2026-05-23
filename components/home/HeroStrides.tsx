@@ -7,7 +7,7 @@ interface FloatingChip {
   country: CountryCode;
   title: string;
   meta: string;
-  pct: number;
+  year: number;
 }
 
 interface Props {
@@ -27,25 +27,23 @@ function buildChips(items: IndexedRegulation[]): FloatingChip[] {
             : r.status === "aprobado-pendiente-promulgacion"
               ? "Aprobado"
               : "Norma vigente";
-    const pct =
-      r.confidenceLevel === "alto" ? 95 : r.confidenceLevel === "medio" ? 80 : 65;
     return {
       country: r.country as CountryCode,
       title: r.shortTitle,
       meta,
-      pct,
+      year: r.year ?? 0,
     };
   });
 }
 
 export function HeroStrides({ totalRegs, topRegulations }: Props) {
   const chips = buildChips(topRegulations);
-  // Positions: (top, side, alignment)
+  // Positions in a grid that never touches the central headline column.
   const positions = [
-    { side: "left", top: "10%", offset: "lg:-translate-x-8" },
-    { side: "left", top: "60%", offset: "lg:-translate-x-12" },
-    { side: "right", top: "16%", offset: "lg:translate-x-8" },
-    { side: "right", top: "55%", offset: "lg:translate-x-12" },
+    { side: "left", top: "14%" },
+    { side: "left", top: "68%" },
+    { side: "right", top: "20%" },
+    { side: "right", top: "62%" },
   ] as const;
 
   return (
@@ -93,11 +91,11 @@ export function HeroStrides({ totalRegs, topRegulations }: Props) {
 
       <div className="relative container-app pt-16 pb-20 sm:pt-24 sm:pb-28">
         {/* Headline */}
-        <div className="text-center max-w-4xl mx-auto relative z-10">
-          <h1 className="display-tight text-white text-5xl sm:text-6xl lg:text-[5.5rem] leading-[0.95] text-balance">
+        <div className="text-center max-w-[640px] mx-auto relative z-10 px-2">
+          <h1 className="display-tight text-white text-4xl sm:text-5xl lg:text-[4.25rem] leading-[1] text-balance">
             Explora la regulación{" "}
-            <span className="block">tecnológica con</span>
-            <span className="block display-outline mt-2">curaduría académica</span>
+            <span className="block">tecnológica en</span>
+            <span className="block display-outline mt-1">Latinoamérica</span>
           </h1>
           <p className="mt-6 text-base sm:text-lg text-white/90 max-w-xl mx-auto">
             {totalRegs} normas, decretos y proyectos de ley sobre IA, datos
@@ -139,8 +137,8 @@ export function HeroStrides({ totalRegs, topRegulations }: Props) {
           </div>
         </div>
 
-        {/* Floating chips */}
-        <div className="hidden lg:block absolute inset-0 pointer-events-none">
+        {/* Floating chips — only render on xl+ where there's room outside the headline */}
+        <div className="hidden xl:block absolute inset-0 pointer-events-none">
           {chips.map((chip, i) => {
             const pos = positions[i];
             const cMeta = COUNTRIES[chip.country];
@@ -150,26 +148,26 @@ export function HeroStrides({ totalRegs, topRegulations }: Props) {
                 key={i}
                 href={slug ? `/regulaciones/${slug}` : "/regulaciones"}
                 className={`absolute pointer-events-auto ${
-                  pos.side === "left" ? "left-4 xl:left-12" : "right-4 xl:right-12"
-                } ${pos.offset}`}
+                  pos.side === "left" ? "left-0" : "right-0"
+                }`}
                 style={{ top: pos.top }}
               >
-                <div className="card-glass rounded-full pl-2 pr-3 py-1.5 flex items-center gap-2 hover:scale-[1.03] transition-transform w-[240px]">
-                  <span className="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-white text-base shadow-sm">
+                <div className="card-glass rounded-full pl-1.5 pr-3 py-1 flex items-center gap-2 hover:scale-[1.03] transition-transform w-[210px]">
+                  <span className="inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-white text-base shadow-sm">
                     {cMeta.flag}
                   </span>
                   <div className="min-w-0 flex-1">
-                    <p className="text-[0.7rem] font-semibold text-fg truncate leading-tight">
+                    <p className="text-[0.65rem] font-semibold text-fg truncate leading-tight">
                       {chip.title}
                     </p>
-                    <p className="text-[0.6rem] text-fg-muted truncate leading-tight">
+                    <p className="text-[0.58rem] text-fg-muted truncate leading-tight">
                       {chip.meta}
                     </p>
-                    <div className="mt-0.5 inline-flex items-center gap-1 rounded-sm bg-green-200/80 px-1 py-px text-[0.55rem] font-bold text-green-900">
-                      {chip.pct}% confianza · {cMeta.name}
+                    <div className="mt-0.5 inline-flex items-center gap-1 rounded-sm bg-accent-soft px-1 py-px text-[0.52rem] font-bold text-accent-deep">
+                      {cMeta.name}{chip.year ? ` · ${chip.year}` : ""}
                     </div>
                   </div>
-                  <ArrowUpRight className="h-3.5 w-3.5 text-fg-muted shrink-0" />
+                  <ArrowUpRight className="h-3 w-3 text-fg-muted shrink-0" />
                 </div>
               </Link>
             );

@@ -146,29 +146,7 @@ export function RegulationDetailSidebar({ reg }: { reg: Regulation }) {
         </Block>
       )}
 
-      <Block title="Curaduría">
-        <Row label="Editor">{reg.editor}</Row>
-        <Row label="Confianza">
-          <span
-            className="inline-flex items-center gap-1.5 px-1.5 py-0.5 rounded text-xs"
-            style={{
-              backgroundColor:
-                reg.confidenceLevel === "alto"
-                  ? "rgb(22 163 74 / 0.1)"
-                  : reg.confidenceLevel === "medio"
-                    ? "rgb(202 138 4 / 0.1)"
-                    : "rgb(220 38 38 / 0.1)",
-              color:
-                reg.confidenceLevel === "alto"
-                  ? "rgb(22 163 74)"
-                  : reg.confidenceLevel === "medio"
-                    ? "rgb(202 138 4)"
-                    : "rgb(220 38 38)",
-            }}
-          >
-            {reg.confidenceLevel.toUpperCase()}
-          </span>
-        </Row>
+      <Block title="Ficha">
         <Row label="Versión">{reg.version}</Row>
         <Row label="Actualizada">{formatDate(reg.lastUpdated)}</Row>
       </Block>

@@ -104,17 +104,9 @@ export function Topbar({ onOpenSearch, totalRegs, totalCountries }: Props) {
               )}
             </button>
 
-            <div className="hidden sm:flex items-center gap-2 ml-1 pl-3 pr-2 py-1 rounded-full bg-white/8 hover:bg-white/15 transition-colors">
-              <span className="inline-flex h-7 w-7 items-center justify-center rounded-full bg-accent text-accent-fg text-xs font-bold">
-                SD
-              </span>
-              <div className="text-xs leading-tight text-right">
-                <div className="font-semibold text-nav-fg">Sebastián Dueñas</div>
-                <div className="text-nav-fg-muted text-[0.65rem]">
-                  {totalRegs} normas · {totalCountries} países
-                </div>
-              </div>
-              <ChevronDown className="h-3.5 w-3.5 text-nav-fg-muted" />
+            <div className="hidden sm:flex items-center gap-2 ml-1 px-3 py-1.5 rounded-full bg-white/8 text-nav-fg-muted text-[0.7rem] tabular-nums">
+              <span className="h-1.5 w-1.5 rounded-full bg-accent" />
+              {totalRegs} normas · {totalCountries} países
             </div>
 
             <button

@@ -5,7 +5,7 @@ import { Github, Mail, ScrollText, ExternalLink } from "lucide-react";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Sobre el Digital Policy Tracker LATAM, su autor, propósito y forma de contribuir.",
+    "Sobre el Policy Tracker LATAM, su propósito y forma de contribuir.",
 };
 
 export default function AboutPage() {
@@ -23,13 +23,12 @@ export default function AboutPage() {
       <article className="prose-ficha max-w-none">
         <h2>Qué es</h2>
         <p>
-          El <strong>Digital Policy Tracker LATAM</strong> es una plataforma
-          pública, curada e independiente que mapea la regulación de nuevas
-          tecnologías en América Latina. Reúne en un solo lugar leyes,
-          decretos, reglamentos y proyectos en discusión vinculados a
-          inteligencia artificial, protección de datos, ciberseguridad,
-          plataformas digitales, fintech, soberanía digital y telecomunicaciones,
-          entre otras áreas.
+          <strong>Policy Tracker LATAM</strong> es una plataforma pública e
+          independiente que mapea la regulación de nuevas tecnologías en
+          América Latina. Reúne en un solo lugar leyes, decretos, reglamentos
+          y proyectos en discusión vinculados a inteligencia artificial,
+          protección de datos, ciberseguridad, plataformas digitales, fintech,
+          soberanía digital y telecomunicaciones, entre otras áreas.
         </p>
 
         <h2>Para quién</h2>
@@ -51,14 +50,6 @@ export default function AboutPage() {
             visualizaciones, citas y contexto.
           </li>
         </ul>
-
-        <h2>Quién está detrás</h2>
-        <p>
-          El proyecto es desarrollado y curado por{" "}
-          <strong>Sebastián Dueñas Müller</strong>, abogado y académico
-          chileno especializado en derecho digital y gobernanza tecnológica.
-          Cada ficha lleva firma identificable y nivel de confianza declarado.
-        </p>
 
         <h2>Por qué</h2>
         <p>
@@ -93,8 +84,8 @@ export default function AboutPage() {
 
         <h2>Cómo citar</h2>
         <blockquote>
-          Dueñas Müller, S. (2026). <em>Digital Policy Tracker LATAM</em>.
-          https://policytracker.lat
+          Policy Tracker LATAM (2026). <em>Mapa regulatorio de la tecnología en
+          Latinoamérica</em>. https://policytracker.lat
         </blockquote>
       </article>
 
@@ -107,14 +98,14 @@ export default function AboutPage() {
           Leer metodología
         </Link>
         <a
-          href="mailto:sebaduenas@gmail.com"
+          href="mailto:contacto@policytracker.lat"
           className="inline-flex items-center gap-2 rounded-md border border-border bg-bg-elevated px-4 py-2 text-sm font-medium hover:border-accent/60 transition-colors"
         >
           <Mail className="h-4 w-4" />
-          Contactar al editor
+          Contacto
         </a>
         <a
-          href="https://github.com/"
+          href="https://github.com/sebaduenas/digital-policy-tracker"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 rounded-md border border-border bg-bg-elevated px-4 py-2 text-sm font-medium hover:border-accent/60 transition-colors"

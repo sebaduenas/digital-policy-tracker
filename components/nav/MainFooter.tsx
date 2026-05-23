@@ -39,7 +39,7 @@ export function MainFooter() {
           </a>
           <a
             className="inline-flex items-center gap-1 hover:text-fg"
-            href="mailto:sebaduenas@gmail.com"
+            href="mailto:contacto@policytracker.lat"
           >
             <Mail className="h-3.5 w-3.5" /> Contacto
           </a>
@@ -47,7 +47,7 @@ export function MainFooter() {
       </div>
       <div className="border-t border-border">
         <div className="px-4 sm:px-8 lg:px-10 py-3 text-[0.65rem] text-fg-muted flex flex-wrap justify-between items-center gap-2">
-          <span>© {new Date().getFullYear()} Sebastián Dueñas Müller</span>
+          <span>© {new Date().getFullYear()} Policy Tracker LATAM</span>
           <span>No constituye asesoría legal. Verifica fuentes oficiales.</span>
         </div>
       </div>
