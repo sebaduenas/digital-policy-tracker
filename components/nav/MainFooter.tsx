@@ -1,7 +1,16 @@
+"use client";
+
 import Link from "next/link";
-import { Mail } from "lucide-react";
+import { Mail, Sun, Moon } from "lucide-react";
+import { useTheme } from "next-themes";
+import { useEffect, useState } from "react";
 
 export function MainFooter() {
+  const { theme, setTheme, resolvedTheme } = useTheme();
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => setMounted(true), []);
+  const current = resolvedTheme || theme;
+
   return (
     <footer className="mt-20 border-t border-border bg-bg-sunken/40">
       <div className="px-4 sm:px-8 lg:px-10 py-8 grid gap-6 md:grid-cols-3 text-sm">
@@ -28,13 +37,33 @@ export function MainFooter() {
             Tags
           </Link>
         </nav>
-        <div className="flex md:justify-end gap-3 items-start text-fg-muted text-xs md:col-span-1">
+        <div className="flex md:justify-end gap-3 items-center text-fg-muted text-xs md:col-span-1">
           <a
             className="inline-flex items-center gap-1 hover:text-fg"
             href="mailto:contacto@policytracker.lat"
           >
             <Mail className="h-3.5 w-3.5" /> Contacto
           </a>
+          <button
+            type="button"
+            onClick={() => setTheme(current === "dark" ? "light" : "dark")}
+            aria-label="Cambiar tema"
+            className="inline-flex items-center gap-1.5 px-2 py-1 rounded-md text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
+          >
+            {mounted ? (
+              current === "dark" ? (
+                <>
+                  <Sun className="h-3.5 w-3.5" /> Tema claro
+                </>
+              ) : (
+                <>
+                  <Moon className="h-3.5 w-3.5" /> Tema oscuro
+                </>
+              )
+            ) : (
+              <span className="h-3.5 w-3.5" />
+            )}
+          </button>
         </div>
       </div>
       <div className="border-t border-border">

@@ -3,8 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Menu, X, Search, Sun, Moon } from "lucide-react";
-import { useTheme } from "next-themes";
+import { Menu, X, Search } from "lucide-react";
 import { Mark } from "@/components/nav/Sidebar";
 import { cn } from "@/lib/utils";
 
@@ -24,8 +23,6 @@ const NAV = [
 export function MobileTopbar({ onOpenSearch }: { onOpenSearch?: () => void }) {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
-  const { theme, setTheme, resolvedTheme } = useTheme();
-  const current = resolvedTheme || theme;
 
   return (
     <header className="lg:hidden sticky top-0 z-30 bg-bg/90 backdrop-blur-md border-b border-border">
@@ -46,11 +43,11 @@ export function MobileTopbar({ onOpenSearch }: { onOpenSearch?: () => void }) {
         </button>
         <button
           type="button"
-          aria-label="Cambiar tema"
-          onClick={() => setTheme(current === "dark" ? "light" : "dark")}
-          className="inline-flex h-9 w-9 items-center justify-center rounded-md text-fg-muted hover:bg-bg-sunken hover:text-fg transition-colors"
+          aria-label="English (coming soon)"
+          title="English — coming soon"
+          className="inline-flex h-9 px-2 items-center justify-center rounded-md text-xs font-semibold text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
         >
-          {current === "dark" ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
+          EN
         </button>
         <button
           type="button"

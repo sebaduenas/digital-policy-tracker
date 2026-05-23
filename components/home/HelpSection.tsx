@@ -34,11 +34,11 @@ export function HelpSection() {
       <div className="container-app py-20">
         <div className="max-w-2xl mb-12">
           <h2 className="display-tight text-[2.5rem] sm:text-[3rem] leading-[1.05]">
-            Una plataforma.
-            <br />
+            Una plataforma para{" "}
             <span style={{ color: "rgb(var(--accent))" }}>
-              Toda la regulación.
+              toda la regulación
             </span>
+            .
           </h2>
           <p className="mt-4 text-lg text-fg-muted max-w-xl">
             Diseñada para investigadores, abogados, policy makers y periodistas

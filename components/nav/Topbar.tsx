@@ -2,9 +2,8 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Search, Menu, X, Sun, Moon } from "lucide-react";
-import { useTheme } from "next-themes";
-import { useEffect, useState } from "react";
+import { Search, Menu, X } from "lucide-react";
+import { useState } from "react";
 import { cn } from "@/lib/utils";
 
 const NAV = [
@@ -31,10 +30,6 @@ interface Props {
 export function Topbar({ onOpenSearch }: Props) {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
-  const { theme, setTheme, resolvedTheme } = useTheme();
-  const [mounted, setMounted] = useState(false);
-  useEffect(() => setMounted(true), []);
-  const current = resolvedTheme || theme;
 
   return (
     <header className="sticky top-0 z-40 bg-bg border-b border-border">
@@ -80,19 +75,11 @@ export function Topbar({ onOpenSearch }: Props) {
             </button>
             <button
               type="button"
-              onClick={() => setTheme(current === "dark" ? "light" : "dark")}
-              aria-label="Cambiar tema"
-              className="inline-flex h-9 w-9 items-center justify-center rounded-md text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
+              aria-label="English version (soon)"
+              title="English version — coming soon"
+              className="inline-flex h-9 px-2.5 items-center justify-center gap-1 rounded-md text-xs font-semibold text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
             >
-              {mounted ? (
-                current === "dark" ? (
-                  <Sun className="h-4 w-4" />
-                ) : (
-                  <Moon className="h-4 w-4" />
-                )
-              ) : (
-                <span className="h-4 w-4" />
-              )}
+              ES <span className="text-fg-muted/40">/</span> EN
             </button>
             <Link
               href="/regulaciones"
