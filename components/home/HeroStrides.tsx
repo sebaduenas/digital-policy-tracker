@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, Check } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import type { IndexedRegulation } from "@/lib/index-types";
 import { LatamAbstractMap } from "@/components/home/LatamAbstractMap";
 
@@ -7,12 +7,6 @@ interface Props {
   totalRegs: number;
   topRegulations: IndexedRegulation[];
 }
-
-const BULLETS = [
-  `Catálogo curado`,
-  `Filtros por país y materia`,
-  `Comparador lado a lado`,
-];
 
 export function HeroStrides({ totalRegs, topRegulations }: Props) {
   return (
@@ -30,22 +24,6 @@ export function HeroStrides({ totalRegs, topRegulations }: Props) {
               ciberseguridad, fintech, entre otros, en 12 jurisdicciones de
               América Latina.
             </p>
-            <ul className="mt-6 space-y-3">
-              {BULLETS.map((b) => (
-                <li key={b} className="flex items-center gap-2 text-sm">
-                  <span
-                    className="inline-flex h-5 w-5 items-center justify-center rounded-full"
-                    style={{
-                      background: "rgb(var(--accent-soft))",
-                      color: "rgb(var(--accent-deep))",
-                    }}
-                  >
-                    <Check className="h-3 w-3" strokeWidth={3} />
-                  </span>
-                  <span className="text-fg">{b}</span>
-                </li>
-              ))}
-            </ul>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link href="/regulaciones" className="btn-pill btn-primary">
                 Abrir catálogo
