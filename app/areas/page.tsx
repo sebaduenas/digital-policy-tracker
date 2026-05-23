@@ -4,7 +4,7 @@ import { getIndex } from "@/lib/index";
 import { AREAS, type Area } from "@/lib/taxonomy";
 
 export const metadata: Metadata = {
-  title: "Áreas temáticas",
+  title: "Materias",
   description:
     "Diez áreas temáticas curadas que organizan la regulación tecnológica del tracker.",
 };
@@ -22,7 +22,7 @@ export default async function AreasIndex() {
     <div className="container py-8">
       <header className="mb-8">
         <h1 className="font-display text-3xl sm:text-4xl font-semibold tracking-tight">
-          Áreas temáticas
+          Materias
         </h1>
         <p className="mt-2 text-fg-muted max-w-2xl">
           Diez áreas curadas que organizan la regulación. Cada ficha puede

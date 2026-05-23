@@ -155,7 +155,7 @@ export function CompareClient({ index, regulations }: Props) {
               render={(r) => NORM_TYPES[r.normType as keyof typeof NORM_TYPES]}
             />
             <Row
-              label="Áreas"
+              label="Materias"
               rows={selected}
               render={(r) => (
                 <div className="flex flex-wrap gap-1">

@@ -61,7 +61,7 @@ export default async function HomePage() {
       <section className="container-app py-16">
         <div className="flex items-baseline justify-between mb-6">
           <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">
-            Áreas temáticas
+            Materias
           </h2>
           <Link
             href="/areas"

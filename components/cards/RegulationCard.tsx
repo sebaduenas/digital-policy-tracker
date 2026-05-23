@@ -1,10 +1,14 @@
 import Link from "next/link";
 import type { IndexedRegulation } from "@/lib/index-types";
-import { AreaChip } from "@/components/ui/AreaChip";
-import { StatusBadge } from "@/components/ui/StatusBadge";
 import { CountryFlag } from "@/components/ui/CountryFlag";
-import { NORM_TYPES } from "@/lib/taxonomy";
+import { AREAS, NORM_TYPES, STATUSES } from "@/lib/taxonomy";
 import { ChevronRight, ExternalLink, NotebookPen } from "lucide-react";
+
+function areasLabel(r: IndexedRegulation, max = 3) {
+  const names = r.areas.slice(0, max).map((a) => AREAS[a].name);
+  const extra = r.areas.length - max;
+  return extra > 0 ? `${names.join(", ")} (+${extra})` : names.join(", ");
+}
 
 export function RegulationCard({ r }: { r: IndexedRegulation }) {
   return (
@@ -34,18 +38,19 @@ export function RegulationCard({ r }: { r: IndexedRegulation }) {
       </h3>
       <p className="text-xs text-fg-muted line-clamp-1 mb-3">{r.officialTitle}</p>
       <p className="text-sm text-fg-muted line-clamp-3 mb-4 flex-1">{r.summary}</p>
-      <div className="flex flex-wrap items-center gap-1.5 mt-auto">
-        <StatusBadge status={r.status} />
-        {r.areas.slice(0, 2).map((a) => (
-          <AreaChip key={a} area={a} link={false} short />
-        ))}
-        {r.areas.length > 2 && (
-          <span className="text-[0.65rem] text-fg-muted">+{r.areas.length - 2}</span>
-        )}
-        <span className="ml-auto inline-flex items-center text-xs text-fg-muted tabular-nums group-hover:text-accent transition-colors">
-          {r.year ?? "—"}
-          <ChevronRight className="ml-1 h-3.5 w-3.5" />
-        </span>
+      <dl className="mt-auto space-y-1 text-xs text-fg-muted">
+        <div className="flex gap-1.5">
+          <dt className="font-semibold text-fg shrink-0">Estado:</dt>
+          <dd className="truncate">{STATUSES[r.status].label}</dd>
+        </div>
+        <div className="flex gap-1.5">
+          <dt className="font-semibold text-fg shrink-0">Materia:</dt>
+          <dd className="truncate">{areasLabel(r, 2)}</dd>
+        </div>
+      </dl>
+      <div className="mt-3 flex items-center justify-end text-xs text-fg-muted tabular-nums group-hover:text-accent transition-colors">
+        {r.year ?? "—"}
+        <ChevronRight className="ml-1 h-3.5 w-3.5" />
       </div>
       {r.officialUrl && (
         <a
@@ -88,12 +93,13 @@ export function RegulationRow({ r }: { r: IndexedRegulation }) {
           )}
         </p>
         <p className="text-xs text-fg-muted truncate">{r.officialTitle}</p>
-        <div className="mt-1.5 flex flex-wrap items-center gap-1.5 relative z-10">
-          <StatusBadge status={r.status} />
-          {r.areas.slice(0, 3).map((a) => (
-            <AreaChip key={a} area={a} link={false} short />
-          ))}
-        </div>
+        <p className="mt-1 text-xs text-fg-muted truncate">
+          <span className="font-semibold text-fg">Estado:</span>{" "}
+          {STATUSES[r.status].label}
+          <span className="mx-2 text-fg-muted/40">·</span>
+          <span className="font-semibold text-fg">Materia:</span>{" "}
+          {areasLabel(r)}
+        </p>
       </div>
       <div className="text-right text-xs text-fg-muted shrink-0">
         <div className="tabular-nums">{r.year ?? "—"}</div>

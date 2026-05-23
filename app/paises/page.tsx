@@ -8,16 +8,20 @@ export const metadata: Metadata = {
   description: "Listado de jurisdicciones LATAM cubiertas por el tracker.",
 };
 
+const REGION_ORDER = [
+  "Sudamérica",
+  "Centroamérica y Norteamérica",
+  "Caribe",
+] as const;
+
 export default async function CountriesIndex() {
   const data = await getIndex();
-  const grouped = Object.entries(COUNTRIES)
-    .map(([code, c]) => {
-      const items = data.filter((d) => d.country === code);
-      return { code, ...c, count: items.length };
-    })
-    .sort((a, b) => b.count - a.count);
+  const all = Object.entries(COUNTRIES).map(([code, c]) => {
+    const items = data.filter((d) => d.country === code);
+    return { code, ...c, count: items.length };
+  });
 
-  const regions = Array.from(new Set(grouped.map((g) => g.region)));
+  const withFichas = all.filter((c) => c.count > 0);
 
   return (
     <div className="container py-8">
@@ -26,17 +30,22 @@ export default async function CountriesIndex() {
           Países
         </h1>
         <p className="mt-2 text-fg-muted max-w-2xl">
-          {grouped.filter((g) => g.count > 0).length} jurisdicciones con fichas
-          publicadas, organizadas por región.
+          {withFichas.length} de {all.length} jurisdicciones de América Latina
+          con fichas publicadas. Listado por región y orden alfabético.
         </p>
       </header>
 
       <div className="space-y-10">
-        {regions.map((region) => {
-          const inRegion = grouped.filter((g) => g.region === region);
+        {REGION_ORDER.map((region) => {
+          const inRegion = all
+            .filter((c) => c.region === region)
+            .sort((a, b) => a.name.localeCompare(b.name, "es"));
+          if (!inRegion.length) return null;
           return (
             <section key={region}>
-              <h2 className="font-display text-xl font-semibold mb-4">{region}</h2>
+              <h2 className="font-display text-xl font-semibold mb-4">
+                {region}
+              </h2>
               <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
                 {inRegion.map((c) => (
                   <Link

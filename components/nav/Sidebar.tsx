@@ -31,7 +31,7 @@ const PRIMARY: NavItem[] = [
   { href: "/", label: "Inicio", icon: LayoutGrid, match: "exact" },
   { href: "/regulaciones", label: "Catálogo", icon: BookOpen, count: "all" },
   { href: "/paises", label: "Países", icon: MapPin, count: "countries" },
-  { href: "/areas", label: "Áreas", icon: Layers, count: "areas" },
+  { href: "/areas", label: "Materias", icon: Layers, count: "areas" },
   { href: "/comparar", label: "Comparar", icon: GitCompareArrows },
   { href: "/dashboard", label: "Dashboard", icon: PieChart },
   { href: "/tags", label: "Tags", icon: Hash },

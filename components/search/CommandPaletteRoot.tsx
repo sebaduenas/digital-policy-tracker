@@ -148,7 +148,7 @@ export function CommandPaletteRoot({ index, open, setOpen }: Props) {
                     ))}
                 </Command.Group>
                 <Command.Group
-                  heading="Áreas temáticas"
+                  heading="Materias"
                   className="text-[0.65rem] uppercase tracking-wider text-fg-muted px-2 py-1.5 mt-1"
                 >
                   {Object.entries(AREAS).map(([slug, a]) => (
