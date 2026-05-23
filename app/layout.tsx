@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     locale: "es_CL",
     title: "Digital Policy Tracker LATAM",
     description:
-      "Mapa curado de la regulación tecnológica en América Latina. Curaduría académica, datos abiertos, comparado.",
+      "Mapa de la regulación tecnológica en América Latina.",
     siteName: "Digital Policy Tracker LATAM",
   },
   twitter: {
