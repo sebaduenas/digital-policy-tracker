@@ -33,9 +33,8 @@ export function HeroStrides({ totalRegs, topRegulations }: Props) {
               <span style={{ color: "rgb(var(--accent))" }}>LATAM</span>.
             </h1>
             <p className="mt-6 text-lg text-fg-muted leading-relaxed max-w-xl">
-              {totalRegs} normas, decretos y proyectos sobre IA, datos
-              personales, ciberseguridad, plataformas digitales y fintech en{" "}
-              {countriesCount > 0 ? countriesCount : 11} jurisdicciones de
+              Normas, decretos y proyectos sobre IA, datos personales,
+              ciberseguridad, fintech, entre otros, en 12 jurisdicciones de
               América Latina.
             </p>
             <ul className="mt-6 space-y-3">
