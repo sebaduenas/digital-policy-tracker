@@ -38,14 +38,14 @@
     --area-identidad-digital: 13 148 136;
     --area-menores-online: 219 39 119;
 
-    /* Estados */
-    --status-vigente: 22 163 74;
-    --status-vigencia-diferida: 217 119 6;
-    --status-proyecto-en-discusion: 14 165 233;
-    --status-aprobado-pendiente-promulgacion: 79 186 148;
-    --status-derogado: 115 115 115;
-    --status-veto-pendiente: 220 38 38;
-    --status-reglamento-pendiente: 234 88 12;
+    /* Estados — escala mint cohesiva con paleta */
+    --status-vigente: 79 186 148;                       /* mint base — dominante */
+    --status-proyecto-en-discusion: 175 232 205;        /* mint pale */
+    --status-aprobado-pendiente-promulgacion: 59 163 125; /* mint deep */
+    --status-reglamento-pendiente: 109 209 173;         /* mint brillante */
+    --status-vigencia-diferida: 221 181 139;            /* sand (cálido único) */
+    --status-veto-pendiente: 130 130 130;               /* gris medio */
+    --status-derogado: 80 80 80;                        /* gris oscuro */
 
     /* Tipografía: Inter solo (Banquee es display sans) */
     --font-display: 'Inter', system-ui, sans-serif;
