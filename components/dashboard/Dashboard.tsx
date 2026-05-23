@@ -139,32 +139,36 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
                 .filter((a) => a.size > 0)
                 .sort((a, b) => b.size - a.size);
               const max = Math.max(1, ...sorted.map((a) => a.size));
-              return sorted.map((a) => (
-                <div
-                  key={a.slug}
-                  className="grid grid-cols-[8rem_1fr_2.5rem] items-center gap-3"
-                >
-                  <Link
-                    href={`/areas/${a.slug}`}
-                    className="text-xs text-fg-muted hover:text-fg truncate text-right tabular-nums"
-                    title={a.fullName}
+              return sorted.map((a) => {
+                const pct = (a.size / max) * 100;
+                return (
+                  <div
+                    key={a.slug}
+                    className="grid grid-cols-[minmax(0,11rem)_1fr_2.5rem] items-center gap-3"
                   >
-                    {a.fullName}
-                  </Link>
-                  <div className="relative h-5 rounded-md bg-bg-sunken overflow-hidden">
-                    <div
-                      className="absolute inset-y-0 left-0 rounded-md transition-all"
-                      style={{
-                        width: `${(a.size / max) * 100}%`,
-                        background: a.fill,
-                      }}
-                    />
+                    <Link
+                      href={`/areas/${a.slug}`}
+                      className="text-xs text-fg-muted hover:text-fg text-right leading-tight"
+                      title={a.fullName}
+                    >
+                      {a.fullName}
+                    </Link>
+                    <div className="relative h-5 rounded-md bg-bg-sunken overflow-hidden">
+                      <div
+                        className="absolute inset-y-0 left-0 rounded-md transition-all"
+                        style={{
+                          width: `${pct}%`,
+                          background: "rgb(var(--accent))",
+                          opacity: 0.4 + (pct / 100) * 0.6,
+                        }}
+                      />
+                    </div>
+                    <span className="text-xs font-semibold text-fg tabular-nums text-right">
+                      {a.size}
+                    </span>
                   </div>
-                  <span className="text-xs font-semibold text-fg tabular-nums text-right">
-                    {a.size}
-                  </span>
-                </div>
-              ));
+                );
+              });
             })()}
           </div>
         </Section>
@@ -259,15 +263,15 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
                           ·
                         </td>
                       );
-                    const color = areaColor(a);
+                    const intensity = Math.min(1, 0.25 + n * 0.18);
                     return (
                       <td key={a} className="p-1.5 text-center">
                         <Link
                           href={`/regulaciones?country=${c.code}&area=${a}`}
                           className="inline-flex items-center justify-center w-7 h-7 rounded font-medium hover:scale-110 transition-transform"
                           style={{
-                            background: `rgb(${color} / ${Math.min(0.85, 0.25 + n * 0.18)})`,
-                            color: "white",
+                            background: `rgb(var(--accent) / ${intensity})`,
+                            color: intensity > 0.55 ? "white" : "rgb(var(--accent-deep))",
                           }}
                         >
                           {n}
