@@ -110,30 +110,6 @@ export function HeroStrides({ totalRegs, topRegulations }: Props) {
               Abrir catálogo
               <ArrowRight className="h-4 w-4" />
             </Link>
-            <Link
-              href="/comparar"
-              className="btn-pill bg-white text-fg hover:bg-white/90 shadow-md"
-            >
-              <svg viewBox="0 0 24 24" className="h-4 w-4" fill="none">
-                <path
-                  d="M7 9l3 3 3-3M7 15l3-3 3 3"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                />
-                <rect
-                  x="3"
-                  y="4"
-                  width="18"
-                  height="16"
-                  rx="3"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                />
-              </svg>
-              Comparar normas
-            </Link>
           </div>
         </div>
 
