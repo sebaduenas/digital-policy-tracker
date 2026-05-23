@@ -28,5 +28,6 @@ export async function getIndex(): Promise<IndexedRegulation[]> {
     summary: r.summary,
     hasCriticalAnalysis: r.hasCriticalAnalysis ?? false,
     confidenceLevel: r.confidenceLevel ?? "medio",
+    officialUrl: r.officialUrl,
   }));
 }

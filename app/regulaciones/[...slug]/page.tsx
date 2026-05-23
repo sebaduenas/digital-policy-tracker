@@ -9,6 +9,7 @@ import { StatusBadge } from "@/components/ui/StatusBadge";
 import { CountryFlag } from "@/components/ui/CountryFlag";
 import { RegulationDetailSidebar } from "@/components/cards/RegulationDetailSidebar";
 import { CitationButtons } from "@/components/cards/CitationButtons";
+import { RelatedRegulations } from "@/components/cards/RelatedRegulations";
 import {
   AREAS,
   COUNTRIES,
@@ -37,13 +38,21 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       title: `${reg.shortTitle} · ${country?.name}`,
       description: reg.summary,
       type: "article",
+      images: [{ url: `/api/og/${reg.id}`, width: 1200, height: 630 }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${reg.shortTitle} · ${country?.name}`,
+      description: reg.summary,
+      images: [`/api/og/${reg.id}`],
     },
   };
 }
 
 export default async function RegulationDetail({ params }: PageProps) {
   const { slug } = await params;
-  const reg = await getRegulationBySlug(slug.join("/"));
+  const all = await loadRegulations();
+  const reg = all.find((r) => r.slug === slug.join("/"));
   if (!reg) notFound();
 
   const html = renderMarkdown(reg.body);
@@ -147,16 +156,19 @@ export default async function RegulationDetail({ params }: PageProps) {
                 </p>
                 <div className="flex flex-wrap gap-1.5">
                   {reg.tags.map((t) => (
-                    <span
+                    <Link
                       key={t}
-                      className="inline-flex items-center rounded-full bg-bg-elevated px-2 py-0.5 text-xs text-fg-muted border border-border"
+                      href={`/tags/${encodeURIComponent(t)}`}
+                      className="inline-flex items-center rounded-full bg-bg-elevated px-2 py-0.5 text-xs text-fg-muted border border-border hover:border-accent/60 hover:text-accent transition-colors"
                     >
                       #{t}
-                    </span>
+                    </Link>
                   ))}
                 </div>
               </div>
             )}
+
+            <RelatedRegulations current={reg} all={all} />
 
             <div className="mt-8">
               <CitationButtons reg={reg} />

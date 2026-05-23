@@ -44,6 +44,9 @@ export function Footer() {
           <Link className="hover:text-fg" href="/dashboard">
             Dashboard
           </Link>
+          <Link className="hover:text-fg" href="/tags">
+            Tags
+          </Link>
         </nav>
         <nav className="flex flex-col gap-1.5 text-fg-muted">
           <p className="text-xs uppercase tracking-wider text-fg font-medium mb-2">

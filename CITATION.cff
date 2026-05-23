@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Si usas este proyecto, por favor cítalo como sigue."
+title: "Digital Policy Tracker LATAM"
+abstract: >-
+  Mapa interactivo y curado de la regulación de nuevas tecnologías en América
+  Latina, con cobertura de inteligencia artificial, protección de datos
+  personales, ciberseguridad, plataformas digitales, fintech, soberanía
+  digital, telecomunicaciones e identidad digital.
+type: software
+authors:
+  - family-names: "Dueñas Müller"
+    given-names: "Sebastián"
+    email: "sebaduenas@gmail.com"
+keywords:
+  - "regulación tecnológica"
+  - "América Latina"
+  - "protección de datos"
+  - "inteligencia artificial"
+  - "ciberseguridad"
+  - "policy tracker"
+license: MIT
+version: "0.2.0"
+date-released: "2026-05-22"
+url: "https://policytracker.lat"
+repository-code: "https://github.com/sebaduenas/digital-policy-tracker"

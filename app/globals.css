@@ -139,3 +139,67 @@
     border-radius: 3px;
   }
 }
+
+@media print {
+  :root {
+    --bg: 255 255 255;
+    --bg-elevated: 255 255 255;
+    --fg: 0 0 0;
+    --fg-muted: 60 60 60;
+    --border: 200 200 200;
+    --accent: 30 64 175;
+  }
+
+  header,
+  footer,
+  nav.print-hide,
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 11pt;
+  }
+
+  a {
+    color: rgb(30 64 175) !important;
+    text-decoration: none !important;
+  }
+
+  a[href^="http"]:after {
+    content: " (" attr(href) ")";
+    font-size: 9pt;
+    color: #555;
+    word-break: break-all;
+  }
+
+  .container {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+
+  article {
+    page-break-inside: avoid;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  .prose-ficha h2 {
+    margin-top: 1.25rem;
+  }
+
+  /* Sidebar inline, not sticky */
+  aside {
+    display: block !important;
+    position: static !important;
+  }
+
+  /* Grid one column for printing */
+  .grid {
+    display: block !important;
+  }
+}

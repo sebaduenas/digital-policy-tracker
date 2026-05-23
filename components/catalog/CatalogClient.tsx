@@ -35,10 +35,10 @@ import {
   Search,
   Sparkles,
   X,
-  ArrowDownAZ,
-  Calendar,
+  Download,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { toCSV } from "@/lib/csv";
 
 type View = "list" | "grid";
 type Sort = "year-desc" | "year-asc" | "title-asc";
@@ -96,6 +96,19 @@ export function CatalogClient({ data }: { data: IndexedRegulation[] }) {
   };
 
   const reset = () => setFilters(EMPTY_FILTERS);
+
+  const exportCsv = () => {
+    const csv = toCSV(filtered);
+    const blob = new Blob(["﻿" + csv], { type: "text/csv;charset=utf-8;" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `policy-tracker-latam-${new Date().toISOString().slice(0, 10)}.csv`;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(url);
+  };
 
   return (
     <div className="space-y-6">
@@ -218,10 +231,17 @@ export function CatalogClient({ data }: { data: IndexedRegulation[] }) {
         </div>
       </div>
 
-      <div className="text-sm text-fg-muted">
-        <strong className="text-fg font-medium">{filtered.length}</strong>{" "}
-        {filtered.length === 1 ? "regulación" : "regulaciones"}
-        {count > 0 ? ` (filtrado de ${data.length})` : ""}
+      <div className="flex items-center justify-between text-sm text-fg-muted">
+        <span>
+          <strong className="text-fg font-medium">{filtered.length}</strong>{" "}
+          {filtered.length === 1 ? "regulación" : "regulaciones"}
+          {count > 0 ? ` (filtrado de ${data.length})` : ""}
+        </span>
+        {filtered.length > 0 && (
+          <Button variant="ghost" size="sm" onClick={exportCsv}>
+            <Download className="h-3.5 w-3.5" /> Exportar CSV
+          </Button>
+        )}
       </div>
 
       {filtered.length === 0 ? (

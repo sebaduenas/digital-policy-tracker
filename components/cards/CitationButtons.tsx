@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import { Button } from "@/components/ui/Button";
-import { Copy, Check, Download, Share2 } from "lucide-react";
+import { Copy, Check, Download, Share2, Printer } from "lucide-react";
 import type { Regulation } from "@/lib/schemas/regulation";
 import { toAPA, toBibTeX, toRIS } from "@/lib/citations";
 
@@ -94,6 +94,10 @@ export function CitationButtons({ reg }: { reg: Regulation }) {
             <Share2 className="h-3.5 w-3.5" />
           )}
           {copied === "link" ? "Enlace copiado" : "Compartir"}
+        </Button>
+        <Button variant="ghost" size="sm" onClick={() => window.print()}>
+          <Printer className="h-3.5 w-3.5" />
+          Imprimir / PDF
         </Button>
       </div>
       <p className="mt-3 text-xs text-fg-muted leading-relaxed">
