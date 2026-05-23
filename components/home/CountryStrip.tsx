@@ -17,11 +17,9 @@ export function CountryStrip({ data }: { data: IndexedRegulation[] }) {
       <div className="container-app py-12 sm:py-16">
         <div className="grid lg:grid-cols-[1fr_1.5fr] gap-10 items-center">
           <div>
-            <p className="eyebrow mb-3">Cobertura regional</p>
             <h2 className="display-tight text-[2rem] sm:text-[2.5rem] leading-[1.1]">
-              {top.length} jurisdicciones,
-              <br />
-              <span style={{ color: "rgb(var(--accent))" }}>una sola vista</span>.
+              20 jurisdicciones{" "}
+              <span style={{ color: "rgb(var(--accent))" }}>en una sola vista</span>.
             </h2>
             <p className="mt-3 text-fg-muted max-w-md">
               Desde el Río Grande hasta Tierra del Fuego, con foco en jurisdicciones
