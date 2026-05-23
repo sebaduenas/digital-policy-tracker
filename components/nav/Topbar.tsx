@@ -5,21 +5,7 @@ import { usePathname } from "next/navigation";
 import { Search, Menu, X } from "lucide-react";
 import { useState } from "react";
 import { cn } from "@/lib/utils";
-
-const NAV = [
-  { href: "/regulaciones", label: "Catálogo" },
-  { href: "/paises", label: "Países" },
-  { href: "/areas", label: "Materias" },
-  { href: "/comparar", label: "Comparar" },
-  { href: "/dashboard", label: "Dashboard" },
-];
-
-const NAV_SECONDARY = [
-  { href: "/tags", label: "Tags" },
-  { href: "/metodologia", label: "Metodología" },
-  { href: "/glosario", label: "Glosario" },
-  { href: "/about", label: "About" },
-];
+import { useLocale } from "@/lib/i18n";
 
 interface Props {
   onOpenSearch?: () => void;
@@ -30,6 +16,22 @@ interface Props {
 export function Topbar({ onOpenSearch }: Props) {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
+  const { t, locale, setLocale } = useLocale();
+
+  const NAV = [
+    { href: "/regulaciones", label: t("nav.catalog") },
+    { href: "/paises", label: t("nav.countries") },
+    { href: "/areas", label: t("nav.areas") },
+    { href: "/comparar", label: t("nav.compare") },
+    { href: "/dashboard", label: t("nav.dashboard") },
+  ];
+
+  const NAV_SECONDARY = [
+    { href: "/tags", label: t("nav.tags") },
+    { href: "/metodologia", label: t("nav.methodology") },
+    { href: "/glosario", label: t("nav.glossary") },
+    { href: "/about", label: t("nav.about") },
+  ];
 
   return (
     <header className="sticky top-0 z-40 bg-bg border-b border-border">
@@ -39,7 +41,7 @@ export function Topbar({ onOpenSearch }: Props) {
             href="/"
             className="shrink-0 hover:opacity-90 transition-opacity"
             onClick={() => setOpen(false)}
-            aria-label="Inicio"
+            aria-label={t("nav.start")}
           >
             <Brand />
           </Link>
@@ -68,28 +70,31 @@ export function Topbar({ onOpenSearch }: Props) {
             <button
               type="button"
               onClick={onOpenSearch}
-              aria-label="Buscar (Cmd+K)"
+              aria-label={`${t("nav.search")} (Cmd+K)`}
               className="inline-flex h-9 w-9 items-center justify-center rounded-md text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
             >
               <Search className="h-4 w-4" />
             </button>
             <button
               type="button"
-              aria-label="English version (soon)"
-              title="English version — coming soon"
+              onClick={() => setLocale(locale === "es" ? "en" : "es")}
+              aria-label={t("locale.aria")}
+              title={t("locale.aria")}
               className="inline-flex h-9 px-2.5 items-center justify-center gap-1 rounded-md text-xs font-semibold text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
             >
-              ES <span className="text-fg-muted/40">/</span> EN
+              <span className={cn(locale === "es" ? "text-fg" : "")}>ES</span>
+              <span className="text-fg-muted/40">/</span>
+              <span className={cn(locale === "en" ? "text-fg" : "")}>EN</span>
             </button>
             <Link
               href="/regulaciones"
               className="hidden sm:inline-flex btn-pill btn-primary ml-1"
             >
-              Abrir catálogo
+              {t("nav.openCatalog")}
             </Link>
             <button
               type="button"
-              aria-label="Menú"
+              aria-label={t("nav.menu")}
               onClick={() => setOpen((o) => !o)}
               className="md:hidden inline-flex h-9 w-9 items-center justify-center rounded-md text-fg hover:bg-bg-sunken transition-colors"
             >

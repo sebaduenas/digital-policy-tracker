@@ -4,12 +4,14 @@ import Link from "next/link";
 import { Mail, Sun, Moon } from "lucide-react";
 import { useTheme } from "next-themes";
 import { useEffect, useState } from "react";
+import { useLocale } from "@/lib/i18n";
 
 export function MainFooter() {
   const { theme, setTheme, resolvedTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
   useEffect(() => setMounted(true), []);
   const current = resolvedTheme || theme;
+  const { t, locale } = useLocale();
 
   return (
     <footer className="mt-20 border-t border-border bg-bg-sunken/40">
@@ -19,22 +21,26 @@ export function MainFooter() {
             Policy Tracker LATAM
           </p>
           <p className="mt-2 text-fg-muted leading-relaxed text-xs">
-            Mapa curado de la regulación de nuevas tecnologías en América
-            Latina. Contenido bajo licencia CC BY 4.0.
+            {t("footer.tagline")}
           </p>
+          {locale === "en" && (
+            <p className="mt-2 text-fg-muted/80 leading-relaxed text-[0.65rem] italic">
+              {t("footer.contentNotice")}
+            </p>
+          )}
         </div>
         <nav className="flex flex-wrap gap-x-6 gap-y-2 text-xs text-fg-muted md:col-span-1">
           <Link className="hover:text-fg" href="/metodologia">
-            Metodología
+            {t("nav.methodology")}
           </Link>
           <Link className="hover:text-fg" href="/glosario">
-            Glosario
+            {t("nav.glossary")}
           </Link>
           <Link className="hover:text-fg" href="/about">
-            About
+            {t("nav.about")}
           </Link>
           <Link className="hover:text-fg" href="/tags">
-            Tags
+            {t("nav.tags")}
           </Link>
         </nav>
         <div className="flex md:justify-end gap-3 items-center text-fg-muted text-xs md:col-span-1">
@@ -42,22 +48,24 @@ export function MainFooter() {
             className="inline-flex items-center gap-1 hover:text-fg"
             href="mailto:contacto@policytracker.lat"
           >
-            <Mail className="h-3.5 w-3.5" /> Contacto
+            <Mail className="h-3.5 w-3.5" /> {t("footer.contact")}
           </a>
           <button
             type="button"
             onClick={() => setTheme(current === "dark" ? "light" : "dark")}
-            aria-label="Cambiar tema"
+            aria-label={
+              current === "dark" ? t("footer.themeLight") : t("footer.themeDark")
+            }
             className="inline-flex items-center gap-1.5 px-2 py-1 rounded-md text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
           >
             {mounted ? (
               current === "dark" ? (
                 <>
-                  <Sun className="h-3.5 w-3.5" /> Tema claro
+                  <Sun className="h-3.5 w-3.5" /> {t("footer.themeLight")}
                 </>
               ) : (
                 <>
-                  <Moon className="h-3.5 w-3.5" /> Tema oscuro
+                  <Moon className="h-3.5 w-3.5" /> {t("footer.themeDark")}
                 </>
               )
             ) : (
@@ -69,7 +77,7 @@ export function MainFooter() {
       <div className="border-t border-border">
         <div className="px-4 sm:px-8 lg:px-10 py-3 text-[0.65rem] text-fg-muted flex flex-wrap justify-between items-center gap-2">
           <span>© {new Date().getFullYear()} Policy Tracker LATAM</span>
-          <span>No constituye asesoría legal. Verifica fuentes oficiales.</span>
+          <span>{t("footer.disclaimer")}</span>
         </div>
       </div>
     </footer>

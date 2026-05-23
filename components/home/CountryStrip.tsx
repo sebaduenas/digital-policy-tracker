@@ -1,8 +1,12 @@
+"use client";
+
 import Link from "next/link";
 import { COUNTRIES, type CountryCode } from "@/lib/taxonomy";
 import type { IndexedRegulation } from "@/lib/index-types";
+import { useLocale } from "@/lib/i18n";
 
 export function CountryStrip({ data }: { data: IndexedRegulation[] }) {
+  const { t } = useLocale();
   const top = (Object.keys(COUNTRIES) as CountryCode[])
     .map((c) => ({
       code: c,
@@ -18,12 +22,14 @@ export function CountryStrip({ data }: { data: IndexedRegulation[] }) {
         <div className="grid lg:grid-cols-[1fr_1.5fr] gap-10 items-center">
           <div>
             <h2 className="display-tight text-[2rem] sm:text-[2.5rem] leading-[1.1]">
-              20 jurisdicciones{" "}
-              <span style={{ color: "rgb(var(--accent))" }}>en una sola vista</span>.
+              {t("country.title.before")}{" "}
+              <span style={{ color: "rgb(var(--accent))" }}>
+                {t("country.title.accent")}
+              </span>
+              {t("country.title.suffix")}
             </h2>
             <p className="mt-3 text-fg-muted max-w-md">
-              Desde el Río Grande hasta Tierra del Fuego, con foco en jurisdicciones
-              de mayor producción normativa tecnológica.
+              {t("country.subtitle")}
             </p>
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">

@@ -1,53 +1,56 @@
+"use client";
+
 import Link from "next/link";
 import { Search, GitCompareArrows, Map, Layers } from "lucide-react";
-
-const FEATURES = [
-  {
-    href: "/regulaciones",
-    title: "Catálogo filtrable",
-    desc: "Filtra por país, área, estado, tipo normativo y búsqueda fuzzy.",
-    icon: Search,
-  },
-  {
-    href: "/comparar",
-    title: "Comparador lado a lado",
-    desc: "Selecciona hasta 4 normas y visualízalas en columnas alineadas.",
-    icon: GitCompareArrows,
-  },
-  {
-    href: "/paises",
-    title: "Vista por jurisdicción",
-    desc: "Cada país con sus normas, autoridades de aplicación y fuentes oficiales.",
-    icon: Map,
-  },
-  {
-    href: "/areas",
-    title: "10 materias curadas",
-    desc: "IA, datos personales, ciberseguridad, plataformas, fintech y más.",
-    icon: Layers,
-  },
-];
+import { useLocale } from "@/lib/i18n";
 
 export function HelpSection() {
+  const { t } = useLocale();
+  const features = [
+    {
+      href: "/regulaciones",
+      title: t("help.cards.catalog.title"),
+      desc: t("help.cards.catalog.desc"),
+      icon: Search,
+    },
+    {
+      href: "/comparar",
+      title: t("help.cards.compare.title"),
+      desc: t("help.cards.compare.desc"),
+      icon: GitCompareArrows,
+    },
+    {
+      href: "/paises",
+      title: t("help.cards.country.title"),
+      desc: t("help.cards.country.desc"),
+      icon: Map,
+    },
+    {
+      href: "/areas",
+      title: t("help.cards.areas.title"),
+      desc: t("help.cards.areas.desc"),
+      icon: Layers,
+    },
+  ];
+
   return (
     <section className="border-b border-border">
       <div className="container-app py-20">
         <div className="max-w-2xl mb-12">
           <h2 className="display-tight text-[2.5rem] sm:text-[3rem] leading-[1.05]">
-            Una plataforma para{" "}
+            {t("help.title.before")}{" "}
             <span style={{ color: "rgb(var(--accent))" }}>
-              toda la regulación
+              {t("help.title.accent")}
             </span>
-            .
+            {t("help.title.suffix")}
           </h2>
           <p className="mt-4 text-lg text-fg-muted max-w-xl">
-            Diseñada para investigadores, abogados, policy makers y periodistas
-            que necesitan referencias verificables y comparadas.
+            {t("help.subtitle")}
           </p>
         </div>
 
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {FEATURES.map((f) => {
+          {features.map((f) => {
             const Icon = f.icon;
             return (
               <Link

@@ -6,23 +6,25 @@ import { usePathname } from "next/navigation";
 import { Menu, X, Search } from "lucide-react";
 import { Mark } from "@/components/nav/Sidebar";
 import { cn } from "@/lib/utils";
-
-const NAV = [
-  { href: "/", label: "Inicio" },
-  { href: "/regulaciones", label: "Catálogo" },
-  { href: "/paises", label: "Países" },
-  { href: "/areas", label: "Materias" },
-  { href: "/comparar", label: "Comparar" },
-  { href: "/dashboard", label: "Dashboard" },
-  { href: "/tags", label: "Tags" },
-  { href: "/metodologia", label: "Metodología" },
-  { href: "/glosario", label: "Glosario" },
-  { href: "/about", label: "About" },
-];
+import { useLocale } from "@/lib/i18n";
 
 export function MobileTopbar({ onOpenSearch }: { onOpenSearch?: () => void }) {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
+  const { t, locale, setLocale } = useLocale();
+
+  const NAV = [
+    { href: "/", label: t("nav.start") },
+    { href: "/regulaciones", label: t("nav.catalog") },
+    { href: "/paises", label: t("nav.countries") },
+    { href: "/areas", label: t("nav.areas") },
+    { href: "/comparar", label: t("nav.compare") },
+    { href: "/dashboard", label: t("nav.dashboard") },
+    { href: "/tags", label: t("nav.tags") },
+    { href: "/metodologia", label: t("nav.methodology") },
+    { href: "/glosario", label: t("nav.glossary") },
+    { href: "/about", label: t("nav.about") },
+  ];
 
   return (
     <header className="lg:hidden sticky top-0 z-30 bg-bg/90 backdrop-blur-md border-b border-border">
@@ -35,7 +37,7 @@ export function MobileTopbar({ onOpenSearch }: { onOpenSearch?: () => void }) {
         </Link>
         <button
           type="button"
-          aria-label="Buscar"
+          aria-label={t("nav.search")}
           onClick={onOpenSearch}
           className="ml-auto inline-flex h-9 w-9 items-center justify-center rounded-md text-fg-muted hover:bg-bg-sunken hover:text-fg transition-colors"
         >
@@ -43,15 +45,15 @@ export function MobileTopbar({ onOpenSearch }: { onOpenSearch?: () => void }) {
         </button>
         <button
           type="button"
-          aria-label="English (coming soon)"
-          title="English — coming soon"
+          onClick={() => setLocale(locale === "es" ? "en" : "es")}
+          aria-label={t("locale.aria")}
           className="inline-flex h-9 px-2 items-center justify-center rounded-md text-xs font-semibold text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
         >
-          EN
+          {locale === "es" ? "EN" : "ES"}
         </button>
         <button
           type="button"
-          aria-label="Menú"
+          aria-label={t("nav.menu")}
           onClick={() => setOpen((o) => !o)}
           className="inline-flex h-9 w-9 items-center justify-center rounded-md text-fg hover:bg-bg-sunken transition-colors"
         >
