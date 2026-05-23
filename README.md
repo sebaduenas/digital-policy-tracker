@@ -63,7 +63,7 @@ Crea `content/regulations/{cc}/{slug}.mdx` con frontmatter que valide contra
 
 ## Cita
 
-> Policy Tracker LATAM (2026). _Mapa regulatorio de la tecnología en Latinoamérica_. https://policytracker.lat
+> Policy Tracker LATAM (2024). _Mapa regulatorio de la tecnología en Latinoamérica_. https://policytracker.lat
 
 ## Licencias
 
