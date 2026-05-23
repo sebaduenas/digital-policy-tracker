@@ -20,9 +20,8 @@ export function HeroStrides({ totalRegs, topRegulations }: Props) {
               <span style={{ color: "rgb(var(--accent))" }}>LATAM</span>.
             </h1>
             <p className="mt-6 text-lg text-fg-muted leading-relaxed max-w-xl">
-              Normas, decretos y proyectos sobre IA, datos personales,
-              ciberseguridad, fintech, entre otros, en 12 jurisdicciones de
-              América Latina.
+              Normas, decretos y proyectos de ley sobre IA, datos personales,
+              ciberseguridad, fintech, entre otros, en América Latina.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link href="/regulaciones" className="btn-pill btn-primary">
