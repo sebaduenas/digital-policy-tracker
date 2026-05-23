@@ -49,7 +49,7 @@ const ES: Dict = {
   "help.cards.catalog.title": "Catálogo filtrable",
   "help.cards.catalog.desc":
     "Filtra por país, área, estado, tipo normativo y búsqueda fuzzy.",
-  "help.cards.compare.title": "Comparador lado a lado",
+  "help.cards.compare.title": "Comparador de normas",
   "help.cards.compare.desc":
     "Selecciona hasta 4 normas y visualízalas en columnas alineadas.",
   "help.cards.country.title": "Vista por jurisdicción",
@@ -119,7 +119,7 @@ const EN: Dict = {
   "help.cards.catalog.title": "Filterable catalog",
   "help.cards.catalog.desc":
     "Filter by country, topic, status, type and fuzzy search.",
-  "help.cards.compare.title": "Side-by-side comparator",
+  "help.cards.compare.title": "Regulation comparator",
   "help.cards.compare.desc":
     "Select up to 4 regulations and view them in aligned columns.",
   "help.cards.country.title": "View by jurisdiction",
