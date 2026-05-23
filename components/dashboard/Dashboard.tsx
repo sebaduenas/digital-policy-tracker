@@ -10,7 +10,6 @@ import {
   Tooltip,
   CartesianGrid,
   Legend,
-  Treemap,
   LineChart,
   Line,
 } from "recharts";
@@ -132,18 +131,41 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
       <div className="grid gap-6 lg:grid-cols-2">
         <Section
           title="Distribución por área"
-          subtitle="Tamaño proporcional al número de fichas"
+          subtitle="Fichas por materia, ordenadas de mayor a menor"
         >
-          <div className="h-72">
-            <ResponsiveContainer>
-              <Treemap
-                data={byArea.filter((a) => a.size > 0)}
-                dataKey="size"
-                nameKey="name"
-                stroke="rgb(var(--bg))"
-                content={<TreemapCell />}
-              />
-            </ResponsiveContainer>
+          <div className="space-y-2.5">
+            {(() => {
+              const sorted = [...byArea]
+                .filter((a) => a.size > 0)
+                .sort((a, b) => b.size - a.size);
+              const max = Math.max(1, ...sorted.map((a) => a.size));
+              return sorted.map((a) => (
+                <div
+                  key={a.slug}
+                  className="grid grid-cols-[8rem_1fr_2.5rem] items-center gap-3"
+                >
+                  <Link
+                    href={`/areas/${a.slug}`}
+                    className="text-xs text-fg-muted hover:text-fg truncate text-right tabular-nums"
+                    title={a.fullName}
+                  >
+                    {a.fullName}
+                  </Link>
+                  <div className="relative h-5 rounded-md bg-bg-sunken overflow-hidden">
+                    <div
+                      className="absolute inset-y-0 left-0 rounded-md transition-all"
+                      style={{
+                        width: `${(a.size / max) * 100}%`,
+                        background: a.fill,
+                      }}
+                    />
+                  </div>
+                  <span className="text-xs font-semibold text-fg tabular-nums text-right">
+                    {a.size}
+                  </span>
+                </div>
+              ));
+            })()}
           </div>
         </Section>
 
@@ -344,36 +366,6 @@ function Section({
   );
 }
 
-function TreemapCell(props: any) {
-  const { x, y, width, height, fill, name, size } = props;
-  if (width < 20 || height < 20) {
-    return <rect x={x} y={y} width={width} height={height} fill={fill} />;
-  }
-  return (
-    <g>
-      <rect x={x} y={y} width={width} height={height} fill={fill} />
-      <text
-        x={x + 6}
-        y={y + 16}
-        fill="white"
-        fontSize={11}
-        fontWeight={600}
-        style={{ pointerEvents: "none" }}
-      >
-        {name}
-      </text>
-      <text
-        x={x + 6}
-        y={y + 30}
-        fill="rgba(255,255,255,0.7)"
-        fontSize={10}
-        style={{ pointerEvents: "none" }}
-      >
-        {size} {size === 1 ? "ficha" : "fichas"}
-      </text>
-    </g>
-  );
-}
 
 function ChartTooltip({ active, payload, label }: any) {
   if (!active || !payload?.length) return null;
