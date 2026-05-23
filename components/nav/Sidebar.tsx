@@ -8,12 +8,12 @@ import {
   MapPin,
   GitCompareArrows,
   PieChart,
-  ScrollText,
   BookOpen,
   Hash,
   Search,
   Sun,
   Moon,
+  Package,
 } from "lucide-react";
 import { useTheme } from "next-themes";
 import { useEffect, useState } from "react";
@@ -70,15 +70,15 @@ export function Sidebar({
 
   return (
     <aside className="sidebar">
-      <div className="px-5 pt-6 pb-4">
+      <div className="px-5 pt-6 pb-5">
         <Link href="/" className="flex items-center gap-2.5 group">
           <Mark />
-          <div className="leading-tight">
-            <div className="font-display text-[15px] font-medium tracking-tight">
-              Policy Tracker
+          <div className="leading-none">
+            <div className="display-italic text-[18px] text-fg">
+              Policy<span className="text-accent">.lat</span>
             </div>
-            <div className="text-[10px] uppercase tracking-[0.18em] text-accent font-medium">
-              LATAM
+            <div className="text-[9px] uppercase tracking-[0.22em] text-fg-muted font-semibold mt-1">
+              LATAM tracker
             </div>
           </div>
         </Link>
@@ -87,10 +87,10 @@ export function Sidebar({
       <button
         type="button"
         onClick={onOpenSearch}
-        className="mx-3 mb-4 flex items-center gap-2 rounded-lg border border-border bg-bg-sunken px-3 py-2 text-xs text-fg-muted hover:bg-bg hover:border-border-strong transition-colors"
+        className="mx-3 mb-4 flex items-center gap-2 rounded-full border border-border bg-bg-sunken px-3 py-2 text-xs text-fg-muted hover:bg-bg hover:border-border-strong transition-colors"
       >
         <Search className="h-3.5 w-3.5" />
-        <span className="flex-1 text-left">Buscar…</span>
+        <span className="flex-1 text-left">Buscar normas…</span>
         <kbd className="inline-flex h-4 items-center rounded border border-border bg-bg-elevated px-1 font-mono text-[0.55rem]">
           ⌘K
         </kbd>
@@ -109,16 +109,16 @@ export function Sidebar({
                 <Link
                   href={item.href}
                   className={cn(
-                    "group flex items-center gap-3 rounded-lg px-3 py-2 text-sm transition-colors",
+                    "group flex items-center gap-3 rounded-full px-3 py-2 text-sm transition-colors",
                     active
-                      ? "bg-accent-soft text-accent font-medium"
+                      ? "bg-accent text-accent-fg font-semibold"
                       : "text-fg-muted hover:bg-bg-sunken hover:text-fg",
                   )}
                 >
                   <Icon
                     className={cn(
                       "h-4 w-4",
-                      active ? "text-accent" : "text-fg-muted/70",
+                      active ? "text-accent-fg" : "text-fg-muted/70",
                     )}
                   />
                   <span className="flex-1">{item.label}</span>
@@ -126,7 +126,7 @@ export function Sidebar({
                     <span
                       className={cn(
                         "text-[0.65rem] tabular-nums",
-                        active ? "text-accent/70" : "text-fg-muted/50",
+                        active ? "text-accent-fg/85" : "text-fg-muted/50",
                       )}
                     >
                       {counts[item.count]}
@@ -148,9 +148,9 @@ export function Sidebar({
                   <Link
                     href={item.href}
                     className={cn(
-                      "block rounded-lg px-3 py-1.5 text-xs transition-colors",
+                      "block rounded-full px-3 py-1.5 text-xs transition-colors",
                       active
-                        ? "text-accent font-medium"
+                        ? "text-accent font-semibold"
                         : "text-fg-muted hover:text-fg",
                     )}
                   >
@@ -171,7 +171,7 @@ export function Sidebar({
           type="button"
           onClick={() => setTheme(current === "dark" ? "light" : "dark")}
           aria-label="Cambiar tema"
-          className="inline-flex h-7 w-7 items-center justify-center rounded-md text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
+          className="inline-flex h-7 w-7 items-center justify-center rounded-full text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
         >
           {mounted ? (
             current === "dark" ? (
@@ -190,32 +190,15 @@ export function Sidebar({
 
 export function Mark({ className }: { className?: string }) {
   return (
-    <svg
-      width="30"
-      height="30"
-      viewBox="0 0 36 36"
-      fill="none"
+    <span
+      className={cn(
+        "relative inline-flex h-9 w-9 items-center justify-center rounded-full bg-accent text-accent-fg shrink-0",
+        className,
+      )}
       aria-hidden
-      className={cn("text-accent shrink-0", className)}
     >
-      <rect
-        x="2"
-        y="2"
-        width="32"
-        height="32"
-        rx="9"
-        fill="currentColor"
-        opacity="0.12"
-      />
-      <path
-        d="M9 14 L9 27 M9 14 L17 9 L25 14 L25 27 L17 22 L9 27"
-        stroke="currentColor"
-        strokeWidth="1.6"
-        strokeLinejoin="round"
-        strokeLinecap="round"
-        fill="none"
-      />
-      <circle cx="17" cy="14.5" r="2" fill="currentColor" />
-    </svg>
+      <Package className="h-4 w-4" strokeWidth={2.5} />
+      <span className="absolute -top-0.5 -right-0.5 h-2.5 w-2.5 rounded-full bg-accent ring-2 ring-bg-elevated" />
+    </span>
   );
 }

@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, Fraunces, JetBrains_Mono } from "next/font/google";
+import { Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme/ThemeProvider";
 import { AppShell } from "@/components/AppShell";
@@ -9,13 +9,8 @@ const inter = Inter({
   subsets: ["latin"],
   variable: "--font-sans",
   display: "swap",
-});
-
-const display = Fraunces({
-  subsets: ["latin"],
-  variable: "--font-display",
-  display: "swap",
-  axes: ["SOFT", "WONK", "opsz"],
+  weight: ["400", "500", "600", "700", "800", "900"],
+  style: ["normal", "italic"],
 });
 
 const mono = JetBrains_Mono({
@@ -60,8 +55,8 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#F7F2E9" },
-    { media: "(prefers-color-scheme: dark)", color: "#11100E" },
+    { media: "(prefers-color-scheme: light)", color: "#F4F7F8" },
+    { media: "(prefers-color-scheme: dark)", color: "#0A1A1F" },
   ],
 };
 
@@ -76,7 +71,7 @@ export default async function RootLayout({
     <html
       lang="es"
       suppressHydrationWarning
-      className={`${inter.variable} ${display.variable} ${mono.variable}`}
+      className={`${inter.variable} ${mono.variable}`}
     >
       <body>
         <ThemeProvider

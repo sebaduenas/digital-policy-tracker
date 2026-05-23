@@ -4,59 +4,61 @@
 
 @layer base {
   :root {
-    /* Background: cream paper */
-    --bg: 247 242 233;
-    --bg-elevated: 253 250 244;
-    --bg-sunken: 242 236 225;
+    /* Surfaces — light cool */
+    --bg: 244 247 248;
+    --bg-elevated: 255 255 255;
+    --bg-sunken: 233 238 240;
 
-    /* Foreground: carbón warm */
-    --fg: 28 27 24;
-    --fg-muted: 96 89 79;
-    --border: 220 211 196;
-    --border-strong: 200 189 170;
+    /* Foreground — deep teal-charcoal */
+    --fg: 18 50 58;
+    --fg-muted: 79 105 113;
+    --border: 218 226 229;
+    --border-strong: 197 209 213;
 
-    /* Accent: warm amber */
-    --accent: 217 99 13;
+    /* Accent — teal (Fast Deliver) */
+    --accent: 41 161 174;
     --accent-fg: 255 255 255;
-    --accent-soft: 254 232 209;
+    --accent-soft: 215 240 243;
+    --accent-deep: 25 105 113;
 
-    /* Áreas (cálidas, no neón) */
+    /* Áreas - colores saturados estilo iconos courier */
     --area-ia: 124 58 237;
-    --area-pdp: 30 64 175;
-    --area-ciberseguridad: 185 28 28;
-    --area-propiedad-intelectual: 194 65 12;
-    --area-plataformas: 14 116 144;
-    --area-fintech: 21 128 61;
-    --area-telecom: 161 98 7;
-    --area-soberania: 126 34 206;
-    --area-identidad-digital: 15 118 110;
-    --area-menores-online: 190 24 93;
+    --area-pdp: 41 161 174;
+    --area-ciberseguridad: 220 38 38;
+    --area-propiedad-intelectual: 234 88 12;
+    --area-plataformas: 8 145 178;
+    --area-fintech: 22 163 74;
+    --area-telecom: 217 119 6;
+    --area-soberania: 147 51 234;
+    --area-identidad-digital: 13 148 136;
+    --area-menores-online: 219 39 119;
 
     /* Estados */
-    --status-vigente: 21 128 61;
-    --status-vigencia-diferida: 161 98 7;
-    --status-proyecto-en-discusion: 30 64 175;
-    --status-aprobado-pendiente-promulgacion: 8 145 178;
+    --status-vigente: 22 163 74;
+    --status-vigencia-diferida: 217 119 6;
+    --status-proyecto-en-discusion: 41 161 174;
+    --status-aprobado-pendiente-promulgacion: 14 165 233;
     --status-derogado: 113 113 122;
-    --status-veto-pendiente: 185 28 28;
-    --status-reglamento-pendiente: 194 65 12;
+    --status-veto-pendiente: 220 38 38;
+    --status-reglamento-pendiente: 234 88 12;
 
-    --font-display: 'Fraunces', Georgia, serif;
+    --font-display: 'Inter', system-ui, sans-serif;
     --font-sans: 'Inter', system-ui, sans-serif;
     --font-mono: 'JetBrains Mono', monospace;
   }
 
   .dark {
-    --bg: 17 16 14;
-    --bg-elevated: 28 26 23;
-    --bg-sunken: 11 10 9;
-    --fg: 244 240 232;
-    --fg-muted: 168 160 146;
-    --border: 51 47 41;
-    --border-strong: 76 70 60;
-    --accent: 245 158 11;
-    --accent-fg: 17 16 14;
-    --accent-soft: 69 41 12;
+    --bg: 10 26 31;
+    --bg-elevated: 16 38 44;
+    --bg-sunken: 7 18 22;
+    --fg: 234 244 246;
+    --fg-muted: 148 175 182;
+    --border: 36 60 67;
+    --border-strong: 56 85 93;
+    --accent: 74 190 201;
+    --accent-fg: 10 26 31;
+    --accent-soft: 18 60 67;
+    --accent-deep: 175 230 235;
   }
 
   * {
@@ -76,7 +78,7 @@
   }
 
   ::selection {
-    background: rgb(var(--accent) / 0.22);
+    background: rgb(var(--accent) / 0.25);
     color: rgb(var(--fg));
   }
 
@@ -88,12 +90,11 @@
 
   h1, h2, h3, h4 {
     @apply font-display tracking-tight;
-    font-variation-settings: "SOFT" 50, "WONK" 1;
+    letter-spacing: -0.025em;
   }
 
   h1 {
-    font-variation-settings: "SOFT" 100, "WONK" 1, "opsz" 144;
-    letter-spacing: -0.025em;
+    letter-spacing: -0.035em;
   }
 }
 
@@ -107,12 +108,11 @@
   }
 
   .prose-ficha h2 {
-    @apply mt-10 mb-3 text-2xl font-semibold;
-    font-variation-settings: "SOFT" 60, "WONK" 1, "opsz" 36;
+    @apply mt-10 mb-3 text-2xl font-black tracking-tight;
   }
 
   .prose-ficha h3 {
-    @apply mt-7 mb-2 text-lg font-semibold;
+    @apply mt-7 mb-2 text-lg font-bold;
   }
 
   .prose-ficha p {
@@ -152,16 +152,25 @@
     @apply flex-1 min-w-0;
   }
 
-  /* Stat number */
+  /* Display tipo "Fast Deliver" — italic black */
+  .display-italic {
+    @apply font-display font-black italic;
+    letter-spacing: -0.04em;
+    line-height: 0.95;
+  }
+
   .stat-num {
-    @apply font-display font-medium leading-none;
-    font-variation-settings: "SOFT" 100, "WONK" 1, "opsz" 144;
+    @apply font-display font-black tabular-nums;
     letter-spacing: -0.04em;
   }
 
-  /* Section heading */
   .eyebrow {
-    @apply text-[0.65rem] uppercase tracking-[0.18em] text-fg-muted font-medium;
+    @apply text-[0.65rem] uppercase tracking-[0.18em] text-fg-muted font-semibold;
+  }
+
+  /* Pill rounded grande (Sign In style) */
+  .btn-pill {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition-all;
   }
 }
 
@@ -184,10 +193,12 @@
     border-radius: 3px;
   }
 
-  .bg-grain {
-    background-image:
-      radial-gradient(circle at 1px 1px, rgb(var(--fg) / 0.04) 1px, transparent 0);
-    background-size: 20px 20px;
+  .shadow-soft {
+    box-shadow: 0 1px 2px rgb(15 25 30 / 0.04), 0 4px 12px rgb(15 25 30 / 0.04);
+  }
+
+  .shadow-card {
+    box-shadow: 0 2px 4px rgb(15 25 30 / 0.04), 0 8px 24px -4px rgb(15 25 30 / 0.06);
   }
 }
 
@@ -198,7 +209,7 @@
     --fg: 0 0 0;
     --fg-muted: 60 60 60;
     --border: 200 200 200;
-    --accent: 217 99 13;
+    --accent: 25 105 113;
   }
 
   header, footer, .sidebar, .no-print {
@@ -212,7 +223,7 @@
   }
 
   a {
-    color: rgb(217 99 13) !important;
+    color: rgb(25 105 113) !important;
     text-decoration: none !important;
   }
 
