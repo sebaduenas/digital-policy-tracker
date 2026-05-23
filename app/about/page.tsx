@@ -23,10 +23,10 @@ export default function AboutPage() {
       <article className="prose-ficha max-w-none">
         <h2>Qué es</h2>
         <p>
-          <strong>Policy Tracker LATAM</strong> es una plataforma pública e
-          independiente que mapea la regulación de nuevas tecnologías en
-          América Latina. Reúne en un solo lugar leyes, decretos, reglamentos
-          y proyectos en discusión vinculados a inteligencia artificial,
+          El <strong>Digital Policy Tracker LATAM</strong> es una plataforma
+          pública que mapea la regulación de nuevas tecnologías en América
+          Latina. Reúne en un solo lugar leyes, decretos, reglamentos y
+          proyectos en discusión vinculados a inteligencia artificial,
           protección de datos, ciberseguridad, plataformas digitales, fintech,
           soberanía digital y telecomunicaciones, entre otras áreas.
         </p>
