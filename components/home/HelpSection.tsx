@@ -4,9 +4,8 @@ import {
   GitCompareArrows,
   Map,
   Quote,
-  Hash,
   PieChart,
-  ArrowUpRight,
+  Layers,
 } from "lucide-react";
 
 const FEATURES = [
@@ -38,7 +37,7 @@ const FEATURES = [
     href: "/areas",
     title: "10 áreas curadas",
     desc: "IA, datos personales, ciberseguridad, plataformas, fintech y más.",
-    icon: Hash,
+    icon: Layers,
   },
   {
     href: "/metodologia",
@@ -51,58 +50,49 @@ const FEATURES = [
 export function HelpSection() {
   return (
     <section className="border-b border-border">
-      <div className="container-app py-16">
-        <div className="mb-10">
-          <span className="eyebrow">Qué encuentras aquí</span>
-          <h2
-            className="display-tight text-2xl sm:text-3xl mt-2"
-            style={{ color: "rgb(var(--navy))" }}
-          >
-            Cómo te ayuda el tracker
+      <div className="container-app py-20">
+        <div className="max-w-2xl mb-12">
+          <h2 className="display-tight text-[2.5rem] sm:text-[3rem] leading-[1.05]">
+            Una plataforma.
+            <br />
+            <span style={{ color: "rgb(var(--accent))" }}>
+              Toda la regulación.
+            </span>
           </h2>
+          <p className="mt-4 text-lg text-fg-muted max-w-xl">
+            Diseñada para investigadores, abogados, policy makers y periodistas
+            que necesitan referencias verificables y comparadas.
+          </p>
         </div>
 
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 -mb-px">
-          {FEATURES.map((f, i) => {
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {FEATURES.map((f) => {
             const Icon = f.icon;
             return (
               <Link
                 key={f.href}
                 href={f.href}
-                className="group flex items-start gap-4 p-6 border-t border-l border-border hover:bg-bg-sunken transition-colors"
-                style={{
-                  borderRightWidth: (i + 1) % 3 === 0 ? 0 : 1,
-                  borderRightColor: "rgb(var(--border))",
-                }}
+                className="feature-card group hover:bg-bg-mint transition-colors"
               >
                 <span
-                  className="inline-flex h-10 w-10 shrink-0 items-center justify-center text-white"
+                  className="inline-flex h-10 w-10 items-center justify-center rounded-md mb-4"
                   style={{
-                    background: "rgb(var(--navy))",
-                    borderRadius: 2,
+                    background: "rgb(var(--accent-soft))",
+                    color: "rgb(var(--accent-deep))",
                   }}
                 >
-                  <Icon className="h-5 w-5" strokeWidth={1.8} />
+                  <Icon className="h-5 w-5" strokeWidth={2} />
                 </span>
-                <div className="flex-1 min-w-0">
-                  <div className="flex items-start justify-between gap-2">
-                    <h3
-                      className="font-medium text-base leading-snug"
-                      style={{ color: "rgb(var(--navy))" }}
-                    >
-                      {f.title}
-                    </h3>
-                    <ArrowUpRight className="h-4 w-4 text-fg-muted group-hover:text-fg shrink-0 transition-colors" />
-                  </div>
-                  <p className="mt-1.5 text-sm text-fg-muted leading-relaxed">
-                    {f.desc}
-                  </p>
-                </div>
+                <h3 className="text-base font-semibold mb-1.5 text-fg">
+                  {f.title}
+                </h3>
+                <p className="text-sm text-fg-muted leading-relaxed">
+                  {f.desc}
+                </p>
               </Link>
             );
           })}
         </div>
-        <div className="border-b border-r border-l border-border" />
       </div>
     </section>
   );

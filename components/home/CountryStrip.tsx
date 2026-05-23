@@ -13,40 +13,48 @@ export function CountryStrip({ data }: { data: IndexedRegulation[] }) {
     .sort((a, b) => b.count - a.count);
 
   return (
-    <div className="border-b border-border bg-bg-sunken">
-      <div className="container-app py-5">
-        <div className="flex items-center gap-4 mb-3">
-          <span className="eyebrow">Jurisdicciones cubiertas</span>
-          <span className="h-px flex-1 bg-border" />
-          <Link
-            href="/paises"
-            className="text-xs text-fg-muted hover:text-fg transition-colors"
-          >
-            Ver índice →
-          </Link>
-        </div>
-        <div className="grid grid-cols-3 sm:grid-cols-6 md:grid-cols-11 gap-2">
-          {top.map((c) => (
-            <Link
-              key={c.code}
-              href={`/paises/${c.code.toLowerCase()}`}
-              className="flex items-center gap-2 px-2 py-2 hover:bg-bg transition-colors"
-              style={{ borderRadius: 2 }}
-              title={`${c.name} · ${c.count} normas`}
-            >
-              <span className="text-xl" aria-hidden>
-                {c.flag}
-              </span>
-              <div className="hidden md:flex flex-col min-w-0">
-                <span className="text-xs font-medium truncate text-fg">
+    <div className="border-b border-border" style={{ background: "rgb(var(--bg-mint))" }}>
+      <div className="container-app py-12 sm:py-16">
+        <div className="grid lg:grid-cols-[1fr_1.5fr] gap-10 items-center">
+          <div>
+            <p className="eyebrow mb-3">Cobertura regional</p>
+            <h2 className="display-tight text-[2rem] sm:text-[2.5rem] leading-[1.1]">
+              {top.length} jurisdicciones,
+              <br />
+              <span style={{ color: "rgb(var(--accent))" }}>una sola vista</span>.
+            </h2>
+            <p className="mt-3 text-fg-muted max-w-md">
+              Desde el Río Grande hasta Tierra del Fuego, con foco en jurisdicciones
+              de mayor producción normativa tecnológica.
+            </p>
+          </div>
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
+            {top.map((c) => (
+              <Link
+                key={c.code}
+                href={`/paises/${c.code.toLowerCase()}`}
+                className="flex items-center gap-2.5 bg-bg/85 hover:bg-bg px-3 py-2.5 transition-colors"
+                style={{ borderRadius: 6 }}
+                title={`${c.name} · ${c.count} normas`}
+              >
+                <span className="text-lg" aria-hidden>
+                  {c.flag}
+                </span>
+                <span className="text-sm font-medium truncate flex-1 text-fg">
                   {c.name}
                 </span>
-                <span className="text-[0.65rem] text-fg-muted tabular-nums">
+                <span
+                  className="text-xs tabular-nums px-1.5 py-0.5 rounded font-semibold"
+                  style={{
+                    background: "rgb(var(--accent-soft))",
+                    color: "rgb(var(--accent-deep))",
+                  }}
+                >
                   {c.count}
                 </span>
-              </div>
-            </Link>
-          ))}
+              </Link>
+            ))}
+          </div>
         </div>
       </div>
     </div>

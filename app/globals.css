@@ -4,96 +4,91 @@
 
 @layer base {
   :root {
-    /* Surfaces — institucional gob */
+    /* Surfaces */
     --bg: 255 255 255;
     --bg-elevated: 255 255 255;
-    --bg-sunken: 248 249 250;
-    --bg-cream: 245 242 240;
+    --bg-sunken: 245 245 245;
+    --bg-mint: 229 241 235;
+    --bg-dark: 23 23 23;
 
-    /* Foreground — Bootstrap dark */
-    --fg: 33 37 41;
-    --fg-muted: 90 95 110;
-    --border: 222 226 230;
-    --border-strong: 200 206 215;
+    /* Foreground */
+    --fg: 23 23 23;
+    --fg-muted: 115 115 115;
+    --border: 229 229 229;
+    --border-strong: 212 212 212;
 
-    /* Accent — gold institucional */
-    --accent: 196 156 12;
+    /* Accent — mint teal */
+    --accent: 79 186 148;
     --accent-fg: 255 255 255;
-    --accent-soft: 251 240 200;
-    --accent-deep: 145 113 0;
+    --accent-soft: 229 241 235;
+    --accent-deep: 59 163 125;
 
-    /* Navy gob */
-    --navy: 10 19 45;
-    --navy-fg: 255 255 255;
-    --navy-muted: 165 175 200;
-
-    /* Flag */
-    --flag-red: 213 43 30;
-    --flag-blue: 0 51 153;
+    /* Sand (cards tertiarias) */
+    --sand: 221 181 139;
 
     /* Áreas */
     --area-ia: 124 58 237;
-    --area-pdp: 0 51 153;
-    --area-ciberseguridad: 185 28 28;
-    --area-propiedad-intelectual: 194 65 12;
-    --area-plataformas: 14 116 144;
-    --area-fintech: 21 128 61;
-    --area-telecom: 161 98 7;
-    --area-soberania: 126 34 206;
-    --area-identidad-digital: 15 118 110;
-    --area-menores-online: 190 24 93;
+    --area-pdp: 79 186 148;
+    --area-ciberseguridad: 220 38 38;
+    --area-propiedad-intelectual: 234 88 12;
+    --area-plataformas: 14 165 233;
+    --area-fintech: 22 163 74;
+    --area-telecom: 217 119 6;
+    --area-soberania: 147 51 234;
+    --area-identidad-digital: 13 148 136;
+    --area-menores-online: 219 39 119;
 
     /* Estados */
-    --status-vigente: 21 128 61;
-    --status-vigencia-diferida: 161 98 7;
-    --status-proyecto-en-discusion: 0 51 153;
-    --status-aprobado-pendiente-promulgacion: 14 165 233;
-    --status-derogado: 113 113 122;
-    --status-veto-pendiente: 185 28 28;
-    --status-reglamento-pendiente: 194 65 12;
+    --status-vigente: 22 163 74;
+    --status-vigencia-diferida: 217 119 6;
+    --status-proyecto-en-discusion: 14 165 233;
+    --status-aprobado-pendiente-promulgacion: 79 186 148;
+    --status-derogado: 115 115 115;
+    --status-veto-pendiente: 220 38 38;
+    --status-reglamento-pendiente: 234 88 12;
 
-    /* Tipografía gob.cl */
-    --font-display: 'Roboto Slab', Georgia, serif;
-    --font-sans: 'Roboto', system-ui, sans-serif;
+    /* Tipografía: Inter solo (Banquee es display sans) */
+    --font-display: 'Inter', system-ui, sans-serif;
+    --font-sans: 'Inter', system-ui, sans-serif;
     --font-mono: 'JetBrains Mono', monospace;
 
     /* Aliases legacy */
-    --nav-bg: 10 19 45;
+    --nav-bg: 23 23 23;
     --nav-fg: 255 255 255;
-    --nav-fg-muted: 165 175 200;
-    /* Hero Strides — lavender/periwinkle */
-    --hero-from: 168 174 234;
-    --hero-to: 192 195 240;
-    --hero-deep: 130 138 218;
+    --nav-fg-muted: 163 163 163;
+    --hero-from: 229 241 235;
+    --hero-to: 255 255 255;
+    --hero-deep: 79 186 148;
+    --navy: 23 23 23;
+    --navy-fg: 255 255 255;
+    --navy-muted: 163 163 163;
   }
 
   .dark {
-    --bg: 16 18 28;
-    --bg-elevated: 24 27 39;
-    --bg-sunken: 10 12 20;
-    --bg-cream: 32 36 50;
+    --bg: 15 16 17;
+    --bg-elevated: 23 23 23;
+    --bg-sunken: 10 10 10;
+    --bg-mint: 22 38 32;
+    --bg-dark: 0 0 0;
 
-    --fg: 234 236 246;
-    --fg-muted: 148 156 180;
-    --border: 42 48 70;
-    --border-strong: 60 68 95;
+    --fg: 245 245 245;
+    --fg-muted: 156 156 156;
+    --border: 40 40 40;
+    --border-strong: 60 60 60;
 
-    --accent: 234 179 8;
-    --accent-fg: 16 18 28;
-    --accent-soft: 50 42 18;
-    --accent-deep: 250 224 130;
-
-    --navy: 0 0 0;
-    --navy-fg: 234 236 246;
-    --navy-muted: 148 156 180;
+    --accent: 109 209 173;
+    --accent-fg: 15 16 17;
+    --accent-soft: 22 38 32;
+    --accent-deep: 156 232 200;
 
     --nav-bg: 0 0 0;
-    --nav-fg: 234 236 246;
-    --nav-fg-muted: 148 156 180;
-
-    --hero-from: 8 10 20;
-    --hero-to: 22 26 46;
-    --hero-deep: 8 10 20;
+    --nav-fg: 245 245 245;
+    --nav-fg-muted: 156 156 156;
+    --hero-from: 22 38 32;
+    --hero-to: 15 16 17;
+    --hero-deep: 109 209 173;
+    --navy: 0 0 0;
+    --navy-fg: 245 245 245;
   }
 
   * { @apply border-border; }
@@ -108,7 +103,7 @@
   body {
     @apply bg-bg text-fg font-sans;
     font-size: 16px;
-    line-height: 1.55;
+    line-height: 1.6;
   }
 
   ::selection {
@@ -119,66 +114,106 @@
   :focus-visible {
     outline: 2px solid rgb(var(--accent));
     outline-offset: 2px;
-    border-radius: 2px;
+    border-radius: 4px;
   }
 
-  h1, h2, h3, h4 {
+  h1, h2, h3, h4, h5, h6 {
     @apply font-display;
-    font-weight: 400;
-    letter-spacing: -0.005em;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    color: rgb(var(--fg));
   }
+
+  h1 { font-size: 4rem; line-height: 1.05; letter-spacing: -0.035em; }
+  h2 { font-size: 3rem; line-height: 1.1; letter-spacing: -0.03em; }
+  h3 { font-size: 2rem; line-height: 1.2; letter-spacing: -0.02em; }
+  h4 { font-size: 1.5rem; line-height: 1.25; }
+  h5 { font-size: 1.25rem; line-height: 1.3; }
+  h6 { font-size: 1.125rem; line-height: 1.4; }
+
+  a { color: rgb(var(--accent)); }
+  a:hover { color: rgb(var(--accent-deep)); }
 }
 
 @layer components {
   .container-prose { @apply mx-auto max-w-3xl px-4 sm:px-6; }
   .container-app { @apply mx-auto max-w-[1200px] px-4 sm:px-6 lg:px-8; }
 
+  /* Prose ficha */
   .prose-ficha { @apply text-[1rem] leading-relaxed; }
-  .prose-ficha h2 {
-    @apply mt-10 mb-3 text-2xl font-normal;
-    color: rgb(var(--navy));
+  .prose-ficha h2 { @apply mt-10 mb-3 text-2xl font-bold; }
+  .prose-ficha h3 { @apply mt-7 mb-2 text-lg font-semibold; }
+  .prose-ficha p { @apply my-3 text-fg leading-[1.7]; }
+  .prose-ficha ul {
+    @apply my-3 space-y-1.5 pl-5 list-disc text-fg;
+    margin-left: 0;
   }
-  .prose-ficha h3 {
-    @apply mt-7 mb-2 text-lg font-medium;
-    color: rgb(var(--navy));
-  }
-  .prose-ficha p { @apply my-3 text-fg; }
-  .prose-ficha ul { @apply my-3 space-y-1.5 pl-5 list-disc text-fg; }
+  .prose-ficha ul li::marker { color: rgb(var(--accent)); }
   .prose-ficha a {
-    color: rgb(var(--flag-blue));
+    color: rgb(var(--accent));
     text-decoration: underline;
+    text-decoration-color: rgb(var(--accent) / 0.4);
   }
-  .prose-ficha a:hover { text-decoration: none; }
-  .prose-ficha strong { @apply text-fg font-medium; }
+  .prose-ficha a:hover { text-decoration-color: rgb(var(--accent)); }
+  .prose-ficha strong { @apply text-fg font-semibold; }
   .prose-ficha blockquote {
     @apply border-l-4 pl-4 my-4 text-fg-muted;
     border-color: rgb(var(--accent));
-    background: rgb(var(--bg-cream));
+    background: rgb(var(--bg-mint));
     padding: 0.75rem 1rem;
+    border-radius: 6px;
   }
   .prose-ficha code {
     @apply bg-bg-sunken px-1.5 py-0.5 text-[0.85em] font-mono border;
-    border-radius: 2px;
+    border-radius: 4px;
   }
 
-  /* Botones institucional - radius pequeño */
+  /* Botones estilo Banquee */
   .btn-pill {
-    @apply inline-flex items-center justify-center gap-2 px-5 py-2.5 text-sm font-medium transition-colors;
-    border-radius: 2px;
+    @apply inline-flex items-center justify-center gap-2 px-5 py-2.5 text-sm font-medium transition-all;
+    border-radius: 6px;
   }
+
+  .btn-primary {
+    background: rgb(var(--accent));
+    color: white;
+  }
+  .btn-primary:hover { background: rgb(var(--accent-deep)); }
+
+  .btn-outline {
+    background: rgb(var(--bg-elevated));
+    color: rgb(var(--fg));
+    border: 1px solid rgb(var(--border-strong));
+  }
+  .btn-outline:hover {
+    border-color: rgb(var(--fg));
+  }
+
+  .btn-dark {
+    background: rgb(var(--bg-dark));
+    color: white;
+  }
+  .btn-dark:hover { opacity: 0.9; }
+
+  .btn-text {
+    color: rgb(var(--accent));
+    @apply inline-flex items-center gap-1.5 font-medium text-sm;
+  }
+  .btn-text:hover { color: rgb(var(--accent-deep)); }
 
   .card-glass {
     background: rgb(255 255 255 / 0.96);
     @apply border border-border-strong;
-    border-radius: 4px;
+    border-radius: 8px;
   }
 
-  /* Display */
+  /* Display y heading utilities */
   .display-tight {
     @apply font-display;
-    font-weight: 400;
+    font-weight: 700;
     line-height: 1.05;
-    letter-spacing: -0.015em;
+    letter-spacing: -0.035em;
   }
 
   .display-italic { @apply font-display italic; }
@@ -190,39 +225,37 @@
 
   .stat-num {
     @apply font-display tabular-nums;
-    font-weight: 400;
-    letter-spacing: -0.02em;
+    font-weight: 700;
+    letter-spacing: -0.03em;
   }
 
   .eyebrow {
-    @apply text-[0.65rem] uppercase tracking-[0.15em] text-fg-muted font-medium;
+    @apply text-[0.75rem] uppercase tracking-[0.12em] text-fg-muted font-semibold;
   }
 
-  /* Ribbon bandera Chile */
-  .flag-ribbon {
-    display: flex;
-    height: 4px;
-    width: 100%;
+  /* Tinted mint band */
+  .band-mint {
+    background: rgb(var(--bg-mint));
   }
-  .flag-ribbon > span:nth-child(1) { background: rgb(255 255 255); flex: 1; }
-  .flag-ribbon > span:nth-child(2) {
-    background: rgb(var(--flag-blue));
-    width: 80px;
-  }
-  .flag-ribbon > span:nth-child(3) {
-    background: rgb(var(--flag-red));
-    flex: 1;
+
+  /* Banquee-style card with icon */
+  .feature-card {
+    background: rgb(var(--bg-sunken));
+    border-radius: 8px;
+    padding: 1.5rem;
   }
 }
 
 @layer utilities {
   .text-balance { text-wrap: balance; }
   .text-pretty { text-wrap: pretty; }
+  .text-mint { color: rgb(var(--accent)); }
+  .bg-mint { background: rgb(var(--bg-mint)); }
   .scrollbar-thin::-webkit-scrollbar { width: 6px; height: 6px; }
   .scrollbar-thin::-webkit-scrollbar-thumb { background: rgb(var(--border)); border-radius: 3px; }
-  .shadow-soft { box-shadow: 0 1px 2px rgb(15 25 30 / 0.05), 0 2px 6px rgb(15 25 30 / 0.04); }
-  .shadow-card { box-shadow: 0 2px 4px rgb(15 25 30 / 0.04), 0 6px 16px -4px rgb(15 25 30 / 0.06); }
-  .shadow-glass { box-shadow: 0 2px 8px rgb(20 20 60 / 0.08); }
+  .shadow-soft { box-shadow: 0 1px 2px rgb(15 25 30 / 0.04), 0 2px 8px rgb(15 25 30 / 0.04); }
+  .shadow-card { box-shadow: 0 2px 4px rgb(15 25 30 / 0.04), 0 8px 24px -4px rgb(15 25 30 / 0.06); }
+  .shadow-glass { box-shadow: 0 2px 8px rgb(20 60 40 / 0.08); }
 }
 
 @media print {
@@ -232,12 +265,12 @@
     --fg: 0 0 0;
     --fg-muted: 60 60 60;
     --border: 200 200 200;
-    --accent: 196 156 12;
+    --accent: 59 163 125;
   }
 
   header, footer, .sidebar, .no-print { display: none !important; }
   body { background: white !important; color: black !important; font-size: 11pt; }
-  a { color: rgb(0 51 153) !important; text-decoration: none !important; }
+  a { color: rgb(59 163 125) !important; text-decoration: none !important; }
   a[href^="http"]:after { content: " (" attr(href) ")"; font-size: 9pt; color: #555; }
   .container { max-width: 100% !important; padding: 0 !important; }
   article { page-break-inside: avoid; }
