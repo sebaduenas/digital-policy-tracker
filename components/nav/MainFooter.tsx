@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Mail, Sun, Moon } from "lucide-react";
+import { Mail, Sun, Moon, Linkedin } from "lucide-react";
 import { useTheme } from "next-themes";
 import { useEffect, useState } from "react";
 import { useLocale } from "@/lib/i18n";
@@ -75,8 +75,23 @@ export function MainFooter() {
         </div>
       </div>
       <div className="border-t border-border">
-        <div className="px-4 sm:px-8 lg:px-10 py-3 text-[0.65rem] text-fg-muted flex flex-wrap justify-between items-center gap-2">
-          <span>© {new Date().getFullYear()} Policy Tracker LATAM</span>
+        <div className="px-4 sm:px-8 lg:px-10 py-3 text-[0.65rem] text-fg-muted flex flex-wrap justify-between items-center gap-3">
+          <span className="flex items-center gap-1.5">
+            <span>© {new Date().getFullYear()} Policy Tracker LATAM</span>
+            <span className="text-fg-muted/40">·</span>
+            <span>
+              {t("footer.maintainer")}{" "}
+              <a
+                href="https://www.linkedin.com/in/sebastianduenas/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1 text-fg hover:text-accent transition-colors font-medium"
+              >
+                Sebastián Dueñas Müller
+                <Linkedin className="h-3 w-3" />
+              </a>
+            </span>
+          </span>
           <span>{t("footer.disclaimer")}</span>
         </div>
       </div>

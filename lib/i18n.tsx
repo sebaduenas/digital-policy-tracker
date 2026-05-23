@@ -77,6 +77,7 @@ const ES: Dict = {
   "footer.disclaimer":
     "No constituye asesoría legal. Verifica fuentes oficiales.",
   "footer.contentNotice": "El contenido de las fichas se mantiene en su idioma fuente.",
+  "footer.maintainer": "Creado y mantenido por",
   // Locale toggle
   "locale.aria": "Cambiar idioma",
 };
@@ -146,6 +147,7 @@ const EN: Dict = {
   "footer.disclaimer":
     "Not legal advice. Always verify with official sources.",
   "footer.contentNotice": "Ficha content remains in its source language.",
+  "footer.maintainer": "Built and maintained by",
   // Locale toggle
   "locale.aria": "Change language",
 };
