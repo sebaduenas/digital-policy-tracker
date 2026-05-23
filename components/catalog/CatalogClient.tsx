@@ -187,7 +187,7 @@ export function CatalogClient({ data }: { data: IndexedRegulation[] }) {
               )}
             >
               <NotebookPen className="h-3.5 w-3.5" />
-              Con análisis crítico
+              Comentadas
             </button>
 
             {count > 0 && (

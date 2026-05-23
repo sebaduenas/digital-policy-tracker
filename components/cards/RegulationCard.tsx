@@ -17,7 +17,7 @@ export function RegulationCard({ r }: { r: IndexedRegulation }) {
         {r.hasCriticalAnalysis && (
           <span
             className="ml-auto inline-flex items-center gap-1 text-[0.6rem] uppercase tracking-wider text-accent font-medium"
-            title="Tiene análisis crítico firmado"
+            title="Tiene comentario editorial"
           >
             <NotebookPen className="h-3 w-3" />
             anotada
@@ -80,7 +80,7 @@ export function RegulationRow({ r }: { r: IndexedRegulation }) {
           {r.hasCriticalAnalysis && (
             <span
               className="inline-flex items-center gap-1 ml-2 align-middle text-[0.55rem] uppercase tracking-wider text-accent font-medium"
-              title="Tiene análisis crítico firmado"
+              title="Tiene comentario editorial"
             >
               <NotebookPen className="h-2.5 w-2.5" />
               anotada

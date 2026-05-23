@@ -118,7 +118,7 @@ export default function MetodologiaPage() {
 
         <h2>8. Licencias</h2>
         <p>
-          El contenido editorial (resúmenes, análisis críticos, taxonomía) se
+          El contenido editorial (resúmenes, análisis editoriales, taxonomía) se
           publica bajo licencia <strong>Creative Commons BY 4.0</strong>. El
           código fuente de la plataforma se publica bajo licencia{" "}
           <strong>MIT</strong>. Los textos oficiales mantienen su licencia de

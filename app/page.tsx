@@ -31,12 +31,9 @@ export default async function HomePage() {
       {annotated.length >= 3 && (
         <section className="container-app py-16">
           <div className="flex items-baseline justify-between mb-6">
-            <div>
-              <p className="eyebrow mb-1">Lecturas con análisis</p>
-              <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">
-                Fichas con comentario crítico
-              </h2>
-            </div>
+            <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">
+              Fichas comentadas
+            </h2>
             <Link
               href="/regulaciones?analysis=1"
               className="hidden sm:inline-flex items-center gap-1 text-sm text-accent font-semibold hover:underline"
@@ -63,12 +60,9 @@ export default async function HomePage() {
       {/* AREAS magazine grid */}
       <section className="container-app py-16">
         <div className="flex items-baseline justify-between mb-6">
-          <div>
-            <p className="eyebrow mb-1">Por materia</p>
-            <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">
-              Áreas temáticas
-            </h2>
-          </div>
+          <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">
+            Áreas temáticas
+          </h2>
           <Link
             href="/areas"
             className="hidden sm:inline-flex items-center gap-1 text-sm text-accent font-semibold hover:underline"
@@ -100,12 +94,9 @@ export default async function HomePage() {
       {/* RECENT */}
       <section className="container-app py-16">
         <div className="flex items-baseline justify-between mb-6">
-          <div>
-            <p className="eyebrow mb-1">Más recientes</p>
-            <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">
-              Últimas regulaciones publicadas
-            </h2>
-          </div>
+          <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">
+            Últimas regulaciones publicadas
+          </h2>
           <Link
             href="/regulaciones"
             className="hidden sm:inline-flex items-center gap-1 text-sm text-accent font-semibold hover:underline"
