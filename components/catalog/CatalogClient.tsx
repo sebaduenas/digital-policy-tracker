@@ -112,7 +112,7 @@ export function CatalogClient({ data }: { data: IndexedRegulation[] }) {
 
   return (
     <div className="space-y-6">
-      <div className="sticky top-14 z-20 -mx-4 sm:mx-0 px-4 sm:px-0 py-3 bg-bg/85 backdrop-blur-md border-b border-border">
+      <div className="sticky top-16 z-20 -mx-4 sm:mx-0 px-4 sm:px-0 py-3 bg-bg/85 backdrop-blur-md border-b border-border">
         <div className="flex flex-col gap-3">
           <div className="relative">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-fg-muted" />

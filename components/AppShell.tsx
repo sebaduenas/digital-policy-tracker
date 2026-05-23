@@ -1,8 +1,7 @@
 "use client";
 
-import { useState, useMemo } from "react";
-import { Sidebar } from "@/components/nav/Sidebar";
-import { MobileTopbar } from "@/components/nav/MobileTopbar";
+import { useMemo, useState } from "react";
+import { Topbar } from "@/components/nav/Topbar";
 import { MainFooter } from "@/components/nav/MainFooter";
 import { CommandPaletteRoot } from "@/components/search/CommandPaletteRoot";
 import type { IndexedRegulation } from "@/lib/index-types";
@@ -19,23 +18,15 @@ export function AppShell({
     () => new Set(index.map((i) => i.country)).size,
     [index],
   );
-  const totalAreas = useMemo(
-    () => new Set(index.flatMap((i) => i.areas)).size,
-    [index],
-  );
   return (
-    <div className="app-frame">
-      <Sidebar
+    <div className="app-frame flex flex-col">
+      <Topbar
+        onOpenSearch={() => setOpen(true)}
         totalRegs={index.length}
         totalCountries={totalCountries}
-        totalAreas={totalAreas}
-        onOpenSearch={() => setOpen(true)}
       />
-      <div className="main flex flex-col min-h-screen">
-        <MobileTopbar onOpenSearch={() => setOpen(true)} />
-        <div className="flex-1">{children}</div>
-        <MainFooter />
-      </div>
+      <main className="flex-1">{children}</main>
+      <MainFooter />
       <CommandPaletteRoot index={index} open={open} setOpen={setOpen} />
     </div>
   );

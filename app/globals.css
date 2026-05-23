@@ -4,29 +4,39 @@
 
 @layer base {
   :root {
-    /* Surfaces — light cool */
-    --bg: 244 247 248;
+    /* Surfaces — cool */
+    --bg: 247 247 252;
     --bg-elevated: 255 255 255;
-    --bg-sunken: 233 238 240;
+    --bg-sunken: 237 238 247;
 
-    /* Foreground — deep teal-charcoal */
-    --fg: 18 50 58;
-    --fg-muted: 79 105 113;
-    --border: 218 226 229;
-    --border-strong: 197 209 213;
+    /* Foreground — deep navy */
+    --fg: 17 24 47;
+    --fg-muted: 90 96 122;
+    --border: 224 226 240;
+    --border-strong: 200 203 224;
 
-    /* Accent — teal (Fast Deliver) */
-    --accent: 41 161 174;
+    /* Accent — Strides indigo/blue */
+    --accent: 79 93 231;
     --accent-fg: 255 255 255;
-    --accent-soft: 215 240 243;
-    --accent-deep: 25 105 113;
+    --accent-soft: 228 230 249;
+    --accent-deep: 50 60 175;
 
-    /* Áreas - colores saturados estilo iconos courier */
+    /* Lavender/periwinkle (hero) */
+    --hero-from: 168 174 234;
+    --hero-to: 192 195 240;
+    --hero-deep: 130 138 218;
+
+    /* Surface oscura (nav + bands) */
+    --nav-bg: 18 22 41;
+    --nav-fg: 245 246 252;
+    --nav-fg-muted: 162 168 188;
+
+    /* Áreas - tonos joya */
     --area-ia: 124 58 237;
-    --area-pdp: 41 161 174;
+    --area-pdp: 79 93 231;
     --area-ciberseguridad: 220 38 38;
     --area-propiedad-intelectual: 234 88 12;
-    --area-plataformas: 8 145 178;
+    --area-plataformas: 14 165 233;
     --area-fintech: 22 163 74;
     --area-telecom: 217 119 6;
     --area-soberania: 147 51 234;
@@ -36,7 +46,7 @@
     /* Estados */
     --status-vigente: 22 163 74;
     --status-vigencia-diferida: 217 119 6;
-    --status-proyecto-en-discusion: 41 161 174;
+    --status-proyecto-en-discusion: 79 93 231;
     --status-aprobado-pendiente-promulgacion: 14 165 233;
     --status-derogado: 113 113 122;
     --status-veto-pendiente: 220 38 38;
@@ -48,17 +58,25 @@
   }
 
   .dark {
-    --bg: 10 26 31;
-    --bg-elevated: 16 38 44;
-    --bg-sunken: 7 18 22;
-    --fg: 234 244 246;
-    --fg-muted: 148 175 182;
-    --border: 36 60 67;
-    --border-strong: 56 85 93;
-    --accent: 74 190 201;
-    --accent-fg: 10 26 31;
-    --accent-soft: 18 60 67;
-    --accent-deep: 175 230 235;
+    --bg: 11 14 28;
+    --bg-elevated: 18 22 41;
+    --bg-sunken: 8 10 22;
+    --fg: 234 236 246;
+    --fg-muted: 148 152 180;
+    --border: 32 38 64;
+    --border-strong: 52 60 92;
+    --accent: 130 142 247;
+    --accent-fg: 11 14 28;
+    --accent-soft: 32 38 80;
+    --accent-deep: 192 198 252;
+
+    --hero-from: 71 80 158;
+    --hero-to: 96 105 192;
+    --hero-deep: 130 138 218;
+
+    --nav-bg: 8 10 22;
+    --nav-fg: 234 236 246;
+    --nav-fg-muted: 148 152 180;
   }
 
   * {
@@ -78,7 +96,7 @@
   }
 
   ::selection {
-    background: rgb(var(--accent) / 0.25);
+    background: rgb(var(--accent) / 0.22);
     color: rgb(var(--fg));
   }
 
@@ -108,11 +126,11 @@
   }
 
   .prose-ficha h2 {
-    @apply mt-10 mb-3 text-2xl font-black tracking-tight;
+    @apply mt-10 mb-3 text-2xl font-bold tracking-tight;
   }
 
   .prose-ficha h3 {
-    @apply mt-7 mb-2 text-lg font-bold;
+    @apply mt-7 mb-2 text-lg font-semibold;
   }
 
   .prose-ficha p {
@@ -141,26 +159,27 @@
 
   /* App layout */
   .app-frame {
-    @apply min-h-screen flex bg-bg;
+    @apply min-h-screen bg-bg;
   }
 
-  .sidebar {
-    @apply hidden lg:flex flex-col w-60 shrink-0 border-r border-border bg-bg-elevated sticky top-0 h-screen;
+  .container-app {
+    @apply mx-auto max-w-[1200px] px-4 sm:px-6 lg:px-8;
   }
 
-  .main {
-    @apply flex-1 min-w-0;
-  }
-
-  /* Display tipo "Fast Deliver" — italic black */
-  .display-italic {
-    @apply font-display font-black italic;
+  /* Display weights */
+  .display-tight {
+    @apply font-display font-bold;
     letter-spacing: -0.04em;
     line-height: 0.95;
   }
 
+  .display-outline {
+    color: transparent;
+    -webkit-text-stroke: 1.5px rgb(255 255 255 / 0.85);
+  }
+
   .stat-num {
-    @apply font-display font-black tabular-nums;
+    @apply font-display font-bold tabular-nums;
     letter-spacing: -0.04em;
   }
 
@@ -168,9 +187,16 @@
     @apply text-[0.65rem] uppercase tracking-[0.18em] text-fg-muted font-semibold;
   }
 
-  /* Pill rounded grande (Sign In style) */
   .btn-pill {
     @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition-all;
+  }
+
+  /* Glass card */
+  .card-glass {
+    background: rgb(255 255 255 / 0.6);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    @apply border border-white/40 shadow-glass;
   }
 }
 
@@ -200,6 +226,10 @@
   .shadow-card {
     box-shadow: 0 2px 4px rgb(15 25 30 / 0.04), 0 8px 24px -4px rgb(15 25 30 / 0.06);
   }
+
+  .shadow-glass {
+    box-shadow: 0 1px 2px rgb(20 20 60 / 0.05), 0 8px 32px -8px rgb(40 45 110 / 0.18);
+  }
 }
 
 @media print {
@@ -209,54 +239,20 @@
     --fg: 0 0 0;
     --fg-muted: 60 60 60;
     --border: 200 200 200;
-    --accent: 25 105 113;
+    --accent: 50 60 175;
   }
 
   header, footer, .sidebar, .no-print {
     display: none !important;
   }
 
-  body {
-    background: white !important;
-    color: black !important;
-    font-size: 11pt;
-  }
-
-  a {
-    color: rgb(25 105 113) !important;
-    text-decoration: none !important;
-  }
-
-  a[href^="http"]:after {
-    content: " (" attr(href) ")";
-    font-size: 9pt;
-    color: #555;
-    word-break: break-all;
-  }
-
-  .container {
-    max-width: 100% !important;
-    padding: 0 !important;
-  }
-
-  article {
-    page-break-inside: avoid;
-  }
-
-  h1, h2, h3 {
-    page-break-after: avoid;
-  }
-
-  .prose-ficha h2 {
-    margin-top: 1.25rem;
-  }
-
-  aside {
-    display: block !important;
-    position: static !important;
-  }
-
-  .grid {
-    display: block !important;
-  }
+  body { background: white !important; color: black !important; font-size: 11pt; }
+  a { color: rgb(50 60 175) !important; text-decoration: none !important; }
+  a[href^="http"]:after { content: " (" attr(href) ")"; font-size: 9pt; color: #555; }
+  .container { max-width: 100% !important; padding: 0 !important; }
+  article { page-break-inside: avoid; }
+  h1, h2, h3 { page-break-after: avoid; }
+  .prose-ficha h2 { margin-top: 1.25rem; }
+  aside { display: block !important; position: static !important; }
+  .grid { display: block !important; }
 }
