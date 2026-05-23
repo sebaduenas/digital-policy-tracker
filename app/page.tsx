@@ -8,7 +8,6 @@ import { CountryStrip } from "@/components/home/CountryStrip";
 import { HelpSection } from "@/components/home/HelpSection";
 import { TrackerCard } from "@/components/home/TrackerCard";
 import { ShipmentRow } from "@/components/home/ShipmentRow";
-import { areaColor } from "@/components/ui/AreaChip";
 
 export default async function HomePage() {
   const data = await getIndex();
@@ -80,17 +79,12 @@ export default async function HomePage() {
         <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
           {(Object.keys(AREAS) as Area[]).map((a) => {
             const count = data.filter((d) => d.areas.includes(a)).length;
-            const color = areaColor(a);
             return (
               <Link
                 key={a}
                 href={`/areas/${a}`}
                 className="group rounded-2xl bg-bg-elevated border border-border p-5 hover:border-accent/50 hover:shadow-soft transition-all"
               >
-                <span
-                  className="inline-block h-1.5 w-10 rounded-full mb-3"
-                  style={{ background: `rgb(${color})` }}
-                />
                 <p className="font-semibold text-fg text-sm group-hover:text-accent transition-colors leading-snug">
                   {AREAS[a].name}
                 </p>

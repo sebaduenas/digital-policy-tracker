@@ -74,15 +74,11 @@ export function HelpSection() {
                 href={f.href}
                 className="feature-card group hover:bg-bg-mint transition-colors"
               >
-                <span
-                  className="inline-flex h-10 w-10 items-center justify-center rounded-md mb-4"
-                  style={{
-                    background: "rgb(var(--accent-soft))",
-                    color: "rgb(var(--accent-deep))",
-                  }}
-                >
-                  <Icon className="h-5 w-5" strokeWidth={2} />
-                </span>
+                <Icon
+                  className="h-5 w-5 mb-4"
+                  strokeWidth={2}
+                  style={{ color: "rgb(var(--accent))" }}
+                />
                 <h3 className="text-base font-semibold mb-1.5 text-fg">
                   {f.title}
                 </h3>
