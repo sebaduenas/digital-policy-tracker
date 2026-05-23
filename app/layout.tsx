@@ -1,16 +1,23 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, JetBrains_Mono } from "next/font/google";
+import { Roboto, Roboto_Slab, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme/ThemeProvider";
 import { AppShell } from "@/components/AppShell";
 import { getIndex } from "@/lib/index";
 
-const inter = Inter({
+const roboto = Roboto({
   subsets: ["latin"],
   variable: "--font-sans",
   display: "swap",
-  weight: ["400", "500", "600", "700", "800", "900"],
+  weight: ["300", "400", "500", "700"],
   style: ["normal", "italic"],
+});
+
+const robotoSlab = Roboto_Slab({
+  subsets: ["latin"],
+  variable: "--font-display",
+  display: "swap",
+  weight: ["300", "400", "500", "700"],
 });
 
 const mono = JetBrains_Mono({
@@ -55,8 +62,8 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#F7F7FC" },
-    { media: "(prefers-color-scheme: dark)", color: "#0B0E1C" },
+    { media: "(prefers-color-scheme: light)", color: "#FFFFFF" },
+    { media: "(prefers-color-scheme: dark)", color: "#10121C" },
   ],
 };
 
@@ -71,7 +78,7 @@ export default async function RootLayout({
     <html
       lang="es"
       suppressHydrationWarning
-      className={`${inter.variable} ${mono.variable}`}
+      className={`${roboto.variable} ${robotoSlab.variable} ${mono.variable}`}
     >
       <body>
         <ThemeProvider

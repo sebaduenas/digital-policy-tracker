@@ -2,16 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import {
-  Search,
-  Bell,
-  Menu,
-  X,
-  Sun,
-  Moon,
-  ChevronDown,
-  ChevronsRight,
-} from "lucide-react";
+import { Search, Menu, X, Sun, Moon, Landmark } from "lucide-react";
 import { useTheme } from "next-themes";
 import { useEffect, useState } from "react";
 import { cn } from "@/lib/utils";
@@ -37,7 +28,7 @@ interface Props {
   totalCountries: number;
 }
 
-export function Topbar({ onOpenSearch, totalRegs, totalCountries }: Props) {
+export function Topbar({ onOpenSearch }: Props) {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const { theme, setTheme, resolvedTheme } = useTheme();
@@ -46,19 +37,26 @@ export function Topbar({ onOpenSearch, totalRegs, totalCountries }: Props) {
   const current = resolvedTheme || theme;
 
   return (
-    <header className="sticky top-0 z-40 bg-nav-bg text-nav-fg">
+    <header className="sticky top-0 z-40 bg-bg border-b border-border">
+      {/* Ribbon */}
+      <div className="flag-ribbon" aria-hidden>
+        <span />
+        <span />
+        <span />
+      </div>
+
       <div className="container-app">
-        <div className="h-16 flex items-center gap-6">
+        <div className="h-[72px] flex items-center gap-6">
           <Link
             href="/"
-            className="flex items-center gap-2 shrink-0"
+            className="flex items-center gap-3 shrink-0 hover:opacity-90 transition-opacity"
             onClick={() => setOpen(false)}
             aria-label="Inicio"
           >
             <Brand />
           </Link>
 
-          <nav className="hidden md:flex items-center gap-1 text-sm">
+          <nav className="hidden md:flex items-center gap-1 text-sm ml-4">
             {NAV.map((item) => {
               const active = pathname.startsWith(item.href);
               return (
@@ -66,24 +64,31 @@ export function Topbar({ onOpenSearch, totalRegs, totalCountries }: Props) {
                   key={item.href}
                   href={item.href}
                   className={cn(
-                    "px-3 py-1.5 rounded-md transition-colors",
+                    "px-3 py-2 transition-colors relative",
                     active
-                      ? "text-nav-fg font-semibold"
-                      : "text-nav-fg-muted hover:text-nav-fg",
+                      ? "text-fg font-medium"
+                      : "text-fg-muted hover:text-fg",
                   )}
                 >
                   {item.label}
+                  {active && (
+                    <span
+                      className="absolute -bottom-px left-3 right-3 h-0.5"
+                      style={{ background: "rgb(var(--accent))" }}
+                    />
+                  )}
                 </Link>
               );
             })}
           </nav>
 
-          <div className="ml-auto flex items-center gap-2">
+          <div className="ml-auto flex items-center gap-1">
             <button
               type="button"
               onClick={onOpenSearch}
               aria-label="Buscar (Cmd+K)"
-              className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-white/8 hover:bg-white/15 text-nav-fg-muted hover:text-nav-fg transition-colors"
+              className="inline-flex h-9 w-9 items-center justify-center text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
+              style={{ borderRadius: 2 }}
             >
               <Search className="h-4 w-4" />
             </button>
@@ -91,7 +96,8 @@ export function Topbar({ onOpenSearch, totalRegs, totalCountries }: Props) {
               type="button"
               onClick={() => setTheme(current === "dark" ? "light" : "dark")}
               aria-label="Cambiar tema"
-              className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-white/8 hover:bg-white/15 text-nav-fg-muted hover:text-nav-fg transition-colors"
+              className="inline-flex h-9 w-9 items-center justify-center text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
+              style={{ borderRadius: 2 }}
             >
               {mounted ? (
                 current === "dark" ? (
@@ -103,17 +109,12 @@ export function Topbar({ onOpenSearch, totalRegs, totalCountries }: Props) {
                 <span className="h-4 w-4" />
               )}
             </button>
-
-            <div className="hidden sm:flex items-center gap-2 ml-1 px-3 py-1.5 rounded-full bg-white/8 text-nav-fg-muted text-[0.7rem] tabular-nums">
-              <span className="h-1.5 w-1.5 rounded-full bg-accent" />
-              {totalRegs} normas · {totalCountries} países
-            </div>
-
             <button
               type="button"
               aria-label="Menú"
               onClick={() => setOpen((o) => !o)}
-              className="md:hidden inline-flex h-9 w-9 items-center justify-center rounded-full bg-white/8 hover:bg-white/15 text-nav-fg transition-colors"
+              className="md:hidden inline-flex h-9 w-9 items-center justify-center text-fg hover:bg-bg-sunken transition-colors"
+              style={{ borderRadius: 2 }}
             >
               {open ? <X className="h-4 w-4" /> : <Menu className="h-4 w-4" />}
             </button>
@@ -122,7 +123,7 @@ export function Topbar({ onOpenSearch, totalRegs, totalCountries }: Props) {
       </div>
 
       {open && (
-        <nav className="md:hidden bg-nav-bg border-t border-white/10">
+        <nav className="md:hidden bg-bg border-t border-border">
           <div className="container-app py-3 flex flex-col">
             {[...NAV, ...NAV_SECONDARY].map((item) => {
               const active =
@@ -135,10 +136,10 @@ export function Topbar({ onOpenSearch, totalRegs, totalCountries }: Props) {
                   href={item.href}
                   onClick={() => setOpen(false)}
                   className={cn(
-                    "px-3 py-2 rounded-md text-sm transition-colors",
+                    "px-3 py-2 text-sm transition-colors",
                     active
-                      ? "bg-white/10 text-nav-fg font-semibold"
-                      : "text-nav-fg-muted hover:bg-white/5 hover:text-nav-fg",
+                      ? "bg-bg-sunken text-fg font-medium border-l-2 border-accent"
+                      : "text-fg-muted hover:bg-bg-sunken hover:text-fg border-l-2 border-transparent",
                   )}
                 >
                   {item.label}
@@ -154,12 +155,20 @@ export function Topbar({ onOpenSearch, totalRegs, totalCountries }: Props) {
 
 export function Brand() {
   return (
-    <span className="flex items-center gap-2">
-      <span className="inline-flex items-center justify-center h-9 w-9 rounded-md bg-accent text-accent-fg">
-        <ChevronsRight className="h-4 w-4" strokeWidth={3} />
+    <span className="flex items-center gap-3">
+      <span
+        className="inline-flex items-center justify-center h-10 w-10 shrink-0"
+        style={{ background: "rgb(var(--navy))", color: "white", borderRadius: 2 }}
+      >
+        <Landmark className="h-5 w-5" strokeWidth={1.8} />
       </span>
-      <span className="display-tight text-[18px] tracking-tight leading-none">
-        policytracker<span className="text-accent">.lat</span>
+      <span className="leading-none">
+        <span className="block display-tight text-[20px] tracking-tight text-fg">
+          policytracker<span style={{ color: "rgb(var(--accent))" }}>.lat</span>
+        </span>
+        <span className="block text-[10px] uppercase tracking-[0.18em] text-fg-muted font-medium mt-1">
+          Regulación tecnológica · LATAM
+        </span>
       </span>
     </span>
   );

@@ -15,99 +15,94 @@ const FEATURES = [
     title: "Catálogo filtrable",
     desc: "Filtra por país, área, estado, tipo normativo y búsqueda fuzzy.",
     icon: Search,
-    tone: "#4F5DE7",
-    bg: "bg-indigo-50",
   },
   {
     href: "/comparar",
     title: "Comparador lado a lado",
     desc: "Selecciona hasta 4 normas y visualízalas en columnas alineadas.",
     icon: GitCompareArrows,
-    tone: "#16A34A",
-    bg: "bg-emerald-50",
   },
   {
     href: "/dashboard",
     title: "Dashboard analítico",
-    desc: "KPIs, heatmap país × área, treemap, timeline y mapa térmico.",
+    desc: "KPIs, heatmap país × área, distribución por materia y línea temporal.",
     icon: PieChart,
-    tone: "#EA580C",
-    bg: "bg-orange-50",
   },
   {
     href: "/paises",
     title: "Vista por jurisdicción",
     desc: "Cada país con sus normas, autoridades de aplicación y fuentes oficiales.",
     icon: Map,
-    tone: "#0891B2",
-    bg: "bg-cyan-50",
   },
   {
     href: "/areas",
     title: "10 áreas curadas",
     desc: "IA, datos personales, ciberseguridad, plataformas, fintech y más.",
     icon: Hash,
-    tone: "#7C3AED",
-    bg: "bg-violet-50",
   },
   {
     href: "/metodologia",
     title: "Cita académica",
     desc: "APA, BibTeX, RIS y página de metodología con criterios editoriales.",
     icon: Quote,
-    tone: "#DB2777",
-    bg: "bg-pink-50",
   },
 ];
 
 export function HelpSection() {
   return (
-    <section className="bg-nav-bg text-nav-fg py-20">
-      <div className="container-app">
-        <div className="text-center mb-12">
-          <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">
-            Cómo te ayudamos
+    <section className="border-b border-border">
+      <div className="container-app py-16">
+        <div className="mb-10">
+          <span className="eyebrow">Qué encuentras aquí</span>
+          <h2
+            className="display-tight text-2xl sm:text-3xl mt-2"
+            style={{ color: "rgb(var(--navy))" }}
+          >
+            Cómo te ayuda el tracker
           </h2>
-          <div className="mx-auto mt-3 h-0.5 w-12 bg-accent" />
-          <p className="mt-4 text-nav-fg-muted max-w-2xl mx-auto">
-            Una plataforma curada para investigación académica, asesoría legal,
-            policy making y periodismo regulatorio.
-          </p>
         </div>
 
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {FEATURES.map((f) => {
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 -mb-px">
+          {FEATURES.map((f, i) => {
             const Icon = f.icon;
             return (
               <Link
                 key={f.href}
                 href={f.href}
-                className="group rounded-2xl bg-white/[0.04] hover:bg-white/[0.08] border border-white/10 p-6 transition-all"
+                className="group flex items-start gap-4 p-6 border-t border-l border-border hover:bg-bg-sunken transition-colors"
+                style={{
+                  borderRightWidth: (i + 1) % 3 === 0 ? 0 : 1,
+                  borderRightColor: "rgb(var(--border))",
+                }}
               >
-                <div className="flex items-start gap-4">
-                  <span
-                    className="inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-xl"
-                    style={{
-                      background: `${f.tone}25`,
-                      color: f.tone,
-                    }}
-                  >
-                    <Icon className="h-5 w-5" strokeWidth={2.2} />
-                  </span>
-                  <div className="flex-1 min-w-0">
-                    <div className="flex items-start justify-between gap-2">
-                      <h3 className="font-semibold text-nav-fg">{f.title}</h3>
-                      <ArrowUpRight className="h-4 w-4 text-nav-fg-muted group-hover:text-nav-fg shrink-0 transition-colors" />
-                    </div>
-                    <p className="mt-1.5 text-sm text-nav-fg-muted leading-relaxed">
-                      {f.desc}
-                    </p>
+                <span
+                  className="inline-flex h-10 w-10 shrink-0 items-center justify-center text-white"
+                  style={{
+                    background: "rgb(var(--navy))",
+                    borderRadius: 2,
+                  }}
+                >
+                  <Icon className="h-5 w-5" strokeWidth={1.8} />
+                </span>
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-start justify-between gap-2">
+                    <h3
+                      className="font-medium text-base leading-snug"
+                      style={{ color: "rgb(var(--navy))" }}
+                    >
+                      {f.title}
+                    </h3>
+                    <ArrowUpRight className="h-4 w-4 text-fg-muted group-hover:text-fg shrink-0 transition-colors" />
                   </div>
+                  <p className="mt-1.5 text-sm text-fg-muted leading-relaxed">
+                    {f.desc}
+                  </p>
                 </div>
               </Link>
             );
           })}
         </div>
+        <div className="border-b border-r border-l border-border" />
       </div>
     </section>
   );

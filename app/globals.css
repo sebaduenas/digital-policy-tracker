@@ -4,84 +4,98 @@
 
 @layer base {
   :root {
-    /* Surfaces — cool */
-    --bg: 247 247 252;
+    /* Surfaces — institucional gob */
+    --bg: 255 255 255;
     --bg-elevated: 255 255 255;
-    --bg-sunken: 237 238 247;
+    --bg-sunken: 248 249 250;
+    --bg-cream: 245 242 240;
 
-    /* Foreground — deep navy */
-    --fg: 17 24 47;
-    --fg-muted: 90 96 122;
-    --border: 224 226 240;
-    --border-strong: 200 203 224;
+    /* Foreground — Bootstrap dark */
+    --fg: 33 37 41;
+    --fg-muted: 90 95 110;
+    --border: 222 226 230;
+    --border-strong: 200 206 215;
 
-    /* Accent — Strides indigo/blue */
-    --accent: 79 93 231;
+    /* Accent — gold institucional */
+    --accent: 196 156 12;
     --accent-fg: 255 255 255;
-    --accent-soft: 228 230 249;
-    --accent-deep: 50 60 175;
+    --accent-soft: 251 240 200;
+    --accent-deep: 145 113 0;
 
-    /* Lavender/periwinkle (hero) */
-    --hero-from: 168 174 234;
-    --hero-to: 192 195 240;
-    --hero-deep: 130 138 218;
+    /* Navy gob */
+    --navy: 10 19 45;
+    --navy-fg: 255 255 255;
+    --navy-muted: 165 175 200;
 
-    /* Surface oscura (nav + bands) */
-    --nav-bg: 18 22 41;
-    --nav-fg: 245 246 252;
-    --nav-fg-muted: 162 168 188;
+    /* Flag */
+    --flag-red: 213 43 30;
+    --flag-blue: 0 51 153;
 
-    /* Áreas - tonos joya */
+    /* Áreas */
     --area-ia: 124 58 237;
-    --area-pdp: 79 93 231;
-    --area-ciberseguridad: 220 38 38;
-    --area-propiedad-intelectual: 234 88 12;
-    --area-plataformas: 14 165 233;
-    --area-fintech: 22 163 74;
-    --area-telecom: 217 119 6;
-    --area-soberania: 147 51 234;
-    --area-identidad-digital: 13 148 136;
-    --area-menores-online: 219 39 119;
+    --area-pdp: 0 51 153;
+    --area-ciberseguridad: 185 28 28;
+    --area-propiedad-intelectual: 194 65 12;
+    --area-plataformas: 14 116 144;
+    --area-fintech: 21 128 61;
+    --area-telecom: 161 98 7;
+    --area-soberania: 126 34 206;
+    --area-identidad-digital: 15 118 110;
+    --area-menores-online: 190 24 93;
 
     /* Estados */
-    --status-vigente: 22 163 74;
-    --status-vigencia-diferida: 217 119 6;
-    --status-proyecto-en-discusion: 79 93 231;
+    --status-vigente: 21 128 61;
+    --status-vigencia-diferida: 161 98 7;
+    --status-proyecto-en-discusion: 0 51 153;
     --status-aprobado-pendiente-promulgacion: 14 165 233;
     --status-derogado: 113 113 122;
-    --status-veto-pendiente: 220 38 38;
-    --status-reglamento-pendiente: 234 88 12;
+    --status-veto-pendiente: 185 28 28;
+    --status-reglamento-pendiente: 194 65 12;
 
-    --font-display: 'Inter', system-ui, sans-serif;
-    --font-sans: 'Inter', system-ui, sans-serif;
+    /* Tipografía gob.cl */
+    --font-display: 'Roboto Slab', Georgia, serif;
+    --font-sans: 'Roboto', system-ui, sans-serif;
     --font-mono: 'JetBrains Mono', monospace;
+
+    /* Aliases legacy */
+    --nav-bg: 10 19 45;
+    --nav-fg: 255 255 255;
+    --nav-fg-muted: 165 175 200;
+    --hero-from: 10 19 45;
+    --hero-to: 26 39 78;
+    --hero-deep: 10 19 45;
   }
 
   .dark {
-    --bg: 11 14 28;
-    --bg-elevated: 18 22 41;
-    --bg-sunken: 8 10 22;
+    --bg: 16 18 28;
+    --bg-elevated: 24 27 39;
+    --bg-sunken: 10 12 20;
+    --bg-cream: 32 36 50;
+
     --fg: 234 236 246;
-    --fg-muted: 148 152 180;
-    --border: 32 38 64;
-    --border-strong: 52 60 92;
-    --accent: 130 142 247;
-    --accent-fg: 11 14 28;
-    --accent-soft: 32 38 80;
-    --accent-deep: 192 198 252;
+    --fg-muted: 148 156 180;
+    --border: 42 48 70;
+    --border-strong: 60 68 95;
 
-    --hero-from: 71 80 158;
-    --hero-to: 96 105 192;
-    --hero-deep: 130 138 218;
+    --accent: 234 179 8;
+    --accent-fg: 16 18 28;
+    --accent-soft: 50 42 18;
+    --accent-deep: 250 224 130;
 
-    --nav-bg: 8 10 22;
+    --navy: 0 0 0;
+    --navy-fg: 234 236 246;
+    --navy-muted: 148 156 180;
+
+    --nav-bg: 0 0 0;
     --nav-fg: 234 236 246;
-    --nav-fg-muted: 148 152 180;
+    --nav-fg-muted: 148 156 180;
+
+    --hero-from: 8 10 20;
+    --hero-to: 22 26 46;
+    --hero-deep: 8 10 20;
   }
 
-  * {
-    @apply border-border;
-  }
+  * { @apply border-border; }
 
   html {
     -webkit-text-size-adjust: 100%;
@@ -91,145 +105,123 @@
   }
 
   body {
-    @apply bg-bg text-fg;
-    font-feature-settings: "ss01", "cv11";
+    @apply bg-bg text-fg font-sans;
+    font-size: 16px;
+    line-height: 1.55;
   }
 
   ::selection {
-    background: rgb(var(--accent) / 0.22);
+    background: rgb(var(--accent) / 0.25);
     color: rgb(var(--fg));
   }
 
   :focus-visible {
     outline: 2px solid rgb(var(--accent));
     outline-offset: 2px;
-    border-radius: 4px;
+    border-radius: 2px;
   }
 
   h1, h2, h3, h4 {
-    @apply font-display tracking-tight;
-    letter-spacing: -0.025em;
-  }
-
-  h1 {
-    letter-spacing: -0.035em;
+    @apply font-display;
+    font-weight: 400;
+    letter-spacing: -0.005em;
   }
 }
 
 @layer components {
-  .container-prose {
-    @apply mx-auto max-w-3xl px-4 sm:px-6;
-  }
+  .container-prose { @apply mx-auto max-w-3xl px-4 sm:px-6; }
+  .container-app { @apply mx-auto max-w-[1200px] px-4 sm:px-6 lg:px-8; }
 
-  .prose-ficha {
-    @apply text-[0.95rem] leading-relaxed;
-  }
-
+  .prose-ficha { @apply text-[1rem] leading-relaxed; }
   .prose-ficha h2 {
-    @apply mt-10 mb-3 text-2xl font-bold tracking-tight;
+    @apply mt-10 mb-3 text-2xl font-normal;
+    color: rgb(var(--navy));
   }
-
   .prose-ficha h3 {
-    @apply mt-7 mb-2 text-lg font-semibold;
+    @apply mt-7 mb-2 text-lg font-medium;
+    color: rgb(var(--navy));
   }
-
-  .prose-ficha p {
-    @apply my-3 text-fg-muted;
-  }
-
-  .prose-ficha ul {
-    @apply my-3 space-y-1.5 pl-5 list-disc text-fg-muted marker:text-accent/70;
-  }
-
+  .prose-ficha p { @apply my-3 text-fg; }
+  .prose-ficha ul { @apply my-3 space-y-1.5 pl-5 list-disc text-fg; }
   .prose-ficha a {
-    @apply text-accent underline underline-offset-2 decoration-accent/30 hover:decoration-accent;
+    color: rgb(var(--flag-blue));
+    text-decoration: underline;
   }
-
-  .prose-ficha strong {
-    @apply text-fg font-semibold;
-  }
-
+  .prose-ficha a:hover { text-decoration: none; }
+  .prose-ficha strong { @apply text-fg font-medium; }
   .prose-ficha blockquote {
-    @apply border-l-2 border-accent/50 pl-4 my-4 italic text-fg-muted;
+    @apply border-l-4 pl-4 my-4 text-fg-muted;
+    border-color: rgb(var(--accent));
+    background: rgb(var(--bg-cream));
+    padding: 0.75rem 1rem;
   }
-
   .prose-ficha code {
-    @apply rounded bg-bg-sunken px-1.5 py-0.5 text-[0.85em] font-mono border;
+    @apply bg-bg-sunken px-1.5 py-0.5 text-[0.85em] font-mono border;
+    border-radius: 2px;
   }
 
-  /* App layout */
-  .app-frame {
-    @apply min-h-screen bg-bg;
+  /* Botones institucional - radius pequeño */
+  .btn-pill {
+    @apply inline-flex items-center justify-center gap-2 px-5 py-2.5 text-sm font-medium transition-colors;
+    border-radius: 2px;
   }
 
-  .container-app {
-    @apply mx-auto max-w-[1200px] px-4 sm:px-6 lg:px-8;
+  .card-glass {
+    background: rgb(255 255 255 / 0.96);
+    @apply border border-border-strong;
+    border-radius: 4px;
   }
 
-  /* Display weights */
+  /* Display */
   .display-tight {
-    @apply font-display font-bold;
-    letter-spacing: -0.04em;
-    line-height: 0.95;
+    @apply font-display;
+    font-weight: 400;
+    line-height: 1.05;
+    letter-spacing: -0.015em;
   }
+
+  .display-italic { @apply font-display italic; }
 
   .display-outline {
     color: transparent;
-    -webkit-text-stroke: 1.5px rgb(255 255 255 / 0.85);
+    -webkit-text-stroke: 1px rgb(255 255 255 / 0.85);
   }
 
   .stat-num {
-    @apply font-display font-bold tabular-nums;
-    letter-spacing: -0.04em;
+    @apply font-display tabular-nums;
+    font-weight: 400;
+    letter-spacing: -0.02em;
   }
 
   .eyebrow {
-    @apply text-[0.65rem] uppercase tracking-[0.18em] text-fg-muted font-semibold;
+    @apply text-[0.65rem] uppercase tracking-[0.15em] text-fg-muted font-medium;
   }
 
-  .btn-pill {
-    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition-all;
+  /* Ribbon bandera Chile */
+  .flag-ribbon {
+    display: flex;
+    height: 4px;
+    width: 100%;
   }
-
-  /* Glass card */
-  .card-glass {
-    background: rgb(255 255 255 / 0.6);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    @apply border border-white/40 shadow-glass;
+  .flag-ribbon > span:nth-child(1) { background: rgb(255 255 255); flex: 1; }
+  .flag-ribbon > span:nth-child(2) {
+    background: rgb(var(--flag-blue));
+    width: 80px;
+  }
+  .flag-ribbon > span:nth-child(3) {
+    background: rgb(var(--flag-red));
+    flex: 1;
   }
 }
 
 @layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-
-  .text-pretty {
-    text-wrap: pretty;
-  }
-
-  .scrollbar-thin::-webkit-scrollbar {
-    width: 6px;
-    height: 6px;
-  }
-
-  .scrollbar-thin::-webkit-scrollbar-thumb {
-    background: rgb(var(--border));
-    border-radius: 3px;
-  }
-
-  .shadow-soft {
-    box-shadow: 0 1px 2px rgb(15 25 30 / 0.04), 0 4px 12px rgb(15 25 30 / 0.04);
-  }
-
-  .shadow-card {
-    box-shadow: 0 2px 4px rgb(15 25 30 / 0.04), 0 8px 24px -4px rgb(15 25 30 / 0.06);
-  }
-
-  .shadow-glass {
-    box-shadow: 0 1px 2px rgb(20 20 60 / 0.05), 0 8px 32px -8px rgb(40 45 110 / 0.18);
-  }
+  .text-balance { text-wrap: balance; }
+  .text-pretty { text-wrap: pretty; }
+  .scrollbar-thin::-webkit-scrollbar { width: 6px; height: 6px; }
+  .scrollbar-thin::-webkit-scrollbar-thumb { background: rgb(var(--border)); border-radius: 3px; }
+  .shadow-soft { box-shadow: 0 1px 2px rgb(15 25 30 / 0.05), 0 2px 6px rgb(15 25 30 / 0.04); }
+  .shadow-card { box-shadow: 0 2px 4px rgb(15 25 30 / 0.04), 0 6px 16px -4px rgb(15 25 30 / 0.06); }
+  .shadow-glass { box-shadow: 0 2px 8px rgb(20 20 60 / 0.08); }
 }
 
 @media print {
@@ -239,15 +231,12 @@
     --fg: 0 0 0;
     --fg-muted: 60 60 60;
     --border: 200 200 200;
-    --accent: 50 60 175;
+    --accent: 196 156 12;
   }
 
-  header, footer, .sidebar, .no-print {
-    display: none !important;
-  }
-
+  header, footer, .sidebar, .no-print { display: none !important; }
   body { background: white !important; color: black !important; font-size: 11pt; }
-  a { color: rgb(50 60 175) !important; text-decoration: none !important; }
+  a { color: rgb(0 51 153) !important; text-decoration: none !important; }
   a[href^="http"]:after { content: " (" attr(href) ")"; font-size: 9pt; color: #555; }
   .container { max-width: 100% !important; padding: 0 !important; }
   article { page-break-inside: avoid; }

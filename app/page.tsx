@@ -22,7 +22,7 @@ export default async function HomePage() {
 
   return (
     <div>
-      <HeroStrides totalRegs={data.length} topRegulations={featured} />
+      <HeroStrides totalRegs={data.length} topRegulations={data} />
 
       <CountryStrip data={data} />
 
