@@ -1,12 +1,5 @@
 import Link from "next/link";
-import {
-  Search,
-  GitCompareArrows,
-  Map,
-  Quote,
-  PieChart,
-  Layers,
-} from "lucide-react";
+import { Search, GitCompareArrows, Map, Layers } from "lucide-react";
 
 const FEATURES = [
   {
@@ -22,12 +15,6 @@ const FEATURES = [
     icon: GitCompareArrows,
   },
   {
-    href: "/dashboard",
-    title: "Dashboard analítico",
-    desc: "KPIs, heatmap país × área, distribución por materia y línea temporal.",
-    icon: PieChart,
-  },
-  {
     href: "/paises",
     title: "Vista por jurisdicción",
     desc: "Cada país con sus normas, autoridades de aplicación y fuentes oficiales.",
@@ -35,15 +22,9 @@ const FEATURES = [
   },
   {
     href: "/areas",
-    title: "10 áreas curadas",
+    title: "10 materias curadas",
     desc: "IA, datos personales, ciberseguridad, plataformas, fintech y más.",
     icon: Layers,
-  },
-  {
-    href: "/metodologia",
-    title: "Cita académica",
-    desc: "APA, BibTeX, RIS y página de metodología con criterios editoriales.",
-    icon: Quote,
   },
 ];
 
