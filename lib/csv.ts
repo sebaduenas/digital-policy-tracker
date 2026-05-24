@@ -14,8 +14,6 @@ const CSV_HEADERS = [
   "publicationDate",
   "enforcingAuthority",
   "tags",
-  "hasCriticalAnalysis",
-  "confidenceLevel",
   "url",
 ];
 
@@ -26,7 +24,11 @@ function escape(value: string): string {
   return value;
 }
 
-const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://policytracker.lat";
+// Trim whitespace and any trailing slash so the env var (which may have a
+// trailing space) doesn't break the exported URLs.
+const SITE = (process.env.NEXT_PUBLIC_SITE_URL || "https://policytracker.lat")
+  .trim()
+  .replace(/\/+$/, "");
 
 export function toCSV(rows: IndexedRegulation[]): string {
   const lines = [CSV_HEADERS.join(",")];
@@ -45,8 +47,6 @@ export function toCSV(rows: IndexedRegulation[]): string {
         r.publicationDate ?? "",
         (r.enforcingAuthority ?? []).join("; "),
         r.tags.join("; "),
-        r.hasCriticalAnalysis ? "sí" : "no",
-        r.confidenceLevel,
         `${SITE}/regulaciones/${r.slug}`,
       ]
         .map((v) => escape(String(v ?? "")))

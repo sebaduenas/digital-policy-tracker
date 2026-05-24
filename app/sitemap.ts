@@ -3,7 +3,9 @@ import { loadRegulations } from "@/lib/content";
 import { getIndex } from "@/lib/index";
 import { AREAS, COUNTRIES } from "@/lib/taxonomy";
 
-const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://policytracker.lat";
+const SITE = (process.env.NEXT_PUBLIC_SITE_URL || "https://policytracker.lat")
+  .trim()
+  .replace(/\/+$/, "");
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const [regs, idx] = await Promise.all([loadRegulations(), getIndex()]);
