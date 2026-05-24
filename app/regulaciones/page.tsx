@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import { Suspense } from "react";
 import { getIndex } from "@/lib/index";
+import { parseFilters } from "@/lib/filters";
 import { CatalogClient } from "@/components/catalog/CatalogClient";
 
 export const metadata: Metadata = {
@@ -9,8 +9,18 @@ export const metadata: Metadata = {
     "Catálogo completo de regulación tecnológica en América Latina. Filtra por país, área temática, estado y tipo normativo.",
 };
 
-export default async function RegulationsPage() {
-  const data = await getIndex();
+export default async function RegulationsPage({
+  searchParams,
+}: {
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
+}) {
+  const [data, sp] = await Promise.all([getIndex(), searchParams]);
+  const initialFilters = parseFilters({
+    get: (k: string) => {
+      const v = sp[k];
+      return Array.isArray(v) ? (v[0] ?? null) : (v ?? null);
+    },
+  });
   return (
     <div className="container py-8">
       <header className="mb-6">
@@ -22,9 +32,7 @@ export default async function RegulationsPage() {
           América Latina. Filtra por país, área, estado o tipo normativo.
         </p>
       </header>
-      <Suspense fallback={<div className="text-sm text-fg-muted">Cargando catálogo…</div>}>
-        <CatalogClient data={data} />
-      </Suspense>
+      <CatalogClient data={data} initialFilters={initialFilters} />
     </div>
   );
 }

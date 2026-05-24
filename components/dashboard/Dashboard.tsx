@@ -167,6 +167,7 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
           subtitle="Distribución de regulaciones según vigencia y trámite"
         >
           <div className="flex-1 min-h-[18rem]">
+            <ChartReveal fallback={<CountryTotalsTable data={byCountryByStatus} />}>
             <ResponsiveContainer>
               <BarChart
                 data={byCountryByStatus}
@@ -202,6 +203,7 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
                 ))}
               </BarChart>
             </ResponsiveContainer>
+            </ChartReveal>
           </div>
         </Section>
       </div>
@@ -280,6 +282,7 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
         subtitle="Publicación de normativa por año (acumulada)"
       >
         <div className="h-64">
+          <ChartReveal fallback={<YearTotalsTable data={byYear} />}>
           <ResponsiveContainer>
             <LineChart data={byYear} margin={{ top: 8, right: 16, bottom: 8, left: 0 }}>
               <CartesianGrid strokeDasharray="2 4" stroke="rgb(var(--border))" vertical={false} />
@@ -316,6 +319,7 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
               />
             </LineChart>
           </ResponsiveContainer>
+          </ChartReveal>
         </div>
       </Section>
     </div>
@@ -340,6 +344,97 @@ function Section({
   );
 }
 
+
+function useMounted() {
+  const [mounted, setMounted] = React.useState(false);
+  React.useEffect(() => setMounted(true), []);
+  return mounted;
+}
+
+// Recharts' ResponsiveContainer renders nothing on the server (it needs
+// measured DOM dimensions), so charts are blank in SSR HTML. Render an
+// accessible data table until the chart hydrates — SEO + a11y without losing
+// the interactive version.
+function ChartReveal({
+  fallback,
+  children,
+}: {
+  fallback: React.ReactNode;
+  children: React.ReactNode;
+}) {
+  return useMounted() ? <>{children}</> : <>{fallback}</>;
+}
+
+function CountryTotalsTable({
+  data,
+}: {
+  data: Record<string, string | number>[];
+}) {
+  return (
+    <div className="h-full overflow-auto">
+      <table className="w-full text-xs">
+        <thead>
+          <tr>
+            <th className="p-1 text-left font-medium text-fg-muted">País</th>
+            <th className="p-1 text-right font-medium text-fg-muted">
+              Regulaciones
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          {data.map((row) => {
+            const total = (Object.keys(STATUSES) as Status[]).reduce(
+              (sum, k) => sum + (Number(row[k]) || 0),
+              0,
+            );
+            return (
+              <tr key={String(row.country)} className="border-t border-border">
+                <td className="p-1">
+                  <span aria-hidden>{String(row.flag)}</span>{" "}
+                  {String(row.country)}
+                </td>
+                <td className="p-1 text-right tabular-nums">{total}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+  );
+}
+
+function YearTotalsTable({
+  data,
+}: {
+  data: { year: number; count: number; cumulative: number }[];
+}) {
+  return (
+    <div className="h-full overflow-auto">
+      <table className="w-full text-xs">
+        <thead>
+          <tr>
+            <th className="p-1 text-left font-medium text-fg-muted">Año</th>
+            <th className="p-1 text-right font-medium text-fg-muted">
+              Publicadas
+            </th>
+            <th className="p-1 text-right font-medium text-fg-muted">
+              Acumulado
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          {data.map((d) => (
+            <tr key={d.year} className="border-t border-border">
+              <td className="p-1 tabular-nums">{d.year}</td>
+              <td className="p-1 text-right tabular-nums">{d.count}</td>
+              <td className="p-1 text-right tabular-nums">{d.cumulative}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  );
+}
 
 function ChartTooltip({ active, payload, label }: any) {
   if (!active || !payload?.length) return null;

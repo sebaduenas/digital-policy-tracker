@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useRouter } from "next/navigation";
 import Fuse from "fuse.js";
 import {
   AREAS,
@@ -17,7 +17,6 @@ import {
   EMPTY_FILTERS,
   activeFilterCount,
   applyFilters,
-  parseFilters,
   serializeFilters,
   type FilterState,
 } from "@/lib/filters";
@@ -43,12 +42,15 @@ import { toCSV } from "@/lib/csv";
 type View = "list" | "grid";
 type Sort = "year-desc" | "year-asc" | "title-asc";
 
-export function CatalogClient({ data }: { data: IndexedRegulation[] }) {
+export function CatalogClient({
+  data,
+  initialFilters,
+}: {
+  data: IndexedRegulation[];
+  initialFilters: FilterState;
+}) {
   const router = useRouter();
-  const searchParams = useSearchParams();
-  const [filters, setFilters] = React.useState<FilterState>(
-    parseFilters(searchParams),
-  );
+  const [filters, setFilters] = React.useState<FilterState>(initialFilters);
   const [view, setView] = React.useState<View>("list");
   const [sort, setSort] = React.useState<Sort>("year-desc");
 
@@ -69,7 +71,15 @@ export function CatalogClient({ data }: { data: IndexedRegulation[] }) {
     [data],
   );
 
+  // Sync filters → URL, but skip the first run: on mount the filters already
+  // match the server-provided searchParams, so replacing would trigger a
+  // redundant server refetch.
+  const firstRender = React.useRef(true);
   React.useEffect(() => {
+    if (firstRender.current) {
+      firstRender.current = false;
+      return;
+    }
     const qs = serializeFilters(filters);
     const next = qs ? `?${qs}` : "";
     router.replace(`/regulaciones${next}`, { scroll: false });
