@@ -3,7 +3,13 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { ExternalLink } from "lucide-react";
 import { getIndex } from "@/lib/index";
-import { COUNTRIES, AREAS, type CountryCode } from "@/lib/taxonomy";
+import {
+  COUNTRIES,
+  AREAS,
+  STATUSES,
+  type CountryCode,
+  type Status,
+} from "@/lib/taxonomy";
 import { RegulationRow } from "@/components/cards/RegulationCard";
 import { MiniTimeline } from "@/components/MiniTimeline";
 
@@ -107,8 +113,8 @@ export default async function CountryPage({ params }: PageProps) {
           <ul className="space-y-1 text-sm">
             {Object.entries(byStatus).map(([k, v]) => (
               <li key={k} className="flex justify-between">
-                <span className="text-fg-muted capitalize">
-                  {k.replace(/-/g, " ")}
+                <span className="text-fg-muted">
+                  {STATUSES[k as Status]?.label ?? k}
                 </span>
                 <span className="font-medium">{v}</span>
               </li>

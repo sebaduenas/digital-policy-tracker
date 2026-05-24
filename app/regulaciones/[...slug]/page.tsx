@@ -3,11 +3,13 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { ChevronLeft, NotebookPen } from "lucide-react";
 import { loadRegulations, getRegulationBySlug } from "@/lib/content";
+import { getIndex } from "@/lib/index";
 import { renderMarkdown } from "@/lib/markdown";
 import { CountryFlag } from "@/components/ui/CountryFlag";
 import { RegulationDetailSidebar } from "@/components/cards/RegulationDetailSidebar";
 import { CitationButtons } from "@/components/cards/CitationButtons";
 import { RelatedRegulations } from "@/components/cards/RelatedRegulations";
+import { AddToCompareButton } from "@/components/compare/AddToCompareButton";
 import {
   AREAS,
   COUNTRIES,
@@ -57,6 +59,21 @@ export default async function RegulationDetail({ params }: PageProps) {
 
   const html = renderMarkdown(reg.body);
   const country = COUNTRIES[reg.country as CountryCode];
+
+  const index = await getIndex();
+  const sameArea = index
+    .filter(
+      (r) =>
+        r.id !== reg.id &&
+        r.areas.some((a) => (reg.areas as Area[]).includes(a)),
+    )
+    .map((r) => ({
+      id: r.id,
+      shortTitle: r.shortTitle,
+      countryFlag: r.countryFlag,
+      countryName: r.countryName,
+    }))
+    .slice(0, 40);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -110,6 +127,17 @@ export default async function RegulationDetail({ params }: PageProps) {
             {(reg.areas as Area[]).map((a) => AREAS[a].name).join(", ")}
           </p>
           <p className="mt-3 text-xs text-fg-muted font-mono">{reg.citation}</p>
+          <div className="mt-4">
+            <AddToCompareButton
+              self={{
+                id: reg.id,
+                shortTitle: reg.shortTitle,
+                countryFlag: country?.flag ?? "",
+                countryName: country?.name ?? "",
+              }}
+              sameArea={sameArea}
+            />
+          </div>
         </header>
 
         <div className="grid gap-10 lg:grid-cols-[1fr_320px]">
