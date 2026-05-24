@@ -36,7 +36,7 @@ export function Topbar({ onOpenSearch }: Props) {
   return (
     <header className="sticky top-0 z-40 bg-bg border-b border-border">
       <div className="container-app">
-        <div className="h-[72px] flex items-center gap-8">
+        <div className="h-[72px] flex items-center gap-3 md:gap-8">
           <Link
             href="/"
             className="shrink-0 hover:opacity-90 transition-opacity"
@@ -66,7 +66,7 @@ export function Topbar({ onOpenSearch }: Props) {
             })}
           </nav>
 
-          <div className="flex items-center gap-1.5">
+          <div className="flex items-center gap-1.5 ml-auto md:ml-0">
             <button
               type="button"
               onClick={onOpenSearch}
@@ -138,7 +138,7 @@ export function Topbar({ onOpenSearch }: Props) {
 export function Brand() {
   return (
     <span
-      className="display-tight text-[26px] leading-none font-extrabold"
+      className="display-tight text-[22px] sm:text-[26px] leading-none font-extrabold"
       style={{ color: "rgb(var(--accent))" }}
     >
       policytracker<span className="text-fg">.lat</span>

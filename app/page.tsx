@@ -41,7 +41,7 @@ export default async function HomePage() {
               Ver todas <ArrowUpRight className="h-3.5 w-3.5" />
             </Link>
           </div>
-          <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+          <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
             {annotated.slice(0, 3).map((r) => {
               const full = allRegs.find((x) => x.id === r.id)!;
               return (
@@ -70,7 +70,7 @@ export default async function HomePage() {
             Ver todas <ArrowUpRight className="h-3.5 w-3.5" />
           </Link>
         </div>
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-5">
           {(Object.keys(AREAS) as Area[]).map((a) => {
             const count = data.filter((d) => d.areas.includes(a)).length;
             return (
@@ -104,7 +104,7 @@ export default async function HomePage() {
             Catálogo completo <ArrowUpRight className="h-3.5 w-3.5" />
           </Link>
         </div>
-        <div className="grid gap-2 sm:grid-cols-2">
+        <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
           {recent.map((r) => (
             <ShipmentRow key={r.id} reg={r} />
           ))}
