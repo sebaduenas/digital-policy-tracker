@@ -4,8 +4,6 @@ import Link from "next/link";
 import { ChevronLeft, NotebookPen } from "lucide-react";
 import { loadRegulations, getRegulationBySlug } from "@/lib/content";
 import { renderMarkdown } from "@/lib/markdown";
-import { AreaChip } from "@/components/ui/AreaChip";
-import { StatusBadge } from "@/components/ui/StatusBadge";
 import { CountryFlag } from "@/components/ui/CountryFlag";
 import { RegulationDetailSidebar } from "@/components/cards/RegulationDetailSidebar";
 import { CitationButtons } from "@/components/cards/CitationButtons";
@@ -13,8 +11,10 @@ import { RelatedRegulations } from "@/components/cards/RelatedRegulations";
 import {
   AREAS,
   COUNTRIES,
+  STATUSES,
   type Area,
   type CountryCode,
+  type Status,
 } from "@/lib/taxonomy";
 
 interface PageProps {
@@ -87,10 +87,6 @@ export default async function RegulationDetail({ params }: PageProps) {
         <header className="mb-8">
           <div className="flex flex-wrap items-center gap-2 mb-3">
             <CountryFlag code={reg.country as CountryCode} />
-            {(reg.areas as Area[]).map((a) => (
-              <AreaChip key={a} area={a} />
-            ))}
-            <StatusBadge status={reg.status as Parameters<typeof StatusBadge>[0]["status"]} />
             {reg.hasCriticalAnalysis && (
               <span className="inline-flex items-center gap-1 text-[0.65rem] uppercase tracking-wider text-accent font-medium">
                 <NotebookPen className="h-3 w-3" />
@@ -106,6 +102,13 @@ export default async function RegulationDetail({ params }: PageProps) {
               También conocida como: {reg.aliases.join(" · ")}
             </p>
           )}
+          <p className="mt-3 text-sm text-fg-muted">
+            <span className="font-semibold text-fg">Estado:</span>{" "}
+            {STATUSES[reg.status as Status].label}
+            <span className="mx-2 text-fg-muted/40">·</span>
+            <span className="font-semibold text-fg">Materia:</span>{" "}
+            {(reg.areas as Area[]).map((a) => AREAS[a].name).join(", ")}
+          </p>
           <p className="mt-3 text-xs text-fg-muted font-mono">{reg.citation}</p>
         </header>
 
