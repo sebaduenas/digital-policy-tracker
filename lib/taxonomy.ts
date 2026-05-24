@@ -48,7 +48,7 @@ export const AREAS = {
       "Estrategias y leyes de ciberseguridad, infraestructuras críticas, CSIRT, gestión de incidentes y delitos informáticos.",
   },
   "propiedad-intelectual": {
-    name: "Propiedad Intelectual Digital",
+    name: "Propiedad Intelectual",
     short: "PI",
     color: "var(--area-propiedad-intelectual)",
     description:
