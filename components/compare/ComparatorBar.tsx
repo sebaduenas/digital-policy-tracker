@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { GitCompare, X } from "lucide-react";
 import type { IndexedRegulation } from "@/lib/index-types";
+import { Flag } from "@/components/ui/Flag";
 import { useComparator } from "./ComparatorContext";
 
 export function ComparatorBar({ index }: { index: IndexedRegulation[] }) {
@@ -22,7 +23,7 @@ export function ComparatorBar({ index }: { index: IndexedRegulation[] }) {
               className="inline-flex items-center gap-1 rounded-full bg-bg-sunken px-2 py-0.5 text-xs text-fg-muted max-w-[10rem]"
               title={r.shortTitle}
             >
-              <span aria-hidden>{r.countryFlag}</span>
+              <Flag code={r.country} size={13} />
               <span className="truncate">{r.shortTitle}</span>
               <button
                 type="button"

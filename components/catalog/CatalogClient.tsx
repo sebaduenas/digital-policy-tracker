@@ -22,6 +22,7 @@ import {
 } from "@/lib/filters";
 import type { IndexedRegulation } from "@/lib/index-types";
 import { FilterPopover } from "@/components/filters/FilterPopover";
+import { Flag } from "@/components/ui/Flag";
 import { Input } from "@/components/ui/Input";
 import { Button } from "@/components/ui/Button";
 import {
@@ -151,7 +152,8 @@ export function CatalogClient({
               label="País"
               options={Object.entries(COUNTRIES).map(([code, c]) => ({
                 value: code,
-                label: `${c.flag} ${c.name}`,
+                label: c.name,
+                icon: <Flag code={code as CountryCode} size={14} />,
               }))}
               selected={filters.countries}
               onChange={(v) => update("countries", v as CountryCode[])}

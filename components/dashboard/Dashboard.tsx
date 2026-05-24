@@ -24,6 +24,7 @@ import {
   type Status,
 } from "@/lib/taxonomy";
 import { areaColor } from "@/components/ui/AreaChip";
+import { Flag } from "@/components/ui/Flag";
 
 export function Dashboard({ data }: { data: IndexedRegulation[] }) {
   const total = data.length;
@@ -53,6 +54,7 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
     const obj: Record<string, string | number> = {
       country: c.name,
       flag: c.flag,
+      code: c.code,
     };
     (Object.keys(STATUSES) as Status[]).forEach((s) => {
       obj[s] = data.filter((d) => d.country === c.code && d.status === s).length;
@@ -103,7 +105,7 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
                 style={{ background: "rgb(var(--accent) / 0.08)" }}
               >
                 <div className="flex items-center justify-between mb-1">
-                  <span className="text-2xl">{c.flag}</span>
+                  <Flag code={c.code} size={24} />
                   <span className="text-2xl font-display font-semibold text-accent">
                     {c.count}
                   </span>
@@ -236,9 +238,9 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
                   <td className="p-2 whitespace-nowrap sticky left-0 bg-bg-elevated/60">
                     <Link
                       href={`/paises/${c.code.toLowerCase()}`}
-                      className="hover:text-accent"
+                      className="hover:text-accent inline-flex items-center gap-1"
                     >
-                      {c.flag} {c.name}
+                      <Flag code={c.code} size={14} /> {c.name}
                     </Link>
                   </td>
                   {(Object.keys(AREAS) as Area[]).map((a) => {
@@ -390,7 +392,7 @@ function CountryTotalsTable({
             return (
               <tr key={String(row.country)} className="border-t border-border">
                 <td className="p-1">
-                  <span aria-hidden>{String(row.flag)}</span>{" "}
+                  <Flag code={String(row.code)} size={14} />{" "}
                   {String(row.country)}
                 </td>
                 <td className="p-1 text-right tabular-nums">{total}</td>

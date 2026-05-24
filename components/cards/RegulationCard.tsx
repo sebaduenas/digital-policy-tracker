@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { IndexedRegulation } from "@/lib/index-types";
 import { CountryFlag } from "@/components/ui/CountryFlag";
+import { Flag } from "@/components/ui/Flag";
 import { AREAS, NORM_TYPES, STATUSES } from "@/lib/taxonomy";
 import { ChevronRight, ExternalLink, NotebookPen } from "lucide-react";
 
@@ -14,7 +15,7 @@ export function RegulationCard({ r }: { r: IndexedRegulation }) {
   return (
     <article className="group relative flex flex-col rounded-xl border border-border bg-bg-elevated p-5 hover:border-accent/60 hover:shadow-[0_2px_24px_-12px_rgb(var(--accent)/0.4)] transition-all">
       <div className="flex items-center gap-2 mb-2">
-        <CountryFlag code={r.country} link={false} showName={false} className="text-lg" />
+        <CountryFlag code={r.country} link={false} showName={false} size={18} />
         <span className="text-[0.65rem] text-fg-muted uppercase tracking-[0.15em] font-medium">
           {r.countryName} · {NORM_TYPES[r.normType]}
         </span>
@@ -71,9 +72,7 @@ export function RegulationCard({ r }: { r: IndexedRegulation }) {
 export function RegulationRow({ r }: { r: IndexedRegulation }) {
   return (
     <div className="group relative grid grid-cols-[auto_1fr_auto_auto] gap-4 items-center border-b border-border py-3 px-2 hover:bg-bg-elevated/60 transition-colors -mx-2 rounded-md">
-      <span className="text-xl" aria-hidden>
-        {r.countryFlag}
-      </span>
+      <Flag code={r.country} size={20} />
       <div className="min-w-0">
         <p className="font-medium text-fg group-hover:text-accent truncate transition-colors">
           <Link

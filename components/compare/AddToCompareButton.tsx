@@ -4,12 +4,14 @@ import * as React from "react";
 import Link from "next/link";
 import { GitCompare, Check, Plus, X } from "lucide-react";
 import { cn } from "@/lib/utils";
+import type { CountryCode } from "@/lib/taxonomy";
+import { Flag } from "@/components/ui/Flag";
 import { useComparator } from "./ComparatorContext";
 
 export interface CompareItem {
   id: string;
   shortTitle: string;
-  countryFlag: string;
+  country: CountryCode;
   countryName: string;
 }
 
@@ -98,7 +100,7 @@ export function AddToCompareButton({
                             : "text-fg-muted hover:bg-bg-sunken hover:text-fg",
                       )}
                     >
-                      <span aria-hidden>{r.countryFlag}</span>
+                      <Flag code={r.country} size={14} />
                       <span className="min-w-0 flex-1 truncate">{r.shortTitle}</span>
                       {selected ? (
                         <Check className="h-3.5 w-3.5 shrink-0 text-accent" />

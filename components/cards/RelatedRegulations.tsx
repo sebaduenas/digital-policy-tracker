@@ -1,7 +1,8 @@
 import Link from "next/link";
 import { ArrowRight, ArrowLeftRight, History } from "lucide-react";
 import type { Regulation } from "@/lib/schemas/regulation";
-import { COUNTRIES, type CountryCode } from "@/lib/taxonomy";
+import { type CountryCode } from "@/lib/taxonomy";
+import { Flag } from "@/components/ui/Flag";
 
 interface Props {
   current: Regulation;
@@ -71,7 +72,6 @@ function RelatedCard({
   reg: Regulation;
   tone: "accent" | "muted" | "destructive";
 }) {
-  const country = COUNTRIES[reg.country as CountryCode];
   const toneStyles: Record<string, string> = {
     accent: "text-accent",
     muted: "text-fg-muted",
@@ -88,7 +88,7 @@ function RelatedCard({
           {label}
         </p>
         <p className="text-sm font-medium text-fg group-hover:text-accent transition-colors truncate">
-          {country?.flag} {reg.shortTitle}
+          <Flag code={reg.country as CountryCode} size={14} /> {reg.shortTitle}
         </p>
         <p className="text-xs text-fg-muted line-clamp-1 mt-0.5">
           {reg.officialTitle}

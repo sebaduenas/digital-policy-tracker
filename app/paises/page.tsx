@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { getIndex } from "@/lib/index";
 import { COUNTRIES } from "@/lib/taxonomy";
+import { Flag } from "@/components/ui/Flag";
 
 export const metadata: Metadata = {
   title: "Países",
@@ -57,9 +58,7 @@ export default async function CountriesIndex() {
                     }
                     className="group flex items-center gap-3 rounded-lg border border-border bg-bg-elevated p-4 hover:border-accent/60 hover:shadow-sm transition-all"
                   >
-                    <span className="text-3xl" aria-hidden>
-                      {c.flag}
-                    </span>
+                    <Flag code={c.code} size={30} />
                     <div className="flex-1 min-w-0">
                       <p className="font-medium text-fg group-hover:text-accent transition-colors">
                         {c.name}

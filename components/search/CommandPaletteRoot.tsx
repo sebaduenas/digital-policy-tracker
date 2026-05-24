@@ -13,7 +13,8 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import Fuse from "fuse.js";
 import type { IndexedRegulation } from "@/lib/index-types";
-import { COUNTRIES, AREAS } from "@/lib/taxonomy";
+import { COUNTRIES, AREAS, type CountryCode } from "@/lib/taxonomy";
+import { Flag } from "@/components/ui/Flag";
 import { cn } from "@/lib/utils";
 
 interface Props {
@@ -113,7 +114,7 @@ export function CommandPaletteRoot({ index, open, setOpen }: Props) {
                     <FileText className="h-4 w-4 mt-0.5 text-fg-muted shrink-0" />
                     <div className="flex-1 min-w-0">
                       <p className="text-sm text-fg truncate">
-                        <span className="text-fg-muted">{r.countryFlag}</span>{" "}
+                        <Flag code={r.country} size={13} />{" "}
                         {r.shortTitle}
                       </p>
                       <p className="text-xs text-fg-muted truncate">
@@ -142,7 +143,7 @@ export function CommandPaletteRoot({ index, open, setOpen }: Props) {
                         className="flex items-center gap-2 rounded-md px-2 py-1.5 cursor-pointer text-sm data-[selected=true]:bg-bg"
                       >
                         <MapPin className="h-3.5 w-3.5 text-fg-muted" />
-                        <span>{c.flag}</span>
+                        <Flag code={code as CountryCode} size={16} />
                         <span>{c.name}</span>
                       </Command.Item>
                     ))}

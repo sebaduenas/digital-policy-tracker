@@ -12,6 +12,7 @@ import {
 } from "@/lib/taxonomy";
 import { RegulationRow } from "@/components/cards/RegulationCard";
 import { MiniTimeline } from "@/components/MiniTimeline";
+import { Flag } from "@/components/ui/Flag";
 
 interface PageProps {
   params: Promise<{ code: string }>;
@@ -89,9 +90,7 @@ export default async function CountryPage({ params }: PageProps) {
     <div className="container py-8">
       <header className="flex flex-col sm:flex-row sm:items-end gap-4 mb-8">
         <div className="flex items-center gap-4">
-          <span className="text-5xl" aria-hidden>
-            {country.flag}
-          </span>
+          <Flag code={upper} size={42} />
           <div>
             <p className="text-xs uppercase tracking-wider text-fg-muted">
               {country.region}

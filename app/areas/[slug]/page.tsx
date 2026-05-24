@@ -5,6 +5,7 @@ import { getIndex } from "@/lib/index";
 import { AREAS, COUNTRIES, type Area, type CountryCode } from "@/lib/taxonomy";
 import { RegulationRow } from "@/components/cards/RegulationCard";
 import { areaColor } from "@/components/ui/AreaChip";
+import { Flag } from "@/components/ui/Flag";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -84,9 +85,7 @@ export default async function AreaPage({ params }: PageProps) {
                     background: `rgb(${color} / ${0.05 + intensity * 0.15})`,
                   }}
                 >
-                  <span className="text-2xl" aria-hidden>
-                    {c.flag}
-                  </span>
+                  <Flag code={c.code} size={22} />
                   <div className="flex-1 min-w-0">
                     <p className="text-sm font-medium truncate">{c.name}</p>
                     <p className="text-xs text-fg-muted">

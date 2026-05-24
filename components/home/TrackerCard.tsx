@@ -3,6 +3,7 @@ import { Package, ChevronRight } from "lucide-react";
 import type { IndexedRegulation } from "@/lib/index-types";
 import { STATUSES, NORM_TYPES } from "@/lib/taxonomy";
 import { formatDate } from "@/lib/utils";
+import { Flag } from "@/components/ui/Flag";
 
 interface Props {
   reg: IndexedRegulation;
@@ -41,7 +42,7 @@ export function TrackerCard({ reg, publicationDate, effectiveDate, authority }: 
         </span>
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 text-[0.7rem] text-fg-muted">
-            <span aria-hidden>{reg.countryFlag}</span>
+            <Flag code={reg.country} size={14} />
             <span className="uppercase tracking-wider font-semibold">
               {reg.countryName}
             </span>

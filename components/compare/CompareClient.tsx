@@ -10,6 +10,7 @@ import { AREAS, COUNTRIES, NORM_TYPES, STATUSES, type CountryCode, type Area } f
 import { Button } from "@/components/ui/Button";
 import { Input } from "@/components/ui/Input";
 import { CountryFlag } from "@/components/ui/CountryFlag";
+import { Flag } from "@/components/ui/Flag";
 import { cn } from "@/lib/utils";
 import { formatDate } from "@/lib/utils";
 
@@ -117,7 +118,7 @@ export function CompareClient({ index, regulations }: Props) {
                   className="p-3 text-left align-top border-l border-border"
                 >
                   <div className="flex items-start gap-2 mb-1">
-                    <CountryFlag code={r.country as CountryCode} link={false} showName={false} className="text-xl" />
+                    <CountryFlag code={r.country as CountryCode} link={false} showName={false} size={22} />
                     <button
                       type="button"
                       onClick={() => remove(r.id)}
@@ -326,7 +327,7 @@ function PickerPanel({
               onClick={() => add(r.id)}
               className="flex items-start gap-3 p-2 text-left rounded-md hover:bg-bg transition-colors"
             >
-              <span className="text-xl">{r.countryFlag}</span>
+              <Flag code={r.country} size={18} />
               <div className="min-w-0">
                 <p className="text-sm font-medium truncate">{r.shortTitle}</p>
                 <p className="text-xs text-fg-muted truncate">

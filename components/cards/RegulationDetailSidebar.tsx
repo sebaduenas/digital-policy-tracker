@@ -7,6 +7,7 @@ import {
   type CountryCode,
 } from "@/lib/taxonomy";
 import { formatDate } from "@/lib/utils";
+import { Flag } from "@/components/ui/Flag";
 import { ExternalLink, BookOpen } from "lucide-react";
 import Link from "next/link";
 
@@ -26,7 +27,7 @@ export function RegulationDetailSidebar({ reg }: { reg: Regulation }) {
             href={`/paises/${reg.country.toLowerCase()}`}
             className="hover:text-accent"
           >
-            {country?.flag} {country?.name}
+            <Flag code={reg.country as CountryCode} size={14} /> {country?.name}
           </Link>
         </Row>
         {reg.applicationScope && (

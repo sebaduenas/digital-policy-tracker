@@ -1,15 +1,24 @@
 import Link from "next/link";
 import { COUNTRIES, type CountryCode } from "@/lib/taxonomy";
 import { cn } from "@/lib/utils";
+import { Flag } from "@/components/ui/Flag";
 
 interface Props {
   code: CountryCode;
   link?: boolean;
   showName?: boolean;
+  /** Flag height in px. */
+  size?: number;
   className?: string;
 }
 
-export function CountryFlag({ code, link = true, showName = true, className }: Props) {
+export function CountryFlag({
+  code,
+  link = true,
+  showName = true,
+  size = 16,
+  className,
+}: Props) {
   const meta = COUNTRIES[code];
   if (!meta) return null;
   const node = (
@@ -20,9 +29,7 @@ export function CountryFlag({ code, link = true, showName = true, className }: P
         className,
       )}
     >
-      <span aria-hidden className="text-base leading-none">
-        {meta.flag}
-      </span>
+      <Flag code={code} size={size} />
       {showName && <span>{meta.name}</span>}
     </span>
   );

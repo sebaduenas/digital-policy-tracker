@@ -70,7 +70,7 @@ export default async function RegulationDetail({ params }: PageProps) {
     .map((r) => ({
       id: r.id,
       shortTitle: r.shortTitle,
-      countryFlag: r.countryFlag,
+      country: r.country,
       countryName: r.countryName,
     }))
     .slice(0, 40);
@@ -132,7 +132,7 @@ export default async function RegulationDetail({ params }: PageProps) {
               self={{
                 id: reg.id,
                 shortTitle: reg.shortTitle,
-                countryFlag: country?.flag ?? "",
+                country: reg.country as CountryCode,
                 countryName: country?.name ?? "",
               }}
               sameArea={sameArea}

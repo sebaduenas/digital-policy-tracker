@@ -4,6 +4,7 @@ import Link from "next/link";
 import { COUNTRIES, type CountryCode } from "@/lib/taxonomy";
 import type { IndexedRegulation } from "@/lib/index-types";
 import { useLocale } from "@/lib/i18n";
+import { Flag } from "@/components/ui/Flag";
 
 export function CountryStrip({ data }: { data: IndexedRegulation[] }) {
   const { t } = useLocale();
@@ -41,9 +42,7 @@ export function CountryStrip({ data }: { data: IndexedRegulation[] }) {
                 style={{ borderRadius: 6 }}
                 title={`${c.name} · ${c.count} normas`}
               >
-                <span className="text-lg" aria-hidden>
-                  {c.flag}
-                </span>
+                <Flag code={c.code} size={18} />
                 <span className="text-sm font-medium truncate flex-1 text-fg">
                   {c.name}
                 </span>

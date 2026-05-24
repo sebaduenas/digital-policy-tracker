@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Package, ChevronRight } from "lucide-react";
 import type { IndexedRegulation } from "@/lib/index-types";
 import { NORM_TYPES } from "@/lib/taxonomy";
+import { Flag } from "@/components/ui/Flag";
 
 export function ShipmentRow({ reg }: { reg: IndexedRegulation }) {
   return (
@@ -17,7 +18,7 @@ export function ShipmentRow({ reg }: { reg: IndexedRegulation }) {
           {reg.shortTitle}
         </p>
         <p className="text-[0.7rem] text-fg-muted truncate">
-          <span aria-hidden>{reg.countryFlag}</span> {reg.countryName} ·{" "}
+          <Flag code={reg.country} size={14} /> {reg.countryName} ·{" "}
           {NORM_TYPES[reg.normType]} · {reg.year}
         </p>
       </div>
