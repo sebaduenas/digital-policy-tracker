@@ -24,11 +24,9 @@ import {
   type Status,
 } from "@/lib/taxonomy";
 import { areaColor } from "@/components/ui/AreaChip";
-import { statusColor } from "@/components/ui/StatusBadge";
 
 export function Dashboard({ data }: { data: IndexedRegulation[] }) {
   const total = data.length;
-  const countries = new Set(data.map((d) => d.country)).size;
   const inForce = data.filter((d) => d.status === "vigente").length;
   const projects = data.filter((d) =>
     d.status.startsWith("proyecto"),
@@ -83,21 +81,15 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
 
   return (
     <div className="space-y-8">
-      {/* KPIs */}
-      <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
-        <Kpi value={total} label="Regulaciones" />
-        <Kpi value={countries} label="Países cubiertos" />
-        <Kpi
-          value={inForce}
-          label="Vigentes"
-          accentColor={`rgb(${statusColor("vigente")})`}
-        />
-        <Kpi
-          value={projects}
-          label="Proyectos en discusión"
-          accentColor={`rgb(${statusColor("proyecto-en-discusion")})`}
-        />
-      </div>
+      {/* Summary line */}
+      <p className="text-sm sm:text-base text-fg-muted">
+        <span className="font-semibold text-fg">{total}</span> regulaciones
+        <span className="mx-2 text-fg-muted/40">·</span>
+        <span className="font-semibold text-accent">{inForce}</span> vigentes
+        <span className="mx-2 text-fg-muted/40">·</span>
+        <span className="font-semibold text-accent">{projects}</span> proyectos en
+        discusión
+      </p>
 
       {/* Country counts */}
       <Section title="Número de regulaciones por país">
@@ -326,25 +318,6 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
           </ResponsiveContainer>
         </div>
       </Section>
-    </div>
-  );
-}
-
-function Kpi({
-  value,
-  label,
-  accentColor,
-}: {
-  value: number | string;
-  label: string;
-  accentColor?: string;
-}) {
-  return (
-    <div className="rounded-xl border border-border bg-bg-elevated p-5">
-      <p className="font-display text-3xl font-semibold" style={{ color: accentColor }}>
-        {value}
-      </p>
-      <p className="text-xs text-fg-muted uppercase tracking-wider mt-1">{label}</p>
     </div>
   );
 }
