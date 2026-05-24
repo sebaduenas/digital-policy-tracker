@@ -177,7 +177,7 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
           title="Estado por país"
           subtitle="Distribución de regulaciones según vigencia y trámite"
         >
-          <div className="h-72">
+          <div className="flex-1 min-h-[18rem]">
             <ResponsiveContainer>
               <BarChart
                 data={byCountryByStatus}
@@ -362,7 +362,7 @@ function Section({
   children: React.ReactNode;
 }) {
   return (
-    <section className="rounded-xl border border-border bg-bg-elevated/40 p-5">
+    <section className="flex flex-col rounded-xl border border-border bg-bg-elevated/40 p-5">
       <h2 className="font-display text-lg font-semibold">{title}</h2>
       {subtitle && <p className="text-xs text-fg-muted mt-0.5 mb-4">{subtitle}</p>}
       {children}
