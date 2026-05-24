@@ -7,24 +7,24 @@
     /* Surfaces */
     --bg: 255 255 255;
     --bg-elevated: 255 255 255;
-    --bg-sunken: 245 245 245;
-    --bg-mint: 229 241 235;
-    --bg-dark: 23 23 23;
+    --bg-sunken: 240 244 250;
+    --bg-mint: 224 238 252;
+    --bg-dark: 56 73 89;
 
     /* Foreground */
-    --fg: 23 23 23;
-    --fg-muted: 115 115 115;
-    --border: 229 229 229;
-    --border-strong: 212 212 212;
+    --fg: 51 65 80;
+    --fg-muted: 106 137 167;
+    --border: 214 224 234;
+    --border-strong: 180 196 212;
 
-    /* Accent — mint teal */
-    --accent: 79 186 148;
-    --accent-fg: 255 255 255;
-    --accent-soft: 229 241 235;
-    --accent-deep: 59 163 125;
+    /* Accent — Stormy morning (azules) */
+    --accent: 136 189 242;
+    --accent-fg: 18 26 38;
+    --accent-soft: 224 238 252;
+    --accent-deep: 99 158 222;
 
-    /* Sand (cards tertiarias) */
-    --sand: 221 181 139;
+    /* Neutro de apoyo (azul acero) */
+    --sand: 106 137 167;
 
     /* Áreas */
     --area-ia: 124 58 237;
@@ -38,14 +38,14 @@
     --area-identidad-digital: 13 148 136;
     --area-menores-online: 219 39 119;
 
-    /* Estados — escala mint cohesiva con paleta */
-    --status-vigente: 79 186 148;                       /* mint base — dominante */
-    --status-proyecto-en-discusion: 175 232 205;        /* mint pale */
-    --status-aprobado-pendiente-promulgacion: 59 163 125; /* mint deep */
-    --status-reglamento-pendiente: 109 209 173;         /* mint brillante */
-    --status-vigencia-diferida: 221 181 139;            /* sand (cálido único) */
-    --status-veto-pendiente: 130 130 130;               /* gris medio */
-    --status-derogado: 80 80 80;                        /* gris oscuro */
+    /* Estados — escala azul cohesiva con la paleta */
+    --status-vigente: 136 189 242;                      /* sky — dominante */
+    --status-proyecto-en-discusion: 189 221 252;        /* azul pálido */
+    --status-aprobado-pendiente-promulgacion: 106 137 167; /* azul acero */
+    --status-reglamento-pendiente: 99 158 222;          /* azul medio */
+    --status-vigencia-diferida: 150 170 190;            /* azul grisáceo */
+    --status-veto-pendiente: 128 138 150;               /* gris azulado */
+    --status-derogado: 92 104 118;                      /* gris oscuro */
 
     /* Tipografía: Inter solo (Banquee es display sans) */
     --font-display: 'Inter', system-ui, sans-serif;
@@ -53,42 +53,42 @@
     --font-mono: 'JetBrains Mono', monospace;
 
     /* Aliases legacy */
-    --nav-bg: 23 23 23;
+    --nav-bg: 56 73 89;
     --nav-fg: 255 255 255;
-    --nav-fg-muted: 163 163 163;
-    --hero-from: 229 241 235;
+    --nav-fg-muted: 200 211 224;
+    --hero-from: 224 238 252;
     --hero-to: 255 255 255;
-    --hero-deep: 79 186 148;
-    --navy: 23 23 23;
+    --hero-deep: 136 189 242;
+    --navy: 56 73 89;
     --navy-fg: 255 255 255;
-    --navy-muted: 163 163 163;
+    --navy-muted: 200 211 224;
   }
 
   .dark {
-    --bg: 15 16 17;
-    --bg-elevated: 23 23 23;
-    --bg-sunken: 10 10 10;
-    --bg-mint: 22 38 32;
+    --bg: 15 18 24;
+    --bg-elevated: 28 36 48;
+    --bg-sunken: 11 14 19;
+    --bg-mint: 30 44 61;
     --bg-dark: 0 0 0;
 
-    --fg: 245 245 245;
-    --fg-muted: 156 156 156;
-    --border: 40 40 40;
-    --border-strong: 60 60 60;
+    --fg: 238 243 248;
+    --fg-muted: 148 166 186;
+    --border: 44 56 71;
+    --border-strong: 66 82 100;
 
-    --accent: 109 209 173;
-    --accent-fg: 15 16 17;
-    --accent-soft: 22 38 32;
-    --accent-deep: 156 232 200;
+    --accent: 136 189 242;
+    --accent-fg: 16 22 32;
+    --accent-soft: 30 44 61;
+    --accent-deep: 168 207 244;
 
     --nav-bg: 0 0 0;
-    --nav-fg: 245 245 245;
-    --nav-fg-muted: 156 156 156;
-    --hero-from: 22 38 32;
-    --hero-to: 15 16 17;
-    --hero-deep: 109 209 173;
+    --nav-fg: 238 243 248;
+    --nav-fg-muted: 148 166 186;
+    --hero-from: 30 44 61;
+    --hero-to: 15 18 24;
+    --hero-deep: 136 189 242;
     --navy: 0 0 0;
-    --navy-fg: 245 245 245;
+    --navy-fg: 238 243 248;
   }
 
   * { @apply border-border; }
@@ -177,7 +177,7 @@
 
   .btn-primary {
     background: rgb(var(--accent));
-    color: white;
+    color: rgb(var(--accent-fg));
   }
   .btn-primary:hover { background: rgb(var(--accent-deep)); }
 
