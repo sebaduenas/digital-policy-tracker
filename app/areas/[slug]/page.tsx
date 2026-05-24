@@ -4,7 +4,6 @@ import Link from "next/link";
 import { getIndex } from "@/lib/index";
 import { AREAS, COUNTRIES, type Area, type CountryCode } from "@/lib/taxonomy";
 import { RegulationRow } from "@/components/cards/RegulationCard";
-import { areaColor } from "@/components/ui/AreaChip";
 import { Flag } from "@/components/ui/Flag";
 
 interface PageProps {
@@ -32,7 +31,6 @@ export default async function AreaPage({ params }: PageProps) {
 
   const all = await getIndex();
   const items = all.filter((r) => r.areas.includes(slug as Area));
-  const color = areaColor(slug as Area);
 
   const byCountry = (Object.keys(COUNTRIES) as CountryCode[])
     .map((c) => ({
@@ -45,21 +43,12 @@ export default async function AreaPage({ params }: PageProps) {
 
   return (
     <div className="container py-8">
-      <header className="relative rounded-2xl border border-border p-6 sm:p-8 mb-8 overflow-hidden">
-        <div
-          className="absolute inset-0 opacity-[0.07]"
-          style={{
-            background: `radial-gradient(at top left, rgb(${color}) 0%, transparent 60%)`,
-          }}
-        />
-        <div className="relative">
+      <header className="rounded-2xl border border-border bg-bg-elevated/40 p-6 sm:p-8 mb-8">
+        <div>
           <p className="text-xs uppercase tracking-wider text-fg-muted">
             Área temática · {items.length} ficha{items.length === 1 ? "" : "s"}
           </p>
-          <h1
-            className="font-display text-3xl sm:text-4xl font-semibold tracking-tight mt-1"
-            style={{ color: `rgb(${color})` }}
-          >
+          <h1 className="font-display text-3xl sm:text-4xl font-semibold tracking-tight mt-1">
             {area.name}
           </h1>
           <p className="mt-3 text-fg-muted max-w-3xl leading-relaxed">
@@ -75,15 +64,11 @@ export default async function AreaPage({ params }: PageProps) {
           </h2>
           <div className="rounded-xl border border-border bg-bg-elevated/40 p-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
             {byCountry.map((c) => {
-              const intensity = Math.min(1, c.count / 5);
               return (
                 <Link
                   key={c.code}
                   href={`/regulaciones?country=${c.code}&area=${slug}`}
-                  className="flex items-center gap-3 rounded-lg border border-border p-3 hover:border-accent/60 transition-all"
-                  style={{
-                    background: `rgb(${color} / ${0.05 + intensity * 0.15})`,
-                  }}
+                  className="flex items-center gap-3 rounded-lg border border-border bg-bg-elevated p-3 hover:border-accent/60 transition-all"
                 >
                   <Flag code={c.code} size={22} />
                   <div className="flex-1 min-w-0">
