@@ -5,26 +5,26 @@
 @layer base {
   :root {
     /* Surfaces */
-    --bg: 254 255 255;
-    --bg-elevated: 254 255 255;
-    --bg-sunken: 237 246 245;
-    --bg-mint: 222 242 241;
-    --bg-dark: 23 37 42;
+    --bg: 255 255 255;
+    --bg-elevated: 255 255 255;
+    --bg-sunken: 245 245 245;
+    --bg-mint: 229 241 235;
+    --bg-dark: 23 23 23;
 
     /* Foreground */
-    --fg: 23 37 42;
-    --fg-muted: 75 102 101;
-    --border: 210 228 226;
-    --border-strong: 178 206 203;
+    --fg: 23 23 23;
+    --fg-muted: 115 115 115;
+    --border: 229 229 229;
+    --border-strong: 212 212 212;
 
-    /* Accent — Teal (SERIO) */
-    --accent: 58 175 169;
-    --accent-fg: 23 37 42;
-    --accent-soft: 222 242 241;
-    --accent-deep: 43 122 120;
+    /* Accent — mint teal */
+    --accent: 79 186 148;
+    --accent-fg: 255 255 255;
+    --accent-soft: 229 241 235;
+    --accent-deep: 59 163 125;
 
-    /* Neutro de apoyo (teal oscuro) */
-    --sand: 43 122 120;
+    /* Sand (cards tertiarias) */
+    --sand: 221 181 139;
 
     /* Áreas */
     --area-ia: 124 58 237;
@@ -38,14 +38,14 @@
     --area-identidad-digital: 13 148 136;
     --area-menores-online: 219 39 119;
 
-    /* Estados — escala teal cohesiva con la paleta */
-    --status-vigente: 58 175 169;                       /* teal — dominante */
-    --status-proyecto-en-discusion: 175 224 221;        /* teal pálido */
-    --status-aprobado-pendiente-promulgacion: 43 122 120; /* teal oscuro */
-    --status-reglamento-pendiente: 96 205 199;          /* teal claro */
-    --status-vigencia-diferida: 150 180 178;            /* teal grisáceo */
-    --status-veto-pendiente: 128 138 138;               /* gris */
-    --status-derogado: 92 108 108;                      /* gris oscuro */
+    /* Estados — escala mint cohesiva con paleta */
+    --status-vigente: 79 186 148;                       /* mint base — dominante */
+    --status-proyecto-en-discusion: 175 232 205;        /* mint pale */
+    --status-aprobado-pendiente-promulgacion: 59 163 125; /* mint deep */
+    --status-reglamento-pendiente: 109 209 173;         /* mint brillante */
+    --status-vigencia-diferida: 221 181 139;            /* sand (cálido único) */
+    --status-veto-pendiente: 130 130 130;               /* gris medio */
+    --status-derogado: 80 80 80;                        /* gris oscuro */
 
     /* Tipografía: Inter solo (Banquee es display sans) */
     --font-display: 'Inter', system-ui, sans-serif;
@@ -53,42 +53,42 @@
     --font-mono: 'JetBrains Mono', monospace;
 
     /* Aliases legacy */
-    --nav-bg: 23 37 42;
-    --nav-fg: 254 255 255;
-    --nav-fg-muted: 196 220 218;
-    --hero-from: 222 242 241;
-    --hero-to: 254 255 255;
-    --hero-deep: 58 175 169;
-    --navy: 23 37 42;
-    --navy-fg: 254 255 255;
-    --navy-muted: 196 220 218;
+    --nav-bg: 23 23 23;
+    --nav-fg: 255 255 255;
+    --nav-fg-muted: 163 163 163;
+    --hero-from: 229 241 235;
+    --hero-to: 255 255 255;
+    --hero-deep: 79 186 148;
+    --navy: 23 23 23;
+    --navy-fg: 255 255 255;
+    --navy-muted: 163 163 163;
   }
 
   .dark {
-    --bg: 23 37 42;
-    --bg-elevated: 30 48 54;
-    --bg-sunken: 17 28 31;
-    --bg-mint: 28 58 56;
+    --bg: 15 16 17;
+    --bg-elevated: 23 23 23;
+    --bg-sunken: 10 10 10;
+    --bg-mint: 22 38 32;
     --bg-dark: 0 0 0;
 
-    --fg: 235 246 245;
-    --fg-muted: 138 170 168;
-    --border: 42 64 68;
-    --border-strong: 60 86 90;
+    --fg: 245 245 245;
+    --fg-muted: 156 156 156;
+    --border: 40 40 40;
+    --border-strong: 60 60 60;
 
-    --accent: 58 175 169;
-    --accent-fg: 23 37 42;
-    --accent-soft: 28 58 56;
-    --accent-deep: 96 205 199;
+    --accent: 109 209 173;
+    --accent-fg: 15 16 17;
+    --accent-soft: 22 38 32;
+    --accent-deep: 156 232 200;
 
     --nav-bg: 0 0 0;
-    --nav-fg: 235 246 245;
-    --nav-fg-muted: 138 170 168;
-    --hero-from: 28 58 56;
-    --hero-to: 23 37 42;
-    --hero-deep: 58 175 169;
+    --nav-fg: 245 245 245;
+    --nav-fg-muted: 156 156 156;
+    --hero-from: 22 38 32;
+    --hero-to: 15 16 17;
+    --hero-deep: 109 209 173;
     --navy: 0 0 0;
-    --navy-fg: 235 246 245;
+    --navy-fg: 245 245 245;
   }
 
   * { @apply border-border; }
@@ -177,7 +177,7 @@
 
   .btn-primary {
     background: rgb(var(--accent));
-    color: rgb(var(--accent-fg));
+    color: white;
   }
   .btn-primary:hover { background: rgb(var(--accent-deep)); }
 
