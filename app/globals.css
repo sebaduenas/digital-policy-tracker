@@ -4,27 +4,27 @@
 
 @layer base {
   :root {
-    /* Surfaces */
-    --bg: 254 255 255;
-    --bg-elevated: 254 255 255;
-    --bg-sunken: 237 246 245;
-    --bg-mint: 222 242 241;
-    --bg-dark: 23 37 42;
+    /* Surfaces — cálidas (warm white + tintes tan/peach) */
+    --bg: 253 250 246;
+    --bg-elevated: 255 253 250;
+    --bg-sunken: 244 237 229;
+    --bg-mint: 248 235 226;
+    --bg-dark: 58 70 96;
 
-    /* Foreground */
-    --fg: 23 37 42;
-    --fg-muted: 75 102 101;
-    --border: 210 228 226;
-    --border-strong: 178 206 203;
+    /* Foreground — French Laundry Blue */
+    --fg: 58 70 96;
+    --fg-muted: 110 119 142;
+    --border: 232 222 209;
+    --border-strong: 214 196 175;
 
-    /* Accent — Teal (SERIO) */
-    --accent: 58 175 169;
-    --accent-fg: 23 37 42;
-    --accent-soft: 222 242 241;
-    --accent-deep: 43 122 120;
+    /* Accent — Peachy Kreme + Brown Bonnet */
+    --accent: 237 138 99;
+    --accent-fg: 255 255 255;
+    --accent-soft: 250 230 219;
+    --accent-deep: 132 80 7;
 
-    /* Neutro de apoyo (teal oscuro) */
-    --sand: 43 122 120;
+    /* Neutro de apoyo — Comfortably Tan */
+    --sand: 201 175 152;
 
     /* Áreas */
     --area-ia: 124 58 237;
@@ -38,14 +38,14 @@
     --area-identidad-digital: 13 148 136;
     --area-menores-online: 219 39 119;
 
-    /* Estados — escala teal cohesiva con la paleta */
-    --status-vigente: 58 175 169;                       /* teal — dominante */
-    --status-proyecto-en-discusion: 175 224 221;        /* teal pálido */
-    --status-aprobado-pendiente-promulgacion: 43 122 120; /* teal oscuro */
-    --status-reglamento-pendiente: 96 205 199;          /* teal claro */
-    --status-vigencia-diferida: 150 180 178;            /* teal grisáceo */
-    --status-veto-pendiente: 128 138 138;               /* gris */
-    --status-derogado: 92 108 108;                      /* gris oscuro */
+    /* Estados — escala cálida cohesiva con la paleta */
+    --status-vigente: 237 138 99;                       /* Peachy Kreme — dominante */
+    --status-proyecto-en-discusion: 201 175 152;        /* Comfortably Tan */
+    --status-aprobado-pendiente-promulgacion: 132 80 7; /* Brown Bonnet */
+    --status-reglamento-pendiente: 242 184 152;         /* peach claro */
+    --status-vigencia-diferida: 138 150 174;            /* azul apagado */
+    --status-veto-pendiente: 150 142 130;               /* gris cálido */
+    --status-derogado: 92 100 120;                      /* azul grisáceo oscuro */
 
     /* Tipografía: Inter solo (Banquee es display sans) */
     --font-display: 'Inter', system-ui, sans-serif;
@@ -53,42 +53,42 @@
     --font-mono: 'JetBrains Mono', monospace;
 
     /* Aliases legacy */
-    --nav-bg: 23 37 42;
-    --nav-fg: 254 255 255;
-    --nav-fg-muted: 196 220 218;
-    --hero-from: 222 242 241;
-    --hero-to: 254 255 255;
-    --hero-deep: 58 175 169;
-    --navy: 23 37 42;
-    --navy-fg: 254 255 255;
-    --navy-muted: 196 220 218;
+    --nav-bg: 58 70 96;
+    --nav-fg: 253 250 246;
+    --nav-fg-muted: 180 188 206;
+    --hero-from: 248 235 226;
+    --hero-to: 253 250 246;
+    --hero-deep: 237 138 99;
+    --navy: 58 70 96;
+    --navy-fg: 253 250 246;
+    --navy-muted: 180 188 206;
   }
 
   .dark {
-    --bg: 23 37 42;
-    --bg-elevated: 30 48 54;
-    --bg-sunken: 17 28 31;
-    --bg-mint: 28 58 56;
+    --bg: 31 37 51;
+    --bg-elevated: 42 50 70;
+    --bg-sunken: 24 29 40;
+    --bg-mint: 54 44 36;
     --bg-dark: 0 0 0;
 
-    --fg: 235 246 245;
-    --fg-muted: 138 170 168;
-    --border: 42 64 68;
-    --border-strong: 60 86 90;
+    --fg: 245 238 230;
+    --fg-muted: 165 172 190;
+    --border: 58 66 88;
+    --border-strong: 78 88 114;
 
-    --accent: 58 175 169;
-    --accent-fg: 23 37 42;
-    --accent-soft: 28 58 56;
-    --accent-deep: 96 205 199;
+    --accent: 240 148 108;
+    --accent-fg: 255 255 255;
+    --accent-soft: 60 44 34;
+    --accent-deep: 244 170 130;
 
     --nav-bg: 0 0 0;
-    --nav-fg: 235 246 245;
-    --nav-fg-muted: 138 170 168;
-    --hero-from: 28 58 56;
-    --hero-to: 23 37 42;
-    --hero-deep: 58 175 169;
+    --nav-fg: 245 238 230;
+    --nav-fg-muted: 165 172 190;
+    --hero-from: 54 44 36;
+    --hero-to: 31 37 51;
+    --hero-deep: 237 138 99;
     --navy: 0 0 0;
-    --navy-fg: 235 246 245;
+    --navy-fg: 245 238 230;
   }
 
   * { @apply border-border; }
@@ -255,7 +255,7 @@
   .scrollbar-thin::-webkit-scrollbar-thumb { background: rgb(var(--border)); border-radius: 3px; }
   .shadow-soft { box-shadow: 0 1px 2px rgb(15 25 30 / 0.04), 0 2px 8px rgb(15 25 30 / 0.04); }
   .shadow-card { box-shadow: 0 2px 4px rgb(15 25 30 / 0.04), 0 8px 24px -4px rgb(15 25 30 / 0.06); }
-  .shadow-glass { box-shadow: 0 2px 8px rgb(20 60 40 / 0.08); }
+  .shadow-glass { box-shadow: 0 2px 8px rgb(60 44 30 / 0.10); }
 }
 
 @media print {
@@ -265,12 +265,12 @@
     --fg: 0 0 0;
     --fg-muted: 60 60 60;
     --border: 200 200 200;
-    --accent: 59 163 125;
+    --accent: 132 80 7;
   }
 
   header, footer, .sidebar, .no-print { display: none !important; }
   body { background: white !important; color: black !important; font-size: 11pt; }
-  a { color: rgb(59 163 125) !important; text-decoration: none !important; }
+  a { color: rgb(132 80 7) !important; text-decoration: none !important; }
   a[href^="http"]:after { content: " (" attr(href) ")"; font-size: 9pt; color: #555; }
   .container { max-width: 100% !important; padding: 0 !important; }
   article { page-break-inside: avoid; }
