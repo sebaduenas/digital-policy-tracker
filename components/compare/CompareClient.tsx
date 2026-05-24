@@ -9,8 +9,6 @@ import type { Regulation } from "@/lib/schemas/regulation";
 import { AREAS, COUNTRIES, NORM_TYPES, STATUSES, type CountryCode, type Area } from "@/lib/taxonomy";
 import { Button } from "@/components/ui/Button";
 import { Input } from "@/components/ui/Input";
-import { AreaChip } from "@/components/ui/AreaChip";
-import { StatusBadge } from "@/components/ui/StatusBadge";
 import { CountryFlag } from "@/components/ui/CountryFlag";
 import { cn } from "@/lib/utils";
 import { formatDate } from "@/lib/utils";
@@ -147,7 +145,7 @@ export function CompareClient({ index, regulations }: Props) {
             <Row
               label="Estado"
               rows={selected}
-              render={(r) => <StatusBadge status={r.status as keyof typeof STATUSES} />}
+              render={(r) => STATUSES[r.status as keyof typeof STATUSES].label}
             />
             <Row
               label="Tipo normativo"
@@ -157,13 +155,9 @@ export function CompareClient({ index, regulations }: Props) {
             <Row
               label="Materias"
               rows={selected}
-              render={(r) => (
-                <div className="flex flex-wrap gap-1">
-                  {(r.areas as Area[]).map((a) => (
-                    <AreaChip key={a} area={a} link={false} short />
-                  ))}
-                </div>
-              )}
+              render={(r) =>
+                (r.areas as Area[]).map((a) => AREAS[a].name).join(", ")
+              }
             />
             <Row
               label="Publicación"
