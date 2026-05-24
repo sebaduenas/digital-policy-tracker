@@ -181,17 +181,17 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
             <ResponsiveContainer>
               <BarChart
                 data={byCountryByStatus}
-                margin={{ top: 8, right: 8, bottom: 8, left: 0 }}
+                margin={{ top: 8, right: 8, bottom: 8, left: 12 }}
               >
                 <CartesianGrid strokeDasharray="2 4" stroke="rgb(var(--border))" vertical={false} />
                 <XAxis
                   dataKey="country"
-                  tick={{ fill: "rgb(var(--fg-muted))", fontSize: 11 }}
+                  tick={{ fill: "rgb(var(--fg-muted))", fontSize: 10 }}
                   axisLine={false}
                   tickLine={false}
                   interval={0}
-                  angle={-15}
-                  height={50}
+                  angle={-90}
+                  height={110}
                   textAnchor="end"
                 />
                 <YAxis
@@ -207,7 +207,7 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
                     dataKey={s}
                     name={STATUSES[s].label}
                     stackId="status"
-                    fill={`rgb(${statusColor(s)})`}
+                    fill={`rgb(${STATUSES[s].color})`}
                     radius={0}
                   />
                 ))}
