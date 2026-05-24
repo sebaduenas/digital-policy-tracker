@@ -99,19 +99,16 @@ export function Dashboard({ data }: { data: IndexedRegulation[] }) {
         />
       </div>
 
-      {/* Country temperature */}
-      <Section title="Mapa de temperatura regulatoria" subtitle="Cantidad de regulaciones curadas por país (top jurisdicciones)">
+      {/* Country counts */}
+      <Section title="Número de regulaciones por país">
         <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-6 gap-2">
           {countriesWithFichas.map((c) => {
-            const intensity = Math.min(1, c.count / Math.max(1, countriesWithFichas[0].count));
             return (
               <Link
                 key={c.code}
                 href={`/paises/${c.code.toLowerCase()}`}
-                className="group rounded-lg border border-border p-3 hover:border-accent/60 transition-all relative overflow-hidden"
-                style={{
-                  background: `rgb(var(--accent) / ${0.04 + intensity * 0.18})`,
-                }}
+                className="group rounded-lg border border-border p-3 hover:border-accent/60 transition-all"
+                style={{ background: "rgb(var(--accent) / 0.08)" }}
               >
                 <div className="flex items-center justify-between mb-1">
                   <span className="text-2xl">{c.flag}</span>
