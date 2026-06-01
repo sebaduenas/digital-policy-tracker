@@ -61,6 +61,14 @@ export default async function RegulationDetail({ params }: PageProps) {
   const country = COUNTRIES[reg.country as CountryCode];
 
   const index = await getIndex();
+  const allItems = index
+    .filter((r) => r.id !== reg.id)
+    .map((r) => ({
+      id: r.id,
+      shortTitle: r.shortTitle,
+      country: r.country,
+      countryName: r.countryName,
+    }));
   const sameArea = index
     .filter(
       (r) =>
@@ -136,6 +144,7 @@ export default async function RegulationDetail({ params }: PageProps) {
                 countryName: country?.name ?? "",
               }}
               sameArea={sameArea}
+              allItems={allItems}
             />
           </div>
         </header>
