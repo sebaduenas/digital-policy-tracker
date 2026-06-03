@@ -21,4 +21,7 @@ export interface IndexedRegulation {
   hasCriticalAnalysis: boolean;
   confidenceLevel: "alto" | "medio" | "bajo";
   officialUrl: string;
+  officialText?: string;
+  officialTextSource?: string;
+  officialTextBytes?: number;
 }

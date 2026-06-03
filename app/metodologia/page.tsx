@@ -116,7 +116,26 @@ export default function MetodologiaPage() {
           </li>
         </ul>
 
-        <h2>8. Licencias</h2>
+        <h2>8. Texto oficial integrado</h2>
+        <p>
+          Cuando es técnicamente posible, cada ficha incluye una sección{" "}
+          <strong>Texto oficial</strong> con la versión íntegra del documento
+          extraída automáticamente desde la URL oficial. Esta sección está
+          pensada para investigadores que requieren el texto completo para
+          análisis cuantitativos (lexicométrico, NLP, comparación entre
+          jurisdicciones). El mismo texto se incluye como columna{" "}
+          <code>officialText</code> en la descarga CSV.
+        </p>
+        <p>
+          Limitaciones: el texto se extrae automáticamente de PDFs o páginas
+          HTML, por lo que puede contener imperfecciones de formato, pérdidas de
+          tablas y errores menores de OCR. Para cualquier uso jurídico debe
+          remitirse a la versión publicada en la fuente oficial. Algunos textos
+          no pudieron extraerse por bloqueos de servidor, formato no
+          procesable o ausencia de versión digital estable.
+        </p>
+
+        <h2>9. Licencias</h2>
         <p>
           El contenido editorial (resúmenes, análisis editoriales, taxonomía) se
           publica bajo licencia <strong>Creative Commons BY 4.0</strong>. El
@@ -125,7 +144,7 @@ export default function MetodologiaPage() {
           origen.
         </p>
 
-        <h2>9. Limitaciones</h2>
+        <h2>10. Limitaciones</h2>
         <p>
           Este tracker no constituye asesoría legal. La información publicada
           puede no estar actualizada respecto a modificaciones recientes. Los
@@ -133,7 +152,7 @@ export default function MetodologiaPage() {
           oficial correspondiente.
         </p>
 
-        <h2>10. Cómo contribuir</h2>
+        <h2>11. Cómo contribuir</h2>
         <p>
           Aceptamos contribuciones externas mediante pull request en el
           repositorio público. Las fichas propuestas son revisadas por el editor

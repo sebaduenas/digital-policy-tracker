@@ -85,7 +85,17 @@ export const RegulationFrontmatterSchema = z.object({
 
 export type RegulationFrontmatter = z.infer<typeof RegulationFrontmatterSchema>;
 
+export interface OfficialTextMeta {
+  source: string;
+  sourceType: "pdf" | "html" | "text" | "manual" | "unknown";
+  fetchedAt: string;
+  bytes: number;
+  notes?: string;
+}
+
 export interface Regulation extends RegulationFrontmatter {
   body: string;
   filePath: string;
+  officialText?: string;
+  officialTextMeta?: OfficialTextMeta;
 }

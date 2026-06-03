@@ -9,6 +9,7 @@ import { CountryFlag } from "@/components/ui/CountryFlag";
 import { RegulationDetailSidebar } from "@/components/cards/RegulationDetailSidebar";
 import { CitationButtons } from "@/components/cards/CitationButtons";
 import { RelatedRegulations } from "@/components/cards/RelatedRegulations";
+import { OfficialTextSection } from "@/components/cards/OfficialTextSection";
 import { AddToCompareButton } from "@/components/compare/AddToCompareButton";
 import {
   AREAS,
@@ -214,6 +215,13 @@ export default async function RegulationDetail({ params }: PageProps) {
             <div className="mt-8">
               <CitationButtons reg={reg} />
             </div>
+
+            {reg.officialText && reg.officialTextMeta && (
+              <OfficialTextSection
+                text={reg.officialText}
+                meta={reg.officialTextMeta}
+              />
+            )}
           </div>
 
           <div className="lg:sticky lg:top-6 lg:self-start">

@@ -5,6 +5,7 @@ import {
   RegulationFrontmatterSchema,
   type Regulation,
 } from "@/lib/schemas/regulation";
+import { loadOfficialText } from "@/lib/official-text";
 
 const CONTENT_DIR = path.join(process.cwd(), "content", "regulations");
 
@@ -43,10 +44,13 @@ export async function loadRegulations(): Promise<Regulation[]> {
       );
       continue;
     }
+    const officialText = await loadOfficialText(parsed.data.slug);
     regulations.push({
       ...(parsed.data as Regulation),
       body: content.trim(),
       filePath: path.relative(process.cwd(), file),
+      officialText: officialText?.text,
+      officialTextMeta: officialText?.meta,
     });
   }
 
