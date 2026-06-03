@@ -216,9 +216,9 @@ export default async function RegulationDetail({ params }: PageProps) {
               <CitationButtons reg={reg} />
             </div>
 
-            {reg.officialText && reg.officialTextMeta && (
+            {reg.officialTextMeta && (
               <OfficialTextSection
-                text={reg.officialText}
+                slug={reg.slug}
                 meta={reg.officialTextMeta}
               />
             )}

@@ -21,7 +21,8 @@ export interface IndexedRegulation {
   hasCriticalAnalysis: boolean;
   confidenceLevel: "alto" | "medio" | "bajo";
   officialUrl: string;
-  officialText?: string;
+  /** Has an extracted official text available at /texts/{slug}.txt. */
+  hasOfficialText?: boolean;
   officialTextSource?: string;
   officialTextBytes?: number;
 }

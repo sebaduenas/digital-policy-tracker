@@ -96,6 +96,10 @@ export interface OfficialTextMeta {
 export interface Regulation extends RegulationFrontmatter {
   body: string;
   filePath: string;
-  officialText?: string;
+  /**
+   * Metadata about the official text (source URL, fetched date, etc.).
+   * The actual text is stored as a static asset at /texts/{slug}.txt and
+   * fetched lazily by the UI to keep prerendered pages small.
+   */
   officialTextMeta?: OfficialTextMeta;
 }

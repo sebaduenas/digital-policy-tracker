@@ -1,7 +1,7 @@
 import type { IndexedRegulation } from "@/lib/index-types";
 import { AREAS, COUNTRIES, NORM_TYPES, STATUSES } from "@/lib/taxonomy";
 
-const CSV_HEADERS = [
+const BASE_HEADERS = [
   "id",
   "shortTitle",
   "officialTitle",
@@ -17,7 +17,6 @@ const CSV_HEADERS = [
   "url",
   "officialTextSource",
   "officialTextBytes",
-  "officialText",
 ];
 
 function escape(value: string): string {
@@ -33,19 +32,17 @@ const SITE = (process.env.NEXT_PUBLIC_SITE_URL || "https://policytracker.lat")
   .trim()
   .replace(/\/+$/, "");
 
-export interface CsvOptions {
-  // CSV con texto crudo crece mucho. Permitimos omitirlo (descarga ligera).
-  includeOfficialText?: boolean;
-}
-
+/**
+ * Build a CSV of the catalog. When provided, `textsBySlug` is a map of
+ * slug -> raw official text; the result will include an `officialText`
+ * column with that text inlined per row. Without it, the CSV remains light
+ * and is suitable for client-side generation.
+ */
 export function toCSV(
   rows: IndexedRegulation[],
-  options: CsvOptions = {},
+  textsBySlug?: Map<string, string>,
 ): string {
-  const { includeOfficialText = true } = options;
-  const headers = includeOfficialText
-    ? CSV_HEADERS
-    : CSV_HEADERS.filter((h) => h !== "officialText");
+  const headers = textsBySlug ? [...BASE_HEADERS, "officialText"] : BASE_HEADERS;
   const lines = [headers.join(",")];
   for (const r of rows) {
     const row = [
@@ -65,7 +62,7 @@ export function toCSV(
       r.officialTextSource ?? "",
       r.officialTextBytes?.toString() ?? "",
     ];
-    if (includeOfficialText) row.push(r.officialText ?? "");
+    if (textsBySlug) row.push(textsBySlug.get(r.slug) ?? "");
     lines.push(row.map((v) => escape(String(v ?? ""))).join(","));
   }
   return lines.join("\n");

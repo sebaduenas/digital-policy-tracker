@@ -26,7 +26,7 @@ import matter from "gray-matter";
 
 const ROOT = process.cwd();
 const REG_DIR = path.join(ROOT, "content", "regulations");
-const TEXT_DIR = path.join(ROOT, "content", "texts");
+const TEXT_DIR = path.join(ROOT, "public", "texts");
 const MANIFEST_PATH = path.join(TEXT_DIR, "_manifest.json");
 
 const UA =

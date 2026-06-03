@@ -1,7 +1,10 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
 
-const TEXTS_DIR = path.join(process.cwd(), "content", "texts");
+// Texts live in /public/texts so they are served as static assets
+// (/texts/{slug}.txt) and can also be read at build-time / by server routes
+// without being inlined into every SSG HTML page.
+const TEXTS_DIR = path.join(process.cwd(), "public", "texts");
 const MANIFEST_PATH = path.join(TEXTS_DIR, "_manifest.json");
 
 export interface OfficialTextMeta {
@@ -10,11 +13,6 @@ export interface OfficialTextMeta {
   fetchedAt: string;
   bytes: number;
   notes?: string;
-}
-
-export interface OfficialText {
-  text: string;
-  meta: OfficialTextMeta;
 }
 
 type Manifest = Record<string, OfficialTextMeta>;
@@ -32,16 +30,19 @@ async function readManifest(): Promise<Manifest> {
   return manifestCache;
 }
 
-export async function loadOfficialText(
+/** Returns metadata only. The text itself is served lazily from /texts/{slug}.txt. */
+export async function loadOfficialTextMeta(
   slug: string,
-): Promise<OfficialText | null> {
+): Promise<OfficialTextMeta | null> {
   const manifest = await readManifest();
-  const meta = manifest[slug];
-  if (!meta) return null;
+  return manifest[slug] ?? null;
+}
+
+/** Reads the raw text from disk. Use only in server routes (CSV export, etc.). */
+export async function loadOfficialText(slug: string): Promise<string | null> {
   const filePath = path.join(TEXTS_DIR, `${slug}.txt`);
   try {
-    const text = await fs.readFile(filePath, "utf8");
-    return { text, meta };
+    return await fs.readFile(filePath, "utf8");
   } catch {
     return null;
   }

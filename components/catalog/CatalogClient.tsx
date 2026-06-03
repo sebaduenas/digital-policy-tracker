@@ -121,6 +121,12 @@ export function CatalogClient({
     URL.revokeObjectURL(url);
   };
 
+  const exportFullCsv = () => {
+    // Full catalogue with extracted official text inlined per row.
+    // The endpoint returns Content-Disposition with the filename.
+    window.location.href = "/api/export-csv";
+  };
+
   return (
     <div className="space-y-6">
       <div className="sticky top-16 z-20 -mx-4 sm:mx-0 px-4 sm:px-0 py-3 bg-bg/85 backdrop-blur-md border-b border-border">
@@ -250,9 +256,19 @@ export function CatalogClient({
           {count > 0 ? ` (filtrado de ${data.length})` : ""}
         </span>
         {filtered.length > 0 && (
-          <Button variant="ghost" size="sm" onClick={exportCsv}>
-            <Download className="h-3.5 w-3.5" /> Exportar CSV
-          </Button>
+          <div className="flex items-center gap-1">
+            <Button variant="ghost" size="sm" onClick={exportCsv}>
+              <Download className="h-3.5 w-3.5" /> CSV
+            </Button>
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={exportFullCsv}
+              title="Incluye el texto íntegro de cada norma (descarga más pesada)"
+            >
+              <Download className="h-3.5 w-3.5" /> CSV con textos
+            </Button>
+          </div>
         )}
       </div>
 
