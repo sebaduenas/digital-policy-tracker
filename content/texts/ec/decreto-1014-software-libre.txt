@@ -1,0 +1,1222 @@
+Subsecretaria de Informática        Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+                                PRESIDENCIA DE LA REPÚBLICA
+
+                               SUBSECRETARÍA DE INFORMÁTICA
+
+
+ESTRATEGIA PARA LA IMPLANTACIÓN DE
+          SOFTWARE LIBRE
+      EN LA ADMINISTRACIÓN
+         PÚBLICA CENTRAL
+
+
+                                              Quito, 2009
+
+
+                                                                Este documento ha sido
+                                                                elaborado con OpenOffice
+
+
+Versión 1 – Enero 2009                                                                                              Página 1
+Subsecretaria de Informática                     Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+CONTENIDO
+1. RESUMEN EJECUTIVO....................................................................................................3
+2. INTRODUCCIÓN...............................................................................................................3
+    2.1. Marco Regulatorio.......................................................................................................3
+    2.2. Situación en Otros Países de la Región.......................................................................4
+    2.3. Beneficios del Software Libre en la Administración Pública......................................6
+    2.4. Situación Actual...........................................................................................................7
+    2.5. Metodología de Trabajo...............................................................................................7
+3. VISIÓN, OBJETIVOS Y POLÍTICAS...............................................................................8
+    3.1. Visión...........................................................................................................................8
+    3.2. Objetivos......................................................................................................................8
+    3.3. Políticas........................................................................................................................9
+4. EJES ESTRATÉGICOS....................................................................................................10
+    4.1. Promulgación de Estándares y Normatividad............................................................10
+    4.2. Formación de Masa Crítica........................................................................................12
+    4.3. Planificación, Seguimiento y Control........................................................................14
+    4.4. Difusión.....................................................................................................................17
+5. CONCLUSIONES Y RECOMENDACIONES.................................................................18
+    5.1. Conclusiones..............................................................................................................19
+    5.2. Recomendaciones......................................................................................................19
+6. ANEXOS...........................................................................................................................21
+    6.1. Glosario de Términos.................................................................................................21
+    6.2. Decreto de Software Libre.........................................................................................24
+    6.3. Instituciones de la Administración Pública Central...................................................26
+    6.4. Bibliografía................................................................................................................28
+
+
+Versión 1 – Enero 2009                                                                                                           Página 2
+Subsecretaria de Informática       Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+     1. RESUMEN EJECUTIVO
+          El Gobierno Constitucional del Economista Rafael Correa Delgado promueve el uso
+          de Software Libre como política de Gobierno. Software Libre son los programas de
+          computación que se pueden utilizar y distribuir sin restricción alguna, que permiten
+          el acceso a sus códigos fuentes para auditarlos y adaptarlos.
+
+          El Software Libre le permite al Estado mayor seguridad informática, libre acceso a
+          datos y programas, ahorro en costos de licencias y es un generador de empleo para
+          profesionales ecuatorianos.
+
+          Mediante Decreto Ejecutivo No. 1014 emitido el 10 de abril de 2008, se dispone el
+          uso de Software Libre en los sistemas y equipamientos informáticos de la
+          Administración Pública de Ecuador. Es interés del Gobierno ecuatoriano alcanzar
+          soberanía y autonomía tecnológica, así como un ahorro de recursos públicos.
+
+          La Subsecretaría de Informática es responsable de elaborar y ejecutar planes,
+          políticas y reglamentos para el uso de Software Libre en el Gobierno Central. Como
+          órgano regulador desarrolla la presente “Estrategia para la implantación de Software
+          Libre para la Administración Pública Central de Ecuador”.
+
+          La presente Estrategia define políticas, objetivos y planes de acción en base a cuatro
+          ejes estratégicos: promulgación de estándares y normatividad; formación de masa
+          crítica, planificación, seguimiento y control; y, difusión del Software Libre.
+
+          Se definen como políticas: la utilización de estándares abiertos, la minimización de
+          compra de licencias propietarias, la contratación de servicios en proyectos
+          informáticos, la reutilización del software y el uso preferencial de programas
+          navegadores como medios de acceso.
+
+
+     2. INTRODUCCIÓN
+
+
+     2.1. Marco Regulatorio
+
+          Ecuador y el mundo caminan hacia el uso de las Tecnologías de Información y
+          Comunicación (TIC), pero el acceso a estos sistemas es limitado debido entre otras
+          razones, a los altos costos del hardware y el software que imponen las empresas
+          multinacionales, dejando a un lado los estratos más pobres, los cuales se ven
+          limitados por la falta de acceso a la información.
+
+          En la Sociedad de la Información, compartir conocimiento equivale a redistribuir
+          riqueza, base fundamental para el desarrollo de una sociedad democrática. En este
+          contexto el Presidente Constitucional de la República del Ecuador, Economista
+
+Versión 1 – Enero 2009                                                                                             Página 3
+Subsecretaria de Informática        Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+          Rafael Correa Delgado emitió el Decreto Presidencial No. 1014 con fecha 10 de
+          Abril del 2008, en el cual establece el uso del Software Libre en la Administración
+          Pública Central.
+
+          De esta manera, en el Ecuador el Software Libre se convierte en una política
+          tecnológica, en dónde el código abierto, las licencias de uso libre, el uso de
+          estándares abiertos y el trabajo comunitario, facilitan la inclusión digital, la
+          soberanía tecnológica y la innovación local, optimizando el gasto estatal,
+          favoreciendo el desarrollo local y promoviendo la integración regional.
+
+          La Subsecretaría de Informática de la Presidencia de la República, creada mediante
+          el Acuerdo No. 119 el 1 de agosto del 2007, tiene entre sus atribuciones y
+          responsabilidades elaborar y ejecutar planes, programas, proyectos, estrategias,
+          políticas y reglamentos para el uso de Software Libre en las dependencias del
+          gobierno central.
+
+
+     2.2. Situación en Otros Países de la Región
+
+          Los gobiernos latinoamericanos impulsan el uso de Software Libre frente al
+          privativo buscando independencia tecnológica, seguridad y desarrollo local. Las
+          aplicaciones basadas en Software Libre son cada vez más estables y se encuentran
+          traducidas en la gran mayoría de idiomas, lo que permite reemplazar los aplicativos
+          de software privativo. A diferencia de lo que ocurre en otras regiones del mundo, en
+          América Latina los gobernantes creen que el único camino para impulsar la
+          sociedad de la información como palanca para el desarrollo consiste en usar
+          estándares abiertos y Software Libre.
+
+          En la Carta Iberoamericana de Gobierno Electrónico, aprobada por la IX
+          Conferencia Iberoamericana de Ministros de la Administración Pública y Reforma
+          del Estado, realizada en Chile el 1 de junio del 2007, se recomienda el uso de
+          estándares abiertos y Software Libre para desarrollo y explotación de aplicaciones
+          informáticas.
+
+          En Brasil y Venezuela, se está realizando el proceso de migración de software
+          privativo a Software Libre en empresas estatales e instituciones educativas con gran
+          éxito. El principal motivo de cambio es la independencia y soberanía tecnológicas
+          frente a las empresas multinacionales, la seguridad que ofrece el Software Libre al
+          permitir auditar su código, y el interés en desarrollar una industria informática local
+          competitiva y autónoma. El ahorro de dinero que supone no pagar licencias por el
+          uso de programas privativos no es el motivo principal del cambio
+
+          A continuación se resume brevemente las experiencias en relación al uso de
+          Software Libre en algunos países de la región:
+
+
+Versión 1 – Enero 2009                                                                                              Página 4
+Subsecretaria de Informática       Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+          Venezuela
+
+          Desde que se aprobó el decreto 3.390 en diciembre de 2004, todo material
+          informático que compre la Administración o las empresas estatales priorizan el uso
+          de Software Libre. Las autoridades del Centro Nacional de Tecnologías de
+          Información (CNTI) del Ministerio del Poder Popular para las Telecomunicaciones
+          e Informática del Gobierno de Venezuela, destacan la soberanía e independencia
+          tecnológica como razones para utilizar Software Libre. Además, éste impulsa un
+          modelo de negocios basado en servicios, que favorece el desarrollo de la industria
+          local de software y aporta a su desarrollo tecnológico.
+
+          Brasil
+
+          Cuenta con una de las comunidades de desarrolladores de Software Libre más
+          amplia del mundo. En Brasil, como manifiestan funcionarios del Gobierno: "la
+          gratuidad no es lo importante, lo es la independencia". Brasil, que lleva más de una
+          década apostando por los programas libres, ve en ellos una forma de reducir la
+          dependencia tecnológica. Por eso, el gobierno usa GNU/Linux en la Administración
+          Pública, y la migración a Software Libre se ha convertido en un lineamiento
+          estratégico del gobierno.
+
+          Cuba
+
+          El Gobierno cubano sufre lo que funcionarios del gobierno llaman “el bloqueo
+          informático”. Cuba no puede comprar licencias de software. Además, tampoco
+          puede descargar los programas libres albergados en páginas de EEUU, por eso, y
+          por razones de soberanía tecnológica, la migración es estratégica.
+
+          Otros
+
+          Países como Alemania, España, Francia, China, India, Corea del Sur, Sudáfrica,
+          entre otros muchos han establecido estrategias y proyectos de adopción/migración a
+          Software Libre en sus administraciones públicas con resultados técnicos,
+          económicos y sociales alentadores.
+
+          Adicionalmente, países europeos como Bélgica, Holanda y Suecia han decido
+          utilizar como obligatorios estándares abiertos como el formato ODF (Open
+          Document Format) para el intercambio de información entre las instituciones de sus
+          administraciones públicas.
+
+
+Versión 1 – Enero 2009                                                                                             Página 5
+Subsecretaria de Informática    Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+     2.3. Beneficios del Software Libre en la Administración Pública
+
+●Autonomía tecnológica: Adoptando Software Libre y con las posibilidades que éste
+ofrece de acceder al código fuente, muchos usuarios pasarán de ser consumidores a ser
+desarrolladores de software. Esto significa que se podrán adaptar los programas a las
+necesidades específicas de las distintas dependencias, y todas esas modificaciones deberán
+realizarse siguiendo los requisitos exigidos por el modelo del Software Libre.
+
+●Estandarización    e Integración: El Software Libre es producido utilizando
+especificaciones y estándares tecnológicos libres y públicos, también denominados
+“estándares abiertos”. Esto beneficia la integración de sistemas y el intercambio de
+información, de forma que se garantiza la accesibilidad sin restricciones por parte de la
+ciudadanía.
+
+●Seguridad: El hecho de hacer públicos los códigos de los programas favorece a la
+seguridad de los mismos. Utilizando Software Libre se puede saber qué está haciendo
+realmente un programa, qué tipo de información maneja y cómo lo hace. Una buena
+seguridad debe basarse en la transparencia. El software privativo oculta estos aspectos y
+muchas veces no se conoce si la información está siendo enviada a otras computadoras
+remotas. Es importante tomar en cuenta que no es posible garantizar seguridad alguna, sin
+ostentar la capacidad de auditar el código de los programas mediante operaciones como su
+consulta íntegra, depuración, modificación, compilación y ejecución.
+
+●Independencia     de proveedores: Adquiriendo un software privativo se genera una
+relación de dependencia con respecto a un fabricante. Una vez que se instala dicho software,
+se dependerá del fabricante para obtener actualizaciones. En muchos casos, el fabricante
+obligará a actualizar a nuevas versiones aunque no se desee.
+
+●Democratización de la información: Las tecnologías de la información han pasado a
+ocupar un lugar central en la sociedad. Si bien cada vez son más los usuarios que acceden a
+dichas tecnologías, la “brecha tecnológica” todavía es grande y es un factor más de
+exclusión social. El Software Libre favorece la democratización de la información
+permitiendo la utilización de protocolos, formatos y lenguajes abiertos.
+
+●Economía: Se estima que la compra de un sistema operativo más un paquete de suite de
+oficina, ambos con una licencia privativa, cuestan entre 300 y 600 dólares por cada
+computadora, y ese gasto debe renovarse cada dos o tres años debido a la dependencia hacia
+el fabricante en que se incurre. Los países en vías de desarrollo, con las carencias de
+recursos que cuentan, pueden ahorrar una gran cantidad de recursos económicos.
+
+
+Versión 1 – Enero 2009                                                                                          Página 6
+Subsecretaria de Informática       Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+     2.4. Situación Actual
+
+          Previo a la promulgación del Decreto de Software Libre en abril del 2008, la
+          mayoría de instituciones de la Administración Central utilizaban software privativo
+          en sus sistemas informáticos. Actualmente, todas estas entidades tiene planificado o
+          se encuentran ejecutando procesos de migración y prácticamente todos los nuevos
+          proyectos informáticos consideran la adopción de herramientas de Software Libre.
+
+          A diciembre del 2008, el 90% de los portales institucionales y el 70% de los
+          sistemas de correo electrónico de estas instituciones están desarrolladas con
+          Software Libre. Así mismo, actualmente ya no se adquieren licencias propietarias de
+          suite de oficina, sino solo en casos excepcionales.
+
+          La Subsecretaría de Informática, ha tomado como prioridad el mejoramiento de los
+          sistemas informáticos de la Administración Pública Central, con el fin de que las
+          instituciones mejoren sus procesos internos y la atención a la ciudadanía.
+
+          En Ecuador, el Sistema Nacional de Compras Públicas es el primer sistema
+          informático desarrollado en su totalidad con herramientas de Software Libre. Este
+          aplicativo permite de forma ágil y transparente realizar adquisiciones a todas las
+          entidades del sector público.
+
+          En el año 2009, entrará en operación el Sistema de Gestión Documental QUIPUX,
+          el cual reducirá los tiempos de envío y recepción de correspondencia entre
+          instituciones del Estado. Entre otros, uno de los beneficios de este Portal, es el uso
+          de la firma electrónica, la cual ya está disponible gracias a la existencia de una
+          entidad estatal debidamente autorizada para suministrar certificados de firma
+          electrónica.
+
+          Así mismo, en el año 2009 comenzará a funcionar la primera fase del Sistema
+          Nacional de Recursos Humanos, el cual concentrará toda la información personal y
+          profesional de los funcionarios públicos y permitirá una gestión moderna del talento
+          humano del sector público.
+
+
+     2.5. Metodología de Trabajo
+
+
+          Para la elaboración de la presente Estrategia, se recopiló información existente y se
+          organizaron reuniones de trabajo multisectoriales con diferentes actores sociales,
+          que representaron al sector público, privado y organizaciones de la sociedad civil.
+
+          Adicionalmente, la recopilación de información respecto de las experiencias sobre
+          Software Libre en la Administración Pública, en países como Brasil, Venezuela y
+
+
+Versión 1 – Enero 2009                                                                                             Página 7
+Subsecretaria de Informática        Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+          España, han constituido un valioso insumo.
+
+          Utilizando la metodología FODA (fortalezas, oportunidades, debilidades, amenazas)
+          se realizó un ejercicio al interior de la Subsecretaría de Informática. El resultado de
+          este ejercicio fue la base para el presente documento.
+
+          Para evaluar la situación actual en las instituciones de la Administración Pública
+          Central, la Subsecretaría de Informática realiza mesas técnicas de trabajo con los
+          líderes de tecnología. En estas reuniones se revisa un catastro referencial de
+          software, hardware, servicios y personal de cada institución. A diciembre de 2008 se
+          ha realizado este trabajo con un 60% de las entidades.
+
+          Esta Estrategia se someterá a discusión de los líderes de tecnología de las
+          instituciones del Gobierno Central, con el fin de fijar metas y establecer planes de
+          trabajo específicos para cada institución.
+
+
+     3. VISIÓN, OBJETIVOS Y POLÍTICAS
+
+
+     3.1. Visión
+
+          Que todos los sistemas y equipamientos informáticos de las instituciones de la APC
+          utilicen software libre y estándares abiertos.
+
+
+     3.2. Objetivos
+
+     3.2.1. Conducir a las Instituciones al uso de Software Libre y estándares abiertos en los
+        sistemas de información, y apoyar el mejoramiento de la gestión del Estado.
+
+     3.2.2. Disponer del recurso humano especializado en herramientas de Software Libre.
+
+     3.2.3. Controlar la ejecución de la política pública de uso de Software Libre y
+        estándares abiertos en las instituciones de la Administración Pública Central.
+
+     3.2.4. Difundir y promocionar los beneficios del uso del Software Libre y los
+        estándares abiertos.
+
+
+Versión 1 – Enero 2009                                                                                              Página 8
+Subsecretaria de Informática         Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+     3.3. Políticas
+
+     3.3.1. Utilizar estándares abiertos
+
+                Se utilizarán estándares abiertos en los casos en que existan. El uso de
+                estándares privativos en los sistemas existentes se aceptará de forma transitoria
+                mediante la presentación a la Subsecretaría de Informática de un plan de
+                migración a estándares abiertos con fechas concretas para su ejecución a corto
+                o, excepcionalmente, medio plazo. Se podrán utilizar estándares no abiertos, de
+                forma complementaria a los estándares abiertos normativos, sólo en los casos en
+                que se justifique su utilización de forma transitoria. Todos los nuevos sistemas
+                se deberán basar en estándares abiertos.
+
+
+     3.3.2. Minimizar la compra de licencias propietarias
+
+                 Priorizar la contratación de servicios de software a la adquisición de licencias
+                 privativas (productos). Se comprará este tipo de licencias solo en casos de
+                 excepción plenamente justificados, y estas excepciones serán por un tiempo
+                 determinado.
+
+
+     3.3.3. Contratar servicios en proyectos informáticos
+
+                De manera preferencial el desarrollo de software, el servicio de soporte al
+                usuario y el mantenimiento del hardware debe ser contratado bajo la modalidad
+                de servicios, con la finalidad de optimizar los recursos humanos y financieros, y
+                generar empleo.
+
+
+     3.3.4. Reutilizar software
+
+                Con la finalidad de evitar la duplicación de esfuerzos y el despilfarro de
+                recursos económicos, los aplicativos desarrollados con Software Libre en las
+                diferentes instituciones podrán ser utilizados sin restricciones por otras
+                entidades. Para ello, se contará con los repositorios de software público y libre,
+                con las soluciones disponibles desarrolladas por el Estado ecuatoriano a fin de
+                facilitar su reutilización.
+
+
+Versión 1 – Enero 2009                                                                                               Página 9
+Subsecretaria de Informática          Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+     3.3.5. Usar los programas navegadores como medio de acceso
+
+                 Los sistemas de información del la Administración Central, deberán ser
+                 accesibles, de modo preferencial por medio de programas navegadores
+                 (Browsers).
+
+
+     4. EJES ESTRATÉGICOS
+
+          Se han definido 4 ejes estratégicos:
+
+               ●     Promulgación de estándares y normatividad
+
+               ●     Formación de masa crítica
+
+               ●     Planificación, seguimiento y control
+
+               ●     Difusión
+
+          A continuación se describen los planes de acción previstos para el año 2009
+          conforme a cada uno de estos ejes estratégicos:
+
+
+     4.1. Promulgación de Estándares y Normatividad
+
+          Con el objeto de conducir a las instituciones al uso de Software Libre en los
+          sistemas de información y apoyar el mejoramiento de la gestión del Estado, se
+          adoptará progresivamente estándares abiertos de interoperabilidad prioritariamente
+          basados en normas nacionales e internacionales relativas a las tecnologías de
+          información y comunicación.
+
+
+     4.1.1. Estándares de Interoperabilidad
+
+
+          Son un conjunto de políticas y normas técnicas para implementar la
+          interoperabilidad entre sistemas informáticos de las entidades de la Administración
+          Pública. La interoperabilidad posibilita que la información entre diferentes sistemas
+          estatales fluya de forma integra, consistente y segura.
+
+          La Subsecretaría de Informática está liderando grupos de trabajo multisectoriales
+          para la elaboración de estos estándares, que se plasmarán en un futuro Esquema
+          Nacional de Interoperabilidad. Estos grupos son los siguientes:
+
+
+Versión 1 – Enero 2009                                                                                               Página 10
+Subsecretaria de Informática           Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+               ●     Interconexión
+
+                     Se establece las condiciones para que los órganos de gobierno se
+                     interconecten, además de fijar las condiciones de interoperación entre el
+                     gobierno y la sociedad. Por ejemplo, en este grupo de tratan los siguientes
+                     protocolos IPv4, IPv6, HTTP, TCP, UDP, SOAP, BPEL, etc.
+
+
+               ●     Medios de acceso e intercambio de información
+
+                     Son aspectos relativos a los estándares de los dispositivos de acceso a los
+                     sistemas de información, así como al tratamiento y a la transferencia de
+                     información. Por ejemplo, en este grupo se discute de HTML, XML, PDF,
+                     ODF, PNG, TIF, etc.
+
+
+               ●     Seguridad
+
+                     Comprende los aspectos de seguridad de TIC que se debe considerar. Los
+                     datos, información y sistemas de información del gobierno deben ser
+                     protegidos contra amenazas para reducir riesgos y garantizar la integridad,
+                     confidencialidad y disponibilidad . Por ejemplo, en este grupo se analiza
+                     HTTPS, TLS, RSA, WPA, etc.
+
+
+               ●     Áreas de integración para gobierno electrónico
+
+                     Se analiza todos los componentes relacionados a temas transversales para
+                     implementación de interoperabilidad en diferentes niveles. Se definen las
+                     especificaciones técnicas referentes al intercambio de información.
+                     Adicionalmente, se definen políticas técnicas relacionadas a interconexión y
+                     la arquitectura estatal referencial de interoperación de los sistemas
+                     informáticos disponibles en la actualidad (y para los que se desarrollen) que
+                     estarán orientados a servicios.
+
+
+          Se tiene previsto implantar estos estándares con una obligatoriedad gradual para las
+          entidades de la Administración Central a partir del año 2009.
+
+          Mayor información sobre el alcance del contenido y de estos grupos de trabajo se
+          puede encontrar en el sitio Web de la Subsecretaría de Informática, disponible en
+          www.informatica.gov.ec
+
+
+Versión 1 – Enero 2009                                                                                                Página 11
+Subsecretaria de Informática          Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+     4.1.2. Normas ISO/IEC a INEN
+
+
+          Se ha escogido 5 normas ISO/IEC para que sean homologadas como normas
+          ecuatorianas por el Instituto Ecuatoriano de Normalización (INEN). Esta
+          homologación se hace a través de comités técnicos integrados por representantes de
+          los sectores público, privado y académico.
+
+          La 5 normas ISO/IEC escogidas son:
+               ●     ISO/IEC 27002:2005.­ Código de prácticas para la gestión de laseguridad de
+                     la información.
+               ●     ISO/IEC 12207:2008. – Procesos del ciclo de vida del software.
+               ●     ISO/IEC 20000­1:2005.– Parte 1. Gestión de servicios. Especificación.
+               ●     ISO/IEC 20000­2:2005. – Parte 2. Gestión de servicios. Código de prácticas.
+               ●     ISO/IEC 26300:2006. – Formato de documento abierto ODF para
+                     aplicaciones de oficina.
+
+
+          La última de estas normas, la que corresponde al formato ODF, es la que tiene el
+          trámite de homologación más avanzado.
+
+
+     4.2. Formación de Masa Crítica
+
+
+          Con el objeto de disponer de profesionales especializados en herramientas de
+          Software Libre es necesario formar una masa crítica de técnicos con conocimientos
+          especializados y capacidades suficientes para que utilicen y brinden soporte y
+          capacitación para sostener y multiplicar el proceso de migración.
+
+
+     4.2.1. Cooperación Internacional
+
+            Actualmente, está en trámite la firma de convenios internacionales con los
+            gobiernos de Brasil, Venezuela y Paraguay, para cooperación en el desarrollo e
+            implantación de Software Libre.
+
+            Uno de los objetivos específicos de colaboración con los mencionados países es la
+            creación conjunta del Instituto Internacional de Software Libre, un ente dedicado a
+            la capacitación así como la investigación, desarrollo, adopción e innovación en
+            herramientas de Software Libre.
+
+            Otro ámbito de cooperación, ya en ejecución, es el intercambio de experiencias de
+
+Versión 1 – Enero 2009                                                                                               Página 12
+Subsecretaria de Informática            Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+            casos de éxito, sobre todo en uso de Software Libre para sistemas de apoyo al
+            gobierno electrónico.
+
+            Se tiene planificado participar activamente en las comunidades internacionales de
+            Software Libre y estándares abiertos de los diferentes países (ej. GILAC, Coalición
+            Dinámica del Sur, ASLE, SOLAR, Hispalinux, FFII).
+
+
+     4.2.2. Convenios con Universidades
+
+          Al momento están firmados convenios de cooperación con Universidades
+          nacionales. En estos convenios constan las siguientes compromisos en el ámbito del
+          Software Libre:
+
+                  ●      La Universidad incluirá en los proyectos de tesis de sus estudiantes,
+                         proyectos propuestos por el Gobierno, con miras a satisfacer
+                         requerimientos gubernamentales.
+
+                  ●      Capacitación a profesores universitarios de informática en herramientas de
+                         desarrollo de Software Libre en las instalaciones de la Subsecretaría de
+                         Informática.
+
+                  ●      Capacitación a servidores públicos y usuarios finales en paquetes de
+                         Software Libre en las instalaciones de la Universidad.
+
+                  ●      Uso de Software Libre en laboratorios de la Universidades.
+
+                  ●      Realizar conjuntamente talleres con herramientas específicas de Software
+                         Libre para facilitar la migración de los sistemas informáticos.
+
+
+     4.2.3. Industria Nacional de Software
+
+
+            Con el objetivo de fortalecer la Industria Nacional de Software, el Gobierno ha
+            declarado a la Industria del Software como prioritaria y ha formado un grupo de
+            trabajo que contará con un presupuesto fijo durante 4 años.
+
+            Este grupo de trabajo está encabezado por un Gerente de Software y Consultoría
+            por parte del Ejecutivo y un líder del sector privado.
+
+            Entre los objetivos de este grupo de trabajo están: diversificar e incrementar las
+            exportaciones de software y generar empleo en este campo.
+
+
+Versión 1 – Enero 2009                                                                                                 Página 13
+Subsecretaria de Informática       Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+            Entre las estrategias para que este sector despegue se han considerado: generar
+            atracción a inversiones y fomentar la innovación productos/servicios de software
+            del sector público y privado.
+
+            Adicionalmente, se ve necesario incrementar el número de empresas de software y
+            mejorar la competitividad de las mismas.
+
+
+     4.2.4. Capacitación de Técnicos del Gobierno
+
+
+            La Subsecretaría de Informática dicta regularmente y sin costo cursos (en sus
+            instalaciones) sobre herramientas de Software Libre, dirigidos a técnicos
+            informáticos del sector público.
+
+            Estos cursos están enfocados a proporcionar conocimiento de base en lenguajes de
+            programación, bases de datos, sistemas operativos y administradores de contenido.
+            También se facilita el intercambio de experiencias y el “know how” adquirido entre
+            los participantes.
+
+            Se están formando comunidades para intercambio de experiencias y conocimientos
+            para el constante mejoramiento de las herramientas informáticas y las
+            competencias.
+
+
+     4.3. Planificación, Seguimiento y Control
+
+          Con el objeto ejecutar adecuadamente la política pública del uso de Software Libre
+          en las instituciones de la Administración Pública Central de Ecuador, la
+          Subsecretaría de Informática, coordina acciones con los responsables de las
+          unidades tecnológicas de estas instituciones.
+
+
+     4.3.1. Catastro referencial de Tecnologías de Información y Comunicación
+
+           La Subsecretaría de Informática coordina la actualización de un catastro referencial
+           de software, hardware, servicios informáticos y personal técnico de las
+           instituciones de la Administración Central. La información recopilada a través de
+           una aplicación en la Web es evaluada en las mesas técnicas de trabajo para
+           migración.
+
+     4.3.2. Mesas Técnicas para Migración
+
+
+Versión 1 – Enero 2009                                                                                            Página 14
+Subsecretaria de Informática           Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+           Una mesa técnica para migración es una reunión de trabajo que está conformada
+           por autoridades de la Subsecretaría de Informática y autoridades de tecnología de
+           la Institución.
+
+           En esta reunión se analiza detalladamente el catastro referencial de TIC de la
+           institución y se establecen compromisos para las partes conforme las políticas y
+           lineamientos de la Subsecretaría de Informática. Ejemplos de estos compromisos
+           son la elaboración de un plan de migración a Software Libre, la asistencia a talleres
+           y cursos en herramientas específicas conforme necesidades, entre otros.
+
+           Cada institución tiene su realidad propia y el plan de migración a Software Libre es
+           analizado conforme a su contexto tecnológico y recursos dentro de la
+           administración Pública Central.
+
+           Las mesas técnicas sirven para informar a los técnicos informáticos de los avances
+           en el desarrollo de los sistemas transversales, que coordina la Subsecretaría de
+           Informática, a más de informar las experiencias exitosas de proyectos informáticos
+           en otras entidades públicas.
+
+            La Subsecretaría de Informática realiza un seguimiento continuo a los planes
+            específicos de migración, analiza los problemas/inconvenientes (de todo orden)
+            que se presenten y coordina la solución de los mismos.
+
+
+     4.3.3. Secuencia de Migración de Aplicaciones a Software Libre
+
+          Para las instituciones que tienen software privativo, la secuencia recomendada de
+          migración de aplicaciones a Software Libre es la siguiente:
+
+          a) Migración en estaciones de trabajo conforme el siguiente orden:
+
+               ●     Navegador de Internet
+
+               ●     Cliente de correo electrónico
+
+               ●     Suite de ofimática
+
+               ●     Software especializado: inteligencia de negocios, gestión de proyectos, editor
+                     de imágenes, antivirus, GIS, etc.
+
+               ●     Sistema Operativo
+
+          Se recomienda migrar las aplicaciones de escritorio antes de migrar el sistema
+          operativo. Adicionalmente, se sugiere adoptar la virtualización de sistemas
+          operativos y aplicaciones propietarias en sistemas operativos libres. De esta forma
+          pueden coexistir ambos tipos de aplicaciones durante la transición hacia la adopción
+
+
+Versión 1 – Enero 2009                                                                                                Página 15
+Subsecretaria de Informática             Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+          definitiva de un aplicativo basado en Software Libre.
+
+
+          b) Migración en servidores de acuerdo al siguiente orden:
+
+               ●     Servidor de aplicaciones
+
+               ●     Servidor de correo electrónico
+
+               ●     Servidor de archivos e impresión
+
+               ●     Servidor Web, en el caso de páginas estáticas. Servidor Web y base de datos
+                     en el caso de páginas dinámicas.
+
+               ●     Servidor de seguridades
+
+               ●     Directorio activo
+
+               ●     Servidor de base de datos
+
+
+          Considerar el uso de virtualización con Software Libre para el proceso de
+          consolidación de servidores, e independizar cada servicio con su propio sistema
+          operativo.
+
+          El cronograma de migración sugerido es el siguiente:
+
+               ●     A corto plazo: Navegador de Internet, suite de oficina y cliente de correo en
+                     las estaciones de trabajo. Sistema operativo, servidor de aplicaciones y
+                     servidor de correo en los servidores.
+
+               ●     A mediano plazo: Algunos programas de software especializado en
+                     estaciones de trabajo. Directorio activo, servidor de archivos e impresión,
+                     servidor Web y servidor de seguridades en los servidores.
+
+               ●     A largo plazo: Sistema operativo en las estaciones de trabajo. Servidor de
+                     base de datos en los servidores.
+
+
+Versión 1 – Enero 2009                                                                                                  Página 16
+Subsecretaria de Informática       Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+     4.3.4. Aprobación de Proyectos Informáticos
+
+
+            Conforme al decreto presidencial 1014 de Software Libre y a las atribuciones de la
+            Subsecretaría de Informática, este organismo es el encargado de aprobar o rechazar
+            todos los proyectos informáticos mayores a 50 salarios mínimos vitales en el
+            Ecuador, en todas las instituciones de la Administración Central.
+
+            Los proyectos informáticos son analizados conforme a las políticas generales de
+            esta Estrategia y el cumplimiento de normas y estándares. Se responde a las
+            demandas de aprobación de proyectos, y de ser el caso, se realizan reuniones
+            conjuntas para profundizar técnicamente el análisis de los mimos.
+
+            Periódicamente la Subsecretaría de Informática, mantiene reuniones con los Jefes
+            de tecnología de la Instituciones, para indicar los lineamientos que deben
+            considerarse en los proyectos en cuanto a software, hardware y servicios
+            informáticos.
+
+
+     4.4. Difusión
+
+          Con el objeto de difundir los beneficios del uso del Software Libre, mostrar casos de
+          éxito y multiplicar los efectos, se necesita una promoción nacional e internacional.
+
+          A nivel nacional se debe llegar a los funcionarios de las entidades públicas,
+          ciudadanos, organizaciones de la sociedad civil, universidades, etc. Los medios
+          utilizados para esta difusión se citan a continuación:
+
+
+     4.4.1. Sitio Web de la Subsecretaría de Informática
+
+          En el sitio Web de la Subsecretaría de Informática, se actualiza permanentemente
+          información relacionada con Software Libre y los avances en los planes de acción de
+          esta estrategia de implantación.
+
+          Se publican los eventos nacionales e internacionales realizados o por realizarse y el
+          calendario de fechas.
+
+          Se publican los cursos de herramientas de Software Libre que se dictan en la
+          Subsecretaría de Informática, con calendarios, instructores y contenidos.
+
+          Se actualiza de forma constante una lista de aplicaciones equivalentes entre
+          Software Libre y software privativo, y cuales son las recomendadas.
+
+
+Versión 1 – Enero 2009                                                                                            Página 17
+Subsecretaria de Informática       Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+          Se pondrá a disposición para descarga las aplicaciones gubernamentales que están
+          desarrolladas con Software Libre o que hayan sido liberadas.
+
+          Adicionalmente, la Subsecretaría de Informática utiliza listas de correo de los jefes
+          de tecnología y encargados de gobierno electrónico de cada institución para
+          informar de novedades en temas del Software Libre.
+
+
+     4.4.2. Medios de comunicación estatales
+
+
+          Aprovechando los medios de comunicación masiva de dispone el Gobierno se esta
+          planificando entrevistas y/o artículos para promocionar el Software Libre. Estos
+          medios de comunicación son: EC TV, Radio Nacional, El Telégrafo y el periódico
+          El Ciudadano.
+
+          Adicionalmente, la Subsecretaría de Informática emitirá periódicamente boletines de
+          prensa a través de estos medios.
+
+
+     4.4.3. Eventos Nacionales e Internacionales
+
+          La Subsecretaría de Informática tiene planificado organizar para el 2009 los
+          siguientes eventos de carácter nacional e internacional: talleres internacionales de
+          herramientas de Software Libre específicos, feria de Software Libre, concursos de
+          Software Libre y eventos (de un día) para demostración de herramientas de
+          desarrollo.
+
+          Para estos eventos se gestionará la presencia de expositores nacionales e
+          internacionales especializados.
+
+          De igual manera, la Subsecretaría de Informática participa en charlas y/o
+          capacitaciones organizadas por la sociedad civil, universidades o instituciones del
+          Estado.
+
+
+Versión 1 – Enero 2009                                                                                            Página 18
+Subsecretaria de Informática           Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+     5. CONCLUSIONES Y RECOMENDACIONES
+
+
+     5.1. Conclusiones
+               ●     La implantación de Software Libre en la Administración Pública Central
+                     debe ser considerada como un proyecto a largo plazo. Es un proceso
+                     evolutivo conforme a las experiencias de países que lo están llevando a cabo
+                     antes que el Ecuador. Este proceso debe ser apoyado por el Estado,
+                     soportado por los técnicos y usuarios y respaldado por capacitación
+                     continua.
+
+               ●     La Estrategia propuesta se basa en cuatro ejes estratégicos: el uso de
+                     estándares abiertos, la formación de masa crítica de técnicos, el control y
+                     seguimiento, y la difusión del Software Libre junto con la liberación del
+                     software público de Ecuador.
+
+               ●     Para la consecución de los objetivos planteados en esta Estrategia es
+                     necesaria la participación de varios actores: la empresa pública y privada, la
+                     sociedad civil, las universidades y centros educativos.
+
+               ●     En este proceso de implantación de Software Libre es muy importante el
+                     liderazgo de las autoridades. La decisión y apoyo de las máximas
+                     autoridades de las instituciones para iniciar y sostener la adopción Software
+                     Libre es vital para obtener los beneficios ya citados y aplicar la Política de
+                     Gobierno dictada en esta materia.
+
+               ●     La política de contratación de servicios frente a la compra de licencias
+                     responde a un cambio de modelo de negocios. Se potencia el desarrollo del
+                     conocimiento y la experiencia del tejido tecnológico y empresarial local. En
+                     este modelo ganan las empresas nacionales de software y los usuarios del
+                     mismo. Los primeros porque el dinero que era por pago de licencias se
+                     queda en los bolsillos de técnicos nacionales. Y los segundos porque el costo
+                     total del software es menor.
+
+
+     5.2. Recomendaciones
+
+
+               ●     En las instituciones, consensuar y adoptar un plan de migración a Software
+                     Libre para evitar el riesgo de fracaso en este proceso.
+
+               ●     El uso de Software Libre requiere un esfuerzo adicional de los técnicos. La
+                     justificación de la urgencia de proyectos y obtención de resultados evita una
+                     evaluación técnica de las alternativas tecnológicas de Software Libre
+
+Versión 1 – Enero 2009                                                                                                Página 19
+Subsecretaria de Informática           Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+                     prefiriendo ejecutar proyectos con software privativo.
+
+               ●     Es necesario revisar periódicamente el avance de migración de las entidades
+                     de la Administración Pública Central de Ecuador. Esta revisión permitirá la
+                     adecuación de novedades técnicas, así como de nuevos procesos de
+                     actualización y mejora.
+
+               ●     En el proceso de migración las instituciones deben seguir las buenas
+                     prácticas de otras instituciones, que han logrado migraciones exitosas.
+
+               ●     Se debe evaluar técnicamente las donaciones y/o proyectos de gran
+                     envergadura que implican el uso de herramientas de software privativas. La
+                     dependencia generada por esas herramientas produce gastos excesivos,
+                     duplicación de esfuerzos y costos, y hasta imposibilidad de migrar a
+                     Software Libre.
+
+               ●     No escudarse en el decreto de Software Libre para justificar malos resultados
+                     en proyectos de tecnología del sector público.
+
+
+Versión 1 – Enero 2009                                                                                                Página 20
+Subsecretaria de Informática       Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+6. ANEXOS
+
+     6.1. Glosario de Términos
+
+          ASLE: Asociación de Software Libre de Ecuador. Organización sin fines de lucro,
+          que respalda su trabajo a través de comunidades de Software Libre. Conformada
+          legalmente el 31 de marzo de 2007 y registrada en el Ministerio de Educación de
+          Ecuador.
+
+          BPEL: Business Process Execution Language (WS­BPEL) conocido en castellano
+          como Lenguaje de Ejecución de Procesos de Negocio. Es un lenguaje estandarizado
+          para la composición de servicios Web.
+
+          BROWSER: Navegador web (del inglés, Web browser). Aplicación que permite al
+          usuario recuperar y visualizar documentos de hipertexto (páginas Web )a través de
+          Internet.
+
+          CNTI: Centro Nacional de Tecnologías de Información. Institución adscrita al
+          Ministerio del Poder Popular para las Telecomunicaciones e Informática del
+          Gobierno de Venezuela. Impulsa los esfuerzos en materia informática y tecnologías
+          de información.
+
+          COALICIÓN DINÁMICA DEL SUR: Red de cooperación e interacción formada
+          entre representantes de gobierno y de la sociedad civil de los países participantes en
+          el Congreso Internacional Sociedad y Gobierno Electrónico celebrado en Brasilia en
+          2008.
+
+          ESTÁNDAR ABIERTO: Estándares tecnológicos libres y públicos.
+
+          GIS: Sistema de Información Geográfica (GIS acrónimo inglés) diseñado para
+          capturar, almacenar, manipular, analizar y desplegar información geográficamente
+          referenciada.
+
+          GOBIERNO ELECTRÓNICO: Uso de tecnologías de información y comunicación
+          en los procesos internos de gobierno para entrega de productos y servicios del
+          Estado a ciudadanos y empresas..
+
+          HARDWARE: Son todas las partes físicas y tangibles de una computadora o
+          periférico. Incluye sus componentes eléctricos, electrónicos, electromecánicos y
+          mecánicos.
+
+          HTML: Siglas de HyperText Markup Language (Lenguaje de Marcas de
+          Hipertexto). Es el lenguaje predominante para la construcción de páginas web. Es
+          usado para describir la estructura y el contenido en forma de texto, así como para
+          complementar el texto con objetos tales como imágenes.
+
+
+Versión 1 – Enero 2009                                                                                            Página 21
+Subsecretaria de Informática       Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+          HTTP: Es un protocolo de transferencia de hipertexto (HTTP, HyperText Transfer
+          Protocol). Se usa en cada transacción de la Web (WWW), define la sintaxis y la
+          semántica que utilizan los elementos software de la arquitectura web para
+          comunicarse.
+
+          HTTPS:Hypertext Transfer Protocol Secure (en español: Protocolo seguro de
+          transferencia de hipertexto) Es un protocolo de red basado en el protocolo HTTP,
+          destinado a la transferencia segura de datos de hipertexto.
+
+          INEN: Siglas del Instituto Ecuatoriano de Normalización.
+
+          INTEROPERABILIDAD: Capacidad de los sistemas de tecnologías de información
+          y comunicación (TIC) y de los procesos empresariales a los que apoyan para
+          intercambiar datos y posibilitar comunicación entre sistemas heterogéneos.
+
+          IPV4: Es la versión 4 del Protocolo IP (Internet Protocol). Esta fue la primera
+          versión del protocolo que se implementó extensamente y forma la base de Internet.
+
+          IPV6: Es una nueva versión de IP (Internet Prococol), diseñada para reemplazar a la
+          versión 4.
+
+          MASA CRÍTICA: Número de individuos involucrados en un fenómeno social, a
+          partir del cual dicho fenómeno adquiere una dinámica propia que le permite
+          sostenerse y crecer por sí mismo.
+
+          METADATOS: Son datos que describen otros datos. En general, un grupo de
+          metadatos se refiere a un grupo de datos, llamado recurso. El concepto de metadatos
+          es análogo al uso de índices para localizar objetos en vez de datos.
+
+          ODF: Formato estándar para el almacenamiento de documentos ofimáticos tales
+          como hojas de cálculo, memorandos, gráficas y presentaciones.
+
+          PÁGINA WEB DINÁMICA: Página que permite al usuario interactuar con la
+          misma a través de un sistema de información.
+
+          PDF: Acrónimo del inglés Portable Document Format (formato de documento
+          portátil). Es un formato de almacenamiento de documentos compuesto por imagen
+          vectorial, mapa de bits y texto.
+
+          PNG: (Portable Network Graphics) es un formato gráfico que permite almacenar
+          imágenes con una mayor profundidad de contraste.
+
+          PROTOCOLO: es la relación que se reconoce en la comunicación o la transferencia
+          de información.
+
+          SISTEMA OPERATIVO: Es un conjunto de programas de computadora destinado a
+
+
+Versión 1 – Enero 2009                                                                                            Página 22
+Subsecretaria de Informática       Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+          permitir una administración eficaz de sus recursos. Se puede encontrar normalmente
+          en la mayoría de los aparatos electrónicos que utilicen microprocesadores para
+          funcionar.
+
+          SOAP: Siglas de Simple Object Access Protocol. Es un protocolo estándar que
+          define cómo dos objetos en diferentes procesos pueden comunicarse por medio de
+          intercambio de datos XML.
+
+          SOFTWARE LIBRE: Software que brinda libertad a los usuarios sobre su producto
+          adquirido y por tanto, una vez obtenido, puede ser usado, copiado, estudiado,
+          modificado y redistribuido libremente. Es necesario contar con el código fuente.
+
+          SOFTWARE: Comprende el conjunto de los componentes lógicos (programas)
+          necesarios para hacer posible el funcionamiento del computador o periférico o de un
+          procesos específico.
+
+          SOLAR: Asociación Civil argentina. Trabaja para garantizar los derechos humanos
+          y libertades fundamentales en relación al software.
+
+          TCP: Transmission­Control­Protocol, en español Protocolo de Control de
+          Transmisión. Es uno de los protocolos fundamentales para comunicaciones en la
+          Internet.
+
+          TIC: Tecnologías de Información y Comunicación. En informática se encargan del
+          estudio, desarrollo, implementación, almacenamiento y distribución de la
+          información mediante la utilización de hardware y software.
+
+          VIRTUALIZACIÓN: Simulación o emulación de recursos computacionales
+          (hardware, software, comunicaciones) en otros recursos para optimizar y explotar al
+          máximo las capacidades de los mismos.
+
+          WPA:Es la abreviatura de Wifi Protect Access. Consiste en un mecanismo de
+          control de acceso a una red inalámbrica.
+
+          XML: Sigla en inglés de Extensible Markup Language (lenguaje de marcas
+          ampliable). Es un metalenguaje extensible de etiquetas desarrollado por el World
+          Wide Web Consortium (W3C). Permite definir la gramática de lenguajes específicos
+          para diferentes necesidades.
+
+
+Versión 1 – Enero 2009                                                                                            Página 23
+Subsecretaria de Informática             Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+     6.2. Decreto de Software Libre
+
+                                                       No. 1014
+
+                                        RAFAEL CORREA DELGADO
+                               PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+
+                                               CONSIDERANDO:
+
+  Que en el apartado g) del numeral 6 de la Carta Iberoamericana de Gobierno Electrónico, aprobada por
+  el IX Conferencia Iberoamericana de Ministros de Administración Pública y Reforma del Estado,
+  realizada en Chile el 1 de Junio de 2007, se recomienda el uso de estándares abiertos y software libre,
+  como herramientas informáticas;
+
+  Que es de interés del Gobierno alcanzar soberanía y autonomía tecnológica, así como un significativo
+  ahorro de recursos públicos y que el Software Libre es en muchas instancias un instrumento para
+  alcanzar estos objetivos;
+
+  Que el 18 de Julio de 2007 se creó e incorporó a la estructura orgánica de la Presidencia de la República
+  la Subsecretaría de Informática, dependiente de la Secretaría General de la Administración, mediante
+  acuerdo Nº 119 publicado en el Registro Oficial No. 139 de 1 de Agosto del 2007;
+
+  Que en el numeral 1 del artículo 6 del Acuerdo No. 119, faculta a la Subsecretaría de informática a
+  elaborar y ejecutar planes, programas, proyectos, estrategias, políticas, proyectos de leyes y reglamentos
+  para el uso de Software Libre en las dependencias del gobierno central; y,
+
+  En el ejercicio de la atribución que le confiere el numeral 9 del artículo 171 de la Constitución Política de
+  la República;
+
+
+                                                    DECRETA:
+
+
+  Artículo 1.­ Establecer como política pública para las Entidades de la Administración Pública Central la
+  utilización de Software Libre en sus sistemas y equipamientos informáticos.
+
+  Artículo 2.­ Se entiende por Software Libre, a los programas de computación que se pueden utilizar y
+  distribuir sin restricción alguna, que permitan su acceso a los códigos fuentes y que sus aplicaciones
+  puedan ser mejoradas.
+
+
+  Estos programas de computación tienen las siguientes libertades:
+
+  a) Utilización del programa con cualquier propósito de uso común.
+  b) Distribución de copias sin restricción alguna.
+  c) Estudio y modificación del programa ( Requisito: código fuente disponible)
+  d) Publicación del programa mejorado (Requisitos: código fuente disponible)
+
+
+Versión 1 – Enero 2009                                                                                                  Página 24
+Subsecretaria de Informática           Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+  Artículo 3.­ Las entidades de la Administración Pública previa la instalación del software libre en sus
+  equipos, deberán verificar la existencia de capacidad técnica que brinde el soporte necesario para el uso
+  de este tipo de software.
+
+  Artículo 4.­ Se faculta la utilización de software propietario (no libre) únicamente cuando no exista una
+  solución de Software Libre que supla las necesidades requeridas, o cuando esté en riesgo la seguridad
+  nacional, o cuando el proyecto informático se encuentre en un punto de no retorno.
+
+  Para efectos de este decreto se comprende como seguridad nacional, las garantías para la supervivencia
+  de la colectividad y la defensa de patrimonio nacional.
+
+  Para efectos de este decreto se entiende por un punto de no retorno, cuando el sistema o proyecto
+  informático se encuentre en cualquiera de estas condiciones:
+
+  a) Sistemas en producción funcionando satisfactoriamente y que en un análisis de costo beneficio
+  muestre que no es razonable ni conveniente una migración a Software Libre.
+  b) Proyecto en estado de desarrollo y que un análisis de costo ­ beneficio muestre que no es conveniente
+  modificar el proyecto y utilizar Software Libre.
+
+  Periódicamente se evaluarán los sistemas informáticos que utilizan software propietario con la finalidad
+  de migrarlos a Software Libre.
+
+  Artículo 5.­ Tanto para software libre como software propietario, siempre y cuando se satisfagan los
+  requerimientos, se debe preferir las soluciones en este orden:
+
+
+  a) Nacionales que permitan autonomía y soberanía tecnológica.
+  b) Regionales con componente nacional.
+  c) Regionales con proveedores nacionales.
+  d) Internacionales con componente nacional.
+  e) Internacionales con proveedores nacionales.
+  f) Internacionales.
+
+
+  Artículo 6.­ La Subsecretaría de Informática como órgano regulador y ejecutor de las políticas y
+  proyectos informáticos en las entidades del Gobierno Central deberá realizar el control y seguimiento de
+  este Decreto.
+
+  Para todas las evaluaciones constantes en este decreto la Subsecretaría de Informática establecerá los
+  parámetros y metodología obligatorias.
+
+  Artículo 7.­ Aburguesarse de la ejecución de este decreto los señores Ministros Coordinadores y el señor
+  Secretario General de la Administración Pública y Comunicación.
+
+  Dado en el Palacio Nacional en la ciudad de San Francisco de Quito, Distrito Metropolitano, el día de
+  hoy 10 de abril de 2008.
+
+
+                                        Rafael Correa Delgado
+                           PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+
+Versión 1 – Enero 2009                                                                                                Página 25
+Subsecretaria de Informática        Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+     6.3. Instituciones de la Administración Pública Central
+
+
+       INSTITUCIONES DE LA ADMINISTRACIÓN PÚBLICA CENTRAL
+       1        Banco del Estado
+       2        Banco Ecuatoriano de la Vivienda
+       3        Banco Nacional de Fomento
+       4        Corporación Financiera Nacional
+       5        Fondo de Solidaridad
+       6        Ministerio de Relaciones Exteriores
+       7        Ministerio de Agricultura, Ganadería, Acuacultura y Pesca
+       8        Ministerio de Ambiente
+       9        Ministerio de Coordinación de la Política Económica
+       10       Ministerio de Coordinación de la Producción
+       11       Ministerio de Coordinación de la Seguridad Interna y Externa
+       12       Ministerio de Coordinación de Patrimonio Natural y Cultural
+       13       Ministerio de Coordinación de Política
+       14       Ministerio de Coordinación de Sectores Estratégicos
+       15       Ministerio de Coordinación del Desarrollo Social
+       17       Ministerio de Cultura
+       18       Ministerio de Defensa Nacional
+       19       Ministerio de Desarrollo Urbano y Vivienda
+       20       Ministerio de Educación
+       21       Ministerio de Electricidad y Energía Renovable
+       22       Ministerio de Finanzas
+       23       Ministerio de Gobierno y Policía
+       24       Ministerio de Inclusión Económica y Social
+       25       Ministerio de Industrias y Competitividad
+       26       Ministerio de Justicia y Derechos Humanos
+       27       Ministerio de Minas y Petróleos
+
+
+Versión 1 – Enero 2009                                                                                             Página 26
+Subsecretaria de Informática         Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+              INSTITUCIONES DE LA ADMINISTRACIÓN PÚBLICA CENTRAL
+       28       Ministerio de Salud Pública
+       29       Ministerio de Trabajo y Empleo
+       30       Ministerio de Transporte y Obras Públicas
+       31       Ministerio de Turismo
+       32       Ministerio del Deporte
+       33       Ministerio del Litoral
+       34       Presidencia de la República
+       35       Secretaría de Pueblos, Movimientos Sociales y Participación Ciudadana
+       36       Secretaría Nacional Anticorrupción
+       37       Secretaría Nacional de Agua
+       38       Secretaría Nacional de Ciencia y Tecnología
+       39       Secretaría Nacional de Planificación
+       40       Secretaría Nacional de Recursos Humanos
+       41       Secretaría Nacional del Migrante
+       42       Servicio de Rentas Internas
+       43       Superintendencia de Compañías
+       44       Vicepresidencia de la República
+
+
+Versión 1 – Enero 2009                                                                                              Página 27
+Subsecretaria de Informática      Estrategia Implantación de Software Libre en la Administración Pública Central de Ecuador
+
+
+     6.4. Bibliografía
+
+    ●     Guía Práctica sobre Software Libre – Unesco, 2007.
+
+    ●     Guía Libre – Referencia de Migración para Software Libre del Gobierno Federal –
+          Brasil, 2004.
+
+    ●     Guía de Buenas Prácticas – Proyecto Source PYME.
+
+    ●     Software Libre, Uso y desarrollo en la Administración Pública Venezolana,
+          Ministerio de Ciencia y Tecnología, noviembre 2004.
+
+    ●     Ley 11/2007 de Acceso Electrónico de los Ciudadanos a los Servicios Públicos, de
+          España.
+
+    ●     Marco de Interoperabilidad de Brasil, ePING.
+
+    ●     Orden de 21 de febrero de 2005 de la Junta de Andalucía (España), sobre
+          disponibilidad pública de los programas informáticos de la Administración de la
+          Junta de Andalucía y de sus Organismos Autónomos.
+
+
+Versión 1 – Enero 2009                                                                                           Página 28

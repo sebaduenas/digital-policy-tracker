@@ -1,0 +1,2155 @@
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                 1
+
+
+                                              LEY 51
+                                        De 22 de julio de 2008
+
+
+Que define y regula los documentos electrónicos y las firmas electrónicas y la prestación de
+servicios de almacenamiento tecnológico de documentos y de certificación de firmas
+electrónicas y adopta otras disposiciones para el desarrollo del comercio electrónico
+
+
+                                  LA ASAMBLEA NACIONAL
+                                               DECRETA:
+
+                                               Título I
+                                       Disposiciones Generales
+
+Artículo 1. Objeto.     Esta Ley establece el marco regulador para la creación, utilización y
+almacenamiento de documentos electrónicos y firmas electrónicas, así como el proceso de
+registro y la fiscalización de los prestadores de servicios de almacenamiento tecnológico de
+documentos y de certificación de firmas electrónicas en el territorio de la República de Panamá.
+        Además, establece el marco regulador para algunos actos de comercio realizados a través
+de Internet, principalmente en lo referente a la información previa y posterior a la celebración de
+contratos electrónicos y a las condiciones relativas a la validez y eficacia de dichos contratatos;
+las obligaciones y responsabilidades de los prestadores de servicios comerciales a través de
+Internet, incluidos los que actúan como intermediarios en la transmisión de contenidos por las
+redes de comunicación; el intercambio de información y documentación comercial por vía
+electrónica, incluidas las ofertas, las promociones y los concursos; y el régimen sancionador
+aplicable a los prestadores de servicios comerciales a través de medios electrónicos.
+
+
+Artículo 2. Definiciones. Para los efectos de la presente Ley, los siguientes términos se definen
+así:
+1.      Almacenamiento tecnológico. Sistema de archivo de documentos a través de medios
+        tecnológicos.
+2.      Certificado electrónico. Documento electrónico expedido por un prestador de servicios de
+        certificación de firmas ele ctrónicas, que vincula los datos de verificación de una firma
+        electrónica a un firmante y confirma su identidad.
+3.      Certificado electrónico calificado. Certificado electrónico expedido por un prestador de
+        servicios de certificación registrado ante la Dirección General de Comercio Electrónico,
+        que cumple los requisitos establecidos en esta Ley en cuanto a la comprobación de la
+        identidad de los firmantes y a la fiabilidad y las garantías de los servicios de
+        certificación ofrecidos por el prestador de servicios de certificación que lo genera.
+4.      Códigos de conducta. Declaración formal de los valores, la ética y las prácticas
+        empresariales de una persona o de un grupo de personas, naturales o jurídicas, en la que
+        se presentan políticas y directrices, preestablecidas y aplicables a determinadas
+        situaciones, con la finalidad de facilitar las relaciones entre las autoridades, los
+        prestadores de servicios y los usuarios o destinatarios.
+5.      Comercio electrónico. Toda forma de transacción o intercambio de información con fines
+        comerciales en la que las partes interactúan utilizando Internet, en lugar de hacerlo por
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                 2
+                                                                                                  2
+
+        intercambio o contacto físico directo.
+6.      Consumidor. Persona natural o jurídica que adquiere de un proveedor bienes o servicios
+        finales de cualquier naturaleza.
+7.      Datos de creación de firma electrónica. Son los datos únicos, como códigos o claves
+        criptográficas, que el firmante utiliza de manera secreta para generar una firma
+        electrónica y vincularla al certificado electrónico que lo identifica.
+8.      Datos de verificación de firma electrónica. Son los datos, como códigos o claves
+        criptográficas, que se utilizan para verificar la firma electrónica.
+9.      Declaración de prácticas de certificación. Manifestación que hace un prestador de
+        servicios de certificación, con el fin de definir los criterios que utiliza para generar y
+        administrar certificados electrónicos, los servicios que ofrece y sus limitaciones, así
+        como las obligaciones que se compromete a cumplir en relación con la gestión de los
+        datos de creación y verificación de firma electrónica y de certificado electrónico.
+10.     Declaración de prácticas de almacenamiento tecnológico. Manifestación que hace un
+        prestador de servicios de almacenamiento tecnológico de documentos, con el fin de
+        definir los criterios que utiliza para generar y/o almacenar documentos electrónicos, los
+        servicios que ofrece y sus limitaciones, así como las obligaciones que se compromete a
+        cumplir en relación con la gestión de los documentos tecnológicamente almacenados.
+11.     Destinatario. Persona natural o jurídica:
+        a.   Que ha sido designada por el iniciador para recibir el mensaje, pero que no está
+             actuando a título de intermediario con respecto a ese mensaje.
+        b.   A quien va dirigido o destinado un servicio comercial a través de medios
+             electrónicos.
+12.     DGCE. Siglas correspondient e a la Dirección General de Comercio Electrónico.
+13.     DGI. Siglas correspondientes a la Dirección General de Ingresos.
+14.     Dispositivo seguro de creación de firma electrónica. Programa o sistema informático que
+        sirve para aplicar los datos de creación de una firma electrónica.
+15.     Dispositivo de verificación de firma electrónica. Programa o sistema informático que
+        sirve para aplicar los datos de verificación de una firma electrónica.
+16.     Documento. Escritos, escrituras, certificaciones, copias, impresos, planos, dibujos, cintas,
+        cuadros, fotografías, radiografías, discos, grabaciones magnetofónicas, boletos,
+        contraseñas, cupones, etiquetas, sellos, telegramas, radiogramas y, en general, todo objeto
+        mueble que tenga carácter representativo o declarativo de un hecho, una imagen, un
+        sonido o una idea.
+17.     Documento electrónico. Toda representación electrónica que da testimonio de un hecho, una
+        imagen, un sonido o una idea.
+18.     Factura electrónica. Documento electrónico mediante el cual se deja constancia de la
+        realización de la venta de bienes o de la prestación de servicios por parte de un prestador
+        de servicios comerciales por medios electrónicos y que, a la vez, permite dar validez
+        tributaria a operaciones comerciales efectuadas.
+19.     Firmante. Persona que posee un dispositivo de creación de firma y que actúa en nombre
+        propio o en nombre de una persona natural o jurídica a la que representa.
+20.     Firma electrónica. Conjunto de sonidos, símbolos o datos vinculados con un documento
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                 3
+                                                                                                   3
+
+        electrónico, que ha sido adoptado o utilizado por una persona con la intención precisa de
+        identificarse y aceptar o adherirse al contenido de un documento electrónico.
+21.     Firma electrónica calificada. Es la firma electrónica cuya validez es respaldada por un
+        certificado electrónico calificado, emitido por un prestador de servicios de certificación
+        registrado ante la Dirección General de Comercio Electrónico, que:
+        a.   Permite identificar al firmante y detectar cualquier cambio posterior de los datos
+             firmados.
+        b.   Está vinculada al firmante de manera única y a los datos a que se refiere.
+        c.   Ha sido creada utilizando dispositivos seguros de creación de firmas electrónicas,
+             los cuales mantiene el firmante bajo su control exclusivo.
+22.     Iniciador. Toda persona que, a tenor del mensaje, haya actuado por su cuenta para enviar
+        o generar ese mensaje antes de ser archivado, si este es el caso, pero que no haya actuado
+        a título intermediario con respecto a ese mensaje.
+23.     Intermediario. Persona que, actuando por cuenta de otra, envíe, reciba o archive un
+        mensaje o preste algún otro servicio con respecto a él.
+24.     Internet. Red de computadoras que está interconectada con otras que agrupa a distintos
+        tipos de redes usando un mismo protocolo de comunicación (IP "Internet Protocol" o
+        cualquier otro), de acceso público y a través de la cual los usuarios pueden compartir
+        datos, recursos, servicios e información de cualquier índole.
+25.     Medios de almacenamiento tecnológico. Dispositivos tecnológicos aceptados y
+        reconocidos para el almacenamiento              de documentos, que mantienen la integridad y
+        fidelidad de la información almacenada.
+26.     Nombre de dominio. Nombre utilizado comúnmente para identificar, con un idioma
+        accesible al público, una dirección URL (Uniform Resource Locator -en español,
+        Localizador Uniforme de Recursos) localizable en la Internet.
+27.     Prestador de servicios de almacenamiento tecnológico. Persona natural o jurídica que por
+        la naturaleza de su negocio realiza y/o brinda servicios de almacenamiento tecnológico
+        y/o provee otros servicios relacionados con esta actividad.
+28.     Prestador de servicios de certificación. Persona jurídica que emite firmas
+        electrónicas y los certificados electrónicos para identificar el propietario y el estatus
+        de dichas firmas y provee otros servicios relacionados con el uso de las firmas
+        electrónicas.
+29.     Prestador de servicios de intermediación. Persona natural o jurídica que:
+        a.   Facilita el servicio de acceso a Internet.
+        b.   Trasmite datos por redes de telecomunicaciones.
+        c.   Realiza copias temporales de las páginas de Internet solicitadas por los usuarios.
+        d.   Aloja en sus propios servidores datos, aplicaciones o servicios suministrados por
+             otros.
+        e.   Provee de instrumentos de búsqueda, acceso y recopilación de datos o de enlaces a
+             otros sitios de Internet.
+30.     Prestador de servicios comerciales. Persona natural o jurídica que, a través de medios
+        electrónicos y de Internet, realiza actos, operaciones o transacciones vinculados a su
+        actividad comercial y/o relacionados con el ciclo comercial.
+No. 26090                      Gaceta Oficial Digital, jueves 24 de julio de 2008                 4
+                                                                                                  4
+
+31.     Repositorio. Sistema de almacenamiento electrónico utilizado para la generación y
+        administración de certificados.
+32.     Revocar un certificado. Término utilizado para indicar que, a partir de una fecha
+        específica, se ha cancelado definitivamente la validez del certificado que valida una
+        firma electrónica y, en consecuencia, a partir de dicha revocación, la utilización de dicha
+        firma no producirá efectos jurídicos, ni vinculantes.
+33.     Sistema confiable. Conjunto de equipos, programas de computadora y procedimientos para
+        el procesamiento, almacenamiento y transmisión de datos utilizados en los servicios de
+        almacenamiento tecnológico de documentos y en la emisión de firmas y certificados
+        electrónicos y en los servicios relacionados con estas actividades, que:
+        a.   Posee controles suficientes para prevenir violaciones, intromisiones y accesos no
+             autorizados al sistema.
+        b.   Provee un adecuado nivel de disponibilidad, confianza y correcta operación para las
+             funciones que realiza y los servicios que ofrece.
+        c.   Cumple con los procedimientos y las prácticas de seguridad establecidos en la
+             legislación y, en ausencia de esta, cumple con los estándares internacionalmente
+             aceptados.
+34.     Suspender un certificado. Término utilizado para señalar que, desde una fecha
+        determinada, se ha interrumpido temporalmente la vigencia del certificado utilizado para
+        validar una firma electrónica y, en consecuencia, durante el tiempo que dure la
+        suspensión, la utilización de dicha firma no produce efectos jurídicos, ni vinculantes.
+35.     Tercero de confianza. Persona natural o jurídica que ha cumplido con los requisitos
+        establecidos por la legislación y la reglamentación vigente para la prestación de un
+        determinado servicio y que, en consecuencia, ha sido autorizada por la autoridad
+        competente para ofrecer comercialmente dicho servicio.
+36.     Tecnologías de la Información y las Comunicaciones (TIC).
+        a.   Conjunto de tecnologías que permiten la adquisición, producción, almacenamiento,
+             tratamiento, comunicación, registro y presentación de informaciones contenidas en
+             señales de naturaleza acústica (sonidos), óptica (imágenes) o electromágnetica
+             (datos alfanuméricos).
+        b.   En el ámbito de la prestación de servicios de comercio a través de medios
+             electrónicos, se refiere a las tecnologías de la información y comunicación que
+             permitan transacciones comerciales o ventas a distancia por medios electrónicos.
+37.     WWW, World Wide Web o la Web. Sistema de comunicación utilizado para extraer
+        elementos de información llamados "documentos" o "páginas web" a través de Internet.
+
+
+Artículo 3. Interpretación, ámbito de aplicación y régimen de la prestación de servicios. Las
+actividades reguladas por esta Ley se someterán a los principio s de libertad de prestación de
+servicios, libre competencia, neutralidad tecnológica, compatibilidad               internacional y
+equivalencia funcional y se aplicarán sin perjuicio de lo dispuesto en otras normas que tengan
+como finalidad la protección de la salud, de la seguridad pública, de datos personales, de los
+intereses del consumidor, de la libre competencia y del régimen tributario aplicable a las
+actividades comerciales e industriales. Toda interpretación de los preceptos de esta Ley deberá
+No. 26090                      Gaceta Oficial Digital, jueves 24 de julio de 2008                  5
+                                                                                                  5
+
+guardar armonía con los principios señalados.
+        La prestación de servicios de almacenamiento tecnológico de documentos, de certificación
+de firmas electrónicas y de servicios de comercio a través de Internet se regirá por los mismos
+principios expresados en el párrafo anterio r, no estará sujeta a autorización previa y se realizará
+en régimen de libre competencia. Sin embargo, las personas naturales o jurídicas que se
+dediquen a la prestación de estos servicios deberán cumplir las condiciones y los requisitos
+establecidos en esta Ley y sus reglamentos.
+
+
+                                           Título II
+                                     Documentos Electrónicos
+
+Artículo 4. Valor legal de los documentos electrónicos y de la firma electrónica. Cuando la ley
+requiera que la información conste en un documento escrito, se le reconocerá validez, efectos
+jurídicos y fuerza obligatoria a los actos y contratos que hayan sido otorgados o adoptados a
+través de medios electrónicos en documentos electrónicos de conformidad con esta Ley y sus
+reglamentos.
+        Lo dispuesto en el presente artículo no será aplicable a los actos para los cuales la ley
+exige una solemnidad que no sea verificable mediante documento electrónico.
+
+
+Artículo 5. Integridad de un mensaje de datos. Para efectos de esta Ley, se considerará que la
+información consignada en un mensaje de datos es íntegra, si esta ha permanecido completa e
+inalterada, salvo la adición de algún endoso o de algún cambio que sea inherente al proceso de
+comunicación, archivo o presentación.
+        El grado de confiabilidad requerido será determinado por los fines para los que se generó
+la información y por las circunstancias relevantes en la generación, transmisión y archivo del
+mensaje, así como la integridad de la información contenida y la forma como se identifique al
+iniciador.
+
+
+Artículo 6. Integridad de un documento electrónico. La información consignada en un
+documento electrónico será considerada íntegra, si el resultado de un procedimiento de
+verificación aplicado a dicho documento así lo indica y permite determinar con certeza, que
+dicho documento no ha sido modificado desde el momento de su emisión.
+
+
+Artículo 7. Admisibilidad y fuerza probatoria de documentos electrónicos. Los documentos
+electrónicos serán admisibles como medios de prueba y tendrán la misma fuerza probatoria
+otorgada a los documentos en el Libro Segundo de Procedimiento Civil del Código Judicial.
+        En todo caso, al valorar la fuerza probatoria de un documento electrónico se tendrá
+presente la confiabilidad de la forma en la que se haya generado, archivado o comunicado, y la
+confiabilidad de la forma en la que se haya conservado la integridad de la información.
+No. 26090                         Gaceta Oficial Digital, jueves 24 de julio de 2008                 6
+                                                                                                   6
+
+                                                Título III
+                             Firmas, Certificados Electrónicos y Prestación
+                          de Servicios de Certificación de Firmas Electrónicas
+
+                                                 Capítulo I
+                                              Firma Electrónica
+
+Artículo 8. Valor legal de la firma electrónica. La firma electrónica tendrá respecto de los datos
+consignados en forma electrónica el mismo valor que la firma manuscrita en relación con los
+consignados en papel.
+
+
+Artículo 9. Fe pública. Si una disposición legal requiere que una firma relacionada a un
+documento o a una transacción sea reconocida o hecha bajo la gravedad del juramento, dicho
+requisito será satisfecho en un documento electrónico si el otorgante utiliza la firma electrónica
+calificada.
+        Si una disposición legal requiere que una firma relacionada a un documento o a una
+transacción, sea notariada, refrendada o hecha bajo la gravedad del juramento ante un notario o
+funcionario público, dicho requisito será satisfecho en un documento electrónico si a la firma
+electrónica calificada del otorgante se adiciona la firma electrónica del funcionario autorizado
+para dar fe pública, siempre que la firma electrónica utilizada por el funcionario cumpla con los
+requisitos establecidos en esta Ley y en sus reglamentos, para ser considerada una firma
+electrónica calificada.
+        En el ámbito de documentos electrónicos, corresponderá al prestador de servicios de
+certificación, acreditar la existencia de los servicios prestados en el ejercicio de su actividad, a
+solicitud del usuario o de una autoridad judicial o administrativa competente.
+
+
+Artículo 10. Reconocimiento de tecnologías para crear firmas electrónicas. El Estado deberá
+reconocer como válido y reglamentar cualquier tecnología utilizada para crear firmas electrónicas
+cuando, luego de la verificación técnica correspondiente, se demuestre que dicha tecnología
+cumple los parámetros mínimos de seguridad establecidos en este Título para garantizar que el
+dispositivo utilizado permite de manera efectiva y segura la vinculación de una persona a la firma
+que utiliza en un documento electrónico y garantiza la integridad del documento.
+
+
+Artículo 11. Dispositivo seguro de creación de firma electrónica. Para que un dispositivo de
+creación de firma sea considerado seguro deberá ofrecer, al menos, las siguientes garantías:
+1.      Que los datos utilizados para la generación de firma pueden producirse solo una vez y se
+        asegura razonablemente su secreto.
+2.      Que existe una seguridad razonable de que los datos utilizados para la generación de
+        firma no pueden ser derivados de los de verificación de firma o de la propia firma y de
+        que la firma está protegida contra la falsificación con la tecnología existente en cada
+        momento.
+3.      Que los datos de creación de firma pueden ser protegidos de forma fiable por el firmante
+        contra su utilización por terceros.
+4.      Que el dispositivo utilizado no altera los datos o el documento que deba firmarse, ni
+        impide que este se muestre al firmante antes del proceso de firma.
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                    7
+                                                                                                      7
+
+
+Artículo 12. Dispositivo de verificación de firma electrónica. Los dispositivos de verificación
+de firma electrónica garantizarán que el proceso de verificación de una firma electrónica
+satisfaga, al menos los siguientes requisitos:
+1.      Que los datos utilizados para verificar la firma corresponden a los datos mostrados a la
+        persona que verifica la firma.
+2.      Que la firma se verifique de forma fiable y que el resultado de esa verificación se
+        presente correctamente.
+3.      Que la persona que verifica la firma electrónica pueda, en caso necesario, establecer de
+        forma fiable el contenido de los datos firmados y detectar si han sido modificados.
+4.      Que se muestren correctamente tanto la identidad del firmante como el resultado de la
+        verificación.
+5.      Que se verifiquen de forma fiable la autenticidad y la validez del certificado electrónico
+        correspondiente.
+6.      Que pueda detectarse cualquier camb io relativo a su seguridad.
+        De igual manera, los datos referentes a la verificación de la firma, tales como el momento
+en que esta se produce, o la verificación de la vigencia del certificado electrónico que la valida,
+podrán ser almacenados por la persona que verifica la firma electrónica o por terceros de
+confianza.
+
+
+Artículo 13. Uso de la firma electrónica por el Estado. El Estado hará uso de firmas electrónicas
+en su ámbito interno y en su relación con los particulares, de acuerdo con lo establecido en la
+presente Ley y con las condiciones de uso que se fijen reglamentariamente en cada uno de sus
+poderes.
+        El Estado podrá contratar los servicios de cualquier prestador de servicios de certificación
+de firmas electrónicas, público o privado, que esté registrado ante la Dirección General de
+Comercio Electrónico. De igual manera, los particulares que mantengan relación con el Estado
+por vía electrónica, deberán hacerlo utilizando firmas electrónicas emitidas por un prestador de
+servicios de certificación de firmas electrónicas que esté registrado ante la Dirección General de
+Comercio Electrónico.
+
+
+                                            Capítulo II
+                               Certificados Electrónicos Calificados
+
+Artículo 14. Contenido de un certificado electrónico calificado. El certificado electrónico
+calificado deberá contener, al menos, la siguiente información:
+1.      Identificación del firmante.
+2.      Nombre y dirección del prestador de servicio de certificación regulado que lo emite.
+3.      Fecha de emisión y expiración del certificado.
+4.      Número de serie o de identificación del certificado.
+5.      La firma electrónica del prestador de servicios de certificación que emitió el certificado.
+6.      Datos de verificación de la firma que correspondan a los datos de creación de la firma
+        bajo el control del firmante.
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                 8
+                                                                                                  8
+
+Artículo 15. Certificados electrónicos de personas jurídicas. Los certificados electrónicos de
+personas jurídicas son solicitados para dispositivos electrónicos utilizados en una empresa,
+como computadoras, servidores, entre otros, y podrán ser solicitados por sus administradores y
+representantes legales con poder suficiente.
+        La custodia de los datos de creación de firma asociados a cada certificado electrónico de
+persona jurídica será responsabilidad de la persona natural solicitante, cuya identificación se
+incluirá en el certificado electrónico.
+        La persona jurídica podrá imponer los límites que considere, por razón de cuantía o
+materia, para el uso de los datos de creación de firma. Estos límites deberán figurar en el
+certificado electrónico.
+        Se entenderán realizados por la persona jurídica, los actos o los contratos en los que su
+firma se hubiera empleado, dentro de los límites establecidos. Si la firma se utiliza
+transgrediendo dichos límites, la persona jurídica quedará vinculada frente a terceros solo si los
+asume como propios o se hubieran celebrado en su interés. En caso contrario, los efectos de
+dichos actos recaerán sobre la persona natural responsable de la custodia de los datos de creación
+de firma, quien podrá repetir en su caso, contra quien los hubiera utilizado.
+        Lo dispuesto en este artículo no será aplicable a los certificados que se expidan a favor
+del Estado, los cuales estarán sujetos a una reglamentación especial.
+
+
+Artículo 16. Extinción de la vigencia del certificado electrónico. Son causales de extinción de la
+vigencia de un certificado electrónico:
+1.      Expiración del periodo de validez del certificado.
+2.      Revocación de la vigencia del certificado electrónico.
+        El periodo de validez de un certificado electrónico será adecuado a las características y
+tecno logía empleada para generar los datos de creación de firma.
+        La extinción de la vigencia de un certificado electrónico surtirá efectos frente a terceros,
+en los supuestos de expiración de su periodo de validez, desde que se produzca esta circunstancia
+y, en los demás casos, desde que la indicación de dicha extinción se incluya en el servicio de
+consulta sobre vigencia de los certificados del prestador de servicios de certificación.
+
+
+Artículo 17. Reconocimiento de certificados extranjeros. Los certificados emitidos por prestadores
+de servicios de certificación de firmas electrónicas extranjeros podrán ser reconocidos en los
+mismos términos y condiciones establecidos por esta Ley para los certificados calificados
+cuando:
+1.      Tales certificados sean reconocidos en virtud de acuerdos con otros países, ya sean
+        bilaterales o multilaterales, o efectuados en el marco de organizaciones internacionales de
+        las que Panamá sea parte.
+2.      Tales certificados sean emitidos por prestadores de servicios de certificación
+        debidamente avalados en su país de origen por instituciones homólogas a la Dirección
+        General de Comercio Electrónico que requieren para su reconocimiento estándares que
+        garanticen la seguridad en la creación del certificado y la regularidad de los detalles del
+        certificado, así como su validez y vigencia .
+3.      Se acredite que tales certificados fueron emitidos por un prestador de servicios de
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                  9
+                                                                                                   9
+
+        certificación que cumple con los estándares mínimos requeridos para un prestador de
+        servicios de certificación de firmas electrónicas registrado en la Dirección General de
+        Comercio Electrónico.
+
+
+                                               Capítulo III
+                                               Los Firmantes
+
+Artículo 18. Deberes de los firmantes. Son deberes de los firmantes:
+1.      Suministrar información completa, precisa y verídica que requiera el prestador de
+        servicios de certificación.
+2.      Mantener el control exclusivo de los datos de creación de la firma, correspondiente a los
+        de verificación que constan en el certificado.
+3.      Solicitar oportunamente la suspensión o revocación del certificado, ante cualquier
+        circunstancia que pueda haber comprometido la privacidad de los datos de creación de
+        firma.
+
+
+Artículo 19. Solicitud de revocación de la vigencia del certificado electrónico. El firmante está
+obligado a solicitar la revocación del certificado, en los siguientes casos:
+1.      Por pérdida de los datos de creación de firma que da validez al certificado.
+2.      Si los datos privados para creación de la firma han sido expuestos o corren peligro de
+        que se le dé un uso indebido.
+        Si el firmante no solicita la revocación del certificado en el evento de presentarse las
+anteriores situaciones será responsable por la pérdida o perjuicio en los cuales incurran terceros
+de buena fe exentos de culpa, que confiaron en el contenido del certificado.
+
+
+Artículo 20. Solicitud de información. El firmante podrá solicitar información al prestador de
+servicios de certificación, sobre todo asunto relacionado con su certificado o su firma
+electrónica.
+
+
+                                            Capítulo IV
+                        Registro y Prestación de Servicios de Certificación
+                                de Firmas Electrónicas Calificadas
+
+Artículo 21. Registro del prestador de servicios de certificación de firmas electrónicas calificadas.
+Toda persona jurídica, nacional o extranjera, que ofrezca el servicio de certificación de firmas
+electrónicas calificadas a terceros deberá registrarse ante la Dirección General de Comercio
+Electrónico. Para solicitar el registro, el prestador de servicios de certificación deberá pagar una
+tasa a la Dirección General de Comercio Electrónico, cuyo monto y procedimiento de pago será
+determinado por reglamento. Hasta que no haya sido dictado el reglamento, se establece que la
+tasa de registro será de mil balboas (B/.1,000.00).
+        Cumplidos todos los requisitos, el prestador de servicios de certificación será inscrito en
+un registro que l evará la Dirección General de Comercio Electrónico, el cual será de carácter
+público. El prestador de servicios de certificación tendrá la obligación de informar a la Dirección
+de cualquier modificación de las condiciones que permitieron su registro.
+No. 26090                         Gaceta Oficial Digital, jueves 24 de julio de 2008                10
+                                                                                                    10
+
+Artículo 22. Actividades del prestador de servicios de certificación. El prestador de servicios de
+certificación podrá realizar las siguientes actividades:
+1.      Emitir certificados en relación con las firmas electrónicas de personas naturales o
+        jurídicas.
+2.      Emitir certificados sobre la verificación respecto de la alteración entre el envío y la
+        recepción del mensaje de datos.
+3.      Ofrecer o facilitar los servicios de creación de firmas electrónicas.
+4.      Ofrecer o facilitar los servicios de registro y estampado cronológico en la transmisión y
+        recepción de mensajes de datos.
+5.      Ofrecer los servicios de archivo y conservación de mensaje de datos.
+6.      Cualquiera otra actividad complementaria, relacionada con firma electrónica.
+
+
+Artículo 23. Obligaciones del prestador de servicios de certificación que expida certificados
+electrónicos calificados. Todo prestador de servicio de certificación que expida certificados
+electrónicos calificados deberá cumplir con las siguientes obligaciones:
+1.      No almacenar, ni copiar los datos de creación de firma de la persona a la que haya
+        prestado sus servicios.
+2.      Proporcionar al solicitante antes de la expedición del certificado la siguiente información
+        mínima que deberá transmitirse de forma gratuita, por escrito o por vía electrónica:
+        a.    Las obligaciones del firmante, la forma en que han de custodiarse los dispositivos de
+              creación de firma, el procedimiento que haya de seguirse para comunicar la pérdida
+              o posible utilización indebida de dichos datos y determinados dispositivos de
+              creación de verificación de firma electrónica que sean compatibles con los datos de
+              firma y con el certificado expedido.
+        b.    Los mecanismos para garantizar la fiabilidad de la firma electrónica de un
+              documento a lo largo del tiempo.
+        c.    El método utilizado por el prestador para comprobar la identidad del firmante u
+              otros datos que figuren en el certificado.
+        d.    Las condiciones precisas de utilización del certificado, sus posibles límites de uso y
+              la forma como el prestador garantiza su responsabilidad patrimonial.
+        e.    Las demás informaciones contenidas en la declaración de prácticas de certificación.
+        f.    Mantener un directorio de certificados actualizado en el que se indicarán los
+              certificados expedidos, y si están vigentes o si su vigencia ha sido suspendida o
+              extinguida. La integridad del directorio se protegerá mediante la utilización de los
+              mecanismos de seguridad adecuados.
+3.      Garantizar la disponibilidad de un servicio de consulta rápido y seguro sobre la vigencia
+        de los certificados.
+4.      Garantizar que pueda determinarse con precisión la fecha y la hora en las que se expidió,
+        se extinguió, se suspendió o se revocó la vigencia de un certificado.
+5.      Demostrar que cumple con los requisitos establecidos por la Dirección General de
+        Comercio Electrónico para garantizar la fiabilidad necesaria para prestar servicios de
+        certificación.
+6.      Garantizar la rapidez y la seguridad en la prestación del servicio. Deberán contar con un
+No. 26090                          Gaceta Oficial Digital, jueves 24 de julio de 2008            11
+                                                                                                11
+
+        directorio de certificados emitidos y servicios de revocación seguros e inmediatos.
+7.      Emplear personal calificado, con los conocimientos y la experiencia necesarios para la
+        prestación de los servicios de certificación ofrecidos, así como con los procedimientos de
+        seguridad y de gestión adecuados en el ámbito de la firma electrónica.
+8.      Contar con sistemas confiables y productos que estén protegidos contra toda alteración y
+        que garanticen la seguridad técnica y, en su caso, criptográfica de los procesos de
+        certificación a los que sirven de soporte.
+9.      Implementar medidas contra la falsificación de certificados y, en el caso de que el
+        prestador de servicios de certificación genere datos de creación de firma, garantizar su
+        confidencialidad durante el proceso de generación y su entrega por un procedimiento
+        seguro al firmante.
+10.     Emitir certificados conforme a lo requerido por el solicitante.
+11.     Garantizar la protección, la confidencialidad y el debido uso de la información
+        suministrada por el suscriptor.
+12.     Contar con un plan de contingencia que garantice la prestación permanente de sus
+        servicios.
+13.     Permitir y facilitar la realización de las evaluaciones técnicas que ordene la Dirección
+        General de Comercio Electrónico.
+14.     Elaborar los reglamentos que definen las relaciones con el firmante y la forma de
+        prestación del servicio.
+15.     Conservar registrada, por cualquier medio seguro, toda información y documentación
+        relativa a un certificado calificado, así como las declaraciones de prácticas de
+        certificación vigentes de cada momento, al menos durante siete años contados desde el
+        momento de su expedición, de manera que puedan verificarse las firmas efectuadas con
+        él.
+16.     Utilizar sistemas confiables para almacenar certificados calificados que permitan
+        comprobar su autenticidad e impedir que personas no autorizadas alteren los datos,
+        restrinjan su accesibilidad en los supuestos o a las personas que el firmante haya
+        indicado, y que permitan detectar cualquier cambio que afecte a estas condiciones de
+        seguridad.
+17.     Contratar una póliza de responsabilidad civil contractual y extracontractual, para afrontar
+        el riesgo de la responsabilidad por daños y perjuicios que pueda ocasionar el uso de los
+        certificados que expidan. El monto de esta póliza será fijada por reglamento.
+
+
+Artículo 24. Declaración de prácticas de certificación de firmas electrónicas. Todo prestador de
+servicios de certificación formulará una declaración de prácticas de certificación en la que
+detallarán, dentro del marco de esta Ley y de sus reglamentos, al menos, la siguiente información:
+1.      Las obligaciones que se comprometen a cumplir en relación con la gestión de datos de
+        creación y verificación de firma y de los certificados electrónicos.
+2.      Las condiciones aplicables a la solicitud, expedición, uso, suspensión y extinción de la
+        vigencia de los certificados.
+3.      Las medidas de seguridad técnica y organizativa.
+4.      Los perfiles y los mecanismos de información sobre la vigencia de los certificados.
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                   12
+                                                                                                     12
+
+5.      El resultado de la evaluación obtenida por el prestador de servicios de certificación en la
+        última auditoría realizada por la Dirección General de Comercio Electrónico.
+6.      Si el registro como prestador de servicios de certificación ha sido revocado o suspendido
+        o si la Dirección General de Comercio Electrónico le ha impuesto alguna sanción, la
+        fecha de la revocación, de la suspensión o de la sanción y los motivos de estas.
+7.      Los límites para operar como prestador de servicios de certificación.
+8.      Cualquier evento que sustancialmente afecte la capacidad del prestador de servicios de
+        certificación para operar.
+9.      La lista de normas y procedimientos de certificación.
+10.     Cualquier otra información que la Direcció n General de Comercio Electrónico solicite
+        mediante reglamento.
+        La declaración de prácticas de certificación estará disponible al público de manera
+fácilmente accesible, al menos por vía electrónica, y de forma gratuita. Cuando se trate de un
+prestador de servicios de certificación registrado, su declaración de prácticas de certificación
+deberá publicarse, además, en el repositorio que la Dirección General de Comercio Electrónico
+designe para tal efecto.
+
+
+Artículo 25. Obligaciones previas a la expedición de un certificado electrónico calificado. Antes
+de la expedición de un certificado calificado, los prestadores de servicios de certificación
+deberán cumplir las siguientes obligaciones:
+1.      Comprobar la identidad y circunstancias personales del solicitante del certificado con
+        arreglo a lo dispuesto en el artículo 12 de esta Ley.
+2.      Verificar que la información contenida en el certificado es exacta y que incluye toda la
+        información prescrita para un certificado calificado.
+3.      Asegurarse de que el firmante está en posesión de los datos de creación de firma
+        correspondientes a los de verificación que constan en el certificado.
+4.      Garantizar la complementariedad de los datos de creación y verificación de firma,
+        siempre que ambos sean generados por el prestador de servicios de certificación.
+
+
+Artículo 26. Comprobación de la identidad y otras circunstancias personales de los solicitantes de
+un certificado calificado. La identificación de la persona natural que solicite un certificado
+calificado exigirá su comparecencia ante los encargados de verificarla y se acreditará mediante
+la cédula de identidad personal o el pasaporte.
+        En el caso de certificados calificados de personas jurídicas, los prestadores de servicios
+de certificación comprobarán, además, los datos relativos a la constitución y personalidad
+jurídica, así como la extensión y la vigencia de las facultades de representación del solicitante.
+        Cuando el certificado calificado contenga otras circunstancias personales o atributos del
+solicitante, como su condición de titular de un cargo público, su pertenencia a un colegio
+profesional o su titulación, estos deberán comprobarse mediante los documentos oficiales que los
+acrediten de conformidad con su normativa específica.
+        Lo dispuesto en los párrafos anteriores podrá omitirse en los siguientes casos:
+1.      Cuando la identidad u otras circunstancias permanentes de los solicitantes de los
+        certificados constaran ya para el prestador de servicios de certificación en virtud de una
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                 13
+                                                                                                   13
+
+        relación preexistente, en la que, para la identificación del interesado, se hubieran
+        empleado los medios señalados en este artículo y el periodo de tiempo transcurrido desde
+        la identificación no sea mayor seis meses.
+2.      Cuando para solicitar un certificado se utilice otro vigente para cuya expedición se
+        hubiera identificado al firmante en la forma prescrita en este artículo.
+        Los prestadores de servicios de certificación podrán realizar las actuaciones de
+comprobación previstas en este artículo por sí mismo o por medio de otras personas naturales o
+jurídicas, públicas o privadas, siendo responsable, en todo caso, el prestador de servicios de
+certificación.
+
+
+Artículo 27. Registro de certificados. Todo prestador de servicios de certificación deberá llevar
+un registro de los certificados emitidos, indicando la fecha de emisión y expiración y, en los
+casos en que se den, los registros de suspensión, revocación o reactivación de los certificados,
+además incluir una copia de los certificados electrónicos generados por él. En el caso de
+prestadores de servicios de certificación que emitan certificados electrónicos calificados, deberán
+además llevar un registro de toda la información y documentación relativa a los certificados
+calificados y a la declaración de prácticas de certificación.
+
+
+Artículo 28. Término de conservación de los registros. Los registros de certificados expedidos
+por un prestador de servicios de certificación, deberán conservarse por el término de siete años,
+contado a partir de la fecha de extinción de la vigencia del correspondiente certificado.
+
+
+Artículo 29. Suspensión de la vigencia de los certificados electrónicos. El prestador del servicio de
+certificación suspenderá la vigencia de un certificado electrónico, si concurre alguna de las
+siguientes causas:
+1.      Solicitud del firmante o de un tercero en su nombre y representación.
+2.      Resolución judicial o administrativa que así lo ordene.
+3.      Cualquier otra causa lícita prevista en la declaración de prácticas de certificación.
+        La suspensión de la vigencia de un certificado electrónico surtirá efectos desde que se
+incluya en el repositorio del prestador de servicios de certificación.
+
+
+Artículo 30. Revocación de la vigencia del certificado electrónico. El prestador del servicio de
+certificación revocará la vigencia del certificado electrónico en los siguientes casos:
+1.      A petición del firmante, de la persona natural o jurídica representada por el firmante, un
+        tercero autorizado o la persona natural solicitante de un certificado electrónico de persona
+        jurídica.
+2.      Fallecimiento del firmante o de la persona natural que representa incapacidad
+        sobrevenida, total o parcial, del firmante o de la persona natural que representa, extinción
+        o disolución de la persona jurídica representada por el firmante, terminación de la
+        representación o alteración de las condiciones de custodia o uso de los datos de creación
+        de firma que estén reflejadas en los certificados expedidos a una persona juridica.
+3.      Violación o puesta en peligro de los datos de creación de firma del firmante, o del
+        prestador de servicios de certificación o utilización indebida de dichos datos por un
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                  14
+                                                                                                    14
+
+        tercero.
+4.      Resolución judicial o administrativa que lo ordene.
+5.      Cese en la actividad del prestador de servicios de certificación salvo que, previo
+        consentimiento expreso del firmante, la gestión de los certificados electrónicos
+        expedidos por aquel sean transferidos a otro prestador de servicios de certificación.
+6.      Alteración de los datos aportados para la obtención del certificado o modificación de las
+        circunstancias verificadas para la expedición del certificado, como las relativas al cargo
+        o a las facultades de representación, de manera que este ya no fuera conforme a la
+        realidad.
+7.      Cualquiera otra causa lícita prevista en la declaración de prácticas de certificación.
+
+
+Artículo 31. Notificación de la expiración, suspensión o revocación del certificado
+electrónico. El prestador de servicios de certificación hará constar inmediatamente, de manera
+clara e irrefutable, la expiración, la revocación o la suspensión de la vigencia de los certificados
+electrónicos existentes en su repositorio, en cuanto tenga conocimiento fundado de cualquiera de
+los hechos determinantes de la extinción de la vigencia.
+        El prestador de servicios de certificación informará al firmante acerca de esta
+circunstancia de manera previa o simultánea a la extinción de la vigencia del certificado
+electrónico, especificando los motivos, la fecha y la hora en que el certificado quedará sin
+efecto. En los casos de suspensión, indicará, además, su duración máxima, extinguiéndose la
+vigencia del certificado si transcurrido dicho plazo no se hubiera levantado la suspensión.
+        En el caso de suspensión o revocación de la vigencia del certificado electrónico, este se
+mantendrá accesible en el repositorio del prestador de servicios de certificación, al menos, hasta
+la fecha en que hubiera finalizado su periodo inicial de vigencia.
+
+
+Artículo 32. Cese de actividades por parte del prestador de servicios de certificación de firmas
+electrónicas. Todo prestador de servicios de certificación que vaya a cesar en su actividad deberá
+comunicarlo a la Dirección General de Comercio Electrónico y a cada firmante, con un mínimo
+de noventa días de anticipación a la fecha de la cesación efectiva de actividades. Los certificados
+que sigan válidos, con el consentimiento expreso del firmante, podrán ser transferidos a otro
+prestador de servicios de certificación que los asuma o, en caso contrario, extinguir su vigencia.
+        El prestador de servicios de certificación registrado, deberá comunicar a la Dirección
+General de Comercio Electrónico, con un mínimo de cuarenta y cinco días de anticipación al
+cese de su actividad, el destino que vaya a dar a los certificados, especificando, en su caso, si va a
+transferir los certificados a otro prestador registrado o si va a extinguir su vigencia.
+
+
+Artículo 33. Responsabilidad del prestador de servicios de certificación de firmas electrónicas. El
+prestador de servicios de certificación responderá por los daños y perjuicios que cause a
+cualquier persona en el ejercicio de su actividad cuando incumpla las obligaciones que le
+impone esta Ley.
+        En todo caso, corresponderá al prestador de servicios de certificación demostrar que
+actuó con la diligencia profesional que le es exigible.
+        De manera particular, el prestador de servicios de certificación responderá de los
+No. 26090                        Gaceta Oficial Digital, jueves 24 de julio de 2008              15
+                                                                                                 15
+
+perjuicios que se causen al firmante o a terceros de buena fe, por la falta o el retraso en la
+actualización de su repositorio, sobre la vigencia, la extinción, la revocació n o la suspensión de
+los certificados electrónicos.
+        Los prestadores de servicios de certificación asumirán toda la responsabilidad frente a
+terceros, por la actuación de las personas en las que deleguen la ejecución de alguna de las
+funciones necesarias para la prestación de servicios de certificación.
+
+
+Artículo 34. Limitación de responsabilidad del prestador de servicios de certificación de firmas
+electrónicas. El prestador de servicios de certificación no será responsable de los daños o
+perjuicios ocasionados al firmante o a terceros de buena fe, si el firmante incurre en alguno de
+los siguientes supuestos:
+1.      No haber proporcionado al prestador de servicios de certificación información veraz,
+        completa y exacta sobre los datos que deban constar en el certificado electrónico o que
+        sean necesarios para su expedición o para la extinción o suspensión de su vigencia.
+        cuando su inexactitud no haya podido ser detectada por el prestador de servicios de
+        certiticación.
+2.      La demora en comunicar al prestador de ser vicios de certificación de cualquier
+        modificación de las circunstancias reflejadas en el certificado electrónico.
+3.      La negligencia en la conservación de los datos de creación de firma, en el aseguramiento
+        de su confidencialidad y en la protección de todo acceso o revelación.
+4.      No solicitar la suspensión o revocación del certificado electrónico en caso de duda en
+        cuanto al mantenimiento de la confidencialidad de sus datos de creación de firma.
+5.      Utilizar los datos de creación de firma cuando haya expirado el periodo de validez del
+        certificado electrónico o cuando el prestador de servicios de certificación le notifique la
+        extinción o suspensión de su vigencia.
+6.      Si el destinatario de los documentos firmados electrónicamente:
+        a.    No compruebe ni tenga en cuenta las restricciones que figuren en el certificado
+              electrónico en cuanto a sus posibles usos y al importe individualizado de las
+              transacciones que puedan realizarse con él.
+        b.    No tenga en cuenta la suspensión o pérdida de vigencia del certificado electrónico
+              publicada en el servicio de consulta sobre vigencia de los certificados o cuando no
+              verifique la firma electrónica.
+        Cuando el firmante sea una persona jurídica, el solicitante del certificado electrónico
+asumirá las obligaciones indicadas en este artículo.
+
+
+                                            Capítulo V
+                           Infracciones y Sanciones a los Prestadores de
+                   Servicios de Certificación de Firmas Electrónicas Calificadas
+                                     y Medios de Impugnación
+
+Artículo 35. Responsables. Los prestadores de servicios de certificación de firmas
+electrónicas registrados ante la Dirección General de Comercio Electrónico están sujetos al
+régimen sancionador establecido en este Título y deberán cumplir las disposiciones
+establecidas en esta Ley y sus reglamentos para sus respectivas actividades.
+No. 26090                      Gaceta Oficial Digital, jueves 24 de julio de 2008               16
+                                                                                                16
+
+
+Artículo 36. Criterios para la graduación de la cuantía de las sanciones. La cuantía de las multas
+que se impongan se graduará atendiendo a los siguientes criterios:
+1.      La existencia de intencionalidad.
+2.      El plazo de tiempo durante el que se haya venido cometiendo la infracción.
+3.      La reincidencia por comisión de infracciones de la misma naturaleza, cuando así haya
+        sido declarado por resolución firme.
+4.      La naturaleza y cuantía de los perjuicios causados.
+5.      Los beneficios obtenidos por la infracción.
+6.      El volumen de facturación a que afecte la infracción cometida.
+
+
+Artículo 37. Infracciones de los prestadores de servicios de certificación de firmas electrónicas.
+Las infracciones de los prestadores servicios de certificación de firmas electrónicas a los
+preceptos establecidos en la presente Ley y en su reglamentación, se clasificaran en leves, graves
+y muy graves.
+1.      Se consideran infracciones leves:
+        a.   El incumplimiento de las obligaciones señaladas en esta Ley y sus reglamentos,
+             cuando no hayan ocasionado perjuicios económicos a los usuarios de sus servicios o
+             a terceros.
+2.      Se consideran infracciones graves:
+        a.   El incumplimiento de alguna de las obligaciones establecidas en esta Ley y sus
+             reglamentos, cuando una resolución judicial establezca que se han
+             ocasionado perjuicios económicos a los usuarios de sus servicios o a terceros,
+             inferiores a ciento cincuenta mil balboas (B/.150,000.00).
+        b.   La prestación de servicios sin realizar todas las declaraciones previas indicadas en
+             esta Ley, en los casos en que no constituya una infracción muy grave.
+        c.   El incumplimiento de los prestadores de servicios de las obligaciones establecidas
+             para el cese de su actividad.
+        d.   La resistencia, obstrucción, excusa o negativa injustificada a la inspección de la
+             Dirección General de Comercio Electrónico, así como la falta o deficiente
+             presentación de la información solicitada por la Dirección General de Comercio
+             Electrónico en su función de supervisión y control.
+        e.   El incumplimiento de las resoluciones y reglamentos emitidos por la Dirección
+             General de Comercio Electrónico.
+3.      Se consideran infracciones muy graves:
+        a.   El incumplimiento de alguna de las obligaciones establecidas en esta Ley y sus
+             reglamentos, cuando una sentencia judicial o administrativa establezca que se
+             hayan causado perjuicios económicos a los usuarios o a terceros, iguales o
+             superiores, a ciento cincuenta mil balboas (B/.150,000.00), o cuando la seguridad
+             de los servicios que presta se hubiera visto gravemente afectada.
+        b.   En el caso de los prestadores de servicios de certificación de firmas electrónicas,
+             cuando se hayan emitido certificados calificados sin realizar las comprobaciones
+             previas señaladas en esta Ley, cuando ello afecte a la mayoría de los certificados
+No. 26090                        Gaceta Oficial Digital, jueves 24 de julio de 2008                  17
+                                                                                                  17
+
+             calificados expedidos en los tres años anteriores al inicio del procedimiento
+             sancionador o desde el inicio de la actividad del prestador si este periodo es menor.
+
+
+Artículo 38. Sanciones. Por la comisión de las infracciones recogidas en el artículo anterior, se
+impondrán las siguientes sanciones:
+1.      Por la comisión de infracciones leves, multa de cien balboas (B/.100.00) hasta mil
+        balboas (B/.1,000.00).
+2.      Por la comisión de infracciones graves, multa de mil balboas (B/.1,000.00) hasta cien mil
+        balboas (B/.100,000.00).
+3.      Por la comisión de infracciones muy graves, multa de cien mil balboas (B/.100,000.00)
+        hasta quinientos mil balboas (B/.500,000.00).
+        La reiteración en el plazo de cinco años, de dos o más infracciones muy graves,
+sancionadas con carácter firme, dará lugar a la prohibición de la prestación de servicios de
+certificación de firmas electrónicas calificadas en la República de Panamá, durante un plazo
+máximo de dos años. La comisión de una infracción muy grave, una vez levantada la prohibición
+a que hace referencia este artículo, conllevará la prohibición definitiva de la prestación de
+servicios de certificación de firmas electrónicas.
+
+
+Artículo 39. Medidas provisionales. En los procesos para establecer responsabilidades por
+infracciones graves o muy graves podrán adoptarse medidas de carácter provisional para
+asegurar el cumplimiento del debido proceso y la eficacia de la resoluc ión, así como para evitar
+el mantenimiento de los efectos de la conducta considerada infractora de los preceptos legales.
+        Podrán adoptarse las siguientes medidas provisionales:
+1.      Advertir al público de un proceso de administrativo para determinar el nivel de
+        responsabilidad o no del prestador de servicios de certificación ante la comisión de una
+        falta grave o muy grave. Advertir al público de la misma forma, sobre los resultados y
+        acciones subsecuentes de dicho proceso administrativo.
+2.      Suspensión temporal del registro del prestador de servicios de certificación de firmas
+        electrónicas.
+3.      En el caso de faltas muy graves, el aseguramiento, depósito o incautación de registros,
+        soportes y archivos informáticos y de documentos en general, así como de aparatos y
+        equipos informáticos de todo tipo.
+        En la adopción y cumplimiento de las medidas a que se refiere este artículo, se respetarán
+las garantías, normas y procedimientos previstos en la legislación para proteger los derechos a la
+intimidad personal y familiar, a la protección de los datos personales, a la libertad de expresión o
+a la libertad de información, cuando estos pudieran resultar afectados. Además, se respetará el
+principio de proporcionalidad de la medida a adoptar con los objetivos que se pretendan alcanzar
+en cada supuesto.
+        En casos de urgencia y para la inmediata protección de los intereses implicados, las
+medidas cautelares previstas en el presente artículo podrán ser acordadas antes de la iniciación
+del proceso administrativo correspondiente. Las medidas deberán ser confirmadas, modificadas o
+levantadas en la resolución que da inicio al proceso administrativo, que deberá efectuarse dentro
+de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                 18
+                                                                                                   18
+
+        En todo caso, dichas medidas quedarán sin efecto si no se inicia el proceso administrativo
+dentro del plazo establecido o cuando la resolución de inicio del proceso no confirme la
+continuidad de ellas.
+
+
+Artículo 40. Multa por desacato. La Dirección General de Comercio Electrónico podrá imponer
+multas por desacato hasta por un monto del cinco por ciento (5%) del valor de la sansión
+establecida, por cada día que transcurra sin cumplir las resoluciones sancionadoras que se
+hubieran establecido. La multa por desacato no podrá exceder el cincuenta por ciento (50%) del
+valor de la sanción establecida.
+
+
+Artículo 41. Recursos. Las resoluciones de la Dirección General de Comercio Electrónico
+podrán ser impugnadas por los interesados. Contra dichas resoluciones podrá ser interpuesto el
+recurso de reconsideración ante la Dirección, y recurso de apelación ante el Ministro de
+Comercio e Industrias. La resolución que resuelve el recurso de apelación agota la vía
+gubernativa.
+        Se establece un plazo de sesenta días para decidir el recurso de reconsideración
+interpuesto. Si en tal plazo no ha sido resuelto el recurso, la decisión se considerará favorable al
+recurrente.
+        De la misma forma, se dispondrá de sesenta días para resolver el recurso de apelación. Si
+en tal plazo no ha sido resuelto el recurso, la decisión se considerará favorable al recurrente.
+
+
+Artículo 42. Prescripción. Las infracciones a esta Ley y a sus reglamentos, por parte de los
+prestadores de servicios de certificación de firmas electrónicas, prescribirán en un año cuando se
+trate de infracciones leves; a los tres años, cuando se trate de infracciones graves, y a los cinco
+años cuando se trate de infracciones muy graves.
+
+
+                                          Título IV
+                          Almacenamiento Tecnológico de Documentos
+
+                                             Capítulo I
+                                       Disposiciones Generales
+
+
+Artículo 43. Conservación de los documentos electrónicos y archivo de documentos. El
+cumplimiento de la obligación de conservar documentos, registros o informaciones en
+documentos electrónicos se podrá realizar por cuenta propia o a través de terceros. Toda persona
+natural o jurídica, nacional o extranjera, que realice de almacenamiento tecnológico de
+documentos de terceros, deberá registrarse ante la Dirección General de Comercio Electrónico
+como prestador de servicios de almacenamiento tecnológico de documentos.
+        Las persona s jurídicas y naturales que realicen por cuenta propia el almacenamiento
+tecnológico de documentos, con el interés de que dichos documentos tecnológicamente
+almacenados tengan el valor legal otorgado por esta Ley, deberán cumplir con los requisitos
+mínimos establecidos en este Título y en los reglamentos técnicos que emita la Dirección
+General de Comercio Electrónico.
+        Cuando los documentos contengan datos o información sensible a los intereses de
+No. 26090                        Gaceta Oficial Digital, jueves 24 de julio de 2008                19
+                                                                                                  19
+
+terceros, quienes realicen el almacenamiento tecnológico de documentos deberán obtener una
+aprobación o autorización de dichos terceros, para su conservación.
+
+
+Artículo 44. Validez legal del almacenamiento tecnológico. Cuando la ley requiera que ciertos
+documentos, registros o información sean presentados y conservados en su forma original, ese
+requisito quedará satisfecho con un documento electrónico, si:
+1.      Existe alguna garantía confiable de que se ha conservado la integridad de la información,
+        a partir del momento en que se generó por primera vez en su forma definitiva como
+        documento electrónico.
+2.      Dicha información puede ser presentada a la persona que se deba presentar.
+3.      Se conserva, de haber alguno, todo dato que permita determinar el origen, el destino del
+        documento electrónico, la fecha y la hora en que fue enviado o recibido.
+        Lo dispuesto en este artículo se aplicará tanto si el requisito en él previsto constituye una
+obligación, como si la ley simplemente prevé consecuencias en el caso de que la información no
+conste en su forma original.
+
+
+Artículo 45. Valor jurídico de los documentos almacenados tecnológicamente. Los documentos
+almacenados tecnológicamente conforme a esta Ley, sus películas, reproducciones y
+certificaciones, debidamente autenticados tendrán el mismo valor jurídico que los documentos
+originales, se someterán al régimen legal de los originales y podrán ser impugnados de la misma
+manera que estos.
+
+
+Artículo 46. Garantías mínimas que debe cumplir el sistema de almacenamiento tecnológico. Al
+someterse el documento a almacenamiento tecnológico, este deberá quedar conservado en un
+medio de almacenamiento tecnológico adecuado.
+        El procedimiento utilizado para el almacenamiento tecnológico deberá garantizar:
+1.      Que los documentos queden almacenados en forma nítida, íntegra y con absoluta
+        fidelidad.
+2.      La conservación del documento original por el tiempo que señale esta Ley y sus
+        reglamentos.
+3.      Que pueda determinarse con precisión la fecha y la hora en las que un documento fue
+        almacenado tecnológicamente.
+4.      La recuperación del documento electrónico.
+5.      Que cumple con los reglamentos técnicos establecidos por la Dirección General de
+        Comercio Electrónico.
+        La omisión de cualquiera de estos requisitos, así como la alteración o adulteración, que
+afecten la integridad del soporte o documento electrónico en el que la información ha sido
+almacenada, harán perder el valor legal que esta Ley otorga a los documentos almacenados
+tecnológicamente.
+
+
+Artículo 47. Declaración de prácticas de almacenamiento tecnológico de documentos. Toda
+persona natural o jurídica que realice el almacenamiento tecnológico para terceros redactará una
+declaración de prácticas de almacenamiento tecnológico de documentos, en la que detallará,
+No. 26090                      Gaceta Oficial Digital, jueves 24 de julio de 2008                 20
+                                                                                                  20
+
+dentro del marco de esta Ley y de sus reglamentos, al menos, la siguiente información:
+1.      Las obligaciones que se comprometen a cumplir en relación con la gestión de
+        documentos almacenados tecnológicamente.
+2.      Las condiciones aplicables a la solicitud, conversión y almacenamiento documentos
+        electrónicos.
+3.      Las medidas de seguridad técnica y organizativa.
+
+4.      El resultado obtenido de la última evaluación o auditoría del sistema de almacenamiento
+        tecnológico de documentos.
+
+5.      Los límites de responsabilidad para realizar el almacenamiento tecnológico de
+        documentos.
+
+6.      La lista de normas y procedimientos de almacenamiento tecnológico de documentos.
+
+7.      Si su registro ante la Dirección General de Comercio Electrónico ha sido revocado o
+        suspendido o si la Dirección General de Comercio Electrónico le ha impuesto alguna
+        sanción, la fecha de la revocación, de la suspensión, o de la sanción y los motivos de esta.
+
+8.      Cualquier otra información que la Dirección General de Comercio Electrónico solicite
+        mediante reglamento.
+        La declaración de prácticas de almacenamiento tecnológico de documentos estará
+disponible al público de manera fácilmente accesible, al menos por vía electrónica y de forma
+gratuita. La declaración de prácticas de almacenamiento tecnológico de documentos deberá
+publicarse, además, en el repositorio que la Dirección General de Comercio Electrónico designe
+para tal efecto.
+
+
+Artículo 48. Autenticación de documentos almacenados tecnológicamente. Las películas,
+reproducciones, microfichas, discos o certificaciones que han resultado de la utilización de algún
+sistema de almacenamiento tecnológico permitido por esta Ley serán autenticados por el jefe del
+archivo u oficina, pública o privada, que ostenta la custodia.
+
+
+Artículo 49. Conservación de originales. Los originales de los documentos sujetos al sistema de
+almacenamiento tecnológico deberán reposar en los archivos de la persona que los expidió o de
+la persona a la que se les hayan entregado para su custodia, dentro o fuera de la República de
+Panamá, hasta que puedan ser depurados de acuerdo con las reglas técnicas, que para tal efecto
+reglamente el Órgano Ejecutivo.
+
+
+Artículo 50. Uso del almacenamiento tecnológico de documentos por el Estado. El Estado hará
+uso del almacenamiento tecnológico de documentos en su ámbito interno y en su relación con los
+particulares de acuerdo con lo establecido en la presente Ley y con las condiciones que se fijen
+reglamentariamente en cada uno de sus poderes.
+        El Estado podrá contratar los servicios de cualquier prestador de servicios de
+almacenamiento tecnológico de documentos que cumpla con las condiciones técnicas y legales
+establecidas en esta Le y y sus reglamentos.
+
+
+Artículo 51. Reconocimiento de documentos almacenados electrónicamente en el extranjero.
+No. 26090                      Gaceta Oficial Digital, jueves 24 de julio de 2008                21
+                                                                                                21
+
+Los documentos tecnológicamente almacenados por prestadores extranjeros de servicios de
+almacenamiento tecnológico de documentos podrán ser reconocidos en los mismos términos y
+condiciones exigidos por esta Ley cuando:
+1.      Tales documentos sean reconocidos en virtud de acuerdos con otros países, ya sean
+        bilaterales o multilaterales, o efectuados en el marco de organizaciones internacionales de
+        las que Panamá sea parte.
+2.      Tales documentos sean almacenados tecnológicamente por prestadores de servicios de
+        almacenamiento tecnológico de documentos, debidamente avalados en su país de origen,
+        por instituciones homólogas a la Dirección General de Comercio Electrónico y que
+        requieren para su reconocimiento estándares que garanticen la seguridad en
+        almacenamiento tecnológico de documentos.
+3.      Se acredite que tales documentos electrónicos hayan sido cotejados con sus originales, en
+        el país en que hayan sido emitidos, por el cónsul de Panamá o de una nación amiga, o
+        por cualquier autoridad con capacidad de dar fe pública.
+4.      Se acredite que tales documentos fueron emitidos por un prestador de servicios de
+        almacenamiento tecnológico que cumple con los estándares mínimos requeridos para un
+        prestador de servicios de certificación de firmas electrónicas registrado en la Dirección
+        General de Comercio Electrónico.
+
+
+Artículo 52. Supervisión y Control. Todo prestador de servicios de almacenamiento tecnológico
+de documentos que brinde servicios a terceros, quedará sujeto a las facultades de supervisión y
+control de la Dirección General de Comercio Electrónico, para los efectos de velar por el
+cumplimiento de las obligaciones correspondientes que establece esta Ley y sus reglamentos.
+
+
+                                          Capítulo II
+                     Registro y Prestación de Servicios de Almacenamiento
+                             Tecnológico de Documentos a Terceros
+
+Artículo 53. Registro del prestador de servicios de almacenamiento tecnológico de documentos.
+Para solicitar el registro, el prestador de servicios de almacenamiento tecnológico de documentos
+deberá pagar una tasa a la Dirección General de Comercio Electrónico, cuyo monto y
+procedimiento de pago será determinado por reglamento. Hasta que no haya sido dictado el
+reglamento, se establece que la tasa de registro será de mil balboas (B/.1,000.00).
+        Una vez presentada toda la documentación establecida para obtener el registro, la
+Dirección General de Comercio Electrónico dispondrá del término de noventa días para emitir
+concepto. De no efectuar ningún pronunciamiento al respecto, se entenderá que ha emitido
+concepto favorable y deberá procederse con el registro.
+        Cumplidos todos los requisitos, el prestador de servicios de almacenamiento tecnológico
+de documentos será inscrito en un registro que llevará la Dirección General de Comercio
+Electrónico, el cual será de carácter público. Dicho prestador tendrá la obligación de informar a
+la Dirección de cualquier modificación de las condiciones que permitieron su registro.
+No. 26090                          Gaceta Oficial Digital, jueves 24 de julio de 2008                  22
+                                                                                                       22
+
+Artículo 54. Actividades de los prestadores de servicios de almacenamiento tecnológico de
+documentos. Los prestadores de servicios de almacenamiento tecnológico de documentos podrán
+realizar las siguientes actividades:
+1.      Ofrecer los servicios de procesamiento y almacenamiento tecnológico de documentos.
+2.      Ofrecer los servicios de archivo y conservación de documentos almacenados
+        tecnológicamente.
+3.      Cualquier otra actividad complementaria, relacionada con el almacenamiento tecnológico
+        de documentos.
+
+
+Artículo 55. Obligaciones de los prestadores de servicios de almacenamiento tecnológico de
+documentos.     Además de las condiciones mínimas establecidas en el artículo 47 para el
+almacenamiento tecnológico de documentos, el                     prestador de servicios de almacenamiento
+tecnológico de documentos deberá realizar su actividad con la diligencia de un buen padre de
+familia y cumplir, por lo menos, las siguientes obligaciones:
+1.      Emplear personal calificado, con los conocimientos y experiencia necesarios para la
+        prestación de los servicios de almacenamiento tecnológico de documentos ofrecidos y los
+        procedimientos de seguridad y de gestión adecuados.
+2.      Contar con sistemas confiables y productos que estén protegidos contra toda alteración y
+        que garanticen un alto grado de seguridad técnica y, en su caso, criptográfica de los
+        procesos de almacenamiento tecnológico de documentos que sirven de soporte.
+3.      Garantizar la protección, la confidencialidad y el debido uso de la información
+        suministrada por el usuario del servicio.
+4.      Contar con un plan de contingencia que garantice la prestación continua de sus servicios.
+5.      Permitir y facilitar la realización de las evaluaciones técnicas que ordene la Dirección
+        General de Comercio Electrónico.
+6.      Elaborar los reglamentos que definen las relaciones con los usuarios y la forma de
+        prestación del servicio.
+7.      Conservar registrada, por cualquier medio seguro, toda información y documentación
+        relativa al almacenamiento tecnológico de un documento y las declaraciones de prácticas
+        de almacenamiento tecnológico de documentos vigentes de cada momento, al menos
+        durante el plazo en años que la legislación vigente establezca que los documentos deban
+        ser conservados. Para los efectos de esta Ley, el plazo que debe permanecer almacenado
+        el documento empezará a contarse desde el momento en que el documento fue
+        almacenado tecnológicamente, de manera que pueda verificarse las firmas efectuadas con
+        él.
+8.      Utilizar sistemas confiables para almacenar documentos electrónicos que permitan
+        comprobar su autenticidad e impedir que personas no autorizadas alteren los datos,
+        restrinjan su accesibilidad en los supuestos o a las personas que el usuario haya indicado,
+        y permitan detectar cualquier cambio que afecte a estas condiciones de seguridad.
+9.      Contratar una póliza de responsabilidad civil contractual y extracontractual, para afrontar
+        el riesgo de la responsabilidad por daños y perjuicios que pueda ocasionar en el ejercicio
+        de sus actividades. El monto de esta póliza será fijado por la Dirección General de
+        Comercio Electrónico mediante resolución, pero en ningún caso podrá ser menor que el
+No. 26090                      Gaceta Oficial Digital, jueves 24 de julio de 2008               23
+                                                                                               23
+
+        monto máximo de las multas que puede imponer la Dirección General de Comercio
+        Electrónico.
+
+Artículo 56. Evaluaciones técnicas a los prestadores de servicios de almacenamiento tecnológico
+de documentos. Con el fin de comprobar el cumplimiento de las obligaciones de los prestadores
+de servicios de almacenamiento tecnológico de documentos, una vez al año, por los menos, la
+Dirección General de Comercio Electrónico realizará una evaluación técnica a las instalaciones
+del prestador de servicios de almacenamiento técnico de clases.
+        Esta Dirección evaluará el desempeño del prestador, y ejercerá la facultad inspectora
+sobre este y podrá, a tal efecto, requerir información y, de ser necesario, recomendará las
+medidas pertinentes que deben ser atendidas por los prestadores de servicios de almacenamiento
+tecnológico de documentos, para la prestación del servicio de conformidad con las exigencias
+legales y reglamentarias.
+        Sin perjuicio de lo que dispone el presente artículo, la Dirección General de Comercio
+Electrónico podrá autorizar a otras entidades privadas o públicas, de conformidad con el
+reglamento respectivo, para realizar la evaluación técnica.
+        Si como resultado de la evaluación se establece que el prestador de servicios de
+almacenamiento tecnológico de documentos ha cometido alguna infracción a la presente Ley, en
+el desempeño de sus operaciones, la Dirección General de Comercio Electrónico deberá imponer
+la sanción correspondiente.
+Parágrafo. Hasta que no se haya dictado el reglamento respectivo, se establece una tasa anual de
+supervisión técnica a los prestadores de servicios de almacenamiento tecnológico, por la suma de
+mil balboas    (B/.1,000.00), la cual será utilizada para sufragar los costos de supervisión
+establecidos en esta Ley y sus reglamentos. En el caso de conflictos de intereses, la Dirección
+General de Comercio Electrónico deberá designar otro supervisor.
+
+
+Artículo 57. Terminación unilateral. Salvo acuerdo entre las partes, el prestador de servicios de
+almacenamiento tecnológico de documentos podrá dar por terminado el acuerdo de vinculación
+con el usuario, dando un preaviso no menor de noventa días. Vencido este término, el prestador
+de servicios de almacenamiento tecnológico de documentos entregará al usuario o a la persona,
+natural o jurídica, que este designe para reemplazar al prestador de servicios, los documentos del
+usuario que este tenga en su poder.
+        Igualmente, el usuario podrá dar por terminado el acuerdo de vinculación con el prestador
+de servicios de almacenamiento tecnológico de documentos y de servicios de almacenamiento
+tecnológico de documentos.
+
+
+Artículo 58. Cese de actividades por parte del prestador de servicios de almacenamiento
+tecnológico de documentos. Todo prestador de servicios de almacenamiento tecnológico de
+documentos que vaya a cesar en su actividad deberá comunicarlo a la Dirección General de
+Comercio Electrónico y a cada usuario, con no menos de noventa días de anticipación a la fecha
+de la cesación efectiva de actividades. Con el consentimiento expreso del usuario, los
+documentos que el prestador de servicio tenga al momento de cesar actividades podrán ser
+transferidos a otro prestador de servicios de almacenamiento tecnológico de documentos que los
+No. 26090                         Gaceta Oficial Digital, jueves 24 de julio de 2008              24
+                                                                                                  24
+
+asuma o ser entregados a su propietario.
+        El prestador de servicios de almacenamiento tecnológico de documentos deberá
+comunicar a la Dirección General de Comercio Electrónico, con un mínimo de cuarenta y cinco
+días de anticipación al cese de su actividad, el destino que vaya a dar a los documentos bajo su
+custodia, especificando, en su caso, si va a transferir los documentos tecnológicamente
+almacenados a otro prestador de servicios de almacenamiento tecnológico de documentos o si va
+a entregarlos a su propietario.
+
+
+Artículo 59. Responsabilidad de los prestadores de servicios de almacenamiento tecnológico de
+documentos. El prestador de servicios de almacenamiento tecnológico de documentos
+responderá por los daños y perjuicios que causen a cualquier persona por el incumplimiento de
+las obligaciones que imponen esta Ley, sus reglamentos y las resoluciones que emita la
+Dirección General de Comercio Electrónico. En todo caso, corresponderá al prestador de
+servicios de almacenamiento tecnológico de documentos demostrar que actuó con la diligencia
+profesional que le es exigible.
+        De manera particular, el prestador de servicios de almacenamiento tecnológico de
+documentos responderá de los perjuicios que se causen al usuario o a terceros de buena fe, por la
+falta o el retraso en la actualización de sus equipos y programas.
+        El prestador de servicios de almacenamiento tecnológico de documentos asumirá toda la
+responsabilidad frente a terceros por la actuación de las personas en las que deleguen la
+ejecución de alguna de las funciones necesarias para la prestación de servicios que brinda.
+
+
+Artículo 60. Limitaciones de responsabilidad de los prestadores de servicios de almacenamiento
+tecnológico de documentos.         El prestador de servicios de almacenamiento tecnológico de
+documentos no será responsable de los daños o perjuicios ocasionados al usuario o a terceros de
+buena fe, si ocurre alguno de los siguientes supuestos:
+1.      Negligencia del usuario en la conservación de los documentos originales durante el
+        tiempo establecido para conservar los documentos originales.
+2.      Cuando el destinatario de los documentos tecnológicamente almacenados actúa de forma
+        negligente en su conservación.
+
+
+                                          Capítulo III
+                          Infracciones y Sanciones a los Prestadores de
+                   Servicios de Almacenamiento Tecnológico de Documentos
+                                    y Medios de Impugnación
+
+
+Artículo 61. Responsabilidad penal por alteración o adulteración de documentos almacenados
+tecnológicamente. Las personas que incurran en cualquier alteración o adulteración de las
+películas, microfichas, discos o certificaciones, antes, durante o después de la fecha de
+reproducción del documento respectivo, responderán penalmente por su actuación y quedarán
+sujetas a las sanciones tipificadas en el Código Penal, relativas a los delitos contra la fe pública,
+sin perjuicio de la responsabilidad civil o administrativa que pudiera corresponderles.
+
+
+Artículo 62. Infracciones. Los prestadores de servicios de almacenamiento tecnológico de
+No. 26090                        Gaceta Oficial Digital, jueves 24 de julio de 2008                25
+                                                                                                   25
+
+documentos registrados ante la Dirección General de Comercio Electrónico y los que
+realicen almacenamiento tecnológico por cuenta propia están sujetos al régimen sancionador
+establecido en este Título y deberán cumplir las disposiciones establecidas en esta Ley y
+sus reglamentos para sus respectivas actividades.
+        Las infracciones a los preceptos establecidos en la presente Ley se clasificarán en leves,
+graves y muy graves.
+1.      Se consideran infracciones leves las cometidas por los prestadores de servicios de
+        almacenamiento tecnológico de documentos y por los que realicen el almacenamiento
+        tecnológico por cuenta propia, como consecuencia del incumplimiento de las
+        obligaciones señaladas en esta Ley, cuando no hayan ocasionado perjuicios económicos
+        a terceros.
+2.      Se consideran infracciones graves:
+        a.    El incumplimiento de alguna de las obligaciones establecidas en los artículos 54, 55
+              y 56, cuando cuando una resolución judicial establezca que se han ocasionado
+              perjuicios económicos a terceros, inferiores a ciento cincuenta mil balboas
+              (B/.150,000.00).
+        b.    Almacenar tecnológicamente un documento sin realizar todas las declaraciones
+              previas indicadas en el artículo 55, en los casos en que no constituya una infracción
+              muy grave.
+        c.    El incumplimiento por parte de los prestadores de servicios de almacenamiento
+              tecnológico de documentos de las obligaciones establecidas en el artículo 59
+              respecto al cese de su actividad.
+        d.    La resistencia, obstrucción, excusa o negativa injustificada a la actuación inspectora
+              de la Dirección General de Comercio Electrónico, así como la falta o deficiente
+              presentación de la información solicitada por la Dirección General de Comercio
+              Electrónico en su función de supervisión y control.
+        e.    El incumplimiento de las resoluciones y reglamentos dictados por la Dirección
+              General de Comercio Electrónico.
+3.      Se consideran infracciones muy graves:
+        a.    La comisión de cualquiera de las faltas señaladas como graves en el numeral 2 de
+              este artículo, cuando se haya causado perjuicios económicos a sus usuarios o a
+              terceros, iguales o superiores a ciento cincuenta mil balboas (B/.150,000.00) o
+              cuando la seguridad de los servicios de almacenamiento tecnológico de documentos
+              se hubiera visto gravemente afectada.
+
+
+Artículo 63. Sanciones. Por la comisión de las infracciones recogidas en el artículo anterior, se
+impondrán las siguientes sanciones:
+1.      Infracciones leves: multa de cien balboas (B/.100.00) hasta mil balboas (B/.1,000.00).
+2.      Infracciones graves: multa de mil                balboas (B/.1,000.00) hasta cien mil balboas
+        (B/.100,000.00).
+3.      Infracciones muy graves: multa de cien mil balboas (B/.100,000.00) hasta doscientos
+        cincuenta mil balboas (B/.250,000.00).
+      Cuando se trate de personas naturales o jurídicas que realicen el almacenamiento
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                       26
+                                                                                                         26
+
+tecnológico por cuenta propia, las sanciones pecuniarias serán establecidas en base al diez por
+ciento (10%) de las sumas mínimas y máximas establecidas en este artículo.
+      La reiteración en el plazo de cinco años, de dos o más infracciones muy graves,
+sancionadas con carácter firme, dará lugar a la prohibición de la prestación de servicios de
+almacenamiento tecnológico de documentos en la República de Panamá, durante un plazo
+máximo de dos años. La comisión de una infracción muy grave, una vez levantada la prohibición
+a que hace referencia este artículo, conllevará la prohibición definitiva de la prestación de
+servicios de almacenamiento tecnológico de documentos.
+      Una vez que la resolución que impone una sanción está en firme, esta deberá ser publicada
+a través de la página web de la Dirección General de Comercio Electrónico. En el caso de
+sanciones graves y muy graves, a costa del sancionado, se publicará la resolución sancionadora
+en dos periódicos de circulación nacional y en la página de inicio del sitio web del prestador de
+servicios de servicios de almacenamiento tecnológico de documentos o de quien lo haga por
+cuenta propia.
+
+
+Artículo 64. Graduación de la cuantía de las sanciones.                     La cuantía de las multas que se
+impongan dentro de los límites indicados se graduará teniendo en cuenta lo siguiente:
+1.      La existencia de intencionalidad o reiteración.
+2.      La reincidencia, por comisión de infracciones de la misma naturaleza, sancionadas
+        mediante resolución firme.
+3.      La naturaleza y cuantía de los perjuicios causados.
+4.      El plazo de tiempo durante el que se haya venido cometiendo la infracción.
+5.      El beneficio que haya reportado al infractor la comisión de la infracción.
+6.      El volumen de la facturación a que afecte la infracción cometida.
+
+
+Artículo 65. Medidas provisionales. En los procesos para establecer responsabilidades por
+infracciones graves o muy graves podrán adoptarse medidas de carácter provisional para
+asegurar el cumplimiento del debido proceso y la eficacia de la resolución, así como para evitar
+el mantenimiento de los efectos de la conducta considerada infractora de los preceptos legales.
+        Podrán adoptarse las siguientes medidas provisionales:
+1.      Advertir al público de un proceso de administrativo para determinar el nivel de
+        responsabilidad o no del prestador de servicios de certificación ante la comisión de una
+        falta grave o muy grave. Advertir al público de la misma forma sobre los resultados y
+        acciones subsecuentes de dicho proceso administrativo.
+2.      Suspensión temporal del registro del prestador de servicios de almacenamiento
+        tecnológico de documentos.
+3.      En el caso de faltas muy graves, el aseguramiento, depósito o incautación de registros,
+        soportes y archivos informáticos y de documentos en general, así como de aparatos y
+        equipos informáticos de todo tipo.
+        En la adopción y el cumplimiento de las medidas a que se refiere este artículo, se
+respetarán las garantías, normas y procedimientos previstos en la legislación para proteger los
+derechos a la intimidad personal y familiar, a la protección de los datos personales, a la libertad
+de expresión o a la libertad de información, cuando estos pudieran resultar afectados. Además, se
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008               27
+                                                                                                 27
+
+respetará el principio de proporcionalidad de la medida a adoptar con los objetivos que se
+pretendan alcanzar en cada supuesto.
+      En casos de urgencia y para la inmediata protección de los intereses implicados, las
+medidas cautelares previstas en el presente artículo podrán ser acordadas antes de la iniciación
+del proceso administrativo correspondiente. Las medidas deberán ser confirmadas, modificadas o
+levantadas en la resolución que da inicio al proceso administrativo, que deberá efectuarse dentro
+de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.
+      En todo caso, dichas medidas quedarán sin efecto si no se inicia el proceso administrativo
+dentro del plazo establecido o cuando la resolución de inicio del proceso no confirme la
+continuidad de ellas.
+
+
+Artículo 66. Multa por desacato. La Dirección Gene ral de Comercio Electrónico podrá imponer
+multas por desacato hasta por un monto del cinco por ciento (5%) del valor de la sansión
+establecida, por cada día que transcurra sin cumplir las resoluciones sancionadoras que se
+hubieran establecido. La multa por desacato no podrá exceder el cincuenta por ciento del valor
+de la sanción establecida.
+
+
+Artículo 67. Recursos. Las resoluciones de la Dirección General de Comercio Electrónico
+podrán ser impugnadas por los interesados cuando consideren que han sido perjudicados en sus
+intereses legítimos o sus derechos. Contra dichas resoluciones podrá ser interpuesto el recurso de
+reconsideración ante el Director de la Dirección General de Comercio Electrónico, y recurso de
+apelación ante Ministro de Comercio e Industrias. La resolución que resuelve el recurso de
+apelación agota la vía gubernativa.
+        EL Director de la Dirección General de Comercio Electrónico tendrá un plazo de sesenta
+días para decidir el recurso de reconsideración interpuesto. Si en tal plazo no ha sido resuelto el
+recurso, la decisión se considerará favorable al recurrente.
+        De la misma forma, el Ministro de Comercio e Industrias dispondrá de sesenta días para
+resolver el recurso de apelación. Si en tal plazo no ha sido resuelto el recurso, la decisión se
+considerará favorable al recurrente.
+
+
+Artículo 68. Prescripción. Las infracciones a esta Ley y a sus reglamentos, por los prestadores
+de servicios de almacenamiento tecnológico de documentos o por quienes realicen el
+almacenamiento tecnológico por cue nta propia, prescribirán en un año cuando se trate de
+infracciones leves, a los tres años, cuando se trate de infracciones graves, y a los cinco años,
+cuando se trate de infracciones muy graves.
+
+
+                                           Capítulo V
+                             Dirección General de Comercio Electrónico
+
+Artículo 69. La Dirección General de Comercio Electrónico. Se crea la Dirección General de
+Comercio Electrónico del Ministerio de Comercio e Industrias, la cual será la encargada de velar
+por el correcto desarrollo de la prestación de servicios de almacenamiento tecnológico de
+documentos y de certificación de firmas electrónicas, así como la utilización de Internet como
+medio para la prestación de servicios comerciales.
+No. 26090                      Gaceta Oficial Digital, jueves 24 de julio de 2008                   28
+                                                                                                    28
+
+
+Artículo 70. Entidad reguladora. La Dirección General de Comercio Electrónico queda facultada
+para reglamentar, supervisar y sancionar a los prestadores de servicios de certificación de firmas
+electrónicas, así como registrar y/o suspender el registro de dichos prestadores, de acuerdo con lo
+establecido en esta Ley y en sus disposiciones reglamentarias, a fin de garantizar que cuenten
+con sistemas confiables y realicen todas las acciones necesarias para la correcta prestación de los
+servicios relacionados con sus actividades.
+        De igual modo, la Dirección General de Comercio Electrónico emitirá reglamentos
+técnicos que establecerán las condiciones técnicas mínimas que deberán cumplir personas,
+naturales o jurídicas, que utilicen el Internet como medio para realizar actividades comerciales.
+
+
+Artículo 71. Funciones. Entre las funciones de la Dirección General de Comercio Electrónico se
+encuentran las siguientes:
+1.      Dictar y emitir los reglamentos, resoluciones y demás documentos técnicos que considere
+        necesarios para el desarrollo de las materias de su competencia.
+2.      Promover el registro voluntario y gratuito de empresas que realicen transacciones
+        comerciales a través de Internet, conforme a la legislación vigente.
+3.      Registrar a los prestadores de servicios almacenamiento tecnológico de documentos y de
+        certificación de firmas electrónicas que así lo soliciten, dentro de un término de noventa,
+        contado a partir de la presentación de toda la documentación solicitada para tal fin, en la
+        reglamentación respectiva. De no efectuar ningún pronunciamiento dentro del término
+        señalado, se entenderá que ha emitido criterio favorable y deberá procederse con el
+        registro solicitado.
+4.      Velar por el adecuado funcionamiento y la eficiente prestación de los servicios de
+        almacenamiento tecnológico de documentos y certificación de firmas electrónicas, por parte
+        de todo prestador de servicios registrado, así como por el cabal cumplimiento de las
+        disposiciones legales y reglamentarias de la actividad.
+5.      Velar por cumplimiento de los reglamentos técnicos emitidos para garantizar el adecuado
+        funcionamiento y la eficiente utilización de Internet como medio para realizar comercio.
+6.      Revocar o suspender el registro de prestador de servicios de almacenamiento tecnológico
+        de documentos, de certificación de firmas electrónicas y de servicios comerciales a través
+        de Internet, en los casos que determinen la ley y sus reglamentos.
+7.      Requerir a los prestadores de servicios registrados que suministren información
+        relacionada con sus actividades, pero únicamente cuando se refieran a los procesos que
+        afecten la seguridad e integridad de datos. Esta función no permitirá el acceso al
+        contenido de documentos, mensajes, a las firmas o a los procesos utilizados, excepto
+        mediante orden judicial.
+8.      Ordenar la revocación o suspensión de firmas y certificados electrónicos, cuando el
+        prestador de servicios de certificación de firmas electrónicas los emita sin el
+        cumplimiento de las formalidades legales.
+9.      Ordenar de oficio y mediante resolución motivada, la suspensión de la prestación de
+        servicios comerciales a través de Internet, cuando el prestador de servicios realice estos
+        servicios sin el cumplimiento de los requerimientos técnicos establecidos en esta Ley y
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                29
+                                                                                                  29
+
+        sus reglamentos.
+10.     Imponer sanciones a los prestadores de servicios de almacenamiento tecnológico de
+        documentos y de certificación de firmas electrónicas por el incumplimiento de los
+        requerimientos técnicos establecidos en las disposiciones legales y reglamentarios vigentes.
+11.     Imponer sanciones a los prestadores de servicios comerciales a través de Internet por el
+        incumplimiento de los requerimientos técnicos establecidos en las disposiciones legales y
+        reglamentarios vigentes.
+12.     Designar los repositorios en los eventos previstos en la ley y sus reglamentos.
+13.     Ejercer las demás funciones que determine esta Ley y sus reglamentos.
+
+
+Artículo 72. Comités Consultivos. La Dirección General de Comercio Electrónico deberá
+convocar y formar Comités Consultivos para crear las políticas y reglamentos para cada materia de
+su competencia. Los comités estarán integrados por representantes del sector público y del sector
+privado.
+
+
+Artículo 73. Evaluaciones técnicas. Con el fin de comprobar el cumplimiento de las obligaciones
+de los prestadores de servicios de almacenamiento tecnológico de documentos, de certificación
+de firmas electrónicas y de servicios comerciales a través de Internet, la Dirección General de
+Comercio Electrónico ejercerá la facultad inspectora sobre estos y podrá, a tal efecto, requerir
+información y ordenar auditorías y/o evaluaciones técnicas, por lo menos una vez al año.
+        La Dirección General de Comercio Electrónico evaluará el desempeño de los prestadores
+de servicios de certificación de firmas electrónicas y de servicios comerciales a través de Internet
+y, de ser necesario, recomendará las medidas pertinentes que deben ser atendidas por estos para la
+prestación del servicio, de conformidad con las exigencias legales y reglamentarias.
+        Sin perjuicio de lo que dispone el presente artículo, la Dirección General de Comercio
+Electrónico podrá autorizar a otras entidades privadas o públicas, de conformidad con el
+reglamento respectivo, para realizar la evaluación técnica.
+        Si como resultado de la evaluación se establece que el prestador de servicios ha cometido
+alguna infracción a la presente Ley y sus reglamentos, la Dirección General de Come rcio
+Electrónico podrá imponer la sanción correspondiente.
+
+
+Artículo 74. Sellos de Confianza. Con la finalidad de promover el uso de Internet como medio
+seguro para ofrecer y obtener bienes y servicios comerciales, sin perjuicio de lo dispuesto en
+otras disposicions legales, según la actividad o materia que regulan, toda persona, natural o
+jurídica, la Dirección General de Comercio Electrónico, junto con otras entidades públicas o
+privadas podrá otorgar sellos de confianza a las empresas que ofrezcan servic ios comerciales a
+través de Internet y cumplan con las siguientes obligaciones:
+1.    Comunicar a la Dirección General de Comercio Electrónico el nombre de dominio o
+      nombres de dominios que utilizará para ofrecer bienes y servicios a través de Internet y
+      direcciones electrónicas que utilice con carácter permanente, así como todo acto de
+      sustitución o cancelación de estos, los cuales se harán constar en el Registro de Nombres de
+      Dominio de la Dirección General de Comercio Electrónico.
+2.    Proporcionar a los destinatarios del servicio, así como a las instituciones competentes,
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                   30
+                                                                                                  30
+
+      información y medios que permitan el acceso, de forma fácil, directa, gratuita e
+      ininterrumpida, a la siguiente información:
+      a.    Su nombre o denominación social, su residencia o domicilio o, en su defecto, la
+            dirección de uno de sus establecimientos permanentes en el territorio nacional, su
+            dirección de correo electrónico y cualquier otro dato que permita establecer con él
+            una comunicación directa y efectiva.
+      b.    Los datos de su inscripción en el Registro Público y de su licencia comercial,
+            industrial o del aviso de operación.
+      c.    En el caso de que su actividad estuviera sujeta a un régimen de autorización
+            administrativa previa, los datos relativos a dicha autorización y los de la autoridad
+            competente encargada de su supervisión.
+      d.    Si ejerce una profesión o actividad regulada deberá indicar:
+            1.    Datos suficientes sobre el certificado de idoneidad para el ejercicio de dicha
+                  profesión o actividad.
+            2.    Las normas profesionales aplicables al ejercicio de su profesión o la actividad y
+                  los medios a través de los cuales se puedan conocer, incluidos los electrónicos.
+      e.    El número de registro único de contribuyente.
+      f.    Información clara y exacta sobre el precio del producto o servicio, la garantía, la
+            validez de la oferta, los términos para la aceptación a satisfacción, indicando si
+            incluye o no los impuestos aplicables y, cuando sea necesario, los costos de envío.
+      g.    Los códigos de conducta a los que esté adherido y la manera de consultarlos
+            electrónicamente.
+3.    Describir el producto o servicio ofrecido. Todo prestador de servicios comerciales a través
+      de Internet estará obligado a describir de la mejor manera posible, incluyendo imágenes, el
+      producto o servicio que ofrece a través de Internet. Cuando el usuario o cliente hubiese
+      pagado un producto y al recibirlo no está de acuerdo con la calidad o la apariencia del
+      producto podrá solicitar la devolución de la suma pagada. El prestador de servicios
+      comerciales deberá devolver el dinero requerido desde el momento en que el producto sea
+      devuelto.
+4.    Emitir un documento electrónico que cumpla con los requisitos establecidos en esta Ley, en
+      el que se deje constancia de las operaciones o transacciones comerciales realizadas por el
+      usuario o cliente. En los casos en que el documento a que se refiere este numeral deba
+      cumplir las formalidades legales de una factura, el prestador de servicio deberá cumplir con
+      los términos y condiciones establecidos por el Órgano Ejecutivo, a través de la Dirección
+      General de Ingresos, para la emisión de facturas electrónicas.
+5.    Adherirse y cumplir con los códigos de conductas y demás disposiciones reglamentarias
+      establecidas para brindar seguridad y confiabilidad al ejercicio del comercio a través de
+      Internet.
+      La obligación de facilitar información se dará por cump lida si el prestador la incluye en su
+página o sitio de Internet en las condiciones señaladas en este artículo.
+      La Dirección General de Comercio Electrónico reglamentará todo lo relacionado con la
+creación, la asignación, la suspensión y la revocación de estos sellos.
+No. 26090                         Gaceta Oficial Digital, jueves 24 de julio de 2008                     31
+                                                                                                         31
+
+Artículo 75. Tasas por servicios. El Órgano Ejecutivo queda facultado para fijar, por conducto del
+Ministerio de Comercio e Industrias, las sumas que deban pagar los interesados, en concepto de tasas y
+sobretasas por servicios prestados por la Dirección General de Comercio Electrónico para el registro y
+fiscalización de los sellos de confianza. Esta facultad se extiende de la variación y nuevas fijaciones que,
+de tiempo en tiempo y con el concepto favorable del Director General de la Direcció n General de
+Comercio Electrónico, se estimen necesarias o convenientes.
+
+
+Artículo 76. Depósito y fiscalización de los ingresos provenientes de las tasas por servicios. Los
+ingresos provenientes de las tasas a que se refiere el artículo anterior se depositarán en una
+cuenta especial en el Banco Nacional de Panamá, denominada Tasas por Servicios de la
+Dirección General de Comercio Electrónico, a la orden del Ministerio de Comercio e Industrias,
+y los provenientes de las sobretasas serán depositados en una cuenta especial denominada
+sobretasas por servicios de la Dirección General de Comercio Electrónico. Ambas cuentas serán
+fiscalizadas por el Departamento de Contabilidad de dicho Ministerio y por la Contraloría
+General de la República.
+
+
+                                              Título VI
+                             Uso de Internet para la Realización de Actos
+                              y Servicios Relacionados con el Comercio
+                                               Capítulo I
+                                         Disposiciones Generales
+
+Artículo 77. Criterio de territorialidad. Para los efectos de esta Ley, se entenderá que una
+empresa que realiza ventas de bienes o servicios a través de Internet está establecida en el
+territorio de la República de Panamá, cuando su residencia o domicilio social se encuentren en
+territorio nacional y mantenga efectivamente centralizada la gestión administrativa y la dirección
+de sus negocios y/o cuando la empresa, o alguna de sus sucursales que realice ventas de bienes o
+servicios en el territorio nacional, haya obtenido, una licencia comercial o industrial o haya
+realizado el Aviso de Operación ante el Ministerio de Comercio e Industrias.
+        Se considerará que una empresa opera mediante un establecimiento permanente situado
+en territorio nacional, cuando disponga en este, de forma continuada o habitual, de instalaciones
+o lugares de trabajo, en los que se realice, o se dé apoyo logístico a todas o parte de.las ventas de
+bienes y servicios realizados en Panamá.
+        Las empresas que vendan bienes o servicos en Panamá, a través de Internet, estarán
+sujetos a las demás disposiciones de la legislación nacional que les sean aplicables en función de
+la actividad que desarrollen, con independencia de la utilización de medios electrónicos para su
+realización.
+
+
+Artículo 78. Venta de bienes y servicios a través de Internet desde el extranjero. La prestación
+de servicios comerciales a través de Internet que proceda de una empresa establecida en
+cualquier otro Estado, se realizará en régimen de libre prestación de servicios y con base en
+criterios establecidos en acuerdos internacionales reconocidos en la legislación vigente. Sin
+embargo, las empresas que promuevan sus servicios y realicen transacciones comerciales en
+Panamá, a través de Internet, deberán cumplir con los requerimientos técnicos y demás
+No. 26090                         Gaceta Oficial Digital, jueves 24 de julio de 2008                32
+                                                                                                    32
+
+obligaciones previstas en la legislación y la reglamentación vigente en la República de Panamá.
+
+
+Artículo 79. Acceso a la Información. Los usuarios y prestadores de servicios de comercio a
+través de medios electrónicos podrán dirigirse a la Dirección General de Comercio Electrónico
+para:
+1.       Conseguir información general sobre los requerimientos técnicos mínimos establecidos
+         para el ejercicio del comercio a través de Internet.
+2.       Informarse sobre los procedimientos de resolución judicial y extrajudicial de conflictos
+         sobre perjuicios ocasionados por incumplimiento de los requerimientos técnicos mínimos
+         establecidos para el ejercicio del comercio a través de Internet.
+3.       Obtener los datos de las autoridades, asociaciones u organizaciones que puedan
+         facilitarles información adicional o asistencia práctica para realizar compras a través de
+         Internet.
+        La solicitud de información podrá realizarse por medios electrónicos, siempre que se
+cumpla con el procedimiento establecido para tal fin.
+
+
+Artículo 80. Supervisión y control. La Dirección General de Comercio Electrónico supervisará
+el cumplimiento por los prestadores de servicios comerciales a través de Internet, de las
+obligaciones establecidas en esta Ley y en sus reglamentos.
+         Cuando las conductas realizadas por los prestadores de servicios comerciales a través de
+Internet estuvieran sujetas, por razón de la materia o del tipo de servicio de que se trate, a
+regímenes especiales de competencia o de supervisión específicos, con independencia de que se
+realicen utilizando técnicas y medios telemáticos o electrónicos, las instituciones públicas a las
+que la legislación atribuya las competencias de control, supervisión, inspección o tutela
+específica, ejercerán las funciones de supervisión y control que establezca la legislación
+respectiva.
+
+
+Artículo 81. Obligación de colaboración. Los prestadores de servicios comerciales a través de
+Internet tienen la obligación de facilitar a la Dirección General de Comercio Electrónico toda la
+información técnica requerida y colaboración requerida en el ejercicio de sus funciones.
+         Igualmente, deberán permitir a los agentes o al personal de supervisión de la Dirección
+General de Comercio Electrónico el acceso a sus instalaciones y la consulta de cualquier
+documentación técnica relevante para el cumplimiento de sus funciones.
+
+
+                                              Capítulo II
+                     Libre Prestación de Servicios Comerciales a través de Internet
+
+Artículo 82. Régimen de prestación de servicios. La prestación de servicios comerciales a través
+de Internet no estará sujeta a autorización previa y se promoverá la libertad de prestación de
+servicios, libre competencia, neutralidad tecnológica, compatibilidad                  internacional y
+equivalencia funcional.
+
+
+Artículo 83. Restricciones a la prestación de servicios. Las autoridades competentes, en ejercicio
+de sus funciones y a través de resolución motivada, podrán solicitar a la Dirección General de
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                 33
+                                                                                                  33
+
+Comercio Electrónico la adopción de medidas necesarias para que se interrumpa la prestación de
+un servicio comercial a través de Internet cuando existan fundamentos suficientes para demostrar
+que dicho servicio atenta o puede atentar contra:
+1.      La salvaguarda del orden público y la seguridad pública.
+2.      La protección de la salud pública o de las personas físicas que tengan la condición de
+        consumidores o usuarios, incluso cuando actúen como inversionistas.
+3.      El respeto a la dignidad de la persona y al principio de no discriminación por motivos de
+        raza, sexo, religión, opinión, nacionalidad o cualquier otra circunstancia personal o
+        social.
+4.      El debido proceso, en cualquiera de las jurisdicciones judiciales y administrativas.
+5.      La protección de la juventud y de la infancia.
+6.      Las legislación vigent e en materia de protección al consumidor.
+7.      La violación de toda disposición legal.
+        La autoridad que ordene mediane resolución motivada las medidas de restricción a que
+alude este artículo respetará, en todo caso, las garantías, las normas y los procedimientos
+previstos en la legislación para proteger los derechos a la intimidad personal y familiar, a la
+protección de los datos personales, a la libertad de expresión y a la libertad de información,
+cuando estos pudieran resultar afectados.
+        Si para garantizar la efectividad de la resolución que establezca la interrupción de la
+prestación de un servicio comercial a través de Internet o la eliminación de datos procedentes de
+un prestador establecido en otro Estado, la autoridad competente estimara necesario impedir su
+acceso desde la República de Panamá, podrá ordenar a los prestadores de servicios de
+intermediación establecidos en el territorio nacional, mediante solicitud motivada, que tomen las
+medidas necesarias para impedir dicho acceso.
+        Las medidas de restricción a que hace referencia este artículo serán objetivas,
+proporcionadas y no discriminatorias, y se adoptarán de forma o en ejecución de las resoluciones
+que se dicten, conforme a los procedimientos administrativos legalmente establecidos.
+
+
+                                          Capítulo III
+     Obligaciones y Responsabilidades de los Prestadores de Servicios Comerciales a través de
+                                             Internet
+
+Artículo 84. Responsabilidad de los prestadores de servicios comerciales a través de Internet. El
+prestador de servicios comerciales a través de Internet está sujeto a la responsabilidad civil, penal
+y administrativa establecida con carácter general en la legislación, sin perjuicio de lo dispuesto
+en esta Ley.
+
+
+Artículo 85. Limitación a las comunicaciones comerciales realizadas a través de correo
+electrónico o medios de comunicación electrónica equivalentes. Toda comunicación comercial
+deberá ser claramente identificable como tal e identificar la persona natural o jurídica en nombre
+de la cual se realiza. Además, deberá indicar la forma como el destinatario puede rechazar el
+envío de futuras comunicaciones del remitente. El prestador de servicios comerciales a través de
+Internet que, mediando rechazo de futuras comunicaciones, intencionalmente reenvíe un
+mensaje, envíe un nuevo mensaje y/o utilice otra dirección de correo electrónico para volver a
+No. 26090                      Gaceta Oficial Digital, jueves 24 de julio de 2008                   34
+                                                                                                    34
+
+contactar al destinatario que ha rechazado su comunicación incurrirá en falta grave. La Dirección
+General de Comercio Electrónico establecerá mediante resolución los criterios que serán
+utilizados para determinar la intencionalidad o reiteración por parte del prestador de servicios.
+        En el caso en el que tengan lugar a través de correo electrónico incluirán un aviso con la
+palabra “publicidad” o cualquier otro término que identifique claramente la intención de la
+comunicación, de manera tal que el destinatario pueda tener conocimiento de su naturaleza,
+incluso antes de abrir o acceder al texto del mensaje.
+        En los supuestos de ofertas promocionales, como las que incluyan descuentos, premios y
+regalos, y de concursos o juegos promocionales, previa la autorización de la autoridad
+correspondiente, deberán cumplirse con los requisitos establecidos en este artículo y en la
+reglamentación emitida por la Dirección General de Comercio Electrónico, a fin de que queden
+claramente identificadas como tales y que las condiciones de acceso y, en su caso, de
+participación, se expresen de forma clara e inequívoca.
+
+
+Artículo 86. Obligación de no utilizar información de los usuarios sin autorización.           Si el
+destinatario de servicios debiera facilitar su dirección de correo electrónico durante el proceso de
+contratación o de suscripción a algún servicio y el prestador pretendiera utilizarla posteriormente
+para el envío de comunicaciones comerciales, este deberá poner en conocimiento del cliente su
+intención y solicitar su consentimiento para la recepción de dichas comunicaciones, antes de
+finalizar el procedimiento de contratación.
+        El destinatario podrá revocar, en cualquier momento, el consentimiento prestado para la
+recepción de comunicaciones comerciales con la simple notificación de su voluntad al remitente.
+A tal efecto, los prestadores de servicios deberán habilitar procedimientos sencillos y gratuitos
+para que los destinatarios de servicios puedan revocar el consentimiento que hubieran prestado.
+Así mismo, deberán facilitar información accesible por Internet sobre dichos procedimientos.
+
+
+Artículo 87. Obligaciones de los operadores de redes y proveedores de acceso. Cuando una
+autoridad competente, por razón de la materia, hubiera ordenado que se interrumpa la prestación
+de un servicio comercial por Internet o la eliminación de determinados contenidos provenientes
+de prestadores establecidos en el territorio nacional, y para ello fuera necesaria la colaboración
+de prestador de servicios de intermediación, podrá ordenar a dicho prestador, mediante solicitud
+motivada a la Dirección General de Comercio Electrónico, que se suspenda la transmisión, el
+alojamiento de datos, el acceso a las redes de comunicación o la prestación de cualquier otro
+servicio equivalente de intermediación que realizarán.
+
+
+Artículo 88. Limitación de la responsabilidad de los operadores de redes y proveedores de
+acceso. El operador de redes de comunicación o el proveedor de acceso a una red de
+comunicación que transmita datos facilitados por el destinatario del servicio no será responsable
+por la información transmitida, salvo que ellos mismos hayan originado la transmisión,
+modificado o seleccionado los datos o a los destinatarios de dichos datos.
+        No se entenderá por modificación la manipulación estrictamente técnica de los archivos
+que alberguen los datos y que tiene lugar durante la transmisión de dichos archivos.
+        Las actividades de transmisión y provisión de acceso a que se refiere el apartado anterior
+No. 26090                        Gaceta Oficial Digital, jueves 24 de julio de 2008                 35
+                                                                                                    35
+
+incluyen el almacena miento automático, provisional y transitorio de los datos, siempre que sirva
+exclusivamente para permitir su transmisión por la red de comunicación y su duración no supere
+el tiempo establecido en la reglamentación técnica de esta Ley.
+
+
+Artículo 89. Limitación de la responsabilidad de los prestadores de servicios de comercio a
+través de Internet que realizan copia temporal de los datos solicitados por los usuarios. El
+prestador de un servicio comercial a través de Internet que transmita por una red de
+comunicación datos facilitados por un destinatario del servicio y almacene estos datos en sus
+sistemas de forma automática, provisional y temporal, con la única finalidad de hacer más eficaz
+su transmisión ulterior a otros destinatarios que los soliciten, no será responsable por el
+contenido de esos datos ni por su reproducción temporal, si:
+1.      No modifica la información.
+2.      Permite el acceso a ella solo a los destinatarios que cumplan las condiciones impuestas a
+        tal fin por el destinatario cuya información se transmite.
+3.      Respeta las normas establecidas o, en su defecto, las reglas generalmente aceptadas y
+        aplicadas para la actualización de la información.
+4.      No interfiere en la utilización lícita de tecnología generalmente aceptada y empleada por
+        el sector, con el fin de obtener y devolver al destinatario origen de la información datos
+        sobre la utilización de esta.
+5.      Retira la información que haya almacenado o hace imposible el acceso a ella, en cuanto
+        tenga conocimiento efectivo de:
+        a.     Que ha sido retirada del lugar de la red en que se encontraba inicialmente.
+        b.      Que se ha imposibilitado el acceso a ella.
+        c.     Que un tribunal o autoridad administrativa competente ha ordenado retirarla o
+                impedir que se acceda a ella.
+
+
+Artículo 90. Limitación de la responsabilidad de los prestadores de servicios de alojamiento o
+almacenamiento de datos. El prestador de un servicio comercial a través de Internet que alberga
+datos proporcionados por el destinatario de este servicio no será responsable por la información
+almacenada a petición del destinatario cuando no tenga conocimiento efectivo de que la
+actividad o la información almacenada es ilícita o de que lesiona bienes o derechos de un tercero
+susceptible de indemnización.
+        Sin perjuicio de los procedimientos de detección y eliminación de contenidos de una red
+de comunicación que el prestador de servicios de alojamiento o almacenamiento de datos aplique
+en virtud de reglamentos, acuerdos voluntarios y de otros medios de conocimiento efectivo que
+pudieran establecerse, se entenderá que no concurren las circunstancias señaladas en el primer
+párrafo, cuando una autoridad competente haya declarado la ilicitud de los datos, ordenando su
+eliminación de una red de comunicación o que se imposibilite el acceso a estos, o se hubiera
+declarado la existencia de la lesión, y el prestador conociera la correspondiente resolución y el
+prestador de servicios actúe con diligencia para suprimir o inutilizar el enlace correspondiente.
+        La exención de responsabilidad establecida en este artículo no operará en el supuesto de
+que el destinatario del servicio actúe bajo la dirección, autoridad o control del prestador servicios
+de alojamiento o almacenamiento de datos.
+No. 26090                        Gaceta Oficial Digital, jueves 24 de julio de 2008               36
+                                                                                                  36
+
+Artículo 91. Limitación de la responsabilidad del prestador de servicio que facilite enlaces a
+contenidos o instrumentos de búsqueda. El prestador de servicios comerciales a través de Internet
+que facilite enlaces a otros contenidos o incluya en los suyos directorios o instrumentos de
+búsqueda de contenidos no será responsable por la información a la que dirijan a los destinatarios
+de sus servicios, siempre que no tenga conocimiento efectivo de que la actividad o la
+información a la que remite o recomienda es ilícita o de que lesiona bienes o derechos de un
+tercero susceptibles de indemnización.
+        Sin perjuicio de los procedimientos de detección y eliminación de contenidos de una red
+de comunicación que el prestador aplique en virtud de acuerdos voluntarios y de otros medios de
+conocimiento efectivo que pudieran establecerse, se entenderá que no concurren las
+circunstanc ias señaladas en el párrafo anterior, cuando una autoridad competente haya declarado
+la ilicitud de los datos, ordenando su eliminación de una red de comunicación o que se
+imposibilite su acceso, o se hubiera declarado la existencia de la lesión, y el prestador conociera
+la correspondiente resolución y el prestador de servicios actúe con negligencia para suprimir o
+inutilizar el enlace correspondiente.
+        La exención de responsabilidad establecida en el apartado primero no operará en el
+supuesto de que el destinatario del servicio actúe bajo la dirección, autoridad o control del
+prestador de servicios que facilite enlaces a contenidos o instrumentos de búsqueda.
+
+
+                                              Capítulo IV
+                                           Códigos de Conducta
+
+Artículo 92. Códigos de conducta. La Dirección General de Comercio Electrónico impulsará, en
+coordinación con otras entidades, públicas y privadas, la elaboración y aplicación de códigos de
+conducta voluntarios de ámbito nacional, por parte de las corporaciones, asociaciones u
+organizaciones comerciales, profesionales y de consumidores, en las materias reguladas en esta
+Ley.
+        Los códigos de conducta podrán tratar, en particular, sobre los procedimientos para la
+detección y retirada de contenidos ilícitos y la protección de los destinatarios frente al envío por
+vía electrónica de comunicaciones comerciales no solicitadas, así como sobre los procedimientos
+extrajudiciales para la resolución de los conflictos que surjan por la prestación de los servicios de
+comercio a través de Internet.
+        La adhesión de los prestadores de servicios comerciales a los códigos de conducta será
+voluntaria, pero una vez adheridos su cumplimiento será obligatorio. Sin embargo, el prestador
+de servicios comerciales podrá disociarse del código de conducta en cualquier momento, en cuyo
+caso deberá, inmediatamente, eliminar toda vinculación al código de conducta en su página web
+o en su publicidad.
+
+
+Artículo 93. Creación de códigos de conducta. En la elaboración de dichos códigos deberán
+participar los prestadores de servicios, los consumidores y los us uarios.
+        Los códigos de conducta tendrán especialmente en cuenta la protección de los menores,
+de la dignidad humana, relaciones con los consumidores, correo eletrónico no deseado, pudiendo
+elaborarse, en caso necesario, en coordinación con las autoridades competentes, códigos
+específicos sobre estas materias.
+No. 26090                        Gaceta Oficial Digital, jueves 24 de julio de 2008             37
+                                                                                               37
+
+Artículo 94. Acceso a los códigos de conducta. Los códigos de conducta deberán ser accesibles
+por vía electrónica, con objeto de darles mayor difusión.
+
+
+                                              Capítulo V
+                                          Acción de Suspensión
+
+Artículo 95. Acción de suspensión. Contra los actos contrarios a la Ley que lesionen intereses
+individuales, colectivos o difusos, la Dirección General de Comercio Electrónico, de oficio o a
+petición de parte, podrá interponer la acción de suspensión.
+        La acción de suspensión se dirige a obtener una resolución que condene al demandado a
+suspender el acto contrario a la ley y a prohibir su reiteración. Asimismo, la acción podrá
+ejercerse para prohibir la realización de un acto cuando este haya finalizado al tiempo de
+ejercitar la acción, si existen indicios suficientes que hagan temer su reiteración de modo
+inminente.
+        Para ejercer la acción de suspensión se utilizarán los términos establecidos en la Ley de
+Procedimiento Administrativo.
+
+
+Artículo 96. Legitimación activa. Están legitimados para interponer la acción de suspensión:
+1.      La Dirección General de Comercio Electrónico.
+2.      Las personas naturales o jurídicas, privadas o de Derecho Público, titulares de un derecho
+        o interés legítimo.
+3.      Las asociaciones de consumidores y usuarios.
+4.      El Ministerio Público.
+5.      La Autoridad de Protección al Consumidor y Defensa de la Competencia.
+6.      El Autoridad Nacional de los Servicios Públicos.
+
+
+Artículo 97. Procedimiento. La acción de suspensión se solicitará por intermedio de abogado y
+mediante la presentación de memorial escrito ante la Dirección General de Comercio
+Electrónico. Esta analizará la documentación presentada por las partes involucradas y aceptará o
+rechazará la solicitud mediante resolución motivada. En caso de ser aceptada la solicitud, la
+Dirección General de Comercio Electrónico emitirá las instrucciones pertinentes para que se
+suspenda el acto que se considera contrario a esta Ley y sus reglamentos.
+
+
+                                            Capítulo VI
+                     Infracciones y Sanciones a los Prestadores de Servicios
+                    Comerciales a travé s de Internet y Medios de Impugnación
+
+Artículo 98. Responsables. Los prestadores de servicios comerciales a través de internet
+cuyas actividades son reguladas en esta Ley, están sujetos al régimen sancionador establecido en
+este Título y deberán cumplir las disposiciones establecidas en esta Ley y sus reglamentos
+para sus respectivas actividades.
+
+
+Artículo 99. Criterios para la graduación de la cuantía de las sanciones. La cuantía de las multas
+que se impongan se graduará atendiendo a los siguientes criterios:
+1.      La existencia de intencionalidad.
+No. 26090                            Gaceta Oficial Digital, jueves 24 de julio de 2008            38
+                                                                                                  38
+
+2.      El plazo de tiempo durante el que se haya venido cometiendo la infracción.
+3.      La reincidencia por comisión de infracciones de la misma naturaleza, cuando así haya
+          sido declarado por resolución firme.
+4.      La naturaleza y cuantía de los perjuicios causados.
+5.      Los beneficios obtenidos por la infracción.
+6.      El volumen de facturación a que afecte la infracción cometida.
+
+
+Artículo 100. Infracciones de los prestadores de servicios comerciales a través de Internet. Las
+infracciones de los prestadores de servicios comerciales a través de Internet a los preceptos
+establecidos en la presente Ley y en su reglamentación se clasificarán en leves, graves y muy
+graves:
+1.          Son infracciones leves:
+          a.      Incumplimiento de las obligaciones establecidas en el artículo 81 de esta Ley,
+                  cuando la demora en la entrega de la información sea mayor de diez días hábiles.
+          b.      El incumplimiento de lo previsto en el artículo 85 para las comunicaciones
+                  comerciales.
+          c.      El incumplimiento de la obligación de confirmar la recepción de un documento,
+                  contrato o comunicación, cuando no se haya pactado su exclusión o el contrato se
+                  haya celebrado con un consumidor, salvo que constituya infracción grave.
+2.      Son infracciones graves:
+          a.      Reenviar un mensaje, enviar un nuevo mensaje y/o utilizar otra dirección de
+                  correo electrónico para volver a contactar un destinatario que rechazó futuras
+                  comunicaciones, cuando cumplido el procedimiento respectivo, la Dirección
+                  General de Comercio Electrónico determine que el prestador de servicios actúe de
+                  manera intencional y/o habitual.
+          b.      No poner a disposición del destinatario del servicio las condiciones generales a
+                  que, en su caso, se sujete el contrato, en la forma prevista en esta Ley y sus
+                  reglamentos.
+          c.      El icumplimiento habitual de la obligación de confirmar la recepción de una
+                  aceptación, cuando no se haya pactado su exclusión o el contrato se haya
+                  celebrado con consumidor.
+          d.      La resistencia, excusa o negativa a la actuación inspectora de los órganos
+                  facultados para realizarla con arreglo a esta Ley.
+3.      Son infracciones muy graves:
+          a.      El incumplimiento de las órdenes dictadas por la autoridad administrativa
+                  competente en virtud del artículo 96 para la protección de los intereses generales
+                  señalados en él.
+          b.      El incumplimiento de la obligación de suspender la transmisión, el alojamiento de
+                  datos, el acceso a la red o la prestación de cualquier otro servicio equivalente de
+                  intermediación, cuando lo ordene una autoridad administrativa competente en
+                  virtud de lo dispuesto en el artículo 98.
+
+
+Artículo 101. Sanciones. Por la comisión de las infracciones recogidas en el artículo anterior, se
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                39
+                                                                                                  39
+
+impondrán las siguientes sanciones a los prestadores de servicios comerciales a través de
+Internet:
+1.      Por la comisión de infracciones leves, multa de cien balboas (B/.100.00) hasta quinientos
+        balboas (B/.500.00).
+2.      Por la comisión de infracciones graves, multa de quinientos balboas (B/.500.00) hasta
+        cinco mil balboas (B/.5,000.00).
+3.      Por la comisión de infracciones muy graves, multa de cinco mil balboas (B/.5,000.00)
+        hasta diez mil balboas (B/.10,000.00).
+        La reiteración en el plazo de cinco años, de dos o más infracciones muy graves,
+sancionadas con carácter firme, dará lugar a la prohibición de la prestación de servicios
+comerciales a través de Internet en la República de Panamá, durante un plazo máximo de dos
+años. La comisión de una infracción muy grave, una vez levantada la prohibición a que hace
+referencia este artículo, conllevará la prohibición definitiva de la prestación de servicios
+comerciales a través de Internet en el territorio nacional.
+
+
+Artículo 102. Multa por desacato. La Dirección General de Comercio Electrónico podrá imponer
+multas por desacato hasta por un monto del cinco por ciento (5%) del valor de la sansión
+establecida,   por cada día que transcurra sin cumplir las resoluciones sancionadoras que se
+hubieran establecido. La multa por desacato no podrá exceder el cincuenta por ciento (50%) del
+valor de la sanción establecida.
+
+
+Artículo 103. Medidas provisionales. En los procesos para establecer responsabilidades por
+infracciones graves o muy graves podrán adoptarse medidas de carácter provisional para
+asegurar el cumplimiento del debido proceso y la eficacia de la resolución, así como para evitar
+el mantenimiento de los efectos de la conducta considerada infractora de los preceptos legales.
+        Podrán adoptarse las siguientes medidas provisionales:
+1.      Advertir al público de un proceso de administrativo para determinar el nivel de
+        responsabilidad o no del prestador de servicios comerciales a través de Internet ante la
+        comisión de una fa lta grave o muy grave. Advertir al público de la misma forma, sobre
+        los resultados y acciones subsecuentes de dicho proceso administrativo.
+2.      Suspensión temporal del registro del prestador de servicios comerciales a través de
+        Internet.
+3.      En el caso de faltas muy graves, el aseguramiento, depósito o incautación de registros,
+        soportes y archivos informáticos y de documentos en general, así como de aparatos y
+        equipos informáticos de todo tipo.
+        En la adopción y cumplimiento de las medidas a que se refiere este artículo, se respetarán
+las garantías, las normas y los procedimientos previstos en la legislación para proteger los
+derechos a la intimidad personal y familiar, a la protección de los datos personales, a la libertad
+de expresión o a la libertad de información, cuando estos pudieran resultar afectados. Además, se
+respetará el principio de proporcionalidad de la medida a adoptar con los objetivos que se
+pretendan alcanzar en cada supuesto.
+        En casos de urgencia y para la inmediata protección de los intereses implicados, las
+medidas cautelares previstas en el presente artículo podrán ser acordadas antes de la iniciación
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                 40
+                                                                                                   40
+
+del proceso administrativo correspondiente. Las medidas deberán ser confirmadas, modificadas o
+levantadas en la resolución que da inicio al proceso administrativo, que deberá efectuarse dentro
+de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.
+        En todo caso, dichas medidas quedarán sin efecto si no se inicia el proceso administrativo
+dentro del plazo establecido o cuando la resolución de inicio del proceso no confirme la
+continuidad de ellas.
+
+
+Artículo 104. Recursos. Las resoluciones de la Dirección General de Comercio Electrónico
+podrán ser impugnadas por los interesados. Contra dichas resoluciones podrá ser interpuesto el
+recurso de reconsideración ante la Dirección General de Comercio Electrónico, y recurso de
+apelación ante el Ministro de Comercio e Industrias. La resolución que resuelve el recurso de
+apelación agota la vía gubernativa.
+        Se establece un plazo de sesenta días para decidir el recurso de reconsideración
+interpuesto. Si en tal plazo no ha sido resuelto el recurso, la decisión se considerará favorable al
+recurrente.
+        De la misma forma, se dispondrá de sesenta días para resolver el recurso de apelación. Si
+en tal plazo no ha sido resuelto el recurso, la decisión se considerará favorable al recurrente.
+
+
+Artículo 105. Prescripción. Las infracciones a esta Ley y a sus reglamentos, por parte de los
+prestadores de servicios de comerciales a través de Internet prescribirán en un año cuando se
+trate de infracciones leves, a los tres años, cuando se trate de infracciones graves, y a los cinco
+años, cuando se trate de infracciones muy graves.
+
+
+                                           Capítulo VII
+                                  Régimen Especial de Garantía
+                                de Inviolabilidad de la Información
+
+
+Artículo 106. Creación. Se crea el régimen especial para garantizar la inviolabilidad de la
+información depositada en bancos de datos como respaldo de operaciones que se realicen en
+países o jurisdicciones extranjeras por empresas privadas o públicas, incluyendo organismos
+estatales e internacionales.
+        Las empresas que se acojan a esta Ley podrán operar su propio banco de datos que operan
+empresas establecidas en Panamá y que ofrezcan ese servicio. La empresa extranjera que opere
+su propio banco de datos lo podrá hacer con una sucursal o con una subsidiaria organizada en
+Panamá con ese único propósito.
+
+
+Artículo 107. Requisitos. A este Régimen Especial de garantía de la inviolabilidad de la
+información solo podrán acogerse las empresas o entidades que cumplan los siguientes
+requisitos:
+1.      Que operen fuera de la República de Panamá.
+2.      Que el respaldo de datos se refiera a actividades, operaciones o negocios realizados fuera
+        de la República.
+3.      Que las jurisdicciones en las cuales están organizadas y operan, cuenten con los mismos
+        estándares de Panamá, para la prevención de lavado de dinero y blanqueo de capitales.
+No. 26090                      Gaceta Oficial Digital, jueves 24 de julio de 2008                41
+                                                                                                 41
+
+        Este requisito será certificado por la Superintendencia de Bancos de Panamá o por la
+        entidad que se determine en el decreto reglamentario de esta Ley.
+        Las empresas que se acojan al régimen especial a que se refiere este artículo deberán
+obtener el correspondiente Aviso de Operación.
+        El Ministerio de Comercio e Industrias reglamentará esta materia.
+
+
+Artículo 108. Prohibición. Se establece, como norma de orden público y de política pública,
+que la información contenida en los respaldos de datos de empresas extranjeras o entidades
+internacionales depositados en bancos de datos en la República de Panamá no podrán ser en
+ningún caso y por ningún motivo ser objeto de medidas cautelares y/o probatorias para la
+relación de dicha información, por autoridades judiciales y administrativas, así como las fiscales.
+
+
+Artículo 109. Beneficios. Las empresas que se acojan a esta Ley gozarán de los mismos
+beneficios establecidos en el Capítulo V, sobre Régimen Fiscal, y en el Capítulo VI, sobre
+Régimen Migratorio, y otras condiciones especiales para el personal de sedes de empresas
+multinacionales, otorgados mediante la Ley 41 de 2007.
+
+
+Artículo 110. Revelación indebida de información. La revelación indebida de la información
+tecnológica almacenada con arreglos a la presente Ley será considerada delito de revelación de
+secretos empresariales, tipificado en el Código Penal.
+
+
+Artículo 111. Privilegios. Las empresas que tengan operaciones en Panamá y en el extranjero
+para gozar de los privilegios de esta Ley, con relación a la información de sus operaciones
+internacionales, deberán guardar la información o los datos de las operaciones locales en forma
+separada de sus operaciones internacionales.
+
+
+                                            Capítulo VIII
+                                         Disposiciones Finales
+
+Artículo 112. Adecuación. Los prestadores de servicios de almacenamiento tecnológico de
+documentos, de certificación de firmas electrónicas y/o de servicios comerciales a través de
+Internet que hayan iniciado la prestación de sus servicios, con anterioridad a la entrada en
+vigencia de la presente Ley, deberán adecuar sus actividades a lo dispuesto en ella, dentro de los
+doce meses contados a partir de la promulgación del reglamento respectivo.
+        Las personas jurídicas o naturales que realicen para sí mismas el almacenamiento
+tecnológico de documentos y que hayan cumplido con los requisitos de registro establecidos en
+la Ley 11 de 1998, deberán adecuar sus actividades a lo dispuesto en esta Ley, dentro de los doce
+meses contados a partir de la promulgación del reglamento respectivo.
+
+
+Artículo 113. Valor legal. Los documentos que antes de cumplido el término señalado en al
+artículo anterior, hayan sido almacenados tecnológicamente en cumplimiento de lo establecido
+en la Ley 11 de 1998 y en el Decreto Ejecutivo 57 de 19 de mayo de 1999, mantendrán el
+mismo valor legal que el otorgado por la citada Ley.
+No. 26090                          Gaceta Oficial Digital, jueves 24 de julio de 2008                   42
+                                                                                                        42
+
+Artículo 114. Reglamentación. El Órgano Ejecutivo deberá reglamentar la presente Ley dentro de
+los seis meses siguientes a su entrada en vigencia, en lo que se refiere a la facultad reguladora de
+la Dirección General de Comercio Electrónico y demás aspectos contenidos dentro de la
+presente Ley.
+        El Órgano Ejecutivo, a través de la Dirección General de Comercio Electrónico,
+realizará las consultas para la promulgación de reglamentos sobre esta materia, así como para
+hacer recomendaciones y actualizaciones periódicas, con el fin de contemplar innovaciones
+por avances tecnológicos.
+
+
+Artículo 115. El artículo 6 del Código de Comercio queda así:
+        Artículo 6. Los actos de comercio se regirán:
+        1.      En cuanto a la esencia y efectos mediatos o inmediatos de las obligaciones que de
+                ellos resulten y salvo pacto en contrario o clara advertencia, por las leyes de la
+                República de Panamá.
+        2.      En cuanto al modo de cumplirse, por las leyes de la República, a menos que otra
+                cosa se hubiera estipulado, o que la parte proponente ofreciera expresamente en el
+                territorio nacional a otra parte que tenga la condición de consumidor, en cuyo caso
+                solo aplicarán las leyes y regulaciones de la República.
+        3.      En cuanto a la forma y solemnidades externas, por la ley del lugar donde se
+                celebren, excepto en los casos en que la ley disponga expresamente lo contrario.
+        4.      En cuanto a la capacidad de los contratantes, por las leyes de su respectivo país,
+                salvo el caso en que una de las partes tenga dentro del territorio nacional la
+                condición de consumidor, en cuyo caso solo aplicarán las leyes y regulaciones de
+                la República.
+
+
+Artículo 116. El artículo 71 del Código de Comercio queda así:
+        Artículo 71. Todo comerciante está obligado a llevar registros de contabilidad que indiquen clara
+        y precisamente sus operaciones comerciales, activos, pasivos y patrimonio. La contabilidad
+        deberá reflejar siempre los montos de las transacciones y la naturaleza de estas.
+                A los efectos de lo dispuesto en este Título, todo comerciante podrá llevar su contabilidad
+        y hacer sus registros, ya sea utilizando libros, documentos electrónicos u otros mecanismos que
+        autorice la ley y que permitan determinar con claridad las operaciones comerciales efectuadas y
+        que puedan garantizar que dichos registros no pueden ser modificados o eliminados con
+        posterioridad. Cuando se trate de operaciones comerciales realizadas a través de Internet, el
+        comerciante estará obligado a emitir constancia de los términos de la oferta o facturas
+        electrónicas, que puedan ser impresas y en los términos y condiciones que para tal efecto
+        determine el Estado a través de la institució n correspondiente. La factura electrónica
+        deberá ser emitida en los términos y condiciones que determine el Estado, a través de la
+        Dirección General de Ingresos y prestará mérito ejecutivo .
+                Igualmente, las personas jurídicas podrán llevar los Registros de Actas y de Acciones
+        utilizando libros, documentos electrónicos, Internet y otros mecanismos tal como se describe en
+        los párrafos anteriores.
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                43
+                                                                                                 43
+
+Artículo 117. El artículo 194 del Código de Comercio queda así:
+        Artículo 194. En cuanto no esté dispuesto en el presente Código en materia de
+        contratación mercantil, en formato físico o su equivalente electrónico, deberá estarse a los
+        usos del comercio generalmente observados en cada plaza y, a falta de estos, a las
+        prescripciones del Derecho Común relativas a las obligaciones y contratos en general.
+
+
+Artículo 118. El artículo 195 del Código de Comercio queda así:
+        Artículo 195. Los contratos de comercio no están sujetos para su validez a formas
+        especiales. Cualquiera que sea la forma, el medio y/o el idioma en que se celebren, las
+        partes quedarán obligadas de la manera y en los términos que aparezca que quisieron
+        obligarse.
+               Se exceptúa de esta disposición los contratos que, con arreglo a este Código o a
+        leyes especiales, deban reducirse a escritura pública o requieran formas o solemnidades
+        necesarias para su eficacia.
+
+
+Artículo 119. El artículo 196 del Código de Comercio queda así:
+        Artículo 196. Cuando la ley exija que un contrato se consigne por medio escrito, en
+        formato físico o su equivalente electrónico, esta disposición se aplicará igualmente a toda
+        modificación esencial de este.
+
+
+Artículo 120. El artículo 197 al Código de Comercio queda así:
+        Artículo 197. Los contratos que por disposición de la ley deban consignarse por medio
+        escrito, en formato físico o su equivalente electrónico, serán firmados por los contratantes
+        y deberán ser conservados y estar accesibles, permitiéndose determinar los datos
+        pertinentes al lugar, la fecha y la hora correspondientes al perfeccionamiento de estos,
+        sujeto a las reglas generales del ordenamiento jurídico.
+               Si alguno o algunos de ellos no pudieran firmar, lo hará otra persona a su ruego y
+        la firma será en tal caso legalizada por dos testigos.
+               Si la ley no dispusiera otra cosa, el medio utilizado equivaldrá a la forma escrita
+        con tal que el medio original esté firmado por el remitente o que se pruebe que ha sido
+        expedido por este.
+
+
+Artículo 121. El artículo 198 del Código de Comercio queda así:
+        Artículo 198. La firma que proceda de algún medio mecánico o tecnológico se
+        considerará suficiente, siempre que esta haya sido emitida en cumplimiento de las
+        formalidades legales establecidas para reconocer su validez.
+
+
+Artículo 122. El artículo 201 del Código de Comercio queda así:
+        Artículo 201. El que propusiera a otro la celebración de un contrato fijándole plazo para
+        aceptar, quedará ligado por su oferta, estén o no presentes las dos partes, hasta la
+        expiración de ese plazo.
+               Cuando se trate de actos celebrados por medios de comunicación electrónicos, el
+        que propusiera a otro tendrá la obligación de indicar la persona natural o jurídica en
+No. 26090                       Gaceta Oficial Digital, jueves 24 de julio de 2008                  44
+                                                                                                    44
+
+        nombre de la cual actúa y de informar al destinatario de manera clara, comprensible e
+        inequívoca sobre los mecanismos que serán utilizados para determinar y consignar la
+        fecha y la hora en las que se perfeccionan el contrato o las transacciones a realizarse.
+
+
+Artículo 123. Se adiciona el artículo 205-A al Código de Comercio, así:
+        Artículo 205-A. Se entenderá que se ha recibido la aceptación y su confirmación cuando
+        las partes a que se dirijan puedan tener constancia de ello. No será necesario confirmar la
+        recepción de la aceptación de una oferta cuando ambos contratantes así lo acuerden y
+        ninguno de ellos tenga la condición de consumidor.
+
+
+Artículo 124. El artículo 206 del Código de Comercio queda así:
+        Artículo 206. El autor de la oferta no quedará obligado si hubiera hecho respecto de ella
+        reservas formales por palabras que lo indicaran con claridad, o si su intención de no
+        comprometerse resultara de las circunstancias y de la naturaleza especial del negocio.
+               El hecho de mostrar al público mercancías con indicación de precios o de
+        imágenes con indicación de precio, en el caso de medios de información y comunicación,
+        se considerará en principio como una oferta.
+
+
+Artículo 125. El artículo 245 del Código de Comercio queda así:
+        Artículo 245. Cuando la ley mercantil requiera como necesidad de forma del contrato
+        que conste por escrito, ninguna otra prueba de él será admisible y a falta de título escrito,
+        en formato físico o su equivalente electrónico, el contrato se tendrá como insubsistente.
+
+
+Artículo 126. El artículo 247 del Código de Comercio queda así:
+        Artículo 247. La fecha utilizada en los telegramas u otros medios de comunicación será,
+        salvo prueba en contrario, el día y la hora en que efectivamente han sido expedidos o
+        recibidos por las respectivas oficinas de telégrafos o el destinatario.
+               En caso de errores, alteraciones o retardos en la transmisión se aplicarán los
+        principios generales sobre la culpa. Sin embargo, se presumirá, exento de esta, al
+        remitente del telegrama o del mensaje electrónico si ha tenido cuidado de confrontarlo o
+        recomendarlo para su transmisión conforme a las disposiciones de los reglamentos
+        telegráficos o de otros medios de información y comunicación.
+               Para el comercio realizado expresamente dentro del territorio nacional se tomará
+        como válida la hora oficial de la República de Panamá y en tal caso corresponderá al que
+        propusiera a otro establecer las horas habituales para la realización de las transacciones
+        mercantiles, salvo por lo expresamente establecido en el artículo 230 de este Código para
+        las obligaciones de pago.
+
+
+Artículo 127. El artículo 1103 del Código Civil queda así:
+        Artículo 1103. Deberá haber prueba por escrito, en formato físico o su equivalente
+        electrónico, para acreditar contratos y obligaciones que valgan más de cinco mil balboas.
+        Si no hubiera prueba por escrito o tecnológicamente almacedada conforme a la ley, no se
+        admitirá prueba de testigos.
+No. 26090   Gaceta Oficial Digital, jueves 24 de julio de 2008   45

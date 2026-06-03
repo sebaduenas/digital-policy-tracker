@@ -1,0 +1,475 @@
+ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA
+
+
+                      PROYECTO DE LEY
+
+
+LEY DE REGULACIÓN DE LA INTELIGENCIA ARTIFICIAL EN COSTA RICA
+
+
+             VARIAS Y VARIOS SEÑORES DIPUTADOS
+
+
+                        EXPEDIENTE N°
+                                      PROYECTO DE LEY
+
+
+      LEY DE REGULACIÓN DE LA INTELIGENCIA ARTIFICIAL EN COSTA RICA
+
+
+                                                                           Expediente N.º
+
+
+ASAMBLEA LEGISLATIVA:
+
+La propuesta de ley que se presenta a continuación fue desarrollada con la asistencia
+del ChatGPT-4, bajo el siguiente PROMT secuencial:
+
+       “Piensa como abogado y asesor legislativo, utiliza vocabulario técnico y genera
+       una propuesta de ley para regular la inteligencia artificial, teniendo en cuenta la
+       Constitución política de 1949 de Costa Rica, pregunta cualquier cosa donde tenga
+       duda.”
+
+Se pretende poner el tema a discusión y determinar la necesidad o no de regular el tema
+y como hacerlo teniendo a la persona como eje central de la discusión. Los aspectos
+generados con la asistencia ChatGPT’4, no fueron alterados, teniendo claro que los
+diputados en la Comisión que corresponda tendrán la oportunidad de traer expertos,
+realizar consultas y enriquecer el proyecto con las pocas experiencias internacionales
+que existen.
+
+No por ser un país pequeño, debemos sentir que no podemos ser disruptivos y tratar de
+legislar un futuro que se hizo presente, teniendo claro que la tecnología debe ser una
+herramienta al servicio de las personas y que no debemos nunca perder el control de
+aquella.
+
+A continuación, la exposición de motivos elaborada por el asistente de inteligencia virtual.
+
+La presente propuesta de ley tiene como objetivo regular el desarrollo, implementación
+y uso de la inteligencia artificial en Costa Rica, en consonancia con los principios y
+derechos consagrados en la Constitución Política de 1949. La finalidad principal de esta
+ley es proteger y promover la dignidad, los derechos humanos y el bienestar de la
+persona humana en el contexto de la creciente utilización de la inteligencia artificial en
+diversos ámbitos de la sociedad costarricense.
+
+
+La inteligencia artificial (IA) es una disciplina en constante evolución que ha demostrado
+un potencial significativo en el avance de la tecnología y la transformación de múltiples
+sectores. Sin embargo, su implementación plantea desafíos y riesgos, que deben ser
+abordados de manera adecuada para salvaguardar los derechos y valores
+fundamentales de las personas.
+
+Experiencias de otros países y estadísticas demuestran la necesidad imperante de
+contar con una regulación clara y efectiva en materia de inteligencia artificial. Varios
+países han adoptado medidas legales y políticas para abordar los retos asociados con la
+IA y para garantizar su uso ético, transparente y responsable. Estas experiencias han
+proporcionado lecciones valiosas y orientaciones que pueden servir como referencias
+para nuestra legislación nacional.
+
+
+Por ejemplo, la Unión Europea ha adoptado el Reglamento General de Protección de
+Datos (GDPR) y ha emitido directrices sobre la ética de la inteligencia artificial,
+promoviendo la protección de los derechos fundamentales y estableciendo principios
+clave como la transparencia, la explicabilidad y la responsabilidad. Otros países, como
+Canadá, han desarrollado estrategias nacionales de inteligencia artificial y han
+establecido comités de ética para guiar la implementación de esta tecnología.
+
+
+Las estadísticas también revelan la relevancia y la urgencia de una regulación adecuada
+de la inteligencia artificial. Según informes recientes, el 60% de las organizaciones a nivel
+global consideran que la falta de regulación y normativas claras es uno de los principales
+desafíos para el despliegue ético y seguro de la inteligencia artificial. Además, se estima
+que el 85% de los proyectos de IA enfrentan obstáculos debido a sesgos algorítmicos y
+a la falta de explicabilidad de los sistemas.
+En este sentido, es necesario abordar dos aspectos fundamentales en la regulación de
+la inteligencia artificial: los sesgos y la discriminación, y la falta de transparencia y
+explicabilidad de los sistemas.
+
+
+En cuanto a los sesgos y la discriminación, es crucial establecer medidas para prevenir
+y mitigar los sesgos algorítmicos que pueden generar resultados injustos o
+discriminatorios. Para ello, se deben promover prácticas de recopilación de datos
+inclusivas y representativas, y fomentar la revisión constante de los algoritmos para
+identificar y corregir sesgos inherentes.
+
+
+Por otro lado, la falta de transparencia y explicabilidad de los sistemas de inteligencia
+artificial genera desconfianza y limita la rendición de cuentas. Es fundamental exigir que
+los sistemas de IA proporcionen explicaciones claras y comprensibles sobre cómo llegan
+a sus decisiones, y que los procesos y algoritmos sean accesibles y auditables. Esto
+permitirá una mayor confianza en el uso de la inteligencia artificial y facilitará la detección
+y corrección de posibles errores o sesgos.
+
+
+Asimismo, es importante considerar que la legislación debe estar centrada en la persona
+humana, reconociendo y protegiendo sus derechos fundamentales en el contexto de la
+inteligencia artificial. Esto implica garantizar el respeto a la dignidad, la igualdad, la
+privacidad y la no discriminación, y establecer mecanismos eficaces para que las
+personas puedan ejercer sus derechos y controlar el uso de sus datos personales.
+
+
+Con base en las experiencias internacionales, las estadísticas alarmantes y la necesidad
+de proteger los derechos humanos, se propone la presente ley que establece un marco
+normativo sólido y equilibrado para regular la inteligencia artificial en Costa Rica. Esta
+ley busca promover la innovación responsable, la equidad, la justicia y la transparencia
+en el desarrollo y uso de la inteligencia artificial, asegurando que su implementación esté
+alineada con los valores y principios fundamentales de nuestra sociedad.
+
+
+En consecuencia, se solicita al Congreso de la República la aprobación de esta ley con
+prontitud, con el fin de brindar certeza jurídica, proteger los derechos humanos y
+fomentar el desarrollo sostenible de la inteligencia artificial en Costa Rica.
+
+
+         LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE COSTA RICA
+                                        DECRETA:
+
+
+    LEY DE REGULACIÓN DE LA INTELIGENCIA ARTIFICIAL EN COSTA RICA
+
+
+                     CAPÍTULO I: DISPOSICIONES GENERALES
+
+
+ARTÍCULO 1: Objeto de la Ley
+
+Esta ley tiene por objeto regular el desarrollo, implementación y uso de la inteligencia
+artificial en Costa Rica, en concordancia con los principios y derechos establecidos en la
+Constitución Política de 1949 y los tratados internacionales de los que Costa Rica sea
+parte. La presente ley se centra en la protección y promoción de la dignidad, los derechos
+humanos y el bienestar de la persona humana.
+
+
+ARTÍCULO 2: Definiciones
+
+Se establecen las siguientes definiciones para efectos de esta ley:
+
+Inteligencia Artificial (IA): Se refiere al conjunto de tecnologías y algoritmos que permiten
+a los sistemas informáticos realizar tareas y tomar decisiones de manera autónoma,
+imitando o emulando las capacidades humanas de percepción, aprendizaje,
+razonamiento y toma de decisiones.
+
+Agente de Inteligencia Artificial: sistema informático que utiliza técnicas de inteligencia
+artificial para realizar tareas específicas.
+
+Desarrollador de Inteligencia Artificial: persona natural o jurídica responsable del diseño,
+construcción y mantenimiento de sistemas de inteligencia artificial.
+
+Responsabilidad algorítmica: atribución de responsabilidad a los agentes de inteligencia
+artificial por los resultados y acciones derivadas de sus decisiones.
+
+Sesgo algorítmico: Se refiere a la distorsión o prejuicio sistemático que puede surgir en
+los resultados de los algoritmos de inteligencia artificial debido a sesgos inherentes en
+los datos de entrenamiento o en el diseño del algoritmo.
+
+Explicabilidad: Se refiere a la capacidad de los sistemas de inteligencia artificial de
+proporcionar justificaciones claras y comprensibles sobre cómo se llega a una
+determinada decisión o recomendación.
+
+Privacidad: Se refiere al derecho de las personas a controlar la recolección, uso y
+divulgación de sus datos personales.
+
+Transparencia: Se refiere a la apertura y accesibilidad de la información relacionada con
+el funcionamiento de los sistemas de inteligencia artificial, incluyendo algoritmos, datos
+utilizados y procesos de toma de decisiones.
+
+
+                         CAPÍTULO II: PRINCIPIOS RECTORES
+
+
+ARTÍCULO 3: Principios Éticos
+
+Equidad: La inteligencia artificial debe ser desarrollada y utilizada de manera que
+promueva la igualdad de trato y oportunidades para todas las personas, evitando la
+discriminación y los sesgos injustos.
+Responsabilidad: Los actores involucrados en el desarrollo y uso de la inteligencia
+artificial deben asumir la responsabilidad de sus acciones y decisiones, minimizando los
+riesgos y garantizando el cumplimiento de los principios éticos y legales.
+
+Transparencia: Los sistemas de inteligencia artificial deben ser transparentes en su
+funcionamiento, proporcionando información clara y comprensible sobre cómo se toman
+las decisiones y los criterios utilizados.
+
+Privacidad y Protección de Datos: Se deben establecer medidas de seguridad y
+protección de datos para garantizar la privacidad y la confidencialidad de la información
+personal utilizada por los sistemas de inteligencia artificial.
+
+Seguridad: Los sistemas de inteligencia artificial deben ser diseñados y desarrollados de
+manera que minimicen los riesgos para la seguridad de las personas y la sociedad en
+general.
+
+
+ARTÍCULO 4: Derechos Fundamentales
+
+La Constitución Política de Costa Rica establece los principios y derechos fundamentales
+que deben ser considerados al regular la inteligencia artificial en el país. A continuación,
+se presentan algunos aspectos relevantes de la Constitución que podrían complementar
+la legislación propuesta:
+
+Dignidad humana y derechos fundamentales: El artículo 1 de la Constitución consagra el
+principio de la dignidad humana como supremo valor que debe ser respetado y protegido.
+Cualquier regulación de la inteligencia artificial debe garantizar el respeto a los derechos
+fundamentales de las personas, como la vida, la integridad personal, la privacidad, la
+libertad de expresión y el debido proceso.
+
+Igualdad y no discriminación: El artículo 33 establece el principio de igualdad ante la ley,
+prohibiendo cualquier forma de discriminación. La regulación de la inteligencia artificial
+debe velar por la igualdad de trato y oportunidades, evitando la discriminación por
+motivos de raza, género, orientación sexual, religión u otras características protegidas.
+Protección de la vida privada: El artículo 24 garantiza el respeto a la intimidad y la vida
+privada. Cualquier regulación de la inteligencia artificial debe asegurar la protección de
+la privacidad de las personas, estableciendo salvaguardias para la recolección, el
+almacenamiento y el uso de datos personales.
+
+Libertad de expresión: El artículo 28 consagra el derecho a la libertad de expresión, que
+incluye la libertad de buscar, recibir y difundir información. Al regular la inteligencia
+artificial, se debe garantizar que no se restrinja indebidamente este derecho, fomentando
+la diversidad de opiniones y la transparencia en los algoritmos utilizados.
+
+Acceso a la justicia: El artículo 9 establece el derecho de toda persona a un recurso
+efectivo ante los tribunales. La regulación de la inteligencia artificial debe asegurar que
+las personas afectadas por decisiones algorítmicas tengan acceso a mecanismos de
+reclamación y revisión adecuados para impugnar y obtener reparación por posibles
+perjuicios.
+
+Protección de datos personales: Aunque la Constitución no aborda específicamente la
+protección de datos personales, el derecho a la intimidad y la vida privada implica una
+obligación implícita de proteger la información personal. Cualquier regulación de la
+inteligencia artificial debe estar en línea con los principios internacionales de protección
+de datos y respetar los estándares de confidencialidad.
+
+
+                      CAPÍTULO III: REGISTRO Y SUPERVISIÓN
+
+
+Artículo 5: Registro de Sistemas de Inteligencia Artificial
+
+Los desarrolladores de inteligencia artificial estarán obligados a registrar sus sistemas
+ante la autoridad competente. El registro incluirá información sobre el propósito,
+funcionalidades, algoritmos utilizados y medidas de seguridad implementadas.
+
+
+Artículo 6: Supervisión y Auditoría
+Se establecerá una autoridad competente encargada de la supervisión y auditoría de los
+sistemas de inteligencia artificial registrados. Dicha autoridad tendrá facultades para
+verificar el cumplimiento de la presente ley, investigar denuncias y aplicar sanciones en
+caso de incumplimiento.
+
+
+                   CAPÍTULO IV: REQUISITOS Y OBLIGACIONES
+
+
+ARTÍCULO 7: Evaluación de Impacto
+
+Se requerirá una evaluación de impacto previa para los sistemas de inteligencia artificial
+que tengan un alto riesgo para los derechos fundamentales, la equidad o la seguridad.
+
+La evaluación de impacto deberá analizar los posibles sesgos, los riesgos de
+discriminación, la transparencia, la explicabilidad y otros factores relevantes para
+garantizar el cumplimiento de los principios éticos establecidos en esta ley.
+
+
+ARTÍCULO 8: Sesgos y Discriminación
+
+Los desarrolladores de sistemas de inteligencia artificial deberán implementar medidas
+técnicas y organizativas para mitigar los sesgos algorítmicos y prevenir la discriminación
+injusta.
+
+Se promoverá la utilización de conjuntos de datos representativos y diversificados, así
+como la revisión y auditoría periódica de los algoritmos, para corregir sesgos y garantizar
+resultados equitativos.
+ARTÍCULO 9: Transparencia y Explicabilidad
+
+Los sistemas de inteligencia artificial que tomen decisiones automatizadas que afecten
+a las personas deberán proporcionar explicaciones claras y comprensibles sobre las
+razones y criterios utilizados.
+
+Se promoverá la investigación y el desarrollo de métodos y técnicas para aumentar la
+explicabilidad de los sistemas de inteligencia artificial.
+
+
+ARTÍCULO 10: Protección de Datos Personales
+
+La recolección, uso y tratamiento de datos personales por parte de los sistemas de
+inteligencia artificial deberá cumplir con las disposiciones constitucionales y legales de
+protección de datos en Costa Rica.
+
+Se establecerán medidas específicas para garantizar la privacidad y seguridad de los
+datos utilizados por los sistemas de inteligencia artificial, incluyendo el consentimiento
+informado y el anonimato siempre que sea posible.
+
+Se garantizará el derecho de las personas a acceder, rectificar, cancelar y oponerse al
+uso de sus datos personales por parte de los sistemas de inteligencia artificial.
+
+
+      CAPÍTULO V: REGULACIÓN DE LA EJECUCIÓN DE LA INTELIGENCIA
+                      ARTIFICIAL EN EL QUEHACER NACIONAL
+
+
+Artículo 11: Ámbitos de Aplicación
+
+La ejecución de la inteligencia artificial estará sujeta a regulación en los siguientes
+aspectos del quehacer nacional:
+a) Sector Salud: Se establecerán lineamientos para el uso de la inteligencia artificial en
+el diagnóstico médico, el desarrollo de tratamientos, la investigación científica y la gestión
+de datos de salud, garantizando la confidencialidad de la información personal y el
+respeto a los derechos de los pacientes.
+
+b) Sector Financiero: Se regulará el uso de la inteligencia artificial en la prestación de
+servicios financieros, incluyendo la evaluación crediticia, la detección de fraudes y el
+asesoramiento en inversiones, asegurando la transparencia, la equidad y la protección
+de los consumidores.
+
+
+c) Sector Transporte: Se establecerán normas para la implementación de la inteligencia
+artificial en el transporte público y privado, promoviendo la seguridad vial, la eficiencia
+energética y la accesibilidad, sin discriminación ni riesgos para los usuarios.
+
+d) Sector Educación: Se regulará el uso de la inteligencia artificial en la educación,
+garantizando la calidad de la enseñanza, el respeto a los derechos de los estudiantes y
+la protección de su privacidad. Se establecerán criterios claros para la evaluación de los
+resultados y el impacto de la inteligencia artificial en el proceso educativo.
+
+e) Sector Justicia: Se establecerán pautas para el uso de la inteligencia artificial en el
+sistema judicial, incluyendo la elaboración de informes periciales, la asistencia en la toma
+de decisiones legales y la gestión de casos. Se garantizará la transparencia, la
+imparcialidad y el acceso a la justicia para todas las personas.
+
+f) Sector Administrativo: Se regulará la utilización de la inteligencia artificial en la
+administración pública, asegurando la eficiencia en la prestación de servicios, la
+rendición de cuentas y la protección de los datos personales de los ciudadanos.
+
+
+                     CAPÍTULO VI: SUPERVISIÓN Y SANCIONES
+ARTÍCULO 12: Autoridad Reguladora de Inteligencia Artificial
+
+Se creará la Autoridad Reguladora de Inteligencia Artificial (ARIA), como entidad
+encargada de supervisar el cumplimiento de esta ley y establecer directrices técnicas y
+éticas en el desarrollo y uso de la inteligencia artificial.
+
+La ARIA contará con autonomía técnica y operativa, y se financiará mediante recursos
+asignados por el Estado y otros ingresos permitidos por la ley.
+
+
+ARTÍCULO 13: Sanciones
+
+Se establecerán sanciones proporcionales y disuasorias para aquellos que incumplan
+las disposiciones de esta ley, incluyendo multas, prohibiciones temporales o
+permanentes, y otras medidas administrativas o judiciales aplicables.
+
+Las sanciones se aplicarán considerando la gravedad de la infracción, el nivel de
+intencionalidad, el daño causado y otras circunstancias relevantes.
+
+
+ARTÍCULO 14: Implicaciones en la Ley General de Telecomunicaciones
+
+Espectro Radioeléctrico: La Ley General de Telecomunicaciones podría establecer
+disposiciones relacionadas con la asignación y gestión del espectro radioeléctrico
+utilizado para las comunicaciones, incluyendo aquellas relacionadas con el despliegue y
+la operación de redes de comunicaciones basadas en inteligencia artificial.
+
+Protección de la Privacidad: La ley podría contener disposiciones relacionadas con la
+protección de la privacidad de los usuarios de servicios de telecomunicaciones, lo cual
+puede ser relevante cuando se emplea inteligencia artificial en la prestación de dichos
+servicios. Esto podría incluir regulaciones sobre la recolección, el uso y la divulgación de
+datos personales.
+
+Seguridad de las Redes: La ley podría incluir disposiciones relacionadas con la seguridad
+y protección de las redes de telecomunicaciones, lo cual puede ser crucial en el contexto
+de la inteligencia artificial, especialmente si se utilizan algoritmos de aprendizaje
+automático para detectar y mitigar amenazas cibernéticas.
+
+Interoperabilidad y Estándares: La ley podría abordar temas de interoperabilidad y
+estándares técnicos en las redes de telecomunicaciones, lo cual es importante para
+asegurar la compatibilidad y la cooperación entre diferentes sistemas de inteligencia
+artificial que se utilicen en el ámbito de las telecomunicaciones.
+
+
+       CAPÍTULO VII: PROTECCIÓN DE LOS DERECHOS HUMANOS EN LA
+                  REGULACIÓN DE LA INTELIGENCIA ARTIFICIAL
+
+
+Artículo 15: Respeto a los Derechos Humanos
+
+La ejecución de la inteligencia artificial estará sujeta a normas que garanticen el respeto
+y la protección de los derechos humanos consagrados en la Constitución Política de
+1949, así como en los tratados internacionales suscritos por Costa Rica. Se establecerán
+las siguientes disposiciones:
+
+a) No Discriminación: Se prohíbe el uso de la inteligencia artificial para tomar decisiones
+discriminatorias basadas en la raza, el género, la orientación sexual, la religión, la
+discapacidad u otras características protegidas por la legislación vigente. Los sistemas
+de inteligencia artificial deberán ser diseñados y utilizados de manera imparcial y
+equitativa.
+
+b) Privacidad y Protección de Datos Personales: Se establecerán mecanismos para
+garantizar la protección de la privacidad y los datos personales de los individuos. Se
+requerirá el consentimiento informado y explícito para la recolección, almacenamiento y
+uso de datos personales por parte de los sistemas de inteligencia artificial.
+
+c) Transparencia y Explicabilidad: Se promoverá la transparencia en el funcionamiento
+de los sistemas de inteligencia artificial. Los desarrolladores y usuarios estarán obligados
+a proporcionar información clara y comprensible sobre cómo funcionan los algoritmos y
+cómo se toman las decisiones. Los ciudadanos tendrán derecho a solicitar explicaciones
+sobre las decisiones tomadas por los sistemas de inteligencia artificial que les afecten.
+
+d) Acceso a la Justicia: Se garantizará el acceso a mecanismos efectivos de reclamación
+y reparación en casos de daños o perjuicios causados por el mal funcionamiento o uso
+indebido de la inteligencia artificial. Los ciudadanos tendrán derecho a impugnar las
+decisiones tomadas por los sistemas de inteligencia artificial y a recibir una revisión y
+respuesta adecuada.
+
+
+e) Derecho al Trabajo: Se promoverá el respeto de los derechos laborales en el contexto
+de la inteligencia artificial. Se prohibirá la discriminación y se garantizará la protección de
+los derechos de los trabajadores frente a la automatización impulsada por la inteligencia
+artificial, incluyendo la reubicación, la formación y la compensación justa.
+
+f) Supervisión y Auditoría Independiente: Se fomentará la creación de entidades
+independientes encargadas de supervisar y auditar el cumplimiento de las normas de
+protección de los derechos humanos en el desarrollo y uso de la inteligencia artificial.
+Estas entidades tendrán la facultad de investigar denuncias y aplicar sanciones en caso
+de violaciones.
+
+
+Artículo 16: Informe de Impacto en Derechos Humanos
+
+Los desarrolladores y usuarios de sistemas de inteligencia artificial estarán obligados a
+realizar evaluaciones de impacto en derechos humanos antes de su implementación.
+Estas evaluaciones deberán identificar y mitigar los posibles riesgos y efectos negativos
+en los derechos fundamentales de las personas.
+
+
+Artículo 17: Capacitación y Concienciación
+Se promoverá la capacitación y la concienciación sobre los derechos humanos en el
+contexto de la inteligencia artificial. Se fomentará la formación de profesionales en ética
+y derechos humanos en la implementación y uso de la inteligencia.
+
+
+                       CAPÍTULO VIII: DISPOSICIONES FINALES
+
+
+ARTÍCULO 18: Implementación Progresiva
+
+La implementación de esta ley se realizará de manera progresiva, estableciendo plazos
+y fases de adaptación para los diferentes sectores y actores involucrados, a fin de facilitar
+la transición hacia el cumplimiento de las disposiciones establecidas.
+
+ARTÍCULO 19: Evaluación y Actualización
+
+La presente ley será objeto de evaluación periódica para garantizar su adecuación a los
+avances tecnológicos y las necesidades de la sociedad. Se podrán realizar
+modificaciones y actualizaciones según corresponda, previa consulta a expertos y la
+sociedad en general.
+
+
+       Rige a partir de su publicación.
+
+
+Vanessa De Paul Castro Mora                              José Joaquín Hernández Rojas
+DIPUTADA                                                 DIPUTADO
+Manuel Esteban Morales Díaz   Olga Lidia Morera Arrieta
+DIPUTADO                      DIPUTADA
+
+
+Johana Obando Bonilla
+DIPUTADA

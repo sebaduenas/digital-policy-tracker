@@ -1,0 +1,884 @@
+L14129
+Presid�ncia da Rep�blica
+Secretaria-Geral
+Subchefia para
+Assuntos Jur�dicos
+LEI N� 14.129, DE
+29 DE MAR�O DE 2021
+Vig�ncia
+Mensagem de
+veto
+(Promulga��o partes
+vetadas)
+Disp�e sobre
+princ�pios, regras e instrumentos para o Governo Digital e para o aumento da
+efici�ncia p�blica e altera a Lei n� 7.116, de 29 de agosto de 1983, a Lei
+n� 12.527, de 18 de novembro de 2011 (Lei de Acesso � Informa��o), a Lei n�
+12.682, de 9 de julho de 2012, e a Lei n� 13.460, de 26 de junho de 2017.
+O PRESIDENTE DA REP�BLICA
+Fa�o saber que o Congresso Nacional decreta e eu sanciono a
+seguinte
+Lei:
+CAP�TULO I
+DISPOSI��ES GERAIS
+Art. 1� Esta Lei disp�e sobre princ�pios, regras e instrumentos para o
+aumento da efici�ncia da administra��o p�blica, especialmente por meio da
+desburocratiza��o, da inova��o, da transforma��o digital e da participa��o
+do cidad�o.
+Par�grafo �nico. Na aplica��o desta Lei dever� ser observado o disposto nas
+Leis n�s 12.527, de 18 de novembro de 2011 (Lei de Acesso � Informa��o),
+13.460, de 26 de junho de 2017,
+13.709, de 14 de agosto de 2018 (Lei Geral
+de Prote��o de Dados Pessoais), e 5.172, de 25 de outubro de 1966 (C�digo
+Tribut�rio Nacional), e na Lei Complementar n� 105, de 10 de janeiro de
+2001.
+Art. 2� Esta Lei aplica-se:
+I - aos �rg�os da administra��o p�blica direta federal, abrangendo os
+Poderes Executivo, Judici�rio e Legislativo, inclu�do o Tribunal de Contas
+da Uni�o, e o Minist�rio P�blico da Uni�o;
+II - �s entidades da administra��o p�blica indireta federal, inclu�das as
+empresas p�blicas e sociedades de economia mista, suas subsidi�rias e
+controladas, que prestem servi�o p�blico, autarquias e funda��es p�blicas; e
+III - �s administra��es diretas e indiretas dos demais entes federados, nos
+termos dos incisos I e II do
+caput
+deste artigo, desde que adotem os comandos desta Lei por meio de atos
+normativos pr�prios.
+� 1� Esta Lei n�o se aplica a empresas p�blicas e sociedades de economia
+mista, suas subsidi�rias e controladas, que n�o prestem servi�o p�blico.
+� 2� As refer�ncias feitas nesta Lei, direta ou indiretamente, a Estados,
+Munic�pios e ao Distrito Federal s�o cab�veis somente na hip�tese de ter
+sido cumprido o requisito previsto no inciso III do
+caput
+deste artigo.
+Art. 3� S�o princ�pios e diretrizes do Governo Digital e da efici�ncia
+p�blica:
+I - a desburocratiza��o, a moderniza��o, o fortalecimento e a simplifica��o
+da rela��o do poder p�blico com a sociedade, mediante servi�os digitais,
+acess�veis inclusive por dispositivos m�veis;
+II - a disponibiliza��o em plataforma �nica do acesso �s informa��es e aos
+servi�os p�blicos, observadas as restri��es legalmente previstas e sem
+preju�zo, quando indispens�vel, da presta��o de car�ter presencial;
+III - a possibilidade aos cidad�os, �s pessoas jur�dicas e aos outros entes
+p�blicos de demandar e de acessar servi�os p�blicos por meio digital, sem
+necessidade de solicita��o presencial;
+IV - a transpar�ncia na execu��o dos servi�os p�blicos e o monitoramento da
+qualidade desses servi�os;
+V - o incentivo � participa��o social no controle e na fiscaliza��o da
+administra��o p�blica;
+VI - o dever do gestor p�blico de prestar contas diretamente � popula��o
+sobre a gest�o dos recursos p�blicos;
+VII - o uso de linguagem clara e compreens�vel a qualquer cidad�o;
+VIII - o uso da tecnologia para otimizar processos de trabalho da
+administra��o p�blica;
+IX - a atua��o integrada entre os �rg�os e as entidades envolvidos na
+presta��o e no controle dos servi�os p�blicos, com o compartilhamento de
+dados pessoais em ambiente seguro quando for indispens�vel para a presta��o
+do servi�o, nos termos da
+Lei n� 13.709, de 14 de agosto de 2018 (Lei Geral
+de Prote��o de Dados Pessoais), e, quando couber, com a transfer�ncia de
+sigilo, nos termos do art. 198 da Lei n� 5.172, de 25 de outubro de 1966
+(C�digo Tribut�rio Nacional), e da Lei Complementar n� 105, de 10 de janeiro
+de 2001;
+X - a simplifica��o dos procedimentos de solicita��o, oferta e
+acompanhamento dos servi�os p�blicos, com foco na universaliza��o do acesso
+e no autosservi�o;
+XI - a elimina��o de formalidades e de exig�ncias cujo custo econ�mico ou
+social seja superior ao risco envolvido;
+XII - a imposi��o imediata e de uma �nica vez ao interessado das exig�ncias
+necess�rias � presta��o dos servi�os p�blicos, justificada exig�ncia
+posterior apenas em caso de d�vida superveniente;
+XIII - a veda��o de exig�ncia de prova de fato j� comprovado pela
+apresenta��o de documento ou de informa��o v�lida;
+XIV - a interoperabilidade de sistemas e a promo��o de dados abertos;
+XV - a presun��o de boa-f� do usu�rio dos servi�os p�blicos;
+XVI - a perman�ncia da possibilidade de atendimento presencial, de acordo
+com as caracter�sticas, a relev�ncia e o p�blico-alvo do servi�o;
+XVII - a prote��o de dados pessoais, nos termos da
+Lei n� 13.709, de 14 de
+agosto de 2018 (Lei Geral de Prote��o de Dados Pessoais);
+XVIII - o cumprimento de compromissos e de padr�es de qualidade divulgados
+na Carta de Servi�os ao Usu�rio;
+XIX - a acessibilidade da pessoa com defici�ncia ou com mobilidade reduzida,
+nos termos da Lei n� 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com
+Defici�ncia);
+XX - o est�mulo a a��es educativas para qualifica��o dos servidores p�blicos
+para o uso das tecnologias digitais e para a inclus�o digital da popula��o;
+XXI - o apoio t�cnico aos entes federados para implanta��o e ado��o de
+estrat�gias que visem � transforma��o digital da administra��o p�blica;
+XXII - o est�mulo ao uso das assinaturas eletr�nicas nas intera��es e nas
+comunica��es entre �rg�os p�blicos e entre estes e os cidad�os;
+XXIII - a implanta��o do governo como plataforma e a promo��o do uso de
+dados, preferencialmente anonimizados, por pessoas f�sicas e jur�dicas de
+diferentes setores da sociedade, resguardado o disposto nos
+arts. 7� e
+11 da
+Lei n� 13.709, de 14 de agosto de 2018 (Lei Geral de Prote��o de Dados
+Pessoais), com vistas, especialmente, � formula��o de pol�ticas p�blicas, de
+pesquisas cient�ficas, de gera��o de neg�cios e de controle social;
+XXIV - o tratamento adequado a idosos, nos termos da
+Lei n� 10.741, de 1� de
+outubro de 2003 (Estatuto do Idoso);
+XXV - a ado��o preferencial, no uso da internet e de suas aplica��es, de
+tecnologias, de padr�es e de formatos abertos e livres, conforme disposto no
+inciso V do caput
+do art. 24 e no
+art. 25 da Lei n� 12.965, de 23 de abril de 2014 (Marco
+Civil da Internet); e
+XXVI - a promo��o do desenvolvimento tecnol�gico e da inova��o no setor
+p�blico.
+Art. 4� Para os fins desta Lei, considera-se:
+I - (VETADO);
+II - autosservi�o: acesso pelo cidad�o a servi�o p�blico prestado por meio
+digital, sem necessidade de media��o humana;
+III - base nacional de servi�os p�blicos: base de dados que cont�m as
+informa��es necess�rias sobre a oferta de servi�os p�blicos de todos os
+prestadores desses servi�os;
+IV - dados abertos: dados acess�veis ao p�blico, representados em meio
+digital, estruturados em formato aberto, process�veis por m�quina,
+referenciados na internet e disponibilizados sob licen�a aberta que permita
+sua livre utiliza��o, consumo ou tratamento por qualquer pessoa, f�sica ou
+jur�dica;
+V - dado acess�vel ao p�blico: qualquer dado gerado ou acumulado pelos entes
+p�blicos que n�o esteja sob sigilo ou sob restri��o de acesso nos termos da
+Lei n� 12.527, de 18 de novembro de 2011 (Lei de Acesso � Informa��o);
+VI - formato aberto: formato de arquivo n�o propriet�rio, cuja especifica��o
+esteja documentada publicamente e seja de livre conhecimento e
+implementa��o, livre de patentes ou de qualquer outra restri��o legal quanto
+� sua utiliza��o;
+VII - governo como plataforma: infraestrutura tecnol�gica que facilite o uso
+de dados de acesso p�blico e promova a intera��o entre diversos agentes, de
+forma segura, eficiente e respons�vel, para est�mulo � inova��o, �
+explora��o de atividade econ�mica e � presta��o de servi�os � popula��o;
+VIII - laborat�rio de inova��o: espa�o aberto � participa��o e � colabora��o
+da sociedade para o desenvolvimento de ideias, de ferramentas e de m�todos
+inovadores para a gest�o p�blica, a presta��o de servi�os p�blicos e a
+participa��o do cidad�o para o exerc�cio do controle sobre a administra��o
+p�blica;
+IX - plataformas de governo digital: ferramentas digitais e servi�os comuns
+aos �rg�os, normalmente ofertados de forma centralizada e compartilhada,
+necess�rias para a oferta digital de servi�os e de pol�ticas p�blicas;
+X - registros de refer�ncia: informa��o �ntegra e precisa oriunda de uma ou
+mais fontes de dados, centralizadas ou descentralizadas, sobre elementos
+fundamentais para a presta��o de servi�os e para a gest�o de pol�ticas
+p�blicas; e
+XI - transpar�ncia ativa: disponibiliza��o de dados pela administra��o
+p�blica independentemente de solicita��es.
+Par�grafo �nico. Aplicam-se a esta Lei os conceitos da
+Lei n� 13.709, de 14
+de agosto de 2018 (Lei Geral de Prote��o de Dados Pessoais).
+CAP�TULO II
+DA DIGITALIZA��O DA ADMINISTRA��O P�BLICA E DA PRESTA��O DIGITAL DE SERVI�OS
+P�BLICOS - GOVERNO DIGITAL
+Se��o I
+Da
+Digitaliza��o
+Art. 5� A administra��o p�blica utilizar� solu��es digitais para a gest�o
+de suas pol�ticas final�sticas e administrativas e para o tr�mite de
+processos administrativos eletr�nicos.
+Par�grafo �nico. Entes p�blicos que emitem atestados, certid�es, diplomas ou
+outros documentos comprobat�rios com validade legal poder�o faz�-lo em meio
+digital, assinados eletronicamente na forma do art. 7� desta Lei e da
+Lei n�
+14.063, de 23 de setembro de 2020 .
+Art. 6� Nos processos administrativos eletr�nicos, os atos processuais
+dever�o ser realizados em meio eletr�nico, exceto se o usu�rio solicitar de
+forma diversa, nas situa��es em que esse procedimento for invi�vel, nos
+casos de indisponibilidade do meio eletr�nico ou diante de risco de dano
+relevante � celeridade do processo.
+Par�grafo �nico. No caso das exce��es previstas no
+caput
+deste artigo, os atos processuais poder�o ser praticados conforme as regras
+aplic�veis aos processos em papel, desde que posteriormente o documento-base
+correspondente seja digitalizado.
+Art. 7� Os documentos e os atos processuais ser�o v�lidos em meio digital
+mediante o uso de assinatura eletr�nica, desde que respeitados par�metros de
+autenticidade, de integridade e de seguran�a adequados para os n�veis de
+risco em rela��o � criticidade da decis�o, da informa��o ou do servi�o
+espec�fico, nos termos da lei.
+� 1� Regulamento poder� dispor sobre o uso de assinatura avan�ada para os
+fins de que tratam os seguintes dispositivos:
+I - art. 2�-A da Lei n� 12.682, de 9 de julho de 2012 ;
+II - art. 289 da Lei n� 6.404, de 15 de dezembro de 1976 ;
+III - art. 2� da Lei n� 13.787, de 27 de dezembro de 2018;
+IV - art. 282-A da Lei n� 9.503, de 23 de setembro de 1997 (C�digo de
+Tr�nsito Brasileiro);
+V - (VETADO);
+VI - art. 8� da Lei n� 12.618, de 30 de abril de 2012;
+VII - art. 38 da Lei n� 11.977, de 7 de julho de 2009 .
+� 2� O disposto neste artigo n�o se aplica �s hip�teses legais de
+anonimato.
+Art. 8� Os atos processuais em meio eletr�nico consideram-se realizados no
+dia e na hora do recebimento pelo sistema informatizado de gest�o de
+processo administrativo eletr�nico do �rg�o ou da entidade, o qual dever�
+fornecer recibo eletr�nico de protocolo que os identifique.
+� 1� Quando o ato processual tiver que ser praticado em determinado prazo,
+por meio eletr�nico, ser�o considerados tempestivos os efetivados, salvo
+disposi��o em contr�rio, at� as 23h59 (vinte e tr�s horas e cinquenta e nove
+minutos) do �ltimo dia do prazo, no hor�rio de Bras�lia.
+� 2� A regulamenta��o dever� dispor sobre os casos e as condi��es de
+prorroga��o de prazos em virtude da indisponibilidade de sistemas
+informatizados.
+Art. 9� O acesso � �ntegra do processo para vista pessoal do interessado
+poder� ocorrer por interm�dio da disponibiliza��o de sistema informatizado
+de gest�o ou por acesso � c�pia do documento, preferencialmente em meio
+eletr�nico.
+Art. 10. A classifica��o da informa��o quanto ao grau de sigilo e a
+possibilidade de limita��o do acesso aos servidores autorizados e aos
+interessados no processo observar�o os termos da
+Lei n� 12.527, de 18 de
+novembro de 2011 (Lei de Acesso � Informa��o), e das demais normas vigentes.
+Art. 11. Os documentos nato-digitais assinados eletronicamente na forma
+do art. 7� desta Lei s�o considerados originais para todos os efeitos
+legais.
+Art. 12. O formato e o armazenamento dos documentos digitais dever�o
+garantir o acesso e a preserva��o das informa��es, nos termos da legisla��o
+arquiv�stica nacional.
+Art. 13. A guarda dos documentos digitais e dos processos administrativos
+eletr�nicos considerados de valor permanente dever� estar de acordo com as
+normas previstas pela institui��o arquiv�stica p�blica respons�vel por sua
+cust�dia.
+Se��o II
+Do Governo
+Digital
+Art. 14. A presta��o digital dos servi�os p�blicos dever� ocorrer por meio
+de tecnologias de amplo acesso pela popula��o, inclusive pela de baixa renda
+ou residente em �reas rurais e isoladas, sem preju�zo do direito do cidad�o
+a atendimento presencial.
+Par�grafo �nico. O acesso � presta��o digital dos servi�os p�blicos ser�
+realizado, preferencialmente, por meio do autosservi�o.
+Art. 15. A administra��o p�blica participar�, de maneira integrada e
+cooperativa, da consolida��o da Estrat�gia Nacional de Governo Digital,
+editada pelo Poder Executivo federal, que observar� os princ�pios e as
+diretrizes de que trata o art. 3� desta Lei.
+Art. 16. A administra��o p�blica de cada ente federado poder� editar
+estrat�gia de governo digital, no �mbito de sua compet�ncia, buscando a sua
+compatibiliza��o com a estrat�gia federal e a de outros entes.
+Se��o III
+Das Redes de
+Conhecimento
+Art. 17. O Poder Executivo federal poder� criar redes de conhecimento, com
+o objetivo de:
+I - gerar, compartilhar e disseminar conhecimento e experi�ncias;
+II - formular propostas de padr�es, pol�ticas, guias e manuais;
+III - discutir sobre os desafios enfrentados e as possibilidades de a��o
+quanto ao Governo Digital e � efici�ncia p�blica;
+IV - prospectar novas tecnologias para facilitar a presta��o de servi�os
+p�blicos disponibilizados em meio digital, o fornecimento de informa��es e a
+participa��o social por meios digitais.
+� 1� Poder�o participar das redes de conhecimento todos os �rg�os e as
+entidades referidos no art. 2� desta Lei, inclusive dos entes federados.
+� 2� Ser�o assegurados �s institui��es cient�ficas, tecnol�gicas e de
+inova��o o acesso �s redes de conhecimento e o estabelecimento de canal de
+comunica��o permanente com o �rg�o federal a quem couber a coordena��o das
+atividades previstas neste artigo.
+Se��o IV
+Dos
+Componentes do Governo Digital
+Subse��o I
+Da Defini��o
+Art. 18. S�o componentes essenciais para a presta��o digital dos servi�os
+p�blicos na administra��o p�blica:
+I - a Base Nacional de Servi�os P�blicos;
+II - as Cartas de Servi�os ao Usu�rio, de que trata a
+Lei n� 13.460, de 26
+de junho de 2017 ; e
+III - as Plataformas de Governo Digital.
+Subse��o II
+Da Base
+Nacional de Servi�os P�blicos
+Art. 19. Poder� o Poder Executivo federal estabelecer Base Nacional de
+Servi�os P�blicos, que reunir� informa��es necess�rias sobre a oferta de
+servi�os p�blicos em cada ente federado.
+Par�grafo �nico. Cada ente federado poder� disponibilizar as informa��es
+sobre a presta��o de servi�os p�blicos, conforme disposto nas suas Cartas de
+Servi�os ao Usu�rio, na Base Nacional de Servi�os P�blicos, em formato
+aberto e interoper�vel e em padr�o comum a todos os entes.
+Subse��o III
+Das
+Plataformas de Governo Digital
+Art. 20. As Plataformas de Governo Digital, instrumentos necess�rios para a
+oferta e a presta��o digital dos servi�os p�blicos de cada ente federativo,
+dever�o ter pelo menos as seguintes funcionalidades:
+I - ferramenta digital de solicita��o de atendimento e de acompanhamento da
+entrega dos servi�os p�blicos; e
+II - painel de monitoramento do desempenho dos servi�os p�blicos.
+� 1� As Plataformas de Governo Digital dever�o ser acessadas por meio de
+portal, de aplicativo ou de outro canal digital �nico e oficial, para a
+disponibiliza��o de informa��es institucionais, not�cias e presta��o de
+servi�os p�blicos.
+� 2� As funcionalidades de que trata o
+caput
+deste artigo dever�o observar padr�es de interoperabilidade e a necessidade
+de integra��o de dados como formas de simplifica��o e de efici�ncia nos
+processos e no atendimento aos usu�rios.
+Art. 21. A ferramenta digital de atendimento e de acompanhamento da entrega
+dos servi�os p�blicos de que trata o inciso I do
+caput
+do art. 20 desta Lei deve apresentar, no m�nimo, as seguintes
+caracter�sticas e funcionalidades:
+I - identifica��o do servi�o p�blico e de suas principais etapas;
+II - solicita��o digital do servi�o;
+III - agendamento digital, quando couber;
+IV - acompanhamento das solicita��es por etapas;
+V - avalia��o continuada da satisfa��o dos usu�rios em rela��o aos servi�os
+p�blicos prestados;
+VI - identifica��o, quando necess�ria, e gest�o do perfil pelo usu�rio;
+VII - notifica��o do usu�rio;
+VIII - possibilidade de pagamento digital de servi�os p�blicos e de outras
+cobran�as, quando necess�rio;
+IX - n�vel de seguran�a compat�vel com o grau de exig�ncia, a natureza e a
+criticidade dos servi�os p�blicos e dos dados utilizados;
+X - funcionalidade para solicitar acesso a informa��es acerca do tratamento
+de dados pessoais, nos termos das
+Leis n�s 12.527, de 18 de novembro de 2011
+(Lei de Acesso � Informa��o), e
+13.709, de 14 de agosto de 2018 (Lei Geral
+de Prote��o de Dados Pessoais); e
+XI - implementa��o de sistema de ouvidoria, nos termos da
+Lei n� 13.460, de
+26 de junho de 2017.
+Art. 22. O painel de monitoramento do desempenho dos servi�os p�blicos de
+que trata o inciso II do
+caput
+do art. 20 desta Lei dever� conter, no m�nimo, as seguintes informa��es,
+para cada servi�o p�blico ofertado:
+I - quantidade de solicita��es em andamento e conclu�das anualmente;
+II - tempo m�dio de atendimento; e
+III - grau de satisfa��o dos usu�rios.
+Par�grafo �nico. Dever� ser assegurada interoperabilidade e padroniza��o
+m�nima do painel a que se refere o
+caput
+deste artigo, de modo a permitir a compara��o entre as avalia��es e os
+desempenhos dos servi�os p�blicos prestados pelos diversos entes.
+Art. 23. Poder� o Poder Executivo federal:
+I - estabelecer padr�es nacionais para as solu��es previstas nesta Se��o;
+II - disponibilizar solu��es para outros entes que atendam ao disposto nesta
+Se��o.
+Se��o V
+Da Presta��o
+Digital dos Servi�os P�blicos
+Art. 24. Os �rg�os e as entidades respons�veis pela presta��o digital de
+servi�os p�blicos dever�o, no �mbito de suas compet�ncias:
+I - manter atualizadas:
+a) as Cartas de Servi�os ao Usu�rio, a Base Nacional de Servi�os P�blicos e
+as Plataformas de Governo Digital;
+b) as informa��es institucionais e as comunica��es de interesse p�blico;
+II - monitorar e implementar a��es de melhoria dos servi�os p�blicos
+prestados, com base nos resultados da avalia��o de satisfa��o dos usu�rios
+dos servi�os;
+III - integrar os servi�os p�blicos �s ferramentas de notifica��o aos
+usu�rios, de assinatura eletr�nica e de meios de pagamento digitais, quando
+aplic�veis;
+IV - eliminar, inclusive por meio da interoperabilidade de dados, as
+exig�ncias desnecess�rias ao usu�rio quanto � apresenta��o de informa��es e
+de documentos comprobat�rios prescind�veis;
+V - eliminar a replica��o de registros de dados, exceto por raz�es de
+desempenho ou de seguran�a;
+VI - tornar os dados da presta��o dos servi�os p�blicos sob sua
+responsabilidade interoper�veis para composi��o dos indicadores do painel de
+monitoramento do desempenho dos servi�os p�blicos;
+VII - realizar a gest�o das suas pol�ticas p�blicas com base em dados e em
+evid�ncias por meio da aplica��o de intelig�ncia de dados em plataforma
+digital; e
+VIII - realizar testes e pesquisas com os usu�rios para subsidiar a oferta
+de servi�os simples, intuitivos, acess�veis e personalizados.
+Art. 25. As Plataformas de Governo Digital devem dispor de ferramentas de
+transpar�ncia e de controle do tratamento de dados pessoais que sejam claras
+e facilmente acess�veis e que permitam ao cidad�o o exerc�cio dos direitos
+previstos na
+Lei n� 13.709, de 14 de agosto de 2018 (Lei Geral de Prote��o
+de Dados Pessoais).
+� 1� As ferramentas previstas no
+caput
+deste artigo devem:
+I - disponibilizar, entre outras, as fontes dos dados pessoais, a finalidade
+espec�fica do seu tratamento pelo respectivo �rg�o ou ente e a indica��o de
+outros �rg�os ou entes com os quais � realizado o uso compartilhado de dados
+pessoais, inclu�do o hist�rico de acesso ou uso compartilhado, ressalvados
+os casos previstos no
+inciso III do caput
+do art. 4� da Lei n� 13.709, de 14 de agosto de 2018 (Lei Geral de
+Prote��o de Dados Pessoais);
+II - permitir que o cidad�o efetue requisi��es ao �rg�o ou � entidade
+controladora dos seus dados, especialmente aquelas previstas no
+art. 18 da
+Lei n� 13.709, de 14 de agosto de 2018 (Lei Geral de Prote��o de Dados
+Pessoais).
+� 2� A Autoridade Nacional de Prote��o de Dados (ANPD) poder� editar normas
+complementares para regulamentar o disposto neste artigo.
+Art. 26. Presume-se a autenticidade de documentos apresentados por usu�rios
+dos servi�os p�blicos ofertados por meios digitais, desde que o envio seja
+assinado eletronicamente.
+Se��o VI
+Dos Direitos
+dos Usu�rios da Presta��o Digital de Servi�os P�blicos
+Art. 27. S�o garantidos os seguintes direitos aos usu�rios da presta��o
+digital de servi�os p�blicos, al�m daqueles constantes das
+Leis n�s 13.460,
+de 26 de junho de 2017 , e
+13.709, de 14 de agosto de 2018 (Lei Geral de
+Prote��o de Dados Pessoais):
+I - gratuidade no acesso �s Plataformas de Governo Digital;
+II - atendimento nos termos da respectiva Carta de Servi�os ao Usu�rio;
+III - padroniza��o de procedimentos referentes à utiliza��o de formul�rios,
+de guias e de outros documentos cong�neres, inclu�dos os de formato digital;
+IV - recebimento de protocolo, f�sico ou digital, das solicita��es
+apresentadas; e
+V - indica��o de canal preferencial de comunica��o com o prestador p�blico
+para o recebimento de notifica��es, de mensagens, de avisos e de outras
+comunica��es relativas � presta��o de servi�os p�blicos e a assuntos de
+interesse p�blico.
+CAP�TULO III
+DO N�MERO SUFICIENTE PARA IDENTIFICA��O
+Art. 28. Fica estabelecido o n�mero de inscri��o no Cadastro de Pessoas
+F�sicas (CPF) ou no Cadastro Nacional da Pessoa Jur�dica (CNPJ) como n�mero
+suficiente para identifica��o do cidad�o ou da pessoa jur�dica, conforme o
+caso, nos bancos de dados de servi�os p�blicos, garantida a gratuidade da
+inscri��o e das altera��es nesses cadastros.
+� 1� O n�mero de inscri��o no CPF dever� constar dos cadastros e dos
+documentos de �rg�os p�blicos, do registro civil de pessoas naturais, dos
+documentos de identifica��o de conselhos profissionais e, especialmente, dos
+seguintes cadastros e documentos:
+I - certid�o de nascimento;
+II - certid�o de casamento;
+III - certid�o de �bito;
+IV - Documento Nacional de Identifica��o (DNI);
+V - N�mero de Identifica��o do Trabalhador (NIT);
+VI - registro no Programa de Integra��o Social (PIS) ou no Programa de
+Forma��o do Patrim�nio do Servidor P�blico (Pasep);
+VII - Cart�o Nacional de Sa�de;
+VIII - t�tulo de eleitor;
+IX - Carteira de Trabalho e Previd�ncia Social (CTPS);
+X - Carteira Nacional de Habilita��o (CNH) ou Permiss�o para Dirigir;
+XI - certificado militar;
+XII - carteira profissional expedida pelos conselhos de fiscaliza��o de
+profiss�o regulamentada;
+XIII - passaporte;
+XIV - carteiras de identidade de que trata a
+Lei n� 7.116, de 29 de agosto
+de 1983 ; e
+XV - outros certificados de registro e n�meros de inscri��o existentes em
+bases de dados p�blicas federais, estaduais, distritais e municipais.
+� 2� A inclus�o do n�mero de inscri��o no CPF nos cadastros e nos
+documentos de que trata o � 1� deste artigo ocorrer� sempre que a
+institui��o respons�vel pelos cadastros e pelos documentos tiver acesso a
+documento comprobat�rio ou � base de dados administrada pela Secretaria
+Especial da Receita Federal do Brasil do Minist�rio da Economia.
+� 3� A incorpora��o do n�mero de inscri��o no CPF � carteira de identidade
+ser� precedida de consulta � base de dados administrada pela Secretaria
+Especial da Receita Federal do Brasil do Minist�rio da Economia e de
+valida��o de acordo com essa base de dados.
+� 4� Na hip�tese de o requerente da carteira de identidade n�o estar
+inscrito no CPF, o �rg�o de identifica��o realizar� a sua inscri��o, caso
+tenha integra��o com a base de dados da Secretaria Especial da Receita
+Federal do Brasil do Minist�rio Economia.
+� 5� (VETADO).
+CAP�TULO IV
+DO GOVERNO COMO PLATAFORMA
+Se��o I
+Da Abertura
+dos Dados
+Art. 29. Os dados disponibilizados pelos prestadores de servi�os p�blicos,
+bem como qualquer informa��o de transpar�ncia ativa, s�o de livre utiliza��o
+pela sociedade, observados os princ�pios dispostos no
+art. 6� da Lei n�
+13.709, de 14 de agosto de 2018 (Lei Geral de Prote��o de Dados Pessoais).
+� 1� Na promo��o da transpar�ncia ativa de dados, o poder p�blico dever�
+observar os seguintes requisitos:
+I - observ�ncia da publicidade das bases de dados n�o pessoais como preceito
+geral e do sigilo como exce��o;
+II - garantia de acesso irrestrito aos dados, os quais devem ser leg�veis
+por m�quina e estar dispon�veis em formato aberto, respeitadas as
+Leis n�s
+12.527, de 18 de novembro de 2011 (Lei de Acesso � Informa��o), e
+13.709, de
+14 de agosto de 2018 (Lei Geral de Prote��o de Dados Pessoais);
+III - descri��o das bases de dados com informa��o suficiente sobre estrutura
+e sem�ntica dos dados, inclusive quanto � sua qualidade e � sua integridade;
+IV - permiss�o irrestrita de uso de bases de dados publicadas em formato
+aberto;
+V - completude de bases de dados, as quais devem ser disponibilizadas em sua
+forma prim�ria, com o maior grau de granularidade poss�vel, ou referenciar
+bases prim�rias, quando disponibilizadas de forma agregada;
+VI - atualiza��o peri�dica, mantido o hist�rico, de forma a garantir a
+perenidade de dados, a padroniza��o de estruturas de informa��o e o valor
+dos dados � sociedade e a atender �s necessidades de seus usu�rios;
+VII - (VETADO);
+VIII - respeito � privacidade dos dados pessoais e dos dados sens�veis, sem
+preju�zo dos demais requisitos elencados, conforme a
+Lei n� 13.709, de 14 de
+agosto de 2018 (Lei Geral de Prote��o de Dados Pessoais);
+IX - interc�mbio de dados entre �rg�os e entidades dos diferentes Poderes e
+esferas da Federa��o, respeitado o disposto no
+art. 26 da Lei n� 13.709, de
+14 de agosto de 2018 (Lei Geral de Prote��o de Dados Pessoais); e
+X - fomento ao desenvolvimento de novas tecnologias destinadas � constru��o
+de ambiente de gest�o p�blica participativa e democr�tica e � melhor oferta
+de servi�os p�blicos.
+� 2� Sem preju�zo da legisla��o em vigor, os �rg�os e as entidades
+previstos no art. 2� desta Lei dever�o divulgar na internet:
+I - o or�amento anual de despesas e receitas p�blicas do Poder ou �rg�o
+independente;
+II - a execu��o das despesas e receitas p�blicas, nos termos dos
+arts. 48 e
+48-A da Lei Complementar n� 101, de 4 de maio de 2000;
+III - os repasses de recursos federais aos Estados, aos Munic�pios e ao
+Distrito Federal;
+IV - os conv�nios e as opera��es de descentraliza��o de recursos
+or�ament�rios em favor de pessoas naturais e de organiza��es n�o
+governamentais de qualquer natureza;
+V - as licita��es e as contrata��es realizadas pelo Poder ou �rg�o
+independente;
+VI - as notas fiscais eletr�nicas relativas �s compras p�blicas;
+VII - as informa��es sobre os servidores e os empregados p�blicos federais,
+bem como sobre os militares da Uni�o, inclu�dos nome e detalhamento dos
+v�nculos profissionais e de remunera��o;
+VIII - as viagens a servi�o custeadas pelo Poder ou �rg�o independente;
+IX - as san��es administrativas aplicadas a pessoas, a empresas, a
+organiza��es n�o governamentais e a servidores p�blicos;
+X - os curr�culos dos ocupantes de cargos de chefia e dire��o;
+XI - o invent�rio de bases de dados produzidos ou geridos no �mbito do �rg�o
+ou institui��o, bem como cat�logo de dados abertos dispon�veis;
+XII - as concess�es de recursos financeiros ou as ren�ncias de receitas para
+pessoas f�sicas ou jur�dicas, com vistas ao desenvolvimento pol�tico,
+econ�mico, social e cultural, inclu�da a divulga��o dos valores recebidos,
+da contrapartida e dos objetivos a serem alcan�ados por meio da utiliza��o
+desses recursos e, no caso das ren�ncias individualizadas, dos dados dos
+benefici�rios.
+� 3� (VETADO).
+Art. 30. Qualquer interessado poder� apresentar pedido de abertura de bases
+de dados da administra��o p�blica, que dever� conter os dados de contato do
+requerente e a especifica��o da base de dados requerida.
+� 1� O requerente poder� solicitar a preserva��o de sua identidade quando
+entender que sua identifica��o prejudicar� o princ�pio da impessoalidade,
+caso em que o canal respons�vel dever� resguardar os dados sem repass�-los
+ao setor, ao �rg�o ou � entidade respons�vel pela resposta.
+� 2� Os procedimentos e os prazos previstos para o processamento de pedidos
+de acesso � informa��o, nos termos da
+Lei n� 12.527, de 18 de novembro de
+2011 (Lei de Acesso � Informa��o), aplicam-se �s solicita��es de abertura de
+bases de dados da administra��o p�blica.
+� 3� Para a abertura de base de dados de interesse p�blico, as informa��es
+para identifica��o do requerente n�o podem conter exig�ncias que
+inviabilizem o exerc�cio de seu direito.
+� 4� S�o vedadas quaisquer exig�ncias relativas aos motivos determinantes
+da solicita��o de abertura de base de dados p�blicos.
+� 5� Os pedidos de abertura de base de dados p�blicos, bem como as
+respectivas respostas, dever�o compor base de dados aberta de livre
+consulta.
+� 6� Consideram-se automaticamente pass�veis de abertura as bases de dados
+que n�o contenham informa��es protegidas por lei.
+Art. 31. Compete a cada ente federado monitorar a aplica��o, o cumprimento
+dos prazos e os procedimentos para abertura dos dados sob seu controle.
+Art. 32. (VETADO).
+Art. 32. A exist�ncia de inconsist�ncias na base de dados
+n�o poder� obstar o atendimento da solicita��o de abertura.
+(Promulga��o partes
+vetadas)
+Art. 33. A solicita��o de abertura da base de dados ser� considerada
+atendida a partir da notifica��o ao requerente sobre a disponibiliza��o e a
+cataloga��o da base de dados para acesso p�blico no site oficial do �rg�o ou
+da entidade na internet.
+Art. 34. � direito do requerente obter o inteiro teor da decis�o negativa
+de abertura de base de dados.
+Par�grafo �nico. Eventual decis�o negativa � solicita��o de abertura de base
+de dados ou decis�o de prorroga��o de prazo, em raz�o de custos
+desproporcionais ou n�o previstos pelo �rg�o ou pela entidade da
+administra��o p�blica, dever� ser acompanhada da devida an�lise t�cnica que
+conclua pela inviabilidade or�ament�ria da solicita��o.
+Art. 35. (VETADO).
+Art. 35. No caso de indeferimento de abertura de base de
+dados, poder� o interessado interpor recurso contra a decis�o no prazo de 10
+(dez) dias, contado de sua ci�ncia.
+(Promulga��o partes
+vetadas)
+Par�grafo �nico.
+O recurso ser� dirigido � autoridade hierarquicamente superior � que exarou
+a decis�o impugnada, que dever� manifestar-se no prazo de 5 (cinco) dias.
+(Promulga��o partes
+vetadas)
+Art. 36. Os �rg�os gestores de dados poder�o disponibilizar em
+transpar�ncia ativa dados de pessoas f�sicas e jur�dicas para fins de
+pesquisa acad�mica e de monitoramento e de avalia��o de pol�ticas p�blicas,
+desde que anonimizados antes de sua disponibiliza��o os dados protegidos por
+sigilo ou com restri��o de acesso prevista, nos termos da Lei n� 12.527, de
+18 de novembro de 2011 (Lei de Acesso � Informa��o).
+Art. 37. Aplica-se subsidiariamente, no que couber, as disposi��es da
+Lei n� 9.784, de 29 de janeiro de 1999 , ao procedimento de que trata este
+Cap�tulo.
+Se��o II
+Da
+Interoperabilidade de Dados entre �rg�os P�blicos
+Art. 38. Os �rg�os e as entidades respons�veis pela presta��o digital de
+servi�os p�blicos detentores ou gestores de bases de dados, inclusive os
+controladores de dados pessoais, conforme estabelecido pela Lei n� 13.709,
+de 14 de agosto de 2018 (Lei Geral de Prote��o de Dados Pessoais), dever�o
+gerir suas ferramentas digitais, considerando:
+I - a interoperabilidade de informa��es e de dados sob gest�o dos �rg�os e
+das entidades referidos no art. 2� desta Lei, respeitados as restri��es
+legais, os requisitos de seguran�a da informa��o e das comunica��es, as
+limita��es tecnol�gicas e a rela��o custo-benef�cio da interoperabilidade;
+II - a otimiza��o dos custos de acesso a dados e o reaproveitamento, sempre
+que poss�vel, de recursos de infraestrutura de acesso a dados por m�ltiplos
+�rg�os e entidades;
+III - a prote��o de dados pessoais, observada a legisla��o vigente,
+especialmente a Lei n� 13.709, de 14 de agosto de 2018
+(Lei Geral de
+Prote��o de Dados Pessoais).
+Art. 39. Ser� institu�do mecanismo de interoperabilidade com a finalidade
+de:
+I - aprimorar a gest�o de pol�ticas p�blicas;
+II - aumentar a confiabilidade dos cadastros de cidad�os existentes na
+administra��o p�blica, por meio de mecanismos de manuten��o da integridade e
+da seguran�a da informa��o no tratamento das bases de dados, tornando-as
+devidamente qualificadas e consistentes;
+III - viabilizar a cria��o de meios unificados de identifica��o do cidad�o
+para a presta��o de servi�os p�blicos;
+IV - facilitar a interoperabilidade de dados entre os �rg�os de governo;
+V - realizar o tratamento de informa��es das bases de dados a partir do
+n�mero de inscri��o do cidad�o no CPF, conforme previsto no
+art. 11 da Lei n� 13.444, de 11 de maio de 2017.
+Par�grafo �nico. Aplicam-se aos dados pessoais tratados por meio de
+mecanismos de interoperabilidade as disposi��es da
+Lei n� 13.709, de 14 de
+agosto de 2018 (Lei Geral de Prote��o de Dados Pessoais).
+Art. 40. Os �rg�os abrangidos por esta Lei ser�o respons�veis pela
+publicidade de seus registros de refer�ncia e pelos mecanismos de
+interoperabilidade de que trata esta Se��o.
+� 1� As pessoas f�sicas e jur�dicas poder�o verificar a exatid�o, a
+corre��o e a completude de qualquer um dos seus dados contidos nos registros
+de refer�ncia, bem como monitorar o acesso a esses dados.
+� 2� Nova base de dados somente poder� ser criada quando forem esgotadas as
+possibilidades de utiliza��o dos registros de refer�ncia existentes.
+Art. 41. � de responsabilidade dos �rg�os e das entidades referidos no art.
+2� desta Lei os custos de adapta��o de seus sistemas e de suas bases de
+dados para a implementa��o da interoperabilidade.
+CAP�TULO V
+DO DOMIC�LIO ELETR�NICO
+Art. 42. Os �rg�os e as entidades referidos no art. 2� desta Lei, mediante
+op��o do usu�rio, poder�o realizar todas as comunica��es, as notifica��es e
+as intima��es por meio eletr�nico.
+� 1� O disposto no
+caput
+deste artigo n�o gera direito subjetivo � op��o pelo administrado caso os
+meios n�o estejam dispon�veis.
+� 2� O administrado poder�, a qualquer momento e independentemente de
+fundamenta��o, optar pelo fim das comunica��es, das notifica��es e das
+intima��es por meio eletr�nico.
+� 3� O ente p�blico poder� realizar as comunica��es, as notifica��es e as
+intima��es por meio de ferramenta mantida por outro ente p�blico.
+Art. 43. As ferramentas usadas para os atos de que trata o art. 42 desta
+Lei:
+I - dispor�o de meios que permitam comprovar a autoria das comunica��es, das
+notifica��es e das intima��es;
+II - ter�o meios de comprova��o de emiss�o e de recebimento, ainda que n�o
+de leitura, das comunica��es, das notifica��es e das intima��es;
+III - poder�o ser utilizadas mesmo que legisla��o especial preveja apenas as
+comunica��es, as notifica��es e as intima��es pessoais ou por via postal;
+IV - ser�o pass�veis de auditoria;
+V - conservar�o os dados de envio e de recebimento por, pelo menos, 5
+(cinco) anos.
+CAP�TULO VI
+DOS LABORAT�RIOS DE INOVA��O
+Art. 44. Os entes p�blicos poder�o instituir laborat�rios de inova��o,
+abertos � participa��o e � colabora��o da sociedade para o desenvolvimento e
+a experimenta��o de conceitos, de ferramentas e de m�todos inovadores para a
+gest�o p�blica, a presta��o de servi�os p�blicos, o tratamento de dados
+produzidos pelo poder p�blico e a participa��o do cidad�o no controle da
+administra��o p�blica.
+Art. 45. Os laborat�rios de inova��o ter�o como diretrizes:
+I - colabora��o interinstitucional e com a sociedade;
+II - promo��o e experimenta��o de tecnologias abertas e livres;
+III - uso de pr�ticas de desenvolvimento e prototipa��o de softwares e de
+m�todos �geis para formula��o e implementa��o de pol�ticas p�blicas;
+IV - foco na sociedade e no cidad�o;
+V - fomento � participa��o social e � transpar�ncia p�blica;
+VI - incentivo � inova��o;
+VII - apoio ao empreendedorismo inovador e fomento a ecossistema de inova��o
+tecnol�gica direcionado ao setor p�blico;
+VIII - apoio a pol�ticas p�blicas orientadas por dados e com base em
+evid�ncias, a fim de subsidiar a tomada de decis�o e de melhorar a gest�o
+p�blica;
+IX - est�mulo � participa��o de servidores, de estagi�rios e de
+colaboradores em suas atividades;
+X - difus�o de conhecimento no �mbito da administra��o p�blica.
+Art. 46. (VETADO).
+CAP�TULO VII
+DA GOVERNAN�A, DA GEST�O DE RISCOS, DO CONTROLE E DA AUDITORIA
+Art. 47. Caber� � autoridade competente dos �rg�os e das entidades
+referidos no art. 2� desta Lei, observados as normas e os procedimentos
+espec�ficos aplic�veis, implementar e manter mecanismos, inst�ncias e
+pr�ticas de governan�a, em conson�ncia com os princ�pios e as diretrizes
+estabelecidos nesta Lei.
+Par�grafo �nico. Os mecanismos, as inst�ncias e as pr�ticas de governan�a
+referidos no
+caput
+deste artigo incluir�o, no m�nimo:
+I - formas de acompanhamento de resultados;
+II - solu��es para a melhoria do desempenho das organiza��es;
+III - instrumentos de promo��o do processo decis�rio fundamentado em
+evid�ncias.
+Art. 48. Os �rg�os e as entidades a que se refere o art. 2� desta Lei
+dever�o estabelecer, manter, monitorar e aprimorar sistema de gest�o de
+riscos e de controle interno com vistas � identifica��o, � avalia��o, ao
+tratamento, ao monitoramento e � an�lise cr�tica de riscos da presta��o
+digital de servi�os p�blicos que possam impactar a consecu��o dos objetivos
+da organiza��o no cumprimento de sua miss�o institucional e na prote��o dos
+usu�rios, observados os seguintes princ�pios:
+I - integra��o da gest�o de riscos ao processo de planejamento estrat�gico e
+aos seus desdobramentos, �s atividades, aos processos de trabalho e aos
+projetos em todos os n�veis da organiza��o, relevantes para a execu��o da
+estrat�gia e o alcance dos objetivos institucionais;
+II - estabelecimento de controles internos proporcionais aos riscos, de modo
+a considerar suas causas, fontes, consequ�ncias e impactos, observada a
+rela��o custo-benef�cio;
+III - utiliza��o dos resultados da gest�o de riscos para apoio � melhoria
+cont�nua do desempenho e dos processos de governan�a, de gest�o de riscos e
+de controle;
+IV - prote��o �s liberdades civis e aos direitos fundamentais.
+Art. 49. A auditoria interna governamental dever� adicionar valor e
+melhorar as opera��es das organiza��es para o alcance de seus objetivos,
+mediante a abordagem sistem�tica e disciplinada para avaliar e melhorar a
+efic�cia dos processos de governan�a, de gest�o de riscos e de controle, por
+meio da:
+I - realiza��o de trabalhos de avalia��o e consultoria de forma
+independente, conforme os padr�es de auditoria e de �tica profissional
+reconhecidos internacionalmente;
+II - ado��o de abordagem baseada em risco para o planejamento de suas
+atividades e para a defini��o do escopo, da natureza, da �poca e da extens�o
+dos procedimentos de auditoria;
+III - promo��o da preven��o, da detec��o e da investiga��o de fraudes
+praticadas por agentes p�blicos ou privados na utiliza��o de recursos
+p�blicos federais.
+CAPÍTULO VIII
+DISPOSI��ES FINAIS
+Art. 50. O acesso e a conex�o para o uso de servi�os p�blicos poder�o ser
+garantidos total ou parcialmente pelo governo, com o objetivo de promover o
+acesso universal � presta��o digital dos servi�os p�blicos e a redu��o de
+custos aos usu�rios, nos termos da lei.
+Art. 51. O art. 3� da
+Lei n� 7.116, de 29 de agosto de 1983 , passa a
+vigorar com a seguinte reda��o:
+�Art. 3� .
+..............................................................................................................
+.............................................................................................................................
+g) assinatura do dirigente do �rg�o expedidor;
+h) n�mero de inscri��o no Cadastro de Pessoas F�sicas (CPF).
+� 1� A inclus�o do n�mero de inscri��o no CPF na Carteira de Identidade,
+conforme disposto na al�nea �h� do
+caput
+deste artigo, ocorrer� sempre que o �rg�o de identifica��o tiver acesso a
+documento comprobat�rio ou � base de dados administrada pela Secretaria
+Especial da Receita Federal do Brasil.
+� 2� A incorpora��o do n�mero de inscri��o no CPF � Carteira de Identidade
+ser� precedida de consulta e de valida��o com a base de dados administrada
+pela Secretaria Especial da Receita Federal do Brasil.
+� 3� Na hip�tese de o requerente da Carteira de Identidade n�o estar
+inscrito no CPF, o �rg�o de identifica��o realizar� a sua inscri��o, caso
+tenha autoriza��o da Secretaria Especial da Receita Federal do Brasil.� (NR)
+Art. 52. O art. 12 da
+Lei n� 12.527, de 18 de novembro de 2011 (Lei de
+Acesso � Informa��o) , passa vigorar com a seguinte reda��o:
+�Art. 12. O servi�o de busca e de fornecimento de informa��o � gratuito.
+� 1� O �rg�o ou a entidade poder� cobrar exclusivamente o valor necess�rio
+ao ressarcimento dos custos dos servi�os e dos materiais utilizados, quando
+o servi�o de busca e de fornecimento da informa��o exigir reprodu��o de
+documentos pelo �rg�o ou pela entidade p�blica consultada.
+� 2� Estar� isento de ressarcir os custos previstos no � 1� deste artigo
+aquele cuja situa��o econ�mica n�o lhe permita faz�-lo sem preju�zo do
+sustento pr�prio ou da fam�lia, declarada nos termos da
+Lei n� 7.115, de 29
+de agosto de 1983 .� (NR)
+Art. 53. O
+caput
+do art. 3� da Lei n� 12.682, de 9 de julho de 2012 , passa a vigorar com a
+seguinte reda��o:
+�Art. 3� O processo de digitaliza��o dever� ser realizado de forma a manter
+a integridade, a autenticidade e, se necess�rio, a confidencialidade do
+documento digital, com o emprego de assinatura eletr�nica.
+...............................................................................................................�
+(NR)
+Art. 54. A
+Lei n� 13.460, de 26 de junho de 2017 , passa a vigorar com as
+seguintes altera��es:
+�Art. 7� .
+.................................................................................................................
+.................................................................................................................................
+� 6� Compete a cada ente federado disponibilizar as informa��es dos
+servi�os prestados, conforme disposto nas suas Cartas de Servi�os ao
+Usu�rio, na Base Nacional de Servi�os P�blicos, mantida pelo Poder Executivo
+federal, em formato aberto e interoper�vel, nos termos do regulamento do
+Poder Executivo federal.� (NR)
+�Art. 10-A. Para fins de acesso a informa��es e servi�os, de exerc�cio de
+direitos e obriga��es ou de obten��o de benef�cios perante os �rg�os e as
+entidades federais, estaduais, distritais e municipais ou os servi�os
+p�blicos delegados, a apresenta��o de documento de identifica��o com f�
+p�blica em que conste o n�mero de inscri��o no Cadastro de Pessoas F�sicas (CPF)
+ser� suficiente para identifica��o do cidad�o, dispensada a apresenta��o de
+qualquer outro documento.
+� 1� Os cadastros, os formul�rios, os sistemas e outros instrumentos
+exigidos dos usu�rios para a presta��o de servi�o p�blico dever�o
+disponibilizar campo para registro do n�mero de inscri��o no CPF, de
+preenchimento obrigat�rio para cidad�os brasileiros e estrangeiros
+residentes no Brasil, que ser� suficiente para sua identifica��o, vedada a
+exig�ncia de apresenta��o de qualquer outro n�mero para esse fim.
+� 2� O n�mero de inscri��o no CPF poder� ser declarado pelo usu�rio do
+servi�o p�blico, desde que acompanhado de documento de identifica��o com f�
+p�blica, nos termos da lei.
+� 3� Ato de cada ente federativo ou Poder poder� dispor sobre casos
+excepcionais ao previsto no
+caput
+deste artigo.�
+Art. 55. Esta Lei entra em vigor ap�s decorridos:
+I - 90 (noventa) dias de sua publica��o oficial, para a Uni�o;
+II - 120 (cento e vinte) dias de sua publica��o oficial, para os Estados e o
+Distrito Federal;
+III - 180 (cento e oitenta) dias de sua publica��o oficial, para os
+Munic�pios.
+Bras�lia, 29 de
+mar�o de 2021; 200 o da Independ�ncia e 133 o
+da Rep�blica.
+JAIR MESSIAS
+BOLSONARO
+Andr� Luiz de Almeida
+Mendon�a
+Paulo Guedes
+Marcos C�sar Pontes
+Wagner de Campos
+Ros�rio
+Onyx Lorenzoni
+Este texto n�o substitui o publicado no DOU de
+30.3.2021 e
+republicado em 14.4.2021
+Presid�ncia da Rep�blica
+Secretaria-Geral
+Subchefia para
+Assuntos Jur�dicos
+LEI N� 14.129, DE
+29 DE MAR�O DE 2021
+Disp�e sobre
+princ�pios, regras e instrumentos para o Governo Digital e para o aumento da
+efici�ncia p�blica e altera a Lei n� 7.116, de 29 de agosto de 1983, a Lei
+n� 12.527, de 18 de novembro de 2011 (Lei de Acesso � Informa��o), a Lei n�
+12.682, de 9 de julho de 2012, e a Lei n� 13.460, de 26 de junho de 2017.
+O PRESIDENTE DA REP�BLICA
+Fa�o saber que o Congresso Nacional decreta e eu promulgo, nos termos do
+par�grafo 5 o do art. 66 da Constitui��o Federal, as
+seguintes partes vetadas da Lei n o 14.129, de 29 de mar�o
+de 2021:
+�Art.
+32. A exist�ncia de inconsist�ncias na base de dados n�o poder� obstar o
+atendimento da solicita��o de abertura.�
+�Art. 35. No
+caso de indeferimento de abertura de base de dados, poder� o interessado
+interpor recurso contra a decis�o no prazo de 10 (dez) dias, contado de sua
+ci�ncia.
+Par�grafo �nico.
+O recurso ser� dirigido � autoridade hierarquicamente superior � que exarou
+a decis�o impugnada, que dever� manifestar-se no prazo de 5 (cinco) dias.�
+Bras�lia, 10 de junho de 2021; 200 o da Independ�ncia e
+133 o da Rep�blica.
+JAIR MESSIAS BOLSONARO
+Este texto
+n�o substitui o publicado no DOU de 11.6.2021

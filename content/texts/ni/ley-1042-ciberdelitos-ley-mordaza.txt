@@ -1,0 +1,219 @@
+Ley Especial de Ciberdelitos
+Legislaci�n de Nicaragua
+Normas Jur�dicas
+...
+_Publicaci�n oficial Enlace Legislaci�n Relacionada
+Categor�a normativa: Leyes
+Materia: Justicia Penal
+LEY N�. 1042, LEY ESPECIAL DE CIBERDELITOS
+Aprobada el 27 de octubre de 2020
+Publicada en La Gaceta, Diario Oficial N�. 201 del 30 de octubre de 2020
+EL PRESIDENTE DE LA REP�BLICA DE NICARAGUA
+A sus habitantes, hace saber:
+Que,
+LA ASAMBLEA NACIONAL DE LA REP�BLICA DE NICARAGUA
+Ha ordenado lo siguiente:
+LA ASAMBLEA NACIONAL DE LA REP�BLICA DE NICARAGUA
+En uso de sus facultades,
+HA DICTADO
+La siguiente:
+LEY N �. 1042
+LEY ESPECIAL DE CIBERDELITOS
+Cap�tulo I
+Disposiciones Generales
+Art�culo 1 Objeto
+La presente Ley tiene por objeto la prevenci�n, investigaci�n, persecuci�n y sanci�n de los delitos cometidos por medio de las Tecnolog�as de la Informaci�n y la Comunicaci�n, en perjuicio de personas naturales o jur�dicas, as� como la protecci�n integral de los sistemas que utilicen dichas tecnolog�as, su contenido y cualquiera de sus componentes, en los t�rminos previstos en esta Ley.
+Art�culo 2 �mbito de aplicaci�n
+La presente Ley es de orden p�blico y se aplicar� a quienes cometan los delitos previstos en �sta, dentro o fuera del territorio nacional.
+Art�culo 3 Definiciones
+Para los efectos de la presente Ley se entender�:
+1. Acceso a sistemas de informaci�n: Es la entrada a dicho sistemas, incluyendo los accesos remotos.
+2. Acceso a la informaci�n contenida en un dispositivo que permita el almacenamiento de datos: Es la lectura, copia, extracci�n, modificaci�n o eliminaci�n de la informaci�n contenida en dicho dispositivo.
+3. Copia de datos: Es la reproducci�n total o parcial de la informaci�n digital.
+4. Ciberdelitos: Acciones u omisiones, t�picas, antijur�dicas, continuas o aisladas, de car�cter penal, cometidas en contra de personas naturales y/o jur�dicas, utilizando como m�todo, como medio o como fin, los datos, sistemas inform�ticos, Tecnolog�as de la Informaci�n y la Comunicaci�n y que tienen por objeto lesionar bienes jur�dicos personales, patrimoniales o inform�ticos de la v�ctima.
+5. Datos inform�ticos: Es cualquier representaci�n de hechos, informaci�n o conceptos en un formato digital o anal�gico, que puedan ser generados, almacenados, procesados o transmitidos a trav�s de las Tecnolog�as de la Informaci�n y la Comunicaci�n.
+6. Datos relativos al tr�fico: Todos los datos relativos a una comunicaci�n realizada a trav�s de cualquier medio tecnol�gico, generados por este �ltimo, que indiquen el origen, el destino, la ruta, la hora, la fecha y el tipo de servicio o protocolo utilizado, tama�o y la duraci�n de la comunicaci�n.
+7. Datos personales: Es la informaci�n privada concerniente a una persona, identificada o identificable, relativa a su nacionalidad, domicilio, patrimonio, direcci�n electr�nica, n�mero telef�nico u otra similar.
+8. Datos personales sensibles: Es toda informaci�n privada que revele el origen racial, �tnico, filiaci�n pol�tica, credo religioso, filos�fico o moral, sindical, relativo a su salud o vida sexual, antecedentes penales o faltas administrativas, econ�micos financieros; as� como informaci�n crediticia y financiera y cualquier otra informaci�n que pueda ser motivo de discriminaci�n.
+9. Dispositivo: Es cualquier mecanismo, instrumento, aparato, medio que se utiliza o puede ser utilizado para ejecutar cualquier funci�n de la Tecnolog�a de la Informaci�n y la Comunicaci�n.
+10. Dispositivos de almacenamiento de datos inform�ticos: Es cualquier medio a partir del cual la informaci�n es capaz de ser le�da, grabada, reproducida o transmitida con o sin la ayuda de cualquier otro medio id�neo.
+11. Entrega de datos y archivos inform�ticos: Se entiende la transferencia de informaciones, documentos o datos en formato electr�nico que obren en poder de particulares, entidades p�blicas o privadas.
+12. Identidad inform�tica: Informaci�n, datos o cualquier otra caracter�stica que individualice, identifique o distinga una persona de otra o a un usuario de otro usuario, dentro de un sistema inform�tico.
+13. Incautaci�n y dep�sito de sistemas inform�ticos o dispositivos de almacenamiento de datos: Se entiende su ocupaci�n f�sica y su aseguramiento por las autoridades competentes.
+14. Interceptar: Acci�n de apropiarse o interrumpir datos inform�ticos contenidos o transmitidos por medio de las Tecnolog�as de la Informaci�n y la Comunicaci�n antes de llegar a su destino.
+15. Interferir: Obstaculizar, perturbar u obstruir por medio de las Tecnolog�as de la Informaci�n y la Comunicaci�n los sistemas inform�ticos, p�blicos o privados.
+16. Intervenci�n de comunicaciones a trav�s de las Tecnolog�as de la Informaci�n y la Comunicaci�n: Se entiende la captaci�n, escucha o grabaci�n en tiempo real del contenido de dichas comunicaciones sin interrupci�n de las mismas, as� como de los datos de tr�fico.
+17. Pornograf�a infantil: Comprende cualquier representaci�n de la imagen o voz de un ni�o, ni�a o adolescente, realizando actividades sexuales o er�ticas, impl�citas o expl�citas, reales o simuladas, as� como la exposici�n de sus partes genitales, con fines sexuales, por cualquier medio sea directo, mec�nico, digital, audio visual, o con soporte inform�tico, electr�nico o de otro tipo.
+18. Persona con discapacidad necesitada de especial protecci�n: Aquella persona con discapacidad que tenga o no judicialmente modificada su capacidad de obrar, requiera de asistencia o apoyo para el ejercicio de su capacidad jur�dica y para la toma de decisiones respecto de su persona, de sus derechos o intereses a causa de sus limitaciones intelectuales o mentales de car�cter transitoria o permanente.
+19. Proveedor de servicios: Es la persona natural o jur�dica, p�blica o privada, que suministre a los usuarios servicios de comunicaci�n, seguridad inform�tica, procesamiento o almacenamiento de datos, a trav�s de las Tecnolog�as de la Informaci�n y la Comunicaci�n.
+20. Programa inform�tico: Es la herramienta o instrumento elaborado en lenguaje inform�tico que ejecuta una secuencia de procesos en un sistema inform�tico.
+21. Requerimiento de preservaci�n inmediata de datos que se hallan en poder de terceros: Se entiende la imposici�n a Personas Naturales o Jur�dicas del deber de conservaci�n �ntegra de la informaci�n digital que obre en su poder o sobre la que tenga facultades de disposici�n.
+22. Sellado, precinto y prohibici�n de uso de sistemas inform�ticos o dispositivos de almacenamiento de datos: Se entiende su bloqueo o la imposibilidad de su utilizaci�n conservando la integridad de su contenido.
+23. Sistema inform�tico: Todo dispositivo aislado, conectado o relacionado a otros dispositivos mediante enlaces de comunicaci�n o la tecnolog�a que en futuro la reemplace, cuya funci�n, o la de alguno de sus elementos, sea el tratamiento automatizado de datos en ejecuci�n de un programa inform�tico.
+24. Tarjeta inteligente: Cualquier dispositivo electr�nico que permite la ejecuci�n de cierta l�gica programada para el almacenamiento de informaci�n y/o datos, que se utiliza como instrumento de identificaci�n o de acceso a un sistema, para realizar gestiones electr�nicas al titular autorizado.
+25. Tecnolog�as de la Informaci�n y la Comunicaci�n: Conjunto de medios de comunicaci�n y las aplicaciones de informaci�n que permiten la captura, producci�n, reproducci�n, transmisi�n, almacenamiento, procesamiento, tratamiento, y presentaci�n de informaci�n, en forma de im�genes, voz, textos, c�digos o datos contenidos en se�ales de naturaleza ac�stica, �ptica o electromagn�tica, entre otros, por medio de protocolos de comunicaci�n, transmisi�n y recepci�n.
+Cap�tulo II
+Delitos Relacionados con la Integridad de los Sistemas Inform�ticos
+Art�culo 4 Acceso indebido a sistemas inform�ticos
+El que intencionalmente y sin autorizaci�n o excediendo la que se le hubiere concedido, acceda, intercepte o haga uso parcial o totalmente de un sistema inform�tico que utilice las Tecnolog�as de la Informaci�n y la Comunicaci�n, ser� sancionado con prisi�n de uno a tres a�os y doscientos a quinientos d�as multa.
+Art�culo 5 Acceso indebido a los programas o datos inform�ticos
+El que a sabiendas y con la intenci�n de usar cualquier dispositivo de la Tecnolog�a de la Informaci�n y la Comunicaci�n, accediera directa o indirectamente, parcial o totalmente a cualquier programa o a los datos almacenados en �l, con el prop�sito de apropiarse de ellos o cometer otro delito con �stos, ser� sancionado con prisi�n de dos a cuatro a�os y trescientos a quinientos d�as multa.
+Las penas para las conductas descritas en los Art�culos 4 y 5, se incrementar�n en un tercio en su l�mite inferior y superior, cuando se cometan con fines comerciales o en contra de:
+1. Oficinas p�blicas o bajo su tutela.
+2. Instituciones p�blicas, privadas o mixtas que prestan un servicio p�blico.
+3. Bancos, instituciones de micro finanzas, almacenes generales de dep�sitos, grupos financieros, compa��as de seguros y dem�s instituciones financieras y burs�tiles supervisadas y/o reguladas en Nicaragua.
+Art�culo 6 Interceptaci�n de comunicaciones y trasmisiones entre sistemas de las Tecnolog�as de la Informaci�n y la Comunicaci�n
+La persona que ileg�timamente intercepte cualquier tipo de comunicaci�n escrita que no le est� dirigida, o que utilizando las Tecnolog�as de la Informaci�n y la Comunicaci�n intercepte cualquier transmisi�n, hacia, desde o dentro de un sistema inform�tico o cualquier medio tecnol�gico que no est� disponible al p�blico; o las emisiones electromagn�ticas que est�n llevando datos de un sistema inform�tico, ser� sancionada con prisi�n de uno a tres a�os y doscientos a quinientos d�as multa.
+Art�culo 7 Captaci�n indebida de comunicaciones ajenas a trav�s de las Tecnolog�as de la Informaci�n y la Comunicaci�n
+Quien ileg�timamente, haciendo uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n, o de cualquier otro medio, grabe o capte las palabras o conversaciones ajenas, sean �stas video, im�genes, c�digos, audio o texto, no destinadas al p�blico, escuche o intervenga comunicaciones privadas que no le est�n dirigidas, ser� penado con prisi�n de uno a tres a�os y cien a trescientos d�as multa.
+Art�culo 8 Interferencia del sistema inform�tico o datos
+El que intencionalmente y por cualquier medio interfiera o altere el funcionamiento de un sistema inform�tico o los datos contenidos en �l, de forma temporal o permanente, ser� sancionado con prisi�n de tres a cinco a�os y doscientos a cuatrocientos d�as multa.
+Si la conducta anterior afectare a los sistemas inform�ticos del Estado, o aquellos destinados a la prestaci�n de servicios de salud, comunicaciones, financieros, energ�a, suministro de agua, medios de transporte, puertos y aeropuertos, seguridad ciudadana, sistema de seguridad social, educaci�n en cualquiera de sus subsistemas y defensa nacional u otros de servicio al p�blico, la sanci�n de prisi�n ser� de cuatro a seis a�os y trescientos a quinientos d�as multa.
+Art�culo 9 Alteraci�n, da�o a la integridad y disponibilidad de datos
+El que violando la seguridad de un sistema inform�tico destruya, altere, duplique, inutilice o da�e la informaci�n, datos o procesos, en cuanto a su integridad, disponibilidad y confidencialidad en cualquiera de sus estados de ingreso, procesamiento, transmisi�n o almacenamiento, ser� sancionado con prisi�n de cuatro a seis a�os y trescientos a quinientos d�as multa.
+Art�culo 10 Da�os a sistemas inform�ticos
+El que destruya, da�e, modifique, ejecute un programa o realice cualquier acto que altere el funcionamiento o inhabilite parcial o totalmente un sistema inform�tico que utilice las Tecnolog�as de la Informaci�n y la Comunicaci�n o cualquiera de los componentes f�sicos o l�gicos que lo integran, ser� sancionado con prisi�n de tres a cinco a�os y trescientos a quinientos d�as multa.
+Si el delito previsto en el p�rrafo anterior se cometiere por imprudencia ser� sancionado con doscientos a quinientos d�as multa.
+Si el delito previsto en el presente art�culo recayera en contra de cualquiera de los componentes de un sistema inform�tico que utilicen las Tecnolog�as de la Informaci�n y la Comunicaci�n, que est�n destinadas a la prestaci�n de servicios p�blicos o financieros, o que contengan datos personales, datos personales sensibles, informaci�n p�blica reservada, t�cnica o propia de personas naturales o jur�dicas, la sanci�n de prisi�n ser� de cuatro a seis a�os y trescientos a seiscientos d�as multa.
+Si la acci�n prevista en el p�rrafo anterior se cometiere por imprudencia ser� sancionado con trescientos a seiscientos d�as multa.
+Art�culo 11 Posesi�n de equipos o prestaci�n de servicios para vulnerar la seguridad inform�tica
+El que posea, produzca, facilite, adapte, importe, venda equipos, dispositivos, programas inform�ticos, contrase�as o c�digos de acceso con el prop�sito de vulnerar, eliminar ileg�timamente la seguridad de cualquier sistema inform�tico, ofrezca o preste servicios destinados a cumplir los mismos fines para cometer cualquiera de los delitos establecidos en la presente Ley, ser� sancionado con prisi�n de cuatro a seis a�os y trescientos a seiscientos d�as multa.
+Cap�tulo III
+De los Delitos Inform�ticos
+Art�culo 12 Fraude inform�tico
+El que por medio del uso indebido de las Tecnolog�as de la Informaci�n y la Comunicaci�n, vali�ndose de cualquier manipulaci�n de los sistemas inform�ticos o cualquiera de sus componentes, datos inform�ticos o informaci�n en ellos contenida, consiga insertar instrucciones falsas o fraudulentas que produzcan un resultado que permita obtener un provecho para s� o para un tercero en perjuicio ajeno, ser� sancionado con prisi�n de tres a seis a�os y trescientos a seiscientos d�as multa.
+Art�culo 13 Espionaje inform�tico
+Quien indebidamente obtenga datos personales sensibles o informaci�n p�blica reservada contenida en un sistema que utilice las Tecnolog�as de la Informaci�n y la Comunicaci�n o en cualquiera de sus componentes, ser� sancionado con prisi�n de cinco a ocho a�os y trescientos a seiscientos d�as multa.
+Si alguna de las conductas descritas anteriormente se cometieren con el fin de obtener beneficio para s� o para otro, se pusiere en peligro la seguridad soberana del Estado, la confiabilidad de la operaci�n de las instituciones afectadas o resultare alg�n da�o para las personas naturales o jur�dicas como consecuencia de la revelaci�n de la informaci�n p�blica clasificada como reservada de conformidad a la ley de la materia, la sanci�n ser� de seis a diez a�os de prisi�n y trescientos a seiscientos d�as multa.
+Art�culo 14 Violaci�n de la seguridad del sistema inform�tico
+La persona que sin poseer la autorizaci�n correspondiente transgreda la seguridad de un sistema inform�tico restringido o protegido, ser� sancionada con prisi�n de dos a cinco a�os y trescientos a seiscientos d�as multa.
+Igual sanci�n se impondr� a quien induzca a un tercero para que de forma involuntaria realice la conducta descrita en el p�rrafo anterior.
+Art�culo 15 Hurto por medios inform�ticos
+El que, por medio del uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n, se apodere de bienes o valores tangibles o intangibles de car�cter patrimonial, sustray�ndolos a su propietario, tenedor o poseedor, con el fin de obtener un provecho econ�mico para s� o para otro, siempre que el valor de lo hurtado sea mayor a la suma resultante de dos salarios m�nimos mensuales del sector industrial ser� sancionado con prisi�n de dos a cinco a�os y trescientos a seiscientos d�as multa.
+Cap�tulo IV
+Delitos Inform�ticos Relacionados con el Contenido de los Datos
+Art�culo 16 Manipulaci�n de registros
+Quien abusando de sus funciones de administraci�n de plataformas tecnol�gicas, p�blicas o privadas, deshabilite, altere, oculte, destruya, o inutilice en todo o en parte cualquier informaci�n, dato contenido en un registro de acceso o uso de los componentes de �stos, se le impondr� pena de cinco a ocho a�os de prisi�n y trescientos a seiscientos d�as multa.
+Si las conductas descritas anteriormente favorecieren la comisi�n de otro delito por un tercero, la pena se agravar� hasta en un tercio en su l�mite inferior y superior.
+Art�culo 17 Manipulaci�n fraudulenta de tarjetas inteligentes o instrumentos similares
+El que intencionalmente y sin la debida autorizaci�n por cualquier medio crea, capture, grabe, copie, altere, duplique, clone o elimine datos inform�ticos contenidos en una tarjeta inteligente o en cualquier instrumento destinado a los mismos fines; con el objeto de incorporar, modificar usuarios, cuentas, registros, consumos no reconocidos, se le impondr� pena de cinco a ocho a�os de prisi�n y trescientos a seiscientos d�as multa.
+Art�culo 18 Obtenci�n indebida de bienes o servicios por medio de tarjetas inteligentes o medios similares
+El que sin autorizaci�n, haciendo uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n, utilice una tarjeta inteligente ajena o instrumento destinado a los mismos fines, para la obtenci�n de cualquier bien o servicio o para proveer su pago sin erogar o asumir el compromiso de pago de la contraprestaci�n debida obtenida, se le impondr� pena de cinco a ocho a�os de prisi�n y trescientos a seiscientos d�as multa.
+Art�culo 19 Provisi�n indebida de bienes o servicios
+Quien a sabiendas que una tarjeta inteligente o instrumento destinado a los mismos fines, se encuentra vencido, revocado, se haya indebidamente obtenido, retenido, falsificado o alterado; provea a quien los presente de dinero, efectos, bienes o servicios, o cualquier otra cosa de valor econ�mico se le impondr� pena de cinco a ocho a�os de prisi�n y trescientos a seiscientos d�as multa.
+Art�culo 20 Violaci�n de la custodia judicial de datos
+Quien a sabiendas que un sistema inform�tico o cualquiera de sus componentes se encuentra bajo custodia judicial y haga uso de �stos, manipule sus registros o contenidos, violente los precintos o sellados, se le impondr� una pena de uno a cuatro a�os de prisi�n.
+Si la acci�n descrita en el p�rrafo anterior fuere realizada, facilitada o permitida por el encargado de la custodia judicial se le impondr� una pena de dos a cinco a�os de prisi�n.
+Art�culo 21 Falta a la confidencialidad
+Quien faltare a la confidencialidad sobre la informaci�n que conoci� en ocasi�n de su participaci�n en el proceso de investigaci�n, recolecci�n, interceptaci�n o intervenci�n de datos de un sistema inform�tico o de sus componentes, se le impondr� pena de cien a trescientos d�as multa.
+Art�culo 22 Suplantaci�n y apropiaci�n de identidad inform�tica
+El que suplantare o se apoderare de la identidad inform�tica de una persona natural o jur�dica por medio de las Tecnolog�as de la Informaci�n y la Comunicaci�n, se le impondr� pena de tres a cinco a�os de prisi�n y doscientos a quinientos d�as multa.
+Si con las conductas descritas en el p�rrafo anterior se da�a, extorsiona, defrauda, injuria o amenaza a otra persona para ocasionar perjuicio u obtener beneficios para s� mismo o para terceros, se le impondr� pena de cinco a ocho a�os de prisi�n y trescientos a seiscientos d�as multa.
+Art�culo 23 Divulgaci�n no autorizada
+El que sin autorizaci�n da a conocer un c�digo, contrase�a o cualquier otro medio de acceso a un programa, informaci�n o datos almacenados en un equipo o dispositivo tecnol�gico, con el fin de lucrarse a s� mismo, a un tercero o para cometer un delito, se le impondr� pena de cinco a ocho a�os de prisi�n y doscientos a quinientos d�as multa.
+Art�culo 24 Utilizaci�n de datos personales
+El que sin autorizaci�n utilice datos personales a trav�s del uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n, violando sistemas de confidencialidad y seguridad de datos, insertando o modificando los datos en perjuicio de un tercero, se le impondr� pena de cuatro a seis a�os de prisi�n y doscientos a quinientos d�as multa.
+La sanci�n aumentar� hasta en una tercera parte del l�mite superior de la pena prevista en el p�rrafo anterior a quien proporcione o revele a otro, informaci�n registrada en un archivo o en un banco de datos personales cuyo secreto estuviere obligado a preservar.
+Art�culo 25 Transferencia de informaci�n p�blica reservada
+El que sin autorizaci�n o excediendo la que se le hubiere concedido, transfiera informaci�n P�blica clasificada como reservada, de conformidad con la ley de la materia y que mediante el uso de esa informaci�n vulnere un sistema o datos inform�ticos o se pusiere en peligro la seguridad soberana del Estado, apoy�ndose en cualquier clase de las Tecnolog�as de la Informaci�n y la Comunicaci�n, se le impondr� pena de cinco a ocho a�os de prisi�n y doscientos a quinientos d�as multa.
+Art�culo 26 Revelaci�n indebida de datos o informaci�n de car�cter personal
+El que sin el consentimiento del titular de la informaci�n de car�cter privado y personal, revele, difunda o ceda en todo o en parte, dicha informaci�n o datos, sean �stos en im�genes, v�deo, texto, audio u otros, obtenidos por medio de las Tecnolog�as de la Informaci�n y la Comunicaci�n, se le impondr� pena de tres a seis a�os de prisi�n y doscientos a quinientos d�as multa.
+Si alguna de las conductas descritas en el p�rrafo anterior, se hubiese realizado con �nimo de lucro, facilitare la comisi�n de otro delito o se difunda material sexual expl�cito en perjuicio de un tercero, se le impondr� pena de cuatro a ocho a�os de prisi�n y doscientos a quinientos d�as multa.
+Se impondr� el l�mite m�ximo de la pena del p�rrafo anterior, aumentado hasta en una tercera parte, si alguna de las conductas descritas en el presente art�culo, recae sobre datos personales sensibles.
+Art�culo 27 Suplantaci�n inform�tica en actos de comercializaci�n
+El que sin autorizaci�n y a nombre de un tercero, mediante el uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n, venda o comercialice bienes o servicios, suplantando la identidad del productor, proveedor o distribuidor autorizado, se le impondr� pena de tres a cinco a�os de prisi�n y doscientos a quinientos d�as multa.
+La conducta descrita en el p�rrafo anterior se agravar� con pena de prisi�n de cuatro a seis a�os, cuando la venta o comercializaci�n se trate de medicamentos, suplementos o productos alimenticios, bebidas o cualquier producto de consumo humano.
+Art�culo 28 De las amenazas a trav�s de las Tecnolog�as de la Informaci�n y la Comunicaci�n
+Quien amenace a otro a trav�s del uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n con:
+1. Causar a �l, a su familia o a otras personas con las que est� relacionado, un mal que constituya delito y que por su naturaleza parezca veros�mil, se le impondr� pena de uno a tres a�os de prisi�n.
+2. Hacer imputaciones contra el honor, o el prestigio, violar o divulgar secretos, con perjuicio para �l, su familia, otras personas con la que est� relacionado, o entidad que representa o en que tenga inter�s, se le impondr� pena de dos a cuatro a�os de prisi�n.
+Si la amenaza se hiciera en nombre de entidades o grupos reales o supuestos, se impondr� pena de tres a cinco a�os de prisi�n.
+Si la amenaza de un mal que constituya delito fuese dirigida a atemorizar a los habitantes de una poblaci�n, grupo �tnico, cultural o religioso, colectivo social o a cualquier otro grupo de personas y tuvieran la capacidad necesaria para conseguirlo, se impondr� pena de cuatro a seis a�os de prisi�n.
+Art�culo 29 Provocaci�n, apolog�a e inducci�n a la comisi�n de delitos a trav�s de las Tecnolog�as de la Informaci�n y la Comunicaci�n
+Quien, haciendo uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n, incite, instigue, provoque o promueva la comisi�n de delitos, ensalce el crimen o enaltezca a su autor o part�cipes o se lo adjudique, se le impondr� pena de tres a cinco a�os de prisi�n y doscientos a quinientos d�as multa.
+Art�culo 30 Propagaci�n de noticias falsas a trav�s de las Tecnolog�as de la Informaci�n y la Comunicaci�n
+Quien, usando las Tecnolog�as de la Informaci�n y la Comunicaci�n, publique o difunda informaci�n falsa y/o tergiversada, que produzca alarma, temor, zozobra en la poblaci�n, o a un grupo o sector de ella a una persona o a su familia, se impondr� la pena de dos a cuatro a�os de prisi�n y trescientos a quinientos d�as multa.
+Si la publicaci�n o difusi�n de la informaci�n falsa y/o tergiversada, perjudica el honor, prestigio o reputaci�n de una persona o a su familia, se le impondr� una pena de uno a tres a�os de prisi�n y ciento cincuenta a trescientos cincuenta d�as multa.
+Si la publicaci�n o difusi�n de la informaci�n falsa y/o tergiversada, incita al odio y a la violencia, pone en peligro la estabilidad econ�mica, el orden p�blico, la salud p�blica o la seguridad soberana, se le impondr� pena de tres a cinco a�os de prisi�n y quinientos a ochocientos d�as multa.
+Cap�tulo V
+Delitos Inform�ticos Relacionados con la Libertad e Integridad Sexual
+Art�culo 31 Utilizaci�n de ni�as, ni�os, adolescentes o personas con discapacidad necesitada de especial protecci�n, en pornograf�a a trav�s del uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n
+Quien, por medio del uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n, induzca, facilite, promueva, utilice, abuse o explote con fines sexuales o er�ticos a ni�as, ni�os, adolescentes o personas con discapacidad necesitada de especial protecci�n, haci�ndola presenciar o participar en un comportamiento, espect�culo o acto sexual p�blico o privado, se le impondr� pena de cinco a ocho a�os de prisi�n y trescientos a seiscientos d�as multa.
+No se reconoce, en ninguno de los supuestos descritos en el p�rrafo anterior, valor al consentimiento de la v�ctima.
+Art�culo 32 Corrupci�n a personas menores de 16 a�os o personas con discapacidad necesitada de especial protecci�n a trav�s del uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n
+Toda persona mayor de 18 a�os que haga propuestas impl�citas o expl�citas a personas menores de 16 a�os o personas con discapacidad necesitada de especial protecci�n para sostener encuentros de car�cter sexual o er�tico, o para la producci�n de pornograf�a a trav�s del uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n para s� o para terceros, se le impondr� pena de uno a tres a�os de prisi�n.
+Art�culo 33 Acoso a trav�s del uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n
+Quien atormente, hostigue, humille, insulte, denigre u otro tipo de conducta que afecte la estabilidad psicol�gica o emocional, ponga en riesgo la vida o la integridad f�sica, por medio del uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n, se le impondr� pena de dos a cuatro a�os de prisi�n.
+Cuando la v�ctima sea ni�a, ni�o, adolescente o persona con discapacidad necesitada de especial protecci�n, se impondr� pena de cuatro a seis a�os de prisi�n.
+Art�culo 34 Acoso sexual a trav�s del uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n
+Cuando una persona mayor de edad, env�e mensajes, frases, fotograf�as, v�deos u otra acci�n inequ�voca de naturaleza o contenido sexual a otra persona sin su consentimiento a trav�s del uso de las Tecnolog�as de la Informaci�n y la Comunicaci�n se le impondr� pena de dos a cuatro a�os de prisi�n.
+Cuando la v�ctima sea menor de 16 a�os, con o sin su consentimiento o persona con discapacidad necesitada de especial protecci�n se le impondr� pena de cuatro a seis a�os de prisi�n.
+Art�culo 35 Condiciones agravantes comunes
+Los delitos referidos a los Art�culos 31, 32, 33 y 34 ser�n sancionados con la pena m�xima correspondiente, aumentada hasta en una tercera parte del m�ximo establecido de la pena y la inhabilitaci�n del ejercicio de su profesi�n durante el tiempo que dure la condena, si cualquiera de las acciones descritas fuera realizada por:
+1. Ascendientes, descendientes, hermanos, c�nyuges, conviviente y familiares hasta el cuarto grado de consanguinidad y segundo de afinidad;
+2. Autoridad, funcionarios y empleados p�blicos;
+3. La persona encargada de la tutela, protecci�n o vigilancia de la v�ctima; y
+4. Toda persona que prevali�ndose de la superioridad originada por relaciones de confianza, educativa, de trabajo o cualquier otra relaci�n.
+Cap�tulo VI
+Procedimiento, Medidas Cautelares y Procesales
+Art�culo 36 Investigaci�n, obtenci�n y preservaci�n de datos
+En la investigaci�n, obtenci�n y preservaci�n de los datos contenidos en un sistema de informaci�n o sus componentes, datos de tr�fico, conexi�n, acceso o cualquier otra informaci�n de utilidad, se aplicar� lo establecido en la presente Ley.
+Art�culo 37 Conservaci�n de datos
+La Polic�a Nacional o el Ministerio P�blico, en el �mbito de su competencia, actuar�n con la celeridad requerida para conservar los datos contenidos en un sistema de informaci�n o sus componentes, o los datos de tr�fico del sistema, principalmente cuando �stos sean vulnerables a su p�rdida o modificaci�n.
+Art�culo 38 Medidas de aseguramiento
+Sin perjuicio de cualesquiera otras medidas de aseguramiento que pudieran contribuir a la persecuci�n efectiva de los delitos comprendidos dentro del �mbito de aplicaci�n de esta Ley, se podr�n solicitar las siguientes medidas espec�ficas:
+1. La incautaci�n y dep�sito de sistemas inform�ticos o dispositivos de almacenamiento de datos.
+2. El sellado, precinto y prohibici�n de uso de sistemas inform�ticos o dispositivos de almacenamiento de datos.
+3. El requerimiento de preservaci�n inmediata de datos que se hallen en poder de terceros.
+4. La copia de datos.
+Art�culo 39 Solicitud de autorizaci�n judicial
+En la etapa de investigaci�n para la obtenci�n y conservaci�n de la informaci�n contenida en los sistemas inform�ticos o cualquiera de sus componentes, se requerir� autorizaci�n judicial por cualquier Juez de Distrito de lo Penal, a petici�n debidamente fundamentada por la Polic�a Nacional o el Ministerio P�blico. Una vez iniciado el proceso, cualquiera de las partes podr� solicitar la autorizaci�n al Juez de la causa.
+Para tal efecto, el Juez podr�:
+1. Ordenar a una persona natural o jur�dica la entrega inmediata de la informaci�n que se encuentre en un sistema de informaci�n o en cualquiera de sus componentes;
+2. Ordenar a una persona natural o jur�dica preservar y mantener la integridad de un sistema de informaci�n o de cualquiera de sus componentes, conservar los datos de tr�fico, conexi�n, acceso o cualquier otra informaci�n que se encuentre en su poder o bajo su control y que pueda ser de utilidad a la investigaci�n, por un per�odo de hasta noventa (90) d�as, pudiendo esta orden ser renovada una sola vez por el mismo plazo;
+3. Ordenar el acceso a dicho sistema de informaci�n o a cualquiera de sus componentes;
+4. Ordenar a un proveedor de servicios suministrar informaci�n de los datos relativos a un usuario que pueda tener en su posesi�n o control;
+5. Tomar en secuestro o asegurar un sistema de informaci�n o cualquiera de sus componentes, en todo o en parte;
+6. Realizar y retener copia del contenido del sistema de informaci�n o de cualquiera de sus componentes;
+7. Ordenar el mantenimiento de la integridad del contenido de un sistema de informaci�n o de cualquiera de sus componentes;
+8. Hacer inaccesible o remover el contenido de un sistema de informaci�n o de cualquiera de sus componentes, que haya sido accedido para la investigaci�n;
+9. Ordenar a la persona que tenga conocimiento acerca del funcionamiento de un sistema de informaci�n o de cualquiera de sus componentes o de las medidas de protecci�n de los datos en dicho sistema, a proveer la informaci�n necesaria para realizar las investigaciones correspondientes;
+10. Ordenar la extracci�n, recolecci�n o grabaci�n de los datos de un sistema de informaci�n o de cualquiera de sus componentes, a trav�s de la aplicaci�n de medidas tecnol�gicas;
+11. Ordenar al proveedor de servicios, recolectar, extraer o grabar los datos relativos a un usuario, as� como el tr�fico de datos en tiempo real, a trav�s de la aplicaci�n de medidas tecnol�gicas;
+12. Realizar la intervenci�n o interceptaci�n de las telecomunicaciones en tiempo real, seg�n el procedimiento establecido en el art�culo 62 de la Ley N�. 735, Ley de Prevenci�n, Investigaci�n y Persecuci�n del Crimen Organizado y de la Administraci�n de los Bienes Incautados, Decomisados y Abandonados, el cual ser� aplicable a los delitos contenidos en la presente Ley;
+13. Ordenar cualquier otra medida aplicable a un sistema de informaci�n o sus componentes para obtener los datos necesarios y asegurar la preservaci�n de los mismos.
+Si la autorizaci�n es decretada luego de celebrada la Audiencia Preliminar o la Inicial, seg�n se trate, el defensor deber� ser notificado y tendr� derecho a estar presente en la pr�ctica del acto.
+En casos de urgencia para realizar el acto de investigaci�n, se proceder� de conformidad al Art�culo 246 del C�digo Procesal Penal.
+Art�culo 40 Competencia Objetiva
+En los delitos relacionados en el Cap�tulo V "Delitos Inform�ticos relacionados con la Libertad e Integridad Sexual" de la presente Ley, cuando sean cometidas contra mujeres, ni�as, ni�os o adolescentes o personas con discapacidad necesitadas de especial protecci�n, ser�n competentes para conocer y resolver en primera instancia los Juzgados de Distritos especializados en violencia.
+Art�culo 41 Responsabilidad del custodio judicial de sistemas inform�ticos
+A quien se le haya confiado la preservaci�n del sistema inform�tico o de cualquiera de sus componentes, as� como de su contenido, conservar� la confidencialidad e integridad de los mismos, impidiendo que terceros, fuera de las autoridades competentes, tengan acceso y conocimiento de ellos.
+Asimismo, la persona encargada de la custodia no podr� hacer uso del sistema de informaci�n o de cualquiera de sus componentes en custodia para fines distintos a los concernientes al proceso investigativo.
+Art�culo 42 Confidencialidad del proceso investigativo
+Los que participen en el proceso de investigaci�n, recolecci�n, interceptaci�n, intervenci�n de datos de un sistema de informaci�n o de sus componentes, mantendr�n en confidencialidad toda la informaci�n que conociere sobre la ejecuci�n de los actos realizados por parte de la autoridad competente.
+Cap�tulo VII
+Cooperaci�n Internacional
+Art�culo 43 La extradici�n
+Para efectos de extradici�n relacionada a la comisi�n de los delitos tipificados en la presente Ley, a falta de Tratados o Convenios Internacionales de los cuales la Rep�blica de Nicaragua sea Estado parte, las condiciones, el procedimiento y los efectos de la extradici�n estar�n determinados por lo dispuesto en la Ley N�. 406, C�digo Procesal Penal, lo cual se aplicar� tambi�n a los aspectos que no hayan sido previstos por el Tratado o Convenio respectivo.
+Art�culo 44 De la asistencia legal mutua
+Las autoridades competentes de la Rep�blica de Nicaragua podr�n prestar o solicitar cooperaci�n internacional o asistencia legal mutua, en las investigaciones y procesos relacionados con la aplicaci�n de la presente Ley, de conformidad con los Convenios o Tratados Internacionales en que Nicaragua sea Estado parte.
+A falta de Convenio o Tratado Internacional, podr� prestarse o solicitarse asistencia legal mutua con base en el principio de reciprocidad establecido en el Derecho Internacional.
+Cap�tulo VIII
+Disposiciones Finales
+Art�culo 45 Supletoriedad
+Lo no previsto en esta Ley, se regular� por las disposiciones de la Ley N�. 641, C�digo Penal, Ley N�. 406, C�digo Procesal Penal de la Rep�blica de Nicaragua, Ley N�. 735, Ley de Prevenci�n, Investigaci�n y Persecuci�n del Crimen Organizado y de la Administraci�n de los Bienes Incautados, Decomisados y Abandonados; Decreto N�. 70-2010, Reglamento de la Ley N�. 735, Ley de Prevenci�n, Investigaci�n y Persecuci�n del Crimen Organizado y de la Administraci�n de los Bienes Incautados, Decomisados y Abandonados; Ley N�. 779, Ley Integral contra la Violencia hacia las Mujeres y de reforma a la Ley N�. 641 C�digo Penal; y Ley N�. 787, Ley de Protecci�n de Datos Personales, en todo aquello que sea aplicable para garantizar el cumplimiento efectivo de esta Ley.
+Art�culo 46 Emisi�n de normativa para la preservaci�n de datos inform�ticos
+El Instituto Nicarag�ense de Telecomunicaciones y Correos (TELCOR), emitir� una normativa para la preservaci�n de datos e informaciones por parte de los proveedores de servicios, en un plazo de 3 meses a partir de la publicaci�n de la presente Ley, en La Gaceta, Diario Oficial.
+Art�culo 47 Derogaciones
+Se derogan los Art�culos 192, 193, 194, 198, 245, 246 de la Ley N�. 641, C�digo Penal, publicada en La Gaceta, Diario Oficial N�. 83, 84, 85, 86 y 87 del 5, 6, 7, 8 y 9 de mayo de 2008.
+Art�culo 48 Publicaci�n y vigencia
+La presente Ley, entrar� en vigencia 60 d�as despu�s de su publicaci�n en La Gaceta, Diario Oficial.
+Dado en la ciudad de Managua, en el sal�n de Sesiones de la Asamblea Nacional a los veintisiete d�as del mes de octubre del a�o dos mil veinte. MSP. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+Por tanto. T�ngase como Ley de la Rep�blica. Publ�quese y Ejec�tese. Managua, el d�a veintiocho de octubre del a�o dos mil veinte. Daniel Ortega Saavedra, Presidente de la Rep�blica de Nicaragua.
+Observaci�n: La Ley N�. 1042, Ley Especial de Ciberdelitos, se encuentra incorporada en el Anexo I, Registro de Normas Vigentes de la Ley del Digesto Jur�dico Nicarag�ense de la Materia de Justicia Penal.
+Asamblea Nacional de la Rep�blica de Nicaragua
+Complejo Legislativo "Carlos N��ez T�llez"
+Avenida Peatonal General Augusto C. Sandino
+Edificio Gral. Benjam�n Zeled�n, 7mo. Piso
+Tel�fono Directo: 2276-8460. Ext.: 281
+Enviar sus comentarios a: Direcci�n de Informaci�n Legislativa

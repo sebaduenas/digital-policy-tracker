@@ -1,0 +1,2551 @@
+D10222
+Presid�ncia da Rep�blica
+Secretaria-Geral
+Subchefia para Assuntos Jur�dicos
+DECRETO N� 10.222, DE 5 DE FEVEREIRO DE 2020
+Revogado pelo
+Decreto n� 12.573, de 2025
+Texto para impress�o
+Aprova a
+Estrat�gia Nacional de Seguran�a Cibern�tica.
+O PRESIDENTE DA REP�BLICA ,
+no uso da atribui��o que lhe confere o art. 84, caput , inciso VI,
+al�nea �a�, da Constitui��o,
+DECRETA :
+Art. 1� Fica aprovada a Estrat�gia Nacional de Seguran�a
+Cibern�tica - E-Ciber, conforme o disposto no
+inciso I do art. 6� do Decreto
+n� 9.637, de 26 de dezembro de 2018 , na forma do Anexo a este Decreto.
+Par�grafo �nico. A E-Ciber ser� publicada no s�tio eletr�nico do Gabinete
+de Seguran�a Institucional da Presid�ncia da Rep�blica.
+Art. 2� Caber� aos �rg�os e entidades da administra��o
+p�blica federal, no �mbito de suas compet�ncias, as gest�es que possibilitem
+� implementa��o das a��es estrat�gicas previstas na E-Ciber.
+Art. 3� Este Decreto entra em vigor na data de sua
+publica��o.
+Bras�lia, 5 de fevereiro de 2020; 199� da Independ�ncia e 132� da
+Rep�blica.
+JAIR MESSIAS BOLSONARO
+Augusto Heleno Ribeiro Pereira
+Este texto
+n�o substitui o publicado no DOU de 6.2.2020.
+ANEXO
+ESTRAT�GIA NACIONAL DE SEGURAN�A CIBERN�TICA
+A presente Estrat�gia Nacional de Seguran�a Cibern�tica - E-Ciber �
+orienta��o manifesta do Governo federal � sociedade brasileira sobre as
+principais a��es por ele pretendidas, em termos nacionais e internacionais,
+na �rea da seguran�a cibern�tica e ter� validade no quadri�nio 2020-2023.
+1. CONSIDERA��ES PRELIMINARES
+1.1. SUM�RIO EXECUTIVO
+Em 2015, o Governo federal deu publicidade � Estrat�gia de
+Seguran�a da Informa��o e Comunica��es e de Seguran�a Cibern�tica da
+Administra��o P�blica Federal 1 , com validade at� 2018, como um
+importante instrumento de apoio ao planejamento dos �rg�os e entidades do
+Governo, cujo objetivo foi de melhorar a seguran�a e a resili�ncia das
+infraestruturas cr�ticas e dos servi�os p�blicos nacionais. Esse documento
+impulsionou as discuss�es sobre o tema no �mbito da Administra��o P�blica
+federal, e tamb�m em outros setores da sociedade.
+O
+Decreto n� 9.637, de 26 de dezembro de 2018 2 , que instituiu a
+Pol�tica Nacional de Seguran�a da Informa��o e
+disp�e
+sobre princ�pios, objetivos, instrumentos, atribui��es e compet�ncias de
+seguran�a da informa��o para os �rg�os e entidades da Administra��o P�blica
+federal, sob o prisma da governan�a, previu, para
+sua implementa��o, a elabora��o da Estrat�gia Nacional de Seguran�a da
+Informa��o e dos Planos Nacionais. Em virtude da abrang�ncia da Seguran�a da
+Informa��o
+o
+Decreto
+n� 9.637, de 2018 , indicou, em seu art. 6� ,
+que a Estrat�gia Nacional de Seguran�a da Informa��o
+seja
+constru�da em m�dulos, a fim de contemplar a seguran�a cibern�tica, a defesa
+cibern�tica, a seguran�a das infraestruturas cr�ticas, a seguran�a da
+informa��o sigilosa e a prote��o contra vazamento de dados.
+Em cumprimento ao estabelecido na Pol�tica Nacional de Seguran�a da
+Informa��o, e considerada a Seguran�a Cibern�tica - Seg Ciber como a �rea
+mais cr�tica e atual a ser abordada, o Gabinete de Seguran�a Institucional
+da Presid�ncia da Rep�blica elegeu, em janeiro de 2019, a Estrat�giaNacional
+de Seguran�a Cibern�tica - E-Ciber como primeiro m�dulo da Estrat�gia
+Nacional de Seguran�a da Informa��o, a seu cargo, a ser elaborada.
+Desse modo, por coordena��o do Gabinete de Seguran�a Institucional
+da Presid�ncia da Rep�blica, e com participa��o de mais de quarenta �rg�os e
+entidades do Governo, al�m de institui��es privadas e do setor acad�mico,
+que foram distribu�dos em tr�s subgrupos de trabalho, foi elaborada a
+presente E-Ciber, ap�s trinta e uma reuni�es e sete meses de estudos e de
+debates.
+Por
+meio de metodologia bottom up , e com base nas conclus�es dos
+subgrupos de trabalho, em avalia��o comparativa - benchmarking sobre
+estrat�gias correlatas de outros pa�ses, e em cumprimento ao contido na
+Pol�tica Nacional de Seguran�a da Informa��o ,
+chegou-se ao diagn�stico da seguran�a cibern�tica global e do Brasil. Em
+seguida, foram estabelecidos os objetivos estrat�gicos nacionais, e as
+respectivas a��es estrat�gicas, segundo sete eixos de atua��o, que
+demonstram � sociedade brasileira os pontos considerados relevantes para o
+Pa�s na �rea da seguran�a cibern�tica.
+1.2. INTRODU��O
+A revolu��o digital est� transformando profundamente nossa sociedade. Nas
+�ltimas duas d�cadas, bilh�es de pessoas se beneficiaram do crescimento
+exponencial do acesso � internet, da r�pida ado��o dos recursos de
+tecnologia da informa��o e comunica��o, e das oportunidades econ�micas e
+sociais oriundas do ambiente digital.
+Os r�pidos
+avan�os na �rea de tecnologia da informa��o e comunica��o resultaram no uso
+intenso do espa�o cibern�tico para as mais variadas atividades, inclusive a
+oferta de servi�os por parte do Governo federal, em coer�ncia com as
+tend�ncias globais. Entretanto, novas e crescentes amea�as cibern�ticas
+surgem na mesma propor��o, e colocam em risco a administra��o p�blica e a
+sociedade.
+Desse
+modo, proteger o espa�o cibern�tico requer vis�o atenta e lideran�a para
+gerenciar mudan�as cont�nuas, pol�ticas, tecnol�gicas, educacionais, legais
+e internacionais. Nesse sentido, o Governo, a ind�stria, a academia e a
+sociedade em geral devem incentivar a inova��o tecnol�gica e a ado��o de
+tecnologias de ponta, e manter constante aten��o � seguran�a nacional, �
+economia e � livre express�o.
+Em
+n�vel superior aos debates sobre a seguran�a no espa�o cibern�tico est� a
+Seguran�a da Informa��o, �rea sist�mica, e diretamente relacionada �
+prote��o de um conjunto de informa��es e ao valor que estas possuem para um
+indiv�duo ou para uma organiza��o. Desse modo, segundo o
+art. 2� do Decreto
+n� 9.637, de 2018 , a Seguran�a da Informa��o abrange a seguran�a
+cibern�tica, a defesa cibern�tica, a seguran�a f�sica e a prote��o de dados
+organizacionais, e tem como princ�pios fundamentais a confidencialidade, a
+integridade, a disponibilidade e a autenticidade.
+Entende-se que os recursos tecnol�gicos empregados na seguran�a sist�mica
+devem apoiar pol�ticas que garantam os princ�pios fundamentais da
+autenticidade e da integridade dos dados, e prover mecanismos para prote��o
+da legitimidade contra sua altera��o ou elimina��o n�o autorizada. Do mesmo
+modo, as informa��es coletadas, processadas e armazenadas na infraestrutura
+de
+tecnologia da informa��o e comunica��o
+devem ser acess�veis apenas a pessoas,
+a processos ou a entidades autorizadas, a fim de garantir a
+confidencialidade das informa��es. Adicionalmente, os recursos de
+tecnologia da informa��o e comunica��o
+devem
+prover disponibilidade permanente e apoiar de forma cont�nua todos os
+acessos autorizados.
+A E-Ciber,
+al�m de preencher importante lacuna no arcabou�o normativo nacional sobre
+seguran�a cibern�tica, estabelece a��es com vistas a modificar, de forma
+cooperativa e em �mbito nacional, caracter�sticas que refletem o
+posicionamento de institui��es e de indiv�duos sobre o assunto. Em primeiro
+lugar, verifica-se que h� boas iniciativas gerenciais nessa �rea,
+entretanto, mostram-se fragmentadas e pontuais, o que dificulta a
+converg�ncia de esfor�os no setor. Em segundo, nota-se a falta de um
+alinhamento normativo, estrat�gico e operacional, o que frequentemente gera
+retrabalho ou resulta na constitui��o de for�as-tarefas para a��es pontuais,
+que prejudicam a absor��o de li��es aprendidas e colocam em risco a efic�cia
+prolongada dessas a��es. Em terceiro, v�-se a exist�ncia de diferentes
+n�veis de maturidade da sociedade em seguran�a cibern�tica, o que resulta em
+percep��es variadas sobre a real import�ncia do tema.
+Ap�s a presente parte introdut�ria, discorre-se sobre a metodologia adotada
+nas linhas de an�lise, que tiveram por base o estudo de dois conjuntos de
+eixos tem�ticos: os de prote��o e seguran�a, e os denominados
+transformadores. Aborda-se, ainda, como os subgrupos de trabalho se
+estruturaram, de acordo com os temas propostos.
+Na
+Parte I, apresenta-se um diagn�stico da seguran�a cibern�tica, baseado no
+cen�rio internacional e o no cen�rio nacional, com especial aten��o �s
+amea�as, aos ataques e �s vulnerabilidades cibern�ticas, e ao modo como
+esses elementos impactam a sociedade e as institui��es.
+Os eixos tem�ticos s�o apresentados separadamente na Parte II. Primeiro,
+abordam-se os relativos � prote��o e � seguran�a: governan�a da Seguran�a
+cibern�tica nacional, o universo conectado e seguro e a prote��o
+estrat�gica. Depois, analisam-se aqueles que, por sua natureza, s�o chamados
+de Transformadores: a dimens�o normativa; a pesquisa, desenvolvimento e
+inova��o; a dimens�o internacional e parcerias estrat�gicas; e a educa��o.
+Em
+virtude da an�lise diagn�stica e do estudo dos eixos tem�ticos,
+apresentam-se os objetivos estrat�gicos e, em seguida, as a��es
+estrat�gicas, elaboradas com o fim de atingir os objetivos especificados.
+Por meio dessas a��es, para cuja realiza��o recomenda-se a elabora��o de
+planos, apontam-se valiosas dire��es, capazes de conduzir a sociedade e as
+institui��es a um ambiente pr�spero, resiliente e seguro, como condi��o
+ideal para o crescimento econ�mico e para o desenvolvimento social.
+Por fim, � importante ressaltar que no decorrer da apresenta��o da
+Estrat�gia s�o mencionados diversos termos relacionados n�o apenas �
+seguran�a cibern�tica, mas tamb�m ao grande campo de estudos da seguran�a da
+informa��o. Com o prop�sito de esclarec�-los, caso necess�rio, recomenda-se
+a consulta ao Gloss�rio de Seguran�a da Informa��o, publicado pela Portaria
+n� 93, de 26 de setembro de 2019, do Gabinete de Seguran�a Institucional da
+Presid�ncia da Rep�blica 3 .
+Em decorr�ncia da presente Estrat�gia, recomenda-se que cada �rg�o
+do setor p�blico e do setor privado, planeje e realize gest�es no sentido de
+colocar em pr�tica os aspectos que lhe cabem e que est�o estabelecidos nas
+a��es estrat�gicas, em um esfor�o conjunto e dedicado, em prol do pleno
+alcance dos objetivos estrat�gicos do Pa�s, no cr�tico e atual tema da
+seguran�a cibern�tica nacional.
+1.3. METODOLOGIA ADOTADA
+A Estrat�gia �
+resultado de trabalho realizado por representantes de �rg�os p�blicos, de
+entidades privadas, e do meio acad�mico, que participaram de uma s�rie de
+reuni�es t�cnicas, para debater v�rios aspectos da seguran�a cibern�tica. Ao
+considerar a vasta gama de assuntos, esses representantes foram divididos em
+tr�s subgrupos, constitu�dos do seguinte modo:
+- Subgrupo 1 -
+governan�a cibern�tica, dimens�o normativa, pesquisa, desenvolvimento e
+inova��o, educa��o, dimens�o internacional e parcerias estrat�gicas.;
+- Subgrupo 2 -
+confian�a digital e preven��o e mitiga��o de amea�as cibern�ticas; e
+- Subgrupo 3 -
+prote��o estrat�gica - prote��o do Governo e prote��o �s infraestruturas.
+Foram realizadas trinta e uma reuni�es dos subgrupos, com a
+participa��o efetiva de todos esses representantes de not�vel saber, o que
+possibilitou o interc�mbio de conhecimentos e de ideias, e que contribu�ram
+de forma decisiva para estabelecer a concep��o estrat�gica.
+Com o fim de estruturar os debates, o trabalho seguiu quatro
+etapas:
+Primeira - Diagn�stico - levantamento e mapeamento de iniciativas,
+atores relacionados e a��es existentes;
+Segunda - Debates dos subgrupos - reuni�es semanais com os atores
+relacionados e convidados de not�rio saber;
+Terceira - Consulta p�blica - disponibiliza��o do documento na
+internet para contribui��es e ampla participa��o da sociedade em geral; e
+Quarta - Aprova��o e publica��o - finaliza��o da proposta e
+submiss�o � aprova��o presidencial.
+Adicionalmente, foi considerado o modelo de maturidade da
+capacidade em seguran�a cibern�tica 4 , que define cinco
+dimens�es:
+- pol�tica e estrat�gia de seguran�a cibern�tica;
+- cultura cibern�tica e de sociedade;
+- educa��o, de treinamento e de habilidades em seguran�a cibern�tica;
+- marcos legais e regulat�rios; e
+- padr�es, organiza��es e tecnologias.
+Essas
+dimens�es, por sua transversalidade, abrangem as extensas �reas que devem
+ser consideradas no aumento da capacidade em seguran�a cibern�tica. Ao
+considerar as cinco dimens�es do modelo, chegou-se � estrutura de sete eixos
+de atua��o da Estrat�gia, anteriormente citados, que mant�m rela��o direta
+com o modelo de maturidade da capacidade em seguran�a cibern�tica.
+Os eixos
+tem�ticos da E-Ciber foram considerados de forma transversal, e podem ser
+descritos como:
+- Eixos de
+Prote��o e Seguran�a:
+- governan�a
+da seguran�a cibern�tica nacional;
+- universo
+conectado e seguro: preven��o e mitiga��o de amea�as cibern�ticas; e
+- prote��o
+estrat�gica; e
+- Eixos
+Transformadores:
+- dimens�o
+normativa;
+- dimens�o
+internacional e parcerias estrat�gicas;
+- pesquisa,
+desenvolvimento e inova��o; e
+- educa��o.
+A metodologia acima descrita permitiu o levantamento de informa��es
+relevantes, que resultaram numa concep��o estrat�gica nacional sist�mica.
+As conclus�es finais desse trabalho resultaram numa primeira vers�o
+da E-Ciber, que foi disponibilizada para participa��o da sociedade em forma
+de consulta p�blica, lan�ada via internet em 10 de setembro de 2019,
+disponibilizada por vinte por dias consecutivos e acessada por quarenta e um
+participantes. Desse total, houve a participa��o de trinta e um indiv�duos e
+de dez organiza��es p�blicas e privadas que enviaram cento e sessenta e seis
+contribui��es. Ap�s an�lise de todas as contribui��es recebidas, chegou-se �
+presente vers�o aprovada pelo Excelent�ssimo Senhor Presidente da
+Rep�blica.
+1.4. CONCEP��O ESTRAT�GICA
+Da an�lise dos Eixos Tem�ticos constantes na Parte II, chegou-se �
+presente concep��o, que resulta da intera��o entre os mencionados eixos, a
+vis�o, e os objetivos estrat�gicos, em uma abordagem que culminou nas a��es
+estrat�gicas nacionais.
+2. A ESTRAT�GIA NACIONAL DE SEGURAN�A CIBERN�TICA
+2.1. VIS�O PARA O BRASIL
+Tornar-se pa�s de excel�ncia em seguran�a cibern�tica.
+2.2. OBJETIVOS ESTRAT�GICOS
+No intuito de atender � vis�o proposta, na concep��o dos objetivos
+estrat�gicos foram considerados os par�metros estabelecidos na Pol�tica
+Nacional de Seguran�a da Informa��o: o est�gio de maturidade e as
+necessidades do Pa�s em seguran�a cibern�tica e os aspectos relativos ao
+ecossistema digital, no �mbito nacional e internacional.
+Desse modo, estes objetivos estrat�gicos visam a
+nortear as a��es estrat�gicas do Pa�s em seguran�a cibern�tica, e
+representam macrodiretrizes basilares para que o setor p�blico, o setor
+produtivo e a sociedade possam usufruir de um espa�o cibern�tico resiliente,
+confi�vel, inclusivo e seguro. S�o os objetivos estrat�gicos:
+1. Tornar o Brasil mais pr�spero e confi�vel no ambiente digital;
+2. Aumentar a resili�ncia brasileira �s amea�as cibern�ticas; e
+3. Fortalecer a atua��o brasileira em seguran�a cibern�tica no
+cen�rio internacional.
+2.3. A��ES ESTRAT�GICAS
+Em virtude dos aspectos abordados na Parte I - Diagn�stico, e das
+considera��es realizadas sobre a situa��o da seguran�a cibern�tica nacional
+na Parte II - An�lise dos Eixos Tem�ticos, estabeleceram-se dez a��es
+estrat�gicas.
+Enfatiza-se ser absolutamente fundamental que cada �rg�o do setor
+p�blico e do setor privado identifique, planeje e execute as a��es de sua
+compet�ncia, para que o Pa�s torne realidade os rumos materializados por
+cada a��o estrat�gica.
+2.3.1.Fortalecer as a��es de governan�a cibern�tica
+Fortalecer as a��es de governan�a em seguran�a cibern�tica, por parte do
+setor p�blico e do setor privado, que contemplem iniciativas relacionadas �
+gest�o de pessoas, ao atendimento aos requisitos de seguran�a cibern�tica e
+� gest�o dos ativos de informa��o. Dentre as a��es que podem ser adotadas
+nesse sentido, mencionam-se:
+- realizar f�runs de governan�a;
+- criar controles para o tratamento de informa��es com restri��o de
+acesso;
+- estabelecer requisitos m�nimos de seguran�a cibern�tica nas
+contrata��es pelos �rg�os p�blicos;
+- implantar programas e projetos sobre governan�a cibern�tica;
+- adotar, al�m dos normativos de governan�a emitidos pelo Gabinete de
+Seguran�a Institucional da Presid�ncia da Rep�blica, normas, padr�es e
+modelos de governan�a reconhecidos mundialmente;
+- adotar, a ind�stria, padr�es internacionais no desenvolvimento de novos
+produtos desde sua concep��o( privacy/security by design and default );
+- recomendar a ado��o de solu��es nacionais de criptografia, observada, para
+tanto, a legisla��o espec�fica;
+- intensificar o combate � pirataria de software ;
+- adotar solu��es de seguran�a cibern�tica que abordem iniciativas
+integradoras;
+- designar o gestor de seguran�a da informa��o;
+- recomendar a certifica��o em seguran�a cibern�tica, conforme padr�es
+internacionais; e
+- ampliar o uso do certificado digital.
+2.3.2.
+Estabelecer um modelo centralizado de governan�a no �mbito nacional
+Estabelecer um modelo centralizado de governan�a para o Pa�s, por meio da
+cria��o de um sistema nacional de seguran�a cibern�tica, com as seguintes
+atribui��es:
+- promover a coordena��o dos diversos atores relacionados com a seguran�a
+cibern�tica, al�m da esfera federal;
+- promover a an�lise conjunta dos desafios enfrentados no combate aos crimes
+cibern�ticos;
+- auxiliar na formula��o de pol�ticas p�blicas;
+- criar um conselho nacional de seguran�a cibern�tica;
+- criar grupos de debate sobre seguran�a cibern�tica, em diferentes setores,
+sob coordena��o do Gabinete de Seguran�a Institucional da Presid�ncia da
+Rep�blica, para fomentar discuss�es sobre o tema, por meio de mecanismos
+informais de participa��o;
+- estabelecer rotina de verifica��es de conformidade em seguran�a
+cibern�tica, internamente, nos �rg�os p�blicos e nas entidades privadas; e
+- permitir a converg�ncia dos esfor�os e de iniciativas, e atuar de forma
+complementar para receber den�ncias, apurar incidentes e promover a
+conscientiza��o e a educa��o da sociedade quanto ao tema. Para viabilizar a
+sua implementa��o, ficar� a cargo do Gabinete de Seguran�a Institucional da
+Presid�ncia da Rep�blica a coordena��o da seguran�a cibern�tica em �mbito
+nacional, que possibilite a atua��o de modo amplo, cooperativo,
+participativo, e alinhado com as a��es de defesa cibern�tica, a cargo do
+Minist�rio da Defesa.
+2.3.3. Promover ambiente participativo, colaborativo, confi�vel e
+seguro, entre setor p�blico, setor privado e sociedade
+Promover um ambiente participativo, colaborativo e seguro, entre as
+organiza��es p�blicas, as institui��es privadas, a academia e a sociedade,
+por meio do acompanhamento cont�nuo e proativo das amea�as e dos ataques
+cibern�ticos, com o objetivo de:
+- estimular o compartilhamento de informa��es sobre incidentes e
+vulnerabilidades cibern�ticas;
+- realizar exerc�cios cibern�ticos com participa��o de m�ltiplos atores;
+- estabelecer mecanismos que permitam a intera��o e o compartilhamento de
+informa��es em diferentes n�veis;
+- fortalecer o Centro de Tratamento e Resposta a Incidentes Cibern�ticos de
+Governo - CTIR Gov e mant�-lo atualizado em pessoal e material;
+- ressaltar o papel dos Centros de Tratamento e Resposta a Incidentes
+Cibern�ticos - CSIRTs nacionais;
+- aperfei�oar a infraestrutura nacional de investiga��o de crimes
+cibern�ticos;
+- incentivar a cria��o e a atua��o de equipe de tratamento e resposta aos
+incidentes cibern�ticos - ETIRs, com �nfase no uso de tecnologias
+emergentes;
+- emitir alertas e recomenda��es; e
+- estimular o uso de recursos criptogr�ficos, no �mbito da sociedade em
+geral, para comunica��o de assuntos considerados sens�veis.
+2.3.4. Elevar o n�vel de
+prote��o do Governo
+Elevar o n�vel de prote��o do Governo, por meio de a��es no campo
+cibern�tico, a exemplo de:
+- incluir requisitos de seguran�a cibern�tica nas contrata��es estabelecidas
+pelos �rg�os e entidades do Governo;
+- aperfei�oar e incentivar o uso dos dispositivos de comunica��o segura do
+Governo;
+- aperfei�oar e manter atualizados os sistemas informacionais, as
+infraestruturas e os sistemas de comunica��o dos �rg�os p�blicos, em rela��o
+aos requisitos de seguran�a cibern�tica;
+- recomendar que os �rg�os p�blicos possuam c�pias de seguran�a atualizadas
+e segregadas de forma autom�tica em local protegido;
+- elaborar requisitos espec�ficos de seguran�a cibern�tica relativos ao uso
+de endpoints nas organiza��es p�blicas, aqui entendidos, em suma,
+como equipamentos finais conectados a um terminal de alguma rede ou a algum
+sistema de comunica��o;
+- incluir, nas pol�ticas de seguran�a cibern�tica, requisitos relativos �
+gest�o da cadeia de suprimentos;
+- incluir requisitos de seguran�a cibern�tica nos processos de
+desestatiza��o, no que envolver servi�os essenciais; e
+- monitorar a implementa��o dos requisitos m�nimos de seguran�a cibern�tica
+pelos fornecedores que integram a cadeia de suprimentos.
+2.3.5. Elevar
+o n�vel de prote��o das Infraestruturas Cr�ticas Nacionais
+Proporcionar �s infraestruturas cr�ticas, maior resili�ncia que possibilite
+a cont�nua presta��o de servi�os essenciais, por meio das seguintes a��es:
+- promover a intera��o entre as ag�ncias reguladoras de
+infraestruturas cr�ticas para tratar de temas relativos � seguran�a
+cibern�tica;
+- estimular a ado��o de a��es de seguran�a cibern�tica pelas
+infraestruturas cr�ticas;
+- incentivar que essas organiza��es implementem pol�ticas de
+seguran�a cibern�tica, que contemplem, dentre outros aspectos, m�tricas,
+mecanismos de avalia��o, e de revis�o peri�dica;
+incentivar a constitui��o de ETIRs;
+- est�mular que as infraestruturas cr�ticas notifiquem o CTIR Gov
+dos incidentes cibern�ticos; e
+- incentivar a participa��o das infraestruturas cr�ticas em
+exerc�cios cibern�ticos.
+2.3.6. Aprimorar o arcabou�o legal sobre seguran�a cibern�tica
+Para aprimorar o arcabou�o legal sobre seguran�a cibern�tica, revisar e
+atualizar os normativos existentes, abordar novas tem�ticas e elaborar novos
+instrumentos. Nesse sentido, podem ser adotadas as seguintes a��es como:
+- identificar e abordar temas ausentes na legisla��ovigente;
+- realizar esfor�os no sentido de incluir, no
+Decreto-Lei n� 2.848,
+de 7 de dezembro de 1940 - C�digo Penal , novas tipifica��es de crimes
+cibern�ticos;
+- elaborar normativos sobre tecnologias emergentes;
+- criar pol�ticas de incentivo para contrata��o de m�o de obra
+especializada em seguran�a cibern�tica;
+- definir requisitos de seguran�a cibern�tica nos programas de
+trabalho remoto; e
+- elaborar, sob coordena��o do Gabinete de Seguran�a Institucional
+da Presid�ncia da Rep�blica, um anteprojeto de lei sobre seguran�a
+cibern�tica, com diretrizes que ir�o proporcionar alinhamento
+macroestrat�gico ao setor e contribuir de forma decisiva para elevar a
+seguran�a das organiza��es e dos cidad�os.
+2.3.7. Incentivar a concep��o de solu��es inovadoras em seguran�a
+cibern�tica
+Buscar o alinhamento entre os projetos acad�micos e as necessidades da �rea
+produtiva, de modo a incentivar a pesquisa e o desenvolvimento de solu��es
+em seguran�a cibern�tica, que tragam a necess�ria inova��o aos produtos
+nacionais nessa �rea cr�tica, atual e imprescind�vel. Dentre as a��es a
+serem consideradas, pode-se mencionar:
+- propor a inclus�o da seguran�a cibern�tica nos programas de
+fomento � pesquisa;
+- incentivar a cria��o de centros de pesquisa e desenvolvimento em
+seguran�a cibern�tica no �mbito do Poder Executivo federal e no setor
+privado;
+- viabilizar investimentos em pesquisas, por meio dos fundos
+p�blicos e privados;
+- criar programas de incentivo ao desenvolvimento de solu��es de
+seguran�a cibern�tica;
+- estimular a cria��o de startups na �rea de seguran�a
+cibern�tica;
+- estimular o desenvolvimento e a inova��o de solu��es de seguran�a
+cibern�tica nas tecnologias emergentes;
+- incentivar a ado��o de padr�es globais de tecnologia, que
+permitir� a interoperabilidade em escala internacional;
+- incentivar o desenvolvimento de compet�ncias e de solu��es em
+criptografia;
+- estimular o prosseguimento das pesquisas sobre o uso de
+intelig�ncia espectral; e
+- estabelecer requisitos m�nimos de seguran�a cibern�tica que
+assegurem o uso pleno, respons�vel e seguro da tecnologia de quinta gera��o
+de conex�o m�vel - 5G.
+2.3.8. Ampliar a
+coopera��o internacional do Brasil em Seguran�a cibern�tica
+Ampliar a coopera��o do Brasil, em seguran�a cibern�tica, com o maior n�mero
+poss�vel de pa�ses, de forma transparente, e refor�ar a posi��o do Pa�s na
+constante busca pela paz e pela seguran�a internacional, conforme a tradi��o
+da diplomacia nacional baseada nos princ�pios estabelecidos no art. 4� da
+Constitui��o. Para viabilizar esse intento, podem ser adotadas as
+seguintes medidas:
+- estimular a coopera��o internacional em seguran�a cibern�tica;
+- incentivar as discuss�es sobre seguran�a cibern�tica nos
+organismos, nos f�runs e nos grupos internacionais dos quais o Brasil �
+membro;
+- ampliar o relacionamento internacional com os pa�ses da Am�rica
+Latina;
+- promover eventos e exerc�cios internacionais sobre seguran�a
+cibern�tica;
+- participar de eventos internacionais de interesse para o Pa�s;
+- ampliar os acordos de coopera��o em seguran�a cibern�tica;
+- ampliar o uso de mecanismos internacionais de combate aos crimes
+cibern�ticos;
+- estimular a participa��o do Pa�s em iniciativas futuras de
+estrutura��o normativa, como as relativas � cria��o de padr�es de seguran�a
+em tecnologias emergentes, e
+- identificar, estimular e aproveitar novas oportunidades
+comerciais em seguran�a cibern�tica.
+2.3.9. Ampliar a parceria,
+em seguran�a cibern�tica, entre setor p�blico, setor privado, academia e
+sociedade
+Ampliar parcerias, entre os diversos setores da sociedade, com
+vistas a elevar, de modo geral, o n�vel de seguran�a cibern�tica.
+Visualiza-se a efetiva coopera��o do setor produtivo com a academia, por
+meio de recursos financeiros e materiais, e conforme apresentadas suas
+necessidades, investir na forma��o de universit�rios. Dentre as a��es
+poss�veis, destacam-se:
+- ampliar a coopera��o entre Governo, academia e iniciativa privada para
+promover a implementa��o da E-Ciber;
+- manter um ambiente colaborativo que permita o estudo e a ampla
+utiliza��o das tecnologias emergentes;
+- estabelecer parcerias para incentivar o setor privado a investir
+em medidas de seguran�a cibern�tica;
+- incentivar a realiza��o de reuni�es com atores destacados em
+seguran�a cibern�tica;
+- estimular a institui��o, caso necess�rio, de grupos de trabalho e
+de f�runs sobre seguran�a cibern�tica;
+- incentivar a cria��o de mecanismos de compartilhamento de
+informa��es sobre riscos cibern�ticos; e
+- realizar parcerias entre a Uni�o, os Estados, o Distrito Federal,
+os Munic�pios, o Minist�rio P�blico e a academia, para a implanta��o de
+programas, projetos e a��es em seguran�a cibern�tica, que alcancem a toda a
+sociedade.
+2.3.10. Elevar
+o n�vel de maturidade da sociedade em seguran�a cibern�tica
+Elevar o n�vel de maturidade em seguran�a cibern�tica da sociedade,
+com o fim de ensejar a compreens�o das amea�as e dos riscos no espa�o
+cibern�tico, e possibilitar �s pessoas o uso adequado e oportuno de
+procedimentos e de ferramentas em prol da utiliza��o segura do ambiente
+digital. Nesse sentido, identificam-se como iniciativas:
+- incentivar os �rg�os p�blicos e empresas privadas para que
+realizem campanhas de conscientiza��o internas;
+- realizar a��es de conscientiza��o da popula��o;
+- criar pol�ticas p�blicas que promovam a conscientiza��o da
+sociedade sobre seguran�a cibern�tica;
+- propor a inclus�o da seguran�a cibern�tica, por interm�dio de
+suas compet�ncias b�sicas, e do uso �tico da informa��o na educa��o b�sica -
+educa��o infantil, ensino fundamental e ensino m�dio;
+- estimular a cria��o de cursos de n�vel superior em seguran�a
+cibern�tica;
+- propor a cria��o de programas de incentivo para gradua��o e
+p�s-gradua��o no Brasil e no exterior em seguran�a cibern�tica;
+- fomentar a pesquisa e o desenvolvimento em seguran�a cibern�tica;
+- criar programas de capacita��o continuada para profissionais do
+setor p�blico e do setor privado;
+- incentivar a forma��o de profissionais para atuar no combate aos
+crimes cibern�ticos;
+- realizar eventos de capacita��o em seguran�a cibern�tica;
+- incentivo � participa��o em f�runs e eventos nacionais e
+internacionais em seguran�a cibern�tica;
+- aperfei�oar mecanismos de integra��o, de colabora��o e de
+incentivos entre universidades, institutos, centros de pesquisa e setor
+privado em rela��o � seguran�a cibern�tica;
+- incentivar exerc�cios de simula��o em seguran�a cibern�tica; e
+- promover a gest�o de conhecimento de seguran�a cibern�tica, em
+articula��o com os principais atores da �rea, a fim de otimizar a
+identifica��o, a sele��o e o emprego de talentos.
+PARTE I
+DIAGN�STICO
+Em
+2018, mais da metade da popula��o mundial utilizou a internet (quatro
+bilh�es e cem milh�es de usu�rios, o que representa cinquenta e quatro por
+cento da popula��o mundial), sendo noventa e tr�s por cento dos acessos a
+redes sociais realizados via dispositivos m�veis 5 . De acordo com
+estimativa do portal statista.com, haver� mais de trinta bilh�es de
+dispositivos de internet das coisas (IoT, do ingl�s Internet of
+Things ) conectados em 2020.
+Esse cen�rio de progressiva conectividade, em que milhares de
+equipamentos t�m acesso simult�neo a redes de dados e � internet, oferece
+aos usu�rios grande variedade de servi�os online , e proporcionam ao
+cidad�o conforto e comodidade na vida di�ria.
+Entretanto, ao tempo em que o crescimento dessa conectividade
+resulta em benef�cios aos usu�rios, tamb�m traz, consigo, vasta gama de
+vulnerabilidades cibern�ticas, que ensejam amea�as e ataques que podem
+causar preju�zos de toda ordem, com diferentes n�veis de impacto para
+pessoas e para institui��es.
+Em termos financeiros, considerando ataques cibern�ticos,
+estimam-se, por ano, perdas globais de US$ 600.000.000.000,00 (seiscentos
+bilh�es de d�lares) 6 . O Relat�rio de 2019 do Fundo Monet�rio
+Internacional destacou que, em todas as economias, a diretriz � a
+implementa��o de a��es que fortale�am a resili�ncia, ao tempo em que elege,
+como necess�ria, a busca por maior coopera��o multilateral para gerenciar os
+riscos em seguran�a cibern�tica 7 .
+A digitaliza��o quase total dos modelos de neg�cios tornou a
+economia global mais eficiente e din�mica, e tamb�m mais vulner�vel a
+ataques cibern�ticos. A variedade e a complexidade das amea�as colocam em
+risco a imprescind�vel confian�a no mundo digital, fator chave para as
+atividades online . Esse cen�rio leva a crescentes investimentos
+conjuntos entre Governos e setores produtivos. Em consequ�ncia, estima-se
+que, em 2020, o mercado de seguran�a cibern�tica mundial seja avaliado em
+US$ 151.000.000.000,00 (cento e cinquenta e um bilh�es de d�lares) 8 .
+A t�tulo de compara��o, v�-se que, atualmente, o mercado brasileiro de
+seguran�a cibern�tica movimenta perto de US$ 2.000.000.000,00 (dois bilh�es
+de d�lares) por ano com a venda de softwares , hardwares e
+servi�os 9 .
+Destaca-se, a seguir, o caso brasileiro. O relat�rio sobre o ranking
+de
+tecnologia da
+informa��o e comunica��o da Organiza��o das Na��es Unidas - ONU analisa o
+�ndice de desenvolvimento mundial em tecnologias da informa��o e sua
+aplica��o nos avan�os da internet. Estuda, ainda, como as modernas
+tecnologias ir�o permitir inova��es e transformar �de modo fundamental�
+neg�cios, Governos e sociedades. No ranking regional das Am�ricas, o
+Brasil est� apenas em d�cimo lugar, atr�s de pa�ses como Barbados, Bahamas,
+Argentina e Chile. Segundo o relat�rio, no entanto, o Brasil � um dos
+maiores mercados de telecomunica��es da regi�o. A expectativa � que a
+qualidade e a cobertura dos servi�os melhorem �significativamente� nos
+pr�ximos anos 10 .
+O risco para a economia brasileira, gerado pela intrus�o em computadores e
+pela dissemina��o de c�digos maliciosos praticados pelo crime organizado j�
+� uma realidade, conforme se v� pelos dados a seguir, referentes �
+conectividade do Governo, do setor privado e dos cidad�os, aos �ndices
+globais e aos crimes cibern�ticos (11) :
+- O Brasil
+ocupa o 66� lugar no ranking da Organiza��o das Na��es Unidas - ONU
+de tecnologia da informa��o e comunica��o 1 ;
+- Apenas 11% dos �rg�os federais t�m bom n�vel em governan�a de TI 2 ;
+- O Brasil ocupa o 70� lugar no Global Security Index , da UIT 3 ;
+- 74,9% dos
+domic�lios (116 milh�es de pessoas) com acesso � internet 4 ;
+- 98% das
+empresas utilizam a internet 5 ;
+- 100% dos
+�rg�os federais e estaduais utilizam a internet 6 ;
+- Em 2017,
+foram setenta milh�es e quatrocentas mil v�timas de crimes cibern�ticos 7 ;
+- Em 2018, 89%
+dos executivos foram v�timas de fraudes cibern�ticas 8 ;
+- As quest�es
+de seguran�a desestimulam o com�rcio eletr�nico 9 ;
+- Em 2017, os
+crimes cibern�ticos resultaram em US$ 22.500.000.000,00 (vinte e dois
+bilh�es e quinhentos milh�es de d�lares) de preju�zo 10 ; e
+- O Brasil � o
+2� com maior preju�zo com ataques cibern�ticos 11 .
+Segundo o Relat�rio da � Internet Organised Crime Threat Assessment
+- IOCTA� 12 , de 2018, d a
+Ag�ncia da Uni�o Europeia para a Coopera��o Policial - Europol, �a falta de
+legisla��o adequada sobre crimes cibern�ticos fez com que o Brasil fosse o
+alvo n�mero um e a principal fonte de ataques online na Am�rica
+Latina; 54% dos ataques cibern�ticos reportados no Brasil supostamente s�o
+origin�rios de dentro do pa�s�. O documento prossegue afirmando que, �de
+modo semelhante aos EUA, o Brasil � um dos principais hospedeiros de sites
+de phishing , com alguns relatos colocando o Brasil como uma das dez
+maiores fontes mundiais de ataques cibern�ticos�.
+Verifica-se, ainda, que o n�mero de ataques cibern�ticos
+praticamente dobrou no Brasil em 2018 em rela��o a 2017. Segundo informa��es
+do laborat�rio especializado em seguran�a cibern�tica da PSafe 13 ,
+foram detectados cento e vinte milh�es e setecentos mil ataques no primeiro
+semestre de 2018. Esse n�mero representa um crescimento de 95,9% em rela��o
+ao mesmo per�odo do ano anterior. Nos �ltimos tr�s meses de 2018, foram
+registrados sessenta e tr�s milh�es e oitocentos mil links
+maliciosos, um aumento de 12% em rela��o ao in�cio daquele ano, sendo
+campe�es de golpes os links de aplicativos de mensagens como
+WhatsApp. Ao todo, 57,4% dos ataques foram realizados por meio de
+phishing , enquanto que, em segundo, ficaram os golpes com publicidade
+suspeita, que somaram 19,2% dos casos.
+A pesquisa Cyber Review 2019 da consultoria JLT 14 ,
+realizada com 200 empresas brasileiras de m�dio e de grande portes, apontou
+que 55,4% dessas empresas s�o totalmente dependentes do uso de tecnologia em
+suas atividades e que outras 35% podem ter paraliza��es severas diante de um
+problema relacionado � tecnologia. Outros dados relevantes da pesquisa s�o
+destacados a seguir:
+- 80% dos entrevistados avaliaram que um incidente cibern�tico
+causaria um impacto operacional com reflexos em toda a empresa;
+- 29% j� avaliaram financeiramente o que esse impacto resultaria �s
+suas organiza��es;
+- 34% das empresas que responderam � pesquisa relataram ter sofrido
+algum tipo de incidente cibern�tico nos �ltimos doze meses;
+- 29% das empresas que sofreram ataques tiveram impactos
+operacionais;
+- 27,8% tiveram altos custos de reconstru��o sist�mica; e
+- 4% sofreram impactos de reputa��o frente aos clientes.
+Os
+dados dessa pesquisa demonstram que as empresas brasileiras, principalmente
+aquelas consideradas como infraestruturas cr�ticas ,
+precisam considerar a seguran�a cibern�tica como a��o priorit�ria de
+investimentos, elaborar planos de gest�o de riscos e de tratamento e
+resposta a incidentes, assim como planejar or�amento adequado para combater
+os incidentes de seguran�a. Em mais da metade das empresas ouvidas no
+levantamento da Tempest/EZ-Security 15 , o or�amento anual
+de seguran�a da informa��o representa at� 2% do faturamento anual. Em 34,5%
+dessas empresas, esse percentual n�o ultrapassa 1%, de acordo com a mesma
+pesquisa.
+Um
+ataque cibern�tico de grande envergadura, caso n�o seja adequadamente
+tratado, pode afetar profundamente a reputa��o da organiza��o, ocasionar
+perda de receitas, levar a preju�zos operacionais com a paraliza��o dos
+servi�os, resultar em perda de informa��es e ainda levar � aplica��o de
+san��es legais e administrativas.
+Dessa forma, � importante que as organiza��es, p�blicas ou
+privadas, estabele�am pol�ticas e procedimentos de seguran�a
+cibern�tica que sejam periodicamente revisados, atendam � evolu��o
+tecnol�gica, ao aperfei�oamento de processos e � necessidade de capacita��o
+cont�nua e estruturada para todos os colaboradores, por meio de programas de
+capacita��o e de treinamento. De acordo com a pesquisa JLT CyberView
+2019, em 2017, 35% das organiza��es mencionaram n�o possuir um plano de
+conting�ncia em seguran�a cibern�tica; em 2019, 44,2% afirmaram que, al�m de
+n�o possu�rem um plano de conting�ncia, tamb�m n�o previram, em seus
+or�amentos, o atendimento a uma poss�vel crise.
+Na �ltima d�cada, n�o somente no Brasil, mas em v�rios pa�ses,
+verificou-se um aumento significativo na quantidade de servi�os prestados ao
+cidad�o por meio da internet. Dentre os diversos servi�os destacam-se: o
+cadastramentos, a obten��o de certid�es negativas, o pagamento de tributos,
+a segunda via de documentos e consultas, os quais s�o prestados em
+plataformas online no �mbito federal, no estadual e no municipal.
+Iniciativas como a Pol�tica de Governan�a Digital -
+Decreto n�
+8.638, de 15 de janeiro de 2016 , a recente Estrat�gia Brasileira para a
+Transforma��o Digital - E-Digital -
+Decreto n� 9.319, de 21 de mar�o de 2018 16
+e a governan�a no compartilhamento de dados -
+Decreto n� 10.046, de 9
+de outubro de 2019 , evidenciam o forte processo de digitaliza��o do Governo
+federal e os par�metros que o embasam ao longo de sua implanta��o.
+Acrescenta-se que essas iniciativas, com �nfase na mudan�a tecnol�gica,
+significam, para o sistema financeiro, a ado��o dos processos denominados
+4D: a democratiza��o, a digitaliza��o, a desburocratiza��o e a
+desmonetiza��o 17 , que ir�o favorecer o conceito de Open
+Insurance 18 , no qual, em rela��o ao mercado financeiro, os
+dados banc�rios v�o passar a pertencer aos clientes e n�o �s institui��es
+financeiras.
+Em virtude desse processo, e em conson�ncia com iniciativas mais
+avan�adas j� adotadas, por exemplo, pelos pa�ses da Uni�o Europeia,
+consubstanciadas em relat�rios como o eGovernment Benchmark
+2018 19 , ressalta-se a import�ncia de instrumentos normativos
+adequados � realidade brasileira que, de fato, contribuam para a prote��o
+dos sistemas e de redes governamentais, uma vez que os servi�os apoiados
+nesses recursos n�o podem sofrer interrup��es, vazamento de dados ou serem
+alvos de outras a��es danosas.
+Em ataques cibern�ticos recentes, grupos de hackers t�m
+considerado sistemas de governo como alvos compensadores, no intuito de
+provocar diferentes impactos, como: o potencial dano � imagem do Governo
+perante seu p�blico interno e perante a comunidade internacional, o
+descr�dito da popula��o nos servi�os p�blicos, a desconfian�a de
+investidores internacionais na capacidade da administra��o p�blica em
+proteger seus pr�prios sistemas, a desconfian�a nos processos eleitorais, e
+o descontentamento da popula��o com rela��o � administra��o p�blica.
+Al�m da
+prote��o do pr�prio Governo, outro ponto cr�tico refere-se � prote��o
+cibern�tica das empresas representantes das
+infraestruturas cr�ticas .
+A t�tulo de compreens�o, podemos conceitu�-las como as instala��es, servi�os
+e bens que, se forem interrompidos ou destru�dos, provocar�o s�rio impacto
+social, econ�mico, pol�tico, internacional ou � seguran�a nacional. Essas
+empresas precisam ter uma abordagem consistente e evolutiva em seguran�a
+cibern�tica para identificar e avaliar vulnerabilidades, e gerenciar o risco
+de amea�as, ao observar , por exemplo, as cinco fun��es previstas na
+estrutura de seguran�a cibern�tica do National Institute of Standards and
+Technology - NIST, que s�o: Identificar, Proteger, Detectar, Responder e
+Restaurar 20 .
+Avalia-se que os principais tipos de amea�as contra essas
+organiza��es s�o ataques de phishing , nega��o de servi�o em larga
+escala, vazamentos de informa��es privadas, espionagem e terrorismo
+cibern�ticos e a interrup��o de servi�os.
+A necessidade de prote��o dessas empresas est� crescendo em
+relev�ncia. � medida que as infraestruturas de informa��o e de comunica��o
+se tornam globalmente interligadas, tornam-se alvo de malwares ,
+hackers , hacktivistas e de opera��es estatais adversas. Al�m
+disso, a interconectividade global de algumas infraestruturas cr�ticas
+significa que uma parte vulner�vel pode se tornar o elo mais fraco e,
+portanto, um risco para outras na��es.
+PARTE II
+AN�LISE DOS EIXOS TEM�TICOS
+Com vistas a auxiliar a formula��o das a��es estrat�gicas, foram
+analisados, primeiramente, os eixos tem�ticos que pertencem � �rea de
+prote��o e de seguran�a, que s�o: a governan�a da seguran�a cibern�tica
+nacional, o universo subconectado e seguro, a preven��o e mitiga��o de
+amea�as cibern�ticas, e a prote��o estrat�gica. Em seguida, foram abordados
+os eixos tem�ticos transformadores, assim denominados pelo potencial que
+possuem em modificar, de forma decisiva e estruturante, os temas por eles
+influenciados. S�o eles: a dimens�o normativa, a pesquisa, desenvolvimento e
+inova��o, a dimens�o internacional e parcerias estrat�gicas, e a educa��o.
+1. EIXOS TEM�TICOS: PROTE��O E SEGURAN�A
+1.1. Governan�a da
+Seguran�a Cibern�tica Nacional
+Na
+an�lise deste eixo tem�tico, ser�o abordados aspectos relativos a mecanismos
+e medidas pass�veis de ado��o em prol da governan�a cibern�tica, a
+metodologia de gest�o de riscos, a confian�a e seguran�a no uso do
+certificado digital, a implanta��o de modelo centralizado de coordena��o da
+seguran�a cibern�tica nacional, e o monitoramento do cen�rio cibern�tico.
+Com rela��o aos mecanismos e �s medidas em prol da governan�a
+cibern�tica, analisa-se, inicialmente, a concep��o de governan�a. Nota-se
+que esse conjunto de processos de gest�o, em qualquer �rea, � de vital
+import�ncia para alinhar o planejamento de uma organiza��o �s suas a��es
+estrat�gicas, otimizar o emprego de recursos, elevar a qualidade dos
+servi�os prestados e permitir a condu��o exitosa de projetos e de processos.
+Em seguran�a cibern�tica, esse aspecto adquire especial relev�ncia, em
+virtude da profus�o de atores relacionados ao tema, da capilaridade e da
+transversalidade do assunto em diferentes �reas da sociedade, e da
+multilateralidade de a��es previstas e em andamento.
+Nesse sentido, a governan�a cibern�tica abrange o desenvolvimento e
+a aplica��o de princ�pios comuns, de normas, de procedimentos e de programas
+que moldam a evolu��o e o uso das ferramentas digitais.
+A seguran�a da informa��o � obtida atrav�s da implementa��o de
+controles, de processos, de pol�ticas e de procedimentos, que juntos
+fortalecem os objetivos de neg�cio com a minimiza��o dos seus riscos, e a
+promo��o da seguran�a da organiza��o (NBR ISO/IEC 17799:2005).
+Abordam-se, ainda, a��es voltadas � comunica��o de ataques
+cibern�ticos e de a��es maliciosas, ao fortalecimento da capacidade
+institucional dos �rg�os p�blicos em seguran�a cibern�tica, aos mecanismos
+de lideran�a, aos manuais de boas pr�ticas, aos requisitos m�nimos e �s
+recomenda��es, ao monitoramento de pol�ticas p�blicas, � gest�o de riscos,
+ao atendimento dos interesses da sociedade, � cust�dia de dados por �rg�os
+p�blicos e aos certificados em seguran�a cibern�tica, al�m das a��es
+voltadas a outras tem�ticas.
+Para subsidiar e orientar a an�lise dos eixos tem�ticos de prote��o
+e seguran�a, foram considerados os seguintes aspectos:
+- confian�a da popula��o nos servi�os p�blicos online ;
+- garantia, pela administra��o p�blica, de que seus �rg�os protegem
+suas redes e sistemas, conforme a legisla��o sobre o tema;
+- investimento governamental na presta��o de servi�os digitais;
+- atendimento das normas de seguran�a cibern�tica, pelos
+fornecedores de bens e de servi�os aos �rg�os de governo; e
+- necessidade de informa��es atualizadas que subsidiem a pol�tica
+governamental atual, o planejamento de novas diretrizes e a futura concep��o
+de programas.
+A governan�a na �rea cibern�tica est� relacionada �s a��es, aos mecanismos e
+�s medidas a serem adotados com o fim de simplificar e modernizar a gest�o
+dos recursos humanos, financeiros e materiais, e acompanhar o desempenho e
+avaliar os resultados dos esfor�os empreendidos nesse campo.
+Essa governan�a visa incorporar elevados padr�es de conduta em seguran�a
+cibern�tica, e orientar as a��es de agentes p�blicos e de agentes privados,
+ao considerar o papel que exercem em suas organiza��es, conforme a
+finalidade e a natureza de seu neg�cio.
+Inclui, ainda, o planejamento voltado � execu��o de programas, de projetos e
+de processos, e o estabelecimento de diretrizes que ir�o nortear a gest�o de
+riscos. Nesse contexto, orienta pessoas e organiza��es quanto � observ�ncia
+das normas, dos requisitos e dos procedimentos existentes em seguran�a
+cibern�tica.
+Segundo o Decreto n� 9.203, de 22 de novembro de 2017 , em seu art.
+17 21 , tem-se que �a alta administra��o das organiza��es da
+administra��o p�blica federal direta, aut�rquica e fundacional dever�
+estabelecer, manter, monitorar e aprimorar sistema de gest�o de riscos e
+controles internos com vistas � identifica��o, � avalia��o, ao tratamento,
+ao monitoramento e � an�lise cr�tica de riscos que possam impactar a
+implementa��o da estrat�gia e a consecu��o dos objetivos da organiza��o no
+cumprimento da sua miss�o institucional�.
+Nesse contexto, ressalta-se a import�ncia de as empresas, que
+produzem ou comercializam servi�os no campo da seguran�a cibern�tica,
+adotarem padr�es nacionais e internacionais no desenvolvimento de novas
+solu��es, desde a sua concep��o, o que � internacionalmente conhecido pelos
+termos privacy by design and default e security by design and
+default . Para tanto, destaca-se o papel do Estado em garantir �s
+empresas a flexibilidade para continuar a criar mecanismos de
+aperfei�oamento, com o uso de tecnologia de ponta para garantir a seguran�a
+de seus produtos, servi�os e solu��es e, assim, proteger seus usu�rios.
+Visualiza-se que a governan�a cibern�tica, considerada em �mbito nacional,
+orienta os direitos, as obriga��es e as responsabilidades dos diversos
+segmentos da sociedade, e leva os �rg�os p�blicos e as organiza��es privadas
+a priorizarem o uso seguro do espa�o cibern�tico.
+Nesse
+sentido, verifica-se a import�ncia de as institui��es implementarem
+programas de seguran�a cibern�tica, com uso de modelos reconhecidos, que
+proporcionem um adequado diagn�stico do est�gio em que se encontram, que
+identifiquem os pontos mais vulner�veis de seus sistemas, as amea�as
+cibern�ticas mais prov�veis, e os maiores fatores de risco que considerem a
+ado��o das prote��es adequadas, os mecanismos de detec��o de ataques, as
+metodologias de resposta a incidentes e os procedimentos de restaura��o do
+ecossistema inform�tico.
+Com
+rela��o � defini��o de pap�is e de responsabilidades, v�-se que o cidad�o
+brasileiro precisa elevar sua participa��o no ecossistema digital, n�o
+somente por meio do uso das tecnologias, por�m, principalmente, no combate
+aos crimes cibern�ticos, � chamada pirataria de
+software 22
+e �s a��es maliciosas, ao reportar, por meio dos canais espec�ficos de
+den�ncia, todos os il�citos cibern�ticos de que for v�tima.
+No que tange � gest�o de riscos, verifica-se que � um dos
+principais pontos de sustenta��o da governan�a cibern�tica, uma vez que
+indica a ado��o de melhores pol�ticas e metodologias, o que permite gerir,
+de forma otimizada, os limites aceit�veis de risco. Essa gest�o resume-se
+aos princ�pios, aos objetivos, �s estruturas, �s compet�ncias e aos
+processos necess�rios para se conhecer as vulnerabilidades, e assim permitir
+que sejam tratadas de modo eficaz, sendo, portanto, uma ferramenta que
+permite a cada institui��o, dentre outros benef�cios, ter a perfeita
+dimens�o de seus pontos cr�ticos e dos ativos mais relevantes a proteger.
+Em 13 de outubro de 2008, o Gabinete de Seguran�a Institucional da
+Presid�ncia da Rep�blica publicou a Norma Complementar n� 02/IN01/DSIC/GSI/PR,
+que disp�e sobre a metodologia de gest�o de seguran�a da informa��o e d�
+orienta��es acerca de defini��o de riscos, de procedimentos para identificar
+os riscos e seus n�veis aceit�veis, da an�lise de impactos e de
+probabilidades e de op��es de tratamento dos riscos. Adicionalmente, em 15
+de fevereiro de 2013, o Gabinete de Seguran�a Institucional da Presid�ncia
+da Rep�blica publicou a Norma Complementar n� 04/IN01/DSIC/GSI/PR, que
+estabelece diretrizes para o processo de gest�o de riscos de seguran�a da
+informa��o e comunica��es nos �rg�os ou entidades da Administra��o P�blica
+federal, direta e indireta. Essa norma faculta que cada �rg�o ou entidade
+p�blica adote uma metodologia de gest�o de riscos de seguran�a da informa��o
+que atenda aos objetivos, �s diretrizes gerais e ao escopo definido, e que
+contemple, no m�nimo, os crit�rios de avalia��o e de aceita��o do risco.
+Com o tempo, verificou-se que cada institui��o adota metodologias e
+arcabou�os internacionais diferentes, que, dentre outras coisas, fornecem:
+pol�ticas de orienta��o de seguran�a, recomenda��es de boas pr�ticas e guia
+para auxiliar as empresas na avalia��o e no aprimoramento dos seus sistemas
+de controle interno, o que inclui a avalia��o de riscos.
+A ado��o desses arcabou�os de forma distinta entre os �rg�os e
+entidades p�blicas e empresas do setor privado, dificulta a an�lise do grau
+de maturidade em seguran�a cibern�tica do Pa�s de forma geral, uma vez que
+os crit�rios e requisitos de cada normativo n�o s�o os mesmos, so que torna
+necess�rio padronizar as melhores pr�ticas e permitir que mesmo pequenas
+organiza��es possam adotar medidas eficientes para a prote��o de suas
+informa��es. Desse modo, destacam-se a avalia��o e a gest�o de risco em
+seguran�a cibern�tica como fatores chaves para a prote��o do espa�o
+cibern�tico, dos servi�os e das informa��es nele existentes.
+Entretanto, verificou-se que a ado��o de padr�es �nicos e excludentes de
+governan�a n�o produziriam necessariamente resultados positivos, ao
+considerar a transversalidade e a capilaridade das a��es de seguran�a
+cibern�tica nas institui��es p�blicas e privadas e na sociedade em geral.
+Ressalta-se, ainda, que pol�ticas de governan�a cibern�tica devem
+corresponder a processos cont�nuos que fa�am parte da cultura de entidades
+p�blicas e privadas.
+Em consequ�ncia, no contexto mais amplo de governan�a,
+recomenda-se, como patamar inicial, a observ�ncia das normas emitidas pelo
+Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica .
+Entretanto, sabe-se que essas normas n�o s�o exaustivas, e devem ser
+consultadas e, quando pertinentes, tamb�m adotadas as normas correlatas da
+Organiza��o Internacional para Padroniza��o (ISO, do ingl�s International
+Organization for Standardization ), al�m de outros padr�es metodol�gicos,
+tais como o Control Objectives for Information and related Technolog
+- COBIT 23 , o National Institute of Standards and Technology
+- NIST 24 e o discorrido pelo Center for Internet Security
+- CIS 25 . Desse modo, encorajam-se as empresas a adotarem medidas
+customizadas de seguran�a e ferramentas para tratar os riscos enfrentados
+pelo seu modelo de neg�cio espec�fico.
+A
+observ�ncia desses padr�es pelos diferentes atores nacionais, para a
+elabora��o de seus normativos em seguran�a cibern�tica, mostra-se relevante,
+uma vez que fornecem estruturas amplamente avaliadas e baseadas em consenso
+para definir e implementar abordagens eficazes para a seguran�a cibern�tica
+que possam ir ao encontro de desafios comuns, e assim possibilitar
+colabora��o e interoperabilidade.
+As a��es de governan�a devem, ainda, de acordo com o contexto de
+cada institui��o, contemplar conceitos de seguran�a cibern�tica que abordem
+iniciativas integradoras e que permitam a macro gest�o de diversos ativos e
+de diferentes tecnologias, como uma plataforma SOAR - Security
+Orchestration Automation and Response , que consiste em um conjunto de
+solu��es 26 de softwares compat�veis que permitem que uma
+organiza��o colete dados sobre amea�as de seguran�a de v�rias fontes.
+Uma plataforma SOAR inclui uma s�rie de recursos 27 de
+gest�o de seguran�a, an�lise e relat�rios que utilizam dados leg�veis de
+m�ltiplas fontes para oferecer relat�rios, an�lises e fun��es de
+automatiza��o de fluxos de trabalho para diversas equipes de seguran�a, e
+oferecemr a intelig�ncia que as solu��es pontuais, como SIEM ( software 28
+de gerenciamento de informa��es e eventos de seguran�a) - s olu��es
+de resposta a incidentes e escaneamento de vulnerabilidades, n�o oferecem.
+Portanto, a partir de solu��es como o SOAR, espera-se responder
+adequadamente a eventos de seguran�a, e a aprimorar a efic�cia das opera��es
+no cen�rio digital.
+Uma plataforma SOAR pode, portanto, gerenciar diversos recursos 29 ,
+como por exemplo: os dispositivos port�teis, os sistemas de prote��o de
+endpoints , os servidores, a seguran�a de e-mail, os roteadores, os
+switches , os sistemas de Wireless , os pontos de acesso, os
+firewalls , os sistemas de arquivos, os servidores DNS ( Domain Name System ), os
+protocolos DHCP ( Dynamic Host Configuration Protocol ),
+os IDS ( Intrusion Detection System ), os IPS ( Intrusion Prevention
+System ) e as solu��es SIEM.
+Por oportuno, entende-se que a certifica��o de produtos e de
+solu��es em seguran�a cibern�tica � um objetivo a ser perseguido, ao
+considerar a complexidade dos equipamentos e das ferramentas computacionais,
+que exigem elevado grau de especializa��o e de recursos tecnol�gicos �
+disposi��o, e de organismos estruturados e equipados para conduzi-la.
+Destaca-se que, antes de fomentar e desenvolver uma certifica��o pr�pria,
+recomenda-se buscar alavancar os mecanismos de certifica��o existentes, para
+evitar a cria��o de barreiras comerciais.
+Entretanto, � crescente o entendimento, no meio produtivo, de que a
+certifica��o de produtos - mais especificamente, de equipamentos - n�o se
+mostra algo simples, uma vez que a certifica��o ocorre sobre o tipo, o
+modelo e o firmware de um equipamento, o que impede sua atualiza��o
+de firmware ou que o fabricante disponibilize patches de
+seguran�a, sob pena de levar o produto a perder a certitica��o inicial.
+Outro aspecto a considerar quando se aborda prote��o e seguran�a no
+ambiente cibern�tico � a confian�a proporcionada pelo certificado digital,
+que pode ser compreendido como uma identidade eletr�nica segura para pessoas
+ou organiza��es, e com autenticidade garantida por uma criptografia
+complexa. Com ele, � poss�vel garantir de forma inequ�voca a identidade de
+um indiv�duo ou de uma institui��o, sem uma apresenta��o presencial 30 .
+O certificado digital garante a confidencialidade, a autenticidade,
+e a comprova��o de autoria em transa��es eletr�nicas assinadas por meio de
+sua utiliza��o.
+Esse
+recurso � muito relevante e incentiva a padroniza��o das pr�ticas de
+valida��o e de autentica��o, uma vez que diversos certificados possuem
+aceita��o internacional. Assim, a ado��o da certifica��o digital deve ser
+incentivada. Destaca-se que o seu uso em documentos p�blicos (carteira de
+identidade, t�tulo de eleitor ecadastro de pessoa f�sica), pode ser uma
+forma de propagar um ambiente de acesso mais seguro e confi�vel.
+No Brasil, a certifica��o digital foi introduzida em 2001. Dentre
+os pioneiros em sua utiliza��o, destacam-se o Banco Central do Brasil, por
+meio do Sistema de Pagamentos Brasileiro - SPB, e a Receita Federal do
+Brasil, que a utilizou em servi�os como o Centro Virtual de Atendimento ao
+Contribuinte - e-CAC, e para a emiss�o da Nota Fiscal Eletr�nica - NF-e, que
+colabora para otimiza��o dos processos e possibilita um maior controle para
+reduzir fraudes e sonega��o fiscal.
+O judici�rio brasileiro tamb�m utiliza extensivamente a
+certifica��o, desde a edi��o do Di�rio da Justi�a em formato eletr�nico at�
+o peticionamento eletr�nico dispon�vel em v�rios tribunais. S�o v�rias as
+aplica��es que fazem uso do certificado digital ICP-Brasil, e possibilitam
+confian�a e seguran�a digital.
+De acordo com o Instituto Nacional de Tecnologia da Informa��o, at�
+abril de 2019, a emiss�o de certificados superou 35,6% do n�mero registrado
+no mesmo per�odo de 2018. Entretanto, do total de emiss�es em 2019, os
+certificados emitidos para pessoa f�sica representaram somente 8,4%,
+enquanto que, para pessoa jur�dica, representaram 45,9% 31 .
+Hoje, praticamente, todas as pessoas jur�dicas possuem ao menos um
+certificado digital. Entretanto, a certifica��o digital ainda n�o �
+amplamente utilizada nas corpora��es, em virtude de certas dificuldades,
+como a elevada quantidade de processos para emiss�o dos certificados, o alto
+custo para o cidad�o e o baixo n�mero de unidades certificadoras por
+habitante. A fim de solucionar essas quest�es, o Governo federal vem
+adotando a��es para otimizar os processos visando � sua obten��o, com o
+prop�sito de expandir significativamente a oferta desse recurso. Todavia, h�
+que se ter o devido cuidado de, em nome da celeridade e da dissemina��o da
+certifica��o digital, n�o fragilizar as medidas de seguran�a relativas � sua
+concess�o, que levem ao comprometimento desse valioso recurso.
+Com rela��o ao estudo do modelo mais adequado para coordena��o das
+a��es de seguran�a cibern�tica, � importante destacar que a gest�o dessas
+a��es envolve m�ltiplos atores. Tanto no �mbito nacional, quanto no
+internacional, uma mobiliza��o efetiva para a consolida��o da seguran�a
+cibern�tica, como vital para o desenvolvimento da sociedade brasileira, ter�
+mais sucesso por meio de assertiva coordena��o pol�tica, que inclua o setor
+privado e a sociedade.
+Segundo relat�rio da Comiss�o Parlamentar de Inqu�rito da
+Espionagem 32 , a distribui��o e o trato dos assuntos relacionados
+� seguran�a cibern�tica no Pa�s, n�o tem colaborado para que o Governo
+possua uma vis�o geral do assunto, o que dificulta a execu��o de a��es mais
+eficazes nesse campo. Isso ocorre porque cada �rg�o p�blico adota
+defini��es, crit�rios e diferentes a��es para a prote��o do ambiente
+digital, sem compartilhar informa��es, boas pr�ticas e as solu��es adotadas
+para cada incidente cibern�tico.
+Nesse sentido, a cria��o de um sistema que re�na todos os atores
+estatais e n�o estatais sob a �gide da seguran�a cibern�tica, poder�
+contribuir para o necess�rio alinhamento estrat�gico, doutrin�rio e
+operacional nas a��es concernentes a esse campo, e cabe ao Governo federal
+incentivar a discuss�o de alternativas que levem ao fortalecimento
+institucional da seguran�a cibern�tica brasileira. Nesse contexto, �
+importante que se conceda a um �rg�o governamental a responsabilidade de
+orientar o tema em �mbito nacional, organiz�-lo, e propor medidas e
+regulamentos, com a participa��o de representantes de todos os setores da
+sociedade. Faz-se exce��o, apenas, aos aspectos relacionados � defesa e �
+guerra cibern�ticas, que est�o a cargo do Minist�rio da Defesa, o que de
+modo algum impede a necess�ria intera��o, nesse vi�s, entre as �reas de
+seguran�a e de defesa.
+O modelo centralizado de gest�o em seguran�a cibern�tica
+apresenta-se como alternativa vi�vel e eficaz, e foi adotado por pa�ses como
+Estados Unidos da Am�rica, Reino Unido, Portugal, Fran�a, �ndia, Mal�sia,
+Singapura, Cor�ia do Sul e Jap�o. A experi�ncia desses pa�ses demonstra que
+a cria��o de estruturas centrais para condu��o desse tema, com autoridade
+para estabelecer regulamentos e a��es espec�ficas, apresenta bons resultados
+para a coordena��o e a consolida��o da seguran�a cibern�tica como assunto de
+Estado, promove sinergia entre Governo, setor privado, sociedade e academia,
+e evidencia o car�ter estrat�gico da prote��o do espa�o cibern�tico.
+No caso brasileiro, ao consider o Governo federal, destaca-se a
+atua��o do Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica
+que, desde 2006, por meio do Departamento de Seguran�a da Informa��o, estuda
+e elabora diversos normativos, que consistem em Instru��es Gerais, Normas
+Complementares, Estrat�gias e Pol�tica, no �mbito da Administra��o P�blica
+federal, ao reunir, desde ent�o, vasta experi�ncia com rela��o a diversas
+�reas da seguran�a da informa��o, especialmente no que tange � seguran�a
+cibern�tica.
+Desse
+modo, n�o se vislumbra a necessidade da cria��o de novos e dispendiosos
+organismos governamentais, sendo suficiente redimensionar a atual estrutura
+do
+Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica ,
+de forma a lhe possibilitar a atua��o em �mbito nacional. Portanto, urge a
+necessidade de uma lei que regule as a��es de seguran�a cibern�tica, que
+especifique atribui��es, que aponte mecanismos de di�logo com a sociedade e
+que torne poss�vel, ao Gabinete de Seguran�a Institucional da
+Presid�ncia da Rep�blica , com a participa��o de representantes
+de todos os entes nacionais, exercer o papel de macro coordenador
+estrat�gico, ao proporcionar alinhamento �s a��es de seguran�a cibern�tica e
+ao contribuir para a evolu��o de todo o Pa�s nesse campo, de forma
+convergente e estruturada. Conclui-se, ainda, ser necess�rio e urgente que o
+Governo federal priorize a aplica��o de recursos na �rea da seguran�a
+cibern�tica.
+Outrossim, conforme mencionado no par�grafo anterior, devem ser considerados
+mecanismos que viabilizem a participa��o da sociedade. Dentre os
+instrumentos poss�veis, esta Estrat�giarecomenda a cria��o de um conselho
+nacional de seguran�a cibern�tica, que congregue diversos atores estatais e
+n�o estatais, com o objetivo de pensar a seguran�a cibern�tica sob um prisma
+abrangente, inclusivo, moderno e com �nfase nas reais necessidades
+nacionais.
+Al�m desse conselho, como est�mulo ao debate sobre o tema, a E-Ciber
+incentiva a cria��o de diversos grupos de debate, sob coordena��o do
+Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica, de modo a
+se garantir o envolvimento de profissionais com conhecimentos setoriais e
+especialidades relevantes para uma melhor compreens�o dos desafios a serem
+dirigidos aos v�rios setores de acordo com realidades espec�ficas.
+No tocante ao monitoramento do cen�rio cibern�tico, observa-se a
+necessidade da verifica��o cont�nua da efic�cia dos instrumentos normativos,
+o que passa, necessariamente, por seu monitoramento e por sua constante
+avalia��o. Avalia��es que produzem resultados confi�veis permitem o
+aprimoramento de pol�ticas e justificam investimentos ou economia de
+recursos, j� que evidenciam se os resultados esperados s�o alcan�ados e se
+os recursos s�o utilizados de modo eficiente. Conforme as diretrizes de
+governan�a p�blica estabelecidas no
+Decreto n� 9.203, de 2017 33 ,
+v�-se a import�ncia de igualmente prever m�tricas e indicadores que
+permitam, no futuro, o monitoramento das a��es, dos programas e dos projetos
+voltados � seguran�a cibern�tica, de modo a se obter cont�nua efic�cia na
+gest�o das a��es referentes a essa �rea.
+Dentro dessa perspectiva, ressaltam-se tr�s vertentes importantes:
+a medi��o da efic�cia e da efici�ncia dos centros de tratamento e resposta
+aos incidentes computacionais, a elabora��o de indicadores para medir o
+desempenho do Pa�s em seguran�a cibern�tica e o estabelecimento de rotina de
+verifica��es de conformidade em seguran�a cibern�tica dentro dos �rg�os
+p�blicos e das entidades privadas, por eles conduzidas, de modo que seja
+poss�vel estabelecer a correta rela��o entre os aspectos t�cnicos
+detecnologia da informa��o, como an�lise de vulnerabilidades, relat�rios
+t�cnicos de amea�as e rela��o de solu��es em tecnologia, com os aspectos de
+neg�cio, como continuidade dos servi�os prestados, riscos � imagem e
+processos de tomada de decis�o. Entende-se, portanto, a verifica��o de
+conformidade como um processo natural, baseada em programas estabelecidos
+pelas pr�prias entidades p�blicas e privadas, que visa ao aprimoramento
+cont�nuo dos sistemas voltados � seguran�a cibern�tica.
+Destaca-se que as verifica��es de conformidade devem ser planejadas com
+modera��o, e devem ser baseadas em princ�pios de razoabilidade, para que n�o
+levem as institui��es p�blicas e privadas a empregarem tempo e grande soma
+de recursos em procedimentos excessivos de conformidade, em detrimento de
+seu uso para lidar com amea�as cibern�ticas.
+1.2. Universo
+conectado e seguro: preven��o e mitiga��o de amea�as cibern�ticas
+O processo de prepara��o do Pa�s rumo � nova economia digital,
+experimentar� forte impacto de variadas tecnologias, como internet das
+coisas, computa��o qu�ntica, intelig�ncia artificial, aprendizado de
+m�quina, ci�ncia cognitiva, rob�tica, biotecnologia, nanotecnologia ou
+gera��o de telefonia 5G. Para prover sustenta��o a esse processo, s�o
+necess�rias a��es que permitam sua viabiliza��o de forma segura e
+resiliente.
+Para
+fazer face a esse desafio, este eixo da E-Ciber versar� sobre a gest�o de
+incidentes computacionais, que envolve detec��o, triagem, an�lise e resposta
+a esses incidentes.
+As
+atividades preventivas baseadas nas avalia��es de riscos podem reduzir o
+crescente n�mero de incidentes cibern�ticos, entretanto, n�o podem evit�-los
+totalmente. Portanto, � necess�rio um recurso de resposta para detect�-los
+com rapidez, minimizar a perda e a destrui��o que podem causar, atenuar os
+pontos fracos explorados e restaurar os servi�os de tecnologia da informa��o
+e comunica��o ,
+sempre considerando que o acompanhamento das amea�as �
+seguran�a cibern�tica devem ter natureza global.
+Nesse contexto, destaca-se a relev�ncia de recursos e de mecanismos
+que permitam a intera��o e o compartilhamento de informa��es em diferentes
+n�veis, entre institui��es p�blicas e privadas, e entre essas e organiza��es
+internacionais, que possuam experi�ncia no acompanhamento de tend�ncias de
+amea�as e de ataques cibern�ticos, de forma a consider os impactos
+regionais, multilaterais e globais da ocorr�ncia de incidentes no ambiente
+digital.
+� de amplo conhecimento que toda organiza��o, p�blica ou privada,
+deve possuir uma equipe de tratamento e resposta aos incidentes cibern�ticos
+- ETIR, tamb�m conhecida pela sigla - CSIRT, de Computer Security
+Incident Response Team . Essa equipe deve ser capacitada, e deve dispor
+de ferramentas computacionais adequadas �s suas necessidades, e de sistemas
+baseados em tecnologias emergentes, condizentes com os padr�es
+internacionais. Atualmente, o Brasil possui oito tipos de centros de
+tratamento e resposta aos incidentes cibern�ticos, de acordo com sua
+atua��o:
+- Centros de Responsabilidade Nacional - CERT.br e CTIR Gov.
+- Centros de Coordena��o Internacional - CERT/ Coordination
+Center , FedCirc e FIRST.
+- CSIRTs de Infraestruturas Cr�ticas - Energia - CSIRTCemig -
+Financeiro - CSIRTs do BB, da Caixa, do BASA, do BNB, do BRB e do BANESE -
+Telecom - CTIR/DATAPREV, GRA/SERPRO e CSIRT PRODESP.
+- CSIRTs de Provedores - CSIRT Locaweb e CSIRT HP.
+- CSIRTs Corporativos - CERT-RS, SEGTIC UFRJ e CSIRT Unicamp.
+- CSIRTs Acad�micos - CAIS/RNP, CEO/RedeRio, CERT-RS, CERT.Bahia,
+CSIRT POP-MG, CSIRT Unicamp, CSIRT USP, GSR/INPE, GRC/UNESP, NARIS/UFRN e
+TRI/UFRGS.
+- CSIRTs do Poder P�blico - Executivo - CTIR Gov, Legislativo -
+GRIS-CD e Judici�rio - GATI, CLRI e TRF-3.
+- CSIRTs Militares - Marinha - CTIM, Ex�rcito - CCTIR/EB e
+Aeron�utica - CTIR.FAB.
+Esses centros atuam em constante comunica��o, e mant�m registros de
+incidentes nacionais, para avalia��o de dados estat�sticos referentes �s
+amea�as e a esses incidentes. Os atuais esfor�os concentram-se em
+simplificar o compartilhamento de informa��es entre todos os CSIRTs, uma vez
+que o n�mero de atores do Governo e do setor privado est�-se ampliando, ao
+lado dos crescentes desafios no campo cibern�tico.
+O Brasil possui dois centros de tratamento e resposta de
+responsabilidade nacional. O Centro de Estudos, Resposta e Tratamento de
+Incidentes de Seguran�a no Brasil - CERT.br 34 , � o respons�vel
+por tratar incidentes de seguran�a em computadores que envolvam redes
+conectadas � internet no Pa�s, mais voltado �s redes comerciais e de
+institui��es privadas. Com atribui��o similar, por�m voltado �s redes
+governamentais, existe o Centro de Tratamento e Resposta a Incidentes
+Cibern�ticos de Governo - CTIR Gov 35 . Hoje, os servi�os
+fornecidos pelo CTIR Gov incluem, basicamente: a notifica��o de incidentes,
+a an�lise de incidentes, o suporte � resposta a incidentes, a coordena��o na
+resposta a incidentes, a distribui��o de alertas, de recomenda��es e de
+estat�sticas e a coopera��o com outras ETIRs.
+Como exemplo de Alerta expedido pelo CTIR Gov, tem-se o Alerta n�
+03/2019 - Malware Silex em dispositivos IoT, documento que pode ser
+encontrado no s�tio desse Centro.
+Para exercer suas fun��es, o CTIR Gov possui mecanismos que
+monitoram vulnerabilidades, adultera��es e indisponibilidade de s�tios,
+an�ncios de vazamento de informa��es, e que verificam redes sociais abertas.
+Al�m disso, atua em coopera��o com �rg�os parceiros em seguran�a
+cibern�tica, ao integrar uma rede internacional de CSIRTs, com forte atua��o
+na an�lise de poss�veis a��es massivas.
+Destaca-se que o trabalho de um CSIRT pode ser aprimorado mediante pesquisas
+e consultas a padr�es globais, o que pode facilitar a comunica��o entre
+outros analistas de incidentes, operadores detecnologia da informa��o,
+fabricantes de equipamentos detecnologia da informa��o, e demais
+representantes da iniciativa privada e do meio acad�mico. Neste sentido,
+modelos como o descrito pela Common Vulnerabilities and Exposures -
+CVE 36 , podem ser de grande utilidade.
+Nesse
+contexto, considera-se essencial adotar a��es que permitam o acompanhamento
+cont�nuo e proativo das amea�as e dos ataques cibern�ticos, e que
+possibilitem o estabelecimento de meios de comunica��o adequados com grupos
+internos e externos � pr�pria organiza��o. Canais de comunica��o podem ser
+ampliados, tamb�m, em �mbito internacional, por meio da participa��o em
+foros como os seguintes:
+- FIRST: Forum of Incident Response and Security Teams
+Cria��o: 1990.
+Membros: quatrocentos e oitenta e tr�s CSIRTs, em noventa e dois pa�ses,
+participantes de todos os setores.
+- APWG: Antiphising Working Group
+- Cria��o: 2003.
+Membros: mais de duas mil organiza��es, participantes de todos os setores,
+incluindo organiza��es internacionais.
+- M3AAWG: Messaging, Mobile, Malware Anti-Abuse working Group
+cria��o: 2004.
+Membros: mais de duzentos CSIRTs, pertencentes ao setor industrial.
+- LAC-AAWG: Latin America and Caribbean Anti-Abuse Working Group
+Cria��o: 2017
+Membros: Comunidade da internet em geral.
+Com o fim de demonstrar a a��o do CTIR Gov diante das notifica��es
+recebidas, conforme o relat�rio dos incidentes reportados e confirmados por
+aquele Centro, de 2011 a 2018, tem-se que, dentre as notifica��es recebidas,
+26,23% correspondem a abuso de s�tio, 20,04% correspondem a vazamento e
+15,95% correspondem a fraude, sendo essas as maiores categorias de
+incidentes.
+Nesse sentido, segundo publica��o do CERT.br, foram recebidas, em
+2018, mil e setenta e cinco notifica��es de m�quinas comprometidas. Esse
+total foi 168% maior em rela��o ao recebido em 2017. Mais de 98% das
+notifica��es foram referentes a servidores web que tiveram suas
+p�ginas desfiguradas 37 . Entretanto, como os casos s�o relatados
+de forma volunt�ria, � prov�vel que o n�mero real de incidentes seja muito
+maior, j� que os incidentes cibern�ticos direcionados a usu�rios s�o, em
+maior parte, relacionados a fraudes.
+No atual cen�rio de amea�as cibern�ticas, � prov�vel que as
+organiza��es experimentem o mesmo tipo de ataque, o que ressalta a
+import�ncia das informa��es sobre fato, sobre o tratamento realizado e sobre
+as li��es aprendidas. Nesse contexto, visa-se � atua��o conjunta em prol da
+seguran�a cibern�tica, e considera-se de suma import�ncia a cria��o de um
+ambiente colaborativo, do qual participem a administra��o p�blica, o setor
+privado, a academia e a sociedade em geral.
+Um exemplo de a��o colaborativa � o exerc�cio Guardi�o Cibern�tico,
+organizado anualmente pelo Comando de Defesa Cibern�tica, em parceria com
+oGabinete de Seguran�a Institucional da Presid�ncia da Rep�blica. A
+atividade consiste em treinamento de a��es de prote��o cibern�tica, por meio
+da coopera��o entre For�as Armadas, �rg�os parceiros e representantes das
+infraestruturas cr�ticas, ao adotar t�cnicas virtuais de simula��o e
+pr�ticas de gest�o de incidentes. O exerc�cio emprega gabinetes de crise das
+�reas de tecnologia da informa��o e comunica��o, de comunica��o social,
+jur�dica e da alta administra��o dos participantes, que s�o levados a
+apresentar solu��es para os eventos cibern�ticos com impacto nas
+organiza��es, incluindo o n�vel decis�rio-gerencial (gest�o de crise) e o
+n�vel t�cnico (resposta a incidentes) das empresas e de �rg�os de governo.
+Outra
+abordagem nesse contexto, com o objetivo de promover um ambiente
+colaborativo, participativo e seguro, pode ser a implementa��o de uma
+plataforma de compartilhamento de amea�as ou de tend�ncias cibern�ticas,
+onde o interc�mbio de informa��es ocorra de maneira padronizada, r�pida e
+segura.
+Destaca-se que o compartilhamento de informa��es � uma forma de
+evidenciar a parceria estrat�gica entre os principais atores interessados em
+seguran�a cibern�tica, de todos os setores da sociedade. Desse modo, aqueles
+atores respons�veis pela explora��o e pelo gerenciamento de infraestruturas
+cr�ticas - sejam eles �rg�os da administra��o p�blica ou empresas do setor
+privado - possuem melhores condi��es de compartilhamento de informa��es que
+possam auxiliar na mitiga��o de riscos, na an�lise de amea�as e no estudo de
+vulnerabilidades emergentes, enquanto que os �rg�os p�blicos especializados
+em seguran�a cibern�tica, possuem condi��es de fornecer informa��es
+primordiais sobre aspectos relacionados ao status da seguran�a
+nacional.
+O Pa�s necessita, ainda, fortalecer e aperfei�oar seus �rg�os de governo que
+tratam das amea�as e que combatem os crimes cibern�ticos. Uma vez que o CTIR
+Gov � o �rg�o central do governo que coordena e realiza a��es destinadas �
+gest�o de incidentes computacionais, recomenda-se outorgar a esse �rg�o
+atua��o em �mbito nacional, e que deve ser fortalecido. Na mesma dire��o,
+recomenda-se aperfei�oar a estrutura nacional de investiga��o de crimes
+cibern�ticos.
+Atualmente, a comunica��o pode ser alvo de intercepta��o ilegal que, de
+forma pontual, pode n�o ser evitada pelas pol�ticas de seguran�a cibern�tica
+adotadas tanto pelas prestadoras de servi�os de telecomunica��es quanto por
+parte de outros atores, e promovida por agentes com diferentes inten��es,
+como busca de informa��es, ass�dio a pessoas com determinado perfil ou
+tentativa de prejudicar a realiza��o de algum projeto, entre outras raz�es.
+Assim, a comunica��o digital pode ser monitorada ou interceptada, das
+seguintes formas:
+- dispositivos pessoais ou organizacionais, infectados com malware ou
+monitorados diretamente;
+- roteador wi-fi , infectado com malware ou controlado por
+terceiros;
+- provedores de internet infectados, seja por inten��es pr�prias ou de
+terceiros;
+- ponte de rede nacional ( gateway ), independente de localiza��o do
+interceptado;
+- cabos com deriva��o para desvio das comunica��es;
+- website do servi�o utilizado; e
+- qualquer um dos servi�os que armazena ou roteia sua comunica��o.
+Embora algumas recomenda��es sobre seguran�a digital sejam adaptadas a uma
+ferramenta, a uma tecnologia de rede ou a um meio de comunica��o espec�fico,
+outras recomenda��es s�o universais. Nesse aspecto, recomenda-se estabelecer
+protocolos e requisitos referentes � preven��o, ao monitoramento, ao
+tratamento, e � resposta aos incidentes computacionais, voltados
+principalmente �s equipes especializadas que tratam das amea�as
+cibern�ticas.
+Al�m disso, orienta-se a mitigar os riscos, considerado os detalhes
+do ambiente, de forma a manter os dispositivos atualizados,e a evitar
+c�digos maliciosos, atentar-se aos ataques de phishing , preferir
+servi�os confi�veis, criar senhas fortes, utilizar criptografia e
+compartilhar essas pr�ticas com aqueles agentes relacionados no processo da
+comunica��o. Considera-se, ainda, que o uso adequado de recursos
+criptogr�ficos comprovadamente habilita uma camada de seguran�a adicional de
+extrema relev�ncia para atingir os n�veis desejados de prote��o de dados em
+repouso ou em tr�nsito.
+1.3. Prote��o Estrat�gica
+Na an�lise deste eixo tem�tico, ser�o abordados aspectos relativos
+� prote��o cibern�tica do Governo e � prote��o cibern�tica das
+infraestruturas cr�ticas.
+O Pa�s encontra-se em pleno processo de digitaliza��o de servi�os
+p�blicos, o que confere progressiva criticidade �s redes e aos sistemas de
+governo, que apoiam a presta��o desses servi�os ao cidad�o. Observa-se o
+mesmo processo com rela��o �s estruturas de comunica��o entre os entes
+governamentais, cujo n�vel de prote��o deve ser adequado e proporcional �
+sua relev�ncia.
+Para dar suporte efetivo � E-Digital e ao mesmo tempo conferir
+prote��o cibern�tica aos sistemas de gest�o e aos sistemas utilizados pelas
+reparti��es p�blicas, � necess�rio reduzir a vulnerabilidade das
+organiza��es governamentais contra qualquer tipo de amea�a cibern�tica, ao
+proporcionar � administra��o p�blica n�veis adequados de seguran�a e de
+resili�ncia contra ataques cibern�ticos.
+Uma vez que a mitiga��o de ataques envolve a articula��o de
+diferentes atores no �mbito nacional e, por vezes, no �mbito internacional,
+cresce em relev�ncia a necessidade de a��es a curto, m�dio e longo prazo
+para enfrentar esses ataques de forma eficaz, de forma a considerar que
+podem ser realizados por pa�ses, grupos ou indiv�duos,que buscam interesses
+pol�ticos, vantagens econ�micas ou mesmo prejudicar a presta��o de servi�os
+essenciais � sociedade, causando danos de toda ordem.
+O Brasil carece de a��es de capacita��o que alcancem diferentes
+esferas de governo, ao tempo em que necessita dedicar aten��o especial �
+prote��o das infraestruturas cr�ticas nacionais. Faz-se mister, ainda,
+especificar a��es que protejam a estrutura relacionada � internet, como
+grandes servidores, pontos de troca de tr�fego e datacenters , uma vez
+que proporcionam o funcionamento dos setores cr�ticos da rede.
+Em rela��o � prote��o das redes e dos sistemas governamentais, em
+virtude da crescente integra��o de servi�os, de bases de dados e de
+plataformas digitais, nota-se o aumento das vulnerabilidades, que podem ser
+exploradas por hackers . Nesse sentido, destaca-se que o
+Governo deve empregar recursos para que a seguran�a cibern�tica seja
+implementada e adequada � prote��o de suas estruturas computacionais, para
+que a presta��o de servi�os ao cidad�o n�o sofra solu��o de continuidade.
+Ressalta-se que esses recursos devem compor um conjunto estruturado de
+investimentos em conhecimento, em pol�ticas, em profissionais e em
+tecnologias, dentre outros.
+Nesse
+contexto, as informa��es custodiadas por �rg�os p�blicos revestem-se de
+car�ter sens�vel, pelo potencial de impacto negativo na presta��o de
+servi�os � popula��o, em caso de comprometimento. Com rela��o a essas
+informa��es, recomenda-se que os �rg�os p�blicos possuam c�pias de seguran�a
+frequentemente atualizadas, segregadas de forma autom�tica e armazenadas em
+local protegido. Essa pr�tica objetiva restringir os ataques maliciosos ao
+ambiente produtivo original, e diminuir os riscos de sequestro de dados, de
+perdas financeiras, de impactos negativos � imagem, e de descontinuidade dos
+servi�os por prazos inaceit�veis.
+Os dispositivos m�veis funcionais, conectados � internet e
+utilizados com frequ�ncia por autoridades p�blicas, podem ser alvos de
+il�citos cibern�ticos, e merecem aten��o, especialmente no caso dos �rg�os
+que permitem, em suas pol�ticas de seguran�a, a utiliza��o desses
+equipamentos na modalidade conhecida como BYOD, sigla de Bring Your Own
+Device ou traga seu pr�prio dispositivo, em que o administrador do
+sistema permite a conex�o, � rede do �rg�o, de um equipamento particular.
+Nesse ponto, considera-se vital a seguran�a de endpoints ,
+nome pelo qual s�o conhecidos, na �rea de rede de computadores, os
+dispositivos finais 38 que est�o conectados em um terminal de
+rede. Trata-se, portanto, de qualquer dispositivo que esteja conectado em
+uma rede, interna ou externa.
+O moderno e �gil fluxo de informa��es em uma organiza��o exige
+r�pida resposta, que nem sempre vem de uma esta��o de trabalho - um desk
+- corporativo, j� que podem vir de smartphones , notebooks ou
+tablets conectados � rede corporativa. Por isso, esses endpoints
+devem ser escopo de um conjunto de medidas que visem bloque�-los contra
+amea�as cibern�ticas e mant�-los livres de ataques.
+Ao bloquear os terminais de rede 39 ,
+a seguran�a de endpoint impede que brechas e vulnerabilidades dos
+dispositivos conectados sejam utilizadas por hackers para invadir e
+roubar dados corporativos.
+A preocupa��o
+e as a��es de prote��o voltadas aos endpoints s�o plenamente
+justific�veis, dado o crescimento de amea�as cibern�ticas sobre eles.
+Segundo o AVTEST,
+mais de nove milh�es de novos casos de malware s�o observados por m�s 40 ,
+tendo por alvo n�o apenas os sistemas Windows � ,
+mas tamb�m 41 o macOS � , o Linux
+e o Android � .
+Outro ponto que se tem destacado dentre as preocupa��es de
+seguran�a cibern�tica do Governo refere-se aos ataques sofisticados e
+direcionados �s cadeias de suprimentos. Um ataque � cadeia de suprimentos ( Supply
+Chain Attack , em Ingl�s), ocorre quando h� infiltra��o em um sistema por
+meio de um fornecedor, de uma empresa parceira ou de um provedor externo com
+acesso a sistemas e a dados. Esse tipo de ataque, em geral, causa perdas
+financeiras e reflete negativamente na imagem dos fornecedores,de forma a
+levar � perda de confian�a e � afetar profundamente os neg�cios.
+Nesse
+sentido, recomenda-se o estabelecimento de requisitos m�nimos de seguran�a
+cibern�tica em contratos por parte dos �rg�os e entidades do Governo, o que
+exerceria dupla fun��o: a primeira, de aprimorar a seguran�a cibern�tica do
+setor p�blico e, a segunda, de incentivar uma seguran�a mais efetiva em todo
+o mercado, que para comercializar com o Governo, dever� atentar para esses
+requisitos na presta��o de servi�os e na venda de equipamentos.
+Na
+elabora��o dos instrumentos contratuais, recomenda-se que os entes
+governamentais, no estabelecimento desses requisitos, assegurem que sejam
+orientados para o mercado, coerentes com o universo privado nacional e
+alinhados aos padr�es internacionalmente conhecidos.
+A prote��o �s infraestruturas cr�ticas, por sua relev�ncia, merece
+abordagem espec�fica. No Brasil, essas organiza��es a serem protegidas,
+escopo desta Estrat�gia, s�o as pertencentes ao setor de Telecomunica��es,
+ao setor de Transportes, ao setor de Energia, ao setor de �gua e ao setor
+Financeiro.
+N�o
+obstante o setor de Sa�de n�o tenha sido contemplado no rol de
+infraestruturas cr�ticas ,
+podemos consider�-lo em �mbito an�logo, uma vez que suas institui��es
+representantes prestam servi�os essenciais � sociedade. A elas, portanto,
+consideramos v�lidas e adequadas as mesmas recomenda��es sobre seguran�a
+cibern�tica dedicadas aos outros cinco setores abordados por estaEstrat�gia.
+De modo semelhante destaca-se a relev�ncia estrat�gica da ind�stria
+farmac�utica, e o impacto que ataques cibern�ticos bem sucedidos podem
+causar sobre ela e sobre a sociedade brasileira. Segundo o Portal CSO 42 ,
+as organiza��es farmac�uticas s�o alvos preferenciais para o crime
+cibern�tico, principalmente em virtude da possibilidade de obten��o de
+propriedade intelectual relacionada aos processos de neg�cios, que podem
+fornecer lucrativa vantagem competitiva.
+O Decreto n� 9.573, de 22 de novembro de 2018 43 , aprovou
+a Pol�tica Nacional de Seguran�a das Infraestruturas Cr�ticas Nacionais.
+Essa Pol�tica visa garantir a seguran�a e a resili�ncia das infraestruturas
+cr�ticas do Pa�s e a continuidade da presta��o de seus servi�os. Nesse
+sentido, estabelece o Sistema Integrado de Dados de Seguran�a de
+Infraestruturas Cr�ticas, a Estrat�gia Nacional de Seguran�a de
+Infraestruturas Cr�ticas e o Plano Nacional de Seguran�a de Infraestruturas
+Cr�ticas. Em seus princ�pios, a mencionada Pol�tica aponta a import�ncia da
+preven��o e da precau��o, com base em an�lise de riscos, que reflete na
+necessidade da ado��o de procedimentos de seguran�a em todas as suas
+vertentes, inclusive na de seguran�a cibern�tica. Essa, em muitos casos, �
+considerada vital para o pleno funcionamento das infraestruturas cr�ticas e
+como garantia de presta��o adequada dos servi�os para toda a sociedade
+brasileira.
+Em 2018, os riscos dos ataques cibern�ticos cresceram
+significativamente, em especial as viola��es de informa��es acessadas por
+fornecedores terceirizados e o furto de informa��es (informa��es pessoais
+identific�veis, propriedade intelectual e segredos comerciais). Segundo o
+estudo �2018 Cost of Data Breach Study: Global Overview � 44 ,
+realizado pela IBM em parceria com o Instituto Ponemon, observou-se, em
+2018, um aumento de 350% em ataques de ransomware , verificou-se uma
+expans�o de 250% em ataques de spoofing ou de comprometimento de
+e-mail comercial e constatou-se um acr�scimo de 70% em ataques de
+spear-phishing nas empresas de modo geral. O custo m�dio de uma viola��o
+de dados cibern�ticos aumentou de US$ 3.620.000,00 (tr�s milh�es seiscentos
+e vinte mil d�lares) em 2017 para US$ 3.860.000,00 (tr�s milh�es oitocentos
+e sessenta mil d�lares) em 2018. No Brasil, o custo m�dio de uma viola��o
+chegou a US$ 1.240.000,00 (um milh�o duzentos e quarenta mil d�lares).
+As
+amea�as cibern�ticas acima descritas t�m o escopo de alcan�ar grande n�mero
+de organiza��es, inclusive as representantes das infraestruturas cr�ticas ,
+que, por prestarem servi�os essenciais � sociedade, possuem elevado n�vel de
+criticidade. Por isso, essas organiza��es necessitam de meios para
+identificar, proteger, detectar, avaliar, responder, recuperar e assim
+gerenciar o risco das amea�as cibern�ticas, e tamb�m de ferramentas de
+automa��o de seguran�a que usam intelig�ncia artificial e aprendizado de
+m�quina, que permitam analisar, identificar e conter os ataques
+cibern�ticos.
+Os principais tipos de amea�as contra as infraestruturas cr�ticas
+s�o ataques de phishing , nega��o de servi�o em larga escala,
+vazamentos de informa��es privadas ou institucionais, espionagem cibern�tica
+e a interrup��o de servi�os. Nesse contexto, ressalta-se que a quantidade e
+a pluralidade de dispositivos e aplica��es, especialmente os pertencentes �
+categoria de IoT, apresentam-se como um desafio para as infraestruturas
+cr�ticas, considerada a necessidade de equil�brio entre seguran�a,
+privacidade e o n�o confinamento de recursos para garantia do fomento ao
+ambiente de inova��o.
+Verifica-se, ainda, que em todas as abordagens de gerenciamento de riscos
+cibern�ticos, em sistemas ou em fun��es cr�ticas, existem indica��es do uso
+de criptografia, que cont�m as devidas recomenda��es de onde, quando, e como
+deve ser aplicada.
+� mencionado em muitas estrat�gias nacionais de seguran�a
+cibern�tica que ataques �s infraestruturas cr�ticas est�o entre as maiores
+amea�as � seguran�a nacional, considerado que grande parte das economias
+nacionais est�, de modo crescente, dependente de sistemas de informa��o de
+setores essenciais, baseados em controles automatizados.
+Portanto, a prote��o de infraestruturas cr�ticas contra amea�as
+cibern�ticas em evolu��o requer uma abordagem ampla, como: realizar o
+acompanhamento de assuntos pertinentes a essas organiza��es, com prioridade
+aos que se referem � avalia��o de riscos, planejar, coordenar e desenvolver
+a��es de seguran�a cibern�tica e definir normativos e requisitos
+metodol�gicos para a implementa��o de a��es de seguran�a cibern�tica.
+No decorrer da elabora��o da Estrat�gia, foi observado que:
+- n�o h�, no Brasil, um arcabou�o aut�ctone e abrangente de
+seguran�a cibern�tica que contribua para o fortalecimento da resili�ncia
+cibern�tica nacional;
+- os
+c�digos, as normas, os padr�es e as orienta��es em vigor evolu�ram com o
+desenvolvimento de projetos, de ferramentas e de pr�ticas relacionadas �
+seguran�a cibern�tica, mas n�o foram absorvidos de modo adequado pelas
+entidades p�blicas e privadas;
+- os
+recursos de seguran�a cibern�tica evolu�ram;
+- � necess�rio aumentar a articula��o entre os representantes das
+infraestruturas cr�ticas;
+- � importante estabelecer modelos que permitam compreender o risco
+cibern�tico para a presta��o de servi�os e avaliar o custo de uma
+ocorr�ncia; e
+- � necess�rio incentivar essas organiza��es cr�ticas a criarem uma
+cultura de seguran�a cibern�tica.
+Um dos setores das infraestruturas cr�ticas que possui normativos
+estabelecidos aos seus entes regulados com a��es espec�ficas para prote��o
+cibern�tica � o setor financeiro. Publicadas pelo Banco Central do Brasil, a
+Resolu��o n� 4.658, de 26 de abril de 2018 45 , voltada para
+institui��es financeiras, trata da pol�tica de seguran�a cibern�tica a ser
+observada por aquelas institui��es.
+Al�m
+disso, disp�e sobre as premissas de contrata��o de servi�os de computa��o em
+nuvem e de processamento e armazenamento de dados. Muito
+embora as institui��es de pagamento n�o integrem o Sistema Financeiro
+Nacional, n�o sendo consideradas como infraestruturas cr�ticas, vale
+destacar a Circular n� 3.909, de 16 de agosto de 2018 46 ,
+espec�fica para essas institui��es, que aborda interessantes aspectos de
+seguran�a cibern�tica.
+Um dos aspectos de grande relev�ncia para as infraestruturas
+cr�ticas � a continuidade de neg�cios. Quanto a esse t�pico, o Banco Central
+do Brasil exige que essas organiza��es devem definir: o tratamento para os
+incidentes relevantes, os procedimentos no caso da interrup��o dos servi�os
+relevantes contratados e os cen�rios de incidentes a serem considerados nos
+testes.
+Por meio de
+a��o conjunta entre Governo e os diversos operadores de infraestruturas
+cr�ticas, ser� poss�vel proteger o espa�o cibern�tico no qual estes est�o
+inseridos. Al�m disso, verifica-se a relev�ncia do papel das ag�ncias
+reguladoras no est�mulo � ado��o de procedimentos de seguran�a cibern�tica,
+por parte de seus entes regulados, como por exemplo:
+- cria��o de uma estrutura de governan�a de seguran�a cibern�tica
+nas empresas de infraestruturas cr�ticas, com o estabelecimento de manuais,
+de diretrizes, de classifica��es e de procedimentos para tratamento de
+incidentes, e de regras de seguran�a aplic�veis a todos os funcion�rios,
+terceirizados e fornecedores;
+- inser��o de planos anuais de auditoria externa em seguran�a
+cibern�tica;
+- ado��o de pr�ticas e de requisitos de seguran�a cibern�tica no
+desenvolvimento de novos produtos, programas, projetos e a��es;
+- cria��o de CSIRTs por empresa e por setor, com mecanismos de
+colabora��o e de troca de informa��es entre eles.
+- capacita��o cont�nua de seus colaboradores em todos os n�veis;
+notifica��o ao CTIR Gov, no menor prazo poss�vel, sobre a ocorr�ncia de
+incidentes cibern�ticos;
+- comunica��o aos consumidores em caso de incidente que comprometa
+a seguran�a de seus dados, nos termos da legisla��o em vigor;
+- promo��o de campanhas de conscientiza��o sobre a import�ncia de
+atitudes e de cuidados por parte dos usu�rios;
+- exig�ncia de que fornecedores de equipamentos, de programas
+computacionais e de servi�os adotem os n�veis de seguran�a cibern�tica
+recomendados pelos organismos de padroniza��o nacionais e internacionais; e
+- previs�o de elabora��o de planos de resposta a incidentes e de
+recupera��o dos ambientes cr�ticos que podem ser impactados pelos incidentes
+cibern�ticos.
+No que tange, ainda, ao modus operandi dos procedimentos de seguran�a
+cibern�tica, aspectos t�cnicos e operacionais relacionados ao tema poder�o
+ser tratados de forma mais detalhada pelas ag�ncias reguladoras com apoio
+doGabinete de Seguran�a Institucional da Presid�ncia da Rep�blica, por meio
+de grupos de trabalho constitu�dos por representantes do Governo, da
+iniciativa privada, da academia e da sociedade em geral, de forma a ensejar,
+por exemplo, a elabora��o de manuais operacionais e de procedimentos
+espec�ficos de seguran�a cibern�tica.
+Por fim,
+recomenda-se aos gestores das infraestruturas cr�ticas que, ao elaborar suas
+pol�ticas de seguran�a cibern�tica, contemplem, dentre outras, as seguintes
+ideias:
+- foco
+nos resultados de seguran�a;
+- uso
+de estrutura flex�vel e baseada em an�lise de riscos;
+�nfase na continuidade de seus servi�os;
+alinhamento da seguran�a cr�tica com os padr�es nacionais e
+internacionalmente reconhecidos; e
+garantia de que os processos de certifica��o sejam equilibrados,
+transparentes e com base em padr�es nacionais e internacionais.
+2. EIXOS TEM�TICOS: TRANSFORMADORES
+2.1. Dimens�o Normativa
+O
+aumento vertiginoso do n�mero de usu�rios da internet e a forte expans�o do
+com�rcio online expandiram as possibilidades de a��es maliciosas e
+il�citas, e ensejaram o cometimento de infra��es penais conhecidas como
+crimes cibern�ticos ou crimes virtuais. Esses delitos v�o desde crimes que
+ofendem a honra da pessoa, como cal�nia, difama��o, inj�ria e bullying ,
+at� crimes que violam a privacidade do cidad�o ou atentam contra seu
+patrim�nio.
+Atualmente, com o uso intenso da rede mundial de computadores, tais
+crimes expandem-se com rapidez. H� que se reconhecer as iniciativas e os
+esfor�os realizados at� o momento, que resultaram na aprova��o de leis
+importantes para o Pa�s, como a
+Lei n� 12.965, de 23 de abril de 2014 47 ,
+conhecida como Marco Civil da Internet e a
+Lei n� 13.709, de 14 de agosto de
+2018 - Lei Geral de Prote��o de Dados Pessoais - LGPD 48 ,
+entretanto, o n�vel de articula��o e de normatiza��o das institui��es
+brasileiras nos temas relacionados � seguran�a cibern�tica ainda � t�mido, e
+exigem esfor�o adicional.
+Estabelecer normas e eventuais leis que rejam o espa�o cibern�tico
+� sempre um desafio significativo, em raz�o do r�pido desenvolvimento da
+tecnologia da informa��o e comunica��o e dos sistemas de controle. Nesse
+sentido, � fundamental a a��o coordenada entre as organiza��es
+governamentais e a sociedade em geral para prosseguir nos avan�os
+legislativos sobre o tema.
+Duas leis relacionadas aos crimes na internet foram sancionadas em
+2012, que alteraram o Decerto-Lei n� 2848 de 1940 - C�digo Penal , que
+tipificou e estabeleceu penas para certas condutas delituosas cometidas no
+mundo digital.
+A primeira � a Lei dos Crimes Cibern�ticos - Lei n� 12.737, de 30
+de novembro de 2012 49 , conhecida como �Lei Carolina Dieckmann�,
+que tipifica atos como a invas�o de computadores - hacking , o roubo
+de senhas, a viola��o dos dados de usu�rios e a divulga��o de informa��es
+privadas (fotos, mensagens, etc). A segunda � a
+Lei n� 12.735, de 30 de
+novembro de
+2012 50 ,
+que determina a instala��o de delegacias especializadas para o combate aos
+crimes digitais.
+Nos
+termos da E-digital: �� oportuno para o Brasil estabelecer um marco legal,
+protegendo direitos dos cidad�os e conferindo seguran�a jur�dica para
+investimentos na economia digital. H�, contudo, normas legais e infralegais
+que atualmente tratam da quest�o em �mbito setorial, como: C�digo de Defesa
+do Consumidor, que resguarda os dados pessoais de consumidores; a Lei de
+Acesso � Informa��o que protege os dados pessoais e ao mesmo tempo em que
+promove a transpar�ncia do poder p�blico; a Lei do Cadastro Positivo, que
+salvaguarda os dados pessoais no �mbito de an�lise de cr�dito; entre outras�
+A
+Lei n� 12.965, de 2014 -
+Marco
+Civil da Internet , regula o uso da internet no Brasil por meio da previs�o
+de princ�pios, de garantias, de direitos e de deveres para quem utiliza a
+rede mundial de computadores, e de diretrizes para a atua��o do Estado,
+protegendo os dados pessoais e a privacidade dos usu�rios no ambiente
+online , o que � tratado, de modo mais direto e assertivo, pela LGPD. Apesar de abrangente e moderno, o intenso avan�o da tecnologia
+e o consequente redesenho das rela��es humanas no espa�o cibern�tico enseja
+an�lises peri�dicas desse valioso instrumento legal, no intuito de sempre
+preservar seus nobres pilares democr�ticos de liberdade de express�o e de
+livre tr�nsito de opini�es.
+A publica��o, em agosto de 2018, da LGPD mencionada, refor�ou a
+necessidade das organiza��es em realizar investimentos em sua estrutura e em
+adotar pol�ticas internas que atendam as exig�ncias de seguran�a voltadas ao
+tratamento dos dados pessoais.
+A outra frente de trabalho refere-se aos instrumentos normativos de
+compet�ncia do Departamento de Seguran�a da Informa��o do Gabinete de
+Seguran�a Institucional da Presid�ncia da Rep�blica, direcionados aos �rg�os
+da Administra��o P�blica federal, que visam ao aperfei�oamento e �
+atualiza��o das diretrizes operacionais e dos requisitos relativos ao tema.
+Ap�s a cria��o do ent�o Departamento de Seguran�a da Informa��o e
+Comunica��es, em 2006, o Gabinete de Seguran�a Institucional da Presid�ncia
+da Rep�blica dedicou-se intensamente � tem�tica. Como resultado, desde 2008,
+foram publicadas tr�s Instru��es Gerais e vinte e duas Normas Complementares 51 ,
+de forma a contemplar os assuntos relacionados � Seguran�a da Informa��o.
+Devido �s caracter�sticas evolutivas do tema, tais instrumentos necessitam
+de aprecia��o e de revis�o constantes.
+Em 26 de dezembro de 2018, foi publicada a Pol�tica Nacional de
+Seguran�a da Informa��o, por meio do
+Decreto n� 9.637, de 2018, que disp�e
+sobre princ�pios, objetivos, instrumentos, atribui��es e compet�ncias de
+seguran�a da informa��o para os �rg�os e entidades da Administra��o P�blica
+federal, sob o prisma da governan�a. N�o obstante seja um instrumento
+significativo, recomenda-se a elabora��o de uma lei espec�fica sobre
+Seguran�a Cibern�tica, capaz de dar diretrizes espec�ficas para o setor
+cibern�tico nacional, e que inclua os
+Poderes
+da Uni�o, dos Estados, do Distrito Federal, dos Munic�pios, o
+setor privado e a sociedade em geral.
+Uma lei
+se destinaria a disciplinar diversos aspectos da dimens�o nacional da
+seguran�a cibern�tica, uma vez que todo o arcabou�o normativo existente �
+insuficiente para o adequado enfrentamento do tema pelo Pa�s. Essa
+insufici�ncia decorre da natureza infralegal dos instrumentos existentes, e
+faz com que se restrinjam � Administra��o P�blica federal, de forma a n�o se
+aplicar, desse modo, aos demais entes do Poder P�blico, e a n�o contemplar,
+ainda, o setor produtivo, dentre os quais, os fornecedores de servi�os
+essenciais, e a sociedade em geral.
+Al�m
+disso, destaca-se que a seguran�a cibern�tica apresenta novo paradigma em
+termos de seguran�a para o Estado, uma vez que todos os atores nacionais
+possuem vulnerabilidades que podem ser exploradas por uma amea�a cibern�tica
+que adquira grande repercuss�o, de forma a colocar em risco at� mesmo a
+estabilidade das institui��es nacionais.
+Um dos
+grandes desafios em termos de seguran�a cibern�tica � que ela precisa ser
+compreendida de uma forma hol�stica e multissetorial, n�o sendo adequado
+abord�-la de forma restrita aos �rg�os governamentais, sem o devido
+engajamento do setor privado e sem um olhar para o usu�rio final de todas as
+tecnologias que utilizam o espa�o cibern�tico.
+Nesse
+sentido, uma lei sobre seguran�a cibern�tica teria o cond�o de alinhar a��es
+de governan�a e de conformidade nesse tema, a partir de um patamar �nico, ao
+vincular os diversos atores nacionais aos princ�pios e regramentos
+propostos. A economia digital, a inser��o do Brasil na Ind�stria 4.0 e o
+alcance dos Objetivos de Desenvolvimento Sustent�vel 52 elegidos
+pelas Organiza��o das Na��es Unidas, exigem que o Pa�s tenha condi��es de
+construir a confian�a e a seguran�a necess�rias para o desenvolvimento
+nacional na era da informa��o.
+Sob
+essa �tica, indicam-se a��es que aprimorem o arcabou�o legal da seguran�a
+cibern�tica nacional, por acreditar que essa iniciativa poder� proporcionar
+o necess�rio alinhamento estrat�gico e normativo �s a��es do Pa�s nessa
+�rea, de forma a ressaltar que deve ser atribu�da especial aten��o �s
+pol�ticas em seguran�a cibern�tica voltadas ao setor produtivo, as quais,
+pela natural for�a advinda do mercado, tendem a ser mais bem-sucedidas que
+aquelas dedicadas exclusivamente �s a��es do setor p�blico e � fiscaliza��o
+regulat�ria.
+Recomenda-se, ainda, no sentido de permitir a elabora��o de instrumentos com
+a maior legitimidade poss�vel, a cria��o de mecanismos que ensejem a
+participa��o da iniciativa privada e da academia para troca de experi�ncias,
+para explora��o de pr�ticas internacionais, para discuss�o de padr�es e de
+melhores pr�ticas no tema e apoio �s decis�es da entidade central.
+2.2.
+Pesquisa, Desenvolvimento e Inova��o
+As �ltimas d�cadas foram marcadas por intensas transforma��es e por
+impactante revolu��o tecnol�gica, que promoveram importantes mudan�as no
+cotidiano das pessoas, especialmente no que se refere �s formas de
+comunica��o, de intera��o e de acesso �s informa��es. Nesse sentido, o
+avan�o tecnol�gico evidenciou a relev�ncia do incentivo � pesquisa e �
+inova��o em prol do desenvolvimento, e demonstrou o papel essencial dessas
+�reas para a sociedade.
+O papel que o Governo deve desempenhar nesse cen�rio tamb�m se torna
+relevante, para que o Pa�s prossiga em um crescimento econ�mico guiado pela
+inova��o, de modo inclusivo e sustent�vel. Nesse contexto, as iniciativas de
+Pesquisa, Desenvolvimento e Inova��o - PD&I, na �rea de seguran�a
+cibern�tica, necessitam de maior prioridade, com o fim de obter maior
+investimento, mais pesquisadores capacitados na �rea, e novos projetos, aos
+moldes de outros pa�ses, de forma a contemplar, inclusive, a criptologia
+como mat�ria de extrema relev�ncia a ser incorporada em projetos de pesquisa
+e de inova��o em �mbito nacional.
+O foco deste eixo � incentivar a busca de solu��es de seguran�a no
+ambiente digital, em linha com o E-Digital, de 2018. Cidades inteligentes,
+que utilizam amplamente tecnologias provenientes da IoT, e integra��o de
+sistemas de governo, que utilizam recursos de BigData , por exemplo,
+precisam ter, no centro dos debates, a preocupa��o com a seguran�a
+cibern�tica.
+A E-Digital estimula a PD&I, e a moderniza��o de uma estrutura produtiva, em
+�reas como: de microeletr�nica, em particular, em a��es que visem �
+capacita��o em design house , de sensores, de automa��o e rob�tica, de
+supercomputador, de intelig�ncia artificial, de BigData e
+analytics , de redes de alto desempenho, de criptografia, de redes m�veis
+de quinta gera��o - 5G e de computa��o em nuvem.
+Recomenda-se, nesse sentido, o investimento na busca de solu��es
+inovadoras em
+novos tipos de criptografia, de forma a considerar seu potencial variado de
+aplicabilidade e seu valor estrat�gico para a seguran�a da informa��o e para
+a seguran�a cibern�tica do Pa�s.
+O
+Brasil possui um cen�rio diversificado no que tange � pesquisa e ao
+desenvolvimento em tecnologia. Identificam-se centros de excel�ncia
+altamente capacitados e reconhecidos por suas atividades, mas que produzem
+pouca inova��o ou tecnologia aplic�vel ao ambiente cibern�tico. � preciso
+que o Pa�s disponha de uma ind�stria de seguran�a cibern�tica inovadora,
+apoiada por pesquisas e por produ��es cient�ficas de alto n�vel, capaz de
+reter talentos que possam contribuir com a ind�stria nacional e realimentar
+o ciclo de produ��o do conhecimento.
+Verifica-se uma disson�ncia entre os projetos conduzidos pelas universidades
+p�blicas e privadas e as necessidades em solu��es de seguran�a cibern�tica
+por parte do setor produtivo. Esse quadro demonstra a necessidade de di�logo
+mais estreito e eficaz entre o setor empresarial e a academia, para que haja
+converg�ncia de esfor�os e de projetos que impactem a sociedade de forma
+positiva e construtiva.
+Nesse
+sentido, recomenda-se o estabelecimento de parcerias com o Minist�rio da
+Educa��o, visando � implementa��o de programas de incentivo ao
+desenvolvimento de capacidades em seguran�a cibern�tica para estudantes da
+educa��o b�sica, com o objetivo de identificar talentos, e orienta-se que
+as universidades desenvolvam projetos em alinhamento com as necessidades do
+setor produtivo.
+A
+aproxima��o dos programas de mestrado e doutorado n�o s� em computa��o
+aplicada, mas em outras �reas do conhecimento, pode ser uma via eficaz para
+forma��o, aprimoramento e qualifica��o de pessoal interessado no tema, al�m
+de gera��o de conhecimento.
+No contexto da inova��o, a E-Ciber incentiva a ado��o de padr�es
+globais e volunt�rios de tecnologia, que permitir� a interoperabilidade em
+escala internacional e, por consequ�ncia, ir� assegurar que n�o s� as
+organiza��es localizadas no Brasil como tamb�m aquelas fora do Pa�s possam
+adotar nossas pr�ticas e processos, de modo a servir de modelo para a
+coopera��o internacional no fortalecimento da seguran�a cibern�tica.
+Ressalta-se, portanto, que pol�ticas p�blicas nesse tema contemplem a
+relev�ncia de se aproveitar avan�os e tecnologias globais, para garantir, de
+todas as formas, a utiliza��o das melhores ferramentas dispon�veis para a
+seguran�a cibern�tica.
+Um dos indicadores usados para medir o desempenho de um pa�s quanto
+� inova��o tecnol�gica � o ranking World Competitiveness Yearbook
+da escola de neg�cios IMD Foundation Board 53 . Na
+vers�o de 2019, o Brasil ocupou o quinquag�simo nono lugar mundial de
+sessenta e tr�s posi��es. A pesquisa indica que o Brasil vem perdendo
+posi��es nesse indicador de inova��o tecnol�gica desde 2010, quando apareceu
+no trig�simo oitavo lugar. Em 2011, caiu para o quadrag�simo quarto lugar.
+Em 2012, j� havia perdido mais duas posi��es no ranking e, na �ltima
+edi��o, caiu mais quinze posi��es.
+No que tange ao uso dos fundos, o maior � o Fundo Nacional de
+Desenvolvimento Cient�fico e Tecnol�gico - FNDCT 54 , criado
+formalmente em 1969, com o objetivo de apoiar financeiramente programas e
+projetos priorit�rios de desenvolvimento cient�fico e tecnol�gico nacionais.
+Os recursos do FNDCT s�o utilizados para apoiar atividades de inova��o e
+pesquisa em empresas e institui��es cient�ficas e tecnol�gicas, entretanto,
+n�o h� foco espec�fico para projetos em seguran�a cibern�tica. Nessa
+perspectiva, considera-se como relevante o uso desse e de outros fundos para
+incentivar programas e a��es de inova��o em seguran�a cibern�tica.
+No atual cen�rio de inova��o e revolu��o tecnol�gica, as empresas
+que surgem com base tecnol�gica - startups desempenham papel de
+relev�ncia como principais fontes de inova��o. A percep��o de seu potencial
+inovador incentivou diversos pa�ses a estabelecerem ampla gama de programas
+de apoio a startups e a pequenas e m�dias empresas, solu��o que o
+Brasil deve seguir e incentivar.
+A prop�sito, nesse contexto, ressalta de import�ncia o prosseguimento das
+pesquisas sobre o uso de intelig�ncia espectral, em virtude do fato de
+sensores empregados em redes IoT, drones , smartphones ,
+dispositivos GPS e em roteadores sem fio poderem sofrer a��es maliciosas no
+espectro de radiofrequ�ncia com s�rios impactos na privacidade e at� mesmo
+na seguran�a de pessoas e de infraestruturas cr�ticas. Entende-se como
+intelig�ncia espectral o uso e a an�lise do espectro de radiofrequ�ncia em
+sistemas de comunica��o sem fio 55 .
+No que tange, ainda, ao eixo Pesquisa e Desenvolvimento, destaca-se a
+import�ncia de considerar os aspectos de seguran�a cibern�tica relacionados
+� tecnologia das redes 5G, uma vez que representa uma revolu��o nas
+comunica��es de dados, no potencial de emprego de equipamentos de IoT e na
+presta��o de novos e disruptivos servi�os que necessitam de redes com
+lat�ncia muito reduzida para sua operacionaliza��o, implementa��o,
+efetiva��o e resili�ncia. Nesse contexto, a E-Ciber recomenda que devem ser
+considerados, na comercializa��o de equipamentos 5G, requisitos m�nimos de
+seguran�a cibern�tica que assegurem o uso pleno, respons�vel e seguro dessa
+tecnologia em prol do desenvolvimento da sociedade e das institui��es
+nacionais.
+2.3. Dimens�o Internacional e Parcerias Estrat�gicas
+O Brasil experimenta o fen�meno da quarta revolu��o industrial,
+onde as tecnologias ganham maior integra��o, o mundo f�sico e o ambiente
+virtual alcan�am elevado grau de intera��o, e os dispositivos de IoT
+proliferam em apoio aos processos produtivos. Essa automa��o tende,
+naturalmente, a aumentar a competitividade e a produtividade do setor
+industrial.
+A denominada Ind�stria 4.0, portanto, traz grandes possibilidades
+de ganhos de produtividade para o setor industrial por meio do emprego de
+novas tecnologias, como IoT, rob�tica avan�ada, impress�o 3D, BigData ,
+computa��o em nuvem, intelig�ncia artificial e sistemas de simula��o
+virtual. Al�m disso, a combina��o entre as tecnologias enseja novas
+possibilidades, novos neg�cios e solu��es, de forma a transpor fronteiras e
+de eliminar dist�ncias. Para melhor visualiza��o dessas tecnologias, tem-se
+uma lista delas, trazida pela Ag�ncia Mais 56 :
+- Rob�tica Avan�ada: ramo educacional e tecnol�gico que engloba
+computadores, rob�s e computa��o que fazem parte de circuitos integrados;
+- BigData - an�lise e interpreta��o de grandes volumes de dados
+variados;
+- Impress�o 3D - forma de tecnologia de fabrica��o aditiva onde um
+modelo tridimensional � criado por sucessivas camadas de material;
+- Computa��o em Nuvem - possibilidade de acessar arquivos e de
+executar diferentes tarefas pela internet sem a necessidade de instalar
+aplicativos, por exemplo;
+- Intelig�ncia artificial - ramo da inform�tica que visa criar
+m�quinas com intelig�ncia similiar � humana;
+- Simula��o Virtual - sistemas capazes de simular o comportamento
+dos equipamentos que se deseja reproduzir; e
+- Internet da Coisas - revolu��o tecnol�gica que tem por objetivo
+conectar itens usados no dia a dia das pessoas � rede mundial de
+computadores.
+Motivado por esse fen�meno, observa-se a crescente incorpora��o de
+tecnologias digitais nas diversas atividades cotidianas, como, por exemplo,
+os aplicativos para marcar consultas ou realizar opera��es banc�rias, os
+carros aut�nomos, o controle de m�quinas e produtos por meio de sensores ou
+qualquer outra tecnologia que otimize a realiza��o de atividades, em termos
+de custos financeiros e de tempo, de forma a corroborar, enfim, para o
+processo de digitaliza��o da economia.
+Com a economia digitalizada, surgem oportunidades de neg�cios no
+�mbito nacional e no internacional. Entretanto, tamb�m despontam novas
+formas de crimes e de a��es maliciosas. O crime cibern�tico � um fen�meno de
+dimens�o global, geralmente com m�ltiplas conex�es territoriais. Em virtude
+dessas caracter�sticas, � imposs�vel a um pa�s atuar sozinho no combate aos
+crimes no ambiente cibern�tico. Nesse sentido, abre-se espa�o para a busca
+por maior integra��o internacional, especialmente entre as for�as policiais,
+os investigadores, os �rg�os de justi�a e os demais atores relacionados �s
+investiga��es criminais no ambiente digital. Em todas essas a��es, deve-se
+manter um ambiente colaborativo que permita o estudo e a ampla utiliza��o
+das tecnologias emergentes.
+Ressalta-se que a seguran�a cibern�tica � assunto global em que se
+faz primordial a intera��o entre diversos atores da comunidade internacional
+para a constru��o de um ambiente digital seguro e confi�vel. Nesse sentido,
+recomenda-se que o Pa�s adote diretrizes que, por meio de medidas de
+constru��o de confian�a, visem � coopera��o interestatal, ao interc�mbio
+intenso de informa��es, � transpar�ncia, � previsibilidade de a��es, �
+reafirma��o da paz internacional e � estabilidade, de modo a corroborar para
+reduzir o risco da escalada de incidentes cibern�ticos em �mbito global.
+No �mbito internacional, em rela��o ao tema cibern�tico, o Pa�s
+deve continuar a se orientar pelos princ�pios constitucionais brasileiros,
+pelos valores fundamentais de nossa sociedade - como o respeito � democracia
+e aos direitos humanos - pela �nfase ao multilateralismo, pelo respeito ao
+direito internacional, pela voca��o para o di�logo e pela solu��o pac�fica
+de controv�rsias, passando pela identifica��o de novas oportunidades
+comerciais. A exist�ncia de normativos como a
+Lei n� 12.965, de 2014
+- Marco Civil da Internet , e a Lei n�
+13.709, de 2018 - Lei Geral de Prote��o de Dados Pessoais , aliada �s
+pol�ticas de desenvolvimento da internet brasileira, refor�am a atua��o do
+Pa�s nos foros internacionais de discuss�o da tecnologia da informa��o e
+comunica��o e, em especial, a seguran�a cibern�tica.
+Ao observar o cen�rio internacional, verifica-se a necessidade
+urgente de coopera��o entre os pa�ses para mitigar amea�as como: os crimes
+cibern�ticos, os ataques cibern�ticos �s infraestruturas cr�ticas, a
+espionagem cibern�tica, a intercepta��o de dados em massa e as opera��es
+ofensivas destinadas a projetar poder pela aplica��o indevida e
+desproporcional de for�a em tempo de paz. Nesse sentido, � preciso refor�ar
+a atua��o brasileira na elabora��o e na revis�o dos instrumentos
+internacionais relativos � seguran�a cibern�tica, ao estimular debates e
+incentivar a coopera��o internacional no tema. Identifica-se, ainda, a
+necessidade de maior integra��o entre o Brasil e os pa�ses da Am�rica
+Latina, sendo o Pa�s um importante condutor regional.
+Ressalta-se que o Pa�s pretende buscar acordos bilaterais de coopera��o em
+seguran�a cibern�tica com o maior n�mero poss�vel de pa�ses, como
+demonstra��o de nosso intuito em estabelecer, nesse campo, rela��es que
+sejam adequadas, prof�cuas, construtivas e transparentes. Considera-se,
+portanto, que parcerias estrat�gicas s�o fundamentais, e devem, sempre, ser
+pautadas em princ�pios como confian�a, capacidade agregadora, e contribui��o
+efetiva, de forma a proporcionar oportunidade para que outros atores, al�m
+dos integrantes do Poder P�blico, possam tamb�m contribuir.
+A coopera��o internacional, portanto, deve ser viabilizada por meio
+de a��es que assegurem seu desenvolvimento e sua cont�nua implementa��o, e
+deve contemplar, dentre outras, o compartilhamento de informa��es ( benchmarking ,
+conhecimento tecnol�gico, doutrina, an�lise de amea�as, compartilhamento de
+intelig�ncia cibern�tica, avalia��o de crises cibern�ticas de vulto) e a
+celebra��o de instrumentos sobre o tema.
+Nesse sentido, a E-Ciber recomenda a participa��o do Pa�s em
+esfor�os internacionais para elabora��o de procedimentos operacionais padr�o
+a serem utilizados para o compartilhamento de informa��es e de respostas a
+grandes crises transnacionais, e incentivar a participa��o de entidades
+p�blicas e privadas em exerc�cios regionais e internacionais como forma de
+apoiar a coopera��o com parceiros estrat�gicos.
+Com rela��o aos atos internacionais relacionados ao tratamento da
+informa��o classificada, o Gabinete de Seguran�a Institucional da
+Presid�ncia da Rep�blica tem a compet�ncia de conduzir as negocia��es, em
+articula��o com o Minist�rio das Rela��es Exteriores. Atualmente, o Gabinete
+de Seguran�a Institucional da Presid�ncia da Rep�blica acompanha dezenas de
+acordos para troca e prote��o m�tua de informa��o classificada.
+Ainda com rela��o aos acordos bilaterais, o Brasil deve estimular a
+negocia��o de tratados de assist�ncia jur�dica m�tua (ou MLATs, Mutual
+Legal Assistance Treaty ) a fim de melhor combater o crime cibern�tico
+quando se expande al�m de nossas fronteiras.
+Na busca desse engajamento internacional, � essencial que o Brasil
+participe de iniciativas de estrutura��o normartiva futura, como as
+relativas � cria��o de padr�es que guiar�o a seguran�a em tecnologias
+emergentes, como as redes de comunica��o 5G, a intelig�ncia artificial e a
+internet das coisas. Desse modo, o Pa�s ter� melhores condi��es de trabalhar
+e de influenciar esses padr�es, ao reconhecer que consistem em desafios
+internacionais.
+� fato que a integra��o e a coopera��o entre administra��o p�blica,
+setor privado e sociedade, em diversas �reas, costuma trazer resultados
+ben�ficos, e contribui para elevar a confian�a do cidad�o nas institui��es
+p�blicas e privadas e aprimora a rela��o entre esses atores. Na �rea da
+seguran�a cibern�tica essa rela��o � essencial, uma vez que, como o tema �
+transversal, os melhores resultados somente ser�o alcan�ados se todos agirem
+de forma coordenada, sempre cientes de que nenhum ator poder�, de forma
+isolada, enfrentar com todos os desafios impostos pelas novas tecnologias.
+Nesse sentido, s�o necess�rias responsabilidades bem definidas, e cabe ao
+Governo o papel central de coordena��o desse complexo ecossistema, ao
+direcionar os esfor�os em prol do bem-estar da sociedade.
+A necessidade de estabelecer e consolidar parcerias estrat�gicas no
+ambiente cibern�tico torna-se ainda mais evidente ao se constatar que grande
+parte das infraestruturas cr�ticas est�o sob responsabilidade do setor
+privado, o que refor�a a necessidade de prop�sitos comuns, em seguran�a
+cibern�tica, entre Governo, empresas privadas, academia e a sociedade em
+geral.
+No Brasil, os processos de coordena��o entre os distintos atores do
+ambiente cibern�tico, at� o momento, comp�em um amplo leque de arranjos nem
+sempre institucionalizados e perenes, e nem atrelados a mecanismos
+convencionais de regula��o 57 . Soma-se a esse fato a exist�ncia de
+grande quantidade de institui��es que lidam direta ou indiretamente com a
+seguran�a cibern�tica, o que traz grandes desafios de coopera��o e de
+coordena��o para o Estado brasileiro. Portanto, recomenda-se a cria��o de
+canais de comunica��o apropriados, a fim de que seja ouvido e contemplado o
+maior n�mero de segmentos da sociedade brasileira quando da elabora��o, da
+implementa��o e da promo��o de pol�ticas p�blicas relativas � seguran�a
+cibern�tica.
+� importante ressaltar que as parcerias no campo cibern�tico tendem
+a se consolidar se forem baseadas na confian�a, em interesses e em objetivos
+comuns, onde os planos de a��o sejam constru�dos em conjunto, e onde os
+mecanismos de coordena��o sejam eficazes. Diante disso, cresce em relev�ncia
+a realiza��o de reuni�es com atores destacados em seguran�a cibern�tica e a
+institui��o, caso necess�rio, de grupos de trabalho e de f�runs sobre o
+tema.
+Portanto, como a seguran�a cibern�tica � de extrema import�ncia para o poder
+p�blico e para as institui��es privadas, entende-se como relevante a cria��o
+de um mecanismo de compartilhamento de informa��es sobre riscos
+cibern�ticos, com o fim de contribuir para a identifica��o, o gerenciamento
+e a mitiga��o de riscos. Essa cont�nua troca de conhecimento ir� auxiliar
+organiza��es a evitar, a avaliar e a gerenciar riscos corretamente, al�m de
+viabilizar uma abordagem coordenada mais eficaz e eficiente.
+2.4. Educa��o
+Construir uma sociedade conectada tem sido um desafio para o Estado
+brasileiro. Contudo, gra�as � moderniza��o tecnol�gica e � expans�o das
+redes de telecomunica��es, que resultaram em um r�pido e massivo acesso �
+internet por parte de milh�es de brasileiros, conforme abordado no item
+Diagn�stico, hoje 98% da popula��o possui acesso �s redes m�veis e 60% dos
+domic�lios t�m acesso por meio da rede fixa. Entretanto, essa realidade
+trouxe uma s�rie de novas preocupa��es, especialmente com rela��o �s
+vulnerabilidades e �s amea�as cibern�ticas.
+Como consequ�ncia do maior acesso �s redes digitais, e em virtude
+da pouca maturidade em seguran�a cibern�tica, o Brasil ocupa lugar de
+destaque no ranking dos pa�ses que mais recebem ataques cibern�ticos.
+A falta de cultura em seguran�a cibern�tica, de habilita��o e de
+conhecimento nesse tema de grande n�mero de brasileiros conectados ao mundo
+digital mostra que a nossa sociedade n�o est� preparada para o uso das
+ferramentas digitais com os cuidados adequados relativos � seguran�a
+cibern�tica.
+Nesse
+contexto, destaca-se a import�ncia da alfabetiza��o digital, ou digital
+literacy , conceito que, segundo a Western Sidney University 58 ,
+significa �possuir as habilidades necess�rias para viver, aprender e
+trabalhar em uma sociedade em que a comunica��o e o acesso � informa��o
+ocorrem cada vez mais por meio de tecnologias digitais, como plataformas da
+Internet, m�dias sociais e dispositivos m�veis�. Esse esfor�o de educa��o
+digital, que passa pela inclus�o tecnol�gica, visa a preencher imensa lacuna
+entre os usu�rios atuais dessas tecnologias e os pertencentes ao grupo dos
+chamados �nativos digitais�, express�o criada em 2001, por Marc Prensky 59 , especialista estadunidense em educa��o, que usou o termo para se
+referir a todos os nascidos ap�s 1980, cujo desenvolvimento biol�gico e
+social se deu em contato direto com a tecnologia.
+Dessa forma, recomenda-se desenvolver uma cultura de seguran�a
+cibern�tica, por meio da educa��o, que alcance todos os setores da sociedade
+e n�veis de ensino, a fim de prevenir incidentes e proporcionar o uso
+respons�vel das tecnologias, por ser um dos fatores chaves para o
+desenvolvimento do Pa�s.
+A educa��o em seguran�a cibern�tica � concebida em tr�s formas de
+atua��o, em grau crescente de especializa��o de conte�do, e em grau
+decrescente de abrang�ncia da sociedade, conforme o que segue:
+- Capacita��o - profissionais da �rea ou com fun��es que requerem
+compet�ncias na �rea;
+- Forma��o - parcela da sociedade que se encontra nos bancos
+escolares; e
+- Conscientiza��o - sociedade e seus setores.
+A conscientiza��o � obtida por meio de a��es direcionadas a
+sensibilizar setores espec�ficos da sociedade, ou esta como um todo. Num
+foco mais restrito, a forma��o abrange o ensino de seguran�a cibern�tica
+direcionado � parcela da sociedade que se encontra na educa��o infantil, no
+ensino fundamental, no ensino m�dio e no ensino superior. Por fim, a
+capacita��o engloba a educa��o, na modalidade profissional e tecnol�gica,
+destinada ao ensino continuado para profissionais da �rea, ou para aqueles
+cujo cargo ou fun��o requeira conhecimentos t�cnicos mais profundos e
+especializados de seguran�a cibern�tica. A capacita��o � a forma de atua��o
+mais especializada e pode ser realizada por interm�dio de treinamentos de
+curta dura��o, certifica��es de seguran�a, dentre outros meios.
+No que diz respeito � implementa��o dessas tr�s vertentes de
+educa��o em seguran�a cibern�tica, a responsabilidade deve ser compartilhada
+entre �rg�os de Estado, setor educacional, servi�os sociais do com�rcio e da
+ind�stria, e sistemas nacionais de aprendizagem. Cabe ressaltar que, para
+isso, h� uma s�rie de recursos educacionais dispon�veis, conforme v�-se a
+seguir:
+- Capacita��o - os Planos de Capacita��o para professores, gestores
+e especialistas e os Bancos de Talentos;
+- Forma��o - a Cria��o de cursos e a Inser��o do tema nos
+curr�culos escolares;
+- Conscientiza��o - os Planos de Conscientiza��o nas escolas e
+institui��es, os Portais de boas pr�ticas e as Campanhas educativas.
+No contexto da conscientiza��o, incentiva-se a concep��o de
+pol�ticas p�blicas, que levem � consci�ncia situacional ante o atual cen�rio
+de amea�as cibern�ticas, e estimulem o comportamento respons�vel e seguro
+por parte dos usu�rios da internet.
+As a��es de conscientiza��o tornaram-se ferramenta essencial para
+mudan�as de comportamento relativas ao ambiente cibern�tico, e s�o
+relevantes, � medida que levam os indiv�duos a perceber, em sua rotina
+pessoal ou profissional, quais atitudes precisam ser corrigidas no mundo
+digital.
+Como exemplo, tem-se a realiza��o, em todo m�s de outubro, do
+National Cybersecurity Awareness Month - M�s Nacional de Conscientiza��o
+em Seguran�a Cibern�tica, que � um esfor�o colaborativo entre o Governo dos
+Estados Unidos da Am�rica e a ind�stria para aumentar a conscientiza��o
+sobre a import�ncia da seguran�a cibern�tica e garantir que todos os
+norte-americanos tenham os recursos necess�rios para estarem mais seguros
+online .
+A conscientiza��o deve atingir amplas audi�ncias, dentre usu�rios
+individuais e corporativos, de crian�as a idosos. Deve ainda ser cont�nua,
+criativa e motivadora, a fim de concentrar a aten��o do p�blico-alvo, para
+mudan�a de comportamento favor�vel ao ambiente cibern�tico, sendo importante
+a promo��o de a��es peri�dicas, junto � sociedade, com o objetivo do uso
+seguro e respons�vel dos recursos de tecnologia da informa��o e comunica��o,
+e � prote��o contra riscos t�picos no espa�o cibern�tico.
+Um programa de conscientiza��o pode incluir as seguintes tarefas:
+- definir o alvo da campanha de conscientiza��o;
+- desenvolver mecanismos para alcan�ar esse p�blico-alvo;
+- identificar problemas comportamentais comuns que afetam o p�blico-alvo ou
+que ele deve conhecer;
+- aprimorar o conte�do de sites governamentais, principalmente os mais
+acessados, com material relacionado � seguran�a cibern�tica; e
+- considerar a tradu��o do material para outros idiomas.
+Orienta-se fortalecer programas de treinamento e de educa��o em
+seguran�a cibern�tica. Tal sugest�o constitui uma demanda atual por parte de
+organiza��es p�blicas e privadas. Segundo o Center for Strategic and
+International Studies , estima-se que existam de um a dois milh�es de
+empregos n�o preenchidos em todo o mundo na �rea de seguran�a cibern�tica 60 .
+O r�pido avan�o tecnol�gico, acompanhado da transforma��o digital
+proposta para a sociedade moderna, tornou imprescind�vel o desenvolvimento
+de a��es educacionais e pedag�gicas para a forma��o em prol do uso
+criterioso, seguro e respons�vel das tecnologias. Nesse sentido,
+considera-se que a prioridade de investimentos em programas de educa��o
+relacionados � seguran�a cibern�tica � um pilar essencial para reduzir os
+riscos �s empresas e � sociedade.
+No contexto da forma��o, a abordagem da seguran�a cibern�tica nas
+escolas brasileiras ainda � muito incipiente, quando n�o, inexistente. No
+�mbito da educa��o superior, a seguran�a cibern�tica, como disciplina ou
+programa de estudo, ainda � de dif�cil acesso aos alunos. A seguran�a
+cibern�tica, em geral, n�o � um t�pico acad�mico isolado, mas parte do
+curr�culo do curso de gradua��o de Ci�ncia da Computa��o, sendo um tema em
+constante mudan�a, que requer treinamento e educa��o constantes. Entretanto,
+ressalta-se que j� existem iniciativas de ensino em �reas correlatas �
+seguran�a cibern�tica, como a recente cria��o do curso superior de
+Tecnologia em Defesa Cibern�tica, no Cat�logo Nacional de Cursos Superiores
+de Tecnologia.
+Nesse sentido, segundo o McAfee Reporter , �o aprendizado
+cont�nuo � vital para reter talentos em seguran�a cibern�tica. Embora os
+empregadores possam ser cautelosos em investir em programas de treinamento
+caros que tornam os funcion�rios mais atraentes no mercado de talentos,
+nossa pesquisa mostra que a aus�ncia desse treinamento � muitas vezes um
+fator significativo nas decis�es das pessoas em buscar emprego alternativo�.
+Atualmente, universidades e institui��es n�o formam especialistas
+suficientes em seguran�a cibern�tica para atender �s crescentes necessidades
+do setor; entretanto, o tema tornou-se de tamanha relev�ncia que n�o pode
+permanecer restrito �quelas entidades, mas deve ser de conhecimento e de
+dom�nio de todos os n�veis de ensino.
+Recomenda-se que se d� �nfase em seguran�a cibern�tica nos
+curr�culos de cursos t�cnicos, particularmente naqueles que envolvam
+desenvolvimento de softwares , nos n�veis de ensino m�dio e de ensino
+superior, e nos curr�culos da modalidade de ensino �educa��o tecnol�gica e
+forma��o profissional� 61 .
+No contexto da capacita��o em seguran�a cibern�tica, a situa��o n�o
+� diferente. Pesquisa realizada em 2018, pela ManpowerGroup 62 ,
+empresa l�der mundial em solu��es inovadoras de for�a de trabalho, com
+aproximadamente quarenta mil empregadores de quarenta e tr�s pa�ses, mostra
+que quase a metade deles (45%) tem dificuldade para encontrar pessoas
+qualificadas, inclusive, no segmento de seguran�a cibern�tica. Entre os
+empregadores brasileiros, 34% afirmam ter dificuldade em recrutar talentos.
+A era digital tem transformado os modelos de trabalho, que passam a exigir
+novas habilidades.
+As maiores dificuldades das empresas no processo de contrata��o no
+Brasil s�o a aus�ncia de habilidades t�cnicas (33%), seguida pela falta de
+experi�ncia (23%) e pela car�ncia de habilidades interpessoais (19%). A
+primeira tem a ver com as lacunas educacionais brasileiras. A segunda se
+relaciona com a resist�ncia de recrutadores de dar oportunidade a novatos. E
+a terceira relaciona-se a compet�ncias comportamentais, que n�o s�o inatas,
+sendo poss�vel desenvolv�-las. Tais dificuldades para a contrata��o
+demonstram o descompasso existente entre a situa��o dos profissionais
+existentes e as necessidades do mercado de trabalho.
+Apesar dos esfor�os educacionais empreendidos at� o momento no campoda
+tecnologia da informa��o e comunica��o, verifica-se que t�m sido
+insuficientes diante da demanda nacional. �Segundo estudo divulgado pela
+Brasscom - Associa��o Brasileira das Empresas de Tecnologia da Informa��o e
+Comunica��o, o mercado de tecnologia no Brasil precisar� de aproximadamente
+70 mil profissionais ao ano at� 2024, n�mero que poder� representar um
+d�ficit de 260 mil pessoas qualificadas no per�odo� 63 .
+Acrescenta o estudo que hoje, no Pa�s, �o setor de TIC - tecnologia da
+informa��o e comunica��o � respons�vel por 845 mil empregos e forma 46 mil
+alunos por ano com perfil tecnol�gico no ensino superior�. O relat�rio
+afirma, ainda, que �as especializa��es mais requisitadas e que precisam de
+m�o de obra imediata s�o as de desenvolvedores web e mobile ,
+computa��o em nuvem, ci�ncias de dados, seguran�a cibern�tica e intelig�ncia
+artificial�.
+Verifica-se que o setor privado se concentra com intensidade no
+desenvolvimento da for�a de trabalho, mas necessita do apoio do Estado na
+forma��o da for�a de trabalho futura. Para tanto, recomendam-se a��es
+governamentais no sentido de proporcionar maiores oportunidades de
+treinamento e de forma��o para profissionais de tecnologia da informa��o e
+de seguran�a cibern�tica, para melhorar a capacita��o necess�ria �
+implanta��o das m�ltiplas tecnologias e solu��es digitais. Esse objetivo
+pode ser alcan�ado, por exemplo, por meio de parcerias com universidades
+para o desenvolvimento dos curr�culos de seguran�a cibern�tica; de
+treinamentos na �rea, mediante semin�rios e workshops ; e da cria��o
+de programas voltados para as �reas internacionalmente conhecidas como de
+STEM - Science , Technology , Engineering and Mathematics 64 .
+N�o obstante o cen�rio cibern�tico atual, as empresas continuam a
+sofrer com a falta de profissionais melhor qualificados e com a reten��o de
+seus talentos, de acordo com o estudo State of Cybersecurity :
+2019, da associa��o global de tecnologia da informa��o, seguran�a e
+auditoria cibern�tica - ISACA 65 , divulgado no in�cio de 2019.
+Segundo a pesquisa, manter os profissionais de seguran�a cibern�tica � muito
+dif�cil, e a forma��o e as certifica��es promovidas e custeadas pelo
+empregador n�o s�o suficientes para garantir a reten��o. Os profissionais de
+seguran�a cibern�tica est�o migrando com maior frequ�ncia de seus empregos
+para aqueles que oferecem remunera��es maiores, perspectivas de progress�o
+na carreira e percep��o de ambientes de trabalho mais saud�veis.
+Por fim, segundo a pesquisa da ISACA, as empresas implementam
+v�rias estrat�gias para reter profissionais de seguran�a cibern�tica, dentre
+elas, o fornecimento de treinamento adicional. Cinquenta e sete por cento
+dos entrevistados indicam que suas empresas investem em mais treinamento,
+como incentivo para que seus funcion�rios nelas permane�am.
+Como as
+previs�es para 2020 indicam que as pequenas e m�dias empresas s�o o pr�ximo
+alvo dos ataques cibern�ticos, ressalta-se a necessidade de a��es de
+conscientiza��o. O primeiro passo � o reconhecimento, por parte das
+empresas, que seus dados n�o est�o 100% seguros. Isso significa que ataques,
+redu��o da produtividade e preju�zos podem ser evitados, se houver mudan�a
+de atitude. O assunto � comum, tanto que conceitos como o Zero Trust ,
+refletidos em maior rigidez no acesso � rede, na inspe��o e no registro de
+tr�fego, t�m sido discutidos e aplicados no meio corporativo.
+A tend�ncia �
+que os crimes cibern�ticos ocorram com maior frequ�ncia no nicho das
+pequenas e m�dias empresas, porque, em geral, essas empresas n�o adotam as
+devidas medidas e a��es preventivas. Como, frequentemente, empresas menores
+s�o fornecedoras de servi�os das maiores, isso torna as menores um canal de
+conex�o para grandes organiza��es, que possibilitam ataques por infiltra��o.
+Nesse sentido, ressalta-se a import�ncia da conscientiza��o de
+gestores, tanto do setor p�blico quanto do setor privado, sobre seguran�a
+cibern�tica, uma vez que, em sua maioria, decidem a aloca��o de recursos e o
+tempo destinado aos projetos definidos como priorit�rios.
+Essa
+iniciativa cresce de import�ncia com a premente conformidade de entidades
+p�blicas e privadas � recente
+Lei n� 13.709, de 2018 -
+Lei Geral de Prote��o de Dados Pessoais ,
+que evidencia a necessidade de que tais institui��es invistam em programas
+de capacita��o sobre prote��o e privacidade desses dados.
+Recomenda-se, nesse contexto, o incentivo �s iniciativas para
+aumentar o interesse e o acesso � educa��o em ci�ncias da computa��o para
+alunos da educa��o b�sica, com possibilidade de expans�o de parcerias
+p�blico-privadas, repensar a educa��o profissional e treinar mais
+professores para qualific�-los adequadamente no tema.
+Identifica-se, tamb�m, a necessidade de desenvolvimento de
+programas de treinamento em seguran�a cibern�tica, para os trabalhadores do
+setor p�blico e do setor privado, para que possam aprimorar seus
+conhecimento e desenvolver novas habilidades nessa �rea.
+Dados da Organiza��o para a Coopera��o e Desenvolvimento Econ�mico
+- OCDE revelam que at� 2021 haver� tr�s milh�es e quinhentas mil vagas n�o
+preenchidas no mercado de trabalho de seguran�a cibern�tica em todo o mundo.
+No Brasil, a pesquisa da Associa��o Brasileira das Empresas de Tecnologia da
+Informa��o e Comunica��o - Brasscom estima que, at� 2024, o mercado
+demandar� quatrocentos e vinte mil profissionais da �rea de tecnologia da
+informa��o e comunica��o, sendo que quarenta e cinco mil especificamente
+para o segmento de seguran�a cibern�tica. Tais n�meros levam ao entendimento
+de que a maior defici�ncia no combate aos crimes cibern�ticos n�o ser� de
+ordem tecnol�gica mas, sim, da falta de recursos humanos.
+Uma recente pesquisa realizada pelo Center for Strategic and
+International Studies - CSIS 66 , com tomadores de decis�es de
+tecnologias da informa��o de oito pa�ses, revelou que 82% dos empregadores
+relatam uma falta de habilidades de seus empregados no tema de seguran�a
+cibern�tica, e
+71% acreditam que essa lacuna de talentos causa danos diretos �s suas
+organiza��es.
+No Brasil, as seguintes lacunas foram identificadas:
+- poucos profissionais especializados em seguran�a cibern�tica;
+- baixa conscientiza��o dos usu�rios; e
+- poucos programas educacionais focados na �rea.
+O combate aos ataques cibern�ticos exige profissionais
+continuamente capacitados. Nesse sentido, urge a necessidade de um programa
+de capacita��o de abrang�ncia nacional destinado � forma��o t�cnica e ao
+aprimoramento de recursos humanos com vistas a fortalecer a seguran�a
+cibern�tica nos �rg�os de governo e nas empresas privadas. Nesse contexto,
+as institui��es p�blicas devem buscar a articula��o e o fortalecimento na
+�rea de seguran�a cibern�tica, por meio de a��es colaborativas e de
+parcerias com o setor privado, com a academia e com o terceiro setor, no
+Pa�s e no exterior, para estimular o cont�nuo desenvolvimento de massa
+cr�tica e de talentos. Visualiza-se como uma das alternativas poss�veis, a
+disponibiliza��o de treinamentos gratuitos em seguran�a cibern�tica em
+plataformas virtuais de governo.
+O
+investimento em capacita��o de profissionais de seguran�a - gestores,
+analistas e mesmo operadores - objetiva a ado��o n�o apenas de uma atitude
+preventiva ou reativa diante de amea�as e de incidentes cibern�ticos, mas
+tamb�m de uma atitude consultiva, o que resultar� em maior confian�a por
+parte das �reas final�sticas de suas institui��es, e em menor resist�ncia,
+em caso de recomenda��es.
+Verifica-se, ainda, que em geral as equipes de seguran�a enfrentam
+uma disparidade entre a disponibilidade de m�o de obra qualificada e a
+sofistica��o das amea�as, sendo de suma import�ncia o investimento na
+capacita��o de profissionais para que possam, de modo eficaz, enfrentar
+esses constantes desafios.
+Por fim, a efetividade do desenvolvimento de uma cultura de
+seguran�a cibern�tica por interm�dio da conscientiza��o, forma��o e
+capacita��o depende de uma gest�o de conhecimento bem estruturada, a fim de
+dar continuidade a todos os processos envolvidos, formar profissionais no
+estado-da-arte e em fun��o da din�mica do surgimento e da obsolesc�ncia das
+compet�ncias de seguran�a cibern�tica.
+REFER�NCIAS
+1. BRASIL. Presid�ncia da Rep�blica. Gabinete de Seguran�a
+Institucional. Departamento de Seguran�a da Informa��o e Comunica��es.
+Estrat�gia de Seguran�a da Informa��o e Comunica��es e de Seguran�a
+cibern�tica da Administra��o P�blica Federal, 2015-2018. Vers�o 1.0.
+Dispon�vel em: <http://dsic.planalto.gov.br/legislacao/4_Estrategia_de_SIC.pdf>.
+Acesso em maio de 2019.
+2. BRASIL. Decreto n� 9.637, de 26 de dezembro de 2018 . Institui a
+Pol�tica Nacional de Seguran�a da Informa��o, disp�e sobre a governan�a da
+seguran�a da informa��o, e altera o Decreto n� 2.295, de 4 de agosto de
+1997, que regulamenta o disposto no art. 24, caput , inciso IX, da Lei n�
+8.666, de 21 de junho de 1993, e disp�e sobre a dispensa de licita��o nos
+casos que possam comprometer a seguran�a nacional. Casa Civil, Subchefia
+para Assuntos Jur�dicos, 2018. Dispon�vel em: <http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Decreto/D9637.htm>.
+Acesso em maio de 2019.
+3. BRASIL. Gabinete de Seguran�a Institucional da Presid�ncia da
+Rep�blica. Portaria n� 93, de 26 de setembro de 2019. Aprova o Gloss�rio de
+Seguran�a da Informa��o. Dispon�vel em: <http://www.in.gov.br/web/dou/-/portaria-n-93-de-26-de-setembro-de-2019-219115663 >.
+Acesso em outubro de 2019.
+4. MODELO DE MATURIDADE DA CAPACIDADE DE CIBERSEGURAN�A (CMM).
+CARNEGIE-MELLON UNIVERSITY. Dispon�vel em: <https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5887>.
+Acesso em maio de 2019.
+5. REPORT �DIGITAL IN 2018. WE ARE SOCIAL. HOOTSUITE. Dispon�vel
+em: < https://hootsuite.com/pt/pages/digital-in-2018> Acesso em maio de
+2019.
+6. THE COST OF CYBERCRIME . INTERNET SOCIETY.
+Dispon�vel em:
+<https://www.internetsociety.org/blog/2018/02/the-cost-of-cybercrime/>.
+Acesso em maio de 2019.
+7. WORLD ECONOMIC OUTLOOK REPORTS. INTERNATIONAL MONETARY FUND.
+Dispon�vel em:
+<https://www.imf.org/en/Publications/WEO/Issues/2019/03/28/world-economic-outlook-april-2019>.
+Acesso em maio de 2019.
+GLOBAL DIGITAL POPULATION AS OF JULY 2019 (IN MILLIONS) .
+STATISTA. Dispon�vel em:
+<https://www.statista.com/statistics/617136/digital-population-worldwide/>.
+Acesso em maio de 2019.
+9. TEMPEST, EMPRESA DE SEGURAN�A DIGITAL, COMPRA INTEGRADORA EZ-SECURITY .
+VALOR ECON�MICO. Dispon�vel em: < https://www.valor.com.br/empresas/5313593/tempest-empresa-de-seguranca-digital-compra-integradora-ez-security>.
+Acesso em maio de 2019.
+10. BRASIL OCUPA 66� LUGAR EM RANKING DA ONU DE TECNOLOGIA DE INFORMA��O
+E COMUNICA��O . NA��ES UNIDAS - BRASIL. Dispon�vel em:
+<https://nacoesunidas.org/brasil-ocupa-66o-lugar-em-ranking-da-onu-de-tecnologia-de-informacao-e-comunicacao>
+Acesso em junho de 2019.
+11. Refer�ncias das fontes utilizadas para compor o cen�rio descrito no
+Anexo I - Diagn�stico:
+(1)
+MEASURING THE INFORMATION SOCIETY REPORT 2017.
+ITU. Dispon�vel em:
+<https://www.itu.int/en/ITUD/Statistics/Documents/publications/misr2017/MISR2017_Volume1.pdf >.
+Acesso em junho de 2019.
+(2) BRASIL. Tribunal de Contas da Uni�o.
+Relat�rio de levantamento Governan�a de Tecnologia da Informa��o
+(TI) na Administra��o P�blica Federal (APF). TC 008.127/2016-6. Dispon�vel
+em:
+<https://portal.tcu.gov.br/fiscalizacao-de-tecnologia-da-informacao/atuacao/perfil-de-governanca-de-ti/ >.
+Acesso em junho de 2019.
+(3)
+GLOBAL CYBERSECURITY INDEX 2018.
+ITU.
+Dispon�vel em:
+<https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2018-PDF-E.pdf >.
+Acesso em junho de 2019.
+(4)
+PNAD CONT�NUA TIC 2017 . PNAD.
+Dispon�vel em:
+<https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/23445-pnad-continua-tic-2017-internet-chega-a-tres-em-cada-quatro-domicilios-do-pais >.
+Acesso em junho de 2019.
+(5)
+PESQUISA TIC EMPRESAS 2017. CETIC.BR.
+Dispon�vel em:
+<https://www.cetic.br/publicacao/pesquisa-sobre-o-uso-das-tecnologias-de-informacao-e-comunicacao-nas-empresas-brasileiras-tic-empresas-2017/ >.
+Acesso em junho de 2019.
+(6)
+PESQUISA TIC EMPRESAS 2017.
+CETIC.BR. Dispon�vel em: <https://cetic.br/tics/governo/2017/orgaos/ >.
+Acesso
+em junho de 2019.
+(7)
+NORTON LIFELOCK CYBER SAFETY INSIGHTS REPORT 2018.
+NORTON SECURITY.
+Dispon�vel em: <2018 Norton LifeLock Cyber Safety Insights Report>. Acesso
+em junho de 2019.
+(8) 8 A CADA 10 EXECUTIVOS J� ENFRENTARAM FRAUDES
+CIBERN�TICAS . IT FORUM 365. Dispon�vel em:
+<https://itforum365.com.br/8-cada-10-executivos-ja-enfrentaram-fraudes-ciberneticas/>
+Acesso em junho de 2019.
+(9)
+PESQUISA TIC EMPRESAS 2017.
+CETIC.BR. Dispon�vel em:
+<https://www.cetic.br/media/docs/publicacoes/2/10522920190604-TIC-EMPRESAS-2017-ed-rev.pdf >.
+Acesso em junho de 2019.
+(10)
+NORTON CYBER SAFETY INSIGHTS REPORT, 2017.
+NORTON SECURITY. Dispon�vel em:
+<https://us.norton.com/cyber-security-insights-2017 >
+Acesso em junho de 2019.
+(11)
+NORTON CYBER SAFETY INSIGHTS REPORT, 2017.
+NORTON
+SECURITY. Dispon�vel em: <https://us.norton.com/cyber-security-insights-2017 >
+Acesso em junho de 2019.
+12.
+INTERNET ORGANISED CRIME THREAT ASSESSMENT (IOCTA) 2018.
+EUROPEAN UNION AGENCY FOR LAW ENFORCEMENT COOPERATION, EUROPOL.
+Dispon�vel em:
+<https://www.europol.europa.eu/activities-services/main-reports/internet-organised-crime-threat-assessment-iocta-2018>
+Acesso em junho de 2019.
+13. RELAT�RIO DA SEGURAN�A DIGITAL NO BRASIL, 2018. PSAFE. Dispon�vel
+em: < https://www.psafe.com/dfndr-lab/wp-content/uploads/2018/08/dfndr-lab-Relat%C3%B3rio-da-Seguran%C3%A7a-Digital-no-Brasil-2%C2%BA-trimestre-de-2018.pdf .>.
+Acesso em junho de 2019.
+14.
+CYBER REVIEW 2019 .
+JLT BRASIL . Dispon�vel em: <http://www.brasil.jlt.com/midia/noticias-e-releases/2019/04/nova-edicao-cyber-view-2019 >.
+Acesso em junho de 2019.
+15. TEMPEST APRESENTA PRIMEIRO ESTUDO DO MERCADO
+BRASILEIRO DE CIBERSEGURAN�A . CRYPTO ID. TEMPEST/EZ-SECURITY. Dispon�vel
+em: <https://cryptoid.com.br/pesquisas-seguranca-da-informacao-e-ciberseguranca/tempest-apresenta-primeiro-estudo-do-mercado-brasileiro-de-ciberseguranca/>.
+Acesso em junho de 2019.
+16. BRASIL. Minist�rio da
+Ci�ncia, Tecnologia, Inova��es e Comunica��es . Estrat�gia
+Brasileira para a Transforma��o Digital (E-Digital). MCTIC. Dispon�vel em:
+<http://www.mctic.gov.br/mctic/export/sites/institucional/estrategiadigital.pdf>.
+Acesso em julho de 2019.
+17. BC QUER CRIAR CONDI��ES PARA O REAL SER LIVREMENTE NEGOCIADO NO
+EXTERIOR. EXAME. Dispon�vel em: <https://exame.abril.com.br/seu-dinheiro/bc-quer-criar-condicoes-para-o-real-ser-livremente-negociado-no-exterior/>.
+Acesso em outubro de 2019.
+18.
+Open Insurance
+chega ao mercado brasileiro. IBRACOR. Dispon�vel em: http://ibracor.org.br/todas-noticias/-/asset_publisher/oEWZ8S1DqA47/content/open-insurance-chega-ao-mercado-brasileiro.
+Acesso em outubro de 2019.
+19.
+EGOVERNMENT BENCHMARK 2018.
+EUROPEAN COMMISSION. Dispon�vel em: < https://ec.europa.eu/digital-single-market/en/news/egovernment-benchmark-2018-digital-efforts-european-countries-are-visibly-paying>.
+Acesso em junho de 2019.
+20. CYBERSECURITY FRAMEWORK. NIST. Dispon�vel em:
+<https://www.nist.gov/cyberframework/online-learning/five-functions>. Acesso
+em outuibro de 2019.
+21. BRASIL. Decreto n� 9.203, de 22 de novembro de 2017 . Disp�e sobre a
+pol�tica de governan�a da administra��o p�blica federal direta, aut�rquica e fundacional. Dispon�vel em:
+<http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Decreto/D9203.htm>.
+Acesso em junho de 2019.
+22. INFONOVA. Dispon�vel em: <
+https://www.infonova.com.br/artigo/entenda-sobre-pirataria-de-software/>.
+Acesso em outubro de 2019.
+23. ISACA. Dispon�vel em: < http://www.isaca.org/COBIT/Pages/default.aspx >.
+Acesso em outubro de 2019.
+24. NIST. Dispon�vel em: < https://www.nist.gov/ >.
+Acesso em outubro de 2019.
+25. CIS. Dispon�vel em: < https://www.cisecurity.org/ >.
+Acesso em outubro de 2019.
+26. ECOIT. Dispon�vel em:
+https://ecoit.com.br/o-que-e-soar/.
+Acesso em outubro de 2019.
+27. IBLISS. Dispon�vel em: https://www.ibliss.digital/saiba-o-que-uma-plataforma-soar-pode-fazer-pelo-seu- negocio/>.
+Acesso em outubro de 2019.
+28. TI FORENSE. Dispon�vel em: < https://www.tiforense.com.br/o-que-e-um-siem/ >.
+Acesso em outubro de 2019.
+29.
+MUROYA, Leonardo. Apresenta��o �Trilha Cases & Li��es�, Security Leaders 10
+Anos, S�o Paulo, 29 Out 19.
+30.
+O QUE � UM CERTIFICADO DIGITAL?. BRY
+TECNOLOGIA. Dispon�vel em: <https://www.bry.com.br/blog/o-que-e-um-certificado-digital/ >.
+Acesso em junho de 2019.
+31. N�MEROS DA ICP-BRASIL EM ABRIL DE 2019 . ITI. Dispon�vel em: < https://www.iti.gov.br/component/content/article?id=2590 >.
+Acesso em julho de 2019.
+32. BRASIL. CONGRESSO NACIONAL. Senado Federal. Comiss�o Parlamentar de
+Inqu�rito. CPI da Espionagem. Dispon�vel em: < https://www12.senado.leg.br/noticias/arquivos/2014/04/04/integra-do-relatorio-de-ferraco >.
+Acesso em julho de 2019.
+33.
+BRASIL. Decreto n� 9.203, de 22 novembro de 2017 . Disp�e sobre a pol�tica de
+governan�a da administra��o p�blica federal direta, aut�rquica e fundacional.
+Dispon�vel em: < http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Decreto/D9203.htm >.
+Acesso em julho de 2019.
+34. CERT.BR. Dispon�vel em: < https://www.cert.br/ >.
+Acesso em julho de 2019.
+35. CTIR Gov. Dispon�vel em: < https://www.ctir.gov.br/ >.
+Acesso em julho de 2019.
+36. COMMON VULNERABILITIESAND EXPOSURES. CVE. Dispon�vel em:
+<https://cve.mitre.org/index.html >.
+Acesso em outubro de 2019.
+37.
+INCIDENTES REPORTADOS AO CERT.BR -- JANEIRO A
+DEZEMBRO DE 2018 .
+CERT.BR .
+Dispon�vel em:
+<https://www.cert.br/stats/incidentes/2018-jan-dec/analise.html>. Acesso em
+julho de 2019.
+38. HIGH SECURITY CENTER. HSC. Dispon�vel em:
+<https://www.hscbrasil.com.br/seguranca-de-endpoint/ >.
+Acesso em outubro de 2019.
+39. CANAL COMSTOR. Dispon�vel em:
+<https://blogbrasil.comstor.com/qual-a-importancia-de-uma-seguranca-de-endpoint >.
+Acesso em outubro de 2019.
+40. AVTEST. Dispon�vel em:
+<https://www.av-test.org/en/statistics/malware/>. Acesso em outubro de 2019.
+41. SEGURAN�A DA REDE E DO ENDPOINT, PALO ALTO. Dispon�vel em: <https://www.paloaltonetworks.com.br/resources/whitepapers/traps-and-ngfw-better-together>.
+Acesso em outubro de 2019.
+42. CSO. UNITED STATES. Dispon�vel em: <https://www.csoonline.com/article/3387981/stakes-of-security-especially-high-in-pharmaceutical-industry.html>.
+Acesso em outubro de 2019.
+43. BRASIL. Decreto n� 9.573, de 22 de novembro de 2018. Aprova a Pol�tica
+Nacional de Seguran�a de Infraestruturas Cr�ticas.
+Casa Civil, Subchefia para Assuntos Jur�dicos, 2018. Dispon�vel em:
+<http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/D9573.htm>.
+Acesso em julho de 2019.
+44. PONEMOM REPORT 2018. LEADCOMM. Dispon�vel em: <https://leadcomm.com.br/portfolio_item/2018-ponemom-report/>.
+Acesso em julho de 2019.
+45. BRASIL. Banco Central do Brasil. Resolu��o n� 4.658, de 26 de
+abril de 2018. Disp�e sobre a pol�tica de seguran�a cibern�tica e sobre os
+requisitos para a contrata��o de servi�os de processamento e armazenamento
+de dados e de computa��o em nuvem a serem observados pelas institui��es
+financeiras e demais institui��es autorizadas a funcionar pelo Banco Central
+do Brasil. Dispon�vel em: <https://www.bcb.gov.br/pre/normativos/busca/downloadNormativo.asp?arquivo=/Lists/Normativos/Attachments/50581/Res_4658_v1_O.pdf>.
+Acesso em julho de 2019.
+46. BRASIL. Banco Central do Brasil. Circular n� 3.909, de 16 de
+agosto de 2018. Disp�e sobre a pol�tica de seguran�a cibern�tica e sobre os
+requisitos para a contrata��o de servi�os de processamento e armazenamento
+de dados e de computa��o em nuvem a serem observados pelas institui��es de
+pagamento autorizadas a funcionar pelo Banco Central do Brasil. Dispon�vel
+em: <http://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/37402932/do1-2018-08-20-circular-n-3-909-de-16-de-agosto-de-2018-37402763>.
+Acesso em julho de 2019.
+47. BRASIL. Lei n� 12.965, de 23 de abril de 2014 . Estabelece
+princ�pios, garantias, direitos e deveres para o uso da Internet no Brasil.
+Dispon�vel em:
+<http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm>.
+Acesso em julho de 2019.
+48. BRASIL. Lei n� 13.709, de 14 de agosto de 2018. Lei Geral de
+Prote��o de Dados Pessoais (LGPD) . Dispon�vel em:
+<http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm>.
+Acesso em julho de 2019.
+49. BRASIL. Lei n� 12.737, de 30 de novembro de 2012 . Disp�e sobre
+a tipifica��o criminal de delitos inform�ticos; altera o Decreto-Lei n�
+2.848, de 7 de dezembro de 1940 - C�digo Penal; e d� outras provid�ncias.
+Dispon�vel em:
+<http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm>.
+Acesso em julho de 2019.
+50. BRASIL. Lei n� 12.735, de 30 de novembro de 2012 . Altera o
+Decreto-Lei n� 2.848, de 7 de dezembro de 1940 - C�digo Penal, o Decreto-Lei
+n� 1.001, de 21 de outubro de 1969 - C�digo Penal Militar, e a Lei n� 7.716,
+de 5 de janeiro de 1989, para tipificar condutas realizadas mediante uso de
+sistema eletr�nico, digital ou similares, que sejam praticadas contra
+sistemas informatizados e similares; e d� outras provid�ncias. Dispon�vel
+em:
+<http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12735.htm>.
+Acesso em julho de 2019.
+51. BRASIL. Gabinete de Seguran�a Institucional da Presid�ncia da
+Rep�blica. Departamento de Seguran�a da Informa��o. Legisla��o. Dispon�vel
+em: <http://dsic.planalto.gov.br/assuntos/editoria-c>. Acesso em julho de
+2019.
+52. NA��ES UNIDAS. BRASIL. Dispon�vel em:
+<https://nacoesunidas.org/pos2015/agenda2030/ >.
+Acesso em outubro de 2019.
+53. IMD WORLD COMPETITIVENESS RANKING 2019 . IMD.
+Dispon�vel em:
+<https://www.imd.org/contentassets/6b85960f0d1b42a0a07ba59c49e828fb/one-year-change-vertical.pdf >.
+Acesso em julho de 2019.
+54. MCTIC.
+FUNDO NACIONAL DE DESENVOLVIMENTO CIENT�FICO E TECNOL�GICO (FNDCT).
+Dispon�vel em: < http://fndct.mcti.gov.br/>. Acesso em agosto de 2019.
+55. PESQUISA FAPESP. Dispon�vel em:
+https://revistapesquisa.fapesp.br/2018/01/16/inovacao-permanente/. Acesso em
+outubro de 2019.
+56. ALAGOAS: IND�STRIA 4.0 TAMB�M SER� NECESSIDADE PARA
+PEQUENAS EMPRESAS . AG�NCIA DO R�DIO MAIS. 05 Out 18. Dispon�vel em:
+<https://www.agenciadoradio.com.br/noticias/alagoas-industria-4-0-tambem-sera-necessidade-para-pequenas-empresas-mrin180127 > .
+Acesso em agosto de 2019.
+57. HURIEL, LOUISE MARIE e LOBATO, LUISA. Uma Estrat�gia para a
+Governan�a da Seguran�a Cibern�tica no Brasil . Instituto Igarap�, Nota
+Estrat�gica 30, setembro 2018.
+58. WESTERN SYDNEY UNIVERSITY. Dispon�vel em:
+<https://www.westernsydney.edu.au/studysmart/home/digital_literacy/what_is_digital_literacy>.
+Acesso em outubro de 2019.
+59. ROCKCONTENT. Dispon�vel em: <https://comunidade.rockcontent.com/nativos-digitais/>.
+Acesso em outubro de 2019.
+60. HACKING THE SKILLS SHORTAGE. A STUDY OF THE INTERNATIONAL SHORTAGE IN
+CYBERSECURITY SKILLS . MCAFEE/CENTER FOR STRATEGIC AND INTERNATIONAL
+STUDIES. Jul 2016. Dispon�vel em: <https://www.mcafee.com/enterprise/en-us/assets/reports/rp-hacking-skills-shortage.pdf>.
+Acesso em
+agosto de 2019.
+61. BRASIL. PLANO NACIONAL DE EDUCA��O. Lei n� 10.172, de 9 de
+janeiro de 2001. Aprova o Plano Nacional de Educa��o e d� outras
+provid�ncias. Dispon�vel em: <http://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10172.htm>.
+Acesso em agosto de 2019.
+62. SKILLS REVOLUTION 2.0. MANPOWERGROUP. Dispon�vel em: <https://www.manpowergroup.com/wps/wcm/connect/59db87a7-16c6-490d-ae70-1bd7a322c240/Robots_Need_Not_Apply.pdf?MOD=AJPERES>.
+Acesso em agosto de 2019.
+63. INFRA NEWS TELECOM. Dispon�vel em: <https://infranewstelecom.com.br/brasil-precisa-formar-70-mil-profissionais-de-tecnologia-ao-ano-ate-2024/>.
+Acesso em outubro de 2019.
+64. IT FORUM 365. Sispon�vel em: <https://www.itforum365.com.br/brasil-precisa-investir-em-areas-stem-para-nao-ficar-fora-do-mercado-de-trabalho-alerta-especialista/>.
+Acesso em outubro de 2019.
+65. STATE OF CYBERSECURITY: 2019. ISACA. Dispon�vel em: <https://www.isaca.org/info/state-of-cybersecurity-2019/index.html>.
+Acesso em agosto de 2019.
+66. CSIS. Dispon�vel em: <https://www.csis.org/>. Acesso em agosto
+de 2019.

@@ -1,0 +1,8 @@
+Radware Bot Manager Captcha
+Nos disculpamos por los inconvenientes...
+...pero su actividad y comportamiento nos hace pensar que usted es un Bot.
+Nota: Pueden estar ocurriendo algunas cosas.
+• Si estás intentando accedes al sitio usando un Proxy anónimo o un Proxy de red, por favor deshabilite y trate de ingresar nuevamente.
+• Debido a comportamiento anómalo malicioso detectado previamente en su red, por favor pida que se desbloquee el sitio.
+Incident ID: e52a6740-dy8e-4a2d-a73a-e18d082de6a2
+Por favor resuelva este CAPTCHA para que se desbloquee el sitio

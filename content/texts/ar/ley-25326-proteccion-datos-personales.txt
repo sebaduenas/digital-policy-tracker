@@ -1,0 +1,257 @@
+PROTECCION DE LOS DATOS
+Ir a texto actualizado y otros datos
+PROTECCION DE LOS DATOS PERSONALES
+Ley 25.326
+Disposiciones Generales. Principios generales relativos a la protecci n de datos. Derechos de los titulares de datos. Usuarios y responsables de archivos, registros y bancos de datos. Control. Sanciones. Acci n de protecci n de los datos personales.
+Sancionada: Octubre 4 de 2000.
+Promulgada Parcialmente: Octubre 30 de 2000.
+El Senado y C mara de Diputados de la Naci n Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+Ley de Protecci n de los Datos Personales
+Cap tulo I
+Disposiciones Generales
+ARTICULO 1� � (Objeto).
+La presente ley tiene por objeto la protecci n integral de los datos personales asentados en archivos, registros, bancos de datos, u otros medios t cnicos de tratamiento de datos, sean stos p blicos, o privados destinados a dar informes, para garantizar el derecho al honor y a la intimidad de las personas, as como tambi n el acceso a la informaci n que sobre las mismas se registre, de conformidad a lo establecido en el art culo 43, p rrafo tercero de la Constituci n Nacional.
+Las disposiciones de la presente ley tambi n ser n aplicables, en cuanto resulte pertinente, a los datos relativos a personas de existencia ideal.
+En ning n caso se podr n afectar la base de datos ni las fuentes de informaci n period sticas.
+ARTICULO 2� � (Definiciones).
+A los fines de la presente ley se entiende por:
+� Datos personales: Informaci n de cualquier tipo referida a personas f sicas o de existencia ideal determinadas o determinables.
+� Datos sensibles: Datos personales que revelan origen racial y tnico, opiniones pol ticas, convicciones religiosas, filos ficas o morales, afiliaci n sindical e informaci n referente a la salud o a la vida sexual.
+� Archivo, registro, base o banco de datos: Indistintamente, designan al conjunto organizado de datos personales que sean objeto de tratamiento o procesamiento, electr nico o no, cualquiera que fuere la modalidad de su formaci n, almacenamiento, organizaci n o acceso.
+� Tratamiento de datos: Operaciones y procedimientos sistem ticos, electr nicos o no, que permitan la recolecci n, conservaci n, ordenaci n, almacenamiento, modificaci n, relacionamiento, evaluaci n, bloqueo, destrucci n, y en general el procesamiento de datos personales, as como tambi n su cesi n a terceros a trav s de comunicaciones, consultas, interconexiones o transferencias.
+� Responsable de archivo, registro, base o banco de datos: Persona f sica o de existencia ideal p blica o privada, que es titular de un archivo, registro, base o banco de datos.
+� Datos informatizados: Los datos personales sometidos al tratamiento o procesamiento electr nico o automatizado.
+� Titular de los datos: Toda persona f sica o persona de existencia ideal con domicilio legal o delegaciones o sucursales en el pa s, cuyos datos sean objeto del tratamiento al que se refiere la presente ley.
+� Usuario de datos: Toda persona, p blica o privada que realice a su arbitrio el tratamiento de datos, ya sea en archivos, registros o bancos de datos propios o a trav s de conexi n con los mismos.
+� Disociaci n de datos: Todo tratamiento de datos personales de manera que la informaci n obtenida no pueda asociarse a persona determinada o determinable.
+Cap tulo II
+Principios generales relativos a la protecci n de datos
+ARTICULO 3� � (Archivos de datos � Licitud).
+La formaci n de archivos de datos ser l cita cuando se encuentren debidamente inscriptos, observando en su operaci n los principios que establece la presente ley y las reglamentaciones que se dicten en su consecuencia.
+Los archivos de datos no pueden tener finalidades contrarias a las leyes o a la moral p blica.
+ARTICULO 4� � (Calidad de los datos).
+1. Los datos personales que se recojan a los efectos de su tratamiento deben ser ciertos, adecuados, pertinentes y no excesivos en relaci n al mbito y finalidad para los que se hubieren obtenido.
+2. La recolecci n de datos no puede hacerse por medios desleales, fraudulentos o en forma contraria a las disposiciones de la presente ley.
+3. Los datos objeto de tratamiento no pueden ser utilizados para finalidades distintas o incompatibles con aquellas que motivaron su obtenci n.
+4. Los datos deben ser exactos y actualizarse en el caso de que ello fuere necesario.
+5. Los datos total o parcialmente inexactos, o que sean incompletos, deben ser suprimidos y sustituidos, o en su caso completados, por el responsable del archivo o base de datos cuando se tenga conocimiento de la inexactitud o car cter incompleto de la informaci n de que se trate, sin perjuicio de los derechos del titular establecidos en el art culo 16 de la presente ley.
+6. Los datos deben ser almacenados de modo que permitan el ejercicio del derecho de acceso de su titular.
+7. Los datos deben ser destruidos cuando hayan dejado de ser necesarios o pertinentes a los fines para los cuales hubiesen sido recolectados.
+ARTICULO 5� � (Consentimiento).
+1. El tratamiento de datos personales es il cito cuando el titular no hubiere prestado su consentimiento libre, expreso e informado, el que deber constar por escrito, o por otro medio que permita se le equipare, de acuerdo a las circunstancias.
+El referido consentimiento prestado con otras declaraciones, deber figurar en forma expresa y destacada, previa notificaci n al requerido de datos, de la informaci n descrita en el art culo 6� de la presente ley.
+2. No ser necesario el consentimiento cuando:
+a) Los datos se obtengan de fuentes de acceso p blico irrestricto;
+b) Se recaben para el ejercicio de funciones propias de los poderes del Estado o en virtud de una obligaci n legal;
+c) Se trate de listados cuyos datos se limiten a nombre, documento nacional de identidad, identificaci n tributaria o previsional, ocupaci n, fecha de nacimiento y domicilio;
+d) Deriven de una relaci n contractual, cient fica o profesional del titular de los datos, y resulten necesarios para su desarrollo o cumplimiento;
+e) Se trate de las operaciones que realicen las entidades financieras y de las informaciones que reciban de sus clientes conforme las disposiciones del art culo 39 de la Ley 21.526.
+ARTICULO 6� � (Informaci n).
+Cuando se recaben datos personales se deber informar previamente a sus titulares en forma expresa y clara:
+a) La finalidad para la que ser n tratados y qui nes pueden ser sus destinatarios o clase de destinatarios;
+b) La existencia del archivo, registro, banco de datos, electr nico o de cualquier otro tipo, de que se trate y la identidad y domicilio de su responsable;
+c) El car cter obligatorio o facultativo de las respuestas al cuestionario que se le proponga, en especial en cuanto a los datos referidos en el art culo siguiente;
+d) Las consecuencias de proporcionar los datos, de la negativa a hacerlo o de la inexactitud de los mismos;
+e) La posibilidad del interesado de ejercer los derechos de acceso, rectificaci n y supresi n de los datos.
+ARTICULO 7� � (Categor a de datos).
+1. Ninguna persona puede ser obligada a proporcionar datos sensibles.
+2. Los datos sensibles s lo pueden ser recolectados y objeto de tratamiento cuando medien razones de inter s general autorizadas por ley. Tambi n podr n ser tratados con finalidades estad sticas o cient ficas cuando no puedan ser identificados sus titulares.
+3. Queda prohibida la formaci n de archivos, bancos o registros que almacenen informaci n que directa o indirectamente revele datos sensibles. Sin perjuicio de ello, la Iglesia Cat lica, las asociaciones religiosas y las organizaciones pol ticas y sindicales podr n llevar un registro de sus miembros.
+4. Los datos relativos a antecedentes penales o contravencionales s lo pueden ser objeto de tratamiento por parte de las autoridades p blicas competentes, en el marco de las leyes y reglamentaciones respectivas.
+ARTICULO 8� � (Datos relativos a la salud).
+Los establecimientos sanitarios p blicos o privados y los profesionales vinculados a las ciencias de la salud pueden recolectar y tratar los datos personales relativos a la salud f sica o mental de los pacientes que acudan a los mismos o que est n o hubieren estado bajo tratamiento de aqu llos, respetando los principios del secreto profesional.
+ARTICULO 9� � (Seguridad de los datos).
+1. El responsable o usuario del archivo de datos debe adoptar las medidas t cnicas y organizativas que resulten necesarias para garantizar la seguridad y confidencialidad de los datos personales, de modo de evitar su adulteraci n, p rdida, consulta o tratamiento no autorizado, y que permitan detectar desviaciones, intencionales o no, de informaci n, ya sea que los riesgos provengan de la acci n humana o del medio t cnico utilizado.
+2. Queda prohibido registrar datos personales en archivos, registros o bancos que no re nan condiciones t cnicas de integridad y seguridad.
+ARTICULO 10. � (Deber de confidencialidad).
+1. El responsable y las personas que intervengan en cualquier fase del tratamiento de datos personales est n obligados al secreto profesional respecto de los mismos. Tal obligaci n subsistir aun despu s de finalizada su relaci n con el titular del archivo de datos.
+2. El obligado podr ser relevado del deber de secreto por resoluci n judicial y cuando medien razones fundadas relativas a la seguridad p blica, la defensa nacional o la salud p blica.
+ARTICULO 11. � (Cesi n).
+1. Los datos personales objeto de tratamiento s lo pueden ser cedidos para el cumplimiento de los fines directamente relacionados con el inter s leg timo del cedente y del cesionario y con el previo consentimiento del titular de los datos, al que se le debe informar sobre la finalidad de la cesi n e identificar al cesionario o los elementos que permitan hacerlo.
+2. El consentimiento para la cesi n es revocable.
+3. El consentimiento no es exigido cuando:
+a) As lo disponga una ley;
+b) En los supuestos previstos en el art culo 5� inciso 2;
+c) Se realice entre dependencias de los rganos del Estado en forma directa, en la medida del cumplimiento de sus respectivas competencias;
+d) Se trate de datos personales relativos a la salud, y sea necesario por razones de salud p blica, de emergencia o para la realizaci n de estudios epidemiol gicos, en tanto se preserve la identidad de los titulares de los datos mediante mecanismos de disociaci n adecuados;
+e) Se hubiera aplicado un procedimiento de disociaci n de la informaci n, de modo que los titulares de los datos sean inidentificables.
+4. El cesionario quedar sujeto a las mismas obligaciones legales y reglamentarias del cedente y ste responder solidaria y conjuntamente por la observancia de las mismas ante el organismo de control y el titular de los datos de que se trate.
+ARTICULO 12. � (Transferencia internacional).
+1. Es prohibida la transferencia de datos personales de cualquier tipo con pa ses u organismos internacionales o supranacionales, que no propocionen niveles de protecci n adecuados.
+2. La prohibici n no regir en los siguientes supuestos:
+a) Colaboraci n judicial internacional;
+b) Intercambio de datos de car cter m dico, cuando as lo exija el tratamiento del afectado, o una investigaci n epidemiol gica, en tanto se realice en los t rminos del inciso e) del art culo anterior;
+c) Transferencias bancarias o burs tiles, en lo relativo a las transacciones respectivas y conforme la legislaci n que les resulte aplicable;
+d) Cuando la transferencia se hubiera acordado en el marco de tratados internacionales en los cuales la Rep blica Argentina sea parte;
+e) Cuando la transferencia tenga por objeto la cooperaci n internacional entre organismos de inteligencia para la lucha contra el crimen organizado, el terrorismo y el narcotr fico.
+Cap tulo III
+Derechos de los titulares de datos
+ARTICULO 13. � (Derecho de Informaci n).
+Toda persona puede solicitar informaci n al organismo de control relativa a la existencia de archivos, registros, bases o bancos de datos personales, sus finalidades y la identidad de sus responsables.
+El registro que se lleve al efecto ser de consulta p blica y gratuita.
+ARTICULO 14. � (Derecho de acceso).
+1. El titular de los datos, previa acreditaci n de su identidad, tiene derecho a solicitar y obtener informaci n de sus datos personales incluidos en los bancos de datos p blicos, o privados destinados a proveer informes.
+2. El responsable o usuario debe proporcionar la informaci n solicitada dentro de los diez d as corridos de haber sido intimado fehacientemente.
+Vencido el plazo sin que se satisfaga el pedido, o si evacuado el informe, ste se estimara insuficiente, quedar expedita la acci n de protecci n de los datos personales o de h beas data prevista en esta ley.
+3. El derecho de acceso a que se refiere este art culo s lo puede ser ejercido en forma gratuita a intervalos no inferiores a seis meses, salvo que se acredite un inter s leg timo al efecto.
+4. El ejercicio del derecho al cual se refiere este art culo en el caso de datos de personas fallecidas le corresponder a sus sucesores universales.
+ARTICULO 15. � (Contenido de la informaci n).
+1. La informaci n debe ser suministrada en forma clara, exenta de codificaciones y en su caso acompa ada de una explicaci n, en lenguaje accesible al conocimiento medio de la poblaci n, de los t rminos que se utilicen.
+2. La informaci n debe ser amplia y versar sobre la totalidad del registro perteneciente al titular, aun cuando el requerimiento s lo comprenda un aspecto de los datos personales. En ning n caso el informe podr revelar datos pertenecientes a terceros, aun cuando se vinculen con el interesado.
+3. La informaci n, a opci n del titular, podr suministrarse por escrito, por medios electr nicos, telef nicos, de imagen, u otro id neo a tal fin.
+ARTICULO 16. � (Derecho de rectificaci n, actualizaci n o supresi n).
+1. Toda persona tiene derecho a que sean rectificados, actualizados y, cuando corresponda, suprimidos o sometidos a confidencialidad los datos personales de los que sea titular, que est n incluidos en un banco de datos.
+2. El responsable o usuario del banco de datos, debe proceder a la rectificaci n, supresi n o actualizaci n de los datos personales del afectado, realizando las operaciones necesarias a tal fin en el plazo m ximo de cinco d as h biles de recibido el reclamo del titular de los datos o advertido el error o falsedad.
+3. El incumplimiento de esta obligaci n dentro del t rmino acordado en el inciso precedente, habilitar al interesado a promover sin m s la acci n de protecci n de los datos personales o de h beas data prevista en la presente ley.
+4. En el supuesto de cesi n, o transferencia de datos, el responsable o usuario del banco de datos debe notificar la rectificaci n o supresi n al cesionario dentro del quinto d a h bil de efectuado el tratamiento del dato.
+5. La supresi n no procede cuando pudiese causar perjuicios a derechos o intereses leg timos de terceros, o cuando existiera una obligaci n legal de conservar los datos.
+6. Durante el proceso de verificaci n y rectificaci n del error o falsedad de la informaci n que se trate, el responsable o usuario del banco de datos deber o bien bloquear el archivo, o consignar al proveer informaci n relativa al mismo la circunstancia de que se encuentra sometida a revisi n.
+7. Los datos personales deben ser conservados durante los plazos previstos en las disposiciones aplicables o en su caso, en las contractuales entre el responsable o usuario del banco de datos y el titular de los datos.
+ARTICULO 17. � (Excepciones).
+1. Los responsables o usuarios de bancos de datos p blicos pueden, mediante decisi n fundada, denegar el acceso, rectificaci n o la supresi n en funci n de la protecci n de la defensa de la Naci n, del orden y la seguridad p blicos, o de la protecci n de los derechos e intereses de terceros.
+2. La informaci n sobre datos personales tambi n puede ser denegada por los responsables o usuarios de bancos de datos p blicos, cuando de tal modo se pudieran obstaculizar actuaciones judiciales o administrativas en curso vinculadas a la investigaci n sobre el cumplimiento de obligaciones tributarias o previsionales, el desarrollo de funciones de control de la salud y del medio ambiente, la investigaci n de delitos penales y la verificaci n de infracciones administrativas. La resoluci n que as lo disponga debe ser fundada y notificada al afectado.
+3. Sin perjuicio de lo establecido en los incisos anteriores, se deber brindar acceso a los registros en cuesti n en la oportunidad en que el afectado tenga que ejercer su derecho de defensa.
+ARTICULO 18. � (Comisiones legislativas).
+Las Comisiones de Defensa Nacional y la Comisi n Bicameral de Fiscalizaci n de los Organos y Actividades de Seguridad Interior e Inteligencia del Congreso de la Naci n y la Comisi n de Seguridad Interior de la C mara de Diputados de la Naci n, o las que las sustituyan, tendr n acceso a los archivos o bancos de datos referidos en el art culo 23 inciso 2 por razones fundadas y en aquellos aspectos que constituyan materia de competencia de tales Comisiones.
+ARTICULO 19. � (Gratuidad).
+La rectificaci n, actualizaci n o supresi n de datos personales inexactos o incompletos que obren en registros p blicos o privados se efectuar sin cargo alguno para el interesado.
+ARTICULO 20. � (Impugnaci n de valoraciones personales).
+1. Las decisiones judiciales o los actos administrativos que impliquen apreciaci n o valoraci n de conductas humanas, no podr n tener como nico fundamento el resultado del tratamiento informatizado de datos personales que suministren una definici n del perfil o personalidad del interesado.
+2. Los actos que resulten contrarios a la disposici n precedente ser n insanablemente nulos.
+Cap tulo IV
+Usuarios y responsables de archivos, registros y bancos de datos
+ARTICULO 21. � (Registro de archivos de datos. Inscripci n).
+1. Todo archivo, registro, base o banco de datos p blico, y privado destinado a proporcionar informes debe inscribirse en el Registro que al efecto habilite el organismo de control.
+2. El registro de archivos de datos debe comprender como m nimo la siguiente informaci n:
+a) Nombre y domicilio del responsable;
+b) Caracter sticas y finalidad del archivo;
+c) Naturaleza de los datos personales contenidos en cada archivo;
+d) Forma de recolecci n y actualizaci n de datos;
+e) Destino de los datos y personas f sicas o de existencia ideal a las que pueden ser transmitidos;
+f) Modo de interrelacionar la informaci n registrada;
+g) Medios utilizados para garantizar la seguridad de los datos, debiendo detallar la categor a de personas con acceso al tratamiento de la informaci n;
+h) Tiempo de conservaci n de los datos;
+i) Forma y condiciones en que las personas pueden acceder a los datos referidos a ellas y los procedimientos a realizar para la rectificaci n o actualizaci n de los datos.
+3) Ning n usuario de datos podr poseer datos personales de naturaleza distinta a los declarados en el registro.
+El incumplimiento de estos requisitos dar lugar a las sanciones administrativas previstas en el cap tulo VI de la presente ley.
+ARTICULO 22. � (Archivos, registros o bancos de datos p blicos).
+1. Las normas sobre creaci n, modificaci n o supresi n de archivos, registros o bancos de datos pertenecientes a organismos p blicos deben hacerse por medio de disposici n general publicada en el Bolet n Oficial de la Naci n o diario oficial.
+2. Las disposiciones respectivas, deben indicar:
+a) Caracter sticas y finalidad del archivo;
+b) Personas respecto de las cuales se pretenda obtener datos y el car cter facultativo u obligatorio de su suministro por parte de aqu llas;
+c) Procedimiento de obtenci n y actualizaci n de los datos;
+d) Estructura b sica del archivo, informatizado o no, y la descripci n de la naturaleza de los datos personales que contendr n;
+e) Las cesiones, transferencias o interconexiones previstas;
+f) Organos responsables del archivo, precisando dependencia jer rquica en su caso;
+g) Las oficinas ante las que se pudiesen efectuar las reclamaciones en ejercicio de los derechos de acceso, rectificaci n o supresi n.
+3. En las disposiciones que se dicten para la supresi n de los registros informatizados se esta blecer el destino de los mismos o las medidas que se adopten para su destrucci n.
+ARTICULO 23. � (Supuestos especiales).
+1. Quedar n sujetos al r gimen de la presente ley, los datos personales que por haberse almacenado para fines administrativos, deban ser objeto de registro permanente en los bancos de datos de las fuerzas armadas, fuerzas de seguridad, organismos policiales o de inteligencia; y aquellos sobre antecedentes personales que proporcionen dichos bancos de datos a las autoridades administrativas o judiciales que los requieran en virtud de disposiciones legales.
+2. El tratamiento de datos personales con fines de defensa nacional o seguridad p blica por parte de las fuerzas armadas, fuerzas de seguridad, organismos policiales o inteligencia, sin consentimiento de los afectados, queda limitado a aquellos supuestos y categor a de datos que resulten necesarios para el estricto cumplimiento de las misiones legalmente asignadas a aqu llos para la defensa nacional, la seguridad p blica o para la represi n de los delitos. Los archivos, en tales casos, deber n ser espec ficos y establecidos al efecto, debiendo clasificarse por categor as, en funci n de su grado de fiabilidad.
+3. Los datos personales registrados con fines policiales se cancelar n cuando no sean necesarios para las averiguaciones que motivaron su almacenamiento.
+ARTICULO 24. � (Archivos, registros o bancos de datos privados).
+Los particulares que formen archivos, registros o bancos de datos que no sean para un uso exclusivamente personal deber n registrarse conforme lo previsto en el art culo 21.
+ARTICULO 25. � (Prestaci n de servicios informatizados de datos personales).
+1. Cuando por cuenta de terceros se presten servicios de tratamiento de datos personales, stos no podr n aplicarse o utilizarse con un fin distinto al que figure en el contrato de servicios, ni cederlos a otras personas, ni aun para su conservaci n.
+2. Una vez cumplida la prestaci n contractual los datos personales tratados deber n ser destruidos, salvo que medie autorizaci n expresa de aquel por cuenta de quien se prestan tales servicios cuando razonablemente se presuma la posibilidad de ulteriores encargos, en cuyo caso se podr almacenar con las debidas condiciones de seguridad por un per odo de hasta dos a os.
+ARTICULO 26. � (Prestaci n de servicios de informaci n crediticia).
+1. En la prestaci n de servicios de informaci n crediticia s lo pueden tratarse datos personales de car cter patrimonial relativos a la solvencia econ mica y al cr dito, obtenidos de fuentes accesibles al p blico o procedentes de informaciones facilitadas por el interesado o con su consentimiento.
+2. Pueden tratarse igualmente datos personales relativos al cumplimiento o incumplimiento de obligaciones de contenido patrimonial, facilitados por el acreedor o por quien act e por su cuenta o inter s.
+3. A solicitud del titular de los datos, el responsable o usuario del banco de datos, le comunicar las informaciones, evaluaciones y apreciaciones que sobre el mismo hayan sido comunicadas durante los ltimos seis meses y y el nombre y domicilio del cesionario en el supuesto de tratarse de datos obtenidos por cesi n.
+4. S lo se podr n archivar, registrar o ceder los datos personales que sean significativos para evaluar la solvencia econ mico-financiera de los afectados durante los ltimos cinco a os. Dicho plazo se reducir a dos a os cuando el deudor cancele o de otro modo extinga la obligaci n, debi ndose hace constar dicho hecho.
+5. La prestaci n de servicios de informaci n crediticia no requerir el previo consentimiento del titular de los datos a los efectos de su cesi n, ni la ulterior comunicaci n de sta, cuando est n relacionados con el giro de las actividades comerciales o crediticias de los cesionarios.
+ARTICULO 27. � (Archivos, registros o bancos de datos con fines de publicidad).
+1. En la recopilaci n de domicilios, reparto de documentos, publicidad o venta directa y otras actividades an logas, se podr n tratar datos que sean aptos para establecer perfiles determinados con fines promocionales, comerciales o publicitarios; o permitan establecer h bitos de consumo, cuando stos figuren en documentos accesibles al p blico o hayan sido facilitados por los propios titulares u obtenidos con su consentimiento.
+2. En los supuestos contemplados en el presente art culo, el titular de los datos podr ejercer el derecho de acceso sin cargo alguno.
+3. El titular podr en cualquier momento solicitar el retiro o bloqueo de su nombre de los bancos de datos a los que se refiere el presente art culo.
+ARTICULO 28. � (Archivos, registros o bancos de datos relativos a encuestas).
+1. Las normas de la presente ley no se aplicar n a las encuestas de opini n, mediciones y estad sticas relevadas conforme a Ley 17.622, trabajos de prospecci n de mercados, investigaciones cient ficas o m dicas y actividades an logas, en la medida que los datos recogidos no puedan atribuirse a una persona determinada o determinable.
+2. Si en el proceso de recolecci n de datos no resultara posible mantener el anonimato, se deber utilizar una t cnica de disociaci n, de modo que no permita identificar a persona alguna.
+Cap tulo V
+Control
+ARTICULO 29. � (Organo de Control).
+1. El rgano de control deber realizar todas las acciones necesarias para el cumplimiento de los objetivos y dem s disposiciones de la presente ley. A tales efectos tendr las siguientes funciones y atribuciones:
+a) Asistir y asesorar a las personas que lo requieran acerca de los alcances de la presente y de los medios legales de que disponen para la defensa de los derechos que sta garantiza;
+b) Dictar las normas y reglamentaciones que se deben observar en el desarrollo de las actividades comprendidas por esta ley;
+c) Realizar un censo de archivos, registros o bancos de datos alcanzados por la ley y mantener el registro permanente de los mismos;
+d) Controlar la observancia de las normas sobre integridad y seguridad de datos por parte de los archivos, registros o bancos de datos. A tal efecto podr solicitar autorizaci n judicial para acceder a locales, equipos, o programas de tratamiento de datos a fin de verificar infracciones al cumplimiento de la presente ley;
+e) Solicitar informaci n a las entidades p blicas y privadas, las que deber n proporcionar los antecedentes, documentos, programas u otros elementos relativos al tratamiento de los datos personales que se le requieran. En estos casos, la autoridad deber garantizar la seguridad y confidencialidad de la informaci n y elementos suministrados;
+f) Imponer las sanciones administrativas que en su caso correspondan por violaci n a las normas de la presente ley y de las reglamentaciones que se dicten en su consecuencia;
+g) Constituirse en querellante en las acciones penales que se promovieran por violaciones a la presente ley;
+h) Controlar el cumplimiento de los requisitos y garant as que deben reunir los archivos o bancos de datos privados destinados a suministrar informes, para obtener la correspondiente inscripci n en el Registro creado por esta ley.
+2. El rgano de control gozar de autonom a funcional y actuar como rgano descentralizado en el mbito del Ministerio de Justicia y Derechos Humanos de la Naci n.
+3. El rgano de control ser dirigido y administrado por un Director designado por el t rmino de cuatro (4) a os, por el Poder Ejecutivo con acuerdo del Senado de la Naci n, debiendo ser seleccionado entre personas con antecedentes en la materia.
+El Director tendr dedicaci n exclusiva en su funci n, encontr ndose alcanzado por las incompatibilidades fijadas por ley para los funcionarios p blicos y podr ser removido por el Poder Ejecutivo por mal desempe o de sus funciones.
+ARTICULO 30. � (C digos de conducta).
+1. Las asociaciones o entidades representativas de responsables o usuarios de bancos de datos de titularidad privada podr n elaborar c digos de conducta de pr ctica profesional, que establezcan normas para el tratamiento de datos personales que tiendan a asegurar y mejorar las condiciones de operaci n de los sistemas de informaci n en funci n de los principios establecidos en la presente ley.
+2. Dichos c digos deber n ser inscriptos en el registro que al efecto lleve el organismo de control, quien podr denegar la inscripci n cuando considere que no se ajustan a las disposiciones legales y reglamentarias sobre la materia.
+Cap tulo VI
+Sanciones
+ARTICULO 31. � (Sanciones administrativas).
+1. Sin perjuicio de las responsabilidades administrativas que correspondan en los casos de responsables o usuarios de bancos de datos p blicos; de la responsabilidad por da os y perjuicios derivados de la inobservancia de la presente ley, y de las sanciones penales que correspondan, el organismo de control podr aplicar las sanciones de apercibimiento, suspensi n, multa de mil pesos ($ 1.000.-) a cien mil pesos ($ 100.000.-), clausura o cancelaci n del archivo, registro o banco de datos.
+2. La reglamentaci n determinar las condiciones y procedimientos para la aplicaci n de las sanciones previstas, las que deber n graduarse en relaci n a la gravedad y extensi n de la violaci n y de los perjuicios derivados de la infracci n, garantizando el principio del debido proceso.
+ARTICULO 32. � (Sanciones penales).
+1. Incorp rase como art culo 117 bis del C digo Penal, el siguiente:
+"1�. Ser reprimido con la pena de prisi n de un mes a dos a os el que insertara o hiciera insertar a sabiendas datos falsos en un archivo de datos personales.
+2�. La pena ser de seis meses a tres a os, al que proporcionara a un tercero a sabiendas informaci n falsa contenida en un archivo de datos personales.
+3�. La escala penal se aumentar en la mitad del m nimo y del m ximo, cuando del hecho se derive perjuicio a alguna persona.
+4�. Cuando el autor o responsable del il cito sea funcionario p blico en ejercicio de sus funciones, se le aplicar la accesoria de inhabilitaci n para el desempe o de cargos p blicos por el doble del tiempo que el de la condena".
+2. Incorp rase como art culo 157 bis del C digo Penal el siguiente:
+"Ser reprimido con la pena de prisi n de un mes a dos a os el que:
+1�. A sabiendas e ileg timamente, o violando sistemas de confidencialidad y seguridad de datos, accediere, de cualquier forma, a un banco de datos personales;
+2�. Revelare a otro informaci n registrada en un banco de datos personales cuyo secreto estuviere obligado a preservar por disposici n de una ley.
+Cuando el autor sea funcionario p blico sufrir , adem s, pena de inhabilitaci n especial de uno a cuatro a os".
+Cap tulo VII
+Acci n de protecci n de los datos personales
+ARTICULO 33. � (Procedencia).
+1. La acci n de protecci n de los datos personales o de h beas data proceder :
+a) para tomar conocimiento de los datos personales almacenados en archivos, registros o bancos de datos p blicos o privados destinados a proporcionar informes, y de la finalidad de aqu llos;
+b) en los casos en que se presuma la falsedad, inexactitud, desactualizaci n de la informaci n de que se trata, o el tratamiento de datos cuyo registro se encuentra prohibido en la presente ley, para exigir su rectificaci n, supresi n, confidencialidad o actualizaci n.
+ARTICULO 34. � (Legitimaci n activa).
+La acci n de protecci n de los datos personales o de h beas data podr ser ejercida por el afectado, sus tutores o curadores y los sucesores de las personas f sicas, sean en l nea directa o colateral hasta el segundo grado, por s o por intermedio de apoderado.
+Cuando la acci n sea ejercida por personas de existencia ideal, deber ser interpuesta por sus representantes legales, o apoderados que stas designen al efecto.
+En el proceso podr intervenir en forma coadyuvante el Defensor del Pueblo.
+ARTICULO 35. � (Legitimaci n pasiva).
+La acci n proceder respecto de los responsables y usuarios de bancos de datos p blicos, y de los privados destinados a proveer informes.
+ARTICULO 36. � (Competencia).
+Ser competente para entender en esta acci n el juez del domicilio del actor; el del domicilio del demandado; el del lugar en el que el hecho o acto se exteriorice o pudiera tener efecto, a elecci n del actor.
+Proceder la competencia federal:
+a) cuando se interponga en contra de archivos de datos p blicos de organismos nacionales, y
+b) cuando los archivos de datos se encuentren interconectados en redes interjurisdicciones, nacionales o internacionales.
+ARTICULO 37. � (Procedimiento aplicable).
+La acci n de h beas data tramitar seg n las disposiciones de la presente ley y por el procedimiento que corresponde a la acci n de amparo com n y supletoriamente por las normas del C digo Procesal Civil y Comercial de la Naci n, en lo atinente al juicio sumar simo.
+ARTICULO 38. � (Requisitos de la demanda).
+1. La demanda deber interponerse por escrito, individualizando con la mayor precisi n posible el nombre y domicilio del archivo, registro o banco de datos y, en su caso, el nombre del responsable o usuario del mismo.
+En el caso de los archivos, registros o bancos p blicos, se procurar establecer el organismo estatal del cual dependen.
+2. El accionante deber alegar las razones por las cuales entiende que en el archivo, registro o banco de datos individualizado obra informaci n referida a su persona; los motivos por los cuales considera que la informaci n que le ata e resulta discriminatoria, falsa o inexacta y justificar que se han cumplido los recaudos que hacen al ejercicio de los derechos que le reconoce la presente ley.
+3. El afectado podr solicitar que mientras dure el procedimiento, el registro o banco de datos asiente que la informaci n cuestionada est sometida a un proceso judicial.
+4. El Juez podr disponer el bloqueo provisional del archivo en lo referente al dato personal motivo del juicio cuando sea manifiesto el car cter discriminatorio, falso o inexacto de la informaci n de que se trate.
+5. A los efectos de requerir informaci n al archivo, registro o banco de datos involucrado, el criterio judicial de apreciaci n de las circunstancias requeridas en los puntos 1 y 2 debe ser amplio.
+ARTICULO 39. � (Tr mite).
+1. Admitida la acci n el juez requerir al archivo, registro o banco de datos la remisi n de la informaci n concerniente al accionante. Podr asimismo solicitar informes sobre el soporte t cnico de datos, documentaci n de base relativa a la recolecci n y cualquier otro aspecto que resulte conducente a la resoluci n de la causa que estime procedente.
+2. El plazo para contestar el informe no podr ser mayor de cinco d as h biles, el que podr ser ampliado prudencialmente por el juez.
+ARTICULO 40. � (Confidencialidad de la informaci n).
+1. Los registros, archivos o bancos de datos privados no podr n alegar la confidencialidad de la informaci n que se les requiere salvo el caso en que se afecten las fuentes de informaci n period stica.
+2. Cuando un archivo, registro o banco de datos p blico se oponga a la remisi n del informe solicitado con invocaci n de las excepciones al derecho de acceso, rectificaci n o supresi n, autorizadas por la presente ley o por una ley espec fica; deber acreditar los extremos que hacen aplicable la excepci n legal. En tales casos, el juez podr tomar conocimiento personal y directo de los datos solicitados asegurando el mantenimiento de su confidencialidad.
+ARTICULO 41. � (Contestaci n del informe).
+Al contestar el informe, el archivo, registro o banco de datos deber expresar las razones por las cuales incluy la informaci n cuestionada y aquellas por las que no evacu el pedido efectuado por el interesado, de conformidad a lo establecido en los art culos 13 a 15 de la ley.
+ARTICULO 42. � (Ampliaci n de la demanda).
+Contestado el informe, el actor podr , en el t rmino de tres d as, ampliar el objeto de la demanda solicitando la supresi n, rectificaci n, confidencialidad o actualizaci n de sus datos personales, en los casos que resulte procedente a tenor de la presente ley, ofreciendo en el mismo acto la prueba pertinente. De esta presentaci n se dar traslado al demandado por el t rmino de tres d as.
+ARTICULO 43. � (Sentencia).
+1. Vencido el plazo para la contestaci n del informe o contestado el mismo, y en el supuesto del art culo 42, luego de contestada la ampliaci n, y habiendo sido producida en su caso la prueba, el juez dictar sentencia.
+2. En el caso de estimarse procedente la acci n, se especificar si la informaci n debe ser suprimida, rectificada, actualizada o declarada confidencial, estableciendo un plazo para su cumplimiento.
+3. El rechazo de la acci n no constituye presunci n respecto de la responsabilidad en que hubiera podido incurrir el demandante.
+4. En cualquier caso, la sentencia deber ser comunicada al organismo de control, que deber llevar un registro al efecto.
+ARTICULO 44. � (Ambito de aplicaci n).
+Las normas de la presente ley contenidas en los Cap tulos I, II, III y IV, y art culo 32 son de orden p blico y de aplicaci n en lo pertinente en todo el territorio nacional.
+Se invita a las provincias a adherir a las normas de esta ley que fueren de aplicaci n exclusiva en jurisdicci n nacional.
+La jurisdicci n federal regir respecto de los registros, archivos, bases o bancos de datos interconectados en redes de alcance interjurisdiccional, nacional o internacional.
+ARTICULO 45. � El Poder Ejecutivo Nacional deber reglamentar la presente ley y establecer el organismo de control dentro de los ciento ochenta d as de su promulgaci n.
+ARTICULO 46. � (Disposiciones transitorias).
+Los archivos, registros, bases o bancos de datos destinados a proporcionar informes, existentes al momento de la sanci n de la presente ley, deber n inscribirse en el registro que se habilite conforme a lo dispuesto en el art culo 21 y adecuarse a lo que dispone el presente r gimen dentro del plazo que al efecto establezca la reglamentaci n.
+ARTICULO 47. � Los bancos de datos prestadores de servicios de informaci n crediticia deber n suprimir, o en su caso, omitir asentar, todo dato referido al incumplimiento o mora en el pago de una obligaci n, si sta hubiere sido cancelada al momento de la entrada en vigencia de la presente ley.
+ARTICULO 48. � Comun quese al Poder Ejecutivo.
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS CUATRO DIAS DEL MES DE OCTUBRE DEL A O DOS MIL.
+� REGISTRADO BAJO EL N� 25.326 �
+RAFAEL PASCUAL. � JOSE GENOUD. � Guillermo Aramburu. � Mario L. Pontaquarto.
+NOTA: Los textos en negrita fueron observados.

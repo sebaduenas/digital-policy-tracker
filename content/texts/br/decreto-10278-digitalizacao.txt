@@ -1,0 +1,258 @@
+D10278
+Presid�ncia da Rep�blica
+Secretaria-Geral
+Subchefia para Assuntos Jur�dicos
+DECRETO N� 10.278, DE 18 DE MAR�O DE 2020
+Regulamenta o disposto no inciso X do caput do art. 3� da Lei n�
+13.874, de 20 de setembro de 2019, e no art. 2�-A da Lei n� 12.682, de 9 de
+julho de 2012, para estabelecer a t�cnica e os requisitos para a
+digitaliza��o de documentos p�blicos ou privados, a fim de que os documentos
+digitalizados produzam os mesmos efeitos legais dos documentos originais.
+O PRESIDENTE DA
+REP�BLICA ,
+no uso da atribui��o que lhe confere o art. 84, caput , inciso IV, da
+Constitui��o, e tendo em vista o disposto no inciso X do caput do
+art. 3� e no art. 18 da Lei n� 13.874, de 20 de setembro de 2019, e no art.
+2�-A da Lei n� 12.682, de 9 de julho de 2012,
+DECRETA :
+Objeto
+Art. 1� Este Decreto regulamenta o disposto no
+inciso X do caput do art.
+3� da Lei n� 13.874, de 20 de setembro de 2019 , e no
+art. 2�-A da Lei
+n� 12.682, de 9 de julho de 2012 , para estabelecer a t�cnica e os
+requisitos para a digitaliza��o de documentos p�blicos ou privados, a fim de
+que os documentos digitalizados produzam os mesmos efeitos legais dos
+documentos originais.
+�mbito de aplica��o
+Art. 2� Aplica-se o disposto neste Decreto aos
+documentos f�sicos digitalizados que sejam produzidos:
+I - por pessoas jur�dicas de direito p�blico interno, ainda que envolva
+rela��es com particulares; e
+II - por pessoas jur�dicas de direito privado ou por pessoas naturais para
+comprova��o perante:
+a) pessoas jur�dicas de direito p�blico interno; ou
+b) outras pessoas jur�dicas de direito privado ou outras pessoas naturais.
+Par�grafo �nico. O disposto neste Decreto n�o se aplica a:
+I - documentos nato-digitais, que s�o documentos produzidos originalmente em
+formato digital;
+II - documentos referentes �s opera��es e transa��es realizadas no sistema
+financeiro nacional;
+III - documentos em microfilme;
+IV - documentos audiovisuais;
+V - documentos de identifica��o; e
+VI - documentos de porte obrigat�rio.
+Defini��es
+Art. 3� Para fins do disposto neste Decreto,
+considera-se:
+I - documento digitalizado - representante digital do processo de
+digitaliza��o do documento f�sico e seus metadados;
+II - metadados - dados estruturados que permitem classificar, descrever e
+gerenciar documentos;
+III - documento p�blico - documentos produzidos ou recebidos por pessoas
+jur�dicas de direito p�blico interno ou por entidades privadas encarregadas
+da gest�o de servi�os p�blicos; e
+IV - integridade - estado dos documentos que n�o foram corrompidos ou
+alterados de forma n�o autorizada.
+Regras gerais de
+digitaliza��o
+Art. 4� Os procedimentos e as tecnologias utilizados na
+digitaliza��o de documentos f�sicos devem assegurar:
+I - a integridade e a confiabilidade do documento digitalizado;
+II - a rastreabilidade e a auditabilidade dos procedimentos empregados;
+III - o emprego dos padr�es t�cnicos de digitaliza��o para garantir a
+qualidade da imagem, da legibilidade e do uso do documento digitalizado;
+IV - a confidencialidade, quando aplic�vel; e
+V - a interoperabilidade entre sistemas informatizados.
+Requisitos na
+digitaliza��o que envolva entidades p�blicas
+Art. 5� O documento digitalizado destinado a se
+equiparar a documento f�sico para todos os efeitos legais e para a
+comprova��o de qualquer ato perante pessoa jur�dica de direito p�blico
+interno dever�:
+I - ser assinado digitalmente com certifica��o digital no padr�o da
+Infraestrutura de Chaves P�blicas Brasileira - ICP-Brasil, de modo a
+garantir a autoria da digitaliza��o e a integridade do documento e de seus
+metadados;
+II - seguir os padr�es t�cnicos m�nimos previstos no Anexo I; e
+III - conter, no m�nimo, os metadados especificados no Anexo II.
+Requisito na
+digitaliza��o entre particulares
+Art. 6� Na hip�tese de documento que envolva rela��es
+entre particulares, qualquer meio de comprova��o da autoria, da integridade
+e, se necess�rio, da confidencialidade de documentos digitalizados ser�
+v�lido, desde que escolhido de comum acordo pelas partes ou aceito pela
+pessoa a quem for oposto o documento.
+Par�grafo �nico. Na hip�tese n�o ter havido acordo pr�vio entre as partes,
+aplica-se o disposto no art. 5�.
+Desnecessidade da
+digitaliza��o
+Art. 7� A digitaliza��o de documentos por pessoas
+jur�dicas de direito p�blico interno ser� precedida da avalia��o dos
+conjuntos documentais, conforme estabelecido em tabelas de temporalidade e
+destina��o de documentos, de modo a identificar previamente os que devem ser
+encaminhados para descarte.
+Responsabilidade
+pela digitaliza��o
+Art. 8� O processo de digitaliza��o poder� ser realizado
+pelo possuidor do documento f�sico ou por terceiros.
+� 1� Cabe ao possuidor do documento f�sico a responsabilidade perante
+terceiros pela conformidade do processo de digitaliza��o ao disposto neste
+Decreto.
+� 2� Na hip�tese de contrata��o de terceiros pela administra��o p�blica
+federal, o instrumento contratual prever�:
+I - a responsabilidade integral do contratado perante a administra��o
+p�blica federal e a responsabilidade solid�ria e ilimitada em rela��o ao
+terceiro prejudicado por culpa ou dolo; e
+II - os requisitos de seguran�a da informa��o e de prote��o de dados, nos
+termos da legisla��o vigente.
+Descarte dos
+documentos f�sicos
+Art. 9� Ap�s o processo de digitaliza��o realizado
+conforme este Decreto, o documento f�sico poder� ser descartado, ressalvado
+aquele que apresente conte�do de valor hist�rico.
+Manuten��o dos
+documentos digitalizados
+Art. 10. O armazenamento de documentos digitalizados
+assegurar�:
+I - a prote��o do documento digitalizado contra altera��o, destrui��o e,
+quando cab�vel, contra o acesso e a reprodu��o n�o autorizados; e
+II - a indexa��o de metadados que possibilitem:
+a) a localiza��o e o gerenciamento do documento digitalizado; e
+b) a confer�ncia do processo de digitaliza��o adotado.
+Preserva��o dos
+documentos digitalizados
+Art. 11. Os documentos digitalizados sem valor
+hist�rico ser�o preservados, no m�nimo, at� o transcurso dos prazos de
+prescri��o ou decad�ncia dos direitos a que se referem.
+Preseva��o de
+documento digitalizados e entes p�blicos
+Art. 12. As pessoas jur�dicas de direito p�blico
+interno observar�o o disposto na Lei n� 8.159, de 8 de janeiro de 1991 , e
+nas tabelas de temporalidade e destina��o de documentos aprovadas pelas
+institui��es arquiv�sticas p�blicas, no �mbito de suas compet�ncias,
+observadas as diretrizes do Conselho Nacional de Arquivos - Conarq quanto �
+temporalidade de guarda, � destina��o e � preserva��o de documentos.
+Vig�ncia
+Art. 13. Este Decreto entra em vigor na data de sua
+publica��o.
+Bras�lia,
+18 de mar�o de 2020; 199� da Independ�ncia e 132� da Rep�blica.
+JAIR MESSIAS BOLSONARO
+S�rgio Moro
+Paulo Guedes
+Este texto
+n�o substitui o publicado no DOU de 19.3.2020 .
+ANEXO I
+PADR�ES T�CNICOS M�NIMOS PARA DIGITALIZA��O DE DOCUMENTOS
+DOCUMENTO
+RESOLU��O M�NIMA
+COR
+TIPO ORIGINAL
+FORMATO DE ARQUIVO*
+Textos impressos, sem ilustra��o, em preto e branco
+300 dpi
+Monocrom�tico
+(preto e branco)
+Texto
+PDF/A
+Textos impressos, com ilustra��o, em preto e branco
+300 dpi
+Escala de cinza
+Texto/imagem
+PDF/A
+Textos impressos, com ilustra��o e cores
+300 dpi
+RGB (colorido)
+Texto/imagem
+PDF/A
+Textos manuscritos, com ou sem ilustra��o, em preto e branco
+300 dpi
+Escala de cinza
+Texto/imagem
+PDF/A
+Textos manuscritos, com ou sem ilustra��o, em cores
+300 dpi
+RGB (colorido)
+Texto/imagem
+PDF/A
+Fotografias e cartazes
+300 dpi
+RGB (colorido)
+Imagem
+PNG
+Plantas e mapas
+600 dpi
+Monocrom�tico
+(preto e branco)
+Texto/imagem
+PNG
+*Na hip�tese de o arquivo ser comprimido, deve ser realizada compress�o sem
+perda, de forma que a informa��o obtida ap�s a descompress�o seja id�ntica �
+informa��o antes de ser comprimida.
+ANEXO II
+METADADOS M�NIMOS EXIGIDOS
+a) Para todos os documentos:
+Metadados
+Defini��o
+Assunto
+Palavras-chave que representam o conte�do do documento.
+Pode ser de preenchimento livre ou com o uso de vocabul�rio
+controlado ou tesauro.
+Autor (nome)
+Pessoa
+natural ou jur�dica que emitiu o documento.
+Data e local da digitaliza��o
+Registro
+cronol�gico (data e hora) e t�pico (local) da digitaliza��o do
+documento.
+Identificador do documento digital
+Identificador �nico atribu�do ao documento no ato de sua captura
+para o sistema informatizado (sistema de neg�cios).
+Respons�vel pela digitaliza��o
+Pessoa jur�dica ou f�sica respons�vel pela digitaliza��o
+T�tulo
+Elemento
+de descri��o que nomeia o documento. Pode ser formal ou
+atribu�do:
+� formal:
+designa��o registrada no documento;
+atribu�do: designa��o providenciada para identifica��o de um
+documento formalmente desprovido de t�tulo.
+Tipo documental
+Indica o
+tipo de documento, ou seja, a configura��o da esp�cie documental
+de acordo com a atividade que a gerou.
+Hash
+( chekcsum ) da imagem
+Algoritmo
+que mapeia uma sequ�ncia de bits (de um arquivo em
+formato digital), com a finalidade de realizar a sua verifica��o
+de integridade.
+b) Para documentos digitalizados por pessoas jur�dicas de direito
+p�blico interno:
+Metadados
+Defini��o
+Classe
+Identifica��o da classe, subclasse, grupo ou subgrupo do
+documento com base em um plano de classifica��o de documentos.
+Data de produ��o
+(do documento original)
+Registro
+cronol�gico (data e hora) e t�pico (local) da produ��o do
+documento.
+Destina��o prevista (elimina��o ou guarda permanente)
+Indica��o
+da pr�xima a��o de destina��o (transfer�ncia, elimina��o ou
+recolhimento) prevista para o documento, em cumprimento � tabela
+de temporalidade e destina��o de documentos das atividades-meio
+e das atividades-fim.
+G�nero
+Indica o
+g�nero documental, ou seja, a configura��o da informa��o no
+documento de acordo com o sistema de signos utilizado na
+comunica��o do documento.
+Prazo de guarda
+Indica��o
+do prazo estabelecido em tabela de temporalidade para o
+cumprimento da destina��o.

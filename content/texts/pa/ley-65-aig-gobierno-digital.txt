@@ -1,0 +1,306 @@
+REPÚBLICA DE PANAMÁ
+                                       ASAMBLEA NACIONAL
+                                            LEGISPAN
+                            LEGISLACIÓN DE LA REPÚBLICA DE PANAMÁ
+
+   Tipo de Norma: LEY
+          Número:       65                  Referencia:
+             Año: 2009            Fecha(dd-mm-aaaa): 30-10-2009
+          Titulo: QUE CREA LA AUTORIDAD NACIONAL PARA LA INNOVACION GUBERNAMENTAL.
+
+
+    Dictada por: ASAMBLEA NACIONAL
+  Gaceta Oficial: 26400-C                 Publicada el: 30-10-2009
+Rama del Derecho: DER. ADMINISTRATIVO, DER. DE INFORMATICA
+
+ Palabras Claves: Desarrollo, Automatización, Procesos administrativos, Código
+                  Administrativo, Organización Gubernamental, Instituciones públicas,
+                  Oficinas públicas, Tecnología
+
+         Páginas:       5                 Tamaño en Mb:      0.225
+           Rollo: 569                         Posición:   1720
+
+
+                             TEL.:212-8496 - EMAIL:LEGISPAN@ASAMBLEA.GOB.PA
+                                          WWW.ASAMBLEA.GOB.PA
+Digitalizado por la Asamblea Nacional
+Digitalizado por la Asamblea Nacional
+Digitalizado por la Asamblea Nacional
+Digitalizado por la Asamblea Nacional
+Digitalizado por la Asamblea Nacional
+Digitalizado por la Asamblea Nacional
+G.O. 26400-C
+
+
+                                            LEY 65
+                                    De 30 de Octubre de 2009
+
+      Que crea la Autoridad Nacional para la Innovación Gubernamental
+
+                                 LA ASAMBLEA NACIONAL
+                                           DECRETA:
+
+                                           Capítulo I
+                                     Disposiciones Generales
+
+
+Artículo 1. Se crea la Autoridad Nacional para la Innovación Gubernamental, en adelante la
+Autoridad, como entidad competente del Estado para planificar, coordinar, emitir directrices,
+supervisar, colaborar, apoyar y promover el uso óptimo de las tecnologías de la información y
+comunicaciones en el sector gubernamental para la modernización de la gestión pública, así
+como recomendar la adopción de políticas, planes y acciones estratégicas nacionales relativas a
+esta materia.
+
+
+Artículo 2. La Autoridad tendrá personalidad jurídica, patrimonio propio y autonomía en su
+régimen interno, así como capacidad de adquirir derechos y contraer obligaciones, administrar
+sus bienes y gestionar sus recursos, sujeta a las disposiciones que regulan la contratación pública
+y a la fiscalización de la Contraloría General de la República.
+       Para los fines de esta Ley, la Autoridad, en el ámbito de sus funciones, será representada
+ante el Órgano Ejecutivo por conducto del Ministerio de la Presidencia.
+
+
+Artículo 3. Para el cumplimiento de sus objetivos, la Autoridad tendrá las siguientes funciones:
+1.     Elaborar la propuesta y velar por la ejecución de políticas, planes, programas, medidas y
+       demás actividades relacionadas con el proceso de planeamiento de la tecnología e
+       innovación tecnológica del país, así como la cooperación técnica, en el sector
+       gubernamental.
+2.     Coordinar el desarrollo de iniciativas que conlleven a la modernización del Estado
+       mediante el uso de herramientas tecnológicas con particular énfasis en proyectos que
+       tiendan a mejorar la eficiencia y calidad de los servicios gubernamentales.
+3.     Optimizar los trámites y procesos de las entidades públicas.
+4.     Impulsar continuamente la reingeniería y la reinvención del Estado.
+5.     Gestionar el desarrollo y contrataciones de proyectos que involucren las tecnologías de la
+       información y comunicaciones para el uso compartido por parte de las dependencias del
+       Estado.
+6.     Elaborar informes periódicos sobre el estado de la situación general de la Autoridad, el
+       avance de la ejecución presupuestal y los programas requeridos para elevar la
+       productividad del sector público, los cuales deberán ser presentados ante el Consejo
+       Nacional para la Innovación Gubernamental.
+
+
+                   ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ
+G.O. 26400-C
+
+
+7.     Inventariar, clasificar y, cuando sea requerido, reutilizar y almacenar en base de datos
+       virtuales la información que contienen los archivos físicos y electrónicos de las
+       instituciones gubernamentales, así como dictar políticas sobre el acceso a estas, con
+       sujeción a las disposiciones que rigen la materia.
+8.     Planificar, organizar y ejecutar procesos de capacitación del personal de las unidades
+       departamentales de informática y tecnología de las diferentes dependencias estatales.
+9.     Elaborar y desarrollar planes estratégicos en materia de tecnología e innovación para su
+       implementación en el sector gubernamental.
+10.    Velar por el posicionamiento de la República de Panamá en los índices de competitividad
+       y conectividad internacional, tomando las acciones que contribuyan a mejorar este
+       posicionamiento, en coordinación con otras entidades del Estado.
+11.    Emitir directrices para establecer los estándares necesarios para el desarrollo y la
+       protección de los sistemas tecnológicos del Estado y velar por su cumplimiento,
+       realizando inspecciones periódicas para identificar situaciones que requieran ser
+       corregidas.
+12.    Coadyuvar con todas las instituciones del Estado a fin de cumplir con los objetivos
+       planteados en la presente Ley.
+13.    Aprobar las especificaciones técnicas de las contrataciones de tecnología que realicen las
+       entidades del Estado, con sumas superiores a cincuenta mil balboas (B/.50,000.00).
+14.    Coordinar, supervisar y evaluar los proyectos de las entidades públicas, relacionados con
+       la innovación y reinvención de gobierno, enmarcados en la tramitología y la relación
+       entre las instituciones y los ciudadanos.
+15.    Ejercer las demás que esta Ley, su reglamentación u otras leyes le asignen.
+
+
+                                          Capítulo II
+                            Administrador y Subadministrador General
+
+Artículo 4.     La Autoridad estará bajo la dirección de un Administrador General y un
+Subadministrador General nombrados por el Presidente de la República, quienes deberán cumplir
+con los siguientes requisitos:
+1.     Ser de nacionalidad panameña.
+2.     Ser mayor de treinta y cinco años.
+3.     Contar con solvencia moral y reconocida probidad.
+4.     Poseer título universitario, idoneidad profesional comprobada y experiencia en temas
+       relacionados con tecnologías de la información y comunicaciones.
+
+
+Artículo 5. No podrá ser nombrado para ejercer el cargo de Administrador o Subadministrador
+General de la Autoridad:
+1.     Quien haya sido condenado por delito doloso o contra la administración pública,
+       mediante sentencia ejecutoriada, proferida por un tribunal de justicia.
+
+
+                     ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ
+G.O. 26400-C
+
+
+2.     Quien al momento de su designación tenga parentesco con el Presidente de la República o
+       el Vicepresidente, dentro del cuarto grado de consanguinidad y segundo grado de
+       afinidad.
+       El Administrador General ejercerá la representación legal de la Autoridad, la cual
+quedará delegada en el Subadministrador General, en caso de ausencia absoluta del primero.
+
+
+Artículo 6. El Subadministrador General colaborará con el Administrador General, lo
+remplazará en sus ausencias accidentales o temporales y asumirá las funciones que le
+encomienden o deleguen el Consejo Nacional para la Innovación Gubernamental y el
+Administrador General, así como las demás que esta Ley y su reglamentación le asignen.
+
+
+Artículo 7. Las funciones del Administrador General serán las siguientes:
+1.     Dirigir y administrar la Autoridad.
+2.     Ejercer la representación legal de la Autoridad.
+3.     Elaborar las propuestas de presupuesto y el plan anual de actividades de la Autoridad.
+4.     Ejecutar las políticas, los planes, las estrategias, los programas y los proyectos de
+       competencia de la Autoridad.
+5.     Presentar al Órgano Ejecutivo la estructura y organización de la Autoridad, así como la
+       propuesta de reglamentación de la presente Ley.
+6.     Representar a la República de Panamá ante los organismos regionales e internacionales
+       en materia de tecnología e innovación tecnológica gubernamental.
+7.     Coordinar con el Ministerio de Relaciones Exteriores las acciones de seguimiento y
+       cumplimiento de los tratados internacionales en materia de tecnología e innovación
+       tecnológica gubernamental, aprobados y ratificados por la República de Panamá.
+8.     Promover programas de capacitación y adiestramiento de personal y seleccionar a
+       quienes participarán en estos programas, según las prioridades de la Autoridad.
+9.     Comprar, vender, arrendar y negociar con bienes de cualquier clase, contratar personal
+       técnico especializado y planificar o ejecutar sus programas, de conformidad con las
+       disposiciones legales vigentes.
+10.    Firmar órdenes para los gastos operativos, así como suscribir los contratos y convenios
+       necesarios para el cumplimiento de los objetivos y funciones de la Autoridad, hasta la
+       concurrencia de trescientos mil balboas (B/.300,000.00).
+11.    Firmar órdenes para los gastos operativos, suscribir los contratos y convenios necesarios
+       para el cumplimiento de los objetivos y funciones de la Autoridad, cuyo monto sea
+       superior a trescientos mil balboas (B/.300,000.00), previa autorización del Consejo
+       Nacional para la Innovación Gubernamental.
+12.    Participar en las reuniones de Consejo de Gabinete cuando se le convoque.
+13.    Suscribir convenios y acuerdos con otras entidades para garantizar el cumplimiento de los
+       objetivos de la presente Ley.
+14.    Emitir un informe de gestión anual al Consejo Nacional para la Innovación
+       Gubernamental.
+
+
+                   ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ
+G.O. 26400-C
+
+
+15.    Nombrar, destituir, trasladar, ascender, conceder licencias e imponer sanciones
+       disciplinarias a los servidores públicos de la Autoridad de conformidad con las
+       disposiciones legales vigentes.
+16.    Ejecutar las demás funciones que por ley le corresponden.
+       El Administrador General en forma expresa podrá delegar, en funcionarios idóneos, el
+ejercicio de las facultades conferidas. Las facultades delegadas no podrán, a su vez, ser
+delegadas.
+
+
+Artículo 8. A partir de la promulgación de la presente Ley, el Administrador General dispondrá
+de un plazo no mayor de tres        meses para presentar al Órgano Ejecutivo la estructura y
+organización de la Autoridad, así como la propuesta de reglamentación de la presente Ley.
+
+
+                                          Capítulo III
+                        Consejo Nacional para la Innovación Gubernamental
+
+Artículo 9. Se crea el Consejo Nacional para la Innovación Gubernamental, integrado por:
+1.     El Presidente de la República o quien él designe, quien lo presidirá.
+2.     El Ministro de la Presidencia o quien él designe.
+3.     El Ministro de Economía y Finanzas o quien él designe.
+4.     El Administrador General de la Autoridad, quien fungirá como su Secretario.
+5.     El Secretario Nacional de Ciencia, Tecnología e Innovación o quien él designe.
+6.     El Contralor General de la República o quien él designe, con derecho a voz.
+
+
+Artículo 10. Son funciones del Consejo Nacional para la Innovación Gubernamental:
+1.     Aprobar el presupuesto anual de funcionamiento de la Autoridad.
+2.     Aprobar la propuesta de políticas y planes nacionales de desarrollo de tecnología,
+       desarrollo tecnológico e innovación que formule la Autoridad.
+3.     Dictar su reglamento de funcionamiento.
+4.     Autorizar los gastos operativos y la suscripción de los contratos y convenios necesarios
+       para el cumplimiento de los objetivos y funciones de la Autoridad, que superen el monto
+       de trescientos mil balboas (B/.300,000.00).
+5.     Ejercer las demás funciones que esta Ley, su reglamentación u otras leyes le asignen.
+
+
+                                           Capítulo IV
+                                           Patrimonio
+
+Artículo 11. El patrimonio y los recursos de la Autoridad estarán constituidos por:
+1.     Todos los bienes muebles e inmuebles y cualquier otro activo que, a la entrada en
+       vigencia de la presente Ley, pertenezcan a la Secretaría de la Presidencia para la
+       Innovación Gubernamental o de los proyectos manejados por esta.
+2.     Las herencias, donaciones y legados que se transmitan, los cuales se recibirán a beneficio
+       de inventario.
+3.     Las asignaciones presupuestarias.
+
+
+                  ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ
+G.O. 26400-C
+
+
+4.     Cualquier otro bien o haber que autoricen las disposiciones legales o los reglamentos.
+
+
+                                          Capítulo V
+                                      Disposiciones Finales
+
+Artículo 12. Contra las decisiones de la Autoridad solo procede el recurso de reconsideración, el
+cual agota la vía gubernativa.
+
+
+Artículo 13. Todas las disposiciones que se refieran a la Secretaría de la Presidencia para la
+Innovación Gubernamental se entenderán referidas a la Autoridad para la Innovación
+Gubernamental.
+       La Autoridad asumirá todas las funciones, los deberes y las atribuciones que por algún
+instrumento normativo se encuentren asignados a la Secretaría de la Presidencia para la
+Innovación Gubernamental.
+       El personal de la Secretaría de la Presidencia para la Innovación Gubernamental y el
+asignado a los proyectos o programas de inversión manejados por esta pasarán a la Autoridad.
+
+
+Artículo 14 (transitorio).       Se autoriza al Órgano Ejecutivo para que, por conducto del
+Ministerio de la Presidencia, se traspasen a la Autoridad todos los bienes muebles e inmuebles
+que actualmente posee la Secretaría de la Presidencia para la Innovación Gubernamental.
+
+
+Artículo 15. La presente Ley deroga el Decreto Ejecutivo 102 de 1 de septiembre de 2004.
+
+
+Artículo 16. Esta Ley comenzará a regir el día siguiente al de su promulgación.
+
+
+COMUNÍQUESE Y CÚMPLASE.
+Proyecto 73 de 2009 aprobado en tercer debate en el Palacio Justo Arosemena, ciudad de
+Panamá, a los veintisiete días del mes de octubre del año dos mil nueve.
+
+
+                                                                          El Presidente,
+                                                                       José Luis Varela R.
+      El Secretario General,
+     Wigberto E. Quintero G.
+
+
+ÓRGANO EJECUTIVO NACIONAL. PRESIDENCIA DE LA REPÚBLICA, PANAMÁ,
+REPÚBLICA DE PANAMA, 30 DE OCTUBRE DE 2009.
+
+
+                                                              RICARDO MARTINELLI B.
+                                                               Presidente de la República
+
+
+     DEMETRIO PAPADIMITRIU
+       Ministro de la Presidencia
+
+
+                   ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ
+                       ASAMBLEA NACIONAL
+
+            LEY: 065   DE   2009
+
+PROYECTO DE LEY: 2009_P_073.PDF
+   NOMENCLATURA: AÑO_MES_DÍA_LETRA_ORIGEN
+                                   ACTAS DEL MISMO DÍA: A, B, C, D
+
+                                   ACTAS DE VARIOS DIAS: V
+
+
+                            ACTAS DEL PLENO
+
+                    2009_10_26_V_PLENO.PDF
+
+                    2009_10_27_V_PLENO.PDF

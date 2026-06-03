@@ -1,0 +1,125 @@
+Ley N� 20327
+Volver
+Ver Base Jurisprudencia Nacional
+Ley N� 20327
+REGULACION PARA LA PREVENCION Y REPRESION DE LA CIBERDELINCUENCIA
+Documento Actualizado
+Ver Imagen del D.O.
+Promulgaci�n: 23/08/2024
+Publicaci�n: 25/09/2024
+• El Registro Nacional de Leyes y Decretos del presente semestre a�n no fue editado.
+CAP�TULO I - TIPIFICACI�N DE CIBERDELITOS
+Art�culo 1
+(*) (*) Notas: Este art�culo agreg� a: C�digo Penal de 04/12/1933 art�culos 288 - BIS y
+288 - TER .
+Art�culo 2
+(*) (*) Notas: Este art�culo agreg� a: C�digo Penal de 04/12/1933 art�culo 277 - TER .
+Art�culo 3
+(*) (*) Notas: Este art�culo agreg� a: C�digo Penal de 04/12/1933 art�culos 347 - BIS y
+348 - BIS .
+Art�culo 4
+(*) (*) Notas: Este art�culo agreg� a: Ley N� 19.574 de 20/12/2017 art�culo 34 numeral
+34).
+Art�culo 5
+(*) (*) Notas: Este art�culo agreg� a: C�digo Penal de 04/12/1933 art�culos 358 - QUATER
+y 359 - TER .
+Art�culo 6
+(*) (*) Notas: Este art�culo agreg� a: C�digo Penal de 04/12/1933 art�culos 297 - BIS ,
+297 - TER y 297 - QUATER .
+Art�culo 7
+(*) (*) Notas: Este art�culo agreg� a: C�digo Penal de 04/12/1933 art�culos 347 - TER y
+348 - TER .
+Art�culo 8
+(*) (*) Notas: Este art�culo agreg� a: C�digo Penal de 04/12/1933 art�culo 358 -
+QUINQUIES .
+CAP�TULO II - MEDIDAS EDUCATIVAS
+Art�culo 9
+(Campa�a nacional educativa).- El Poder Ejecutivo promover� una campa�a nacional educativa sobre el manejo de finanzas personales y ciberseguridad en los centros educativos dependientes de la Direcci�n General de Educaci�n Secundaria y de la Direcci�n General de Educaci�n T�cnico-Profesional de la Administraci�n Nacional de Educaci�n P�blica, que deber� comprender, adem�s, a beneficiarios de prestaciones servidas por el Banco de Previsi�n Social, Ceibal y los programas del Instituto Nacional de Empleo y Formaci�n Profesional.
+Los conceptos a desarrollar deber�n revisarse y actualizarse peri�dicamente acompasando los avances tecnol�gicos y ser�n los siguientes:
+A) Medios de pago, (dinero electr�nico, diferencia entre subtipos de
+tarjetas, realizaci�n de operaciones en l�nea y cualquier otro medio
+de pago electr�nico que pudiere desarrollarse).
+B) Cuentas bancarias: cajas de ahorro, cuentas corrientes, (diferencias
+entre ambas y vinculaci�n a la Ley N� 19.210, de 29 de abril de 2014,
+y al Decreto-Ley N� 14.701, de 12 de setiembre de 1977).
+C) Acceso al financiamiento: pr�stamos (an�lisis de tasas de inter�s,
+plazos, c�lculo de cuota contra ingresos mensuales, consecuencias de
+incumplimientos).
+D) Instituciones financieras: diferencia entre agentes cl�sicos y nuevos
+participantes, (plataformas de comercio electr�nico y mensajer�a
+instant�nea, entre otras).
+E) Planificaci�n presupuestaria: relaci�n ahorro y consumo, costo del
+dinero.
+F) Antecedentes crediticios: clearing de informes, central de riesgos del
+Banco Central del Uruguay, implicancias e impacto en acceso al
+cr�dito.
+G) Intangibilidad del salario (l�mite para el endeudamiento, pago de
+prestaciones alimenticias, orden de deducciones).
+H) Mecanismos de defensa al usuario financiero.
+I) Canales digitales y riesgos derivados de su uso inadecuado.
+J) Ejercicio de derechos en el entorno digital y aplicaci�n de conceptos
+de autorregulaci�n, comportamiento �tico y emp�tico en el
+ciberespacio.
+K) Fraudes tendientes al acceso de datos personales y financieros, que se
+determinan seg�n las siguientes definiciones:
+1) Phishing: suplantaci�n de identidad, t�cnica de ingenier�a social que
+usan los ciberdelincuentes para obtener informaci�n confidencial de
+los usuarios de forma fraudulenta y as� apropiarse de la identidad de
+esas personas.
+2) Vishing: tipo de estafa de ingenier�a social por tel�fono en la que a
+trav�s de una llamada, se suplanta la identidad de una empresa,
+organizaci�n o persona de confianza, con el fin de obtener informaci�n
+personal y sensible de la v�ctima.
+3) Smishing: t�cnica que consiste en el env�o de un mensaje de texto por
+parte de un ciberdelincuente a un usuario simulando ser una entidad
+leg�tima (red social, banco, instituci�n p�blica u otros) con el
+objetivo de robarle informaci�n privada o causarle un perjuicio
+econ�mico.
+4) Malware: hace referencia al software malicioso, que afecte los
+intereses del usuario, entendi�ndose software al conjunto de programas
+y rutinas que permiten a una computadora realizar determinadas
+tareas.
+5) Troyano: es un programa que instala otros programas a menudo malware,
+sin consentimiento.
+6) Ingenier�a social: son las diferentes t�cnicas de manipulaci�n que
+usan los ciberdelincuentes para obtener informaci�n confidencial de
+los usuarios, enga�ando a sus v�ctimas haci�ndose pasar por otra
+persona.
+L) Buenas pr�cticas para el uso de canales digitales (riesgos asociados a
+su utilizaci�n por parte de menores de edad, relevancia de la
+supervisi�n).
+Asimismo, deber� asegurarse la igualdad en el acceso a las tecnolog�as de la informaci�n y de la comunicaci�n, as� como la equidad de g�nero en su uso y acceso por lo que las entidades competentes deber�n desarrollar campa�as de seguridad digital en todo el territorio nacional con el fin de generar espacios de formaci�n, capacitaci�n, sociabilizaci�n y accesibilidad en las tecnolog�as de la informaci�n y la educaci�n de forma equitativa a hombres y mujeres e igualitaria en materia de generaciones y discapacidad.
+CAP�TULO III - REGISTRO DE CIBERDELINCUENTES
+Art�culo 10
+(Registro de antecedentes).- Fac�ltase a las instituciones de intermediaci�n financiera y a las entidades emisoras de dinero electr�nico a crear registros interinstitucionales que contengan datos para identificar, gestionar y prevenir transacciones no consentidas, operativas fraudulentas y tomar medidas preventivas conjuntas sobre los beneficiarios de �stas.
+A los solos efectos de compartir entre s� la informaci�n a que refiere el inciso anterior, no aplicar�n a las instituciones y entidades mencionadas las limitaciones impuestas por el Decreto-Ley N� 15.322, de 17 de setiembre de 1982, quedando dichas instituciones y entidades facultadas para compartir sus registros con las autoridades jurisdiccionales, a los efectos de radicar denuncias y realizar gestiones tendientes a prevenir y mitigar los ciberdelitos tipificados en la presente ley.
+CAP�TULO IV - PREVENCI�N DE TRANSACCIONES NO CONSENTIDAS
+Art�culo 11
+(Inmovilizaci�n de fondos).- Fac�ltase a las instituciones de intermediaci�n financiera y a las entidades emisoras de dinero electr�nico a la no ejecuci�n de cualquier tipo de orden de retiro o transferencia de activos brindada por personas f�sicas o jur�dicas titulares o apoderados de cuentas, cuando hubieren tomado conocimiento, por cualquier medio de comunicaci�n fehaciente, que en las cuentas referidas ingresaron fondos de terceros a trav�s de transacciones que les fueran declaradas como desconocidas y no autorizadas por el titular de las cuentas de origen de los fondos transferidos. Lo dispuesto comprende instrucciones efectuadas directamente por los titulares de la cuenta as� como instrucciones impartidas por sus representantes o apoderados a cualquier t�tulo.
+La inmovilizaci�n de fondos referida en el inciso anterior se aplicar� a las cuentas correspondientes y comprender� los saldos actuales e ingresos futuros de fondos o valores a dichas cuentas. En cualquier caso, la inmovilizaci�n de fondos alcanzar� hasta el l�mite del monto de las transacciones denunciadas como desconocidas y no autorizadas por el titular de las cuentas de origen de los fondos transferidos, debiendo las instituciones de intermediaci�n financiera y las entidades emisoras de dinero electr�nico ejecutar toda orden que excediera dicho l�mite, salvo que las mismas no cumplan con requisitos legales o contractuales.
+La inmovilizaci�n de los fondos consecuentemente con lo dispuesto en los incisos anteriores, deber� ser comunicada dentro del plazo de un d�a h�bil al Banco Central del Uruguay (BCU), quien podr� solicitar informaci�n adicional a las instituciones de intermediaci�n financiera y a las entidades emisoras de dinero electr�nico donde se encuentran radicadas las cuentas de origen y destino vinculadas a las transacciones denunciadas como desconocidas y no autorizadas y, previo an�lisis de la informaci�n a la que acceda, podr� instruir dejar sin efecto la inmovilizaci�n de fondos.
+La inmovilizaci�n de fondos deber� dejarse sin efecto y comunicarse al BCU cuando ocurra alguna de las siguientes situaciones:
+A) La instituci�n de intermediaci�n financiera o la entidad emisora de
+dinero electr�nico donde se encuentra radicada la cuenta afectada no
+hubiere recibido dentro del plazo de cuarenta y ocho horas de
+efectuada la inmovilizaci�n, constancia de denuncia presentada por el
+titular de la cuenta origen de los fondos ante autoridad competente
+(Ministerio del Interior o Fiscal�a General de la Naci�n).
+B) La instituci�n de intermediaci�n financiera o la entidad emisora de
+dinero electr�nico donde se encuentra radicada la cuenta afectada no
+hubiere recibido, dentro del plazo de treinta d�as siguientes a la
+recepci�n de la constancia de denuncia referida en el literal A), una
+orden jurisdiccional confirmando la medida de inmovilizaci�n.
+C) La instituci�n de intermediaci�n financiera o la entidad emisora de
+dinero electr�nico donde se encuentra radicada la cuenta afectada por
+inmovilizaci�n recibiera de cualquier autoridad jurisdiccional
+competente instrucci�n de dejar sin efecto la inmovilizaci�n
+referida.
+D) La instituci�n de intermediaci�n financiera o la entidad emisora de
+dinero electr�nico donde se encuentra radicada la cuenta afectada por
+inmovilizaci�n recibiera, del titular de la misma, elementos de
+convicci�n suficiente o documentaci�n fehaciente que, a su exclusivo
+criterio, indiquen que la transacci�n denunciada fue efectivamente
+autorizada por el titular de la cuenta de origen.
+Las instituciones de intermediaci�n financiera y las entidades emisoras de dinero electr�nico podr�n radicar o ampliar denuncias ante las autoridades competentes, y realizar gestiones interinstitucionales, quedando facultadas para brindar todos los datos vinculados a las operaciones no consentidas. LACALLE POU LUIS - NICOL�S MARTINELLI - OMAR PAGANINI - AZUCENA ARBELECHE - ARMANDO CASTAINGDEBAT - PABLO DA SILVEIRA - JOS� LUIS FALERO - WALTER VERRI - MARIO ARIZTI - JOS� SATDJIAN - JUAN BUFFA - EDUARDO SANGUINETTI - RA�L LOZANO - ALEJANDRO SCIARRA - ROBERT BOUVIER
+Ayuda

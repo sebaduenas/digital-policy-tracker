@@ -1,0 +1,1162 @@
+InfoLEG - Ministerio de Econom�a y Finanzas P�blicas - Argentina
+Ir a texto actualizado y otros datos
+ARGENTINA DIGITAL
+Ley 27.078
+Tecnolog�as de la Informaci�n y las Comunicaciones.
+Sancionada: Diciembre 16 de 2014
+Promulgada: Diciembre 18 de 2014
+El Senado y C�mara de Diputados de la Naci�n Argentina reunidos en Congreso, etc. sancionan con fuerza de
+Ley:
+LEY ARGENTINA DIGITAL
+T�tulo 1
+Disposiciones Generales
+Cap�tulo I
+Objeto
+ART�CULO 1� — Objeto .
+Decl�rase de inter�s p�blico el desarrollo de las Tecnolog�as de la
+Informaci�n y las Comunicaciones, las Telecomunicaciones, y sus
+recursos asociados, estableciendo y garantizando la completa
+neutralidad de las redes.
+Su objeto es posibilitar el acceso de la totalidad de los habitantes de
+la Rep�blica Argentina a los servicios de la informaci�n y las
+comunicaciones en condiciones sociales y geogr�ficas equitativas, con
+los m�s altos par�metros de calidad.
+Esta norma es de orden p�blico y excluye cualquier tipo de regulaci�n
+de los contenidos, cualquiera fuere su medio de transmisi�n.
+ART�CULO 2� — Finalidad.
+Las disposiciones de la presente ley tienen como finalidad garantizar
+el derecho humano a las comunicaciones y a las telecomunicaciones,
+reconocer a las Tecnolog�as de la Informaci�n y las Comunicaciones
+(TIC) como un factor preponderante en la independencia tecnol�gica y
+productiva de nuestra Naci�n, promover el rol del Estado como
+planificador, incentivando la funci�n social que dichas tecnolog�as
+poseen, como as� tambi�n la competencia y la generaci�n de empleo
+mediante el establecimiento de pautas claras y transparentes que
+favorezcan el desarrollo sustentable del sector, procurando la
+accesibilidad y asequibilidad de las tecnolog�as de la informaci�n y
+las comunicaciones para el pueblo.
+Asimismo, se busca establecer con claridad la distinci�n entre los
+mercados de generaci�n de contenidos y de transporte y distribuci�n de
+manera que la influencia en uno de esos mercados no genere pr�cticas
+que impliquen distorsiones en el otro.
+En la ejecuci�n de la presente ley se garantizar� el desarrollo de las
+econom�as regionales, procurando el fortalecimiento de los actores
+locales existentes, tales como cooperativas, entidades sin fines de
+lucro y pymes, propendiendo a la generaci�n de nuevos actores que en
+forma individual o colectiva garanticen la prestaci�n de los Servicios
+de TIC.
+ART�CULO 3� — �mbito de aplicaci�n. La presente ley es de aplicaci�n en todo el territorio de la Naci�n Argentina y en los lugares sometidos a su jurisdicci�n.
+ART�CULO 4� — Jurisdicci�n federal y competencia contencioso administrativa.
+Las actividades reguladas por la presente estar�n sujetas a la
+jurisdicci�n federal y cualquier incidencia que de modo directo o
+indirecto pudiera surgir o derivar de la aplicaci�n de la presente ser�
+competencia del fuero Contencioso Administrativo Federal, con excepci�n
+de las relaciones de consumo.
+ART�CULO 5� — Inviolabilidad de las comunicaciones .
+La correspondencia, entendida como toda comunicaci�n que se efect�e por
+medio de Tecnolog�as de la Informaci�n y las Comunicaciones (TIC),
+entre las que se incluyen los tradicionales correos postales, el correo
+electr�nico o cualquier otro mecanismo que induzca al usuario a
+presumir la privacidad del mismo y de los datos de tr�fico asociados a
+ellos, realizadas a trav�s de las redes y servicios de
+telecomunicaciones, es inviolable. Su interceptaci�n, as� como su
+posterior registro y an�lisis, s�lo proceder� a requerimiento de juez
+competente.
+Cap�tulo II
+Definiciones
+ART�CULO 6� — Definiciones generales .
+En lo que respecta al r�gimen de las Tecnolog�as de la Informaci�n y
+las Comunicaciones y de las Telecomunicaciones, se aplicar�n las
+siguientes definiciones:
+a) Autoridad de Aplicaci�n: es la prevista en el art�culo 77 de la presente ley.
+b) Recursos asociados: son las infraestructuras f�sicas, los sistemas,
+los dispositivos, los servicios asociados u otros recursos o elementos
+asociados con una red de telecomunicaciones o con un Servicio de
+Tecnolog�as de la Informaci�n y las Comunicaciones (TIC) que permitan o
+apoyen la prestaci�n de servicios a trav�s de dicha red o servicio, o
+tengan potencial para ello. Incluir�n, entre otros, edificios o
+entradas de edificios, el cableado de edificios, antenas, torres y
+otras construcciones de soporte, conductos, m�stiles, bocas de acceso y
+distribuidores.
+c) Servicio B�sico Telef�nico (SBT): consiste en la provisi�n del
+servicio de telefon�a nacional e internacional de voz, a trav�s de las
+redes locales, independientemente de la tecnolog�a utilizada para su
+transmisi�n, siempre que cumpla con la finalidad de permitir a sus
+usuarios comunicarse entre s�.
+d) Servicios de Tecnolog�as de la Informaci�n y las Comunicaciones
+(Servicios de TIC): son aquellos que tienen por objeto transportar y
+distribuir se�ales o datos, como voz, texto, video e im�genes,
+facilitados o solicitados por los terceros usuarios, a trav�s de redes
+de telecomunicaciones. Cada servicio estar� sujeto a su marco
+regulatorio espec�fico.
+e) Servicio de Telecomunicaci�n: es el servicio de transmisi�n, emisi�n
+o recepci�n de escritos, signos, se�ales, im�genes, sonidos o
+informaci�n de cualquier naturaleza, por hilo, radioelectricidad,
+medios �pticos u otros sistemas electromagn�ticos, a trav�s de redes de
+telecomunicaciones.
+f) Servicio p�blico esencial y estrat�gico de Tecnolog�as de la
+Informaci�n y las Comunicaciones en competencia: es el servicio de uso
+y acceso a las redes de telecomunicaciones para y entre prestadores de
+Servicios de TIC. Este servicio debe ser brindado con caracter�sticas
+de generalidad, uniformidad, regularidad y continuidad.
+g) Tecnolog�as de la informaci�n y las comunicaciones (TIC): es el
+conjunto de recursos, herramientas, equipos, programas inform�ticos,
+aplicaciones, redes y medios que permitan la compilaci�n,
+procesamiento, almacenamiento y transmisi�n de informaci�n, como por
+ejemplo voz, datos, texto, video e im�genes, entre otros.
+h) Telecomunicaci�n: es toda transmisi�n, emisi�n o recepci�n de
+signos, se�ales, escritos, im�genes, sonidos o informaci�n de cualquier
+naturaleza, por hilo, radioelectricidad, medios �pticos u otros
+sistemas electromagn�ticos.
+ART�CULO 7� — Definiciones particulares. En la relaci�n entre los licenciatarios o prestadores de Servicios de TIC se aplicar�n las siguientes definiciones:
+a) Acceso: es la puesta a disposici�n de parte de un prestador a otro
+de elementos de red, recursos asociados o servicios con fines de
+prestaci�n de Servicios de TIC, incluso cuando se utilicen para el
+suministro de servicios de contenidos audiovisuales.
+b) Arquitectura abierta: es el conjunto de caracter�sticas t�cnicas de
+las redes de telecomunicaciones que les permite interconectarse entre
+s� a nivel f�sico o virtual, l�gico y funcional, de tal manera que
+exista interoperabilidad entre ellas.
+c) Facilidades esenciales: son los elementos de red o servicios que se
+proporcionan por un solo licenciatario o prestador o un reducido n�mero
+de ellos cuya reproducci�n no es viable desde un punto de vista
+t�cnico, legal o econ�mico y son insumos indispensables para la
+prestaci�n de los servicios previstos en esta ley. En los casos no
+previstos en la presente, la Autoridad de Aplicaci�n determinar� la
+existencia y regulaci�n al acceso a las facilidades esenciales en
+t�rminos de lo dispuesto por la ley 25.156 o la que en el futuro la
+reemplace.
+d) Interconexi�n: es la conexi�n f�sica y l�gica de las redes de
+telecomunicaciones de manera tal que los usuarios de un licenciatario
+puedan comunicarse con los usuarios de otro licenciatario, as� como
+tambi�n acceder a los servicios brindados por otro licenciatario. Los
+servicios podr�n ser facilitados por las partes interesadas o por
+terceros que tengan acceso a la red. La interconexi�n constituye un
+tipo particular de acceso entre prestadores de Servicios de TIC.
+e) Red de telecomunicaciones: son los sistemas de transmisi�n y, cuando
+proceda, los equipos de conmutaci�n o encaminamiento y dem�s recursos,
+incluidos los elementos que no son activos, que permitan el transporte
+de se�ales mediante cables, ondas hertzianas, medios �pticos u otros
+medios electromagn�ticos, con inclusi�n de las redes de sat�lites,
+redes terrestres fijas (de conmutaci�n de circuitos y de paquetes u
+otros) y m�viles, sistemas de tendido el�ctrico, en la medida en que se
+utilicen para la transmisi�n de se�ales, redes utilizadas para la
+radiodifusi�n sonora y televisiva y redes de televisi�n por cable, con
+independencia del tipo de informaci�n transportada.
+f) Red local: es la infraestructura de red de telecomunicaciones,
+incluyendo el software y el hardware necesarios para llevar a cabo la
+conectividad desde el punto de conexi�n terminal de la red ubicado en
+el domicilio del usuario a la central telef�nica o instalaci�n
+equivalente, circunscripta a un �rea geogr�fica determinada.
+g) Usuario de Servicios de TIC: es la persona f�sica o jur�dica que
+utiliza el servicio para s�. No incluye la prestaci�n, reventa o
+arriendo de las redes o servicios disponibles para el p�blico.
+h) Poder significativo de mercado: es la posici�n de fuerza econ�mica
+que le permite a uno o m�s prestadores que su comportamiento sea, en
+una medida apreciable, independiente de sus competidores. Esta fuerza
+econ�mica puede estar fundada en la cuota de participaci�n en el o los
+mercados de referencia, en la propiedad de facilidades esenciales, en
+la capacidad de influir en la formaci�n de precios o en la viabilidad
+de sus competidores; incluyendo toda situaci�n que permita o facilite
+el ejercicio de pr�cticas anticompetitivas por parte de uno o m�s
+prestadores a partir, por ejemplo, de su grado de integraci�n vertical
+u horizontal. Las obligaciones espec�ficas impuestas al prestador con
+poder significativo de mercado se extinguir�n en sus efectos por
+resoluci�n de la Autoridad de Aplicaci�n una vez que existan
+condiciones de competencia efectiva en el o los mercados de referencia.
+La Autoridad de Aplicaci�n est� facultada para declarar en cualquier
+momento prestadores con poder significativo de mercado en los servicios
+de aplicaci�n de la presente ley de acuerdo al procedimiento que
+establezca la reglamentaci�n.
+T�tulo II
+Licencias
+ART�CULO 8� — R�gimen. La prestaci�n de los Servicios de TIC se realizar� en r�gimen de competencia.
+Para la prestaci�n de Servicios de TIC se requerir� la previa obtenci�n
+de la licencia habilitante. El licenciatario de Servicios de TIC deber�
+proceder a la registraci�n de cada servicio en las condiciones que
+determine la Autoridad de Aplicaci�n.
+ART�CULO 9� — Principios.
+Las licencias se otorgar�n a pedido y en la forma reglada, habilitando
+a la prestaci�n de los servicios previstos en esta ley en todo el
+territorio de la Naci�n Argentina, sean fijos o m�viles, al�mbricos o
+inal�mbricos, nacionales o internacionales, con o sin infraestructura
+propia.
+Los licenciatarios de los servicios previstos en esta ley podr�n
+brindar servicios de comunicaci�n audiovisual, con excepci�n de
+aquellos brindados a trav�s de v�nculo satelital, debiendo tramitar la
+licencia correspondiente ante la autoridad competente. Asimismo, los
+licenciatarios de servicios de comunicaci�n audiovisual podr�n brindar
+Servicios de TIC, debiendo tramitar la licencia correspondiente ante la
+Autoridad de Aplicaci�n de la presente ley.
+Quedan exceptuados los licenciatarios de servicios p�blicos
+relacionados con el �mbito de aplicaci�n de la presente ley, de las
+disposiciones contenidas en los art�culos 24 inciso i) y 25 inciso d)
+de la ley 26.522, sean �stas personas f�sicas o jur�dicas
+respectivamente.
+ART�CULO 10. — Contenidos y transporte.
+Cuando un requirente o prestador, de conformidad con las disposiciones
+de la presente, pretenda o re�na la titularidad de una licencia de
+servicios previstos en esta ley y la titularidad de una licencia de
+servicios de comunicaci�n audiovisual, deber�:
+a) Conformar unidades de negocio separadas a los efectos de la
+prestaci�n de los servicios de comunicaci�n audiovisual y de los
+Servicios de TIC.
+b) Llevar contabilidad separada y facturar por separado las
+prestaciones correspondientes a los servicios de comunicaci�n
+audiovisual y a los Servicios de TIC.
+c) No incurrir en pr�cticas anticompetitivas tales como las ventas
+atadas y los subsidios cruzados con fondos provenientes de las
+distintas unidades de negocio.
+d) Facilitar —cuando sea solicitado— a los competidores en los
+servicios licenciados el acceso a su propia infraestructura de soporte,
+en especial postes, m�stiles y ductos, en condiciones de mercado. En
+los casos en que no existiera acuerdo entre las partes, se deber� pedir
+intervenci�n a la autoridad de la Comisi�n Nacional de Defensa de la
+Competencia.
+e) Respetar las incumbencias y encuadramientos profesionales de los trabajadores en las distintas actividades que se presten.
+ART�CULO 11. — Condiciones de prestaci�n.
+El otorgamiento de la licencia para la prestaci�n de los servicios
+previstos en esta ley es independiente de la tecnolog�a o medios
+utilizados para ofrecerlos y de la existencia y asignaci�n de los
+medios requeridos para la prestaci�n del servicio.
+ART�CULO 12. — Requisitos.
+La Autoridad de Aplicaci�n otorgar� la licencia una vez que el
+solicitante haya dado cumplimiento a los requisitos que establezca la
+reglamentaci�n.
+Si para la prestaci�n del Servicio de TIC se requiere el uso de
+frecuencias del espectro radioel�ctrico, el licenciatario deber�
+tramitar, de conformidad con lo dispuesto en la normativa espec�fica en
+la materia, el otorgamiento de la correspondiente autorizaci�n o
+permiso de uso de frecuencias del espectro radioel�ctrico.
+ART�CULO 13. — Cesi�n o transferencia.
+La transferencia, la cesi�n, el arrendamiento, la constituci�n de
+cualquier gravamen sobre la licencia y toda modificaci�n de las
+participaciones accionarias o cuotas sociales, en los t�rminos de la
+reglamentaci�n vigente, deber�n obtenerla previa autorizaci�n de la
+Autoridad de Aplicaci�n, bajo pena de nulidad.
+ART�CULO 14. — Caducidad o extinci�n de la licencia.
+La Autoridad de Aplicaci�n podr� declarar la caducidad de la licencia o
+registro respectivo, conforme lo dispuesto por la presente ley, los
+decretos, reglamentos y dem�s normativa vigente en la materia,
+contemplando el procedimiento establecido por aqu�lla.
+Ser�n causales de caducidad:
+a) La falta de prestaci�n del o de los servicios registrados conforme la normativa vigente.
+b) La falta de inicio de la prestaci�n del o de los servicios
+registrados dentro del plazo que establezca la normativa vigente y de
+conformidad con la normativa que al efecto dicte la Autoridad de
+Aplicaci�n.
+c) La falta reiterada de pago de tasas, derechos, c�nones y el aporte
+al Servicio Universal, de conformidad con la reglamentaci�n que al
+efecto dicte la Autoridad de Aplicaci�n.
+d) La materializaci�n de actos sin la autorizaci�n del art�culo 13 de la presente.
+e) La quiebra, disoluci�n o liquidaci�n del licenciatario.
+T�tulo III
+Servicios de TIC y establecimiento y explotaci�n de redes de telecomunicaciones
+Cap�tulo I
+Principios generales
+ART�CULO 15. — Car�cter de servicio p�blico en competencia.
+Se reconoce el car�cter de servicio p�blico esencial y estrat�gico de
+Tecnolog�as de la Informaci�n y las Comunicaciones (TIC) en competencia
+al uso y acceso a las redes de telecomunicaciones, para y entre
+licenciatarios de Servicios de TIC.
+ART�CULO 16. — Homologaci�n y certificaci�n. Principio.
+Con el objeto de garantizar la integridad y calidad de las redes de
+telecomunicaciones y del espectro radioel�ctrico, as� como tambi�n la
+seguridad de las personas, usuarios y licenciatarios, los equipos de
+telecomunicaciones que sean comercializados estar�n sujetos a
+homologaci�n y certificaci�n. La Autoridad de Aplicaci�n dictar� el
+reglamento respectivo.
+Cap�tulo II
+Mecanismos de coordinaci�n
+ART�CULO 17. — Mecanismos de coordinaci�n para el despliegue de redes de telecomunicaciones.
+Las autoridades nacionales, provinciales, de la Ciudad Aut�noma de
+Buenos Aires y municipales, coordinar�n las acciones necesarias para
+lograr el despliegue de las redes de telecomunicaciones utilizadas en
+los Servicios de TIC. La Autoridad de Aplicaci�n invitar� a las
+provincias, a la Ciudad Aut�noma de Buenos Aires y a los municipios a
+suscribir los respectivos convenios de cooperaci�n.
+T�tulo IV
+Desarrollo de las TIC
+Cap�tulo I
+Servicio Universal
+ART�CULO 18. — Definici�n.
+El Estado nacional garantiza el Servicio Universal, entendido como el
+conjunto de Servicios de TIC que deben prestarse a todos los usuarios,
+asegurando su acceso en condiciones de calidad, asequibilidad y a
+precios justos y razonables, con independencia de su localizaci�n
+geogr�fica.
+ART�CULO 19. — Finalidad.
+El Servicio Universal es un concepto din�mico cuya finalidad es
+posibilitar el acceso de todos los habitantes de nuestro pa�s,
+independientemente de su domicilio, ingreso o capacidades, a los
+Servicios de TIC prestados en condiciones de calidad y a un precio
+justo y razonable.
+ART�CULO 20. — Alcance y r�gimen.
+Corresponde al Poder Ejecutivo nacional, a trav�s de la Autoridad de
+Aplicaci�n, definir la pol�tica p�blica a implementar para alcanzar el
+objetivo del Servicio Universal. Sin perjuicio de ello, el Servicio
+Universal se regir� por los principios, procedimientos y disposiciones
+de la presente ley y, en particular, por las resoluciones que a tal
+efecto dicte la Autoridad de Aplicaci�n.
+Cap�tulo II
+Fondo Fiduciario del Servicio Universal
+ART�CULO 21. — Creaci�n y financiamiento.
+Cr�ase el Fondo Fiduciario del Servicio Universal. Los aportes de
+inversi�n correspondientes a los programas del Servicio Universal ser�n
+administrados a trav�s de dicho fondo. El patrimonio del Fondo
+Fiduciario del Servicio Universal ser� del Estado nacional.
+La Autoridad de Aplicaci�n dictar� el reglamento de administraci�n del
+Fondo y las reglas para su control y auditor�a respecto de los costos
+de administraci�n, asegurando que tanto la misma como la ejecuci�n del
+Fondo se encuentren a cargo del Estado nacional.
+ART�CULO 22. — Aportes de inversi�n.
+Los licenciatarios de Servicios de TIC tendr�n la obligaci�n de
+realizar aportes de inversi�n al Fondo Fiduciario del Servicio
+Universal equivalente al uno por ciento (1%) de los ingresos totales
+devengados por la prestaci�n de los Servicios de TIC incluidos en el
+�mbito de aplicaci�n de esta ley, netos de los impuestos y tasas que
+los graven o, en caso de otorgarse exenciones, cumplir con las
+obligaciones en ellas establecidas. El aporte de inversi�n no podr� ser
+trasladado a los usuarios bajo ning�n concepto. El Fondo Fiduciario del
+Servicio Universal podr� integrarse tambi�n con donaciones o legados.
+ART�CULO 23. — Exenci�n de aporte.
+La Autoridad de Aplicaci�n podr� disponer, una vez alcanzados los
+objetivos del Servicio Universal, la exenci�n total o parcial,
+permanente o temporal, de la obligaci�n de realizar los aportes de
+inversi�n dispuestos en el art�culo anterior.
+ART�CULO 24. — Categor�as del Servicio Universal .
+La Autoridad de Aplicaci�n dise�ar� los distintos programas para el
+cumplimiento de las obligaciones y el acceso a los derechos previstos
+respecto del Servicio Universal, pudiendo establecer categor�as a tal
+efecto.
+ART�CULO 25. — Aplicaci�n de fondos.
+Los fondos del Servicio Universal se aplicar�n por medio de programas
+espec�ficos. La Autoridad de Aplicaci�n definir� su contenido y los
+mecanismos de adjudicaci�n correspondientes. La Autoridad de Aplicaci�n
+podr� encomendar la ejecuci�n de estos planes directamente a las
+entidades incluidas en el art�culo 8�, inciso b), de la ley 24.156, o,
+cumpliendo con los mecanismos de selecci�n que correspondan, respetando
+principios de publicidad y concurrencia, a otras entidades.
+Los programas del Servicio Universal deben entenderse como obligaciones
+sujetas a revisi�n peri�dica, por lo que los servicios incluidos y los
+programas que se elaboren ser�n revisados, al menos cada dos (2) a�os,
+en funci�n de las necesidades y requerimientos sociales, la demanda
+existente, la evoluci�n tecnol�gica y los fines dispuestos por el
+Estado nacional de conformidad con el dise�o de la pol�tica de las
+Tecnolog�as de la Informaci�n y las Comunicaciones (TIC).
+T�tulo V
+Recursos esenciales de las TIC
+Cap�tulo I
+Espectro radioel�ctrico
+ART�CULO 26. — Caracter�sticas.
+El espectro radioel�ctrico es un recurso intangible, finito y de
+dominio p�blico, cuya administraci�n, gesti�n y control es
+responsabilidad indelegable del Estado nacional.
+ART�CULO 27. — Administraci�n, gesti�n y control.
+Corresponde a la Autoridad de Aplicaci�n que se designe la
+administraci�n, gesti�n y control del espectro radioel�ctrico, de
+conformidad con lo que establece esta ley, la reglamentaci�n que en su
+consecuencia se dicte, las normas internacionales y aquellas dictadas
+por las conferencias mundiales y regionales en la materia a las que la
+Rep�blica Argentina adhiera.
+ART�CULO 28. — Autorizaciones y permisos.
+Las autorizaciones y los permisos de uso de frecuencias del espectro
+radioel�ctrico se otorgar�n con car�cter precario, por lo que la
+Autoridad de Aplicaci�n podr� sustituirlos, modificarlos o cancelarlos,
+total o parcialmente, sin que ello d� lugar a derecho de indemnizaci�n
+alguna a favor del autorizado o administrado.
+Las autorizaciones y permisos de uso de frecuencia del espectro
+radioel�ctrico asignados por licitaci�n o concurso p�blico, con
+car�cter oneroso, se regir�n por los t�rminos fijados al momento de
+dicha licitaci�n o concurso, de conformidad con el marco del r�gimen de
+contrataciones de la administraci�n nacional, salvo fundadas razones de
+inter�s p�blico debidamente acreditadas.
+Para todos los casos mencionados, la Autoridad de Aplicaci�n fijar� el
+plazo m�ximo de otorgamiento de cada autorizaci�n o permiso.
+ART�CULO 29. — Cesi�n y arrendamiento.
+Las autorizaciones y permisos de uso de frecuencia del espectro
+radioel�ctrico y las autorizaciones y habilitaciones otorgadas para
+instalar y operar una estaci�n, medios o sistemas radioel�ctricos, no
+podr�n ser transferidas, arrendadas ni cedidas total o parcialmente ni
+cambiarles su destino, sin la aprobaci�n previa de la Autoridad de
+Aplicaci�n, conforme a la normativa vigente.
+ART�CULO 30. — Migraci�n de bandas.
+La Autoridad de Aplicaci�n podr� requerir a los titulares de
+autorizaciones y permisos de uso de frecuencias la migraci�n de sus
+sistemas como consecuencia de cambios en la atribuci�n de bandas de
+frecuencias. La migraci�n deber� cumplirse en los plazos que fije la
+Autoridad de Aplicaci�n. Los autorizados o permisionarios no tienen
+derecho a indemnizaci�n alguna.
+ART�CULO 31. — Asignaci�n directa.
+La Autoridad de Aplicaci�n podr� asignar en forma directa frecuencias a
+organismos nacionales, entidades estatales y entidades con
+participaci�n mayoritaria del Estado nacional.
+ART�CULO 32. — Autorizaci�n.
+Los licenciatarios de Servicios de TIC deber�n contar con autorizaci�n
+previa para la instalaci�n, modificaci�n y operaci�n de estaciones,
+medios o sistemas de radiocomunicaci�n.
+Cap�tulo II
+Uso satelital
+ART�CULO 33. — Administraci�n, gesti�n y control.
+Corresponde al Estado nacional, a trav�s de la Autoridad de Aplicaci�n,
+la administraci�n, gesti�n y control de los recursos �rbita-espectro
+correspondientes a redes satelitales, de conformidad con los tratados
+internacionales suscriptos y ratificados por el Estado Argentino.
+Este recurso podr� ser explotado por entidades de car�cter p�blico o
+privado siempre que medie autorizaci�n otorgada al efecto y de
+conformidad con las disposiciones aplicables en la materia.
+ART�CULO 34. — Autorizaci�n.
+La prestaci�n de facilidades satelitales requerir� la correspondiente
+autorizaci�n para la operaci�n en la Argentina, conforme a la
+reglamentaci�n que la Autoridad de Aplicaci�n dicte a tal efecto. Por
+el contrario, la prestaci�n de cualquier Servicio de TIC por sat�lite
+estar� sometida al r�gimen general de prestaci�n de Servicios de TIC
+establecido en la presente ley.
+ART�CULO 35. — Prioridad de uso. Para
+la prestaci�n de las facilidades satelitales se dar� prioridad al uso
+de sat�lites argentinos, entendi�ndose por tales a los que utilicen un
+recurso �rbita-espectro a nombre de la Naci�n Argentina, a la
+utilizaci�n de sat�lites construidos en la Naci�n Argentina o a las
+empresas operadoras de sat�lites que fueran propiedad del Estado
+nacional o en las que �ste tuviera participaci�n accionaria mayoritaria.
+La prioridad se�alada precedentemente tendr� efecto s�lo si las
+condiciones t�cnicas y econ�micas propuestas se ajustan a un mercado de
+competencia, lo cual ser� determinado por la Autoridad de Aplicaci�n.
+Cap�tulo III
+Planes fundamentales
+ART�CULO 36. — Dictado de los planes. La
+Autoridad de Aplicaci�n debe aprobar, gestionar y controlar los planes
+nacionales de numeraci�n, se�alizaci�n, portabilidad num�rica y otros
+planes fundamentales, y tiene la facultad de elaborarlos o modificarlos.
+ART�CULO 37. — Atributos.
+Los atributos de los planes fundamentales tienen car�cter instrumental
+y su otorgamiento no confiere derechos e intereses a los licenciatarios
+de Servicios de TIC, motivo por el cual su modificaci�n o supresi�n no
+genera derecho a indemnizaci�n alguna.
+Cap�tulo IV
+Acceso e interconexi�n
+ART�CULO 38. — Alcance.
+Este cap�tulo y su reglamentaci�n ser�n de aplicaci�n a los supuestos
+de uso y acceso e interconexi�n entre los licenciatarios de Servicios
+de TIC.
+ART�CULO 39. — Obligaci�n de acceso e interconexi�n.
+Los licenciatarios de Servicios de TIC tendr�n el derecho y, cuando se
+solicite por otros licenciatarios de TIC, la obligaci�n de suministrar
+el acceso y la interconexi�n mutua.
+ART�CULO 40. — R�gimen general.
+Los licenciatarios de Servicios de TIC est�n obligados a
+interconectarse en condiciones no discriminatorias, transparentes y
+basadas en criterios objetivos, conforme las disposiciones dictadas por
+la Autoridad de Aplicaci�n, las que fomentar�n la competencia y se
+orientar�n a la progresiva reducci�n de asimetr�as entre licenciatarios.
+Los t�rminos y condiciones para acceso o interconexi�n que un
+licenciatario de Servicios de TIC ofrezca a otro con motivo de un
+acuerdo o de una resoluci�n de la Autoridad de Aplicaci�n, deber�n ser
+garantizados a cualquier otro que lo solicite.
+Los licenciatarios ajenos a la relaci�n contractual podr�n realizar
+observaciones al acuerdo suscripto conforme lo disponga la
+reglamentaci�n.
+ART�CULO 41. — Condiciones particulares.
+La Autoridad de Aplicaci�n podr� determinar condiciones particulares de
+acceso e interconexi�n con las redes que fueran propiedad del Estado
+nacional o de sociedades con participaci�n estatal mayoritaria.
+ART�CULO 42. — Registro y publicaci�n.
+Los acuerdos entre licenciatarios de Servicios de TIC deber�n
+registrarse ante la Autoridad de Aplicaci�n y publicarse de acuerdo a
+la reglamentaci�n vigente.
+ART�CULO 43. — Ofertas de referencia.
+Las ofertas de referencia deber�n someterse a la autorizaci�n y la
+publicaci�n por parte de la Autoridad de Aplicaci�n de acuerdo a las
+disposiciones dictadas por �sta.
+En los casos comprendidos en el art�culo 10 de la presente ley, la
+oferta de referencia deber� garantizar que el tratamiento dado a sus
+unidades de negocio no distorsiona la competencia en el mercado de
+referencia.
+ART�CULO 44. — Dise�o de arquitectura abierta.
+Los licenciatarios de Servicios de TIC deber�n adoptar dise�os de
+arquitectura abierta de red para garantizar la interconexi�n y la
+interoperabilidad de sus redes.
+ART�CULO 45. — Desagregaci�n de red local.
+Se dispone la desagregaci�n de la red local de los licenciatarios de
+Servicios de TIC. La Autoridad de Aplicaci�n establecer� a tal fin las
+condiciones diferenciadas fundadas en cuestiones t�cnicas, econ�micas,
+de oportunidad, m�rito y conveniencia, atendiendo a la preservaci�n del
+inter�s p�blico y promoviendo la competencia.
+ART�CULO 46. — Obligaciones espec�ficas.
+Aquellos licenciatarios de Servicios de TIC con poder significativo de
+mercado deber�n cumplir con las obligaciones espec�ficas que sean
+dispuestas por la Autoridad de Aplicaci�n, las que garantizar�n por
+medio de medidas regulatorias asim�tricas el desarrollo de los mercados
+regionales, la participaci�n de los licenciatarios locales y la
+continuidad en la prestaci�n de los servicios de TIC.
+ART�CULO 47. — Competencias. Son competencias de la Autoridad de Aplicaci�n en materia de acceso e interconexi�n:
+a) Disponer las condiciones jur�dicas, t�cnicas y econ�micas a las que deber�n ce�irse los acuerdos.
+b) Llevar registro de los acuerdos celebrados y efectuar el an�lisis previo a la autorizaci�n de una oferta de referencia.
+c) Intervenir, de oficio o a petici�n de cualquiera de las partes
+interesadas, instando a efectuar las modificaciones al acuerdo
+suscripto que estime corresponder.
+d) Establecer obligaciones y condiciones espec�ficas para aquellos
+licenciatarios, con poder significativo de mercado y cualquier otro que
+considere justificadamente necesario; dichas obligaciones se mantendr�n
+en vigor durante el tiempo estrictamente imprescindible y podr�n
+consistir en:
+i. El suministro de informaci�n contable, econ�mica y financiera,
+especificaciones t�cnicas, caracter�sticas de las redes y condiciones
+de suministro y utilizaci�n, incluidas, en su caso, las condiciones que
+pudieran limitar el acceso o la utilizaci�n de servicios o
+aplicaciones, as� como los precios y tarifas.
+ii. La elaboraci�n, presentaci�n y publicaci�n de una oferta de referencia bajo las condiciones establecidas reglamentariamente.
+iii. La separaci�n de cuentas, en el formato y con la metodolog�a que, en su caso, se especifiquen.
+iv. La separaci�n funcional.
+v. Brindar acceso a elementos o a recursos espec�ficos de las redes y a
+su utilizaci�n, as� como a recursos y servicios asociados.
+vi. Control de precios y tarifas, tales como su fijaci�n, su
+orientaci�n en funci�n de los costos o la determinaci�n de otro tipo de
+mecanismo de compensaci�n.
+vii. Deber de notificaci�n para su aprobaci�n previa, ante la necesidad
+de efectuar modificaciones en la red que afecten el funcionamiento de
+los equipos de los usuarios o de las redes con las que est�
+interconectada.
+viii. Otro tipo de obligaciones espec�ficas relativas al acceso o a la
+interconexi�n que no se limiten a las materias enumeradas anteriormente
+y que est�n debidamente justificadas.
+T�tulo VI
+Precios, tarifas y grav�menes
+ART�CULO 48. — Regla.
+Los licenciatarios de Servicios de TIC fijar�n sus precios, los que
+deber�n ser justos y razonables, cubrir los costos de la explotaci�n y
+tender a la prestaci�n eficiente y a un margen razonable de operaci�n.
+Las tarifas de los servicios p�blicos esenciales y estrat�gicos de
+Tecnolog�as de la Informaci�n y las Comunicaciones (TIC) en
+competencia, las de los prestados en funci�n del Servicio Universal y
+de aquellos que determine la Autoridad de Aplicaci�n por razones de
+inter�s p�blico, podr�n ser reguladas por �sta.
+ART�CULO 49. — Tasa de control, fiscalizaci�n y verificaci�n.
+Establ�cese para los licenciatarios de Servicios de TIC una tasa en
+concepto de control, fiscalizaci�n y verificaci�n, equivalente a cero
+coma cincuenta por ciento (0,50%) de los ingresos totales devengados
+por la prestaci�n de los Servicios de TIC, netos de los impuestos y
+tasas que los graven.
+La Autoridad de Aplicaci�n establecer� el tiempo, forma y procedimiento
+relativo al cobro de la tasa fijada en el primer p�rrafo de este
+art�culo, con el prop�sito de permitir la financiaci�n de las
+erogaciones que hacen a su funcionamiento.
+ART�CULO 50. — Derechos y aranceles radioel�ctricos.
+Los licenciatarios de Servicios de TIC en general y de
+telecomunicaciones en particular deber�n abonar los derechos y
+aranceles radioel�ctricos para cada una de las estaciones, sistemas y
+servicios radioel�ctricos que operan en todo el territorio de la
+Naci�n, cuya unidad de medida ser� la denominada Unidad de Tasaci�n
+Radioel�ctrica (UTR). La clasificaci�n, valor, actualizaci�n,
+periodicidad de pago, penalidades y exenciones ser�n determinados por
+la Autoridad de Aplicaci�n.
+ART�CULO 51. — Aranceles administrativos. La Autoridad de Aplicaci�n tendr� la facultad de fijar aranceles administrativos.
+ART�CULO 52. — Tasas y grav�menes espec�ficos .
+Las tasas y grav�menes para establecer sistemas y estaciones de
+telecomunicaciones no abiertos a la correspondencia p�blica se
+determinar�n de acuerdo con las caracter�sticas de los mismos, la
+importancia de sus instalaciones y la evaluaci�n del tr�fico
+previsible, conforme a lo previsto en la reglamentaci�n.
+ART�CULO 53. — Exenciones.
+Podr�n establecerse a t�tulo precario exenciones o reducciones de
+tasas, tarifas y grav�menes de Tecnolog�as de la Informaci�n y las
+Comunicaciones (TIC) en general y telecomunicaciones en particular,
+cuando la �ndole de determinadas actividades lo justifique.
+T�tulo VII
+Consideraciones generales sobre los Servicios de TIC
+ART�CULO 54. — Servicio P�blico Telef�nico. El Servicio B�sico Telef�nico mantiene su condici�n de servicio p�blico.
+ART�CULO 55. — Objeto y alcance .
+El Servicio de TIC comprende la confluencia de las redes tanto fijas
+como m�viles que, mediante diversas funcionalidades, proporciona a los
+usuarios la capacidad de recibir y transmitir informaci�n de voz,
+audio, im�genes fijas o en movimiento y datos en general.
+A los efectos de resguardar la funcionalidad del Servicio de TIC, �ste
+deber� ser brindado en todo el territorio nacional considerado a tales
+efectos como una �nica �rea de explotaci�n y prestaci�n.
+El Servicio B�sico Telef�nico, sin perjuicio de su particularidad
+normativa, reviste especial consideraci�n dentro del marco de la
+convergencia tecnol�gica. Es por ello que la efectiva prestaci�n del
+servicio debe ser considerada de manera independiente a la tecnolog�a o
+medios utilizados para su provisi�n a trav�s de las redes locales,
+siendo su finalidad principal el establecimiento de una comunicaci�n
+mediante la transmisi�n de voz entre partes.
+ART�CULO 56. — Neutralidad de red.
+Se garantiza a cada usuario el derecho a acceder, utilizar, enviar,
+recibir u ofrecer cualquier contenido, aplicaci�n, servicio o protocolo
+a trav�s de Internet sin ning�n tipo de restricci�n, discriminaci�n,
+distinci�n, bloqueo, interferencia, entorpecimiento o degradaci�n.
+ART�CULO 57. — Neutralidad de red. Prohibiciones . Los prestadores de Servicios de TIC no podr�n:
+a) Bloquear, interferir, discriminar, entorpecer, degradar o restringir
+la utilizaci�n, env�o, recepci�n, ofrecimiento o acceso a cualquier
+contenido, aplicaci�n, servicio o protocolo salvo orden judicial o
+expresa solicitud del usuario.
+b) Fijar el precio de acceso a Internet en virtud de los contenidos,
+servicios, protocolos o aplicaciones que vayan a ser utilizados u
+ofrecidos a trav�s de los respectivos contratos.
+c) Limitar arbitrariamente el derecho de un usuario a utilizar
+cualquier hardware o software para acceder a Internet, siempre que los
+mismos no da�en o perjudiquen la red.
+ART�CULO 58. — Velocidad M�nima de Transmisi�n (VMT).
+La Autoridad de Aplicaci�n definir�, en un plazo no mayor a ciento
+ochenta (180) d�as a contar desde la entrada en vigencia de la presente
+ley, la Velocidad M�nima de Transmisi�n (VMT) que deber�n posibilitar
+las redes de telecomunicaciones a los fines de asegurar la efectiva
+funcionalidad de los Servicios de TIC. Los licenciatarios de Servicios
+de TIC deber�n proveer a sus usuarios finales, no licenciatarios de
+estos servicios, la velocidad fijada. La VMT deber� ser revisada con
+una periodicidad m�xima de dos (2) a�os.
+T�tulo VIII
+Derechos y obligaciones de los usuarios y licenciatarios de Servicios de TIC
+Cap�tulo I
+Derechos y obligaciones de los usuarios de los Servicios de TIC
+ART�CULO 59. — Derechos. El usuario de los Servicios de TIC tiene derecho a:
+a) Tener acceso al Servicio de TIC en condiciones de igualdad, continuidad, regularidad y calidad.
+b) Ser tratado por los licenciatarios con cortes�a, correcci�n y diligencia.
+c) Tener acceso a toda la informaci�n relacionada con el ofrecimiento o prestaci�n de los servicios.
+d) Elegir libremente el licenciatario, los servicios y los equipos o
+aparatos necesarios para su prestaci�n, siempre que est�n debidamente
+homologados.
+e) Presentar, sin requerimientos previos innecesarios, peticiones y
+quejas ante el licenciatario y recibir una respuesta respetuosa,
+oportuna, adecuada y veraz.
+f) La protecci�n de los datos personales que ha suministrado al
+licenciatario, los cuales no pueden ser utilizados para fines distintos
+a los autorizados, de conformidad con las disposiciones vigentes.
+g) Que el precio del servicio que recibe sea justo y razonable.
+h) Los dem�s derechos que se deriven de la aplicaci�n de las leyes, reglamentos y normas aplicables.
+ART�CULO 60. — Obligaciones. El usuario de los Servicios de TIC tiene las siguientes obligaciones:
+a) Abonar oportunamente los cargos por los servicios recibidos, de
+conformidad con los precios contratados o las tarifas establecidas.
+b) Mantener las instalaciones domiciliarias a su cargo de manera adecuada a las normas t�cnicas vigentes.
+c) No alterar los equipos terminales cuando a consecuencia de ello
+puedan causar da�os o interferencias que degraden la calidad del
+servicio, absteni�ndose de efectuar un uso indebido del servicio.
+d) Permitir el acceso del personal de los licenciatarios y de la
+Autoridad de Aplicaci�n, quienes deber�n estar debidamente
+identificados a los efectos de realizar todo tipo de trabajo o
+verificaci�n necesaria.
+e) Respetar las disposiciones legales, reglamentarias y las condiciones
+generales de contrataci�n y las dem�s obligaciones que se deriven de la
+aplicaci�n de las leyes, reglamentos y normas aplicables.
+Cap�tulo II
+Derechos y obligaciones de los licenciatarios
+ART�CULO 61. — Derechos. Los licenciatarios de Servicios de TIC tienen derecho a:
+a) Usar y proteger sus redes e instalaciones empleadas en la prestaci�n del Servicio de TIC.
+b) Instalar sus redes y equipos en todo el territorio nacional de
+acuerdo a lo establecido en la presente ley y dem�s normativa aplicable
+en materia de uso del suelo, subsuelo, espacio a�reo, bienes de dominio
+p�blico y privado.
+c) A los dem�s derechos que se deriven de la presente ley y su reglamentaci�n.
+ART�CULO 62. — Obligaciones . Los licenciatarios de Servicios de TIC tienen las siguientes obligaciones:
+a) Brindar el servicio bajo los principios de igualdad, continuidad y
+regularidad, cumpliendo con los niveles de calidad establecidos en la
+normativa vigente.
+b) No incluir en los contratos cl�usulas que restrinjan o condicionen
+en modo alguno a los usuarios la libertad de elecci�n de otro
+licenciatario o que condicionen la rescisi�n del mismo o la desconexi�n
+de cualquier servicio adicional contratado.
+c) Garantizar que los grupos sociales espec�ficos, las personas con
+discapacidad, entre ellos los usuarios con problemas graves de visi�n o
+discapacidad visual, los hipoac�sicos y los impedidos del habla, las
+personas mayores y los usuarios con necesidades sociales especiales
+tengan acceso al servicio en condiciones equiparables al resto de los
+usuarios, de conformidad con lo establecido en la normativa espec�fica.
+d) Contar con mecanismos gratuitos de atenci�n a los usuarios de conformidad con lo dispuesto por la Autoridad de Aplicaci�n.
+e) Proporcionar al usuario informaci�n en idioma nacional y en forma
+clara, necesaria, veraz, oportuna, suficiente, cierta y gratuita, que
+no induzca a error y contenga toda la informaci�n sobre las
+caracter�sticas esenciales del servicio que proveen al momento de la
+oferta, de la celebraci�n del contrato, durante su ejecuci�n y con
+posterioridad a su finalizaci�n.
+f) Garantizar a los usuarios la confidencialidad de los mensajes transmitidos y el secreto de las comunicaciones.
+g) Brindar toda la informaci�n solicitada por las autoridades
+competentes, especialmente la informaci�n contable o econ�mica con la
+periodicidad y bajo las formas que se establezcan, as� como aquella que
+permita conocer las condiciones de prestaci�n del servicio y toda otra
+informaci�n que pueda ser considerada necesaria para el cumplimiento de
+las funciones.
+h) Disponer del equipamiento necesario para posibilitar que la
+Autoridad de Aplicaci�n pueda efectuar sus funciones; encontr�ndose
+obligados a permitir el acceso de la Autoridad de Aplicaci�n a sus
+instalaciones y brindar la informaci�n que le sea requerida por ella.
+i) Atender los requerimientos en materia de defensa nacional y de seguridad p�blica formulados por las autoridades competentes.
+j) Respetar los derechos que les corresponden a los usuarios de acuerdo con la normativa aplicable.
+k) Cumplir con las obligaciones previstas en las respectivas licencias,
+el marco regulatorio correspondiente y las decisiones que dicte la
+Autoridad de Aplicaci�n.
+l) Actuar bajo esquemas de competencia leal y efectiva de conformidad con la normativa vigente.
+m) Cumplir las dem�s obligaciones que se deriven de la presente ley y reglamentaci�n vigente.
+T�tulo IX
+R�gimen de sanciones
+ART�CULO 63. — Reglamentaci�n.
+La Autoridad de Aplicaci�n reglamentar� el r�gimen sancionatorio de
+conformidad a los principios y disposiciones del presente T�tulo.
+ART�CULO 64. — Procedimiento.
+El procedimiento administrativo para la instrucci�n del sumario y la
+aplicaci�n de sanciones ser� dictado por la Autoridad de Aplicaci�n.
+Supletoriamente ser� de aplicaci�n la Ley Nacional de Procedimientos
+Administrativos 19.549.
+ART�CULO 65. — Medidas previas al inicio del proceso sancionatorio .
+Mediante el dictado del correspondiente acto administrativo, sin
+intervenci�n previa y de conformidad al proceso que determine la
+Autoridad de Aplicaci�n, podr� disponerse el cese de la presunta
+actividad infractora cuando existan razones de imperiosa urgencia
+basadas en los siguientes supuestos:
+a) Afectaci�n del funcionamiento de los servicios de Seguridad Nacional, Defensa Civil y de Emergencias.
+b) Exposici�n a peligro de la vida humana.
+c) Interferencia a otras redes o Servicios de TIC y a las que se
+produzcan sobre las frecuencias utilizadas por el Servicio de
+Radionavegaci�n Aeron�utica y el Servicio M�vil Aeron�utico.
+Habiendo facultades concurrentes con otra autoridad competente, se dar�
+traslado a �sta luego de materializada la medida precautoria.
+ART�CULO 66. — Medidas cautelares en el proceso sancionatorio.
+Mediante el dictado del correspondiente acto administrativo emanado en
+el �mbito de la Autoridad de Aplicaci�n, podr�n adoptarse medidas
+cautelares consistentes en:
+a) El cese inmediato de emisiones radioel�ctricas no autorizadas.
+b) El cese inmediato de cualquier otra actividad presuntamente
+infractora que pudiere ocasionar un da�o irreparable a los usuarios
+finales del servicio.
+c) El precintado de equipos o instalaciones afectados a la prestaci�n de Servicios de TIC.
+Las medidas cautelares que se hubiesen dictado cesar�n en sus efectos
+como tales cuando se dicte la medida que ponga fin al procedimiento
+sancionatorio.
+ART�CULO 67. — Tipos de sanciones. El
+incumplimiento de las obligaciones establecidas en la presente ley, sus
+reglamentaciones, las licencias, autorizaciones o permisos de uso dar�
+lugar a la aplicaci�n de las siguientes sanciones:
+a) Apercibimiento.
+b) Multa.
+c) Suspensi�n de la comercializaci�n.
+d) Clausura.
+e) Inhabilitaci�n.
+f) Comiso de equipos y materiales utilizados para la prestaci�n de los servicios.
+g) Decomiso.
+h) Caducidad de la licencia, del registro o revocatoria de la autorizaci�n o del permiso.
+ART�CULO 68. — Accesoria de inhabilitaci�n.
+La sanci�n de caducidad de la licencia inhabilitar� a la titular
+sancionada y a los integrantes de sus �rganos directivos por el t�rmino
+de cinco (5) a�os para ser titulares de licencias, socios o
+administradores de licenciatarias.
+ART�CULO 69. — Car�cter formal.
+Las infracciones tendr�n car�cter formal y se configurar�n con
+independencia del dolo o culpa de los titulares de las licencias,
+registros o permisos y de las personas por quienes aqu�llos deban
+responder.
+ART�CULO 70. — Graduaci�n de sanciones.
+La sanci�n que se imponga ante la verificaci�n de una infracci�n se
+graduar� teniendo en cuenta la gravedad de la infracci�n, la capacidad
+econ�mica del infractor y el grado de afectaci�n al inter�s p�blico.
+A los efectos de la determinaci�n de sanciones, se considerar�n como situaciones agravantes a tener en consideraci�n:
+a) El car�cter continuado del hecho pasible de sanci�n.
+b) La afectaci�n del servicio.
+c) La obtenci�n de beneficios econ�micos por parte del infractor.
+d) La clandestinidad.
+e) La falta de homologaci�n o certificaci�n de los aparatos o equipos empleados.
+ART�CULO 71. — Atenuantes. Se considerar�n como situaciones atenuantes a tener en consideraci�n:
+a) Haber reconocido en el curso del procedimiento la existencia de la infracci�n.
+b) Haber subsanado por iniciativa propia la situaci�n de infracci�n y
+resarcido en forma integral los da�os que pudiere haber causado.
+ART�CULO 72. — Decomiso.
+En aquellos casos en los que se detecte la prestaci�n de Servicios de
+TIC en infracci�n a las licencias, permisos, autorizaciones,
+homologaciones o habilitaciones dispuestas en la presente ley o que por
+cualquier medio invadan u obstruyan las v�as generales de comunicaci�n,
+se perder�n en beneficio del Estado nacional los bienes, instalaciones
+y equipos empleados en la comisi�n de dichas infracciones.
+ART�CULO 73. — Obligaci�n de reintegrar.
+La aplicaci�n de sanciones ser� independiente de la obligaci�n de
+reintegrar o compensar las tarifas, precios o cargos indebidamente
+percibidos de los usuarios, con actualizaci�n e intereses, o de
+indemnizar los perjuicios ocasionados a los usuarios, al Estado, o a
+los terceros por la infracci�n.
+ART�CULO 74. — Reiteraci�n.
+El acto sancionatorio firme en sede administrativa constituir�
+antecedente v�lido a los fines de la reiteraci�n de la infracci�n. Se
+considerar� reiteraci�n cuando se le haya aplicado sanci�n en relaci�n
+con la misma obligaci�n dentro de los �ltimos veinticuatro (24) meses.
+ART�CULO 75. — Publicidad.
+La Autoridad de Aplicaci�n determinar� los casos en los cuales, a cargo
+del infractor, proceder� la publicaci�n de las sanciones aplicadas.
+ART�CULO 76. — Recursos.
+El acto por el cual se aplique la sanci�n establecida, agotar� la v�a
+administrativa a los efectos del art�culo 23 de la Ley Nacional de
+Procedimientos Administrativos 19.549, sin perjuicio de la procedencia
+del recurso de alzada por el que pueda optar el recurrente.
+Agotada la v�a administrativa, proceder� el recurso en sede judicial
+conforme al art�culo 4� de la presente. Su interposici�n no tendr�
+efecto suspensivo, salvo en el caso de la sanci�n de caducidad de la
+licencia.
+T�tulo X
+Autoridades
+Cap�tulo I
+Autoridad Federal de Tecnolog�as de la Informaci�n y las Comunicaciones
+ART�CULO 77. — Autoridad de Aplicaci�n.
+Cr�ase como organismo descentralizado y aut�rquico en el �mbito del
+Poder Ejecutivo nacional, la Autoridad Federal de Tecnolog�as de la
+Informaci�n y las Comunicaciones como Autoridad de Aplicaci�n de la
+presente ley.
+ART�CULO 78. — Naturaleza y domicilio.
+La Autoridad Federal de Tecnolog�as de la Informaci�n y las
+Comunicaciones poseer� plena capacidad jur�dica para actuar en los
+�mbitos del derecho p�blico y privado y su patrimonio estar�
+constituido por los bienes que se le transfieran y los que adquiera en
+el futuro por cualquier t�tulo. Tendr� su sede principal en la Ciudad
+Aut�noma de Buenos Aires y deber� establecer al menos una (1)
+delegaci�n en cada provincia o regi�n de ellas o ciudad, con un m�nimo
+de una (1) delegaci�n en cada localidad de m�s de quinientos mil
+(500.000) habitantes.
+ART�CULO 79. — Continuaci�n.
+La Autoridad Federal de Tecnolog�as de la Informaci�n y las
+Comunicaciones creada por la presente ley ser� continuadora, a todos
+los fines y de conformidad con lo fijado en la presente ley, de la
+Secretar�a de Comunicaciones y de la Comisi�n Nacional de
+Comunicaciones creada por los decretos 1142/2003 y 1185/90 y sus
+posteriores modificaciones.
+ART�CULO 80. — Funciones.
+La Autoridad Federal de Tecnolog�as de la Informaci�n y las
+Comunicaciones tendr� como funciones la regulaci�n, el control, la
+fiscalizaci�n y verificaci�n en materia de las TIC en general, de las
+telecomunicaciones en particular, del servicio postal y todas aquellas
+materias que se integren a su �rbita conforme el texto de la presente
+ley, la normativa aplicable y las pol�ticas fijadas por el Gobierno
+nacional.
+ART�CULO 81. — Competencias. La Autoridad Federal de Tecnolog�as de la Informaci�n y las Comunicaciones ejercer� las siguientes competencias:
+a) Regular y promover la competencia y el desarrollo eficiente de las
+telecomunicaciones y los servicios digitales en el �mbito de las
+atribuciones que le confiere esta ley y dem�s disposiciones legales
+aplicables.
+b) La regulaci�n, promoci�n y supervisi�n del uso, aprovechamiento y
+explotaci�n del espectro radioel�ctrico, los recursos orbitales, los
+servicios satelitales, las redes de telecomunicaciones y la prestaci�n
+de los servicios de telecomunicaciones y tecnolog�as digitales, as�
+como del acceso a la infraestructura activa y pasiva y otros insumos o
+facilidades esenciales, sin perjuicio de las atribuciones que
+corresponden a otras autoridades en los t�rminos de la legislaci�n
+correspondiente.
+c) Regular en materia de lineamientos t�cnicos relativos a la
+infraestructura y los equipos que se conecten a las redes de
+telecomunicaciones, as� como en materia de homologaci�n y evaluaci�n de
+la conformidad de dicha infraestructura y equipos.
+d) Resolver sobre el otorgamiento, la pr�rroga, la revocaci�n de
+licencias, registros permisos y autorizaciones, as� como la
+autorizaci�n de cesiones o cambios de control accionario, titularidad u
+operaci�n de sociedades relacionadas con concesiones en materia de
+telecomunicaciones y servicios previstos en esta ley.
+e) Adoptar, en su caso, las acciones y medidas necesarias que
+garanticen la continuidad en la prestaci�n de los servicios de
+telecomunicaciones y servicios de comunicaci�n audiovisual cuando la
+autoridad le d� aviso de la existencia de causas de terminaci�n por
+revocaci�n o rescate de concesiones, disoluci�n o quiebra de las
+sociedades concesionarias.
+f) Planear, fijar, instrumentar y conducir las pol�ticas y programas de
+cobertura universal y cobertura social de conformidad con lo
+establecido en esta ley.
+g) Promover y regular el acceso a las tecnolog�as de la informaci�n y
+comunicaci�n y a los servicios de telecomunicaciones, incluido el de
+banda ancha e Internet, en condiciones de competencia efectiva.
+h) Expedir disposiciones administrativas de car�cter general, planes
+t�cnicos fundamentales, lineamientos, modelos de costos, procedimientos
+de evaluaci�n de la conformidad, procedimientos de homologaci�n y
+certificaci�n y ordenamientos t�cnicos en materia de telecomunicaciones
+y servicios de comunicaci�n audiovisual; as� como dem�s disposiciones
+para el cumplimiento de lo dispuesto en esta ley.
+i) Formular y publicar sus programas de trabajo.
+j) Elaborar, publicar y mantener actualizado el Cuadro Nacional de Atribuci�n de Frecuencias.
+k) Emitir disposiciones, lineamientos o resoluciones en materia de
+interoperabilidad e interconexi�n de las redes p�blicas de
+telecomunicaciones, a efecto de asegurar la libre competencia y
+concurrencia en el mercado.
+l) Resolver y establecer los t�rminos y condiciones de interconexi�n
+que no hayan podido convenir los concesionarios respecto de sus redes
+p�blicas de telecomunicaciones conforme a lo previsto en la presente
+ley.
+ll) Emitir lineamientos de car�cter general para el acceso y, en su
+caso, uso compartido de la infraestructura activa y pasiva, en los
+casos que establece esta ley.
+m) Resolver los desacuerdos de compartici�n de infraestructura entre licenciatarios conforme a lo dispuesto en esta ley.
+n) Resolver los desacuerdos que se susciten entre licenciatarios de redes de telecomunicaciones.
+�) Resolver las solicitudes de interrupci�n parcial o total, por hechos
+fortuitos o causas de fuerza mayor de las v�as generales de
+comunicaci�n en materia de telecomunicaciones.
+o) Resolver sobre el cambio o rescate de bandas de frecuencia.
+p) Determinar la existencia de actores con poder significativo de
+mercado e imponer las medidas necesarias para evitar que se afecte la
+competencia y la libre concurrencia en cada uno de los mercados de esta
+ley.
+q) Declarar la existencia o inexistencia de condiciones de competencia
+efectiva en el sector de que se trate y, en su caso, la extinci�n de
+las obligaciones impuestas a los actores con poder significativo de
+mercado.
+r) Determinar, autorizar, registrar y publicar las tarifas de los servicios en las condiciones previstas en esta ley.
+s) Requerir a los sujetos regulados por esta ley la informaci�n y
+documentaci�n, incluso aquella generada por medios electr�nicos,
+�pticos o de cualquier otra tecnolog�a, necesarios para el ejercicio de
+sus atribuciones.
+t) Coordinar acciones con las autoridades del Poder Ejecutivo, provinciales y municipales.
+u) Imponer las sanciones por infracciones a las disposiciones legales, reglamentarias o administrativas.
+v) Las dem�s que le confiera esta ley y otras disposiciones legales o administrativas.
+ART�CULO 82. — Control.
+La Autoridad Federal de Tecnolog�as de la Informaci�n y las
+Comunicaciones ser� objeto de control por parte de la Sindicatura
+General de la Naci�n y de la Auditor�a General de la Naci�n. Es
+obligaci�n permanente e inexcusable del directorio dar a sus actos
+publicidad y transparencia en materia de recursos, gastos,
+nombramientos de personal y contrataciones.
+ART�CULO 83. — Presupuesto. El presupuesto de la Autoridad Federal de Tecnolog�as de la Informaci�n y las Comunicaciones estar� conformado por:
+a) La tasa que deben pagar los licenciatarios y dem�s prestadores de conformidad a la presente ley.
+b) Los importes resultantes de la aplicaci�n de multas.
+c) Las donaciones y/o legados y/o subsidios que se le otorguen.
+d) Los recursos presupuestarios provenientes del Tesoro nacional.
+e) Los aranceles administrativos que fije.
+f) Cualquier otro ingreso que legalmente se prevea.
+ART�CULO 84. — Directorio.
+La conducci�n y administraci�n de la Autoridad Federal de Tecnolog�as
+de la Informaci�n y las Comunicaciones ser� ejercida por un (1)
+directorio integrado por siete (7) miembros nombrados por el Poder
+Ejecutivo nacional.
+El directorio estar� conformado por un (1) presidente y un (1) director
+designados por el Poder Ejecutivo nacional; tres (3) directores
+propuestos por la Comisi�n Bicameral de Promoci�n y Seguimiento de la
+Comunicaci�n Audiovisual, las Tecnolog�as de las Telecomunicaciones y
+la Digitalizaci�n, que ser�n seleccionados por �sta a propuesta de los
+bloques parlamentarios, correspondiendo uno (1) a la mayor�a o primera
+minor�a, uno (1) a la segunda minor�a y uno (1) a la tercera minor�a
+parlamentaria; un (1) director a propuesta de las provincias y la
+Ciudad Aut�noma de Buenos Aires, y un (1) director a propuesta del
+Consejo Federal de Tecnolog�as de las Telecomunicaciones y la
+Digitalizaci�n, en las condiciones que fije la reglamentaci�n.
+El presidente y los directores no podr�n tener intereses o v�nculos con
+los asuntos bajo su �rbita en las condiciones de la ley 25.188.
+Previo a la designaci�n, el Poder Ejecutivo nacional deber� publicar el
+nombre y los antecedentes curriculares de las personas propuestas para
+el directorio.
+El presidente y los directores durar�n en sus cargos cuatro (4) a�os y podr�n ser reelegidos por un (1) per�odo.
+El presidente y los directores s�lo podr�n ser removidos de sus cargos
+por incumplimiento o mal desempe�o de sus funciones o por estar incurso
+en las incompatibilidades previstas por la ley 25.188. La remoci�n
+deber� ser aprobada por los dos tercios (2/3) del total de los
+integrantes del Consejo Federal de Tecnolog�as de las
+Telecomunicaciones y la Digitalizaci�n, mediante un procedimiento en el
+que se haya garantizado en forma amplia el derecho de defensa, debiendo
+la resoluci�n que se adopta al respecto estar debidamente fundada en
+las causales antes previstas.
+El presidente del directorio es el representante legal de la Autoridad
+Federal, estando a su cargo presidir y convocar las reuniones del
+directorio, seg�n el reglamento dictado por la Autoridad de Aplicaci�n
+en uso de sus facultades.
+Las votaciones ser�n por mayor�a simple.
+Cap�tulo II
+Consejo Federal de Tecnolog�as de las Telecomunicaciones y la Digitalizaci�n
+ART�CULO 85. — Consejo Federal de Tecnolog�as de las Telecomunicaciones y la Digitalizaci�n. Creaci�n.
+Cr�ase, en el �mbito de la Autoridad Federal de Tecnolog�as de la
+Informaci�n y las Comunicaciones el Consejo Federal de Tecnolog�as de
+las Telecomunicaciones y la Digitalizaci�n el cual tendr� las
+siguientes misiones y funciones:
+a) Colaborar y asesorar en el dise�o de la pol�tica p�blica de telecomunicaciones y tecnolog�as digitales.
+b) Proponer pautas para la elaboraci�n de los pliegos de bases y
+condiciones para los llamados a concurso o adjudicaci�n directa de
+licencias.
+c) Brindar a la Comisi�n Bicameral de Promoci�n y Seguimiento de la
+Comunicaci�n Audiovisual, las Tecnolog�as de las Telecomunicaciones y
+la Digitalizaci�n un informe anual sobre el estado de cumplimiento de
+la ley y del desarrollo de las tecnolog�as de telecomunicaciones y
+digitales en la Rep�blica Argentina.
+d) Convocar anualmente a los integrantes del directorio de la Autoridad
+Federal, a efectos de recibir un informe pormenorizado de gesti�n.
+e) Dictar su reglamento interno.
+f) Asesorar a la Autoridad de Aplicaci�n a su solicitud.
+g) Proponer la adopci�n de medidas a la Autoridad de Aplicaci�n.
+h) Monitorear el avance de los indicadores y est�ndares del servicio
+universal, de los servicios p�blicos establecidos as� por la presente y
+de la velocidad de transmisi�n.
+i) Otras que disponga la reglamentaci�n.
+ART�CULO 86. — Composici�n.
+Los integrantes del Consejo Federal ser�n designados por el Poder
+Ejecutivo nacional, a propuesta de los sectores y jurisdicciones en el
+n�mero que a continuaci�n se detallan:
+a) Un (1) representante de cada una de las provincias y del Gobierno de
+la Ciudad Aut�noma de Buenos Aires. Dicha representaci�n se
+corresponder� con la m�xima autoridad pol�tica provincial en la materia.
+b) Dos (2) representantes por las entidades que agrupen a los prestadores de telefon�a fija y m�vil.
+c) Un (1) representante por las entidades que agrupen a los prestadores sin fines de lucro de telecomunicaciones.
+d) Un (1) representante de las entidades prestadoras de conectividad, servicios de banda ancha o Internet.
+e) Un (1) representante del Consejo Interuniversitario Nacional.
+f) Tres (3) representantes de las entidades sindicales de los trabajadores de los Servicios de TIC.
+g) Un (1) representante de las empresas o entidades proveedores de Servicios de TIC.
+h) Un (1) representante de las asociaciones de usuarios y consumidores
+registradas con actuaci�n en el �mbito de las TIC. Los representantes
+designados durar�n dos (2) a�os en su funci�n, se desempe�ar�n en forma
+honoraria y podr�n ser sustituidos o removidos por el Poder Ejecutivo
+nacional a solicitud expresa de la misma entidad que los propuso.
+De entre sus miembros elegir�n un (1) presidente y un (1)
+vicepresidente, cargos que durar�n dos (2) a�os pudiendo ser
+reelegidos, en caso de que sean designados nuevamente.
+El Consejo Federal se reunir�, como m�nimo, cada seis (6) meses o
+extraordinariamente a solicitud, de al menos el veinticinco por ciento
+(25%) de sus miembros. El qu�rum se conformar�, tanto en convocatorias
+ordinarias como extraordinarias, con la mayor�a absoluta del total de
+sus miembros.
+ART�CULO 87. — Transferencias.
+Transfi�rense bajo la �rbita de competencias de la Autoridad de
+Aplicaci�n de la presente ley los siguientes organismos, empresas,
+programas y proyectos:
+• Secretar�a de Comunicaciones (SECOM).
+• Comisi�n Nacional de Comunicaciones (CNC).
+• Argentina Soluciones Satelitales S.A. (ARSAT).
+• Correo Oficial de la Rep�blica Argentina S.A. (CORASA).
+• Argentina Conectada.
+Cap�tulo III
+Comisi�n Bicameral de Promoci�n y Seguimiento de la Comunicaci�n
+Audiovisual, las Tecnolog�as de las Telecomunicaciones y la
+Digitalizaci�n
+ART�CULO 88. — Sustit�yese el Cap�tulo III del T�tulo II de la ley 26.522, el que quedar� redactado de la siguiente forma:
+Cap�tulo III
+Comisi�n Bicameral de Promoci�n y Seguimiento de la Comunicaci�n
+Audiovisual, las Tecnolog�as de las Telecomunicaciones y la
+Digitalizaci�n
+Art�culo 18.- Comisi�n Bicameral.
+Cr�ase en el �mbito del Congreso de la Naci�n, la Comisi�n Bicameral de
+Promoci�n y Seguimiento de la Comunicaci�n Audiovisual, las Tecnolog�as
+de las Telecomunicaciones y la Digitalizaci�n, que tendr� el car�cter
+de Comisi�n Permanente.
+La Comisi�n Bicameral se integrar� por ocho (8) senadores y ocho (8)
+diputados nacionales, seg�n resoluci�n de cada C�mara. Dictar� su
+propio reglamento.
+De entre sus miembros elegir�n un (1) presidente, un (1) vicepresidente
+y un (1) secretario; cargos que ser�n ejercidos anualmente en forma
+alternada por un representante de cada C�mara.
+La comisi�n tendr� las siguientes competencias:
+a) Proponer al Poder Ejecutivo nacional, los candidatos para la
+designaci�n de tres (3) miembros del directorio de la Autoridad Federal
+de Servicios de Comunicaci�n Audiovisual, y de tres (3) miembros del
+directorio de Radio y Televisi�n Argentina Sociedad del Estado y del
+titular de la Defensor�a del P�blico de Servicios de Comunicaci�n
+Audiovisual por resoluci�n conjunta de ambas C�maras.
+b) Proponer al Poder Ejecutivo nacional, los candidatos para la
+designaci�n de tres (3) miembros del directorio de la Autoridad Federal
+de Tecnolog�as de la Informaci�n y las Comunicaciones por resoluci�n
+conjunta de ambas C�maras.
+c) Recibir y evaluar el informe presentado por el Consejo Consultivo
+Honorario de los Medios P�blicos e informar a sus respectivos cuerpos
+org�nicos, dando a publicidad sus conclusiones.
+d) Velar por el cumplimiento de las disposiciones referidas a Radio y Televisi�n Argentina Sociedad del Estado.
+e) Evaluar el desempe�o de los miembros del directorio de la Autoridad
+Federal de Servicios de Comunicaci�n Audiovisual y del Defensor del
+P�blico.
+f) Evaluar el desempe�o de los miembros del directorio de la Autoridad
+Federal de Tecnolog�as de la Informaci�n y las Comunicaciones.
+g) Dictaminar sobre la remoci�n por incumplimiento o mal desempe�o de
+su cargo al Defensor del P�blico; en un procedimiento en el que se haya
+garantizado en forma amplia el derecho de defensa, debiendo la
+resoluci�n que se adopta al respecto estar debidamente fundada.
+T�tulo XI
+Cl�usulas transitorias y disposiciones finales
+ART�CULO 89. — La ley 19.798 y
+sus modificatorias s�lo subsistir� respecto de aquellas disposiciones
+que no se opongan a las previsiones de la presente ley.
+ART�CULO 90. — Alcance.
+Decreto 62/90. La definici�n del art�culo 6� inciso c) de la presente
+comprende los aspectos de la definici�n establecida en el Pliego de
+Bases y Condiciones para el Concurso P�blico Internacional para la
+Privatizaci�n de la Prestaci�n del Servicio de Telecomunicaciones
+aprobado mediante el decreto 62/90.
+ART�CULO 91. — Integraci�n del FFSU.
+Establ�cese que en virtud de lo dispuesto por las Cl�usulas 11.1 y 11.2
+del Contrato de Fideicomiso de Administraci�n del Fondo Fiduciario del
+Servicio Universal decreto 558/08, los recursos del mismo previstos en
+el art�culo 8� del Anexo III del decreto 764/00 y sus modificatorios
+quedar�n integrados al Fondo del Servicio Universal creado por art�culo
+21 de la presente ley, en las condiciones que determine la Autoridad de
+Aplicaci�n.
+ART�CULO 92. — Derogaci�n. Der�gase
+el decreto 764/00 y sus modificatorios, sin perjuicio de lo cual
+mantendr� su vigencia en todo lo que no se oponga a la presente ley
+durante el tiempo que demande a la Autoridad de Aplicaci�n dictar los
+reglamentos concernientes al R�gimen de Licencias para Servicios de
+TIC, al R�gimen Nacional de Interconexi�n, al R�gimen General del
+Servicio Universal y al R�gimen sobre la Administraci�n, Gesti�n y
+Control del Espectro Radioel�ctrico.
+ART�CULO 93. — R�gimen de transici�n. Licencias.
+A los actuales licenciatarios, operadores, prestadores y autorizados
+bajo el r�gimen instituido en el decreto 764/00 y sus modificatorios se
+les aplicar� el r�gimen previsto en la presente.
+Al momento de la sanci�n de la presente, y sin m�s tr�mite, los t�tulos
+habilitantes actualmente denominados ‘Licencia �nica de Servicios de
+Telecomunicaciones’ ser�n considerados a todos los efectos ‘Licencia
+�nica Argentina Digital’, sin mutar en su contenido, alcance y efectos.
+La Autoridad de Aplicaci�n podr� establecer reg�menes y programas
+especiales tendientes a la regularizaci�n de situaciones de prestaci�n
+cuyos responsables no cuenten con la licencia correspondiente,
+contemplando a tal efecto la situaci�n particular de cada actor
+involucrado garantizando la continuidad de la prestaci�n de los
+Servicios de TIC, sin que ello implique saneamiento de situaci�n
+irregular alguna.
+ART�CULO 94. — R�gimen de transici�n. Plan de implementaci�n.
+La Autoridad de Aplicaci�n formular� un plan de implementaci�n gradual
+con el objetivo de establecer las pautas y requisitos que los
+licenciatarios de TIC deber�n cumplir en relaci�n a lo dispuesto en los
+art�culos 9� y 10 de esta ley, resguardando el efectivo cumplimiento de
+la finalidad de la presente.
+El plan de implementaci�n gradual tendr� como finalidad primordial
+fijar las condiciones necesarias para garantizar la competencia y
+deber� tener en cuenta los siguientes par�metros:
+a) Establecimiento de zonas de promoci�n por plazos limitados que se
+determinen en raz�n del inter�s p�blico. Dentro de los plazos
+establecidos los licenciatarios de Servicios de TIC con poder
+significativo de mercado no podr�n prestar servicios de comunicaci�n
+audiovisual.
+b) Fomento y resguardo de las denominadas redes comunitarias,
+garantizando que las condiciones de su explotaci�n respondan a las
+necesidades t�cnicas, econ�micas y sociales de la comunidad en
+particular.
+c) Establecimiento de incentivos para el despliegue de infraestructura
+regional y fortalecimiento de actores locales tales como: asignaci�n de
+fondos del servicio universal, facilidad en el acceso al financiamiento
+y la inversi�n, facilidad de acceso a programas de obras p�blicas,
+ventajas fiscales, servicio de asesoramiento en materia de tecnolog�a e
+innovaci�n, entre otros.
+d) Establecimiento de asimetr�as regulatorias como instrumentos de
+universalizaci�n tendientes al desarrollo de una efectiva competencia,
+determinando un conjunto de derechos y deberes diferentes para un
+prestador respecto de otro, aun cuando ambos act�en en el mismo mercado
+geogr�fico brindando servicios equivalentes en lo referido, entre otros
+supuestos, a las condiciones para la entrada de nuevas prestadoras,
+para el establecimiento de l�mites a la concentraci�n y a la expansi�n
+del �rea de prestaci�n del servicio.
+ART�CULO 95. — R�gimen para prestadores entrantes al mercado de servicios de comunicaci�n audiovisual.
+La Autoridad Federal de Servicios de Comunicaci�n Audiovisual
+determinar� las condiciones de ingreso al mercado de servicios de
+comunicaci�n audiovisual de los prestadores y licenciatarios de TIC que
+se encuentren comprendidos en lo dispuesto por los art�culos 9� y 10 de
+la presente ley.
+A esos efectos deber� tener en cuenta:
+a) Si la licencia fuera requerida para la prestaci�n de los servicios
+de TV por suscripci�n y existiera otro prestador en la misma �rea de
+servicio, la Autoridad de Aplicaci�n de la ley 26.522, en cada caso
+concreto, deber� realizar una evaluaci�n integral de la solicitud que
+contemple el inter�s de la poblaci�n y solicitar un dictamen vinculante
+a la Comisi�n Nacional de Defensa de la Competencia que establezca las
+condiciones de prestaci�n que deber�n obrar en la adjudicaci�n de la
+licencia.
+b) A los fines de la obtenci�n de la licencia de servicios de
+comunicaci�n audiovisual, el requirente adem�s de cumplir con las
+disposiciones establecidas en la ley 26.522, de corresponder, deber�
+sujetarse a los plazos de promoci�n previstos en el inciso a) del
+art�culo 94 de la presente ley.
+ART�CULO 96. — Salvo las
+excepciones expresamente contempladas en la presente ley, en lo que
+refiere a las licencias de Servicios de comunicaci�n audiovisual
+resultar� de aplicaci�n la ley 26.522 y sus disposiciones
+complementarias, que ser� aplicable a los licenciatarios de Servicios
+de TIC que presten servicios de comunicaci�n audiovisual, a sus
+sociedades controladas, vinculadas o en las que tengan participaci�n,
+como as� tambi�n, a sus accionistas y en las sociedades que �stos
+tengan participaci�n directa o indirecta, sin perjuicio de la autoridad
+competente en cada caso.
+ART�CULO 97. — Vigencia. La presente ley entrar� en vigencia a partir del d�a de su publicaci�n en el Bolet�n Oficial de la Rep�blica Argentina.
+ART�CULO 98. — Comun�quese al Poder Ejecutivo nacional.
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A
+LOS DIECISEIS D�AS DEL MES DE DICIEMBRE DEL A�O DOS MIL CATORCE.
+— REGISTRADO BAJO EL N� 27.078 —
+AMADO BOUDOU. — JULIAN A. DOMINGUEZ. — Lucas Chedrese. — Juan H. Estrada.

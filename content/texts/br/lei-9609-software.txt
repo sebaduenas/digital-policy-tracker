@@ -1,0 +1,201 @@
+L9609
+Presid�ncia
+da Rep�blica
+Casa Civil
+Subchefia para Assuntos Jur�dicos
+LEI N� 9.609 , DE 19 DE FEVEREIRO DE 1998.
+Disp�e sobre
+a prote��o da propriedade intelectual de programa de computador, sua comercializa��o
+no Pa�s, e d� outras provid�ncias.
+O
+PRESIDENTE DA REP�BLICA Fa�o saber que o Congresso Nacional decreta e eu sanciono a
+seguinte Lei:
+CAP�TULO I
+DISPOSI��ES PRELIMINARES
+Art. 1� Programa
+de computador � a express�o de um conjunto organizado de instru��es em linguagem
+natural ou codificada, contida em suporte f�sico de qualquer natureza, de emprego
+necess�rio em m�quinas autom�ticas de tratamento da informa��o, dispositivos,
+instrumentos ou equipamentos perif�ricos, baseados em t�cnica digital ou an�loga, para
+faz�-los funcionar de modo e para fins determinados.
+CAP�TULO II
+DA PROTE��O AOS DIREITOS DE AUTOR E DO
+REGISTRO
+Art. 2� O
+regime de prote��o � propriedade intelectual de programa de computador � o conferido
+�s obras liter�rias pela legisla��o de direitos autorais e conexos vigentes no Pa�s,
+observado o disposto nesta Lei.
+1� N�o se aplicam ao programa de computador as disposi��es relativas aos direitos
+morais, ressalvado, a qualquer tempo, o direito do autor de reivindicar a paternidade do
+programa de computador e o direito do autor de opor-se a altera��es n�o-autorizadas,
+quando estas impliquem deforma��o, mutila��o ou outra modifica��o do programa de
+computador, que prejudiquem a sua honra ou a sua reputa��o.
+2� Fica assegurada a tutela dos direitos relativos a programa de computador pelo prazo de
+cinq�enta anos, contados a partir de 1� de janeiro do ano subseq�ente ao da sua
+publica��o ou, na aus�ncia desta, da sua cria��o.
+3� A prote��o aos direitos de que trata esta Lei independe de registro.
+4� Os direitos atribu�dos por esta Lei ficam assegurados aos estrangeiros domiciliados
+no exterior, desde que o pa�s de origem do programa conceda, aos brasileiros e
+estrangeiros domiciliados no Brasil, direitos equivalentes.
+5� Inclui-se dentre os direitos assegurados por esta Lei e pela legisla��o de direitos
+autorais e conexos vigentes no Pa�s aquele direito exclusivo de autorizar ou proibir o
+aluguel comercial, n�o sendo esse direito exaur�vel pela venda, licen�a ou outra forma
+de transfer�ncia da c�pia do programa.
+6� O disposto no par�grafo anterior n�o se aplica aos casos em que o programa em si
+n�o seja objeto essencial do aluguel.
+Art. 3� Os programas de computador poder�o, a crit�rio do
+titular, ser registrados em �rg�o ou entidade a ser designado por ato do Poder
+Executivo, por iniciativa do Minist�rio respons�vel pela pol�tica de ci�ncia e
+tecnologia. (Regulamento)
+1� O pedido de registro estabelecido neste artigo dever� conter, pelo menos, as
+seguintes informa��es:
+I
+- os dados referentes ao autor do programa de computador e ao titular, se distinto do
+autor, sejam pessoas f�sicas ou jur�dicas;
+II
+- a identifica��o e descri��o funcional do programa de computador; e
+III - os trechos do programa e outros dados que se considerar suficientes para
+identific�-lo e caracterizar sua originalidade, ressalvando-se os direitos de terceiros e
+a responsabilidade do Governo.
+2� As informa��es referidas no inciso III do par�grafo anterior s�o de car�ter
+sigiloso, n�o podendo ser reveladas, salvo por ordem judicial ou a requerimento do
+pr�prio titular.
+Art. 4� Salvo estipula��o em contr�rio, pertencer�o exclusivamente ao empregador,
+contratante de servi�os ou �rg�o p�blico, os direitos relativos ao programa de
+computador, desenvolvido e elaborado durante a vig�ncia de contrato ou de v�nculo
+estatut�rio, expressamente destinado � pesquisa e desenvolvimento, ou em que a atividade
+do empregado, contratado de servi�o ou servidor seja prevista, ou ainda, que decorra da
+pr�pria natureza dos encargos concernentes a esses v�nculos.
+1� Ressalvado ajuste em contr�rio, a compensa��o do trabalho ou servi�o prestado
+limitar-se-� � remunera��o ou ao sal�rio convencionado.
+2� Pertencer�o, com exclusividade, ao empregado, contratado de servi�o ou servidor os
+direitos concernentes a programa de computador gerado sem rela��o com o contrato de
+trabalho, presta��o de servi�os ou v�nculo estatut�rio, e sem a utiliza��o de
+recursos, informa��es tecnol�gicas, segredos industriais e de neg�cios, materiais,
+instala��es ou equipamentos do empregador, da empresa ou entidade com a qual o
+empregador mantenha contrato de presta��o de servi�os ou assemelhados, do contratante
+de servi�os ou �rg�o p�blico.
+3� O tratamento previsto neste artigo ser� aplicado nos casos em que o programa de
+computador for desenvolvido por bolsistas, estagi�rios e assemelhados.
+Art. 5� Os direitos sobre as deriva��es autorizadas pelo titular dos direitos de
+programa de computador, inclusive sua explora��o econ�mica, pertencer�o � pessoa
+autorizada que as fizer, salvo estipula��o contratual em contr�rio.
+Art. 6� N�o constituem ofensa aos direitos do titular de programa de computador:
+I
+- a reprodu��o, em um s� exemplar, de c�pia legitimamente adquirida, desde que se
+destine � c�pia de salvaguarda ou armazenamento eletr�nico, hip�tese em que o exemplar
+original servir� de salvaguarda;
+II
+- a cita��o parcial do programa, para fins did�ticos, desde que identificados o
+programa e o titular dos direitos respectivos;
+III - a ocorr�ncia de semelhan�a de programa a outro, preexistente, quando se der por
+for�a das caracter�sticas funcionais de sua aplica��o, da observ�ncia de preceitos
+normativos e t�cnicos, ou de limita��o de forma alternativa para a sua express�o;
+IV
+- a integra��o de um programa, mantendo-se suas caracter�sticas essenciais, a um
+sistema aplicativo ou operacional, tecnicamente indispens�vel �s necessidades do
+usu�rio, desde que para o uso exclusivo de quem a promoveu.
+CAP�TULO III
+DAS GARANTIAS AOS USU�RIOS DE PROGRAMA DE
+COMPUTADOR
+Art. 7� O
+contrato de licen�a de uso de programa de computador, o documento fiscal correspondente,
+os suportes f�sicos do programa ou as respectivas embalagens dever�o consignar, de forma
+facilmente leg�vel pelo usu�rio, o prazo de validade t�cnica da vers�o comercializada.
+Art. 8� Aquele que comercializar programa de computador, quer seja titular dos direitos
+do programa, quer seja titular dos direitos de comercializa��o, fica obrigado, no
+territ�rio nacional, durante o prazo de validade t�cnica da respectiva vers�o, a
+assegurar aos respectivos usu�rios a presta��o de servi�os t�cnicos complementares
+relativos ao adequado funcionamento do programa, consideradas as suas especifica��es.
+Par�grafo �nico. A obriga��o persistir� no caso de retirada de circula��o comercial
+do programa de computador durante o prazo de validade, salvo justa indeniza��o de
+eventuais preju�zos causados a terceiros.
+CAP�TULO IV
+DOS CONTRATOS DE LICEN�A DE USO, DE
+COMERCIALIZA��O
+E DE TRANSFER�NCIA DE TECNOLOGIA
+Art. 9� O uso de programa de computador no Pa�s ser� objeto de contrato de
+licen�a.
+Par�grafo �nico. Na hip�tese de eventual inexist�ncia do contrato referido no caput
+deste artigo, o documento fiscal relativo � aquisi��o ou licenciamento de c�pia
+servir� para comprova��o da regularidade do seu uso.
+Art. 10. Os atos e contratos de licen�a de direitos de comercializa��o referentes a
+programas de computador de origem externa dever�o fixar, quanto aos tributos e encargos
+exig�veis, a responsabilidade pelos respectivos pagamentos e estabelecer�o a
+remunera��o do titular dos direitos de programa de computador residente ou domiciliado
+no exterior.
+1� Ser�o nulas as cl�usulas que:
+I
+- limitem a produ��o, a distribui��o ou a comercializa��o, em viola��o �s
+disposi��es normativas em vigor;
+II
+- eximam qualquer dos contratantes das responsabilidades por eventuais a��es de
+terceiros, decorrentes de v�cios, defeitos ou viola��o de direitos de autor.
+2� O remetente do correspondente valor em moeda estrangeira, em pagamento da
+remunera��o de que se trata, conservar� em seu poder, pelo prazo de cinco anos, todos
+os documentos necess�rios � comprova��o da licitude das remessas e da sua conformidade
+ao caput deste artigo.
+Art. 11. Nos casos de transfer�ncia de tecnologia de programa de computador, o Instituto
+Nacional da Propriedade Industrial far� o registro dos respectivos contratos, para que
+produzam efeitos em rela��o a terceiros.
+Par�grafo �nico. Para o registro de que trata este artigo, � obrigat�ria a entrega,
+por parte do fornecedor ao receptor de tecnologia, da documenta��o completa, em especial
+do c�digo-fonte comentado, memorial descritivo, especifica��es funcionais internas,
+diagramas, fluxogramas e outros dados t�cnicos necess�rios � absor��o da tecnologia.
+CAP�TULO V
+DAS INFRA��ES E DAS PENALIDADES
+Art. 12.
+Violar direitos de autor de programa de computador:
+Pena - Deten��o de seis meses a dois anos ou multa.
+1� Se a viola��o consistir na reprodu��o, por qualquer meio, de programa de
+computador, no todo ou em parte, para fins de com�rcio, sem autoriza��o expressa do
+autor ou de quem o represente:
+Pena - Reclus�o de um a quatro anos e multa.
+2� Na mesma pena do par�grafo anterior incorre quem vende, exp�e � venda, introduz no
+Pa�s, adquire, oculta ou tem em dep�sito, para fins de com�rcio, original ou c�pia de
+programa de computador, produzido com viola��o de direito autoral.
+3� Nos crimes previstos neste artigo, somente se procede mediante queixa, salvo:
+I
+- quando praticados em preju�zo de entidade de direito p�blico, autarquia, empresa
+p�blica, sociedade de economia mista ou funda��o institu�da pelo poder p�blico;
+II
+- quando, em decorr�ncia de ato delituoso, resultar sonega��o fiscal, perda de
+arrecada��o tribut�ria ou pr�tica de quaisquer dos crimes contra a ordem tribut�ria
+ou contra as rela��es de consumo.
+4� No caso do inciso II do par�grafo anterior, a exigibilidade do tributo, ou
+contribui��o social e qualquer acess�rio, processar-se-� independentemente de
+representa��o.
+Art. 13. A a��o penal e as dilig�ncias preliminares de busca e apreens�o, nos casos de
+viola��o de direito de autor de programa de computador, ser�o precedidas de vistoria,
+podendo o juiz ordenar a apreens�o das c�pias produzidas ou comercializadas com
+viola��o de direito de autor, suas vers�es e deriva��es, em poder do infrator ou de
+quem as esteja expondo, mantendo em dep�sito, reproduzindo ou comercializando.
+Art. 14. Independentemente da a��o penal, o prejudicado poder� intentar a��o para
+proibir ao infrator a pr�tica do ato incriminado, com comina��o de pena pecuni�ria
+para o caso de transgress�o do preceito.
+1� A a��o de absten��o de pr�tica de ato poder� ser cumulada com a de perdas e
+danos pelos preju�zos decorrentes da infra��o.
+2� Independentemente de a��o cautelar preparat�ria, o juiz poder� conceder medida
+liminar proibindo ao infrator a pr�tica do ato incriminado, nos termos deste artigo.
+3� Nos procedimentos c�veis, as medidas cautelares de busca e apreens�o observar�o o
+disposto no artigo anterior.
+4� Na hip�tese de serem apresentadas, em ju�zo, para a defesa dos interesses de
+qualquer das partes, informa��es que se caracterizem como confidenciais, dever� o juiz
+determinar que o processo prossiga em segredo de justi�a, vedado o uso de tais
+informa��es tamb�m � outra parte para outras finalidades.
+5� Ser� responsabilizado por perdas e danos aquele que requerer e promover as medidas
+previstas neste e nos arts. 12 e 13, agindo de m�-f� ou por esp�rito de emula��o,
+capricho ou erro grosseiro, nos termos dos arts. 16, 17 e 18 do
+C�digo de Processo Civil.
+CAP�TULO VI
+DISPOSI��ES FINAIS
+Art. 15.
+Esta Lei entra em vigor na data de sua publica��o.
+Art. 16. Fica revogada a Lei n� 7.646, de 18
+de dezembro de 1987.
+Bras�lia, 19 de fevereiro de 1998; 177� da Independ�ncia e 110� da Rep�blica.
+FERNANDO HENRIQUE CARDOSO
+Jos� Israel Vargas
+Este texto n�o substitui o publicado no
+DOU de 20.2.1998 e
+retificado no DOU de 25.2.1998

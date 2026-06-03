@@ -1,0 +1,263 @@
+BOLETIN OFICIAL REPUBLICA ARGENTINA - FIRMA DIGITAL - Decreto 182/2019
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Toggle navigation
+
+•
+
+•
+Boletín Oficial de la República Argentina
+
+•
+Institucional
+
+•
+Productos y servicios
+
+•
+Preguntas Frecuentes
+
+•
+Contacto
+
+Edición del
+
+3 de Junio de 2026
+
+Ediciones Anteriores
+
+Búsqueda avanzada
+
+Secciones
+
+•
+
+•
+
+•
+
+•
+
+Búsqueda
+
+Cantidad de resultados
+
+Búsqueda avanzada
+
+Legislación y Avisos Oficiales
+
+Primera Sección
+
+Sociedades y Avisos Judiciales
+
+Segunda Sección
+
+Contrataciones
+
+Tercera Sección
+
+Volver
+
+Legislación y Avisos Oficiales
+
+Primera sección
+
+• Primera
+
+• Decretos
+
+• Detalle
+
+|
+
+|
+
+Ver páginas publicadas
+
+Ver texto del aviso
+
+FIRMA DIGITAL
+
+Decreto 182/2019
+
+DECTO-2019-182-APN-PTE - Ley N° 25.506. Reglamentación.
+
+Ciudad de Buenos Aires, 11/03/2019 VISTO: el Expediente N° EX-2018-68180684-APN-SECMA#JGM, las Leyes N° 25.506 y su modificatoria N° 27.446, los Decretos Nros. 2628 del 19 de diciembre de 2002 y sus modificatorios, 283 del 14 de febrero de 2003, 561 del 6 de abril de 2016, 1063 del 4 de octubre de 2016, 892 del 1° de noviembre de 2017, 801 del 5 de septiembre de 2018 y 802 del 5 de septiembre de 2018, y
+CONSIDERANDO:
+Que la creación de un clima de confianza en el entorno digital es esencial para el desarrollo económico y social, por lo que resulta conveniente reforzar la confianza en las transacciones electrónicas en nuestro país, para lograr interacciones electrónicas seguras entre los ciudadanos, las empresas y la Administración Pública e incrementar, en consecuencia, la economía digital, la prestación de servicios en línea públicos y privados y el comercio electrónico.
+Que la Ley N° 25.506 y su modificatoria reconoció la eficacia jurídica del documento electrónico, la firma electrónica y la firma digital, complementando las normas de derecho civil y comercial relativas a la firma, al documento, a su condición de original y a la conservación documental, elementos esenciales para otorgar seguridad a las transacciones electrónicas, promoviendo el comercio electrónico seguro y la autenticación fehaciente de las personas que realizan dichas transacciones en entornos virtuales.
+Que la citada Ley N° 25.506 y su modificatoria instituyó la Infraestructura de Firma Digital con alcance federal, abarcando todo el territorio nacional, estableciendo las facultades y obligaciones de sus componentes: la Autoridad de Aplicación, el Ente Licenciante, el Ente Auditante, los certificadores licenciados y los titulares de certificados digitales.
+Que, asimismo, la sanción de la Ley N° 25.506 otorgó un decisivo impulso para la progresiva despapelización del Estado, contribuyendo a mejorar su gestión, facilitar el acceso de la comunidad a la información pública y posibilitar la realización de trámites por Internet en forma segura.
+Que, en tal sentido, y siendo la materia administrativa de carácter local, la Ley N° 25.506 y su modificatoria estableció en sus artículos 47 y 48 el uso obligatorio de la firma digital para las transacciones de la Administración Pública Nacional, e invitó a las provincias a adherir en cuanto a su uso.
+Que los avances tecnológicos producidos desde el año 2001, año de sanción de la Ley N° 25.506, así como la experiencia de implementación de la Infraestructura de Firma Digital, hizo necesario actualizar y adecuar su contenido.
+Que, por ende, la Ley N° 27.446, amplió el alcance de la mencionada Ley N° 25.506, suprimiendo las exclusiones contempladas en el artículo 4°, y asignando a la SINDICATURA GENERAL DE LA NACIÓN el rol de Organismo Auditante de la Infraestructura de Firma Digital, entre otras modificaciones.
+Que la Ley N° 27.446 estableció que los documentos oficiales electrónicos firmados digitalmente, los expedientes electrónicos, las comunicaciones oficiales, las notificaciones electrónicas y el domicilio especial constituido electrónico de la Plataforma de Trámites a Distancia y de los Sistemas de Gestión Documental Electrónica que utiliza el Sector Público Nacional, las provincias, el Gobierno de la CIUDAD AUTÓNOMA DE BUENOS AIRES, municipios, Poderes Judiciales, entes públicos no estatales, Sociedades del Estado, entes tripartitos, entes binacionales, BANCO CENTRAL de la REPÚBLICA ARGENTINA, en procedimientos administrativos y procesos judiciales, tienen para el Sector Público Nacional idéntica eficacia y valor probatorio que sus equivalentes en soporte papel o cualquier otro soporte que se utilice a la fecha de entrada en vigencia de la presente medida, debido a su interoperabilidad que produce su reconocimiento automático en los Sistemas de Gestión Documental Electrónica, por lo que no se requerirá su legalización.
+Que, en consecuencia, el Decreto N° 2628/02 reglamentario de la Ley N° 25.506, requiere ser actualizado en función de las modificaciones y disposiciones de la Ley N° 27.446.
+Que el Decreto N° 283/03 autorizó con carácter transitorio y hasta tanto no estuviese implementada la Infraestructura de Firma Digital, a la entonces OFICINA NACIONAL DE TECNOLOGÍAS INFORMÁTICAS dependiente de la ex SUBSECRETARÍA DE LA GESTIÓN PÚBLICA de la JEFATURA DE GABINETE DE MINISTROS a proveer certificados digitales en el ámbito de la Administración Pública Nacional.
+Que el Decreto N° 724/06 modificó el Decreto N° 2628/02 reglamentario de la Ley N° 25.506.
+Que, por otra parte, el Decreto N° 561/16 le asignó al entonces MINISTERIO DE MODERNIZACIÓN, en su carácter de Autoridad de Aplicación de la Infraestructura de Firma Digital de la REPÚBLICA ARGENTINA, y a la SECRETARÍA DE MODERNIZACIÓN ADMINISTRATIVA de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN de la JEFATURA DE GABINETE DE MINISTROS distintas funciones contempladas en el Decreto N° 2628/02 reglamentario de la Ley N° 25.506 de Firma Digital.
+Que el Decreto N° 1063/16 modificó el Decreto N° 2628/02 incluyendo disposiciones respecto de las autoridades de registro, aprobó el uso de la Plataforma de Trámites a Distancia (TAD) del Sistema de Gestión Documental Electrónica – GDE como sede virtual de la Administración Pública Nacional y estableció el uso de la firma digital en el Sistema de Gestión Documental Electrónica - GDE.
+Que el Decreto N° 892/17 creó la Plataforma de Firma Digital Remota, en el ámbito del entonces MINISTERIO DE MODERNIZACIÓN, por lo que corresponde incluir a la firma digital remota como una de las firmas digitales admitidas en el Sistema de Gestión Documental Electrónica – GDE, modificando en consecuencia el artículo 13 del Decreto N° 1063/16.
+Que, por lo expuesto, resulta necesario adecuar la reglamentación de la Ley N° 25.506 y su modificatoria N° 27.446, actualizando su contenido a la luz de los avances tecnológicos y de la experiencia de implementación de la Infraestructura de Firma Digital, derogando los Decretos Nros. 2628/02, 283/03 y 724/06, así como los artículos 8°, 9° y 10 del Decreto N° 561/16.
+Que por el Decreto N° 801/18 se sustituyó el artículo 8º del Título II de la Ley de Ministerios (texto ordenado por Decreto N° 438/92) y sus modificatorias, indicándose que cada Ministerio podrá proponer al PODER EJECUTIVO NACIONAL la creación, entre otras, de las Secretarías de Gobierno, cuyas funciones serán determinadas por decreto, suprimiéndose el artículo 23 octies.
+Que, en este contexto, mediante el Decreto N° 802/18 se creó, entre otros, el cargo de Secretario de Gobierno de Modernización, el cual actúa como Vicejefe de Gabinete atribuyéndole las competencias del entonces MINISTERIO DE MODERNIZACIÓN.
+Que ha tomado intervención la DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS de la SUBSECRETARÍA DE COORDINACIÓN ADMINISTRATIVA de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN de la JEFATURA DE GABINETE DE MINISTROS.
+Que la presente medida se dicta en virtud de las previsiones contenidas en el artículo 99, incisos 1 y 2 de la CONSTITUCIÓN NACIONAL y el artículo 49 de la Ley N° 25.506 y su modificatoria.
+Por ello,
+EL PRESIDENTE DE LA NACIÓN ARGENTINA
+DECRETA:
+ARTÍCULO 1°.- Apruébase la reglamentación de la Ley N° 25.506 de Firma Digital, que como Anexo IF-2019-13755383-APN-SECMA#JGM, forma parte integrante del presente decreto.
+ARTÍCULO 2°.- Interoperabilidad documental. La interoperabilidad documental prevista en el artículo 7° de la Ley N° 27.446 se instrumentará mediante el módulo Interoperabilidad (IOP) del sistema de Gestión Documental Electrónica – GDE administrado por la SECRETARÍA DE MODERNIZACIÓN ADMINISTRATIVA de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN de la JEFATURA DE GABINETE DE MINISTROS.
+ARTÍCULO 3°.- Poderes. Cuando una norma requiera la formalidad de escritura pública para otorgar poderes generales o particulares, para diligenciar actuaciones, interponer recursos administrativos, realizar trámites, formular peticiones o solicitar inscripciones, dicho requisito se considera satisfecho mediante el apoderamiento realizado por el interesado en la plataforma de Trámites a Distancia (TAD) del sistema de Gestión Documental Electrónica – GDE, salvo disposición legal en contrario.
+ARTÍCULO 4°.- Sustitúyese el artículo 13 del Decreto N° 1063 del 4 de octubre de 2016, por el siguiente:
+“ARTÍCULO 13.- Firmas digitales del Sistema de Gestión Documental Electrónica (GDE). El Sistema de Gestión Documental Electrónica (GDE) permite la firma digital de los documentos electrónicos con las siguientes modalidades:
+a) Firma digital remota: se utiliza para para firmar digitalmente todo tipo de documento electrónico incluyendo actos administrativos.
+b) Firma digital con dispositivo criptográfico externo: se utiliza para firmar digitalmente todo tipo de documento electrónico incluyendo actos administrativos.
+c) Firma digital con certificado del sistema: se utiliza para firmar documentos electrónicos, excepto actos administrativos, como dictámenes, informes, comunicaciones oficiales, etc.
+Estas firmas digitales gozan de plena validez en virtud de lo dispuesto en el artículo 9° de la Ley N° 25.506 y su modificatoria, asegurando indubitablemente la autoría e integridad del documento electrónico firmado digitalmente.”
+ARTÍCULO 5°.- Derogaciones. Deróganse los Decretos Nros. 2628/02, 283/03 y 724/06 y los artículos 8°, 9° y 10 del Decreto N° 561/2016.
+ARTÍCULO 6°.- Comuníquese, publíquese, dése a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese. MACRI - Marcos Peña
+NOTA: El/los Anexo/s que integra/n este(a) Decreto se publican en la edición web del BORA -www.boletinoficial.gob.ar-
+e. 12/03/2019 N° 15146/19 v. 12/03/2019
+
+Fecha de publicación 12/03/2019
+
+Anexo - 1
+
+Compartir por email
+
+Para:
+
+Asunto:
+
+Aviso:
+
+Cerrar
+
+Enviar
+
+Biblioteca de Normativas
+
+Al hacer clic en este enlace usted está siendo dirigido a la página https://www.argentina.gob.ar/normativa .
+
+Cerrar
+
+Ir a Biblioteca de Normativas
+
+Institucional
+
+•
+Misión, Visión e Historia
+
+Sitios de Interés
+
+•
+Red de Boletines Oficiales de la R. A.
+
+•
+BFA Blockchain Federal Argentina
+
+Productos y Servicios
+
+• Tarifas de Publicación
+
+Autenticaciones
+
+• BFA Repositorio recibos
+
+• BFA Verificación
+
+• Firma digital
+
+Faq y Tutoriales
+
+• Preguntas Frecuentes
+
+Contacto
+
+Institucional
+
+• Misión, Visión e Historia
+
+Productos y Servicios
+
+• Tarifas de Publicación
+
+Sitios de Interés
+
+•
+Red de Boletines Oficiales de la R. A.
+
+•
+BFA Blockchain Federal Argentina
+
+Autenticaciones
+
+• BFA Repositorio recibos
+
+• BFA Verificación
+
+• Firma digital
+
+Faq y Tutoriales
+
+• Preguntas Frecuentes
+
+Contacto
+
+Secretaría
+Legal y Técnica
+
+Boletín Oficial
+de la República Argentina
+
+TELÉFONOS: 5218-8400 - 0810-345-BORA (2672)
+
+SEDE CENTRAL: Suipacha 767, C.A.B.A. (C1008AAO)
+
+Secretaría Legal y Técnica |
+Dra. María Ibarzabal Murphy - Secretaria
+
+Dirección Nacional del Registro Oficial |
+Dr. Walter Rubén Gonzalez - Director Nacional
+
+Red de Boletines Provinciales
+
+Al hacer clic en este enlace usted acepta ser dirigido fuera de nuestro sitio a la página http://www.reddeboletines.gob.ar cuya información es proporcionada por la Dirección Nacional del Sistema Argentino de Información Jurídica (SAIJ) dependiente del Ministerio de Justicia y Derechos Humanos de la Nación.
+
+Cerrar
+
+Ir a Red de Boletines Provinciales

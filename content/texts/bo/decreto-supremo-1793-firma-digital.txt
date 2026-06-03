@@ -1,0 +1,101 @@
+Bolivia: Decreto Supremo Nº 1793, 13 de noviembre de 2013
+Aumentar el tamaño del texto Reducir el tamaño del texto Ver el documento PDF Ver el documento sin formato Ficha Técnica Contenido Enlaces con otros documentos Comentar el contenido Etiquetar o categorizar la norma Compartir la norma en las redes sociales Sugerir mejoras en el documento Enviar esta norma por correo electrónico Imprimir la norma Cerrar la ventana
+Conectarse al sistema Suscribirse a LexiVox
+Bolivia: Decreto Supremo Nº 1793, 13 de noviembre de 2013
+Decreto Supremo Nº 1793
+EVO MORALES AYMA
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+CONSIDERANDO:
+• Que el Parágrafo II del Artículo 103 de la Constitución Política del Estado , determina que el Estado asumirá como política la implementación de estrategias para incorporar el conocimiento y aplicación de nuevas tecnologías de información y comunicación.
+• Que el numeral 1 del Parágrafo I del Artículo 85 de la Ley Nº 031 , de 19 de julio de 2010, Marco de Autonomías y Descentralización “Andrés Ibáñez”, establece formular y aprobar el régimen general y las políticas de comunicaciones y telecomunicaciones del país, incluyendo las frecuencias electromagnéticas, los servicios de telefonía fija y móvil, radiodifusión, acceso al internet y demás Tecnologías de Información y Comunicaciones - TIC, es una competencia exclusiva del nivel central del Estado.
+• Que los numerales 2 y 5 del Artículo 2 de la Ley Nº 164 , de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, disponen como objetivos asegurar el ejercicio del derecho al acceso universal y equitativo a los servicios de telecomunicaciones, tecnologías de información y comunicación; y promover el uso de las tecnologías de información y comunicación para mejorar las condiciones de vida de las bolivianas y bolivianos.
+• Que el Artículo 71 de la Ley Nº 164 , declara de prioridad nacional la promoción del uso de las tecnologías de información y comunicación para procurar el vivir bien de todas las bolivianas y bolivianos.
+• Que la Disposición Transitoria Sexta de la Ley Nº 164 , señala que todos los aspectos que se requieran para la aplicación de la citada Ley serán reglamentados por el Órgano Ejecutivo y regulados por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Que la Disposición Transitoria Novena de la Ley Nº 164 , establece que la Autoridad de Fiscalización y Control Social de Telecomunicaciones y Transportes - ATT se denominará en adelante Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT y asumirá las atribuciones, competencias, derechos y obligaciones en materia de telecomunicaciones y tecnologías de la información y comunicación, transportes y del servicio postal, bajo tuición del Ministerio de Obras Públicas, Servicios y Vivienda.
+• Que las TIC se han convertido en medios esenciales para el desarrollo social, cultural, económico y político de los pueblos. En virtud a lo cual, el Órgano Ejecutivo ha procedido a la concertación para el Reglamento a la Ley Nº 164 para el Desarrollo de Tecnologías de Información y Comunicación, en cuyo proceso se recolectaron aportes y propuestas para el presente Decreto Supremo.
+EN CONSEJO DE MINISTROS,
+DECRETA:
+Artículo Único.-
+• Se aprueba el Reglamento a la Ley Nº 164 , de 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación, que en Anexo forma parte integrante del presente Decreto Supremo.
+• Todos los aspectos complementarios referidos a la firma y certificado digital así como de las entidades certificadoras, que se requieran para la aplicación del presente Reglamento serán establecidos mediante Resolución Ministerial por el Ministerio de Obras Públicas, Servicios y Vivienda.
+Disposiciones transitorias
+Artículo transitorio 1°.- La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT, en un plazo no mayor a:
+• Ocho (8) meses a partir de la publicación del presente Decreto Supremo, elaborará y aprobará los estándares técnicos y otros lineamientos establecidos para el funcionamiento de las entidades certificadoras;
+• Seis (6) meses a partir de la aprobación de los estándares técnicos, deberá implementar la infraestructura y procedimientos internos necesarios para la aplicación de la firma y certificación digital como Certificadora Raíz.
+Artículo transitorio 2°.- La Agencia para el Desarrollo de la Sociedad de la Información en Bolivia - ADSIB, en un plazo no mayor a:
+• Seis (6) meses a partir de la aprobación de los estándares técnicos, deberá implementar la infraestructura y procedimientos internos necesarios para la aplicación de la firma y certificación digital como Entidad Certificadora Pública;
+• Seis (6) meses a partir de la publicación del presente Decreto Supremo, deberá implementar el Repositorio Estatal de Software Libre para las aplicaciones desarrolladas en el sector estatal.
+Artículo transitorio 3°.- Todas las entidades públicas en todos los niveles en un plazo no mayor a:
+• Seis (6) meses a partir de la implementación del Repositorio Estatal de Software Libre, tienen la obligación de registrar las aplicaciones desarrolladas de manera directa o a través de terceros en el repositorio, previa evaluación y validación a cargo de la ADSIB;
+• Seis (6) meses desde la aprobación del plan de implementación de software libre, iniciarán la migración de sus sistemas informáticos a Software Libre y Estándares Abiertos.
+Artículo transitorio 4°.- En un plazo no mayor a dieciocho (18) meses a partir de la publicación del presente Decreto Supremo, el Ministerio de Planificación del Desarrollo, en coordinación con el Ministerio de Obras Públicas, Servicios y Vivienda a través del Viceministerio de Telecomunicaciones y la ADSIB, elaborará el Plan de Implementación del Gobierno Electrónico y el Plan de Implementación de Software Libre y Estándares Abiertos que serán aprobados mediante Decreto Supremo.
+Artículo transitorio 5°.- El plazo máximo para la migración de los sistemas de las entidades públicas a Software Libre y Estándares Abiertos será de siete (7) años desde el inicio de la migración.
+Artículo transitorio 6°.- Lo establecido en el Artículo 23 del Reglamento para el Desarrollo de Tecnologías de Información y Comunicación, se hará efectivo a partir de la aprobación del Plan de Implementación de Software Libre y Estándares Abiertos.
+Disposiciones abrogatorias y derogatorias
+Se abrogan y derogan todas las disposiciones contrarias al presente Decreto Supremo.
+Disposiciónes finales
+Artículo final 1°.- Se modifica el segundo párrafo del Artículo 101 del Reglamento a la Ley General de Aduanas, aprobado por Decreto Supremo Nº 25870 , de 11 de agosto de 2000, modificado por el Parágrafo II del Decreto Supremo Nº 0784 , de 2 de febrero de 2011, con el siguiente texto:
+“La Aduana Nacional a través de Resolución de Directorio reglamentará el uso de la firma digital en la suscripción y presentación de la declaración de mercancías u otros documentos.”
+Artículo final 2°.- En tanto se establezca la ADSIB como entidad Certificadora, las entidades públicas podrán optar por una Certificadora Extranjera para el uso de los servicios de Certificación digital.
+Los señores Ministros de Estado en los Despachos de Planificación del Desarrollo, y de Obras Públicas, Servicios y Vivienda, quedan encargados de la ejecución y cumplimiento del presente Decreto Supremo.
+Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los trece días del mes de noviembre del año dos mil trece.
+Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Juan Carlos Calvimontes Camargo MINISTRO DE SALUD Y DEPORTES E INTERINO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.
+Anexo
+Reglamento para el desarrollo
+Reglamento para el desarrollo de tecnologías de información y comunicación
+Ficha Técnica ( DCMI )
+Norma Bolivia: Decreto Supremo Nº 1793, 13 de noviembre de 2013
+Fecha 2015-10-22 Formato Text Tipo DS
+Dominio Bolivia Derechos GFDL Idioma es
+Sumario Aprueba el Reglamento a la Ley Nº 164, de 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación, que en Anexo forma parte integrante del presente Decreto Supremo.
+Keywords Gaceta 582NEC, Decreto Supremo, noviembre/2013
+Origen https://www.gacetaoficialdebolivia.gob.bo/normas/verGratis/143777
+Referencias Gaceta Oficial de Bolivia 582NEC, 201410c.lexml
+Creador Fdo. EVO MORALES AYMA, Juan Ramón Quintana Taborga MINISTRO DE LA PRESIDENCIA E INTERINO DE RELACIONES EXTERIORES, Carlos Gustavo Romero Bonifaz, Rubén Aldo Saavedra Soto, Elba Viviana Caro Hinojosa, Luis Alberto Arce Catacora, Juan José Hernando Sosa Soruco, Ana Teresa Morales Olivera, Arturo Vladimir Sánchez Escobar, Mario Virreira Iporre, Cecilia Luisa Ayllon Quinteros, Juan Carlos Calvimontes Camargo MINISTRO DE SALUD Y DEPORTES E INTERINO DE TRABAJO, EMPLEO Y PREVISIÓN SOCIAL, José Antonio Zamora Gutiérrez, Roberto Iván Aguilar Gómez, Nemesia Achacollo Tola, Claudia Stacy Peña Claros, Nardy Suxo Iturry, Pablo Cesar Groux Canedo, Amanda Dávila Torres.
+Contribuidor DeveNet.net
+Publicador DeveNet.net
+Enlaces con otros documentos
+Véase también
+[BO-DS-25870] Bolivia: Reglamento a la Ley de Aduanas (Ley 1990), DS Nº 25870, 11 de agosto de 2000 REGLAMENTO A LA LEY DE ADUANAS (Ley 1990)
+[BO-CPE-20090207] Bolivia: Constitución Política del Estado de 2009, 7 de febrero de 2009 Constitución Política del Estado de 2009
+[BO-L-N31] Bolivia: Ley marco de Autonomías y Descentralización “Andrés Ibáñez”, 19 de julio de 2010 Ley marco de autonomías y descentralización “Andrés Ibáñez”
+[BO-DS-N784] Bolivia: Decreto Supremo Nº 784, 2 de febrero de 2011 Introduce modificaciones al Reglamento a la Ley General de Aduanas aprobado por Decreto Supremo Nº 25870, de 11 de agosto de 2000, orientadas a facilitar y simplificar los procedimientos aduaneros y establecer mecanismos que permitan a la Aduana Nacional disponer en forma oportuna de las mercancías que se encuentran en abandono y en comiso definitivo.
+[BO-L-N164] Bolivia: Ley General de telecomunicaciones, tecnologías de información y comunicación, 8 de agosto de 2011 Ley General de telecomunicaciones, tecnologías de información y comunicación
+[BO-RE-DSN1793] Bolivia: Reglamento a la Ley Nº 164, de 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación, 13 de noviembre de 2013 Reglamento a la Ley Nº 164, de 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación
+[BO-DS-N1793] Bolivia: Decreto Supremo Nº 1793, 13 de noviembre de 2013 Aprueba el Reglamento a la Ley Nº 164, de 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación, que en Anexo forma parte integrante del presente Decreto Supremo.
+Referencias a esta norma
+[BO-DS-N1874] Bolivia: Decreto Supremo Nº 1874, 23 de enero de 2014 Modifica los Artículos 45, 46 y 49 del Decreto Supremo Nº 29894, de 7 de febrero de 2009, modificados por los Artículos 3 y 8 del Decreto Supremo N° 0429, de 10 de febrero de 2010.
+Nota importante
+Lexivox ofrece esta publicación de normas
+como una ayuda para facilitar su identificación en la búsqueda
+conceptual vía WEB.
+El presente documento, de ninguna manera
+puede ser utilizado como una referencia legal, ya que dicha
+atribución corresponde a la Gaceta
+Oficial de Bolivia .
+Lexivox procura mantener el texto original
+de la norma; sin embargo, si encuentra modificaciones o
+alteraciones con respecto al texto original, sírvase
+comunicarnos para corregirlas y lograr una mayor perfección en
+nuestras publicaciones.
+Toda sugerencia para mejorar el contenido
+de la norma, en cuanto a fidelidad con el original, etiquetas,
+metainformación, gráficos o prestaciones del sistema, estamos
+interesados en conocerla e implementarla.
+La progresiva mejora en la calidad de
+Lexivox, es un asunto de la comunidad. Los resultados, son de
+uso y beneficio de la comunidad.
+LexiVox
+es un Sistema Web de Información
+desarrollado utilizando herramientas y aplicaciones de
+software libre , por
+Devenet SRL
+en el Estado Plurinacional de Bolivia.
+Contenido
+Bolivia: Decreto Supremo Nº 1793, 13 de noviembre de 2013
+Anexo - Reglamento para el desarrollo
+Ficha Técnica (DCMI)
+Enlaces con otros documentos
+Véase también
+Referencias a esta norma
+Nota importante

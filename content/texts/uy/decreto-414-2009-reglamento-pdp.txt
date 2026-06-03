@@ -1,0 +1,491 @@
+Decreto N� 414/009
+Volver
+Decreto N� 414/009
+REGLAMENTACION DE LA LEY 18.331, RELATIVO A LA PROTECCION DE DATOS PERSONALES
+Documento Actualizado
+Ver Imagen del D.O.
+Promulgaci�n: 31/08/2009
+Publicaci�n: 15/09/2009
+• Registro Nacional de Leyes y Decretos:
+• Tomo: 1
+• Semestre: 2
+• A�o: 2009
+• P�gina: 552
+Reglamentario/a de: Ley N� 18.331 de 11/08/2008.
+Referencias a toda la norma
+VISTO: que con fecha 11 de agosto de 2008 se promulg� la Ley N� 18.331 de
+Protecci�n de Datos Personales y Acci�n de "Habeas Data".
+RESULTANDO: I) que razones de juridicidad y conveniencia imponen estatuir
+aquellos aspectos b�sicos y primarios de la reglamentaci�n, que ordenen y
+favorezcan su puesta en pr�ctica de acuerdo con el postulado
+constitucional de que el derecho a la protecci�n de datos personales es
+inherente a la personalidad humana y por lo tanto est� comprendido en el
+art. 72 de la Constituci�n (art. 1 de la Ley).
+II) que las facultades legales del Organo de Control creado por los
+art�culos 31 y siguientes de la Ley, incluyen la potestad regulatoria cuyo
+ejercicio permitir� continuar ordenando y favoreciendo la puesta en
+pr�ctica de las actividades correspondientes;
+CONSIDERANDO: I) que la consagraci�n del nuevo r�gimen legal para la
+protecci�n de datos personales y acci�n de "habeas data", articula un
+conjunto de derechos y obligaciones vinculados a la recolecci�n y
+tratamiento, automatizados o manuales, de los datos de las personas
+f�sicas y jur�dicas;
+II) que es conveniente la adecuaci�n del ordenamiento jur�dico nacional en
+la materia al r�gimen de derecho comparado de mayor recibo,
+fundamentalmente el consagrado por los pa�ses europeos a trav�s de la
+Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre
+de 1995, relativa a la protecci�n de las personas f�sicas en lo que
+respecta al tratamiento de datos personales y a la libre circulaci�n de
+�stos.
+III) que asimismo corresponde reglamentar el funcionamiento de la Unidad
+Reguladora y de Control de Datos Personales creada por la preindicada Ley,
+la que tendr� a su cargo los cometidos que por ella se le asignan.
+ATENTO: a lo precedentemente expuesto y a lo preceptuado en las
+disposiciones citadas y en el art�culo 168 ordinal 4� de la Constituci�n.
+EL PRESIDENTE DE LA REPUBLICA
+Actuando en Consejo de Ministros
+DECRETA:
+TITULO I. DISPOSICIONES GENERALES
+CAPITULO I. AMBITO DE APLICACION
+Art�culo 1
+Ambito subjetivo. El derecho a la protecci�n de los datos personales se
+aplica a las personas f�sicas, directa o indirectamente, a trav�s de
+cualquier informaci�n num�rica, alfab�tica, gr�fica, fotogr�fica, ac�stica
+o de cualquier otro tipo que refiera a ellas.
+Por extensi�n se aplica a las personas jur�dicas, las que gozar�n del
+r�gimen tuitivo en cuanto corresponda.
+Art�culo 2
+Ambito objetivo. El r�gimen jur�dico de la protecci�n de datos personales
+se aplica a su recolecci�n, registro y todo tipo de tratamiento,
+automatizado o no, bajo cualquier soporte y modalidad de uso, tanto sea en
+el �mbito p�blico como privado.
+Este r�gimen no ser� aplicable a las siguientes bases de datos:
+A) Las mantenidas por personas f�sicas en el ejercicio de actividades
+exclusivamente personales o dom�sticas, entendi�ndose por �stas las que se
+desarrollan en un �mbito estrictamente privado, entre otros, los archivos
+de correspondencia y agendas personales.
+B) Las que tengan por objeto la seguridad p�blica, la defensa, la
+seguridad del Estado y sus actividades en materia penal, investigaci�n y
+represi�n del delito.
+C) Las creadas y reguladas por leyes especiales.
+Art�culo 3
+Ambito territorial. Los tratamientos de datos personales est�n sometidos
+a la Ley que se reglamenta cuando:
+A) Sean efectuados por un responsable de base de datos o tratamiento
+establecido en territorio uruguayo, siendo �ste el lugar donde ejerza
+su actividad, cualquiera sea su forma jur�dica.
+B) El responsable de la base de datos o tratamiento no est� establecido en
+territorio uruguayo pero utilice en el tratamiento de datos medios
+situados en el pa�s.
+Except�anse de la regla precedente, los casos en que los citados medios se
+utilicen exclusivamente con fines de tr�nsito, siempre que el responsable
+de la base de datos o tratamiento designe un representante, con domicilio
+y residencia permanente en territorio nacional, ante el Organo de Control,
+a los efectos de cumplir con las obligaciones previstas por la Ley que se
+reglamenta y en esta reglamentaci�n. Tal designaci�n no impedir� las
+acciones legales que puedan ser promovidas contra el responsable de la
+base de datos o tratamiento, ni disminuir� su responsabilidad en cuanto al
+cumplimiento de las obligaciones impuestas legal o reglamentariamente.
+CAPITULO II. DEFINICIONES
+Art�culo 4
+Definiciones. A los efectos del presente reglamento, y sin perjuicio de
+las definiciones contenidas en la Ley que se reglamenta, se entiende por:
+A) Bloqueo de datos: procedimiento mediante el cual se reservan datos con
+el fin de impedir su tratamiento, excepto para ser puestos a disposici�n
+de los Poderes del Estado, o instituciones que est�n legalmente
+habilitadas, a los efectos de atender las posibles responsabilidades
+surgidas del tratamiento.
+B) Cancelaci�n o Supresi�n de datos: procedimiento mediante el cual el
+responsable cesa en el uso de los datos. La supresi�n o cancelaci�n
+implicar� el bloqueo de dichos datos durante el plazo establecido en la
+normativa vigente; vencido �ste se deber� proceder a su eliminaci�n
+definitiva.
+C) Cesi�n de datos: comunicaci�n de acuerdo con lo establecido en el
+art�culo 4� literal B) de la Ley que se reglamenta.
+D) Dato personal relacionado con la salud: las informaciones concernientes
+a la salud pasada, presente y futura, f�sica o mental, de una persona.
+Entre otros, se consideran datos relacionados con la salud de las personas
+los referidos a su porcentaje de discapacidad o a su informaci�n gen�tica.
+E) Exportador de datos personales: la persona f�sica o jur�dica, p�blica o
+privada, situada en territorio uruguayo que realice, conforme a lo
+dispuesto en el presente reglamento, una transferencia de datos de
+car�cter personal a otro pa�s.
+F) Importador de datos personales: persona f�sica o jur�dica, p�blica o
+privada, receptora de los datos de otro pa�s, en caso de transferencia
+internacional de �stos, ya sea responsable del tratamiento, encargada del
+tratamiento o tercero.
+G) Interesado: titular del dato de acuerdo con lo establecido en el
+art�culo 4� literal L) de la Ley que se reglamenta.
+H) Transferencia internacional de datos: tratamiento de datos que supone
+una transmisi�n de �stos fuera del territorio nacional, constituyendo una
+cesi�n o comunicaci�n, y teniendo por objeto la realizaci�n de un
+tratamiento por cuenta del responsable de la base de datos o tratamiento
+establecido en territorio uruguayo.
+CAPITULO III. CONSENTIMIENTO
+Art�culo 5
+Consentimiento informado para recolecci�n y tratamiento de datos. Cuando
+se solicite el consentimiento del titular para la recolecci�n y
+tratamiento de sus datos, �ste deber� ser informado de forma que conozca
+inequ�vocamente la finalidad a la que se destinar�n los datos, y el tipo
+de actividad desarrollada por el responsable de la base de datos o
+tratamiento. En caso contrario, el consentimiento ser� nulo.
+Art�culo 6
+Formas de recabar el consentimiento. Deber� facilitarse al titular un
+medio sencillo, claro y gratuito para que manifieste su consentimiento o
+su negativa al tratamiento de sus datos.
+Se entender� cumplido tal deber cuando se permita al titular la elecci�n
+entre dos opciones claramente identificadas, que no se encuentren
+premarcadas a favor o en contra.
+Corresponder� al responsable de la base de datos o el tratamiento recabar
+y guardar la prueba de la existencia del consentimiento o de la negativa a
+darlo, por parte del titular, a trav�s de cualquier medio conforme a
+derecho.
+El responsable de la base de datos o el tratamiento podr� solicitar el
+consentimiento del titular a trav�s del procedimiento establecido en este
+art�culo, sin perjuicio de otras formas o modalidades que le ofrezcan
+similares o superiores garant�as.
+Vencido el plazo de diez d�as h�biles desde que el titular de los datos
+reciba la solicitud de consentimiento sin que se manifieste, su silencio
+equivaldr� a una negativa.
+CAPITULO IV - SEGURIDAD
+Art�culo 7
+(*) (*) Notas: Derogado/s por: Decreto N� 64/020 de 17/02/2020 art�culo 17 .
+TEXTO ORIGINAL: Decreto N� 414/009 de 31/08/2009 art�culo 7 .
+Referencias al art�culo
+Art�culo 8
+(*) (*) Notas: Derogado/s por: Decreto N� 64/020 de 17/02/2020 art�culo 17 .
+TEXTO ORIGINAL: Decreto N� 414/009 de 31/08/2009 art�culo 8 .
+Referencias al art�culo
+TITULO II. DERECHOS DE LOS TITULARES DE DATOS
+CAPITULO I. DERECHO DE ACCESO
+Art�culo 9
+Derechos de los titulares de los datos. Los derechos de los titulares de
+los datos previstos en la Ley que se reglamenta se ejercitar�n:
+A) Por el titular o su representante, acreditando la identidad de ambos en
+su caso; se aplicar� por extensi�n a las personas jur�dicas en cuanto
+corresponda.
+B) En forma conjunta o independiente.
+C) Exento de formalidades y en forma gratuita.
+D) Mediante comunicaci�n dirigida al responsable de la base de datos o
+tratamiento, que contendr�:
+a. Identificaci�n del titular.
+b. Motivo de la solicitud.
+c. Domicilio real y domicilio constituido a efecto de las
+notificaciones.
+d. Fecha y firma del solicitante.
+e. Documentos acreditantes de la solicitud.
+El responsable deber� contestar la solicitud en el plazo de cinco d�as
+h�biles desde su presentaci�n.
+La informaci�n que se proporcione, cualquiera sea el soporte en que fuere
+facilitada, se dar� en forma legible e inteligible, sin utilizar claves o
+c�digos.
+Art�culo 10
+Derecho de rectificaci�n. El derecho de rectificaci�n es el que tiene el
+titular a que se modifiquen los datos que resulten ser inexactos o
+incompletos.
+Art�culo 11
+Derecho de actualizaci�n. El derecho de actualizaci�n es el que tiene el
+titular a que se modifiquen los datos que resulten inexactos a la fecha de
+ejercicio del derecho.
+Art�culo 12
+Derecho de inclusi�n. El derecho de inclusi�n es el que tiene el titular
+a ser incorporado con la informaci�n correspondiente en una base de datos
+cuando acredite un inter�s fundado.
+Art�culo 13
+Derecho de supresi�n. El derecho de supresi�n es el que tiene el titular
+a que se eliminen los datos cuya utilizaci�n por terceros resulte
+ileg�tima, o que resulten ser inadecuados o excesivos.
+La supresi�n no proceder� cuando los datos personales deban ser
+conservados en virtud de razones hist�ricas, estad�sticas o cient�ficas y
+de acuerdo con la legislaci�n aplicable o, en su caso, en las relaciones
+contractuales entre el responsable y el titular, que justificaren el
+tratamiento de los datos.
+El responsable deber� documentar ante el titular haber cumplido con lo
+solicitado indicando las cesiones o transferencias de los datos suprimidos
+e identificando al cesionario.
+Art�culo 14
+Derechos referentes a la comunicaci�n o la cesi�n de datos. La
+comunicaci�n o la cesi�n de datos a terceros, solamente procede para el
+cumplimiento de los fines directamente relacionados con el inter�s
+leg�timo del emisor y destinatario de �sta, previo consentimiento del
+titular de los datos a quien se le debe informar inequ�vocamente la
+finalidad de dicha comunicaci�n, identificando al destinatario y el tipo
+de actividad que desarrolla.
+No se considera comunicaci�n o cesi�n de datos el acceso por parte de un
+encargado de tratamiento, que resulte necesario para la prestaci�n de un
+servicio al responsable, salvo que este acceso implique la existencia de
+un nuevo v�nculo entre el encargado del tratamiento y el titular.
+TITULO III. REGIMEN REGISTRAL
+CAPITULO I. INSCRIPCION EN EL REGISTRO DE BASE DE DATOS PERSONALES
+Art�culo 15
+Actos y documentos inscribibles. En el Registro de Bases de Datos
+Personales de la URCDP, creado por el art�culo 1� del Decreto N� 664/008,
+de 22 de diciembre de 2008, deber�n inscribirse:
+A) Las personas f�sicas que creen, modifiquen o supriman bases de
+datos de car�cter personal, que no sean para uso exclusivamente personal o
+dom�stico.
+B) Las personas jur�dicas p�blicas, estatales o no, y las privadas,
+que creen, modifiquen o supriman bases de datos de car�cter personal,
+salvo las excepciones previstas en la Ley que se reglamenta. De acuerdo
+con lo establecido en el art. 3 de la mencionada Ley no es de aplicaci�n
+la excepci�n del �mbito personal o dom�stico para las personas jur�dicas.
+C) Los c�digos de conducta de pr�ctica profesional que establezcan
+normas para el tratamiento de datos personales.
+D) Las autorizaciones de transferencias internacionales de datos
+personales.
+Esta inscripci�n se llevar� a cabo bajo los criterios reglamentarios
+contenidos en la Ley, en el presente Decreto, en el Decreto N� 664/008, de
+22 de diciembre de 2008, u otras disposiciones que dicte la URCDP, de
+conformidad a las facultades legales conferidas.
+Art�culo 16
+Contenido y forma de inscripci�n. Los responsables de todas las bases de datos o tratamientos deber�n inscribirlas en el Registro de la URCDP de acuerdo con el Art�culo N� 4 del Decreto N� 664/008, de 22 de diciembre
+de 2008, proporcionando la siguiente informaci�n:
+A) Identificaci�n de la base de datos y el responsable de la misma.
+B) Procedimientos de obtenci�n y tratamiento de los datos.
+C) Medidas de seguridad y descripci�n t�cnica de la base de datos.
+D) Protecci�n de datos personales y ejercicio de derechos.
+E) Destino de los datos y personas f�sicas o jur�dicas a las que pueden
+ser transmitidos.
+F) Tiempo de conservaci�n de los datos.
+G) Forma y condiciones en que las personas pueden acceder a los datos
+referidos a ellas y los procedimientos a realizar para la rectificaci�n o
+actualizaci�n de los datos.
+H) Datos sometidos a tratamiento en dicha base de datos.
+I) Domicilio constituido a efectos de las comunicaciones y notificaciones
+que correspondan. (*) (*) Notas: Redacci�n dada por: Decreto N� 308/014 de 22/10/2014 art�culo 1 .
+TEXTO ORIGINAL: Decreto N� 414/009 de 31/08/2009 art�culo 16 .
+Art�culo 17
+Plazo de inscripci�n. Las bases de datos de car�cter personal existentes,
+dispondr�n de un plazo m�ximo de 90 d�as contados a partir de la
+publicaci�n del presente Decreto en el Diario Oficial, para adecuarse a
+los requisitos y las condiciones de inscripci�n establecidos en la
+presente reglamentaci�n y proceder a su registro. Las bases de datos que
+se crearen con posterioridad a la fecha de la aprobaci�n del decreto,
+deber�n ser inscriptas dentro de un plazo m�ximo de 90 d�as a partir del
+inicio de sus actividades.
+Art�culo 18
+(*) (*) Notas: Derogado/s por: Decreto N� 308/014 de 22/10/2014 art�culo 2 .
+TEXTO ORIGINAL: Decreto N� 414/009 de 31/08/2009 art�culo 18 .
+Art�culo 19
+Fecha de la inscripci�n. Se computar� como fecha de inscripci�n
+definitiva la correspondiente a la Resoluci�n de la URCPD.
+Los responsables de bases de datos de car�cter personal deber�n exhibir en
+un lugar visible accesible a los usuarios el n�mero y fecha de la citada
+resoluci�n.
+Art�culo 20
+Actualizaci�n al Registro. Los responsables de las bases de datos deber�n
+mantener actualizados los datos inscriptos en el Registro de Base de Datos
+Personales, comunicando trimestralmente las actualizaciones.
+TITULO IV. ORGANO DE CONTROL
+CAPITULO I. PRESIDENCIA
+Art�culo 21
+Presidencia de la URCDP. La direcci�n t�cnica y administrativa de la
+URCDP ser� ejercida por un Consejo Ejecutivo de tres miembros, de acuerdo
+con lo establecido en el art�culo 31 de la Ley que se reglamenta.
+La Presidencia de la URCDP ser� rotativa anualmente entre los integrantes
+del Consejo Ejecutivo, a excepci�n del Director Ejecutivo de la Agencia
+para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la
+Informaci�n y del Conocimiento (AGESIC). En ausencia temporal del
+Presidente de la URCDP, la Presidencia ser� ejercida en forma interina por
+el restante miembro nombrado por el Poder Ejecutivo.
+Art�culo 22
+Cometidos del Presidente. Al Presidente del Consejo Ejecutivo o a quien
+lo sustituya corresponde:
+A) La representaci�n de la URCDP en sus relaciones externas por s� o por
+medio de apoderado en forma.
+B) Cumplir y hacer cumplir las normas constitucionales, legales y
+reglamentarias y ejecutar y hacer ejecutar las decisiones del Consejo
+Ejecutivo.
+C) Presidir las sesiones del Consejo Ejecutivo y dirigir sus
+deliberaciones.
+D) Adoptar las medidas que creyere conveniente en caso de urgencia, dando
+cuenta en la primera sesi�n del Consejo Ejecutivo y estando a lo que se
+resuelva.
+E) Estructurar el orden del d�a.
+F) Convocar las sesiones ordinarias y extraordinarias.
+G) Someter a la aprobaci�n del Consejo Ejecutivo la planificaci�n de la
+Unidad y el proyecto de memoria anual.
+H) Firmar las actas, las resoluciones del Consejo Ejecutivo y la
+correspondencia oficial.
+I) Firmar los contratos y documentos de cualquier naturaleza, debidamente
+autorizados por el Consejo Ejecutivo.
+J) Fiscalizar la administraci�n ejecutiva y el desempe�o de los
+funcionarios y dem�s personas que presten servicios en la URCDP, dando
+cuenta al Consejo Ejecutivo.
+CAPITULO II. CONSEJO EJECUTIVO
+Art�culo 23
+Atribuciones del Consejo Ejecutivo. El Consejo Ejecutivo tendr� los
+siguientes cometidos:
+A) Difundir los derechos que con este r�gimen se garantizan y
+propiciar su conocimiento.
+B) Concertar convenios con organismos internacionales, previa
+autorizaci�n del Poder Ejecutivo.
+C) Asegurar la regularidad y eficiencia de las actividades propias de
+la Unidad, ejerciendo las potestades que le asigna la Ley que se
+reglamenta y las de administraci�n correspondientes a la Unidad.
+D) Designar al funcionario o funcionarios que representar�n a la
+Unidad en todas aquellas gestiones en que no fuere posible la intervenci�n
+del Consejo Ejecutivo o de alguno de sus miembros.
+E) Dictar las normas y reglamentaciones que se deben cumplir en el
+desarrollo de las actividades comprendidas por la Ley que se reglamenta;
+incluyendo las medidas de seguridad en el tratamiento y conservaci�n de
+los datos personales, que deber�n observar los responsables, encargados y
+usuarios de bases de datos p�blicas y privadas.
+F) Resolver dentro de su competencia, todos los asuntos que propongan sus
+miembros.
+G) Realizar todas aquellas actividades necesarias para el cumplimiento
+de sus cometidos.
+H) Asesorar al Poder Ejecutivo sobre la normativa y proyectos de ley, en
+sus diferentes etapas, que refieran total o parcialmente a la protecci�n
+de datos personales.
+I) Solicitar informes circunstanciados a entidades p�blicas y privadas,
+garantizando la seguridad y confidencialidad de los datos y elementos
+recibidos.
+J) Aplicar sanciones de acuerdo con lo establecido en el art�culo 35
+de la Ley que se reglamenta.
+K) Mantener actualizado y disponible para la consulta el Registro de
+Bases de Datos Personales.
+L) Expedir las autorizaciones previstas en la Ley que se reglamenta.
+M) Expedir certificados de inscripci�n y habilitaci�n en caso de
+corresponder.
+Art�culo 24
+Funcionamiento del Consejo Ejecutivo. El Consejo Ejecutivo dictar� su
+reglamento interno, con las siguientes bases:
+A) Las resoluciones se tomar�n por mayor�a. Si se produjera empate el
+asunto ser� tratado en la pr�xima sesi�n y si �ste subsistiera, el
+voto del Presidente se computar� doble.
+B) Cuando el Consejo Ejecutivo lo resuelva podr� formar Comisiones
+Especiales, ya sea con car�cter permanente o extraordinario, con el
+objeto de asesorar o realizar trabajos, estudios o investigaciones
+que se dispongan.
+Art�culo 25
+Publicidad. La URCDP har� p�blicas las resoluciones que adopte, mediante
+la publicaci�n en su sitio web, en forma posterior a la notificaci�n. La
+publicaci�n se realizar� aplicando los criterios de disociaci�n de los
+datos de car�cter personal que a tal efecto se establezcan.
+En el caso de dictarse actos de car�cter general se publicar�n en el sitio
+web antes indicado y en el Diario Oficial.
+CAPITULO III. CONSEJO CONSULTIVO
+Art�culo 26
+Funcionamiento del Consejo Consultivo. El Consejo Consultivo ser�
+convocado por el Consejo Ejecutivo, con una antelaci�n m�nima de cinco
+d�as y sesionar� con una mayor�a simple de sus integrantes.
+Habiendo qu�rum para sesionar, el Presidente declarar� abierta la sesi�n,
+disponiendo leer el acta o actas anteriores correlativas si las hubiera.
+De todo lo actuado por el Consejo Consultivo se dejar� constancia en acta,
+la cual una vez aprobada ser� firmada por todos los asistentes.
+Art�culo 27
+Votaci�n. Las decisiones se tomar�n por mayor�a de sus miembros. El
+Presidente tiene voz pero no voto.
+Art�culo 28
+Elecci�n de representantes del Consejo Consultivo. El representante del
+�rea acad�mica en el Consejo Consultivo ser� designado por la Facultad de
+Derecho de la Universidad de la Rep�blica a propuesta del Instituto de
+Derecho Inform�tico.
+El representante del sector privado en el Consejo Consultivo ser�
+designado por la C�mara Nacional de Comercio y de Servicios.
+TITULO V. NORMAS DE ACTUACION
+Art�culo 29
+Principios aplicables. La actuaci�n administrativa de la URCDP se
+desarrollar� con arreglo a los principios de imparcialidad, celeridad,
+eficacia, verdad material, informalismo, debido proceso, impulsi�n de
+oficio, buena fe, motivaci�n de las decisiones y simplicidad, los que
+servir�n de criterio interpretativo para resolver las cuestiones que
+puedan suscitarse en la tramitaci�n de cualquier asunto.
+Art�culo 30
+Tramitaci�n. Iniciado un asunto, de naturaleza interna o externa,
+promovido por un interesado o de oficio, su instrucci�n deber� completarse
+en el m�nimo tiempo posible.
+En todo lo no previsto expresamente en este Decreto, se aplicar�n las
+normas contenidas en el Decreto N� 500/991, de 27 de setiembre de 1991 y
+sus modificativos.
+Art�culo 31
+Procedimiento relativo al ejercicio de la potestad sancionatoria. Ante
+una posible infracci�n de la Ley N� 18.331 y su reglamentaci�n, la URCDP
+podr�:
+A) Realizar las inspecciones que el Consejo Ejecutivo entienda pertinente,
+las que ser�n dispuestas por resoluci�n fundada.
+B) Solicitar ante la justicia competente las medidas pertinentes, cuando
+exista riesgo de p�rdida de la prueba. La solicitud de dichas medidas
+necesitar� resoluci�n fundada del Consejo Ejecutivo.
+C) Comunicar las actuaciones al responsable de la base de datos o
+tratamiento a efectos de otorgarle vista, confiri�ndole un plazo de diez
+d�as, contados a partir del siguiente al de su notificaci�n para
+evacuarla. Transcurrido el plazo establecido, se elevar�n las actuaciones
+para resoluci�n del Consejo Ejecutivo, el que tendr� un plazo de treinta
+d�as para expedirse. La resoluci�n que recaiga ser� impugnable de acuerdo
+con las normas vigentes en la materia.
+Art�culo 32
+Multas. El monto de las multas previstas en el numeral 2) del art�culo 35
+de la Ley que se reglamenta, ser� recaudado por AGESIC y la totalidad de
+lo producido por su cobro se verter� a Rentas Generales.
+Art�culo 33
+Suspensi�n. La AGESIC promover� la suspensi�n de la base de datos de
+acuerdo con lo previsto en el art. 35 numeral 3� de la Ley 18.331, previo
+pronunciamiento del Consejo Ejecutivo de la URCDP, en los casos que se
+comprobare que se han infringido o transgredido la Ley y/o su
+reglamentaci�n.
+Art�culo 34
+Procedimiento de autorizaci�n de transferencias internacionales de datos. El procedimiento para la autorizaci�n de transferencia internacional de datos a terceros pa�ses, de conformidad con lo expresado en el art�culo 23 de la Ley que se reglamenta, se iniciar� siempre a solicitud del exportador que pretenda llevarla a cabo.
+Art�culo 35
+Contenido de la solicitud de transferencia internacional de datos. Dicha
+solicitud, adem�s de los requisitos legalmente exigidos, deber� contener:
+A) La identificaci�n de la base de datos y su c�digo de inscripci�n en
+el Registro de Bases de Datos Personales.
+B) La descripci�n de la transferencia, respecto de la que se solicita
+la autorizaci�n, con indicaci�n de la finalidad que la justifica,
+adjuntando la documentaci�n acreditante.
+Cuando la autorizaci�n se fundamente en la existencia de un contrato entre
+el importador y el exportador de los datos, deber� aportarse copia del
+mismo acredit�ndose la concurrencia de poder suficiente de sus otorgantes.
+Podr�n realizarse transferencias internacionales de datos en empresas
+multinacionales, �nicamente entre la matriz y sus filiales y/o sucursales
+y entre �stas, cuando posean c�digos de conducta debidamente inscriptos
+ante la URCDP. Esto ser� de aplicaci�n a los organismos internacionales.
+Art�culo 36
+Procedimiento de inscripci�n de c�digos de conducta. El procedimiento
+para inscripci�n en el Registro de Bases de Datos Personales de los
+c�digos de conducta se iniciar� siempre a solicitud del responsable de la
+base de datos.
+La solicitud deber� acompa�arse de los siguientes documentos:
+A) Identificaci�n de la instituci�n.
+B) Identificaci�n del c�digo de conducta y su responsable.
+C) Contenido del c�digo de conducta.
+La inscripci�n de los c�digos de conducta se regir� por el mismo
+procedimiento establecido para las bases de datos.
+Art�culo 37
+Procedimiento para la autorizaci�n de conservaci�n de datos para fines
+hist�ricos, estad�sticos o cient�ficos. El procedimiento para la
+autorizaci�n de conservaci�n de datos personales con fines hist�ricos,
+estad�sticos o cient�ficos se iniciar� siempre a petici�n del responsable
+que pretenda obtener la declaraci�n.
+En el escrito de solicitud el responsable deber�:
+A) Identificar el tratamiento de datos al que pretende aplicarse la
+excepci�n.
+B) Establecer las causas que justificar�an la declaraci�n.
+C) Presentar las medidas que el responsable de la base de datos se propone
+implantar para garantizar el derecho a los ciudadanos.
+D) Acompa�ar los documentos necesarios para justificar su solicitud.
+Previo a adoptar resoluci�n, la URCDP podr� solicitar la opini�n de
+instituciones u organismos, p�blicos o privados, que tengan competencia o
+m�rito para ser consultados en relaci�n al caso.
+(*) Notas: Ver en esta norma, art�culo: 38 .
+Referencias al art�culo
+Art�culo 38
+Tratamiento con fines hist�ricos, estad�sticos o cient�ficos. La URCDP
+podr�, previa solicitud del responsable del tratamiento conforme al
+procedimiento establecido en el art�culo precedente, autorizar el
+mantenimiento �ntegro o parcial de los datos, atendiendo a la finalidad de
+sus valores hist�ricos, estad�sticos o cient�ficos.
+Referencias al art�culo
+Art�culo 39
+Suspensi�n de la eliminaci�n de la base de datos. La presentaci�n de la
+solicitud suspende la obligaci�n de eliminar la base de datos, hasta tanto
+se decida sobre la misma.
+Art�culo 40
+Derogaci�n. Der�ganse el literal d) del art�culo 5� y el art�culo 6 del
+Decreto 664/2008 de 22 de diciembre de 2008.
+Art�culo 41
+Comun�quese, publ�quese, etc.
+TABARE VAZQUEZ - JORGE BRUNI - GONZALO FERNANDEZ - ALVARO GARCIA - JOSE BAYARDI - MARIA SIMON - VICTOR ROSSI - DANIEL MARTINEZ - JULIO BARAIBAR - MARIA JULIA MU�OZ - ERNESTO AGAZZI - HECTOR LESCANO - CARLOS COLACCE - MARINA ARISMENDI
+Ayuda

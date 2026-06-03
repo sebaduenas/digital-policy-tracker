@@ -1,0 +1,2622 @@
+Lunes 19 de enero de 2026                                                  Suplemento Nº 206 - Registro Oficial
+
+
+                                                           ACUERDO Nro. MINTEL-MINTEL-2025-0030
+
+                                                          SR. MGS. ROBERTO CARLOS KURY PESANTES
+                                                  MINISTRO DE TELECOMUNICACIONES Y DE LA SOCIEDAD DE LA
+                                                                       INFORMACIÓN
+
+
+                                                                           CONSIDERANDO:
+
+
+                                         Que, el artículo 226 de la Constitución de la República del Ecuador prevé: “Las
+                                         instituciones del Estado, sus organismos, dependencias, las servidoras o servidores
+                                         públicos y las personas que actúen en virtud de una potestad estatal ejercerán solamente
+                                         las competencias y facultades que les sean atribuidas en la Constitución y la ley. Tendrán
+                                         el deber de coordinar acciones para el cumplimiento de sus fines y hacer efectivo el goce
+                                         y ejercicio de los derechos reconocidos en la Constitución”;
+
+                                         Que, el artículo 233 inciso primero de la Constitución de la República del Ecuador
+                                         dispone: “Ninguna servidora ni servidor público estará exento de responsabilidades por
+                                         los actos realizados en el ejercicio de sus funciones, o por sus omisiones, y serán
+                                         responsables administrativa, civil y penalmente por el manejo y administración de
+                                         fondos, bienes o recursos públicos (…)”;
+
+                                         Que, el artículo 385 de la Constitución de la República del Ecuador prescribe: “El
+                                         sistema nacional de ciencia, tecnología, innovación y saberes ancestrales (…) tendrá
+                                         como finalidad: (…) 3. Desarrollar tecnologías e innovaciones que impulsen la
+                                         producción nacional, eleven la eficiencia y productividad, mejoren la calidad de vida y
+                                         contribuyan a la realización del buen vivir”;
+
+                                         Que, el artículo 1 de la Ley Orgánica para la Transformación Digital y Audiovisual
+                                         establece: “(…) Son objetivos específicos de esta Ley: (…) b. Establecer el marco
+                                         regulatorio para el fomento de la transformación digital de las instituciones públicas, de
+                                         las empresas privadas y de la sociedad; así como fortalecer el uso efectivo y eficiente de
+                                         las plataformas, las tecnologías digitales, las redes y servicios digitales con el fin de
+                                         atraer inversiones, impulsar la economía digital, la eficiencia y el bienestar social,
+                                         desarrollando habilidades y competencias digitales necesarias para el empleo,
+                                         educación, salud y productividad (...)”;
+
+                                         Que, el artículo 2 de la Ley Orgánica para la Transformación Digital y Audiovisual
+                                         prevé: “Son ejes de la presente Ley los siguientes: (…) d. Tecnologías emergentes para
+                                         el desarrollo sostenible: Fomento de nuevas tecnologías en las industrias, Fomento de
+                                         nuevas tecnologías para el medio ambiente, Ciudades Inteligentes y Sostenibles (...)”;
+
+                                         Que, el artículo 3 de la Ley Orgánica para la de Transformación Digital y Audiovisual
+                                         prescribe: “El ente rector en materia de telecomunicaciones será la entidad rectora en
+                                         transformación digital y gobierno digital, para lo cual ejercerá atribuciones y
+                                         responsabilidades, así como emitirá las políticas, directrices, acuerdos, normativa y
+                                         lineamientos necesarios para su implementación (…)”;
+
+
+                                                                                  2
+                                                                                                                                       1/3
+* Documento firmado electrónicamente por Quipux
+                           Registro Oficial - Suplemento Nº 206                                              Lunes 19 de enero de 2026
+
+
+                                         Que, el artículo 3 de la Ley Orgánica de Telecomunicaciones prevé: “El Ministerio
+                                         encargado del sector de las Telecomunicaciones y de la Sociedad de la Información es el
+                                         órgano rector de las telecomunicaciones y de la sociedad de la información, informática,
+                                         tecnologías de la información y las comunicaciones y de la seguridad de la información.
+                                         (…)”;
+
+                                         Que, el artículo 3 numeral 8 del Reglamento General a la Ley Orgánica de
+                                         Telecomunicaciones prevé: “(…) 8) Tecnologías emergentes para el desarrollo
+                                         sostenible: Son las tecnologías digitales capaces de generar soluciones innovadoras tales
+                                         como la rebotica, la analítica, la inteligencia artificial, las tecnologías cognitivas, la
+                                         nanotecnología y el Internet de las cosas (IoT), entre otras, que combinan técnicas
+                                         avanzadas de producción y operaciones con tecnología, generando un impacto en el
+                                         ecosistema digital, las personas y las organizaciones.”;
+
+                                         Que, el artículo 25 numerales 1 y 2 del Reglamento General a la Ley Orgánica de
+                                         Telecomunicaciones determinan: “Para lograr la transformación digital se deberá: 1)
+                                         Promover el despliegue de la infraestructura tecnológica en todo el territorio nacional;
+                                         2) Contar con regulación simplificada y eficiente para procedimientos de adquisición de
+                                         servicios en la nube, nuevas tecnologías o tecnologías emergentes”;
+
+                                         Que, mediante Decreto Ejecutivo No. 8, publicado en el Registro Oficial Nro. 10 de 24
+                                         de agosto de 2009, el Presidente de la República creó el Ministerio de
+                                         Telecomunicaciones y de la Sociedad de la Información;
+
+                                         Que, con Decreto Ejecutivo No. 630 de 15 de mayo de 2025, ratificado con Decreto
+                                         Ejecutivo No. 11 de 27 de mayo de 2025, el Presidente de la República, designó al Mgs.
+                                         Roberto Carlos Kury Pesantes como Ministro de Telecomunicaciones y de la Sociedad de
+                                         la Información;
+
+                                         Que, mediante Acuerdo Ministerial No. MINTEL-MINTEL-2025-0005 publicado en el
+                                         Primer Suplemento del Registro Oficial No. 15 de 8 de abril 2025, se expidió la Política
+                                         Pública de Transformación Digital 2025-2030;
+
+                                         Que, mediante Memorando No. MINTEL-SFSIED-2025-0657-M de 22 de octubre de
+                                         2025, el Subsecretario de Fomento de la Sociedad de la Información y Economía Digital
+                                         solicitó autorización al Viceministro de Tecnologías de la Información y Comunicación,
+                                         con el correspondiente informe técnico, para: “[...] motivar la expedición del documento
+                                         antes señalado con el objetivo de contar con la autorización correspondiente, para que
+                                         una vez que se determine la viabilidad técnica jurídica, se disponga el proceso pertinente
+                                         para la emisión del Acuerdo Ministerial de publicación de la "Estrategia para el fomento
+                                         del desarrollo y uso ético y responsable de la Inteligencia Artificial en el
+                                         Ecuador [...]”; y, mediante sumilla inserta en el citado memorando, el Viceministro
+                                         dispuso a la Coordinación General Jurídica: “(…) Favor realizar la respectiva revisión
+                                         jurídica”; y,
+
+                                         En ejercicio de las atribuciones contempladas en el artículo 154 numeral 1 de la
+                                         Constitución; artículo 140 de la Ley Orgánica de Telecomunicaciones; artículo 3 de la
+                                         Ley Orgánica para la Transformación Digital y Audiovisual; y, artículos 47, 65, 67 y 130
+                                         del Código Orgánico Administrativo.
+
+
+                                                                                     3
+                                                                                                                                         2/3
+* Documento firmado electrónicamente por Quipux
+                           Lunes 19 de enero de 2026                                                              Suplemento Nº 206 - Registro Oficial
+
+
+                                                                             ACUERDA:
+
+
+                                       Artículo Único.- EXPEDIR la Estrategia para el Fomento del Desarrollo y Uso Ético
+                                       y Responsable de la Inteligencia Artificial en el Ecuador, misma que consta como
+                                       anexo al presente instrumento y es parte integrante del mismo.
+
+
+                                                                 DISPOSICIONES GENERALES:
+
+
+                                       PRIMERA.- El Viceministerio de Tecnologías de la Información y Comunicación y la
+                                       Subsecretaría de Fomento de la Sociedad de la Información y Economía Digital, áreas
+                                       responsables de la creación de la Estrategia para el Fomento del Desarrollo y Uso Ético y
+                                       Responsable de la Inteligencia Artificial en el Ecuador, realizarán el seguimiento y
+                                       actualización periódica de la misma.
+
+                                       SEGUNDA.- La Subsecretaría de Fomento de la Sociedad de la Información y Economía
+                                       Digital deberá realizar la socialización de la Estrategia, así como coordinar la respectiva
+                                       difusión de manera periódica.
+
+                                       DISPOSICIÓN FINAL.- El presente Acuerdo entrará en vigencia a partir de su
+                                       publicación en el Registro Oficial.
+
+                                       COMUNÍQUESE, PUBLÍQUESE Y CÚMPLASE.-
+                                       Dado en Quito, D.M., a los 22 día(s) del mes de Diciembre de dos mil veinticinco.
+
+
+                                                                Documento firmado electrónicamente
+                                                        SR. MGS. ROBERTO CARLOS KURY PESANTES
+                                                MINISTRO DE TELECOMUNICACIONES Y DE LA SOCIEDAD DE LA
+                                                                     INFORMACIÓN
+
+
+                                                                                 Firmado electrónicamente por:
+                                                                                 ROBERTO CARLOS KURY
+                                                                                 PESANTES
+                                                                                 Validar únicamente con FirmaEC
+
+
+                                                                                                                                                         3/3
+Documento firmado electrónicamente por Quipux
+
+                                                                                          4
+Registro Oficial - Suplemento Nº 206                        Lunes 19 de enero de 2026
+
+
+                    Ministerio de Telecomunicaciones y de
+                        la Sociedad de la Información
+
+
+                          ESTRATEGIA PARA EL
+                       FOMENTO DEL DESARROLLO Y
+                        USO ÉTICO Y RESPONSABLE
+                           DE LA INTELIGENCIA
+                        ARTIFICIAL EN EL ECUADOR
+
+
+                           Subsecretaría de Fomento de la
+                            Sociedad de la Información y
+                                 Economía Digital
+
+
+                               Dirección de Fomento de
+                               Tecnologías Emergentes
+
+
+                                       2025
+
+
+                                          5
+Lunes 19 de enero de 2026                                              Suplemento Nº 206 - Registro Oficial
+
+
+   Estrategia para el fomento del desarrollo y uso ético y responsable de la
+   Inteligencia Artificial en el Ecuador
+   © Ministerio de Telecomunicaciones y Sociedad de la Información
+   Roberto Carlos Kury Pesantes
+   Ministro de Telecomunicaciones y de la Sociedad de la Información
+   Coordinación técnica
+   Ricardo Xavier Gutiérrez Cevallos
+   Viceministro de Tecnologías de la Información y Comunicación
+   Viktor Ulises Aguila Ramírez
+   Subsecretario de la Sociedad de la Información y Economía Digital
+   Marco Javier Insuasti Basantes
+   Director de Fomento de Tecnologías Emergentes
+
+   Gestión internacional
+   Valeria Carolina Arguello Castro
+   Directora de Asuntos Internacionales
+
+   Equipo técnico - Dirección de Fomento de Tecnologías Emergentes
+   Jorge Richard Ortega Poveda
+   Luis Oswaldo Rivera Pastrano
+   Rocío de Jesús Malla Bustamante
+   María Cristina Zaidán Albuja
+   Juan Carlos Chiluiza Mejía
+
+   Con el apoyo y colaboración técnica de
+   Comité de Inteligencia Artificial del Ecuador
+   Cámara de Innovación y Tecnología Ecuatoriana
+   Google Cloud - Spanish Speaking Latin America
+   Amazon Web Services
+   Laboratorio de Ciencia, Tecnología y Sociedad de FLACSO Ecuador (CTS-Lab)
+   Oficina de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO)
+   Programa de las Naciones Unidas para el Desarrollo (PNUD)
+   Banco Interamericano de Desarrollo (BID)
+   Fundación Datalat
+   Sociedad Ecuatoriana de Estadística
+   Asesoría externa y miembros del banco de expertos
+
+
+                                                     2 / 53
+
+                                                          6
+Registro Oficial - Suplemento Nº 206                                                                         Lunes 19 de enero de 2026
+
+
+     TABLA DE CONTENIDO
+     TABLA DE CONTENIDO ................................................................................................................ 3
+    1.      INTRODUCCIÓN ..................................................................................................................... 5
+    2.      MARCO NORMATIVO ............................................................................................................ 6
+         Constitución de la República del Ecuador ................................................................................. 6
+         Ley Orgánica para la Transformación Digital y Audiovisual - LOTDA ........................................ 6
+         Reglamento General a la Ley Orgánica para la Transformación Digital y Audiovisual ............. 7
+         Ley Orgánica de Telecomunicaciones - LOT .............................................................................. 7
+         Ley de Comercio Electrónico, Firmas y Mensajes de Datos ...................................................... 8
+         Ley Orgánica de Emprendimiento e Innovación ....................................................................... 8
+         Ley Orgánica de Protección de Datos Personales ..................................................................... 8
+         Código Orgánico de la Economía Social de los Conocimientos................................................. 8
+         Acuerdo Ministerial 015-2023................................................................................................... 8
+         Política Pública para la Transformación Digital 2025-2030 ...................................................... 9
+    3.      ETAPA PREPARATORIA ........................................................................................................ 10
+         Actores e instancias de coordinación...................................................................................... 11
+         Espacios de participación ciudadana ...................................................................................... 13
+         Comité de IA ............................................................................................................................ 13
+         Construcción de la Estrategia para la IA.................................................................................. 13
+         Mesas de socialización del documento preliminar ................................................................. 14
+         Hoja de Ruta - Cronograma de Desarrollo de la Estrategia de IA del Ecuador ....................... 15
+    4.      DIAGNÓSTICO ...................................................................................................................... 16
+         CONTEXTO GENERAL ............................................................................................................... 16
+            Contexto ecuatoriano en IA ................................................................................................ 18
+            Contexto ecuatoriano en IA según el ILIA 2025 .................................................................. 19
+            Levantamiento de diagnósticos nacionales ........................................................................ 22
+         RIESGOS Y DESAFÍOS ............................................................................................................... 22
+         FODA: IA en Ecuador ............................................................................................................... 23
+            Fortalezas ............................................................................................................................ 23
+
+
+                                                                      3 / 53
+
+                                                                         7
+Lunes 19 de enero de 2026                                                                     Suplemento Nº 206 - Registro Oficial
+
+
+            Oportunidades .................................................................................................................... 23
+            Debilidades .......................................................................................................................... 23
+            Amenazas ............................................................................................................................ 24
+    5.      ESTRATEGIA ......................................................................................................................... 25
+         Objetivo General ..................................................................................................................... 26
+         Objetivos específicos ............................................................................................................... 26
+         Ámbito de aplicación............................................................................................................... 27
+         Visión 2029 .............................................................................................................................. 27
+         Principios ................................................................................................................................. 27
+         EJES, SUBEJES Y LÍNEAS DE ACCIÓN ........................................................................................ 30
+            EJE 1. Gobernanza de la IA .................................................................................................. 30
+            EJE 2. Capacidad y Tecnología ............................................................................................. 32
+            EJE 3. Adopción y desarrollo de la IA .................................................................................. 33
+         INICIATIVAS CON INDICADORES Y METAS POR EJES ............................................................... 34
+            EJE 1: Gobernanza de la IA .................................................................................................. 34
+            EJE 2: Capacidad y Tecnología ............................................................................................. 37
+            EJE 3: Adopción y Desarrollo de la IA .................................................................................. 41
+         SEGUIMIENTO Y COORDINACIÓN ........................................................................................... 45
+    6.      GLOSARIO DE TÉRMINOS .................................................................................................... 47
+    7.      SIGLAS.................................................................................................................................. 50
+    8.      BIBLIOGRAFÍA ...................................................................................................................... 52
+    CONSTRUCCIÓN Y REVISIÓN ....................................................................................................... 53
+
+
+                                                                       4 / 53
+
+                                                                          8
+Registro Oficial - Suplemento Nº 206                                                   Lunes 19 de enero de 2026
+
+
+    1. INTRODUCCIÓN
+
+    La Inteligencia Artificial (IA) se ha consolidado como una nueva tecnología que permite optimizar el
+    desempeño de muchos profesionales y usuarios en general; y, en campos como la salud, la educación, y
+    el gobierno su utilidad destaca en la mejora de la atención ciudadana mediante sus aplicaciones digitales.
+    Por tal motivo, es necesario adoptar las mejores prácticas y estándares internacionales y llevarlas a la
+    realidad nacional, y de esta manera mejorar la calidad de vida de los ecuatorianos, impulsar la economía
+    y proteger el medio ambiente.
+    Con este contexto, el Ministerio de Telecomunicaciones y de la Sociedad de la Información presenta la
+    “Estrategia para el fomento del desarrollo y uso ético y responsable de la inteligencia artificial en el
+    Ecuador” (EFIA-EC) con el fin de impulsar el desarrollo, implementación y adopción segura, ética y
+    responsable de la Inteligencia Artificial, en concordancia con el marco legal y normativo nacional, los
+    principios internacionales y la demanda actual de los sectores productivos y sociales del Ecuador.
+    De esta manera, se busca impulsar la adopción de la IA respetando los derechos fundamentales de la
+    ciudadanía y generando al país un impacto positivo en el desarrollo económico, la inclusión social y la
+    sostenibilidad ambiental, promoviendo de esta manera una real democratización tecnológica.
+    Este documento reconoce que la IA representa tanto una oportunidad como un desafío para el desarrollo
+    sostenible e inclusivo del Ecuador. Por tal motivo, se propone una visión que fomente e impulse la
+    innovación pública, tecnológica y científica y el desarrollo tecnológico, manteniendo aspectos éticos y
+    responsables, aprovechando su diversidad cultural, lingüística y a las brechas socioeconómicas existentes.
+    Esta “Estrategia para el fomento del desarrollo y uso ético y responsable de la inteligencia artificial en el
+    Ecuador” está planteada con una visión de 4 años (2025-2029) y pretende guiar al país en una adopción
+    ética y responsable de la IA, sin comprometer presupuestos específicos, y enfocándose en acciones
+    coordinadas entre entidades gubernamentales y el sector privado.
+    Para su construcción, esta Estrategia se formula con aportes de expertos, academia, ciudadanos y de las
+    mejores prácticas globales, como la Guía del Banco de Desarrollo de América Latina y el Caribe (CAF, por
+    su sigla en inglés) para políticas públicas de IA, para garantizar que la IA beneficie a todos los ecuatorianos,
+    con especial atención a las áreas rurales, comunidades indígenas y pequeñas empresas.
+
+
+                                                      5 / 53
+
+                                                           9
+Lunes 19 de enero de 2026                                                  Suplemento Nº 206 - Registro Oficial
+
+
+    2. MARCO NORMATIVO
+
+   Constitución de la República del Ecuador
+   a)   El artículo 11 establece que el ejercicio de los derechos de las personas, sin discriminación alguna, se
+        regirá por los principios incluidos en el presente artículo en los numerales 1 al 9;
+   b) El artículo 66, determina que se reconocerá y garantizará a las personas los derechos a la libertad,
+      dignidad, integridad y privacidad, los cuales son fundamentales en el contexto del uso de la
+      inteligencia artificial, especialmente en lo relacionado con la protección de datos personales,
+      seguridad digital y la no discriminación;
+   c)   El artículo 147, en sus numerales 3, 5 y 6 establece que son deberes y atribuciones del Presidente de
+        la República, entre otras, definir y dirigir las políticas públicas de la Función Ejecutiva; dirigir la
+        administración pública en forma desconcentrada y expedir los decretos necesarios para su
+        integración, organización, regulación y control; y, crear, modificar y suprimir, los ministerios,
+        entidades e instancias de coordinación;
+   d) El numeral 1 del artículo 154, confiere a las ministras y ministros de Estado, además de las
+      atribuciones establecidas en la ley, la rectoría de las políticas públicas del área a su cargo; así como
+      la facultad de expedir los acuerdos y resoluciones administrativas que requiera su gestión;
+   e) El artículo 226, indica que: “Las instituciones del Estado, sus organismos, dependencias, las servidoras
+      o servidores públicos y las personas que actúen en virtud de una potestad estatal ejercerán
+      solamente las competencias y facultades que les sean atribuidas en la Constitución y la ley. Tendrán
+      el deber de coordinar acciones para el cumplimiento de sus fines y hacer efectivo el goce y ejercicio
+      de los derechos reconocidos en la Constitución”;
+   f)   El artículo 227, determina que la administración pública constituye un servicio a la colectividad que
+        se rige por los principios de eficacia, eficiencia, calidad, jerarquía, desconcentración, coordinación,
+        participación, planificación, transparencia y evaluación.
+   g)   El inciso segundo del Artículo 314, dispone que el Estado garantizará que los servicios públicos,
+        prestados bajo su control y regulación, respondan a principios de obligatoriedad, generalidad,
+        uniformidad, eficiencia, responsabilidad, universalidad, accesibilidad, regularidad, continuidad y
+        calidad;
+   h) El artículo 385, establece: “el sistema nacional de ciencia, tecnología, innovación y saberes
+      ancestrales, en el marco del respeto al ambiente, la naturaleza, la vida, las culturas y la soberanía,
+      tendrá como finalidad: (…) 3. Desarrollar tecnologías e innovaciones que impulsen la producción
+      nacional, eleven la eficiencia y productividad, mejoren la calidad de vida y contribuyan a la realización
+      del buen vivir.”
+
+
+   Ley Orgánica para la Transformación Digital y Audiovisual - LOTDA
+   a)   En el artículo 1 respecto a los objetivos específicos de la Ley Orgánica para la Transformación Digital
+        y Audiovisual literal (b) señala:
+        “Establecer el marco regulatorio para el fomento de la transformación digital de las instituciones
+        públicas, de las empresas privadas y de la sociedad; así como fortalecer el uso efectivo y eficiente de
+        las plataformas, las tecnologías digitales, las redes y servicios digitales con el fin de atraer inversiones,
+
+
+                                                      6 / 53
+
+                                                          10
+Registro Oficial - Suplemento Nº 206                                                    Lunes 19 de enero de 2026
+
+
+         impulsar la economía digital, la eficiencia y el bienestar social, desarrollando habilidades y
+         competencias digitales necesarias para el empleo, educación, salud y productividad”.
+    b) El artículo 2 literal d) incluye entre los ejes de la Ley a: “Tecnologías emergentes para el desarrollo
+       sostenible: Fomento de nuevas tecnologías en las industrias, Fomento de nuevas tecnologías para el
+       medio ambiente, Ciudades Inteligentes y Sostenibles”;
+    c)   En el artículo 3 respecto a la rectoría se indica: “El ente rector en materia de telecomunicaciones será
+         la entidad rectora en transformación digital y gobierno digital, para lo cual ejercerá atribuciones y
+         responsabilidades, así como emitirá las políticas, directrices, acuerdos, normativa y lineamientos
+         necesarios para su implementación.”;
+    d) El artículo 4, determina: “La Transformación Digital constituye el proceso continuo de adopción
+       multimodal de tecnologías digitales que cambian fundamentalmente la forma en que los servicios
+       gubernamentales y del sector privado se idean, planifican, diseñan, implementan y operan, con el
+       objeto de mejorar la eficiencia, seguridad, certeza, velocidad y calidad de los servicios, optimizando
+       sus costos y mejorando las condiciones de transparencia de los procesos y actuaciones del Estado en
+       su interrelación con los ciudadanos.”;
+    e)   En el artículo 7 respecto a las atribuciones del ente rector de transformación digital, se establece
+         entre otras: “(…) b) Emitir políticas públicas, lineamientos, metodologías, regulaciones para la
+         transformación digital, gobierno digital y evaluar su cumplimiento por parte de las entidades del
+         sector público (…)”;
+
+
+    Reglamento General a la Ley Orgánica para la Transformación
+    Digital y Audiovisual
+    a)   El artículo 3 establece: “8) Tecnologías emergentes para el desarrollo sostenible: Son las tecnologías
+         digitales capaces de generar soluciones innovadoras tales como la rebotica, la analítica, la inteligencia
+         artificial, las tecnologías cognitivas, la nanotecnología y el Internet de las cosas (IoT), entre otras, que
+         combinan técnicas avanzadas de producción y operaciones con tecnología, generando un impacto en
+         el ecosistema digital, las personas y las organizaciones”.
+    b) El artículo 25 determina: “Objetivos para lograr la transformación digital. - Para lograr la
+       transformación digital se deberá: 1) Promover el despliegue de la infraestructura tecnológica en todo
+       el territorio nacional; 2) Contar con regulación simplificada y eficiente para procedimientos de
+       adquisición de servicios en la nube, nuevas tecnologías o tecnologías emergentes”;
+
+
+    Ley Orgánica de Telecomunicaciones - LOT
+    El artículo 140, dispone: "Rectoría del sector. El Ministerio encargado del sector de las
+    Telecomunicaciones y de la Sociedad de la Información es el órgano rector de las telecomunicaciones y
+    de la sociedad de la información, informática, tecnologías de la información y las comunicaciones y de la
+    seguridad de la información. A dicho órgano le corresponde el establecimiento de políticas, directrices y
+    planes aplicables en tales áreas para el desarrollo de la sociedad de la información, de conformidad con
+    lo dispuesto en la presente Ley, su Reglamento General y los planes de desarrollo que se establezcan a
+    nivel nacional. Los planes y políticas que dicte dicho Ministerio deberán enmarcarse dentro de los
+    objetivos del Plan Nacional de Desarrollo y serán de cumplimiento obligatorio tanto para el sector público
+    como privado";
+
+
+                                                       7 / 53
+
+                                                          11
+Lunes 19 de enero de 2026                                               Suplemento Nº 206 - Registro Oficial
+
+
+   Ley de Comercio Electrónico, Firmas y Mensajes de Datos
+   a)   El artículo 4 determina: “Los mensajes de datos estarán sometidos a las leyes, reglamentos y acuerdos
+        internacionales relativos a la propiedad intelectual.”;
+   b) El artículo 9, estipula: “Protección de datos. - Para la elaboración, transferencia o utilización de bases
+      de datos, obtenidas directa o indirectamente del uso o transmisión de mensajes de datos, se
+      requerirá el consentimiento expreso del titular de éstos, quien podrá seleccionar la información a
+      compartirse con terceros.”;
+
+
+   Ley Orgánica de Emprendimiento e Innovación
+   El artículo 18 literal e), menciona entre los objetivos específicos de la formación para el emprendimiento,
+   “fortalecer actitudes, aptitudes, la capacidad de emprender y adaptarse a las nuevas tendencias,
+   tecnologías y al avance de la ciencia.”;
+
+
+   Ley Orgánica de Protección de Datos Personales
+   a)   El artículo 4 prohíbe el tratamiento de datos personales que pueda generar discriminación o vulnerar
+        derechos fundamentales.
+   b) En el artículo 8 se establece que el tratamiento de datos personales debe realizarse con el
+      consentimiento libre, específico, informado e inequívoco del titular de los datos.
+   c)   El artículo 10, obliga a los responsables del tratamiento de datos a proporcionar información clara y
+        accesible sobre el uso de los datos personales.
+        Asimismo, se definen los principios de responsabilidad proactiva y transparencia en el manejo de
+        datos.
+   d) El capítulo XII, define las atribuciones y facultades de la autoridad de protección de datos personales,
+      encargada de supervisar el cumplimiento de la ley y garantizar la protección de los derechos de los
+      titulares.
+
+
+   Código Orgánico de la Economía Social de los Conocimientos
+   El artículo 3 numeral 2 y 7 incluye fines asociados con “promover el desarrollo de la ciencia, la tecnología,
+   la innovación y la creatividad para satisfacer necesidades y efectivizar el ejercicio de derechos de las
+   personas, de los pueblos y de la naturaleza”, así como “incentivar la desagregación y transferencia
+   tecnológica a través de mecanismos que permitan la generación de investigación, desarrollo de tecnología
+   e innovación con un alto grado de componente nacional”;
+
+
+   Acuerdo Ministerial 015-2023
+   En su artículo 1, emite la política para el uso adecuado de servicios en la nube en entidades del sector
+   público, para promover y fomentar la transformación digital del Ecuador.
+
+
+                                                    8 / 53
+
+                                                       12
+Registro Oficial - Suplemento Nº 206                                                 Lunes 19 de enero de 2026
+
+
+    En su Artículo 2, establece como objetivo, el regular el uso de servicios en la nube en el sector público,
+    con el fin de promover la adopción segura y eficiente de esta tecnología, maximizando los beneficios y
+    minimizando los riesgos asociados a su uso, considerando la protección de datos, la privacidad y la
+    seguridad de la información.
+
+    En su Artículo 3, dentro del ámbito de aplicación, establece como obligatoria para todas las entidades,
+    instituciones y organismos establecidos en el artículo 225 de la Constitución de la República del Ecuador.
+
+
+    Política Pública para la Transformación Digital 2025-2030
+    “La política pública para la transformación digital, busca la generación de valor económico y social, a
+    través del uso y apropiación, estratégicos y responsables, de las TIC.”
+
+    “Los Estados libres y democráticos deben asegurar y adoptar políticas públicas con procesos deliberativos,
+    participativos, inclusivos, centrados en el ciudadano, que busquen maximizar el bienestar de la sociedad
+    en conjunto, por lo que esta política busca generar las condiciones, basándose en los siguientes principios
+    y derechos digitales:
+
+    a) Las personas en el centro de la transformación digital. - Las personas constituyen el núcleo de la
+    transformación digital. La tecnología debe servir y beneficiar a todos los ciudadanos y empoderarla para
+    que cumplan sus aspiraciones, en total seguridad y con pleno respeto de sus derechos digitales.
+
+    b) Solidaridad e inclusión. - Toda persona debe tener acceso a una tecnología que tenga como fin unir a
+    las personas, no dividirlas. La transformación digital debe contribuir a una sociedad y una economía más
+    justa.
+
+    c) Libertad de elección. - Interacciones con algoritmos y sistemas de inteligencia artificial. Toda persona
+    debe estar empoderada para beneficiarse de las ventajas de la inteligencia artificial a fin de tomar sus
+    propias decisiones con conocimiento de causa en el entorno digital, así como protegida frente a los riesgos
+    y daños a su salud, su seguridad y sus derechos.
+
+    d) Participación en el espacio público digital. - Toda persona debe tener acceso a un entorno digital fiable;
+    el acceso a contenidos diversos contribuye a un debate público plural y debe permitir a toda persona
+    participar en el proceso democrático.
+
+    Toda persona tiene derecho a la libertad de expresión en el entorno digital sin miedo a ser censurada o
+    intimidada. Toda persona debe disponer de medios para saber quién posee o controla los servicios de
+    comunicación que utiliza. Las plataformas en línea de muy gran tamaño deben apoyar el debate
+    democrático libre en línea, habida cuenta de la función que cumplen sus servicios en la configuración de
+    la opinión y el discurso públicos. Deben mitigar los riesgos derivados del funcionamiento y el uso de sus
+    servicios, incluidos los de las campañas de desinformación, y proteger la libertad de expresión.
+
+    e) Seguridad, protección y empoderamiento, un entorno digital protegido y seguro. - Toda persona debe
+    tener acceso a tecnologías, productos y servicios digitales que sean seguros y protejan la intimidad.
+
+    f) Sostenibilidad. - Para evitar que se cause un perjuicio significativo al medio ambiente, los productos y
+    servicios digitales deben diseñarse, producirse, utilizarse, eliminarse y reciclarse de manera que se
+    reduzcan en la mayor medida posible sus efectos negativos ambientales y sociales. Toda persona debe
+    tener acceso a información precisa y fácil de entender sobre los efectos ambientales y el consumo de
+    energía de los productos y servicios digitales que le permita tomar decisiones responsables.”.
+
+
+                                                     9 / 53
+
+                                                        13
+Lunes 19 de enero de 2026                                                Suplemento Nº 206 - Registro Oficial
+
+
+   Tecnologías emergentes para el desarrollo sostenible
+
+   Objetivo
+
+   Promover la apropiación y desarrollo sostenible, innovador y ético de tecnologías nuevas y emergentes
+   en las industrias, atendiendo las necesidades de la población ecuatoriana.
+
+   Estrategias
+
+       ●      Desarrollar un marco normativo flexible y eficiente que permita la experimentación segura de
+              tecnologías nuevas y emergentes, reduciendo la incertidumbre y facilitando el crecimiento y la
+              innovación tecnológica.
+       ●      Fortalecer el ecosistema digital para que potencie la investigación, el desarrollo y la innovación
+              (I+D+i) de las tecnologías nuevas y emergentes en el medio ambiente y las industrias.
+       ●      Crear un sistema de levantamiento de información sobre las tecnologías nuevas y emergentes, a
+              nivel de las industrias y los gobiernos autónomos descentralizados.
+       ●      Promover el uso de las tecnologías nuevas y emergentes para iniciativas ambientales, como
+              reducción de emisiones de gases de efecto invernadero, la optimización del consumo energético
+              en función de la capacidad de cómputo, la minimización de la obsolescencia tecnológica y
+              generación de residuos, impulso a la movilidad sostenible, entre otras.
+
+
+    3. ETAPA PREPARATORIA
+   Los sistemas de inteligencia artificial “son tecnologías de procesamiento de la información que integran
+   modelos y algoritmos que producen una capacidad para aprender y realizar tareas cognitivas, dando lugar
+   a resultados como la predicción y la adopción de decisiones en entornos materiales y virtuales.”, (UNESCO,
+   2021) razón por la cual su implementación debe ser cuidadosamente orientada bajo principios de ética y
+   responsabilidad. En Ecuador, el desarrollo de la IA, en especial en áreas de automatización en sectores
+   industriales y productivos, en la provisión de servicios públicos, y en la recopilación masiva de datos,
+   puede llevar a vulneraciones de derechos fundamentales consagrados por la ley, como la privacidad, la
+   igualdad, y el acceso equitativo a servicios.
+   La intervención estatal es esencial para garantizar que los beneficios de la IA sean accesibles para todos y
+   que no se profundicen las desigualdades sociales. Esto es posible a través del desarrollo e implementación
+   de una estrategia para el fomento del desarrollo y uso ético y responsable de la IA, que debería centrarse
+   en la creación de un marco legal y ético que perdure más allá de los períodos gubernamentales.
+   La implementación de la IA afecta áreas sensibles como el futuro del trabajo, la educación, la salud, la
+   justicia, y la seguridad en el país. A largo plazo, una estrategia bien diseñada puede garantizar que Ecuador
+   aproveche el potencial de la IA mientras mitiga sus riesgos.
+   La estrategia busca, entonces, garantizar la formación de una infraestructura tecnológica accesible, el
+   acceso equitativo a la educación en IA, y la creación de capacidades en investigación y desarrollo.
+
+
+                                                    10 / 53
+
+                                                         14
+Registro Oficial - Suplemento Nº 206                                                  Lunes 19 de enero de 2026
+
+
+    En el marco de la Estrategia de Inteligencia Artificial del Ecuador, los principios innegociables de respeto
+    a la dignidad e integridad humana, así como a los derechos fundamentales y libertades individuales,
+    constituyen el eje rector para el desarrollo y aplicación ética de estas tecnologías. La Ley Orgánica de
+    Protección de Datos Personales (LOPDP) establece que toda acción relacionada con el tratamiento de
+    datos debe garantizar la autodeterminación informativa, la transparencia, la seguridad y la
+    responsabilidad proactiva. Esto implica que los sistemas de IA deben diseñarse y operar bajo estrictos
+    estándares que aseguren el consentimiento informado, la minimización de datos y la protección contra
+    usos discriminatorios o invasivos, alineándose con los principios constitucionales de igualdad, no
+    discriminación y acceso a una vida digna.
+    Además, los marcos internacionales de derechos humanos, como los Principios Rectores sobre las
+    Empresas y los Derechos Humanos de la ONU, refuerzan la obligación de que las tecnologías emergentes
+    respeten los derechos inherentes a toda persona. En este sentido, la IA no puede ser una excepción: su
+    desarrollo debe estar orientado al bienestar social, evitando cualquier forma de vigilancia masiva,
+    manipulación o exclusión.
+    Una estrategia para el desarrollo, adopción e implementación de la IA cerraría vacíos críticos en sectores
+    prioritarios, como:
+         •     Salud: Diagnósticos asistidos por IA en zonas rurales.
+         •     Educación: Plataformas adaptativas para reducir brechas de aprendizaje.
+         •     Justicia: Sistemas transparentes para evitar sesgos algorítmicos; entre otros.
+    Ecuador ya tiene bases importantes, principalmente gracias a las universidades, que lideran proyectos de
+    IA, y startups locales, que desarrollan soluciones en agricultura y finanzas. Sin embargo, la inversión en
+    I+D (0.44% del PIB) sigue por debajo del promedio regional (CENIA, 2025). Por ello, es necesario aumentar
+    la inversión en investigación y desarrollo, sin descuidar, la sensibilización sobre los riesgos que conlleva la
+    IA, especialmente en términos de derechos humanos. La asignación de fondos para la creación de
+    capacidades en IA, la capacitación de recursos humanos y el desarrollo de un marco regulador es crucial.
+    Por esta razón, la colaboración con actores internacionales (ej. UNESCO, BID, PNUD) para transferencia
+    tecnológica, y el sector privado se vuelve una estrategia potencial que podría ayudar a financiar estos
+    esfuerzos.
+    El sistema de planificación ecuatoriano hace hincapié en que la sostenibilidad ambiental debe ser un
+    componente integral de cualquier política. En este caso, aunque la IA no es intrínsecamente perjudicial
+    para el medio ambiente, su implementación, especialmente en áreas como los centros de datos y las
+    infraestructuras tecnológicas, puede generar un impacto ambiental considerable. Por eso, el diseño de la
+    estrategia debe contemplar el uso eficiente de recursos naturales en el desarrollo de infraestructuras
+    tecnológicas. En este aspecto, es conocido que la computación de alto rendimiento y el almacenamiento
+    masivo de datos requieren gran consumo de energía, y la eficiencia energética y la utilización de energías
+    renovables deben fomentarse, alineándose con los principios constitucionales sobre los derechos de la
+    naturaleza.
+
+
+    Actores e instancias de coordinación
+    Una vez determinada la necesidad de una estrategia para el desarrollo, adopción e implementación de la
+    lA, se procedió a identificar y convocar la participación de entidades e instituciones del Sector Público,
+    Academia, Sector Privado, Sociedad Civil, entre otros, atendiendo principios de representatividad e
+    incidencia a nivel nacional. De estos actores, se destacaron por su participación activa, los siguientes:
+
+         •     Amazon Web Services (AWS)
+
+
+                                                     11 / 53
+
+                                                         15
+Lunes 19 de enero de 2026                                           Suplemento Nº 206 - Registro Oficial
+
+
+     •   Banco Central del Ecuador (BCE)
+     •   Cámara de Innovación y Tecnología Ecuatoriana (CITEC)
+     •   Consejo de Educación Superior (CES)
+     •   Dirección General de Registro Civil, Identificación y Cedulación
+     •   Dirección Nacional de Registros Públicos
+     •   Directorio Legislativo
+     •   Fundación Meridiano
+     •   Fundación para la enseñanza de la inteligencia artificial (FEIA)
+     •   Google Cloud - Spanish Speaking Latin America
+     •   Instituto Ecuatoriano de Seguridad Social
+     •   In Solidum Abogados
+     •   Instituto Superior Tecnológico Luis Arboleda Martínez
+     •   Microsoft
+     •   Ministerio de Educación, Deporte y Cultura
+     •   Ministerio de Ambiente y Energía
+     •   Ministerio de Gobierno
+     •   Ministerio de Telecomunicaciones y de la Sociedad de la Información
+     •   Ministerio de Infraestructura y Transporte
+     •   Ministerio del Interior
+     •   Ministerio del Trabajo
+     •   Ministerio de la Producción, Comercio Exterior e Inversiones
+     •   Niubox
+     •   Presidencia de la República del Ecuador
+     •   Programa de las Naciones Unidas para el Desarrollo
+     •   Secretaría de Gestión y Desarrollo de Pueblos y Nacionalidades
+     •   Secretaría de Inversiones Público Privadas
+     •   Secretaría General de Integridad Pública
+     •   Secretaría Nacional de Gestión de Riesgos
+     •   Secretaria Nacional de la Administración Pública y Planificación
+     •   Secretaría Técnica Ecuador Crece sin Desnutrición Infantil
+     •   Servicio de Rentas Internas del Ecuador
+     •   Servicio Ecuatoriano de Normalización
+     •   Servicio Nacional de Contratación Pública
+     •   Servicio Nacional de Derechos Intelectuales
+     •   Smartmedia
+     •   Telefónica
+     •   Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO)
+     •   Universidad de las Américas /SPINGARN
+     •   Universidad de la Fuerzas Armadas - ESPE
+     •   Universidad Estatal del Sur de Manabí
+     •   Universidad Laica Vicente Rocafuerte
+
+
+                                            12 / 53
+
+                                                      16
+Registro Oficial - Suplemento Nº 206                                                   Lunes 19 de enero de 2026
+
+
+    Espacios de participación ciudadana
+    Se promovieron varios espacios de participación ciudadana, entendiendo que estos otorgan legitimidad
+    al proceso de formulación de la estrategia, conforme lo establecido en la normativa aplicable, de los
+    cuales se puede citar los siguientes ejemplos:
+
+
+    Comité de IA
+    Mediante el Acuerdo Ministerial No. MINTEL-MINTEL-2023-0019, emitido el 30 de noviembre de 2023, se
+    dispuso que se ejecuten las acciones tendientes a la creación del Comité de Inteligencia Artificial.
+
+    Este Comité actuó en el marco de la Ley Orgánica para la Transformación Digital y Audiovisual y su
+    Reglamento General, así como de las directrices emitidas por el ente rector de la transformación digital y
+    gobierno digital.
+
+    El MINTEL, acorde a las recomendaciones del Comité de Inteligencia Artificial, conformado el 31 de julio
+    del 2024, y en funciones hasta el 30 de diciembre de 2024; elaboró el proyecto de “Estrategia para el
+    fomento del desarrollo y uso ético y responsable de la Inteligencia Artificial en el Ecuador”. Para el cual
+    también se contó con el acompañamiento y asesoría legal de la Cámara de Innovación y Tecnología
+    Ecuatoriana (CITEC). La propuesta de Estrategia de IA se generó, como ya se mencionó, en el marco de la
+    Ley de Transformación Digital y Audiovisual, con el objetivo de establecer un marco normativo para el
+    desarrollo y uso de la Inteligencia Artificial (IA) en el Ecuador.
+
+    El documento generado se envió a las instituciones y entidades públicas mediante Oficio Nro. MINTEL-
+    MINTEL-2024-0697-O de 13 de diciembre de 2024, requiriendo el aporte al mencionado proyecto para
+    perfeccionar en conjunto la Estrategia. Esta propuesta se publicó en su momento en el Observatorio
+    Ecuador digital de MINTEL, accesible mediante el link:
+
+    https://observatorioecuadordigital.mintel.gob.ec/biblio-comite-ia/
+
+    En este enlace, los convocados pudieron generar comentarios o sugerencias en línea a cada uno de los
+    artículos del proyecto mediante el formulario elaborado para el efecto. Para cumplir con esta solicitud, se
+    determinó un plazo inicial que fenecía el 20 de diciembre de 2024, pero posteriormente en atención a las
+    solicitudes generadas por las instituciones, se extendió esta posibilidad hasta el 31 de diciembre de 2024.
+
+
+    Construcción de la Estrategia para la IA
+    De igual manera, mediante oficio Nro. MINTEL-SFSIED-2024-0611-O de 10 de diciembre de 2024, se
+    requirió los aportes de las Instituciones y Entidades adscritas y relacionadas al proyecto de "Estrategia
+    para el fomento del desarrollo y uso ético y responsable de la Inteligencia Artificial en el Ecuador", dando
+    un plazo inicial hasta el día martes 17 de diciembre del 2024, lo cual y al igual que en el caso de la solicitud
+    cursada a las demás instituciones y entidades públicas, se amplió hasta el 31 de diciembre de 2024. Estos
+    aportes fueron recopilados a través del mismo enlace ya mencionado.
+
+    Como resultado de este proceso se pudo contabilizar un total de 49 fuentes de comentarios y aportes al
+    documento publicado. Cada uno de ellos hizo diversas observaciones y sugerencias a algunos artículos de
+    la propuesta.
+
+
+                                                     13 / 53
+
+                                                          17
+Lunes 19 de enero de 2026                                               Suplemento Nº 206 - Registro Oficial
+
+
+   Mesas de socialización del documento preliminar
+   Con el documento construido en su versión preliminar, se realizaron varios eventos para socializarlo y
+   recibir comentarios y observaciones de parte de los diferentes actores del ecosistema.
+
+        •    En la plataforma Diálogo 2.0, la propuesta de Estrategia se publicó y mantuvo disponible para
+             ser revisada por la ciudadanía, del 01 al 11 de agosto de 2025, a través del enlace:
+             https://aportecivico.gobiernoelectronico.gob.ec/legislation/processes/78/draft_versions/99
+        •    El día miércoles 6 de agosto de 2025 a las 11h00, en las aulas de la Universidad Técnica
+             Particular de Loja, sede Quito, se realizó el taller de socialización de la propuesta de “Estrategia
+             para el fomento del desarrollo y el uso ético y responsable de la inteligencia artificial en el
+             Ecuador”, que contó con la participación de actores de la academia, sector privado y sector
+             público.
+        •    Mediante Oficio Nro. MINTEL-VTIC-2025-0073-O se convocó a los diferentes Ministerios que
+             están relacionados con el cumplimiento de las metas planteadas en la propuesta de Estrategia,
+             a un taller para la revisión del documento en el Ministerio de Telecomunicaciones y de la
+             Sociedad de la Información en la sala de reuniones, que se realizó el viernes 5 de septiembre
+             de 2025 a las 15h00.
+        •    Con memorando Nro. MINTEL-SFSIED-2025-0551-M se convocó a reunión del día 09 de
+             septiembre de 2025, a las áreas internas del Ministerio, con la finalidad de validar los
+             compromisos que se establecen en la propuesta de Estrategia.
+
+   Con todas estas jornadas de socialización, se ha dado cumplimiento a los procesos de participación
+   ciudadana que garantizan un contenido validado y que a su vez sea aplicable en su fase de ejecución.
+
+
+                                                   14 / 53
+
+                                                       18
+Registro Oficial - Suplemento Nº 206                 Lunes 19 de enero de 2026
+
+
+    Hoja de Ruta - Cronograma de Desarrollo de la Estrategia de IA del
+    Ecuador
+
+
+                                       15 / 53
+
+                                          19
+Lunes 19 de enero de 2026                                                Suplemento Nº 206 - Registro Oficial
+
+
+    4. DIAGNÓSTICO
+   La inteligencia artificial es una tecnología con el potencial de transformar la sociedad en muchos aspectos,
+   pues puede utilizarse para mejorar la eficiencia y la productividad, resolver problemas complejos, y crear
+   nuevas oportunidades.
+   El gobierno de Ecuador está comprometido a desarrollar una Estrategia para la IA que permita a la
+   ciudadanía aprovechar las oportunidades de esta tecnología. Este instrumento se basa en principios que
+   establecen que la IA debe ser accesible y beneficiosa para todos las y los ecuatorianos,
+   independientemente de su origen o situación socioeconómica, debe desarrollarse y utilizarse de manera
+   responsable, teniendo en cuenta los posibles riesgos y beneficios, y que el desarrollo y el uso de la IA
+   deben ser transparentes y abiertos a la supervisión pública.
+   La rápida evolución de la IA a nivel global está transformando sectores clave como la educación, la salud,
+   la seguridad y la producción, generando nuevas oportunidades para el desarrollo económico y social. Sin
+   embargo, en Ecuador, la adopción, el uso y desarrollo de la IA, en un entorno ético y responsable, aún
+   enfrentan barreras significativas que limitan su aprovechamiento pleno.
+   Esa rápida evolución, en Ecuador, en el 2024 se evidenciaba con un 36% de trabajadores, que habían
+   usado herramientas de IA en sus tareas (estudio de la plataforma Multitrabajos, 2024). Esto generó la
+   necesidad de una actuación estatal que al tiempo que asegure la conformidad con los derechos
+   ciudadanos consagrados, sea una solución normativa sostenible en el tiempo para la adopción ética y
+   responsable de la inteligencia artificial.
+   Asimismo, la inexistencia de instrumentos de planificación específicos para abordar la IA revela la
+   necesidad de identificar y analizar acciones ejecutadas y sus resultados.
+   Se considera, también, su factibilidad en términos técnicos, políticos y financieros que puedan ser
+   movilizados, para garantizar el éxito de su implementación, y su concordancia con los derechos de la
+   naturaleza consagrados.
+
+
+   CONTEXTO GENERAL
+   Los países que crean y aprovechan las Tecnologías de la Información y Comunicación (TIC) de forma
+   inteligente son los más desarrollados según la Unión Internacional de Telecomunicaciones (UIT), lo cual
+   complementa definiendo a la Transformación Digital como el proceso mediante el cual las actividades
+   empresariales sectoriales como la investigación y desarrollo, la producción, los servicios, entre otros, se
+   optimizan, reconstruyen e integran. Las modalidades de desarrollo de los sectores se reforman e innovan
+   revolucionariamente con aplicaciones avanzadas de las TIC.
+   Para lograr una eficiente transformación digital en el Ecuador, se debe fortalecer la cultura digital, cambiar
+   la mentalidad en diversos sectores de la economía y la sociedad, para reestructurar los procesos
+   productivos, además de fomentar el uso adecuado, adopción y apropiación de las tecnologías de la
+   información y la comunicación.
+   La transformación digital, bajo estas consideraciones, constituye un proceso complejo que requiere la
+   participación de diferentes actores, no sólo de áreas técnicas de TIC. La interacción y consulta a otras
+   instancias, permite a los responsables de la coordinación estatal de la transformación digital obtener una
+   visión más completa de los retos y oportunidades que enfrenta este proceso, así como de las posibles
+   soluciones.
+
+
+                                                    16 / 53
+
+                                                        20
+Registro Oficial - Suplemento Nº 206                                                Lunes 19 de enero de 2026
+
+
+    La inteligencia artificial es una tecnología que se configura como una de esas soluciones para la
+    transformación digital, ya que se ha convertido en una de las tecnologías más transformadoras del siglo
+    XXI, con aplicaciones en diversos sectores como salud, educación, justicia, seguridad, producción y
+    servicios públicos. Su potencial para mejorar la eficiencia, la productividad y la calidad de vida es
+    incuestionable. Sin embargo, su desarrollo y uso también plantean desafíos éticos, sociales y legales,
+    como la protección de datos personales, la privacidad, la no discriminación y la transparencia en la toma
+    de decisiones automatizadas. En este sentido, la necesidad inmediata es establecer una gobernanza de
+    esta nueva tecnología a nivel nacional.
+
+    El Índice Latinoamericano de Inteligencia Artificial ubica al Ecuador en la categoría de país “adoptante
+    tardío”, destacando que sólo el 0,44% del PIB está destinado a Investigación y Desarrollo; y que, sobre
+    posibles 100 puntos en cada categoría/dimensión, en el pasado 2024, Ecuador obtuvo los siguientes
+    resultados, por lo que promover la investigación, la innovación y la adopción de IA en sector estratégicos
+    es necesario.
+
+                     Figura 1. Ecuador en el Índice Latinoamericano de Inteligencia Artificial
+
+
+    Fuente: (CENIA, 2025)
+
+    Con estos resultados, que muestran un incipiente estado de la regulación, visión e institucionalidad, y en
+    cumplimiento a lo dispuesto en la LOTDA y su Reglamento, se justifica que el MINTEL emita políticas,
+    directrices, acuerdos, normativa y lineamientos que permitan fomentar la transformación digital y sus
+    herramientas, como es el caso de la Inteligencia Artificial.
+    Hay que tener presente, que, desde 2018, el Ecuador se ha esforzado por consolidar una estrategia digital
+    sin lograr diseñar instrumentos de política de IA. Esto se debe, en gran medida, a que los emprendimientos
+    basados en IA en el país están creciendo de manera desarticulada y no logran posicionar sus beneficios y
+    riesgos ante la opinión pública. Otra razón radica en la debilidad crítica de los órganos legislativos con
+
+
+                                                   17 / 53
+
+                                                       21
+Lunes 19 de enero de 2026                                               Suplemento Nº 206 - Registro Oficial
+
+
+   respecto a la regulación de tecnologías emergentes debida a su relativa falta de experiencia. (Scherer,
+   2015)
+   Algo similar muestra el Government AI Readiness Index 2024, publicado por Oxford Insights, en el cual,
+   Ecuador destaca en el pilar de “Datos e Infraestructura" gracias a mejoras en acceso a internet y
+   disponibilidad de datos, aunque sigue rezagado en "Gobierno" y "Sector Tecnológico", donde se concluye
+   que la falta de una política nacional de IA coherente y una inversión tecnológica más robusta limitan el
+   potencial del país (Oxford Insights, 2024). De manera complementaria, se evidencia estadísticamente que
+   la IA es una tecnología disruptiva con potencial para mejorar la eficiencia, productividad y calidad de vida.
+   Según la OECD, la IA podría aportar 15,7 billones de dólares a la economía global para 2030, una
+   oportunidad que Ecuador debe aprovechar.
+
+   Contexto ecuatoriano en IA
+   En Ecuador, se han identificado algunas iniciativas o proyectos relacionados con el uso y aprovechamiento
+   de la IA, que se resumen en un diagnóstico que muestra el siguiente panorama general:
+
+   1.   Investigación y desarrollo:
+
+            •   Iniciativas principalmente académicas concentradas en universidades como la Escuela
+                Superior Politécnica del Litoral, Universidad San Francisco de Quito, Escuela Politécnica
+                Nacional y Yachay Tech.
+            •   Producción científica limitada: aproximadamente 120 publicaciones relacionadas con IA del
+                2020 al 2023. (Scopus, 2025)
+            •   Débil articulación entre academia, industria y sector público.
+
+   2.   Sector productivo:
+
+            •   Adopción limitada principalmente en el sector financiero (sistemas antifraude, análisis
+                crediticio), telecomunicaciones (atención al cliente) y comercio electrónico (sistemas de
+                recomendación).
+            •   Predominio de soluciones importadas frente a desarrollos locales.
+            •   Bajo nivel de inversión privada en I+D+i (estimada en menos del 0.2% del PIB). (INEC, 2024)
+
+   3.   Sector público:
+
+        Experiencias aisladas sin una estrategia coordinada:
+
+            •   IESS: Sistemas predictivos para gestión de servicios
+            •   SRI: Herramientas de análisis para detección de evasión fiscal
+            •   ECU911: Sistemas de videovigilancia con capacidades de análisis
+            •   Ministerio de Salud: Proyectos piloto en telemedicina y diagnóstico asistido
+
+   4.   Infraestructura:
+
+            •   Cobertura desigual de internet (73,6% urbana, 48.1% rural) (INEC, 2024)
+            •   Brecha digital que afecta a zonas rurales y poblaciones vulnerables
+            •   Costo de conectividad superior al promedio regional (5.4% del ingreso mensual per cápita)
+            •   Limitaciones en capacidad de procesamiento y almacenamiento de datos (centros de datos)
+
+
+                                                   18 / 53
+
+                                                       22
+Registro Oficial - Suplemento Nº 206                                             Lunes 19 de enero de 2026
+
+
+    5.   Capital Humano:
+
+             •   Oferta educativa limitada en IA, concentrada en las principales ciudades
+             •   Menos de 10 programas de postgrado especializados en IA o ciencia de datos (CES, 2025)
+             •   Fuga de talentos hacia polos tecnológicos internacionales
+             •   Subrepresentación de mujeres y diversidad étnica en campos STEM (menos del 30%)
+
+    6.   Marco Normativo:
+
+             •   Normativa de Protección de Datos Personales sin estructura de gobernanza consolidada.
+             •   Vacíos regulatorios en temas específicos como IA, responsabilidad algorítmica y ética de la
+                 IA
+             •   Limitada consideración de impactos sociales y laborales
+             •   La Superintendencia de Competencia Económica (SCE) del Ecuador ha presentado el Código
+                 de Ética para el uso de la IA y la guía de Uso de herramientas de la IA, en marzo de 2025.
+             •   El 30 de abril de 2025, la Junta de Política y Regulación Financiera implementó un marco
+                 regulatorio para servicios financieros que utilizan tecnologías avanzadas y emergentes, con
+                 el objetivo de mitigar los riesgos asociados a estas innovaciones
+
+    La IA ofrece a Ecuador la oportunidad de resolver grandes desafíos: mejorar la atención médica en zonas
+    remotas, modernizar la agricultura y agilizar los servicios gubernamentales. Sin embargo, también
+    conlleva riesgos, como violaciones de la privacidad o decisiones injustas si la IA no se gestiona
+    adecuadamente.
+
+             o   Oportunidad: A nivel mundial, la IA podría aportar 15,7 billones de dólares a la economía
+                 para 2030 (oecd.ai). Ecuador puede aprovechar esta oportunidad capacitando talento y
+                 creando soluciones locales.
+             o   Necesidad: Sólo el 0,44 % del PIB de Ecuador se destina a investigación y desarrollo (ILIA
+                 2024), muy por debajo de países como Brasil (1,2 %). Necesitamos un plan para ponernos al
+                 día.
+             o   Riesgos: Sin normativa, la IA podría ampliar las brechas existentes: ya que el 73 % de las
+                 zonas urbanas tienen internet, pero solo el 46 % de las rurales lo tienen.
+
+
+    Contexto ecuatoriano en IA según el ILIA 2025
+    De acuerdo con el Índice Latinoamericano de Inteligencia Artificial, desarrollado por CEPAL y CENIA,
+    Ecuador se encuentra en una posición intermedia-baja en la región en cuanto a preparación para la IA,
+    con desafíos importantes en las tres dimensiones evaluadas (CENIA, 2025):
+
+    1.   Factores Habilitantes:
+
+    a)   Infraestructura digital
+
+         • Ecuador muestra mejoras significativas en conectividad, especialmente en velocidad de
+             descarga móvil (34.60 Mbps) y cobertura de redes 5G (22%), aunque aún por debajo del
+             promedio regional en algunos indicadores.
+         •   El porcentaje de hogares con acceso a Internet es del 66%, ligeramente superior al promedio
+             regional (63.8%).
+
+
+                                                  19 / 53
+
+                                                      23
+Lunes 19 de enero de 2026                                                               Suplemento Nº 206 - Registro Oficial
+
+
+          •     Asequibilidad de smartphones: 162.24 smartphones por PIB per cápita (PPA), por debajo del
+                promedio regional (352.47).
+          •     Adopción de IPv6: 25.14%, cercano al promedio regional (28.21%).
+
+   b)      Capital humano
+
+          •     Educación temprana en IA: Ecuador es uno de los 6 países que ha incorporado contenidos de IA
+                en el currículo escolar (categoría 5 = implementado), un avance significativo respecto a 2024.
+          •     Demanda de cursos de IA: Ocupa el 3er lugar regional con 3027 inscripciones por millón de
+                personas económicamente activas, muy por encima del promedio (1964).
+          •     Concentración de habilidades en IA: 0.00156% de profesionales con habilidades en IA, aún bajo.
+
+   c)      Ecosistema digital
+
+          •     Centros de datos certificados: 12 centros (0.67 por millón de habitantes), por encima del
+                promedio regional (0.84).
+          •     Capacidad de GPU: 26.0 Teraflops1 por millón de habitantes, por debajo del promedio (34.2).
+
+
+   2.     Investigación, Desarrollo y Adopción:
+
+   a)      Producción científica:
+
+          •     Ecuador no figura entre los 5 países con mayor concentración de investigadores en IA (Brasil,
+                México, Colombia, Chile, Argentina concentran el 90% de las publicaciones).
+          •     Sin embargo, muestra avances en investigación consistente y participación en conferencias
+                internacionales, aunque aún limitada.
+
+   b)      Patentes:
+
+          •     No se reportan avances significativos; la generación de propiedad intelectual en IA sigue siendo
+                baja en relación al 2024.
+
+   c)      Adopción empresarial:
+
+          •     Se mantiene el uso de IA en sectores como financiero y telecomunicaciones, pero con un
+                crecimiento en adopción de IA generativa.
+          •     Ecuador es uno de los países con mayor intensidad de uso de IA web avanzada, lo que sugiere
+                una adopción creciente en el sector productivo.
+
+
+   1
+       Teraflop (TFLOP): Es una unidad de medida de rendimiento informático que equivale a un billón (102) de cálculos de punto flotante
+   por segundo. Se utiliza para medir la potencia de cálculo de un sistema, como una consola de videojuegos o un superordenador, y
+   es una métrica clave en campos como el de los videojuegos, la inteligencia artificial y las simulaciones científicas.
+
+
+                                                               20 / 53
+
+                                                                    24
+Registro Oficial - Suplemento Nº 206                                              Lunes 19 de enero de 2026
+
+
+    d)   Inversión en I+D:
+
+         •   Sigue por debajo del promedio regional, aunque se observa un aumento en el gasto en I+D en
+             relación al PIB (0.44% en 2024, sin dato explícito en 2025, pero se menciona mejora en varios
+             países).
+
+    e)   Startups basadas en IA:
+
+         •   No se especifica un número exacto, pero se destaca que Ecuador está en el grupo de países con
+             ecosistemas de datos en desarrollo, lo que sugiere un entorno aún incipiente para startups de
+             IA.
+
+    3.   Gobernanza:
+
+    a)   Marco regulatorio:
+
+         •   Ecuador no cuenta con una estrategia nacional de IA formal, pero se menciona que está
+             en proceso de elaboración (junto con otros 3 países).
+         •   Sigue sin normativa específica para IA, aunque hay avances en protección de datos personales y
+             ciberseguridad.
+
+    b)   Políticas públicas:
+
+         •   No se reporta una política nacional formal, pero hay esfuerzos en curso para desarrollar una
+             hoja de ruta.
+
+    c)   Institucionalidad:
+
+         •   Persiste la desarticulación entre ministerios, aunque se observa un mayor involucramiento en
+             foros internacionales.
+
+    d)   Ética y equidad:
+
+         •   No se mencionan avances específicos en directrices éticas para IA, aunque el tema es abordado
+             a nivel regional como un desafío pendiente.
+
+    El ILIA 2025 identifica a Ecuador como uno de los países de mayor crecimiento acelerado en América
+    Latina, situándolo en el grupo de "adoptantes tardíos en despertar". Los datos revelan avances notorios
+    en su ecosistema de inteligencia artificial, particularmente en educación temprana en IA, donde Ecuador
+    se ubica entre los 6 países que ya han incorporado estos contenidos en su currículo escolar oficial.
+
+    Además, ocupa el tercer lugar regional en demanda de cursos de IA, con 3,027 inscripciones por millón
+    de personas económicamente activas, muy por encima del promedio regional. Estos logros en capital
+    humano se complementan con mejoras sustanciales en infraestructura digital, incluyendo avances en
+    cobertura 5G y capacidad de datos. Si bien persisten desafíos en investigación e innovación, esta
+    evaluación posiciona a Ecuador en una trayectoria prometedora que comienza a cerrar la brecha con los
+    líderes regionales como Brasil, México, Chile y Colombia.
+
+
+                                                  21 / 53
+
+                                                      25
+Lunes 19 de enero de 2026                                                Suplemento Nº 206 - Registro Oficial
+
+
+   Levantamiento de diagnósticos nacionales
+   Como parte del compromiso adquirido por Ecuador, en el 2022, desde el 2024 se puso en marcha la
+   aplicación de la Metodología de evaluación del estado de preparación: una herramienta de la
+   Recomendación sobre la Ética de la Inteligencia Artificial de la UNESCO (RAM por sus siglas en inglés). Este
+   instrumento permite al Ecuador conocer sus desafíos para desarrollar regulaciones y políticas de la IA.
+
+   La Facultad Latinoamericana de Ciencias Sociales (FLACSO), y precisamente el Laboratorio de Ciencia,
+   Tecnología y Sociedad, evaluó al Ecuador a través de esta metodología internacional. La RAM cuenta con
+   seis secciones: 1) general; 2) jurídica; 3) social/cultural; 4) científica/educativa; 5) económica; y, 6)
+   tecnológica de infraestructura. El instrumento de evaluación consta de un total de 190 preguntas, de las
+   cuales el 52.1% son de evaluación, 32,11% de carácter cuantitativo y el 15.79% cualitativo. Las
+   dimensiones jurídicas (61 preguntas), científica-educativa (44 preguntas) y social y cultural (40 preguntas)
+   concentran la mayor parte del cuestionario, evidenciando la multidimensionalidad de la evaluación y la
+   importancia de contar con un modelo de gobernanza IA.
+
+   Finalmente, dentro de otra colaboración internacional, MINTEL inició en 2024, con el Programa de las
+   Naciones Unidas para el Desarrollo (PNUD) su Evaluación del Panorama de la Inteligencia Artificial (AILA
+   por sus siglas en inglés) a nivel del gobierno y las funciones del Estado. En agosto de 2025, PNUD entregó
+   a MINTEL los resultados de la Evaluación en Ecuador.
+
+   Esta metodología global aplicada en 9 países, desarrollada por el PNUD, mide el nivel de preparación de
+   los gobiernos para el desarrollo, adopción, y uso ético, responsable e inclusivo de la inteligencia artificial.
+   La información entregada facilita al país identificar el nivel de preparación para integrar esta nueva
+   tecnología en sus políticas y lineamientos. La evaluación del gobierno propone tres pilares: 1) como
+   facilitador del entorno de la IA; 2) como usuario; y, 3) ética de la IA. Los resultados del AILA muestran
+   necesidad de acciones para cerrar brechas en las capacidades y el desarrollo de talento humano.
+
+   El ILIA, por su parte y como se mencionó, concluyó que Ecuador tiene debilidades en factores habilitantes
+   (infraestructura, datos, talento) y en adopción (baja en investigación y desarrollo).
+
+
+   RIESGOS Y DESAFÍOS
+   El uso de la IA también presenta riesgos que deben ser mitigados y que han sido tomados en cuenta en
+   los lineamientos propuestos, como:
+
+       ●    Discriminación y sesgos: Los sistemas basados en IA pueden perpetuar o amplificar sesgos
+            existentes si no se diseñan con criterios de equidad.
+       ●    Privacidad y protección de datos: El uso masivo de datos personales en sistemas basados en IA
+            requiere garantías más robustas para proteger la privacidad de los ciudadanos.
+       ●    Responsabilidad y transparencia: Es necesario establecer mecanismos claros para atribuir
+            responsabilidades en caso de errores o daños causados por sistemas basados en IA.
+       ●    Uso indebido: Es necesario gestionar adecuadamente la IA, para no tener implicaciones
+            significativas negativas para la sociedad, y mitigar los riesgos, asegurando que las políticas, los
+            procesos y los marcos regulatorios sean lo suficientemente robustos para prevenir y responder
+            a los usos indebidos razonablemente previsibles.
+       ●    Riesgos emergentes: Uso indebido para desinformación (ej., campañas electorales manipuladas)
+            y dependencia de proveedores extranjeros, que afectan la soberanía tecnológica.
+
+
+                                                    22 / 53
+
+                                                        26
+Registro Oficial - Suplemento Nº 206                                                 Lunes 19 de enero de 2026
+
+
+    Por otro lado, las tendencias globales, como en las que la IA generativa (ej., modelos como GPT) está
+    revolucionando sectores como educación y salud, se transforman en desafíos que plantean posibilidades
+    como el desarrollo de aplicaciones potenciales en Ecuador, como asistentes educativos en kichwa o
+    diagnóstico médico asistido en zonas rurales. Asimismo, se identifican otros desafíos como brecha digital
+    rural-urbana, falta de talento, regulaciones incipientes y resistencia cultural a la IA.
+
+
+    FODA: IA en Ecuador
+    A continuación, se presenta un panorama de la IA en Ecuador, basado en datos locales y comparaciones
+    globales (p. ej., oecd.ai, ILIA 2024):
+
+    Fortalezas
+        ●   Marco legal de protección de datos personales reciente y alineado con estándares
+            internacionales.
+        ●   Herramientas e información proporcionadas por organismos internacionales (PNUD, UNESCO)
+            en el contexto ecuatoriano
+        ●   Metodología de evaluación de iniciativas de inteligencia artificial, generada por el Comité de IA
+        ●   Alta penetración de telefonía móvil como plataforma para servicios basados en IA.
+        ●   Conocimientos ancestrales y biodiversidad como fuentes únicas de datos para aplicaciones
+            basadas en IA.
+        ●   Ecuador está adherido a las Recomendaciones de Ética en IA de la UNESCO (2023).
+        ●   Ley Orgánica para la Transformación digital y Audiovisual, y su reglamento.
+
+    Oportunidades
+        ●   Talento joven con interés creciente en tecnologías emergentes.
+        ●   Experiencias exitosas en gobierno electrónico que pueden escalar con IA.
+        ●   Aprovechamiento de mercados regionales para soluciones ecuatorianas.
+        ●   Impacto significativo en inclusión social y laboral.
+        ●   Potencial transformador para los sectores social, económico y productivo.
+        ●   Cooperación internacional en transferencia             tecnológica   y   participación   en   redes
+            latinoamericanas de colaboración en IA.
+        ●   Necesidad de aplicaciones para problemas locales específicos (biodiversidad, multiculturalidad).
+
+    Debilidades
+        ●   Brecha digital persistente en zonas rurales y urbano marginales.
+        ●   Limitada inversión pública y privada en I+D+i.
+        ●   Escasez de talento especializado en IA y tecnologías emergentes.
+        ●   Dependencia tecnológica del exterior (hardware, software, metodologías).
+        ●   Infraestructura de datos insuficiente (repositorios, centros de procesamiento).
+        ●   Desarticulación entre actores del ecosistema digital.
+
+
+                                                    23 / 53
+
+                                                        27
+Lunes 19 de enero de 2026                                               Suplemento Nº 206 - Registro Oficial
+
+
+       ●   Internet limitado en zonas rurales, la cobertura aún es deficiente en comparación con zonas
+           urbanas.
+
+   Amenazas
+       ●   Ampliación de brechas sociales por adopción desigual de la IA.
+       ●   Riesgos éticos por implementación sin controles adecuados.
+       ●   Pérdida de competitividad regional frente a países con estrategias consolidadas.
+       ●   Fuga de talentos hacia polos tecnológicos internacionales.
+       ●   Impactos negativos en empleo por automatización sin estrategias de transición.
+       ●   Sesgos algorítmicos que refuercen discriminaciones existentes.
+       ●   Uso indebido de la IA.
+
+   En comparación con líderes latinoamericanos como Chile, Perú o México (oecd.ai), Ecuador es un
+   "adoptador", no un líder, todavía. Este instrumento se construyó con la intención de constituirse en una
+   estrategia para buscar cambiar esta etiqueta, y convertir al Ecuador en un territorio propicio para
+   desarrollar y fomentar las nuevas tecnologías con responsabilidad.
+
+
+                                                 24 / 53
+
+                                                     28
+Registro Oficial - Suplemento Nº 206                                                  Lunes 19 de enero de 2026
+
+
+    5. ESTRATEGIA
+    El MINTEL como ente rector en transformación digital y gobierno digital, con el objetivo de propiciar el
+    intercambio de experiencias, identificar necesidades y establecer iniciativas alrededor de la
+    transformación digital en el país, se sirve de mecanismos de consulta, coordinación y articulación
+    multisectorial. En este sentido, el Comité de Inteligencia Artificial definió el punto de partida para abrir el
+    debate en la necesidad de establecer un marco normativo para el uso ético y responsable de esta
+    tecnología en el país.
+
+    En Ecuador, el marco constitucional y legal establece garantías para cumplir los derechos fundamentales
+    de las personas, promover la innovación pública, tecnológica y científica, y fomentar el desarrollo
+    sostenible. La Constitución de la República, la Ley Orgánica de Telecomunicaciones y la Ley Orgánica para
+    la Transformación Digital y Audiovisual, proporcionan un respaldo jurídico para la implementación de
+    políticas públicas que atiendan necesidades de la ciudadanía y orienten el uso de tecnologías emergentes,
+    como la IA, de manera ética y responsable.
+
+    Además, el país ha suscrito compromisos internacionales, como los Objetivos de Desarrollo Sostenible
+    (ODS) de las Naciones Unidas, la Recomendación sobre la Ética de la Inteligencia Artificial de la UNESCO y
+    los Principios Éticos del G20 y OCDE sobre la IA, que exigen un enfoque inclusivo, sostenible y ético en el
+    desarrollo y uso de estas tecnologías.
+
+    En este contexto, el Ministerio de Telecomunicaciones y de la Sociedad de la Información (MINTEL) ha
+    identificado la necesidad de establecer una ESTRATEGIA PARA EL FOMENTO DEL DESARROLLO Y USO
+    ÉTICO Y RESPONSABLE DE LA INTELIGENCIA ARTIFICIAL EN EL ECUADOR, de manera coordinada,
+    promoviendo la colaboración multisectorial, como un mapa de acción del eje “Tecnologías emergentes
+    para el desarrollo sostenible” de la “Política Pública para la Transformación Digital”.
+
+    La estrategia para el fomento del desarrollo y uso ético y responsable de la IA busca identificar y fomentar
+    la atención de necesidades normativas en áreas y/o sectores clave del país, como:
+
+    Desarrollo tecnológico y avances científicos
+
+        ●    Fomento de la investigación y desarrollo (I+D)
+        ●    Creación de ecosistemas tecnológicos
+        ●    Transferencia de conocimiento y tecnología
+        ●    Educación
+
+    Mejoras en los servicios públicos
+
+        ●    Optimización de la gestión pública
+        ●    Personalización de servicios
+        ●    Transparencia y lucha contra la corrupción
+
+    Competitividad y productividad
+
+        ●    Nuevas industrias y empresas
+        ●    Modernización de los diferentes sectores productivos
+        ●    Innovación en emprendimientos
+
+
+                                                     25 / 53
+
+                                                         29
+Lunes 19 de enero de 2026                                               Suplemento Nº 206 - Registro Oficial
+
+
+        ●   Atracción de inversiones
+        ●   Fortalecimiento en procesos de producción y servicios
+
+   Gobernanza de IA
+
+        ●   Fortalecimiento de la gobernanza digital
+        ●   Colaboración público-privada
+        ●   Posicionamiento internacional
+
+   Mejoras en la calidad de vida
+
+        ●   Acceso a servicios avanzados
+        ●   Inclusión digital
+        ●   Sostenibilidad ambiental
+        ●   Seguridad
+
+   Generación de Empleo y Nuevas Oportunidades
+
+        ●   Creación de empleos especializados
+        ●   Reconversión laboral
+        ●   Impulso a la economía del conocimiento
+        ●   Retención de talento
+
+   Refuerzo del Desarrollo Tecnológico local
+
+        ●   Desarrollo de soluciones locales
+        ●   Fortalecimiento de la propiedad intelectual
+
+
+   Objetivo General
+   Impulsar el desarrollo, adopción y uso ético y responsable de la inteligencia artificial en Ecuador, mediante
+   el fortalecimiento de capacidades humanas y tecnológicas, la promoción de la investigación, desarrollo e
+   innovación, y la incorporación de la IA en sectores públicos y privados, que garantice su implementación
+   transparente, equitativa y centrada en el ser humano, buscando la transformación digital para el
+   crecimiento económico, la generación de empleo de calidad y el bienestar ciudadano.
+
+
+   Objetivos específicos
+   1.   Impulsar un marco de gobernanza que garantice el desarrollo y uso ético, responsable, transparente
+        y equitativo de la inteligencia artificial en Ecuador, promoviendo la protección de los derechos
+        humanos, la sostenibilidad ambiental, la inclusión social, la seguridad de la información, la
+        ciberseguridad y la mitigación de impactos sociales y laborales asociados al avance de esta tecnología.
+
+   2.   Fortalecer las capacidades humanas y tecnológicas del país para impulsar el desarrollo, adopción y
+        uso responsable de la inteligencia artificial, mediante la formación integral de talento humano, la
+
+
+                                                   26 / 53
+
+                                                       30
+Registro Oficial - Suplemento Nº 206                                                  Lunes 19 de enero de 2026
+
+
+         incorporación de esta tecnología en todos los niveles educativos, y el fomento de ecosistemas de
+         investigación, desarrollo e innovación en inteligencia artificial, alineados a la transformación digital
+         del país.
+
+    3.   Fomentar la adopción responsable y estratégica de la inteligencia artificial en sectores priorizados,
+         implementando soluciones basadas en esta tecnología que impulsen la transformación digital en los
+         sectores público y privado para mejorar la productividad y competitividad, y estableciendo
+         mecanismos de evaluación que garanticen su calidad, seguridad, impacto positivo y ética.
+
+
+    Ámbito de aplicación
+    El presente instrumento es de aplicación obligatoria para las entidades del sector público y para todas las
+    personas naturales o jurídicas, del sector privado, nacionales o extranjeras que desarrollen, implementen,
+    utilicen o comercialicen sistemas de inteligencia artificial en el territorio ecuatoriano, o cuyos sistemas de
+    inteligencia artificial, generen efectos jurídicos dentro del país.
+
+
+    Visión 2029
+    Para 2029, adoptar la Inteligencia Artificial de manera ética, responsable, inclusiva y sostenible,
+    potenciando la transformación digital a través de la innovación que procure el desarrollo socioeconómico
+    y el bienestar de la ciudadanía, respetando su diversidad cultural y protegiendo los derechos
+    fundamentales, y en base a ello lograr que Ecuador sea reconocido como un referente regional.
+
+
+    Principios
+    La investigación, el desarrollo, la innovación, la implementación, la adopción y el uso ético y responsable
+    de los sistemas de inteligencia artificial tendrá como principios rectores los siguientes:
+
+    A. Derecho a la privacidad y protección de datos personales
+
+    La privacidad y la protección de datos personales de los usuarios debe ser respetada y promovida, en
+    cumplimiento irrestricto de sus derechos conforme a lo establecido en la Constitución de la República del
+    Ecuador, la Ley Orgánica de Protección de Datos Personales, demás legislación y normativa local y los
+    estándares internacionales vigentes y aplicables. De esta manera se debe asegurar que los datos
+    personales sean tratados únicamente para fines legítimos, explícitos y determinados, minimizando su uso
+    al estrictamente necesario y garantizando el consentimiento informado, libre y expreso de los titulares
+    de los datos, salvo las excepciones previstas en la normativa vigente.
+
+    B. Equidad y no discriminación
+
+    Los desarrolladores e implementadores deberán salvaguardar la equidad, e implementar medidas (como
+    procesos de entrenamiento suficientes) para mitigar y evitar la generación de resultados discriminatorios
+    o sesgados. Para lo cual se guardará conformidad con el derecho internacional y la normativa local, y se
+    adoptará enfoques inclusivos, procurando que esta tecnología promueva la inclusión social, y sus
+    beneficios se distribuyan de manera justa, especialmente para grupos vulnerables, evitando dinámicas de
+    exclusión social, racial, de género o económica
+
+
+                                                     27 / 53
+
+                                                         31
+Lunes 19 de enero de 2026                                               Suplemento Nº 206 - Registro Oficial
+
+
+   C. Gobernanza y colaboración de múltiples partes interesadas
+
+   Se promueve la participación activa, inclusiva y equitativa de las múltiples partes interesadas en el proceso
+   de elaboración de normativa aplicable a sistemas de inteligencia artificial, así como en proyectos de
+   despliegue de su uso. Se entiende por partes interesadas a las entidades públicas competentes y aquellos
+   actores involucrados en la temática, desde las empresas del sector privado, las universidades públicas y
+   privadas, la sociedad civil, organizaciones de derechos humanos y de cooperación internacional. De esta
+   manera se fomenta la co-creación de instrumentos de gobernanza que respondan a las necesidades y
+   realidades del contexto ecuatoriano, en armonía con instrumentos regionales que priorizan la gobernanza
+   ágil.
+
+   D. Proporcionalidad e inocuidad
+
+   Se promueve que la implementación, la adopción y el uso de los sistemas de inteligencia artificial sean
+   adecuados y proporcionales para el objetivo legítimo determinado y que no impliquen una violación o
+   abuso de los derechos humanos o perjuicios evitables a la sociedad o el medio ambiente.
+
+   E. Responsabilidad y rendición de cuentas
+
+   Los desarrolladores, implementadores, adoptantes y usuarios de los sistemas de inteligencia artificial
+   actuarán en respeto, protección y promoción de los derechos humanos, las libertades fundamentales y el
+   medio ambiente. La responsabilidad y rendición de cuentas deberán ser atribuibles a dichos actores
+   conforme a su función, bajo las normas vigentes.
+
+   F. Seguridad y protección de la información
+
+   Se promueve la implementación, la adopción y el uso de sistemas de inteligencia artificial que sean fiables
+   y seguros a lo largo de su ciclo de vida para que, en condiciones de uso conforme a su finalidad prevista,
+   funcionen adecuadamente y minimicen los riesgos del uso indebido u otras condiciones adversas
+   vinculadas a dichos sistemas.
+
+   G. Sensibilización y educación
+
+   Se promueve la sensibilización y educación de la ciudadanía respecto al valor y uso de la tecnología
+   mediante la participación cívica, la capacitación en competencias digitales y la protección de los datos
+   personales, para la toma de decisiones informadas en la utilización de sistemas de inteligencia artificial.
+
+   H. Sostenibilidad
+
+   Se promueve la implementación, la adopción y el uso de sistemas de inteligencia artificial que permitan
+   cumplir con los Objetivos de Desarrollo Sostenible de las Naciones Unidas (ODS). Asimismo, se promueve
+   una evaluación continua de los efectos socioculturales, medioambientales y económicos del desarrollo,
+   implementación y uso de los sistemas de inteligencia artificial.
+
+   I.   Supervisión y decisiones humanas
+
+   Se promueve la supervisión y decisiones humanas en el desarrollo, implementación, adopción y uso de
+   sistemas de inteligencia artificial, conforme sea necesario según su nivel de riesgo, para corregir errores
+
+
+                                                   28 / 53
+
+                                                       32
+Registro Oficial - Suplemento Nº 206                                                Lunes 19 de enero de 2026
+
+
+    o reducir al mínimo la vulneración de los principios aquí enunciados, asegurando que la responsabilidad
+    ética y jurídica pueda atribuirse claramente a personas naturales o jurídicas, según corresponda.
+
+    J. Transparencia
+
+    Se promueve la transparencia en el desarrollo, implementación, adopción y uso de los sistemas de
+    inteligencia artificial, con el propósito de habilitar a los usuarios y afectados para la toma de decisiones
+    informadas sobre su interacción con dichos sistemas.
+
+    K. Enfoque basado en riesgos
+
+    Las medidas de promoción y seguridad en el desarrollo, implementación, adopción y uso de sistemas de
+    inteligencia artificial seguirán un esquema basado en riesgos. Se buscar identificar amenazas,
+    vulnerabilidades y posibles consecuencias negativas derivadas de los casos de uso específicos de los
+    sistemas basados en inteligencia artificial, así como la probabilidad de ocurrencia y el impacto asociado a
+    cada riesgo.
+
+
+                                                    29 / 53
+
+                                                        33
+Lunes 19 de enero de 2026                                                  Suplemento Nº 206 - Registro Oficial
+
+
+                                                      EJES, SUBEJES Y LÍNEAS DE ACCIÓN
+
+
+                      EJE 1. Gobernanza de la IA
+
+
+     Descripción: Este eje pretende establecer un marco de gobernanza claro para el desarrollo,
+     implementación, adopción y uso de sistemas de inteligencia artificial de manera ética, responsable y
+     transparente, alineado al impulso de la transformación digital del país, protegiendo los derechos de los
+     ciudadanos y promoviendo el bienestar social.
+
+     Se prioriza un enfoque que fomente la innovación, productividad, sostenibilidad, la inclusión, la equidad,
+     la seguridad de la información, la ciberseguridad y la mitigación de los impactos ambientales, sociales y
+     laborales asociados a la IA.
+
+     El modelo de gobernanza de la Inteligencia Artificial para Ecuador se fundamenta en un ecosistema digital
+     de innovación responsable, de carácter transversal y multiactor. Este modelo es coordinado
+     estratégicamente por el Ministerio de Telecomunicaciones y de la Sociedad de la Información (MINTEL),
+     ente rector de la transformación digital para diseñar, impulsar, coordinar e implementar esta estrategia.
+
+
+                                                    30 / 53
+
+
+                                                          34
+Registro Oficial - Suplemento Nº 206                                                        Lunes 19 de enero de 2026
+
+
+   Subeje 1.1. Ética y responsabilidad
+
+                           Establecer lineamientos para fomentar el desarrollo, implementación, adopción y uso
+                           ético, transparente y responsable de la Inteligencia Artificial en Ecuador, en colaboración
+                       1   con el ecosistema digital nacional e internacional, para promover la equidad, no
+                           discriminación y la confianza de los sistemas.
+
+
+    LÍNEAS DE ACCIÓN
+                           Difundir el marco legal y normativo nacional e internacional vigente, relacionado con
+                       2   desarrollos, aplicaciones, sistemas y herramientas basadas en inteligencia artificial o que
+                           la utilicen, garantizando la protección de derechos fundamentales.
+
+                           Desarrollar y/o adoptar normas técnicas y certificaciones que fomenten la calidad,
+                           seguridad y ética en el desarrollo, implementación, adopción y uso de sistemas de
+                       3   Inteligencia Artificial, teniendo como referencia las buenas prácticas y estándares
+                           internacionales.
+
+
+   Subeje 1.2. Impacto social, laboral e inclusivo
+
+
+                           Desarrollar campañas de capacitación y reconversión laboral para mitigar los efectos de la
+                       4
+
+    LÍNEAS DE ACCIÓN
+                           automatización impulsada por la Inteligencia Artificial.
+
+
+                           Impulsar la inclusión activa de comunidades étnicas, mujeres y poblaciones vulnerables en
+                       5   el ecosistema de Inteligencia Artificial mediante programas focalizados y gobernanza
+                           participativa con perspectiva de género.
+
+
+   Subeje 1.3. Gestión de riesgos de los sistemas de IA
+
+
+    LÍNEAS DE ACCIÓN
+                           Evaluar y/o investigar el impacto ético y responsable del desarrollo, implementación,
+                       6   adopción y uso de los sistemas de Inteligencia Artificial.
+
+
+                           Impulsar la creación de un inventario actualizado de sistemas de Inteligencia Artificial en
+                       7   operación en Ecuador.
+
+
+                                                            31 / 53
+
+                                                                 35
+Lunes 19 de enero de 2026                                                       Suplemento Nº 206 - Registro Oficial
+
+
+                            EJE 2. Capacidad y Tecnología
+
+
+   Descripción: Este eje se centra en el fortalecimiento de los aspectos habilitantes para el desarrollo,
+   implementación, adopción y uso ético y responsable de la inteligencia artificial en el país, tanto en
+   términos de talento humano como de infraestructura tecnológica digital. Busca desarrollar una base
+   sólida en capacidades humanas y tecnológicas para el crecimiento y la innovación en IA, asegurando que
+   la sociedad ecuatoriana esté preparada para aprovechar las oportunidades que ofrece esta tecnología y
+   contribuir así a la transformación digital del país. Se prioriza la formación de profesionales en el área, la
+   integración de la IA en la educación en todos los niveles, el acceso equitativo a recursos tecnológicos y la
+   gobernanza de datos adecuada y coherente con los requerimientos de la IA y la legislación vigente.
+
+   Subeje 2.1. Desarrollo de Talento Humano
+
+
+                            Integrar contenidos de Inteligencia Artificial en procesos educativos desde la educación
+                       8    básica hasta la educación superior.
+
+
+                            Impulsar el establecimiento de incentivos y/o becas para fomentar la formación y
+                       9
+
+    LÍNEAS DE ACCIÓN
+                            especialización en Inteligencia Artificial, dentro y fuera del país, con enfoque inclusivo
+                            y equitativo.
+
+                            Promover espacios de investigación, desarrollo e innovación, que fomenten la
+                       10   participación del talento humano multidisciplinario especializado en Inteligencia
+                            Artificial.
+
+                            Fortalecer las competencias digitales en la adopción y uso ético y responsable de la
+                       11   inteligencia artificial en toda la ciudadanía con especial énfasis en la comunidad
+                            educativa y juventudes.
+
+
+   Subeje 2.2. Infraestructura y Datos
+
+                            Promover la adopción y el uso imperativo de servicios en la nube, para soportar el
+                       12   despliegue y escalabilidad de soluciones de inteligencia artificial utilizando estándares
+                            abiertos y experiencia global.
+
+
+    LÍNEAS DE ACCIÓN
+                            Promover la gestión de datos abiertos, seguros y normalizados, que sirvan como
+                       13   insumo fundamental para el desarrollo, implementación, adopción y uso ético y
+                            responsable de la Inteligencia Artificial.
+
+                            Incrementar el acceso de los ciudadanos a herramientas basadas en Inteligencia
+                       14   Artificial, fomentando la conectividad significativa a través del equipamiento
+                            informático de los Puntos Digitales Gratuitos a nivel nacional.
+
+
+                                                           32 / 53
+                                                               36
+Registro Oficial - Suplemento Nº 206                                                        Lunes 19 de enero de 2026
+
+
+                            EJE 3. Adopción y desarrollo de la IA
+
+
+   Descripción: Este eje promueve la investigación, el desarrollo y la innovación (I+D+i) con impacto local,
+   en el contexto del desarrollo, implementación, adopción y uso ético y responsable de soluciones basadas
+   en IA en el sector público y privado, para elevar la productividad y mejorar la calidad de bienes y servicios,
+   en línea con la transformación digital del país.
+
+   Subeje 3.1. Investigación, Desarrollo e Innovación
+
+
+                            Promover la inversión pública y privada para el desarrollo e implementación de
+                       15   proyectos de investigación, desarrollo e innovación (I+D+i) con Inteligencia Artificial.
+
+
+                            Establecer un régimen de Zonas Francas Tecnológicas, destinado a atraer inversión
+                       16
+
+    LÍNEAS DE ACCIÓN
+                            estratégica en investigación, desarrollo e innovación (I+D+i) con énfasis en
+                            tecnologías emergentes.
+
+                            Fortalecer el ecosistema de startups de IA, fomentando la colaboración entre la
+                       17   academia y empresas, atrayendo capital de riesgo y diseñando programas de
+                            aceleración, incluyendo mecanismos de co-inversión.
+
+
+                            Establecer un sandbox regulatorio para el desarrollo y experimentación de
+                       18   tecnologías emergentes, con énfasis en Inteligencia Artificial.
+
+
+   Subeje 3.2. Adopción y Aplicaciones
+
+                            Optimizar los servicios del sector público con foco en el desarrollo e implementación
+                       19   de modelos robustos y escalables de Inteligencia Artificial, conforme los objetivos
+                            del Plan Nacional de Desarrollo vigente.
+
+
+    LÍNEAS DE ACCIÓN
+                            Fomentar el desarrollo, implementación, adopción y uso de sistemas de Inteligencia
+                       20   Artificial en sectores productivos, mediante programas de apoyo e incentivos para
+                            empresas y emprendimientos de base tecnológica.
+
+
+                            Establecer mecanismos de evaluación del impacto tecnológico y social del desarrollo,
+                       21   implementación, adopción y uso de las aplicaciones basadas en Inteligencia Artificial.
+
+
+                                                          33 / 53
+                                                               37
+Lunes 19 de enero de 2026                                                                 Suplemento Nº 206 - Registro Oficial
+
+
+                           INICIATIVAS CON INDICADORES Y METAS POR EJES
+ EJE 1: Gobernanza de la IA
+ Subeje 1.1. Ética y responsabilidad
+
+        INICIATIVA
+                     Número de documentos con lineamientos para fomentar el desarrollo,
+                     implementación, adopción y uso ético, transparente y responsable de la
+           1
+                     Inteligencia Artificial en Ecuador.
+
+
+      Línea Base:           Cero
+      Meta:
+
+      Un documento con lineamientos por sector (considerando la estructura orgánica de la función
+      ejecutiva) para fomentar el desarrollo, implementación, adopción y uso ético, transparente y
+      responsable de la Inteligencia Artificial hasta la finalización de la vigencia de esta estrategia.
+
+      Método de cálculo:
+
+                                                  𝑛𝑛
+
+                                                 ∑ 𝐺𝐺𝐺𝐺í𝑎𝑎𝑎𝑎 𝑦𝑦/𝑜𝑜 𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙
+                                                 𝑖𝑖=1
+
+
+      Responsable:          Ministerio de Telecomunicaciones y de la Sociedad de la Información
+
+
+        INICIATIVA   Número de actividades de capacitación o formación relacionadas a la difusión del
+            2        marco legal y normativo nacional e internacional vigente de Inteligencia Artificial.
+
+
+      Línea Base:           Cero
+      Meta:
+
+      10 actividades de capacitación o formación relacionadas a la difusión del marco legal y normativo
+      nacional e internacional vigente de Inteligencia Artificial hasta la finalización de la vigencia de esta
+      estrategia.
+
+      Método de cálculo:
+
+                                    𝑛𝑛
+
+                                   ∑ 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑑𝑑𝑑𝑑 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐ó𝑛𝑛 𝑜𝑜 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓ó𝑛𝑛
+                                   𝑖𝑖=1
+
+
+      Responsable:          Ministerio de Telecomunicaciones y de la Sociedad de la Información
+
+
+                                                        34 / 53
+
+                                                                  38
+Registro Oficial - Suplemento Nº 206                                                                                  Lunes 19 de enero de 2026
+
+
+           INICIATIVA         Número de normas técnicas y/o certificaciones de Inteligencia Artificial
+               3              desarrolladas y/o adoptadas en el país.
+
+
+        Línea Base:                 Cero
+        Meta:
+
+        4 normas técnicas y/o certificaciones de IA desarrolladas y/o adoptadas en el país hasta la
+        finalización de la vigencia de esta estrategia.
+
+        Método de cálculo:
+
+                       𝑛𝑛
+
+                   ∑ 𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 𝑡𝑡é𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 𝑦𝑦/ 𝑜𝑜 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 𝑑𝑑𝑑𝑑 𝐼𝐼𝐼𝐼 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑 𝑦𝑦/ 𝑜𝑜 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎
+                   𝑖𝑖=1
+
+
+                                    Ministerio de Telecomunicaciones y de la Sociedad de la Información, Servicio
+        Responsable:
+                                    Ecuatoriano de Normalización
+
+
+   Subeje 1.2. Impacto social, laboral e inclusivo
+
+
+          INICIATIVA         Número de personas que han completado cursos de formación en Inteligencia
+             4               Artificial para el trabajo.
+
+
+        Línea Base:                 Cero
+        Meta:
+
+        Lograr que 10.000 personas completen cursos de formación en IA hasta la finalización de la
+        vigencia de esta estrategia.
+
+        Método de cálculo:
+
+                        𝑛𝑛
+
+                   ∑ 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑞𝑞𝑞𝑞𝑞𝑞 ℎ𝑎𝑎𝑎𝑎 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 𝑑𝑑𝑑𝑑 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓ó𝑛𝑛 𝑒𝑒𝑒𝑒 𝐼𝐼𝐼𝐼 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 𝑒𝑒𝑒𝑒 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡.
+                       𝑖𝑖=1
+
+
+        Responsables:               Ministerio del Trabajo, Instituto Nacional de Estadística y Censos
+
+
+                                                                    35 / 53
+
+                                                                            39
+Lunes 19 de enero de 2026                                                                          Suplemento Nº 206 - Registro Oficial
+
+
+                      Porcentaje de participación de grupos subrepresentados (mujeres, comunidades
+        INICIATIVA
+                      étnicas, personas con discapacidad) en: (a) proyectos de IA, (b) formación técnica,
+           5
+                      y (c) espacios de decisión política en IA.
+
+
+      Línea Base:               Cero
+      Meta:
+
+      20% de equipos de desarrollo que incluyan al menos un 35% de mujeres y/o 15% de miembros de
+      comunidades étnicas. Y, 25% de representación de estos grupos en comités de ética y grupos
+      colegiados entorno a la IA.
+
+      Método de cálculo:
+
+                                                      𝑁𝑁ú𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚 𝑑𝑑𝑑𝑑 𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚 𝑒𝑒𝑒𝑒 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+                                𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀 (%) = (                                                    ) × 100
+                                                          𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑑𝑑𝑑𝑑 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝
+
+                                                                 𝑁𝑁ú𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚 𝑑𝑑𝑑𝑑 𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚 𝑑𝑑𝑑𝑑 𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚í𝑎𝑎𝑎𝑎
+                     𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶 é𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 (%) = (                                                       ) × 100
+                                                                       𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑑𝑑𝑑𝑑 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑠𝑠
+
+                                Ministerio de Educación, Deporte y Cultura, Instituciones de Educación
+      Responsables:
+                                Superior
+
+
+ Subeje 1.3. Gestión de riesgos de los sistemas de IA
+
+
+        INICIATIVA
+                      Número de proyectos de investigación relacionados con Inteligencia Artificial,
+            6         liderados por universidades y centros de innovación (con publicaciones indexadas
+                      o aplicaciones prácticas).
+
+      Línea Base:               Cero
+      Meta:
+
+      100 proyectos de investigación relacionados con Inteligencia Artificial con publicaciones
+      indexadas o aplicaciones prácticas hasta la finalización de la vigencia de esta estrategia.
+
+      Método de cálculo:
+                                    𝑛𝑛
+
+                                   ∑ 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑑𝑑𝑑𝑑 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖ó𝑛𝑛 𝑒𝑒𝑒𝑒 𝐼𝐼𝐼𝐼 𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟
+                                   𝑖𝑖=1
+
+      Responsable:              Ministerio de Educación, Deporte y Cultura
+
+
+                                                                36 / 53
+
+                                                                           40
+Registro Oficial - Suplemento Nº 206                                                                                        Lunes 19 de enero de 2026
+
+
+           INICIATIVA
+                           Sistema de registro de soluciones basadas en Inteligencia Artificial en Ecuador.
+                7
+
+         Línea Base:                   Cero
+         Meta:
+
+         Un sistema de registro implementado hasta la finalización de la vigencia de esta estrategia.
+
+         Método de cálculo:
+
+          𝑛𝑛
+
+         ∑ 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝑑𝑑𝑑𝑑 𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟 𝑑𝑑𝑑𝑑 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 𝑑𝑑𝑑𝑑 𝐼𝐼𝐼𝐼 ℎ𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑒𝑒𝑒𝑒 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓 𝑑𝑑𝑑𝑑𝑑𝑑 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 𝑑𝑑𝑑𝑑 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+         𝑖𝑖=1
+
+
+                                       Instituciones de educación superior, Empresa Privada, Ministerio de
+         Responsables:
+                                       Telecomunicaciones y de la Sociedad de la Información
+
+
+    EJE 2: Capacidad y Tecnología
+    Subeje 2.1. Desarrollo de Talento Humano
+
+
+            INICIATIVA     Número de planes, programas o proyectos para la integración de la Inteligencia
+                8          Artificial en el Sistema Educativo Nacional.
+
+
+         Línea Base:                   Cero
+         Meta:
+
+         10 programas educativos que incluyan contenidos de Inteligencia Artificial en el Sistema
+         Educativo Nacional hasta la finalización de la vigencia de esta estrategia.
+
+         Método de cálculo:
+
+                                 𝑛𝑛
+
+                                ∑ 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑞𝑞𝑞𝑞𝑞𝑞 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖 𝐼𝐼𝐼𝐼 𝑒𝑒𝑒𝑒 𝑒𝑒𝑒𝑒 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸 𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁
+                                𝑖𝑖=1
+
+
+         Responsable:                  Ministerio de Educación, Deporte y Cultura
+
+
+                                                                         37 / 53
+
+                                                                                41
+Lunes 19 de enero de 2026                                                                 Suplemento Nº 206 - Registro Oficial
+
+
+       INICIATIVA   Número de beneficiarios de incentivos y/o becas para fomentar la formación y
+          9         especialización en Inteligencia Artificial.
+
+
+     Línea Base:           Cero
+     Meta:
+
+     10000 beneficiarios de incentivos y/o becas para fomentar la formación y especialización en
+     Inteligencia Artificial hasta la finalización de la vigencia de esta estrategia.
+
+     Método de cálculo:
+
+                                                      𝑛𝑛
+
+                                                    ∑ 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵
+                                                    𝑖𝑖=1
+
+
+                           Ministerio de Telecomunicaciones y de la Sociedad de la Información, Sector
+     Responsable:
+                           privado
+
+
+       INICIATIVA
+                    Plataforma centralizada que consolide y difunda: banco de expertos, proyectos,
+                    ofertas académicas, becas y oportunidades laborales relacionados con Inteligencia
+         10
+                    Artificial.
+
+     Línea Base:           Cero
+     Meta:
+
+     1 plataforma pública que consolide y difunda oportunidades nacionales e internacionales en
+     Inteligencia Artificial (banco de expertos, proyectos, ofertas académicas, becas y empleos) hasta
+     la finalización de la vigencia de esta estrategia.
+
+     Método de cálculo:
+                                        𝑛𝑛
+
+                                       ∑ 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑑𝑑𝑑𝑑 𝐼𝐼𝐼𝐼 𝑝𝑝ú𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏
+                                       𝑖𝑖=1
+
+                           Ministerio de Educación, Deporte y Cultura, Ministerio de Telecomunicaciones
+     Responsable:
+                           y de la Sociedad de la Información
+
+
+                                                   38 / 53
+
+
+                                                                42
+Registro Oficial - Suplemento Nº 206                                                                                  Lunes 19 de enero de 2026
+
+
+          INICIATIVA   Número de actividades de capacitación o formación relacionadas a Inteligencia
+            11         Artificial para los miembros del Sistema Educativo Nacional.
+
+
+        Línea Base:                Cero
+        Meta:
+
+        Desarrollar 50 actividades de capacitación o formación relacionada a Inteligencia Artificial hasta
+        la finalización de la vigencia de esta estrategia.
+
+        Método de cálculo:
+                         𝑛𝑛
+
+                        ∑ 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑑𝑑𝑑𝑑 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐ó𝑛𝑛 𝑜𝑜 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓ó𝑛𝑛 𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟 𝑐𝑐𝑐𝑐𝑐𝑐 𝐼𝐼𝐼𝐼
+                        𝑖𝑖=1
+
+                                   Ministerio de Educación, Deporte y Cultura, Instituciones de educación
+        Responsable:
+                                   superior, Ministerio de Telecomunicaciones y de la Sociedad de la Información
+
+
+   Subeje 2.2. Infraestructura y Datos
+
+
+          INICIATIVA
+                       Inversión pública y privada en infraestructura y servicios digitales habilitantes de
+            12         Inteligencia Artificial (en millones de dólares, destinados a centros de datos,
+                       conectividad, servicios de nube y supercomputación).
+
+        Línea Base:                $9,6 millones en 2023 en inversiones en TIC
+        Meta:
+
+        Alcanzar una inversión acumulada de $200 millones en infraestructura y servicios digitales,
+        habilitantes para Inteligencia Artificial hasta la finalización de la vigencia de esta estrategia.
+
+        Método de cálculo:
+
+                               𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼ó𝑛𝑛 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝑒𝑒𝑒𝑒 𝐼𝐼𝐼𝐼 = 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼ó𝑛𝑛 𝑝𝑝ú𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 + 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼ó𝑛𝑛 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝
+
+                                   Ministerio de Economía y Finanzas, Ministerio de Producción, Comercio
+        Responsable:
+                                   Exterior e Inversiones, cámaras empresariales y empresas privadas.
+
+
+                                                                    39 / 53
+
+                                                                            43
+Lunes 19 de enero de 2026                                                                        Suplemento Nº 206 - Registro Oficial
+
+
+          INICIATIVA
+                       Número de guías de uso de datos abiertos para sistemas de Inteligencia Artificial.
+            13
+
+        Línea Base:              Cero
+        Meta:
+
+        Una guía de uso de datos abiertos en sistemas de Inteligencia Artificial.
+
+        Método de cálculo:
+
+                                     𝑛𝑛
+
+                                    ∑ 𝐺𝐺𝐺𝐺í𝑎𝑎𝑎𝑎 𝑑𝑑𝑑𝑑 𝑢𝑢𝑢𝑢𝑢𝑢 𝑑𝑑𝑑𝑑 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑒𝑒𝑒𝑒 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 𝑑𝑑𝑑𝑑 𝐼𝐼𝐼𝐼
+                                    𝑖𝑖=1
+
+
+        Responsables:            Ministerio de Telecomunicaciones y de la Sociedad de la Información
+
+
+          INICIATIVA   Número de Puntos Digitales Gratuitos equipados con computadoras aptas para la
+             14        utilización de sistemas de Inteligencia Artificial.
+
+
+        Línea Base:              Cero
+        Meta:
+
+        200 Puntos Digitales Gratuitos equipados con computadoras aptas para la utilización de sistemas
+        de Inteligencia Artificial hasta la finalización de la vigencia de esta estrategia.
+
+        Método de cálculo:
+
+                           𝑛𝑛
+
+                          ∑ 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 𝑐𝑐𝑐𝑐𝑐𝑐 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 𝐼𝐼𝐼𝐼
+                          𝑖𝑖=1
+
+
+        Responsables:            Ministerio de Telecomunicaciones y de la Sociedad de la Información
+
+
+                                                                40 / 53
+
+                                                                        44
+Registro Oficial - Suplemento Nº 206                                                                              Lunes 19 de enero de 2026
+
+
+    EJE 3: Adopción y Desarrollo de la IA
+    Subeje 3.1. Investigación, Desarrollo e Innovación
+
+
+           INICIATIVA   Inversión pública y privada para el desarrollo e implementación de proyectos de
+              15        investigación, desarrollo e innovación (I+D+i) con Inteligencia Artificial.
+
+
+         Línea Base:            $9,6 millones en 2023 en inversiones en TIC.
+         Meta:
+
+         Alcanzar una inversión acumulada de $200 millones en infraestructura y servicios digitales,
+         habilitantes para IA hasta la finalización de la vigencia de esta estrategia.
+
+         Método de cálculo:
+
+                            𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼ó𝑛𝑛 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝑒𝑒𝑒𝑒 𝐼𝐼𝐼𝐼 = 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼ó𝑛𝑛 𝑝𝑝ú𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏𝑏 + 𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼ó𝑛𝑛 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝
+
+                                Ministerio de Economía y Finanzas, Ministerio de Producción, Comercio
+         Responsable:
+                                Exterior e Inversiones, cámaras empresariales y empresas privadas.
+
+
+                        Número de zonas francas tecnológicas, destinadas a atraer inversión estratégica
+           INICIATIVA
+                        en investigación, desarrollo e innovación (I+D+i) con énfasis en tecnologías
+             16
+                        emergentes.
+
+         Línea Base:            Cero
+         Meta:
+
+         1 zona franca tecnológica, para atraer inversión estratégica en investigación, desarrollo e
+         innovación (I+D+i) con énfasis en tecnologías emergentes.
+
+         Método de cálculo:
+
+                                                          𝑛𝑛
+
+                                                        ∑ zonas francas tecnológicas
+                                                        𝑖𝑖=1
+
+
+                                Ministerio de Telecomunicaciones y de la Sociedad de la Información y
+         Responsable:
+                                Ministerio de Producción, Comercio Exterior e Inversiones
+
+
+                                                                 41 / 53
+
+                                                                       45
+Lunes 19 de enero de 2026                                                                             Suplemento Nº 206 - Registro Oficial
+
+
+       INICIATIVA
+                      Porcentaje de startups y empresas que han desarrollado y/o adoptado al menos
+          17          una solución de sistemas basados en Inteligencia Artificial con alto impacto (en
+                      sectores productivos).
+
+     Línea Base:                 40% de las empresas según publicación especializada de ITAhora
+     Meta:
+
+     Aumentar el porcentaje de adopción en un 15% anual, alcanzando un 60% hasta la finalización de
+     la vigencia de esta estrategia.
+
+     Método de cálculo:
+
+                                                                                         𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝑐𝑐𝑐𝑐𝑐𝑐 𝐼𝐼𝐼𝐼
+                              𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑑𝑑𝑑𝑑 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 𝑐𝑐𝑐𝑐𝑐𝑐 𝐼𝐼𝐼𝐼 = (                                 ) × 100
+                                                                                        𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑑𝑑𝑑𝑑 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠
+
+                                 Ministerio de Producción, Comercio Exterior e Inversiones, Cámaras,
+     Responsables:               Incubadoras y aceleradoras registradas, Ministerio de Telecomunicaciones y
+                                 de la Sociedad de la Información
+
+
+       INICIATIVA     Número de marcos normativos y/o regulatorios / lineamientos generales para la
+         18           implementación de 1 sandbox regulatorio en el país, emitido.
+
+
+     Línea Base:                 Cero
+     Meta:
+
+     1 marco normativo y/o regulatorio / lineamientos generales para la implementación de 1
+     sandbox regulatorio en el país, emitido.
+
+     Método de cálculo:
+
+                𝑛𝑛
+
+               ∑ 𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚 𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛 / 𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟 / 𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙 𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠
+               𝑖𝑖=1
+
+
+                                 Ministerio de Telecomunicaciones y de la Sociedad de la Información y
+     Responsable:
+                                 Ministerio de Producción, Comercio Exterior e Inversiones
+
+
+                                                                 42 / 53
+
+
+                                                                             46
+Registro Oficial - Suplemento Nº 206                                                                                       Lunes 19 de enero de 2026
+
+
+    Subeje 3.2. Adopción y Aplicaciones
+
+
+           INICIATIVA
+                          Porcentaje de instituciones de la administración pública central, que han
+                          implementado o adoptado sistemas basados en Inteligencia Artificial para mejorar
+             19
+                          sus servicios.
+
+         Línea Base:                   Cero
+         Meta:
+
+         Alcanzar un 50% de adopción de sistemas basados en IA en instituciones de la administración
+         pública central, hasta la finalización de la vigencia de esta estrategia.
+
+         Método de cálculo:
+
+                                                                                   𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 𝑐𝑐𝑐𝑐𝑐𝑐 𝐼𝐼𝐼𝐼 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖
+               𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑑𝑑𝑑𝑑 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖 𝑐𝑐𝑐𝑐𝑐𝑐 𝐼𝐼𝐼𝐼 = (                                                                ) × 100
+                                                                                      𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑑𝑑𝑑𝑑 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖 𝑑𝑑𝑑𝑑 𝑙𝑙𝑙𝑙 𝐴𝐴𝐴𝐴𝐴𝐴
+
+         Responsable:                  Ministerio de Telecomunicaciones y de la Sociedad de la Información
+
+
+           INICIATIVA     Número de actividades de capacitación o formación relacionadas a Inteligencia
+             20           Artificial para los sectores productivos.
+
+
+         Línea Base:                   Cero
+         Meta:
+
+         Desarrollar 50 actividades de capacitación o formación relacionada a Inteligencia Artificial hasta
+         la finalización de la vigencia de esta estrategia.
+
+         Método de cálculo:
+                         𝑛𝑛
+                               𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑑𝑑𝑑𝑑 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐ó𝑛𝑛 𝑜𝑜 𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓ó𝑛𝑛 𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟𝑟 𝑐𝑐𝑐𝑐𝑐𝑐 𝐼𝐼𝐼𝐼 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝
+                        ∑
+                                                                         𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝
+                        𝑖𝑖=1
+
+                                       Instituciones de educación superior, Sector privado, Ministerio de Producción,
+         Responsable:                  Comercio Exterior e Inversiones, Ministerio de Telecomunicaciones y de la
+                                       Sociedad de la Información
+
+
+                                                                         43 / 53
+
+                                                                               47
+Lunes 19 de enero de 2026                                                                  Suplemento Nº 206 - Registro Oficial
+
+
+        INICIATIVA
+                     Protocolos de supervisión algorítmica que permitan verificar transparencia,
+                     trazabilidad, explicabilidad y mitigación de sesgos en algoritmos utilizados por
+          21
+                     instituciones y empresas.
+
+      Línea Base:           Cero
+      Meta:
+
+      1 protocolo de auditoría algorítmica hasta la finalización de la vigencia de esta estrategia.
+
+      Método de cálculo:
+
+                                    𝑛𝑛
+
+                                   ∑ 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑑𝑑𝑑𝑑 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎í𝑎𝑎𝑎𝑎 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎í𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡
+                                   𝑖𝑖=1
+
+
+      Responsables:         Instituciones de Educación Superior
+
+
+                                                       44 / 53
+
+                                                                  48
+Registro Oficial - Suplemento Nº 206                                              Lunes 19 de enero de 2026
+
+
+                                                         SEGUIMIENTO Y COORDINACIÓN
+
+    La Estrategia será coordinada por el Gobierno del Ecuador a través del ente rector de la transformación
+    digital, con la participación de las empresas, gremios, cámaras, universidades, sociedad civil, todos los
+    niveles de gobierno, ciudadanía, organismos y socios internacionales.
+    Así mismo como mecanismos de financiamiento se buscará recurrir a incentivos fiscales, fondos de
+    organismos multilaterales y asociaciones público-privadas para movilizar el presupuesto requerido.
+    De manera particular, se han determinado las siguientes roles y responsabilidades acorde a cada entidad
+    u organismo identificado:
+
+
+                            Ministerio de Telecomunicaciones y        Ente rector y coordinador
+                            de la Sociedad de la Información          general de la EFIA-EC
+
+
+                            Secretaría Nacional de la                 Alineación con el Plan
+                            Administración Pública y Gabinete         Nacional de Desarrollo
+
+
+                                                                      Implementadores
+                            Ministerios y entes de todos los          sectoriales y locales en el
+                            niveles de gobierno                       marco de sus competencias
+
+
+                            Socios estratégicos e
+                            implementadores                                 Generadores de
+                                                                            conocimiento y talento
+
+
+                              Supervisores y asesores
+                                                                           Socios estratégicos
+                                                                           implementadores y asesores
+
+
+                                                    45 / 53
+
+                                                        49
+Lunes 19 de enero de 2026                                          Suplemento Nº 206 - Registro Oficial
+
+
+                ENTIDAD                                     RESPONSABILIDAD
+
+
+               Ministerio de          Supervisar y dar seguimiento a la ejecución de los ejes de la EFIA-
+                                      EC, emitir normativas relacionadas, y liderar el Comité de
+       Telecomunicaciones y de la     Inteligencia Artificial (cuando sea conformado).
+       Sociedad de la Información
+      (Subsecretaria de fomento de
+      la Secretaría
+         Sociedad de la Información
+                    Nacional  de la   Integrar el fomento del desarrollo de las tecnologías emergentes
+            y economía  digital)
+         Administración Pública y     en la planificación nacional, para monitoreo de indicadores y
+                                      gestión de financiamiento público.
+                Gabinete
+
+                                      Adoptar soluciones basadas en IA, procurar la formación de
+               Ministerios            talento humano, y mejorar los servicios ciudadanos en sus
+                                      ámbitos de acción, observando las directrices, lineamientos y
+                                      demás instrumentos que emita para el efecto el MINTEL.
+
+
+      Todos los niveles de Gobierno   Implementar iniciativas de inclusión digital y adoptar soluciones
+                                      basadas en IA en servicios a la ciudadanía.
+
+
+             Sector Privado           Desarrollar modelos de IA, cofinanciar proyectos, proveer
+                                      tecnología y formación.
+
+
+                                      Liderar I+D+i, formar profesionales, y desarrollar soluciones
+               Academia               inclusivas.
+
+
+             Sociedad civil y
+             Organizaciones           Monitorear la ética y equidad, proveer asistencia técnica y
+                                      financiamiento, y garantizar participación ciudadana.
+             Internacionales
+
+
+                                      Desarrollar modelos de IA, dar acompañamiento y asesora en los
+         Estados Internacionales      modelos de gestión y/o infraestructura, cofinanciar proyectos,
+                                      proveer tecnología y formación.
+
+
+                                           46 / 53
+
+                                                50
+Registro Oficial - Suplemento Nº 206                                                 Lunes 19 de enero de 2026
+
+
+       6. GLOSARIO DE TÉRMINOS
+    Para efectos de la aplicación del presente instrumento, en el contexto de la Inteligencia Artificial, se
+    establecen las siguientes definiciones:
+        •   Algoritmo: Secuencia finita de instrucciones bien definidas que un sistema computacional puede
+            ejecutar para resolver un problema específico o realizar una tarea determinada.
+        •   Aprendizaje Automático (Machine Learning): Proceso mediante el cual un sistema de
+            Inteligencia Artificial mejora su rendimiento en una tarea específica a través de la experiencia,
+            sin ser programado explícitamente para cada situación.
+        •   Auditoría de IA: Proceso sistemático de evaluación y verificación del cumplimiento de estándares
+            éticos, legales y técnicos en sistemas de Inteligencia Artificial.
+        •   Ciberseguridad: El conjunto de herramientas, políticas, conceptos de seguridad, salvaguardas de
+            seguridad, directrices, métodos de gestión de riesgos, acciones, formación, prácticas idóneas,
+            seguros y tecnologías que pueden utilizarse para proteger los activos de la organización y los
+            usuarios en el ciberentorno.
+        •   Comunidad educativa: La comunidad educativa es el conjunto de actores directamente
+            vinculados a una institución educativa determinada, con sentido de pertenencia e identidad,
+            compuesta por autoridades, docentes, estudiantes, madres y padres de familia o representantes
+            legales y personal administrativo y de servicio.
+        •   Conectividad significativa: Es un concepto promovido por la Unión Internacional de
+            Telecomunicaciones (UIT), es la posibilidad de que cualquier persona disfrute de una experiencia
+            en línea segura, satisfactoria, enriquecedora y asequible, que le permita participar activamente
+            y sacar provecho de la tecnología para el desarrollo social y económico. No es solo el acceso a
+            Internet, sino la capacidad de usarlo de forma efectiva y con propósito
+        •   Confianza Digital: En sistemas de Inteligencia Artificial, se refiere a la creencia de los usuarios y
+            la sociedad en que estos sistemas operan de manera segura, transparente, ética y responsable,
+            respetando derechos humanos, protegiendo datos personales y evitando daños o
+            discriminación. (OCDE, 2023).
+        •   Datos de Entrenamiento: Conjunto de información utilizada para enseñar a un sistema de
+            Inteligencia Artificial a reconocer patrones y realizar tareas específicas.
+        •   Desarrollador/a de IA: Un desarrollador de Inteligencia Artificial es una organización o entidad
+            que se ocupa del desarrollo de servicios y productos de Inteligencia Artificial. Algunos ejemplos
+            de desarrolladores de Inteligencia Artificial son, entre otros:
+                 o   Diseñador de modelos: la entidad que recibe datos y una especificación de problemas y
+                     crea un modelo de Inteligencia Artificial;
+                 o   Implementador de modelos: la entidad que recibe un modelo de Inteligencia Artificial y
+                     especifica que calculo ejecutar (la implementación que se utilizara y en que recursos de
+                     cálculo, por ejemplo, CPU, GPU, ASIC, FPGA);
+                 o   Verificador de cálculos: la entidad que verifica que un cálculo se esté ejecutando según
+                     lo diseñado;
+                 o   Verificador de modelos: la entidad que verifica que el modelo de Inteligencia Artificial
+                     esté funcionando según lo diseñado
+
+
+                                                   47 / 53
+
+                                                        51
+Lunes 19 de enero de 2026                                            Suplemento Nº 206 - Registro Oficial
+
+
+    •   Explicabilidad: Capacidad de un sistema de Inteligencia Artificial para proporcionar información
+        comprensible sobre cómo llega a sus decisiones o predicciones.
+    •   IA Generativa: Tipo de inteligencia artificial capaz de crear contenido nuevo como texto,
+        imágenes, audio o código basándose en patrones aprendidos.
+    •   Implementador/a: Toda persona natural o jurídica que despliega un sistema de Inteligencia
+        Artificial.
+    •   Inclusión Digital: Es el acceso equitativo, asequible y significativo a las Tecnologías de la
+        Información y Comunicación (TIC), especialmente para grupos históricamente excluidos
+        (población rural, adultos mayores, personas con discapacidad y comunidades indígenas), con el
+        fin de reducir brechas socioeconómicas y garantizar el ejercicio de derechos digitales. (Ley
+        Orgánica de Telecomunicaciones, Art. 3, reformado en 2021).
+    •   Integridad de Datos: Principio que asegura la precisión, completitud y confiabilidad de los datos
+        utilizados por sistemas de Inteligencia Artificial a lo largo de su ciclo de vida.
+    •   Modelo de IA: Representación matemática o computacional que permite a un sistema procesar
+        datos de entrada y generar salidas predictivas o decisionales.
+    •   Nube: Paradigma para permitir el acceso en red a un conjunto escalable y flexible de recursos
+        físicos o virtuales, tales como servidores, sistemas operativos, redes, software, aplicaciones y
+        equipos de almacenamiento, compartibles a través de medios automatizados y administración
+        de autoservicio.
+    •   Nube Pública: Modelo de despliegue en el que los servicios en nube están potencialmente
+        disponibles para cualquier cliente de dichos servicios y los recursos son controlados por el
+        proveedor de los servicios en nube.
+    •   Privacidad Diferencial: Técnica que permite obtener información útil de bases de datos mientras
+        se protege la privacidad de individuos específicos.
+    •   Procesamiento de Lenguaje Natural (PLN): Área de la Inteligencia Artificial que permite a las
+        máquinas comprender, interpretar y generar lenguaje humano de manera natural.
+    •   Puntos Digitales Gratuitos: Son espacios comunitarios de participación y desarrollo para acercar
+        las tecnologías a los ciudadanos de parroquias rurales y urbano marginales, que permiten el
+        acceso inclusivo y gratuito a servicios de Internet y de computación, así como capacitaciones
+        gratuitas en Tecnologías de la Información y Comunicación para los ciudadanos de estos sectores,
+        con el objetivo de reducir la brecha digital del país.
+    •   Red Neuronal: Modelo computacional inspirado en la estructura del cerebro humano,
+        compuesto por nodos interconectados que procesan información de manera distribuida.
+    •   Responsabilidad Algorítmica: Principio que establece cadenas claras de responsabilidad para las
+        decisiones tomadas por sistemas automatizados.
+    •   Riesgo: Efecto de la incertidumbre sobre los objetivos.
+    •   Robótica: Disciplina que combina Inteligencia Artificial con sistemas mecánicos para crear
+        máquinas capaces de realizar tareas físicas de forma autónoma.
+    •   Sandbox regulatorio: Un entorno regulatorio de pruebas (sandbox) generalmente implica una
+        exención o flexibilidad regulatoria temporal, lo que permite probar nuevos productos, servicios
+        o modelos de negocio con menos restricciones regulatorias. El propósito de los entornos de
+
+
+                                              48 / 53
+
+                                                     52
+Registro Oficial - Suplemento Nº 206                                              Lunes 19 de enero de 2026
+
+
+          pruebas es comprender las oportunidades y los riesgos asociados a innovaciones específicas y
+          desarrollar un entorno regulatorio adecuado para incorporarlos eficazmente (OCDE, 2024).
+      •   Seguridad de la información: Conjunto de medidas preventivas y reactivas de las instituciones y
+          de los sistemas tecnológicos que permiten la preservación de la confidencialidad, integridad y
+          disponibilidad de la información.
+      •   Sesgo: Diferencia sistemática en el tratamiento de ciertos objetos, personas o grupos en
+          comparación con otros.
+      •   Sistema de Inteligencia Artificial: Sistema diseñado que genera resultados como contenido,
+          pronósticos, recomendaciones o decisiones para un conjunto determinado de objetivos
+          definidos por el ser humano.
+      •   Sistema Educativo Nacional: Conjunto de instituciones, programas y actores que proveen
+          educación a toda la población, garantizando el acceso a este derecho fundamental a lo largo de
+          la vida. Se rige por la Ley Orgánica de Educación Intercultural y comprende los niveles de
+          educación inicial, educación general básica y bachillerato, seguidos por la educación superior.
+      •   Supervisión Humana: Principio que garantiza que las decisiones críticas de sistemas de
+          Inteligencia Artificial mantengan control y supervisión por parte de personas capacitadas.
+      •   Transparencia: Principio que exige que los procesos de toma de decisiones de la Inteligencia
+          Artificial sean comprensibles y accesibles para usuarios y afectados.
+      •   Uso Indebido: Utilización, operación o implementación de un sistema de Inteligencia Artificial
+          que no corresponde con la finalidad prevista en su diseño ni con el objeto o principios enunciados
+          en el presente instrumento y que atiende fines ajenos al interés general buscando un beneficio
+          ilícito o incluso causar daño o generar riesgos a terceros o a sus derechos fundamentales,
+          pudiendo este darse de forma intencional o involuntaria.
+      •   Uso Indebido Razonablemente Previsible: Uso indebido que puede deducirse de un
+          comportamiento humano o una interacción con otros sistemas, incluidos otros sistemas de
+          Inteligencia Artificial, de forma razonablemente previsible.
+      •   Usuario de Inteligencia Artificial: Un usuario de Inteligencia Artificial es una organización o
+          entidad que utiliza productos o servicios de Inteligencia Artificial.
+      •   Visión por Computadora: Capacidad de un sistema para interpretar y entender información
+          visual del mundo real, como imágenes y videos.
+      •   Zonas de experimentación regulatoria: Un entorno regulatorio controlado para realizar pruebas
+          en vivo de productos, soluciones y servicios innovadores con potencial para profundizar y
+          desarrollar ciertos mercados. Estas pruebas se realizan con soluciones listas para el mercado, por
+          un período limitado y a una escala limitada, con el fin de obtener una experiencia de usuario
+          completa, minimizando los riesgos asociados. (ITU, 2023)
+  Estos términos y definiciones deberán ser usados como guía en la construcción del marco normativo
+  integral relativo a la investigación, el desarrollo, la innovación, la implementación y el uso ético y
+  responsable de los sistemas de inteligencia artificial. Se han establecido acorde a las Normas ISO/IEC
+  22989 (Tecnologías de la Información — Inteligencia Artificial — Conceptos y Terminología de Inteligencia
+  Artificial) e ISO/IEC 22123 (Tecnologías de la Información — Computación en Nube — Vocabulario), las
+  cuales tienen como finalidad establecer un lenguaje común en el ámbito de la Inteligencia Artificial y
+  Computación en Nube para facilitar la comunicación entre empresas, investigadores y organismos
+  reguladores.
+
+
+                                                49 / 53
+
+                                                      53
+Lunes 19 de enero de 2026                                              Suplemento Nº 206 - Registro Oficial
+
+
+      7. SIGLAS
+          SIGLA                                        SIGNIFICADO
+
+     APC          Administración Pública Central
+     BID          Banco Interamericano de Desarrollo
+     CITEC        Cámara de Innovación y Tecnología Ecuatoriana
+     COCIBER      Comando Conjunto de las Fuerzas Armadas en el Ciberespacio
+     CSIRT        Equipo de Respuesta ante Incidentes de Seguridad Informática
+     DIGERCIC     Dirección General de Registro Civil, Identificación y Cedulación
+     DINARP       Dirección Nacional de Registros Públicos
+     ESPOL        Escuela Politécnica del Litoral
+     GAD          Gobiernos Autónomos Descentralizados
+     IA           Inteligencia Artificial
+     I+D+i        Investigación, Desarrollo e Innovación
+     IESS         Instituto Ecuatoriano de Seguridad Social
+     INEC         Instituto Nacional de Estadística y Censos
+     INEN         Servicio Ecuatoriano de Normalización
+     ISTLAM       Instituto Superior Tecnológico Luis Arboleda Martínez
+     LOTDA        Ley Orgánica para la Transformación Digital y Audiovisual
+     MINTEL       Ministerio de Telecomunicaciones y de la Sociedad de la Información
+     MINEDEC      Ministerio de Educación, Deporte y Cultura
+     OCDE         Organización para la Cooperación y el Desarrollo Económicos
+     ODS          Objetivos de Desarrollo Sostenible
+     PNUD         Programa de las Naciones Unidas para el Desarrollo
+     EFIA-EC      Estrategia para el Fomento de la Inteligencia Artificial en el Ecuador
+     SENADI       Servicio Nacional de Derechos Intelectuales
+     SENESCYT     Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación
+     SERCOP       Servicio Nacional de Contratación Pública
+     SRI          Servicio de Rentas Internas
+     STEM         Ciencia, Tecnología, Ingeniería y Matemáticas
+     TIC          Tecnologías de la Información y la Comunicación
+
+
+                                                    50 / 53
+
+                                                       54
+Registro Oficial - Suplemento Nº 206                                            Lunes 19 de enero de 2026
+
+
+     UDLA        Universidad de las Américas
+     UIT         Unión Internacional de Telecomunicaciones
+     UNESCO      Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura
+     USFQ        Universidad San Francisco de Quito
+     UTPL        Universidad Técnica Particular de Loja
+
+
+                                                51 / 53
+
+                                                      55
+Lunes 19 de enero de 2026                                         Suplemento Nº 206 - Registro Oficial
+
+
+       8. BIBLIOGRAFÍA
+   Banco Mundial. (2020). IA en América Latina.
+
+   CENIA. (2025). Índice Latinoamericano de Inteligencia Artificial. Santiago, Chile: Naciones
+          Unidas.
+
+   CES. (2025). Obtenido de https://appcmi.ces.gob.ec/oferta_vigente/container.php
+
+   INEC. (Julio de 2024). Tecnologías de la información y comunicación. Obtenido de
+          https://www.ecuadorencifras.gob.ec/documentos/web-
+          inec/Estadisticas_Sociales/TIC/2024/202407_Tecnologia_de_la_Informacion_y_Comu
+          nicacion-TICs.pdf
+
+   OCDE.      (2019). Principios de IA. Obtenido de Planteamientos                  de    la   OCDE:
+             https://www.oecd.org/en/topics/ai-principles.html
+
+   Oxford       Insights.   (2024).   Government      AI    Readiness    Index.      Obtenido      de
+             https://oxfordinsights.com/ai-readiness/ai-readiness-index/
+
+   Scherer, M. U. (2015). Regulating artificial intelligence systems: Risks, challenges, competencies,
+           and strategies.
+
+   Scopus.            (2025).        Scopus         Preview.         Obtenido                      de
+             https://www.scopus.com/home.uri?zone=header&origin=sbrowse
+
+   UNESCO. (2021). Recomendación sobre la ética de la inteligencia artificial. Obtenido de
+         https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa
+
+
+                                               52 / 53
+
+                                                   56
+Registro Oficial - Suplemento Nº 206                           Lunes 19 de enero de 2026
+
+
+    CONSTRUCCIÓN Y REVISIÓN
+
+                                  Nombre / Cargo                      Firma
+                     Jorge Richard Ortega Poveda
+                                                                   Firmado electrónicamente por:
+
+
+                     Analista Técnico 3                            JORGE RICHARD
+                                                                   ORTEGA POVEDA
+                     Dirección de Fomento de Tecnologías           Validar únicamente con FirmaEC
+
+
+                     Emergentes
+                     Luis Oswaldo Rivera Pastrano
+                     Analista Técnico 2
+                                                                 Firmado electrónicamente por:
+                                                                 LUIS OSWALDO RIVERA
+                                                                 PASTRANO
+                     Dirección de Fomento de Tecnologías         Validar únicamente con FirmaEC
+
+
+                     Emergentes
+                     Rocío de Jesús Malla Bustamante
+     Equipo
+                     Analista Técnico 1
+                                                               Firmado electrónicamente por:
+
+     Técnico:                                                  ROCIO DE JESUS
+                                                               MALLA BUSTAMANTE
+                     Dirección de Fomento de Tecnologías       Validar únicamente con FirmaEC
+
+
+                     Emergentes
+                     María Cristina Zaidán Albuja
+                     Analista Técnico 1
+                                                                    Firmado electrónicamente por:
+                                                                    MARIA CRISTINA
+                                                                    ZAIDAN ALBUJA
+                     Dirección de Fomento de Tecnologías            Validar únicamente con FirmaEC
+
+
+                     Emergentes
+                     Juan Carlos Chiluiza Mejía                Firmado electrónicamente por:
+                                                               JUAN CARLOS
+                                                               CHILUIZA MEJIA
+                     Especialista                              Validar únicamente con FirmaEC
+
+
+                     Dirección de Fomento de Tecnologías
+                     Emergentes
+                     Marco Javier Insuasti Basantes
+                     Director                                    Firmado electrónicamente por:
+                                                                 MARCO JAVIER
+                                                                 INSUASTI BASANTES
+                     Dirección de Fomento de Tecnologías         Validar únicamente con FirmaEC
+
+
+     Revisión:       Emergentes
+                     Viktor Ulises Aguila Ramírez
+                                                                  Firmado electrónicamente por:
+
+                     Subsecretario                                VIKTOR ULISES
+                                                                  AGUILA RAMIREZ
+                     Subsecretaría de Fomento de la Sociedad
+                                                                  Validar únicamente con FirmaEC
+
+
+                     de la Información y Economía Digital
+
+                     Ricardo Xavier Gutiérrez Cevallos              Firmado electrónicamente por:
+
+     Aprobación:                                                    RICARDO XAVIER
+                                                                    GUTIERREZ CEVALLOS
+                     Viceministro de Tecnologías de la              Validar únicamente con FirmaEC
+
+
+                     Información y Comunicación
+
+
+                                            53 / 53
+
+                                                  57

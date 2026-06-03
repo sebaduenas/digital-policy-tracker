@@ -1,0 +1,167 @@
+DE APROBACI�N DE LA “ESTRATEGIA NACIONAL DE CIBERSEGURIDAD 2020-2025”
+Legislaci�n de Nicaragua
+Normas Jur�dicas
+...
+_Publicaci�n oficial
+Categor�a normativa: Decreto Presidencial
+Materia: S/Definir
+Enlace a Legislaci�n Relacionada
+DE APROBACI�N DE LA “ESTRATEGIA NACIONAL DE CIBERSEGURIDAD 2020-2025”
+DECRETO PRESIDENCIAL N�. 24-2020, aprobado el 24 de septiembre de 2020
+Publicado en La Gaceta, Diario Oficial N�. 178 del 29 de septiembre de 2020
+Gobierno de Reconciliaci�n y Unidad Nacional
+Unida Nicaragua Triunfa
+DECRETO PRESIDENCIAL N�. 24-2020
+El Presidente de la Rep�blica de Nicaragua
+Comandante Daniel Ortega Saavedra
+CONSIDERANDO
+I
+Que el uso del ciberespacio representa un desaf�o global, por sus potenciales y diversas afectaciones econ�micas y sociales, demanda desarrollar una cultura de seguridad cibern�tica.
+II
+Que el Modelo Cristiano, Socialista y Solidario, garantiza la articulaci�n, complementariedad y unidad del Gobierno y el pueblo organizado, para promover la restituci�n de derechos, la equidad y los Derechos Humanos de los y las nicarag�enses.
+lll
+Que los ciudadanos, el Estado y la sociedad requieren contar con un Ciberespacio confiable y seguro que fortalezcan los actuales niveles de seguridad soberana en funci�n del desarrollo sostenible del pa�s.
+En uso de las facultades que le confiere la Constituci�n Pol�tica
+HA DICTADO
+El siguiente:
+DECRETO
+DE APROBACI�N DE LA "ESTRATEGIA NACIONAL DE CIBERSEGURIDAD 2020 - 2025".
+Art�culo 1. Apru�bese la "ESTRATEGIA NACIONAL DE CIBERSEGURIDAD 2020-2025", la cual se anexa al presente Decreto Presidencial.
+Art�culo 2. Instruir al Ministerio de Relaciones Exteriores para que en conjunto con el Instituto Nicarag�ense de Telecomunicaciones y Correos (TELCOR) y las instituciones que tengan competencia en el tema de ciberseguridad, elaboren el Plan de Acci�n correspondiente.
+Art�culo 3. El presente Decreto entrar� en vigencia a partir de su publicaci�n. Publ�quese en La Gaceta, Diario Oficial.
+Dado en la Ciudad de Managua, Casa de Gobierno, Rep�blica de Nicaragua, el d�a veinticuatro de septiembre del a�o dos mil veinte. Daniel Ortega Saavedra, Presidente de la Rep�blica de Nicaragua. Paul Oquist Kelley, Secretario Privado para Pol�ticas Nacionales.
+Estrategia Nacional de Ciberseguridad
+2020 – 2025
+I.-INTRODUCCI�N ..............................................................................................................4
+II.- CONTEXTO (ANTECEDENTES) ...................................................................................5
+III. PRINCIPIOS RECTORES ............................................................................................. 6
+a. Protecci�n de los Derechos de los ciudadanos en el
+Ciberespacio....................................................................................................................... 7
+b. Gesti�n de Riesgos y Capacidad de Resiliencia............................................................ 6
+c. Protecci�n y Defensa del Ciberespacio.......................................................................... 7
+d. Desarrollo de Alianzas y colaboraciones
+Nacionales e Internacionales.............................................................................................. 7
+IV.- ESTRATEGIA NACIONAL DE CIBERSEGURIDAD .................................................. 8
+a. Estructura y Alcance de la Estrategia............................................................................. 8
+b. Objetivo General. ........................................................................................................... 9
+c. Objetivos Espec�ficos...................................................................................................... 9
+d. Ejes Estrat�gicos: .......................................................................................................... 9
+Eje Estrat�gico 1:
+Fortalecimiento Institucional. ............................................................................................. 9
+Eje Estrat�gico 2:
+Fortalecimiento del Marco Jur�dico................................................................................... 11
+Eje Estrat�gico 3:
+Educaci�n, Formaci�n y Capacitaci�n............................................................................. 11
+Eje Estrat�gico 4:
+Fortalecimiento Tecnol�gico............................................................................................ 13
+Eje Estrat�gico 5:
+Seguridad y Resiliencia de los Servicios e
+Infraestructuras Cr�ticas a Nivel Nacional...................................................................... 13
+VI.- GLOSARIO ............................................................................................................. 15
+l. INTRODUCCI�N
+La adopci�n de las Tecnolog�as de Informaci�n y la Comunicaci�n TIC, unido a la conectividad mediante el uso del Internet y la banda ancha, a nivel global, ha sido un promotor del desarrollo socioecon�mico de los pa�ses. Su uso ha impactado en la competitividad a nivel mundial de manera positiva al mejorar la eficiencia y productividad.
+Sin embargo, existen riesgos y amenazas cibern�ticas asociadas al uso de las TIC's (Tecnolog�as de la informaci�n y comunicaci�n), que requiere de los pa�ses, desarrollar estructuras organizacionales, estrategias, marcos jur�dicos y capacidades de defensa avanzadas para enfrentarlas.
+Lo antes mencionado, hace imprescindible contar con una Estrategia Nacional de Ciberseguridad para la gesti�n y minimizaci�n de riesgos ante este nuevo tipo de amenazas, as� como las reglas para adquirir y operar tecnolog�a, tomando en cuenta el contexto nacional e internacional en materia de ciberseguridad.
+La Estrategia Nacional de Ciberseguridad (ENC) establece la posici�n de Nicaragua ante una nueva concepci�n de la ciberseguridad, en avance a sus esfuerzos por contribuir a la promoci�n del ciberespacio seguro y confiable dentro del territorio nicarag�ense, en el marco de la Pol�tica de Seguridad Nacional.
+II. CONTEXTO (ANTECEDENTES)
+En el contexto internacional, ante la vulnerabilidad que identifica la comunidad internacional en el uso del ciberespacio, la Organizaci�n de la Naciones Unidas y la Organizaci�n de los Estados Americanos han adoptado resoluciones dirigidas a la creaci�n de una "Cultura Mundial de Seguridad Cibern�tica y la Protecci�n de las Infraestructuras de Informaci�n Esenciales" y la adopci�n de una "Estrategia Interamericana Integral de Seguridad Cibern�tica: Un Enfoque Multidimensional y Multidisciplinario para la Creaci�n de una Cultura de Seguridad Cibern�tica", respectivamente.
+En la regi�n latinoamericana los pa�ses, entre ellos Nicaragua, han iniciado la elaboraci�n de estrategias de ciberseguridad para garantizar la protecci�n de los derechos de los ciudadanos, del Estado y la sociedad en general en el uso de las TICs, adoptando y teniendo como referencias las resoluciones de las organizaciones antes mencionadas.
+Por otra parte, la aplicaci�n de pol�ticas p�blicas, y las condiciones de estabilidad econ�mica en Nicaragua, han permitido un incremento de la inversi�n y en particular, el desarrollo del sector de las telecomunicaciones, presentando logros importantes en cuanto al acceso y uso de las Tecnolog�as de la Informaci�n y Comunicaci�n; as� mismo, la ampliaci�n de la infraestructura tecnol�gica de banda ancha, incidiendo de forma importante en el desarrollo econ�mico y social del pa�s.
+En el marco de las pol�ticas p�blicas de Nicaragua, en el PROGRAMA NACIONAL DE DESARROLLO HUMANO 2018-2021 contiene ejes de seguridad soberana y desarrollo de las telecomunicaciones, sobre los cuales se fundamenta la creaci�n de la Estrategia Nacional de Ciberseguridad, que permite continuar implementando los planes y programas que garanticen que Nicaragua siga siendo el pa�s m�s seguro de la regi�n centroamericana.
+En este sentido, aunque se cuenta con avances en materia de ciberseguridad, los �mbitos que requieren continuar fortaleci�ndose por medio de la creaci�n de una Estrategia Nacional de Ciberseguridad son: La estructura organizacional, el marco regulatorio; la infraestructura tecnol�gica; el talento humano del personal t�cnico; y primordialmente las capacidades de los ciudadanos en el uso seguro y responsable de las TIC's.
+III. PRINCIPIOS RECTORES
+La Estrategia Nacional de Ciberseguridad de la Rep�blica de Nicaragua est� establecida sobre cuatro principios fundamentales:
+a. Garant�a de la Soberan�a y Protecci�n de los Derechos de los ciudadanos en el Ciberespacio.
+El Estado de Nicaragua, promueve, protege y salvaguarda su soberan�a y los derechos de los ciudadanos, creando las condiciones para el uso soberano, seguro, responsable, libre y confiable del ciberespacio en el territorio nacional.
+b. Gesti�n de Riesgos y Capacidad de Resiliencia.
+La Estrategia Nacional de Ciberseguridad considera la realizaci�n de acciones para contar con una infraestructura TIC, robusta y resiliente, preparada para resistir y recuperarse de incidentes de ciberseguridad, aplicando las mejores pr�cticas internacionales en la gesti�n de riesgos.
+c. Protecci�n y Defensa del Ciberespacio.
+La ENC establece potenciar las capacidades t�cnicas, orientadas a la protecci�n del Ciberespacio nicarag�ense, infraestructura cr�tica, informaci�n y los servicios a la poblaci�n, derivadas de �sta, cuya interrupci�n afectar�a negativamente a los diferentes sectores econ�micos del pa�s.
+d. Desarrollo de Alianzas y colaboraciones Nacionales e Internacionales.
+Este principio promueve la articulaci�n y cooperaci�n entre las instituciones p�blicas y privadas, nacionales e internacionales para la implementaci�n, desarrollo y consolidaci�n de la Estrategia Nacional de Ciberseguridad.
+IV. ESTRATEGIA NACIONAL DE CIBERSEGURIDAD
+a. Estructura y Alcances de la Estrategia.
+La Estrategia Nacional de Ciberseguridad fija las directrices y l�neas generales de acciones para hacer frente al desaf�o que representa para el pa�s la vulnerabilidad del ciberespacio.
+Esta Estrategia establece un modelo de gobernanza para la ciberseguridad nacional con un conjunto de herramientas, pol�ticas, conceptos de seguridad, directrices, m�todos de gesti�n de riesgos, formaci�n de talento humano especializado, pr�cticas id�neas y tecnolog�as que pueden utilizarse para proteger la informaci�n y los activos del territorio nicarag�ense y a los usuarios en el ciberespacio nacional.
+As� mismo, se basa en un esquema que contiene un objetivo general y dos objetivos espec�ficos transversales a todos los �mbitos; ejes estrat�gicos dirigidos al fortalecimiento institucional; al fortalecimiento del marco administrativo y jur�dico, a la educaci�n, formaci�n y capacitaci�n; al fortalecimiento tecnol�gico; a la seguridad y resiliencia de los servicios e infraestructuras cr�ticas a nivel nacional, todo ello, conforman una matriz estrat�gica para promover la ciberseguridad hacia un modelo presente y futuro.
+La presente estrategia es de naturaleza din�mica, responde a un plazo de implementaci�n de cinco a�os, la cual ser� actualizada de acuerdo a las necesidades del pa�s; as� como del resultado de las evaluaciones de amenazas a la ciberseguridad.
+b. Objetivo General
+Garantizar el uso soberano, seguro y confiable del ciberespacio, que permita el aprovechamiento de las TIC's como herramienta que contribuya a la paz, la estabilidad, la seguridad y el desarrollo sostenible del pa�s.
+c. Objetivos Espec�ficos
+1. Establecer las condiciones administrativas y jur�dicas en materia de ciberseguridad.
+2. Establecer las condiciones t�cnicas de seguridad y resiliencia de las TIC' s en infraestructuras cr�ticas, del sector p�blico y dem�s sectores econ�micos del pa�s.
+d. Ejes Estrat�gicos
+EJE
+ESTRAT�GICO
+FORTALECIMIENTO INSTITUCIONAL
+L�neas de Acci�n
+a) Establecer un �rgano de naturaleza consultiva en materia de Ciberseguridad integrado por instituciones p�blicas y privadas para la elaboraci�n de propuestas de pol�ticas, programas y Proyectos.
+b) Establecer un �rgano administrativo y t�cnico con el fin de implementar, adoptar y promover las pol�ticas, planes, programas y proyectos del sector de las Tecnolog�as de la Informaci�n y las Comunicaciones.
+c) Establecer un Equipo de Respuesta ante Emergencias Inform�ticas, para prevenir, mitigar y responder a los incidentes de ciberseguridad.
+d) Desarrollar cooperaci�n, intercambio, notificaci�n y alertas entre las instituciones de gobierno e instituciones internacionales hom�logas en materia de ciberseguridad.
+e) Fortalecer y potenciar la participaci�n de Nicaragua en eventos y foros internacionales en materia de ciberseguridad.
+f) Fortalecer la colaboraci�n entre los organismos competentes y relacionados a la administraci�n de justicia.
+g) Formular e implementar un sistema de indicadores que permita medir la eficacia y eficiencia de la Estrategia Nacional de Ciberseguridad.
+EJE
+ESTRAT�GICO
+FORTALECIMIENTO DEL MARCO JUR�DICO
+L�neas de Acci�n
+a) Revisar y actualizar el marco jur�dico y administrativo en materia de ciberseguridad y TJC's.
+b) Fortalecer la cooperaci�n internacional en materia de ciberseguridad.
+c) Crear mecanismos �giles y seguros para la denuncia ciudadana sobre hechos de cibercrimen.
+d) Adoptar normas y pr�cticas internacionales relacionadas a la gesti�n de riesgos basadas en los est�ndares de la industria en materia de Ciberseguridad.
+EJE
+ESTRAT�GICO
+EDUCACI�N, FORMACI�N Y CAPACITACI�N
+L�neas de Acci�n
+a) Promover e impulsar la formaci�n en ciberseguridad en todas las instituciones del Estado, y profesionales del Derecho para el uso responsable y seguro de las TICs.
+b) Procurar a los operadores jur�dicos el acceso a informaci�n y recursos materiales que aseguren una mejor aplicaci�n del marco jur�dico y t�cnico, relacionado con la ciberdelincuencia.
+c) Incorporar en el sistema educativo nacional el conocimiento en ciberseguridad.
+d) Impulsar una cultura de ciberseguridad en el territorio nacional con la articulaci�n de actores relevantes, para la realizaci�n de foros y campa�as de sensibilizaci�n.
+e) Fortalecer alianzas entre el Estado, instituciones acad�micas y empresas privadas, para la formaci�n de talento humano.
+f) Promover el aprovechamiento de programas de capacitaci�n y asistencia t�cnica internacional en materia de ciberseguridad.
+g) Fomentar la cooperaci�n, el intercambio de informaci�n, experiencia y conocimientos entre los �rganos responsables de la investigaci�n y los organismos judiciales nacionales e internacionales competentes en persecuci�n de la ciberdelincuencia.
+h) Promover la colaboraci�n e investigaci�n entre centros de capacitaci�n y aprendizaje en materia de ciberseguridad.
+EJE
+ESTRAT�GICO
+FORTALECIMIENTO TECNOL�GICO
+L�neas de Acci�n
+a) Impulsar y potenciar programas de apoyo especializados en investigaci�n, desarrollo e innovaci�n (I+D+i), en ciberseguridad dirigidos a universidades, empresas, pymes, etc. as� mismo fortalecer el talento humano.
+b) Impulsar pol�ticas de uso, protecci�n y aprovechamiento de Propiedad Intelectual derivadas de la investigaci�n.
+c) Implementar plataformas y tecnolog�as para la prevenci�n, detecci�n y respuesta a ciber incidentes.
+EJE
+ESTRAT�GICO
+SEGURIDAD Y RESILIENCIA DE LOS
+SERVICIOS E INFRAESTRUCTURAS CRITICAS
+A NIVEL NACIONAL
+L�neas de Acci�n
+a) Implementar planes de coordinaci�n e intercambio de informaci�n entre los sectores p�blicos y privados para la gesti�n del riesgo.
+b) Identificar los servicios e infraestructuras cr�ticas a nivel nacional.
+c) Formular pol�ticas de seguridad e implementar protocolos de prevenci�n, detecci�n y respuesta ante ataques a los servicios, sistemas de informaci�n e infraestructuras cr�ticas.
+d) Establecer mecanismos para la prevenci�n, detecci�n, mitigaci�n y restauraci�n de los servicios e infraestructuras cr�ticas.
+IV. GLOSARIO DE T�RMINOS
+Amenaza: Signo o indicio que anuncia un peligro. Acci�n o evento susceptible de producirse, transformarse en agresi�n contra un entorno o unos recursos y actuar en detrimento de su seguridad Fuente: Gu�a de Ciberseguridad para los pa�ses en desarrollo. https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-SECU2007-PDF-S.pdf
+Ciberamenazas: El potencial de un intento malicioso de da�ar o interrumpir una red inform�tica o sistema con acceso no autorizado a un dispositivo del sistema de control que utiliza una v�a de comunicaci�n de datos. Las amenazas para controlar los sistemas pueden provenir de numerosas fuentes, incluidos gobiernos hostiles, grupos terroristas, empleados descontentos e intrusos maliciosos.
+Fuente: https://www.itu.int/dms pub/itu-d/opb/str/D-STRGCl.01-2018-PDF-E.pdf
+Cibercriminalidad o Cibercrimen: Capacidad de acceder sin previo consentimiento a informaci�n y datos que son propiedad de gobiernos, personas o empresas.
+Fuente: http://www.iri.edu.ar/wp-content/uploads/2016/11/syd 15
+Entrevista_corbino_cibercrimen.pdf.
+Ciberespacio: �mbito virtual creado por medios inform�ticos.
+Fuente: https://dle.rae.es/ciberespacio?m=form
+Ciberseguridad: El conjunto de herramientas, pol�ticas, conceptos de seguridad, salvaguardas de seguridad, directrices, m�todos de gesti�n de riesgos, acciones, formaci�n, pr�cticas id�neas, seguros y tecnolog�as que pueden utilizarse para proteger los activos de la organizaci�n y los usuarios en el ciberentorno.
+Fuente: UIT-T Rec. X.1205 (04/2008) Aspectos generales de la ciberseguridad https://www.itu.int/rec/T-REC-X . 1205- 200804-I/es
+Econom�a Digital: La econom�a digital se constituye como un ecosistema, en el que convergen la infraestructura de las redes de comunicaci�n, los servicios de procesamiento y las tecnolog�as web, y las/os usuarias/os finales (individuos, empresas, gobierno), y ser� el grado de desarrollo y complementaci�n de estos componentes lo que define el nivel de avance de cada pa�s.
+Fuente: https://es.wikipedia.org/wiki/Econom%C3 %A Da_digital#Definici %C3%B3 n
+ENC: Estrategia Nacional de Ciberseguridad
+I+D+i: Investigaci�n, desarrollo e innovaci�n.
+Infraestructura cr�tica: El elemento, sistema o parte de este, situado en el pa�s que es esencial para el mantenimiento de funciones sociales vitales, la salud, la integridad f�sica, la seguridad, y el bienestar social y econ�mico de la poblaci�n y cuya perturbaci�n o destrucci�n afectar�a gravemente al pa�s.
+Fuente: Definici�n adaptada de https://eur-lex.europa.eu/legal content/ES/TXT/?uri=CELEX:32008L0114
+ISP: Proveedor de servicios de internet.
+Resiliencia: Capacidad de la organizaci�n para manejar las diversas amenazas que enfrentan, mejorando su postura para mitigar o reducir los impactos asociados. Fuente: Instituto de Gesti�n de Continuidad de Negocios - Instituto BCM
+TIC's: Tecnolog�as de la Informaci�n y la Comunicaci�n Conjunto de tecnolog�as que permiten el tratamiento, la comunicaci�n de los datos, el registro, presentaci�n, creaci�n, administraci�n, modificaci�n, manejo, movimiento, control, visualizaci�n, distribuci�n, intercambio, transmisi�n o recepci�n de informaci�n en forma autom�tica, de voz, im�genes y datos contenidos en se�ales de naturaleza ac�stica, �ptica, el�ctrica o electromagn�tica, entre otros.
+Asamblea Nacional de la Rep�blica de Nicaragua
+Complejo Legislativo "Carlos N��ez T�llez"
+Avenida Peatonal General Augusto C. Sandino
+Edificio Gral. Benjam�n Zeled�n, 7mo. Piso
+Tel�fono Directo: 2276-8460. Ext.: 281
+Enviar sus comentarios a: Direcci�n de Informaci�n Legislativa

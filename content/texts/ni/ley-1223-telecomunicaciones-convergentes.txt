@@ -1,0 +1,867 @@
+Ley General de Telecomunicaciones Convergentes
+Legislaci�n de Nicaragua
+Normas Jur�dicas
+...
+_Publicaci�n oficial Enlace Legislaci�n Relacionada
+Categor�a normativa: Leyes
+Materia: S/Definir
+LEY N�. 1223, LEY GENERAL DE TELECOMUNICACIONES CONVERGENTES
+Aprobada el 31 de octubre de 2024
+Publicada en La Gaceta, Diario Oficial N�. 204 del 06 de noviembre de 2024
+EL PRESIDENTE DE LA REP�BLICA DE NICARAGUA
+A sus habitantes, hace saber:
+Que,
+LA ASAMBLEA NACIONAL DE LA REP�BLICA DE NICARAGUA
+Ha ordenado lo siguiente:
+LA ASAMBLEA NACIONAL DE LA REP�BLICA DE NICARAGUA
+CONSIDERANDO
+I
+Que el Gobierno de Reconciliaci�n y Unidad Nacional de Nicaragua, en cumplimiento a lo dispuesto en el Art�culo 105 de la Constituci�n Pol�tica de la Rep�blica de Nicaragua, a trav�s del Instituto Nicarag�ense de Telecomunicaciones y Correos, TELCOR, Ente Regulador, ha venido haciendo grandes esfuerzos para contribuir al desarrollo de las telecomunicaciones, tomando en consideraci�n que el mismo se ha transformado en un sector de naturaleza soporte y transversal para el desarrollo y la prestaci�n de servicios en los dem�s sectores de la econom�a, tales como salud, educaci�n, comercio, finanzas, agroindustria, transporte y justicia, impulsando de esta forma el cierre de la brecha digital, de tal manera que nuestro pa�s goce de los beneficios y bondades de las Tecnolog�as de la Informaci�n y las Comunicaciones (TIC).
+II
+Que, en el contexto de las nuevas tecnolog�as, nuevos modelos de negocios, nuevos paradigmas comerciales, cadena de valor de los servicios de Tecnolog�as de la Informaci�n y las Comunicaciones (TIC) m�s compleja y extensa, se hace necesario contar con un marco regulatorio y con pol�ticas p�blicas concatenados con los avances cient�ficos y tecnol�gicos, para propiciar el desarrollo econ�mico y social de Nicaragua. Las nuevas regulaciones, estrategias y pol�ticas nacionales deben orientarse a la protecci�n de los derechos de los Usuarios, a reconocer los r�pidos cambios del mercado, la convergencia de tecnolog�as e industrias, la naturaleza del comercio actual, y en particular, contribuir al aprovechamiento eficiente y efectivo de los recursos p�blicos y servicios de telecomunicaciones, como herramienta de desarrollo y satisfacci�n de las necesidades digitales de la poblaci�n.
+III
+Que con la globalizaci�n de la econom�a y necesaria participaci�n de Nicaragua en la era de la Industria 4.0 o Econom�a Digital, resulta determinante la transformaci�n digital y el car�cter transversal de las TIC en el marco de la prestaci�n de servicios de telecomunicaciones a la poblaci�n y las empresas en los diferentes sectores de la econom�a, para alcanzar competitividad en el �mbito internacional mediante el aumento de los �ndices de productividad. La nueva realidad econ�mica mundial, implica que Nicaragua no puede ausentarse del nuevo paradigma de la Econom�a Digital y Sociedad de la Informaci�n, sino que, debe implementar pol�ticas y regulaciones contempor�neas, din�micas y prospectivas comparables a las impulsadas por otros pa�ses en la regi�n para aumentar su potencial en los mercados internacionales.
+IV
+Que es imperativo para el desarrollo del sector de las telecomunicaciones, contar con un marco regulatorio s�lido, actualizado, flexible, previsible, prospectivo y din�mico, que brinde seguridad jur�dica y promueva la inversi�n, investigaci�n, innovaci�n y emprendimiento en el sector ampliado TIC, de tal suerte, que se cuente con reglas claras que incentiven la competencia y el acceso de la poblaci�n nicarag�ense a las nuevas tecnolog�as y servicios digitales.
+V
+Que es prioridad del Gobierno de Reconciliaci�n y Unidad Nacional, emprender acciones orientadas a incrementar el acceso de todos los ciudadanos a los servicios de telecomunicaciones y de banda ancha, principalmente aquellos que se encuentran en zonas geogr�ficas desatendidas, por lo que un nuevo marco regulatorio de las telecomunicaciones y TIC vendr� a contribuir a que se logren los objetivos de aumentar la penetraci�n de la banda ancha, reducir la brecha digital y facilitar el desarrollo econ�mico y social del pa�s, en correspondencia a las pol�ticas p�blicas contenidas en el Plan Nacional de Lucha contra la Pobreza y para el Desarrollo Humano 2022-2026.
+POR TANTO
+En uso de sus facultades,
+HA DICTADO
+La siguiente:
+LEY N�. 1223
+LEY GENERAL DE TELECOMUNICACIONES CONVERGENTES
+T�TULO I
+DISPOSICIONES GENERALES
+CAP�TULO �NICO
+OBJETO, �MBITO DE APLICACI�N, PRINCIPIOS Y DEFINICIONES
+Art�culo 1 Objeto y naturaleza
+La presente Ley tiene por objeto:
+1) Normar, regular, planificar, supervisar, fiscalizar y desarrollar el sector de las telecomunicaciones.
+2) Establecer los derechos y obligaciones de los Usuarios, Operadores y Proveedores en condiciones de calidad, equidad, seguridad, igualdad y libre competencia.
+3) Establecer las disposiciones para la planeaci�n, administraci�n, supervisi�n, control y gesti�n del uso y aprovechamiento de los recursos p�blicos del Espectro Radioel�ctrico, recursos orbita-espectro y recursos p�blicos de numeraci�n.
+4) Promover y fomentar las inversiones en el sector, la innovaci�n y el uso eficiente de las redes y Servicios de Telecomunicaciones, en un entorno convergente para el desarrollo de las Tecnolog�as de la Informaci�n y las Comunicaciones (TIC).
+La presente Ley es de orden p�blico y por tanto sus disposiciones son de obligatorio cumplimiento e irrenunciables, prevaleciendo sobre cualquier otra Ley, Reglamento, costumbre, pr�ctica, uso o estipulaciones contractuales que se le opongan.
+Art�culo 2 Autoridad Reguladora
+La aplicaci�n de la presente Ley, le corresponde al Instituto Nicarag�ense de Telecomunicaciones y Correos, que en lo sucesivo ser� denominado abreviadamente TELCOR, en su calidad de Autoridad Reguladora.
+Art�culo 3 �mbito de aplicaci�n
+La presente Ley se aplicar� en todo el territorio nacional y est�n sujetos a sus disposiciones, los siguientes:
+1) Los Operadores de Servicios P�blicos de Telecomunicaciones;
+2) Los Proveedores de Servicios de Comunicaciones Audiovisuales;
+3) Las personas naturales o jur�dicas que hacen uso de los recursos p�blicos administrados por TELCOR;
+4) Los Usuarios de los Servicios P�blicos de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales;
+5) Los propietarios de sistemas o flotas de sat�lites, que requieran aterrizar su se�al en territorio nacional; y
+6) Las personas naturales o jur�dicas que internen equipos de telecomunicaciones.
+Art�culo 4 Principios rectores
+Son principios rectores para la aplicaci�n de la presente Ley, los siguientes:
+1) Igualdad y No discriminaci�n: Las decisiones regulatorias deben garantizar la igualdad de condiciones para competir en el mercado a todos los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales, aplicando regulaciones asim�tricas cuando fuere necesario para corregir las desigualdades existentes entre los participantes del mercado.
+2) Promoci�n de la competencia, la inversi�n y la innovaci�n: Se debe promover la libre y sana competencia, la inversi�n y la innovaci�n en el sector de las telecomunicaciones, a fin de maximizar el inter�s general y el bienestar social de la poblaci�n.
+3) In Dubio Pro Usuario: En la aplicaci�n de la presente Ley, se debe de garantizar la protecci�n de los derechos de los Usuarios, as� como corregir las asimetr�as, distorsiones en la informaci�n o malas pr�cticas que vulneren la situaci�n de los Usuarios frente a los Operadores y Proveedores. En caso de ambig�edad, falta de informaci�n o dudas de interpretaci�n, TELCOR aplicar� la norma m�s favorable a los Usuarios.
+4) Neutralidad tecnol�gica: Los Operadores y Proveedores tienen libertad de elegir las tecnolog�as que consideren apropiadas y adecuadas a sus necesidades y al mercado, para la prestaci�n de los Servicios de Telecomunicaciones ofertados, respetando los est�ndares, recomendaciones y tendencias internacionales y las normativas que al efecto emita TELCOR.
+5) Uso eficiente y racional de la Infraestructura y de los Recursos P�blicos: Los Operadores en la prestaci�n de los Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales, deben realizar un uso eficiente y racional de la infraestructura desplegada, de los recursos p�blicos del Espectro Radioel�ctrico y de numeraci�n, necesarios para la prestaci�n de los servicios.
+6) Neutralidad Competitiva: Todos los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales, p�blicos o privados se encuentran en igualdad de condiciones respecto a la propiedad, la regulaci�n o la actividad en el mercado a todos los niveles. Ninguna entidad de la Administraci�n P�blica debe conceder ventajas normativas, econ�micas y/o financieras indebidas a alguno de ellos que puedan mejorar deslealmente su desempe�o en el mercado causando distorsi�n a la competencia y afectaci�n al bienestar de los Usuarios de los Servicios de Telecomunicaciones.
+Art�culo 5 Definiciones
+Para los efectos de aplicaci�n de la presente Ley, se establecen las siguientes definiciones:
+1) Acceso: Disposici�n de la red o cualquiera de sus elementos y recursos asociados y/o servicios de un Operador o Proveedor, en condiciones definidas, de forma exclusiva o no, total o compartida, con el fin que otro Operador o Proveedor pueda prestar los Servicios de Telecomunicaciones a los Usuarios.
+2) Agente Econ�mico: Toda persona natural o jur�dica, p�blica, privada o mixta, as� como cualquier forma de organizaci�n, tenga o no fines de lucro, que realice actividades econ�micas.
+3) Aplicaciones: Programas inform�ticos dise�ados como una herramienta para realizar operaciones o funciones espec�ficas con la finalidad de responder a las necesidades de los Usuarios en una situaci�n determinada con fines de tipo empresarial, educativo, comunicaciones personales o entretenimiento, entre otras.
+4) Asignaci�n de frecuencias: Acto administrativo mediante el cual TELCOR, a trav�s de la Licencia o Autorizaci�n respectiva, habilita a una persona natural o jur�dica, el uso de un canal radioel�ctrico o segmento de frecuencias en una estaci�n radioel�ctrica en determinadas condiciones, para la prestaci�n de un determinado servicio de radiocomunicaci�n terrenal o espacial o por el servicio de radioastronom�a en condiciones especificadas.
+5) Atribuci�n de frecuencias: Inscripci�n en el Cuadro Nacional de Atribuciones de Frecuencias, de una banda de frecuencias determinada, para que sea utilizada por uno o varios servicios de radiocomunicaci�n terrenal o espacial o por el servicio de radioastronom�a en condiciones especificadas.
+6) Autorizaci�n: Es el T�tulo Habilitante emitido por TELCOR para autorizar la operaci�n de redes, el uso de recursos p�blicos o recursos �rbita-espectro, que por sus caracter�sticas y condiciones especiales no califican en ninguna de las categor�as de Licencias.
+7) Banda Ancha: Acceso a Internet de alta capacidad de intercambio de datos para la prestaci�n de Servicios P�blicos de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales, con transmisi�n de datos cuya velocidad sostenida permite descargar contenidos, datos, voz, video, incluso de forma simult�nea, con una calidad �ptima y alta velocidad que no presenta distorsiones en las descargas o errores, o que, present�ndolos, �stos son pr�cticamente imperceptibles.
+8) Banda de frecuencias: Rango o segmento del Espectro Radioel�ctrico comprendido entre dos frecuencias determinadas.
+9) Canon: Es la contraprestaci�n econ�mica, renta o cantidad enterada a favor de TELCOR por la asignaci�n, uso y aprovechamiento de los recursos p�blicos, por aterrizaje de se�ales satelitales, cables submarinos y para sufragar los costos y gastos incurridos para el efectivo ejercicio de su funci�n reguladora y desarrollo de las Telecomunicaciones.
+10) Certificado de Homologaci�n: Es el documento mediante el cual TELCOR, hace constar que un determinado equipo destinado a las Telecomunicaciones ha sido homologado para operar en el territorio nacional.
+11) Concentraci�n Econ�mica: Es la fusi�n, la adquisici�n, las alianzas estrat�gicas o cualquier otro acto, contrato, acuerdo o convenio, que tenga como finalidad la consolidaci�n, integraci�n o combinaci�n de los negocios en todo o en partes, de dos o m�s agentes econ�micos, sean o no competidores, dejando de ser independientes entre s�. As� como, cualquier otro acuerdo o acto que transfiera en forma t�cita o jur�dica a un agente econ�mico los activos de una empresa o le otorgue influencia determinante en la adopci�n de decisiones de administraci�n ordinaria o extraordinaria de una empresa.
+12) Contenido: Informaci�n generada bajo cualquier modo o forma de expresi�n, que puede ser distribuida por cualquier medio electr�nico y es parte de un mensaje que el medio o sistema de transferencia no examina ni modifica, salvo para conversi�n al formato apropiado para la transmisi�n del mismo.
+13) Coordinaci�n Internacional: Es el proceso de negociaci�n de soluciones entre administraciones de pa�ses, con el objetivo de facilitar una interacci�n armoniosa de sus redes que hacen uso del Espectro Radioel�ctrico en regiones fronterizas, incluyendo sistemas satelitales, de conformidad con las regulaciones internacionales, a efecto de evitar que la operaci�n de la red de una parte cause o sea sujeto de emisiones de interferencia por encima de un nivel permitido sobre la red de la otra parte, cuando se encuentre operando en la misma banda de frecuencias.
+14) Elemento de red: Es todo elemento de la capa activa de una red que generan, almacenan, emiten, procesan, reciben, amplifican, controlan y transmiten escritos, im�genes, sonidos, se�ales, signos o informaci�n de cualquier naturaleza. Estos elementos pueden ser antenas, equipos transceptores, multiplexores, amplificadores, decodificadores, nodos conmutadores de acceso, servidores de acceso de Banda Ancha remotos, estaciones de base completas o incluso elementos de la red troncal, entre otros.
+15) Equipo terminal: Es el aparato o dispositivo que se conecta a una red de telecomunicaciones para proporcionar al Usuario acceso a uno o m�s servicios espec�ficos.
+16) Erlang: Es la unidad de medida estad�stica adimensional que expresa el uso continuo de los recursos de red necesarios para transportar el tr�fico generado por una conexi�n telef�nica durante un per�odo de observaci�n.
+17) Espectro Radioel�ctrico: Es un recurso natural, de car�cter limitado, del dominio p�blico y propiedad del Estado de Nicaragua, compuesto por un conjunto de frecuencias de ondas electromagn�ticas que, conforme a la tecnolog�a disponible del momento, puede ser empleada para la transmisi�n inal�mbrica de se�ales el�ctricas en espacio abierto.
+18) FODETEC: Fondo para el Desarrollo de Telecomunicaciones Convergentes.
+19) Homologaci�n: Proceso mediante el cual TELCOR, verifica o comprueba que las especificaciones de un producto, equipo, dispositivo o aparato de determinada clase, marca y modelo destinado a las telecomunicaciones, cumplen con las normas o disposiciones t�cnicas requeridas para operar en una red de telecomunicaciones espec�fica en el pa�s.
+20) Informaci�n estad�stica: Es el conjunto de datos que describen o expresan caracter�sticas sobre un elemento, fen�meno u objeto de estudio dentro del �mbito de las actividades de telecomunicaciones en el sector de servicios de las Tecnolog�as de la Informaci�n y las Comunicaciones (TIC), basados en fuentes administrativas. Incluye variables e indicadores de las operaciones de las empresas reguladas.
+21) Informaci�n estad�stica espacial georreferenciada: Es la informaci�n formada por variables estad�sticos espaciales que cambian continuamente dentro de la regi�n de estudio, y se basa en un sistema de informaci�n geogr�fico con coordenadas y datos espec�ficos para estudiar las relaciones espaciales de objetos r�ster como de objetos vectoriales. Esta informaci�n permite establecer la ubicaci�n espacial de un elemento geogr�fico en particular en un momento determinado.
+22) Infraestructura F�sica: Son capacidades de infraestructuras pasivas de una red que no se integran en el sistema ni acarrean se�ales. Estas infraestructuras pueden ser toda construcci�n u obra civil, espacio f�sico en edificios, sistemas de alimentaci�n el�ctrica, sistemas de climatizaci�n, emplazamientos y m�stiles, postes, ductos, conductos, poliductos, canalizaciones, c�maras, bastidores, torres, cableado de cobre o fibra �ptica oscura, derechos de v�a y dem�s elementos necesarios para el despliegue y operaci�n de las redes y la prestaci�n de servicios de telecomunicaciones.
+23) Ingresos Brutos: Ingresos devengados por los Operadores y Proveedores, derivados de la prestaci�n de todos los Servicios P�blicos de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales por suscripci�n o paga, en el per�odo mensual declarado, m�s las contraprestaciones brindadas a otros Operadores o Proveedores de Servicios de Telecomunicaciones, menos las contraprestaciones recibidas de otros Operadores o Proveedores de Servicios de Telecomunicaciones, menos el Impuesto al Valor Agregado (IVA).
+24) Instalaciones: Son todos los elementos y sistemas que componen las redes de telecomunicaciones, que incluye las redes de acceso por medios guiados o radiofrecuencia, sean fijas o m�viles; redes troncales de transporte; elementos susceptibles de tr�fico como equipos para conmutaci�n, multiplexi�n, enrutamiento, distribuci�n, unidades de red �ptica, hubs, head-ends; la Infraestructura F�sica; las facilidades complementarias; los servicios de Interconexi�n; todo servicio y recurso que faciliten la prestaci�n de servicios; las redes inteligentes en cuanto al uso de n�meros no geogr�ficos y similares prestaciones; sistemas de se�alizaci�n; capacidades de itinerancia; facilidades de traslaci�n de direcciones IP; configuraci�n de tablas de encaminamiento o t�neles y el acceso a servicios de redes virtuales.
+25) Instalaciones Esenciales: Aquellas Instalaciones que son suministradas exclusivamente o de manera predominante por un solo Operador de Servicios P�blicos de Telecomunicaciones o Proveedor de Servicios de Comunicaciones Audiovisuales o por un n�mero limitado de �stos y que es esencial para la competencia y no resulta econ�mica o t�cnicamente factible a otros Operadores o Proveedores sustituirlas, con el objeto de prestar los Servicios de Telecomunicaciones. Las Instalaciones Esenciales pueden ser elementos de la capa activa de una red, capacidades activas de transmisi�n y capacidades de infraestructuras pasivas.
+26) Interconexi�n: Modalidad de acceso que consiste en la conexi�n f�sica, l�gica y funcional, entre redes y Servicios P�blicos de Telecomunicaciones, el cual puede establecerse por tiempo o por capacidad, para permitir la conducci�n de tr�fico o transferencia de informaci�n entre dichas redes y/o entre servicios prestados a trav�s de las mismas, de manera que los Usuarios de una de las redes puedan comunicarse, conectarse e intercambiar tr�fico con los Usuarios o servicios de otra red.
+27) Interferencia Perjudicial: Perturbaci�n a las se�ales utilizadas por un Operador o Proveedor o cualquier persona natural o jur�dica debidamente habilitada por TELCOR, que comprometen, degradan, interrumpen repetidamente o impiden el correcto funcionamiento de un servicio de radiocomunicaci�n.
+28) Internet: Conjunto descentralizado de redes de telecomunicaciones a nivel global, interconectadas entre s�, que proporciona diversos servicios de comunicaci�n y que utiliza protocolos y direccionamientos coordinados internacionalmente para el enrutamiento y procesamiento de los paquetes de datos de cada uno de los servicios. Estos protocolos y direccionamientos garantizan que las redes f�sicas, que en su conjunto componen Internet, funcionen como una red l�gica, �nica y global.
+29) Interoperabilidad: Aptitud de los sistemas, componentes y aplicaciones, incluyendo los procesos que estos soportan, para intercambiar la informaci�n y hacer posible el uso rec�proco de la informaci�n intercambiada. Para el caso de las redes, la interoperabilidad es inherente a la interconexi�n entre las mismas.
+30) Itinerancia (roaming) Nacional e Internacional: Es un servicio que permite a los Usuarios del servicio m�vil, hacer uso de su equipo terminal entre diferentes �reas de cobertura del mismo u otro Operador, dentro o fuera del territorio nacional.
+31) Licencia de Servicios P�blicos de Telecomunicaciones: T�tulo habilitante otorgado por TELCOR que autoriza a una persona natural o jur�dica la prestaci�n de Servicios P�blicos de Telecomunicaciones.
+32) Licencia de Servicios de Comunicaciones Audiovisuales: T�tulo habilitante otorgado por TELCOR que autoriza a una persona natural o jur�dica la prestaci�n de Servicios de Comunicaciones Audiovisuales.
+33) Licencia de Derecho de Uso del Espectro Radioel�ctrico: T�tulo habilitante otorgado por TELCOR que autoriza a un Operador o Proveedor de Servicios de Telecomunicaciones para usar y aprovechar frecuencias del Espectro Radioel�ctrico para la prestaci�n de Servicios P�blicos de Telecomunicaciones y/o Servicios de Comunicaciones Audiovisuales. Esta Licencia no otorga derecho de propiedad sobre los recursos p�blicos del Espectro Radioel�ctrico.
+34) Mercado relevante: Es la l�nea del comercio en una determinada zona geogr�fica, abarcando todos los productos o servicios que desde el punto de vista del Usuario son razonablemente sustituibles entre s� por sus caracter�sticas, precios y usos; as� como todos los competidores inmediatos, a los que un mayorista, intermediario o consumidor pudiese acudir a corto plazo.
+35) Microtelcos o MIPYMEs de Servicios de Telecomunicaciones: Persona natural o jur�dica que, debidamente habilitada por TELCOR, presta Servicios P�blicos de Telecomunicaciones o Servicios de Comunicaciones Audiovisuales de forma convencional o en la forma de Operador o Proveedor Virtual, con tecnolog�as alternativas o tradicionales a peque�a escala.
+36) Operador de Servicios P�blicos de Telecomunicaciones: Persona natural o jur�dica debidamente habilitada por TELCOR, para prestar Servicios P�blicos de Telecomunicaciones de forma convencional o en la forma de Operador Virtual. Incluye tambi�n la operaci�n de Microtelcos o MIPYMEs de Telecomunicaciones.
+37) Operadores Entrantes o Nuevos Operadores: Persona natural o jur�dica que por primera vez es objeto de otorgamiento de Licencia para la prestaci�n de Servicios P�blicos de Telecomunicaciones o Servicios de Comunicaciones Audiovisuales, o cuando se trate de Operadores de Telecomunicaciones que por primera vez son objeto de otorgamiento de Licencia de Derecho de Uso del Espectro Radioel�ctrico.
+38) Operador o Proveedor Virtual de Servicios de Telecomunicaciones: Persona natural o jur�dica debidamente habilitada por TELCOR, para prestar Servicios P�blicos de Telecomunicaciones, propios o de terceros, con o sin valor a�adido, pero a su nombre y por cuenta propia, sin disponer en su totalidad de la infraestructura de red necesaria para la prestaci�n de dichos servicios.
+39) Peso Significativo de Mercado (PSM): Condici�n que posee un Operador de Servicios P�blicos de Telecomunicaciones o Proveedores de Servicios de Comunicaciones Audiovisuales, que individual o conjuntamente, tiene la capacidad de influir decisivamente, en un mercado relevante, variando las condiciones de dicho mercado a su favor con independencia de los competidores y Usuarios.
+40) Portabilidad Num�rica: Derecho de los Usuarios de conservar el mismo n�mero telef�nico al cambiarse de Operador, de servicio o de zona geogr�fica.
+41) Precios basados en costos: Consiste en la fijaci�n de los precios que los Operadores y Proveedores deben cobrar por la Interconexi�n y el Acceso y Uso compartido de Instalaciones Esenciales, utilizando un modelo econ�mico de costos que le permita recuperar todas las inversiones y costos causalmente incurridos en la provisi�n de estos servicios, m�s un margen justo que debe ser congruente con la estructura de mercado mayorista al que corresponden dichos servicios de Interconexi�n e Instalaciones Esenciales.
+42) Proveedor de Servicios de Comunicaciones Audiovisuales: Persona natural o jur�dica que produce, distribuye o difunde programas y contenidos de forma abierta y gratuita o por suscripci�n o paga, a trav�s de distintos medios de transmisi�n.
+43) Radiodifusi�n: Transmisi�n unidireccional de forma abierta y gratuita, de se�ales, datos, videos y sonidos por radiocomunicaci�n.
+44) Recursos �rbita-espectro: Son cada una de las posiciones orbitales de los sat�lites geoestacionarios, o bien un conjunto de �rbitas no geoestacionarias aptas para un sistema de sat�lites, incluyendo las frecuencias del Espectro Radioel�ctrico pre-coordinadas con la Uni�n Internacional de Telecomunicaciones, para los servicios de radiocomunicaciones por sat�lites.
+45) Recursos P�blicos de Numeraci�n: Todo n�mero, c�digo o combinaci�n de caracteres alfanum�ricos, que permiten la denominaci�n, identificaci�n, direccionamiento y/o enrutamiento de las comunicaciones electr�nicas originadas desde, o con destino hacia servicios, aplicaciones, redes o Usuarios. Esto incluye n�meros o c�digos cortos, n�meros que siguen el formato de las recomendaciones de la Uni�n Internacional de Telecomunicaciones, c�digos de red y c�digos de se�alizaci�n nacional e internacional, entre otros.
+46) Redes: Conjunto de canales de transmisi�n, circuitos y, en su caso, dispositivos o centrales de conmutaci�n que proporcionan conexiones entre dos o m�s puntos definidos para facilitar la Telecomunicaci�n entre ellos, ya sea por l�nea f�sica o por medio del Espectro Radioel�ctrico.
+47) Redes Privadas: Son Redes de telecomunicaciones cuyo prop�sito es satisfacer las necesidades de comunicaci�n particulares propias de una persona natural o jur�dica, orientada a un grupo cerrado de Usuarios, haciendo uso de los Recursos P�blicos de Numeraci�n y/o del Espectro Radioel�ctrico, en entornos exteriores.
+48) Redes P�blicas de Telecomunicaciones: Redes de telecomunicaciones establecidas por una persona natural o jur�dica para proveer Servicios P�blicos de Telecomunicaciones.
+49) Revendedor: Es la persona natural o jur�dica que comercializa al p�blico las ofertas de un Operador de Servicios P�blicos de Telecomunicaciones o Proveedor de Servicios de Comunicaciones Audiovisuales, en nombre y representaci�n de este �ltimo, bajo la forma de concesionarios, franquiciatario, u otra figura que lo defina como agente vendedor del Operador o Proveedor.
+50) Regulaci�n experimental (Sandbox): Es un r�gimen de regulaci�n excepcional, experimental, alternativo y controlado en el cual los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales pueden introducir nuevas tecnolog�as, servicios innovadores y nuevos modelos de negocios, a efecto de determinar el esquema de regulaci�n que m�s beneficie a los Usuarios.
+51) Servicios P�blicos de Telecomunicaciones: Es el conjunto de modalidades de comunicaci�n a distancia, incluyendo los servicios de valor agregado, suplementarios o conexos, que los Operadores ofrecen a los Usuarios para satisfacer necesidades espec�ficas de comunicaciones, mediante el uso de Redes P�blicas de Telecomunicaciones, propias o de terceros, a cambio de una contraprestaci�n econ�mica o tarifaria.
+52) Servicios de Comunicaciones Audiovisuales: Corresponde a las distintas modalidades de producci�n, distribuci�n y difusi�n de programas y contenidos multimedia, incluyendo los servicios de valor agregado, suplementarios o conexos, de manera abierta y gratuita o por suscripci�n o paga, mediante el uso de redes de telecomunicaciones, el Internet o redes de radiodifusi�n dedicadas. Los servicios de comunicaciones audiovisuales pueden ser lineales o no lineales.
+53) Telecomunicaci�n: Toda emisi�n, transmisi�n, o recepci�n a distancia de signos, se�ales, escritos, im�genes, sonidos, datos o informaci�n de cualquier naturaleza, por l�nea f�sica, radioel�ctrica, medios �pticos, f�sicos u otros sistemas electromagn�ticos o de cualquier otra naturaleza.
+54) Tecnolog�as de la Informaci�n y las Comunicaciones (TIC): Conjunto de recursos, tecnolog�as, infraestructuras, herramientas, equipos, programas inform�ticos, aplicaciones y componentes de red, que permiten la compilaci�n, procesamiento, acceso, almacenamiento y transmisi�n de informaci�n como: voz, datos, texto, video e im�genes, a trav�s de las telecomunicaciones, incluyendo Internet, redes al�mbricas e inal�mbricas, dispositivos terminales diversos, contenidos, aplicaciones y sistemas.
+55) T�tulo Habilitante: Es el documento jur�dico emitido por TELCOR, que habilita al solicitante para la prestaci�n de Servicios P�blicos de Telecomunicaciones, Servicios de Comunicaciones Audiovisuales o para el uso del Espectro Radioel�ctrico.
+56) Usuario: Persona natural o jur�dica que utiliza Servicios P�blicos de Telecomunicaciones o Servicio de Comunicaciones Audiovisuales, como destinatarios finales de los mismos.
+57) Usuarios con Discapacidad: Personas con distintos tipos de discapacidad y necesidades especiales que utilizan Servicios P�blicos de Telecomunicaciones y/o Servicios de Comunicaciones Audiovisuales.
+Art�culo 6 Otras definiciones
+TELCOR, mediante Acuerdo Administrativo, podr� incorporar nuevos t�rminos que sean necesarios para garantizar la aplicaci�n de la presente Ley, de acuerdo con la evoluci�n y convergencia tecnol�gica y de mercado, los requerimientos en materia de conectividad y de acuerdo con las recomendaciones de la Uni�n Internacional de Telecomunicaciones y dem�s Organismos Internacionales de los cuales Nicaragua sea Estado parte.
+T�TULO II
+R�GIMEN DE SERVICIOS DE TELECOMUNICACIONES Y REDES
+CAP�TULO I
+R�GIMEN DE SERVICIOS Y REDES
+Art�culo 7 Clasificaci�n de los Servicios de Telecomunicaciones
+Para los fines de esta Ley, los Servicios de Telecomunicaciones se clasifican en Servicios P�blicos de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales.
+Art�culo 8 Servicios P�blicos de Telecomunicaciones
+Pertenecen a los Servicios P�blicos de Telecomunicaciones, de manera enunciativa, los servicios de telefon�a fija y m�vil, acceso a Internet fijo y m�vil, servicio portador, transmisi�n de datos, radiocomunicaci�n, servicios satelitales, as� como cualquier otro Servicio P�blico de Telecomunicaciones que surja en el futuro como consecuencia de la evoluci�n, convergencia tecnol�gica y de mercado.
+Art�culo 9 Servicios de Comunicaciones Audiovisuales
+Pertenecen a los Servicios de Comunicaciones Audiovisuales, de manera enunciativa, la Televisi�n Abierta, la Televisi�n por Suscripci�n o de paga, la Radiodifusi�n Sonora en Amplitud Modulada (AM) o en Frecuencia Modulada (FM), as� como cualquier otro servicio de difusi�n de contenido audiovisual utilizando cualquier tecnolog�a o medio de transmisi�n, incluyendo el Internet.
+Art�culo 10 Continuidad de los Servicios
+Los Servicios P�blicos de Telecomunicaciones y los Servicios de Comunicaciones Audiovisuales deben ser prestados en forma regular, continua, ininterrumpida y en condiciones de igualdad. Los Operadores de Servicios P�blicos de Telecomunicaciones y los Proveedores de Servicios de Comunicaciones Audiovisuales, no podr�n iniciar, suspender o descontinuar su prestaci�n sin la previa autorizaci�n de TELCOR.
+Art�culo 11 Condiciones t�cnicas y operativas
+Los Servicios P�blicos de Telecomunicaciones y los Servicios de Comunicaciones Audiovisuales, se prestar�n conforme las disposiciones t�cnicas y operativas que TELCOR defina en las normativas correspondientes, las que ser�n emitidas mediante Acuerdos Administrativos.
+Art�culo 12 Redes Privadas
+Las personas naturales o jur�dicas que operen sus Redes Privadas, deber�n obtener de previo una Autorizaci�n por parte de TELCOR, la cual comprende a su vez el derecho de instalaci�n y operaci�n de los equipos e infraestructura radioel�ctrica necesaria.
+A trav�s de estas Redes Privadas, no se podr�n utilizar para brindar servicios al p�blico en general, ni interconectarse con las Redes P�blicas de Telecomunicaciones.
+Art�culo 13 Cumplimiento de normas t�cnicas
+Las Redes e infraestructuras, as� como los Equipos Terminales y sus partes que se conectan a ellos, deben cumplir con las normas t�cnicas que determine TELCOR.
+CAP�TULO II
+RADIOAFICI�N
+Art�culo 14 Radioafici�n
+La Radioafici�n tiene como prop�sito la intercomunicaci�n, entretenimiento, experimentaci�n e investigaci�n con vocaci�n de servicio y ayuda social sin fines de lucro. No podr� tener finalidad comercial ni dar lugar a beneficios econ�micos, debiendo aplicarse sin restricciones los requerimientos de colaboraci�n, observar las recomendaciones de la Uni�n Internacional de Telecomunicaciones y las normas que determine TELCOR.
+T�TULO III
+T�TULOS HABILITANTES
+CAP�TULO I
+LICENCIAS DE SERVICIOS P�BLICOS DE TELECOMUNICACIONES
+Art�culo 15 Licencia de Servicios P�blicos de Telecomunicaciones
+Para la prestaci�n de los Servicios P�blicos de Telecomunicaciones se requiere del otorgamiento de Licencia de Servicios P�blicos de Telecomunicaciones por parte de TELCOR, la que comprende a su vez el derecho de instalaci�n, operaci�n y explotaci�n de las Redes y la infraestructura requerida para la prestaci�n de todos los servicios, sujeto a las obligaciones y condiciones que establece la presente Ley, y las normativas que al efecto emita TELCOR.
+En los casos de Microtelcos o MIPYMEs de Telecomunicaciones, para acceder a las condiciones especiales regulatorias aplicables a esta categor�a, el solicitante deber� presentar ante TELCOR, el documento emitido por Ministerio de Fomento Industria y Comercio (MIFIC) que lo acredite como MIPYME.
+CAP�TULO II
+LICENCIAS DE SERVICIOS DE COMUNICACIONES AUDIOVISUALES
+Art�culo 16 Licencia de Servicios de Comunicaciones Audiovisuales
+La prestaci�n de los Servicios de Comunicaciones Audiovisuales, requiere del otorgamiento de Licencia por parte de TELCOR, la que comprende a su vez el derecho de instalaci�n y operaci�n de los equipos e infraestructura necesaria para la prestaci�n de sus servicios, en los t�rminos y condiciones que establece la regulaci�n de dichos servicios.
+Los Servicios de Televisi�n Abierta y Radiodifusi�n Sonora en Amplitud Modulada (AM) y Frecuencia Modulada (FM), solo podr�n ser prestados por personas naturales o jur�dicas nicarag�enses. En este �ltimo caso, al menos el 51% de su capital social deber� pertenecer a nacionales nicarag�enses.
+CAP�TULO III
+LICENCIA DE DERECHO DE USO DEL ESPECTRO RADIOEL�CTRICO
+Art�culo 17 Licencia de Derecho de Uso del Espectro Radioel�ctrico
+El Espectro Radioel�ctrico es un recurso natural, de car�cter limitado y como tal es un bien del dominio p�blico, sobre el cual ejerce soberan�a el Estado de Nicaragua, sujeto a la planeaci�n, administraci�n, gesti�n, supervisi�n, fiscalizaci�n y control a trav�s de TELCOR. Los Operadores de Servicios P�blicos de Telecomunicaciones y los Proveedores de Servicios de Comunicaciones Audiovisuales que requieran hacer uso del Espectro Radioel�ctrico deben de solicitar a TELCOR, el otorgamiento de Licencia de Derecho de Uso del Espectro Radioel�ctrico, la cual comprende a su vez el derecho de instalaci�n, operaci�n y explotaci�n de las Redes, equipos e infraestructura radioel�ctrica necesaria para la prestaci�n de dichos servicios.
+TELCOR, definir� mediante normativa aquellas bandas de frecuencias exentas de Licencia de Derecho de Uso del Espectro Radioel�ctrico y por ende, del pago de los c�nones respectivos. No obstante, los Usuarios de dichas bandas exentas de Licencia deber�n cumplir con las Normativas T�cnicas o en su defecto con las referencias y recomendaciones de Organismos Internacionales para una operaci�n no interferente de sus equipos y aparatos.
+El otorgamiento de una Licencia de Derecho de Uso del Espectro Radioel�ctrico en cualquier modalidad, no concede ning�n derecho de propiedad, siendo el Estado en todo momento quien ejerce soberan�a sobre el Espectro Radioel�ctrico como un bien del dominio p�blico.
+Art�culo 18 Asignaci�n directa del Espectro Radioel�ctrico
+Las Licencias de Derecho de Uso del Espectro Radioel�ctrico podr�n ser otorgadas por TELCOR de forma directa cuando la demanda agregada de Espectro Radioel�ctrico por parte de los interesados en un determinado segmento de frecuencias, sea menor que el rango de frecuencias radioel�ctricas disponibles.
+Art�culo 19 Procesos competitivos de asignaci�n
+Cuando la demanda agregada de Espectro Radioel�ctrico por parte de los interesados iguale o exceda el rango de frecuencias radioel�ctricas disponibles, las Licencias de Derecho de Uso del Espectro Radioel�ctrico, se otorgar�n a trav�s de mecanismos competitivos de selecci�n objetiva, previa convocatoria p�blica, bajo las reglas y condiciones espec�ficas que TELCOR defina en cada proceso de asignaci�n, en las cuales se podr� establecer obligaciones de hacer, como parte del pago del Canon por asignaci�n de frecuencias.
+Art�culo 20 Autorizaci�n para el uso de la banda de radioaficionados
+Toda persona que opere una estaci�n radioel�ctrica en la banda de radioaficionados, designada en el Cuadro Nacional de Atribuci�n de Frecuencias (CNAF), deber� contar con una Autorizaci�n para el uso del Espectro Radioel�ctrico emitida por TELCOR. Esta Autorizaci�n tendr� una vigencia m�nima de dos (2) a�os hasta un m�ximo de cinco (5) a�os, renovables a solicitud del interesado.
+CAP�TULO IV
+DISPOSICIONES COMUNES
+Art�culo 21 Uso del Espectro Radioel�ctrico
+La Licencia requerida para prestar cualquiera de los Servicios de Telecomunicaciones, no incluye el derecho al uso del Espectro Radioel�ctrico. Cuando el interesado requiera del recurso del Espectro Radioel�ctrico para prestar Servicios P�blicos de Telecomunicaciones o Servicios de Comunicaciones Audiovisuales, deber� obtener en forma independiente la Licencia de Derecho de Uso del Espectro Radioel�ctrico emitida por TELCOR.
+Art�culo 22 Requisitos m�nimos para obtenci�n de Licencias y Autorizaciones
+Toda solicitud de Licencia o Autorizaci�n deber� contener al menos los siguientes requisitos:
+Personas Naturales:
+a) Nombres y apellidos del solicitante o de su apoderado.
+b) Documento de identidad del solicitante o de su apoderado.
+c) N�mero de Registro �nico de Contribuyente (RUC).
+d) Descripci�n del servicio o servicios solicitados, as� como los Recursos P�blicos requeridos, seg�n el caso.
+e) Domicilio legal y permanente en el territorio nacional.
+f) Declaraci�n de conocer y cumplir con el marco regulatorio vigente.
+Personas Jur�dicas:
+a) Denominaci�n o raz�n social de la persona jur�dica solicitante.
+b) Nombres y apellidos del apoderado o representante legal, adjuntando documento con el cual acredita su representaci�n.
+c) Documento de identidad del apoderado o representante legal.
+d) Documentaci�n legal que acredite su existencia y capacidad jur�dica, debidamente inscrita en el Registro P�blico competente.
+e) N�mero de Registro �nico de Contribuyente (RUC).
+f) Descripci�n del servicio o servicios solicitados, as� como los Recursos P�blicos requeridos, seg�n el caso.
+g) Domicilio legal y permanente en el territorio nacional.
+h) Declaraci�n de conocer y cumplir con el marco regulatorio vigente.
+Lo anterior, sin perjuicio de otros requisitos que TELCOR establezca en la normativa correspondiente.
+Art�culo 23 Cesi�n o transferencia de las Licencias
+Las Licencias de Servicios P�blicos de Telecomunicaciones, Licencias de Servicios de Comunicaciones Audiovisuales y Licencias de Derecho de Uso del Espectro Radioel�ctrico, podr�n ser cedidas o transferidas previa autorizaci�n de TELCOR, respet�ndose la vigencia y dem�s t�rminos y condiciones establecidos en la Licencia objeto de la cesi�n o transferencia.
+La solicitud de autorizaci�n deber� presentarse acompa�ando toda la informaci�n y documentaci�n que justifique la misma, de conformidad con los requisitos y procedimientos que TELCOR establezca en la normativa correspondiente. En caso de ser autorizada la cesi�n o transferencia, TELCOR emitir� la Licencia correspondiente a favor del Operador o Proveedor cesionario, previo pago de la Tarifa respectiva, por el tr�mite administrativo aplicable.
+En caso que la cesi�n o transferencia, se produzca como consecuencia de una Concentraci�n Econ�mica, el Operador o Proveedor cesionario deber� pagar adem�s el valor que resulte del porcentaje establecido en el art�culo sobre Concentraci�n Econ�mica, de la presente Ley.
+Art�culo 24 Garant�a, fianza o certificado de dep�sito
+En el caso de Operadores Entrantes o Nuevos Operadores en la prestaci�n de Servicios P�blicos de Telecomunicaciones, deber�n presentar una garant�a, fianza o certificado de dep�sito bancario a favor de TELCOR, para asegurar el cumplimiento del plazo de instalaci�n y plan de expansi�n de su red.
+El monto de la garant�a, fianza o certificado de dep�sito bancario, ser� equivalente al diez por ciento (10%) del ingreso bruto mensual promedio, calculado con base en los Ingresos Brutos proyectados a recibir durante los primeros 12 meses de operaci�n, conforme a su plan de negocios o estudio econ�mico. El plazo de mantenimiento de dicha garant�a, fianza o certificado de dep�sito bancario ser� igual al plazo que le tome al Operador Entrante cumplir con sus compromisos de instalaci�n y expansi�n de su red.
+Esta garant�a ser� ejecutada por el incumplimiento del plazo inicial fijado para su instalaci�n y expansi�n de su red.
+A tal efecto, TELCOR, en la normativa correspondiente, definir� las reglas y condiciones aplicables a la constituci�n y aprobaci�n de la garant�a, fianza o certificado de dep�sito bancario.
+Art�culo 25 Vigencia de las Licencias
+Todas las Licencias tendr�n un plazo de vigencia desde un m�nimo de diez (10) a�os hasta un m�ximo de veinte (20) a�os, renovables a solicitud del interesado. El titular de la Licencia deber� presentar su solicitud de renovaci�n ante TELCOR, con dos (2) a�os de antelaci�n al vencimiento de la Licencia, la cual se renovar� previo cumplimiento de sus obligaciones establecidos en el marco regulatorio vigente, incluyendo el pago del monto que establezca TELCOR en la normativa correspondiente. En el caso de la Licencia de Derecho de Uso del Espectro Radioel�ctrico, se tomar� en cuenta, adem�s, el valor actual de mercado de las frecuencias objeto de la renovaci�n, de acuerdo a referencias nacionales e internacionales.
+Si la solicitud no es presentada dentro del plazo se�alado, la Licencia se tendr� por terminada.
+En el caso de Operadores y Proveedores, el plazo de vigencia para la emisi�n y renovaci�n de la Licencia de Derecho de Uso del Espectro Radioel�ctrico, estar� sujeto al plazo de expiraci�n de la Licencia del servicio autorizado para el cual se requiere el espectro.
+Art�culo 26 Condiciones para la renovaci�n de las Licencias y Autorizaciones
+Previo a la aprobaci�n de la renovaci�n de una Licencia o Autorizaci�n, TELCOR, en lo pertinente, evaluar� y verificar� lo siguiente, seg�n el caso:
+1) El uso eficiente del recurso p�blico asignado;
+2) El cumplimiento de los planes de expansi�n;
+3) La cobertura de redes y servicios;
+4) La calidad de los servicios prestados; y
+5) El cumplimiento de todas las obligaciones definidas en la presente Ley, y las Normativas aplicables.
+Art�culo 27 Causas de terminaci�n de las Licencias y Autorizaciones
+Toda Licencia o Autorizaci�n, terminar� por las siguientes causas:
+1) Por vencimiento del plazo de vigencia.
+2) Por renuncia del titular.
+3) Por fallecimiento de la persona natural o extinci�n de la persona jur�dica titular, por quiebra o liquidaci�n.
+4) Por revocaci�n por parte de TELCOR.
+Ser�n causales de revocaci�n las siguientes:
+a) No prestar con eficiencia y regularidad los servicios que son objeto del T�tulo Habilitante.
+b) No hacer un uso eficiente o no haber usado los recursos p�blicos en un plazo de un a�o de haber sido asignados.
+c) Hacer un uso distinto de cualquiera de los recursos p�blicos para el que fueron asignados.
+d) No pagar sus obligaciones pecuniarias ante TELCOR.
+e) Suspender total o parcialmente los servicios, sin la previa autorizaci�n de TELCOR y/o sin causa justificada.
+f) Provocar interferencias perjudiciales de manera intencional y reiterada.
+g) Modificar o alterar sustancialmente las instalaciones autorizadas o las condiciones en que operen los servicios, sin la previa autorizaci�n de TELCOR.
+h) Vender, ceder o en manera alguna gravar o transferir la Licencia, sin la previa autorizaci�n de TELCOR.
+i) Negarse, sin causa justificada, a interconectar redes de otros titulares de Licencias, teniendo la obligaci�n de hacerlo.
+Otras causales de revocaci�n que se establezcan en la normativa correspondiente.
+En los casos que alguna de las causales de revocaci�n de una Licencia o Autorizaci�n, conlleve efectos negativos sobre el inter�s p�blico, la competencia o afecte la continuidad en la prestaci�n de Servicios de Telecomunicaciones esenciales para la poblaci�n, TELCOR podr� adoptar las medidas necesarias para garantizar la continuidad de los Servicios de Telecomunicaciones y preservar la competencia efectiva en el mercado.
+El titular de una Licencia o Autorizaci�n que hubiere sido revocada, estar� inhabilitado para obtener, por s� o a trav�s de otra persona natural o jur�dica, nuevas Licencias o Autorizaciones, por un plazo de un a�o contado a partir de que hubiere surtido efectos la revocaci�n.
+Art�culo 28 Restituci�n de Recursos P�blicos
+Al t�rmino de las Licencias por cualquier causa, los recursos p�blicos de numeraci�n y Espectro Radioel�ctrico asignados, ser�n restituidos al Estado de Nicaragua a trav�s de TELCOR.
+Art�culo 29 Autorizaciones temporales
+TELCOR, podr� otorgar Autorizaciones temporales, en casos de emergencia nacional, pruebas t�cnicas, experimentaci�n u otro tipo de operaciones limitadas t�cnica, econ�mica o geogr�ficamente, que a su juicio no califiquen para obtener una Licencia de manera permanente.
+Las Autorizaciones temporales tendr�n una vigencia m�xima de un (1) a�o, renovable a solicitud del interesado, por el mismo per�odo y por una sola vez. Con excepci�n de los casos de Emergencia Nacional, las Autorizaciones temporales est�n sujetas al pago de la Tarifa por el tr�mite administrativo y los C�nones que resulten aplicables. Los C�nones ser�n calculados de manera proporcional a la vigencia de la Autorizaci�n temporal otorgada.
+Art�culo 30 Emisi�n, modificaci�n y revocaci�n de T�tulos Habilitantes
+La emisi�n, modificaci�n y revocaci�n de los T�tulos Habilitantes, le corresponden a la M�xima Autoridad de TELCOR o su delegado, mediante acto administrativo motivado, conforme el procedimiento establecido en la Normativa correspondiente.
+Las Licencias y sus modificaciones, entrar�n en vigencia a partir de su publicaci�n en La Gaceta, Diario Oficial.
+En el caso de terminaci�n por renuncia de su titular o revocaci�n, surtir� efectos a partir de la emisi�n y notificaci�n del acto administrativo respectivo, sin perjuicio de su posterior publicaci�n en La Gaceta, Diario Oficial.
+Art�culo 31 Registro Electr�nico de Operadores y Proveedores
+Cr�ase una base de datos para el Registro Electr�nico de Telecomunicaciones administrado por TELCOR, el que deber� contener toda la informaci�n necesaria de los Operadores de Servicios P�blicos de Telecomunicaciones, Proveedores de Servicios de Comunicaciones Audiovisuales y personas naturales o jur�dicas que hacen uso del Espectro Radioel�ctrico para operar Redes Privadas, incluyendo informaci�n de sus Licencias, Autorizaciones, servicios, recursos asignados, redes e infraestructuras.
+CAP�TULO V
+CANON POR REGULACI�N Y TARIFAS POR TR�MITES REGULATORIOS Y ADMINISTRATIVOS
+Art�culo 32 Canon por regulaci�n
+Por la prestaci�n de Servicios P�blicos de Telecomunicaciones y/o Servicios de Comunicaciones Audiovisuales por suscripci�n o paga, el titular respectivo deber� pagar a favor de TELCOR un Canon por regulaci�n recurrente mensual.
+El valor del Canon por regulaci�n recurrente mensual, se expresar� como un porcentaje base de los Ingresos Brutos del mes correspondiente, por la prestaci�n de todos los Servicios P�blicos de Telecomunicaciones y/o Servicios de Comunicaciones Audiovisuales por suscripci�n o paga, autorizados en su Licencia.
+La metodolog�a de c�lculo y el porcentaje base ser�n definidos por TELCOR, mediante la normativa correspondiente, el cual no podr� ser mayor al tres por ciento (3%). TELCOR establecer� c�nones diferenciados a partir del porcentaje base, con el objeto que dichos c�nones reflejen el nivel de participaci�n de mercado de los Operadores y Proveedores, tomando como par�metro sus respectivos Ingresos Brutos Anuales. Este porcentaje base y los c�nones diferenciados correspondientes ser�n revisados por TELCOR anualmente, pudiendo ser ajustados a m�s tardar al final del tercer trimestre de cada a�o. Los valores ajustados ser�n aplicados en el a�o inmediato siguiente.
+Cuando un mismo titular posea Licencia de Servicios P�blicos de Telecomunicaciones y Licencia de Servicios de Comunicaciones Audiovisuales, por suscripci�n o paga, �ste deber� incluir los ingresos por estos servicios como parte de los Ingresos Brutos del mes correspondiente, sobre los cuales se calcular� el Canon regulatorio mensual recurrente respectivo.
+Los recursos provenientes del pago del Canon por regulaci�n ingresar�n al patrimonio de TELCOR, a efecto de garantizar el pleno ejercicio de sus funciones y atribuciones regulatorias.
+Art�culo 33 Incentivo a Operadores Entrantes
+TELCOR, podr� reducir el pago del Canon por regulaci�n, implementar per�odos de pago diferidos de este Canon o eximir durante un per�odo de tiempo determinado, a favor de los Operadores Nuevos o Entrantes al mercado, con la finalidad de promover la competencia.
+Asimismo, TELCOR, podr� eximir o reducir el pago en concepto de Canon por regulaci�n a aquellos Operadores Microtelcos o MIPYMEs de Telecomunicaciones, con la finalidad de promover los servicios en las zonas no atendidas, �reas rurales y �reas con desventajas econ�micas, para reducir la brecha digital en todo el pa�s.
+Art�culo 34 Tarifas por tr�mites regulatorios y administrativos
+TELCOR, fijar� con base en costos, las tarifas para los distintos tr�mites regulatorios y administrativos miscel�neos que le fueren solicitados bajo demanda por la parte interesada, incluyendo la emisi�n, renovaci�n, modificaci�n, reposici�n y traspaso de T�tulos Habilitantes de los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales, as� como de personas naturales o jur�dicas que hacen uso del Espectro Radioel�ctrico, entre otros tr�mites administrativos. Estos ingresos ser�n fijados por TELCOR en la Normativa correspondiente.
+TELCOR, mantendr� actualizadas dichas tarifas por tr�mites regulatorios y administrativos, aplicando un criterio de indexaci�n respecto de una moneda extranjera de solidez reconocida, o alternativamente podr� actualizarlos anualmente, aplicando el incremento que corresponda al �ndice de Precios al Consumidor (IPC), en ejercicio de sus facultades regulatorias.
+Los recursos provenientes de las tarifas antes mencionadas ingresar�n al patrimonio de TELCOR.
+T�TULO IV
+R�GIMEN DE FRECUENCIAS DEL ESPECTRO RADIOEL�CTRICO Y RECURSOS P�BLICOS DE NUMERACI�N
+CAP�TULO I
+CANON POR ASIGNACI�N Y ARRIENDO POR USO DEL ESPECTRO RADIOEL�CTRICO
+Art�culo 35 Canon por asignaci�n de frecuencias
+Los Operadores de Servicios P�blicos de Telecomunicaciones, Proveedores de Servicio de Comunicaciones Audiovisuales y personas naturales o jur�dicas que requieran Espectro Radioel�ctrico para operar Redes Privadas, deben pagar a favor de TELCOR un Canon en concepto de asignaci�n, para ser asignatario de una banda de frecuencias o radiocanal del Espectro Radioel�ctrico. En el caso de asignaci�n directa, este Canon ser� establecido, conforme a la metodolog�a de c�lculo definida por TELCOR, mediante la Normativa correspondiente. Cuando la asignaci�n se realice a trav�s de mecanismo competitivo, este Canon corresponder� al valor de mercado que resulte de este mecanismo.
+Los recursos provenientes del Canon por asignaci�n de Espectro Radioel�ctrico, ingresar�n al patrimonio de TELCOR.
+Art�culo 36 Canon anual en concepto de arriendo de Espectro Radioel�ctrico
+Los Operadores de Servicios P�blicos de Telecomunicaciones, Proveedores de Comunicaciones Audiovisuales y personas naturales o jur�dicas a los que se les haya asignado una banda de frecuencias o radiocanal del Espectro Radioel�ctrico, deben pagar a favor de TELCOR, un Canon anual en concepto de arriendo por el uso del recurso limitado correspondiente.
+Los recursos provenientes del Canon anual antes mencionado, ingresar�n al patrimonio de TELCOR.
+Art�culo 37 Exentos de pago del Canon
+Est�n exentos del pago del Canon por asignaci�n y de arriendo por uso de bandas de frecuencias o radiocanal del Espectro Radioel�ctrico los siguientes:
+1) La Polic�a Nacional.
+2) El Ej�rcito de Nicaragua.
+3) Direcci�n General de Bomberos de Nicaragua y organizaciones de Bomberos Voluntarios.
+4) Instituciones del Estado que brinden asistencia social, protecci�n, socorro, educaci�n y salud a la poblaci�n nicarag�ense.
+5) Organismos sin Fines de Lucro, que brinden asistencia social y socorro a la poblaci�n nicarag�ense.
+6) Organismos Internacionales, Misiones Diplom�ticas y Consulares en condiciones de reciprocidad y de acuerdo a los Instrumentos Internacionales de los cuales Nicaragua sea Estado Parte.
+En estos casos los interesados deber�n solicitar a la M�xima Autoridad de TELCOR, una Autorizaci�n para la asignaci�n y uso de bandas de frecuencias o radiocanales de Espectro Radioel�ctrico, de conformidad a los requisitos y procedimientos que establezca TELCOR en la normativa correspondiente. Esta Autorizaci�n tendr� una vigencia m�nima de cinco (5) a�os hasta un m�ximo de diez (10) a�os, renovables a solicitud del interesado.
+Art�culo 38 Valor y metodolog�a para el c�lculo del Canon de arriendo por el uso del Espectro Radioel�ctrico
+TELCOR, mediante la Normativa correspondiente, establecer� los valores y la metodolog�a para el c�lculo del Canon de arriendo por el uso del Espectro Radioel�ctrico, para lo cual podr� aplicar modelos proxy o precios sombra, que tendr�n en cuenta, valores referenciales de mercado, las mejores pr�cticas y experiencias internacionales, considerando entre otros par�metros objetivos, la relevancia del servicio, atribuci�n, el ancho de banda asignado, n�mero de canales o enlaces utilizados, grado de congesti�n, eficiencia del equipo de radio, la potencia transmitida, �rea de cobertura, localizaci�n geogr�fica, el n�mero de Usuarios potenciales, la disponibilidad del servicio, la suficiencia del recurso, los planes de expansi�n, la demanda por el Espectro Radioel�ctrico y su disponibilidad, la ocupaci�n de los canales y enlaces en Erlangs, y cualquier otro tipo de par�metro que sirva como indicador del Canon de arriendo que se pagar� a TELCOR, por el uso del Espectro Radioel�ctrico.
+TELCOR est� facultado para ajustar al alza o a la baja, los valores del Canon por arriendo, con base en la evoluci�n tecnol�gica del mercado, el inter�s p�blico y los dem�s par�metros objetivos antes referidos.
+Art�culo 39 Incentivos Regulatorios
+TELCOR, podr� fijar valores menores del Canon de arriendo por el uso del Espectro Radioel�ctrico y/o per�odos de pago diferidos por el Canon de asignaci�n, durante un tiempo determinado, para los Operadores de Telecomunicaciones que sean considerados como Nuevos o Entrantes al mercado, con el prop�sito de promover la competencia.
+TELCOR, podr� eximir o reducir el pago en concepto de estos c�nones a aquellos Operadores Microtelcos o MIPYMEs de Telecomunicaciones, con la finalidad de promover los servicios en las zonas no atendidas, �reas rurales y �reas con desventajas econ�micas, para reducir la brecha digital en el pa�s.
+CAP�TULO II
+GESTI�N ESTRAT�GICA DEL ESPECTRO RADIOEL�CTRICO
+Art�culo 40 Administraci�n y gesti�n del Espectro Radioel�ctrico
+Le corresponde a TELCOR, desarrollar las funciones de planeaci�n, atribuci�n, administraci�n, gesti�n, asignaci�n, monitoreo, fiscalizaci�n y supervisi�n para el uso eficiente del Espectro Radioel�ctrico.
+Art�culo 41 Modelo de gesti�n del Espectro Radioel�ctrico
+La gesti�n del Espectro Radioel�ctrico debe atender al principio de neutralidad tecnol�gica, prevenir y corregir interferencias sobre otros servicios, ser compatible con las tendencias internacionales del mercado, sin afectar la seguridad y defensa nacional y contribuir al cierre de brecha digital.
+TELCOR est� facultado para adoptar el modelo de gesti�n del recurso del Espectro Radioel�ctrico que resulte m�s conveniente para responder a la din�mica evolutiva de la tecnolog�a, y que propicie el mejor m�todo de administraci�n, asignaci�n y uso eficiente de este recurso, con base en las condiciones y oportunidades del mercado, pudiendo implementar cuando fuere pertinente, mecanismos regulatorios que provean de flexibilidad, innovaci�n y transferencia del uso y aprovechamiento econ�mico del recurso del Espectro Radioel�ctrico.
+Art�culo 42 Instrumentos de gesti�n del Espectro Radioel�ctrico
+Para realizar la gesti�n del Espectro Radioel�ctrico, se utilizan, entre otros, los siguientes instrumentos:
+1) El Plan Nacional de Frecuencias (PNF): Es un Instrumento de planificaci�n estrat�gica del Espectro Radioel�ctrico en el �mbito nacional y en congruencia con el entorno internacional, en el que definen las pol�ticas, estrategias, objetivos y prioridades en el uso y aprovechamiento del Espectro Radioel�ctrico para un per�odo de cinco (5) a�os.
+2) El Cuadro Nacional de Atribuci�n de Frecuencias (CNAF): Es un instrumento de gesti�n del Espectro Radioel�ctrico en el �mbito nacional, en el cual se muestra la atribuci�n de las bandas de frecuencias de radiodifusi�n, radiocomunicaciones terrestres, espaciales, aeron�uticas y mar�timas, incluyendo las bandas de frecuencias para radio navegaci�n, radio ayuda y radiolocalizaci�n.
+El Cuadro Nacional de Atribuci�n de Frecuencias (CNAF), ser� modificado de conformidad con lo establecido en el Plan Nacional de Frecuencias (PNF).
+3) El Registro Nacional de Asignaciones de Frecuencias (RNAF): Es un instrumento de gesti�n y control del Espectro Radioel�ctrico en el que se muestra el registro de todos los asignatarios de determinadas bandas de frecuencias o canales radioel�ctricos, indicando la informaci�n necesaria y las condiciones de uso para dicho recurso, bajo las cuales se le otorg� la Licencia o autorizaci�n respectiva.
+Los instrumentos de gesti�n definidos anteriormente, permiten el desarrollo planificado de los distintos sistemas de radiocomunicaciones en el territorio nacional, la coordinaci�n de estos sistemas con los sistemas en territorio de otras naciones, brindan certidumbre t�cnica y jur�dica a los titulares de las Licencias de Derecho de uso del Espectro Radioel�ctrico, y promueven el uso ordenado y eficiente de bandas de frecuencias.
+Estos instrumentos de gesti�n son de car�cter estrat�gico, normativo y t�cnico. La elaboraci�n y actualizaci�n peri�dica de dichos instrumentos le corresponde a TELCOR.
+Art�culo 43 Armonizaci�n de los Planes Nacionales de Frecuencias
+TELCOR, podr� coordinar con los respectivos �rganos Reguladores de la regi�n, la armonizaci�n de los Planes Nacionales de Frecuencias, con fines de homogenizaci�n, adopci�n de est�ndares y asignaciones comunes.
+Art�culo 44 Cambios de atribuci�n y asignaci�n de bandas de frecuencias
+Para los cambios de atribuci�n o modificaciones en la asignaci�n de bandas de frecuencias por motivos de inter�s p�blico, TELCOR, desarrollar� cuando sea pertinente, un Plan de Reordenamiento conforme a los objetivos estrat�gicos del Plan Nacional de Frecuencias (PNF), que garantice a los asignatarios de dichas bandas, migrar en un plazo no mayor de dos (2) a�os a otras bandas de frecuencias que TELCOR determine como sustitu�as para los servicios vinculados. Siendo el Espectro Radioel�ctrico un bien del dominio p�blico, los asignatarios no podr�n negarse, bajo ninguna raz�n, al cambio de atribuci�n o modificaci�n en la asignaci�n a otras bandas, ni reclamar ning�n tipo de indemnizaci�n o subsidio, y deber�n proceder con la migraci�n hacia las nuevas bandas que le establezca TELCOR.
+Art�culo 45 Puesta en operaci�n de los servicios
+Los titulares de Licencias de Derechos de Uso del Espectro Radioel�ctrico, deber�n realizar en tiempo y forma todos los actos previos necesarios para asegurar la puesta en operaci�n de los servicios en los t�rminos establecidos en la Licencia y la normativa correspondiente.
+CAP�TULO III
+RECURSOS P�BLICOS DE NUMERACI�N
+Art�culo 46 Recursos p�blicos de numeraci�n
+Los recursos p�blicos de numeraci�n son bienes del dominio p�blico sujetos a la planeaci�n, administraci�n, gesti�n, supervisi�n y fiscalizaci�n de TELCOR.
+Art�culo 47 Asignaci�n de numeraci�n
+Los recursos p�blicos de numeraci�n, podr�n asignarse a personas naturales o jur�dicas, previo cumplimiento de los requisitos que establezca TELCOR en la normativa correspondiente, incluyendo el pago de un Canon por asignaci�n y Canon anual por arriendo.
+Los mecanismos de asignaci�n y c�nones a pagar por la asignaci�n y arriendo de los recursos p�blicos de numeraci�n, se establecer�n en las normativas correspondientes que al efecto emita TELCOR.
+La asignaci�n y uso de los recursos p�blicos de numeraci�n no concede ning�n derecho de propiedad, siendo el Estado en todo momento quien ejerce soberan�a sobre estos recursos p�blicos, como un bien del dominio p�blico.
+Los recursos provenientes del pago de los C�nones antes mencionados, ingresar�n al patrimonio de TELCOR.
+T�TULO V
+AUTORIZACIONES SATELITALES Y DE CABLES SUBMARINOS
+CAP�TULO I
+COORDINACI�N SATELITAL INTERNACIONAL
+Art�culo 48 Recursos �rbita-espectro
+La administraci�n, gesti�n y control de los Recursos �rbita-espectro para la operaci�n de sistemas y redes satelitales en el �mbito nacional, corresponde al Estado de Nicaragua. El aprovechamiento de los recursos �rbita-espectro se regir� de conformidad con el Derecho Internacional, atendiendo los Instrumentos Internacionales de los cuales Nicaragua sea Estado Parte.
+Los recursos �rbita-espectro podr�n ser utilizados por entidades de car�cter p�blico o privado, sujeto a los procesos de coordinaci�n internacionales de frecuencias y del reconocimiento de la reserva de posiciones de �rbitas por parte de la Uni�n Internacional de Telecomunicaciones (UIT) y a la habilitaci�n por parte del Estado a trav�s de TELCOR.
+Art�culo 49 Reserva de posiciones orbitales
+Corresponde a TELCOR, realizar la gesti�n de coordinaci�n internacional, para la reserva de posiciones orbitales por parte del Estado de Nicaragua. La entidad p�blica o privada interesada en disponer del recurso �rbita-espectro est� obligada a asumir cualquier gasto en que incurra TELCOR, derivado de su gesti�n de coordinaci�n, as� como, de otros gastos que resulten de dicha coordinaci�n ante la Uni�n Internacional de Telecomunicaciones (UIT) u otras agencias internacionales.
+Art�culo 50 Reconocimiento de acuerdos para disponer de Recursos �rbita-espectro
+Ning�n acuerdo para disponer de Recursos �rbita-espectro realizado entre entidades interesadas al margen de las coordinaciones de las administraciones de los Estados, ni las mismas entidades, tendr� el reconocimiento nacional, ni internacional en el contexto de las regulaciones de radiocomunicaciones de la Uni�n Internacional de Telecomunicaciones (UIT). Estas coordinaciones solo podr�n realizarse a trav�s de TELCOR.
+Art�culo 51 Requisitos para coordinaci�n internacional
+Mediante normativa, TELCOR, establecer� el procedimiento, los requisitos, informaci�n y documentaci�n que resulte necesaria y que deban proveer las entidades interesadas, para efecto de la coordinaci�n internacional por parte de TELCOR.
+CAP�TULO II
+AUTORIZACI�N SATELITAL NACIONAL
+Art�culo 52 Autorizaci�n Satelital Nacional para el uso de los Recursos �rbita- espectro
+El uso de los Recursos �rbita-espectro por parte de entidades interesadas, requerir� de la debida Autorizaci�n por parte de la M�xima Autoridad de TELCOR. Toda Autorizaci�n est� condicionada al cumplimiento de la coordinaci�n internacional. Cuando la autorizaci�n sea procedente, tendr� una vigencia m�nima desde diez (10) a�os hasta un m�ximo de veinte (20) a�os renovables, debiendo negociar las partes la contraprestaci�n econ�mica que el interesado pagar� a favor de TELCOR, por el uso de estos recursos.
+Art�culo 53 Mecanismos competitivos para la emisi�n de la Autorizaci�n
+Cuando exista concurrencia de entidades interesadas en disponer del recurso �rbita-espectro, TELCOR, podr� implementar mecanismos competitivos para la emisi�n de la Autorizaci�n correspondiente.
+Art�culo 54 Red o sistema terrenal asociada
+Cuando la infraestructura del sistema satelital de la entidad interesada en hacer uso de Recursos �rbita-espectro incluya una red o sistema terrenal asociada, que haga uso de frecuencias que sean distintas a aquellas pre-coordinadas, la entidad interesada deber� tambi�n contar con la respectiva Licencia de Derecho de Uso del Espectro Radioel�ctrico.
+Art�culo 55 Obtenci�n y renovaci�n de Recursos �rbita-espectro
+El procedimiento, requisitos, t�rminos y dem�s condiciones para la obtenci�n y renovaci�n de la Autorizaci�n para el uso de los recursos �rbita-espectro, as� como las obligaciones espec�ficas de los titulares de dicha Autorizaci�n ser�n establecidos por TELCOR en la normativa correspondiente.
+CAP�TULO III
+ATERRIZAJE DE SE�ALES SATELITALES Y DE CABLES SUBMARINOS
+Art�culo 56 Aterrizaje de se�ales satelitales
+Las entidades extranjeras propietarias de sistemas o flotas de satelitales interesados en aterrizar sus se�ales satelitales en el territorio nacional, deber� solicitar a TELCOR, Autorizaci�n de Aterrizaje de Se�ales Satelitales, en el territorio nacional.
+Art�culo 57 Aterrizaje y paso de cables submarinos
+Las entidades extranjeras interesadas en instalar y aterrizar cables submarinos de fibra �ptica en territorio nicarag�ense, deber�n solicitar previamente a TELCOR una Autorizaci�n, la que incluir� el derecho de instalar las estaciones de aterrizaje necesarias y realizar otras obras o actividades relacionadas con la operaci�n y mantenimiento de la misma. Cuando la autorizaci�n sea procedente, tendr� una vigencia m�nima desde diez (10) a�os hasta un m�ximo de veinte (20) a�os renovables. Adem�s, el interesado deber� solicitar a TELCOR, la Licencia respectiva para prestar Servicios P�blicos de Telecomunicaciones a Operadores o Usuarios.
+En los casos que dichas entidades solo requieran el paso e instalaci�n de cables submarinos en zonas mar�timas sobre las cuales el Estado de Nicaragua ejerza soberan�a y jurisdicci�n, sin aterrizar en territorio nicarag�ense, el interesado deber� solicitar el benepl�cito o consentimiento del Estado de Nicaragua, a trav�s de TELCOR.
+En ambos casos, TELCOR realizar� las coordinaciones pertinentes con las autoridades competentes, de acuerdo a lo establecido en la legislaci�n nacional y en los Instrumentos Internacionales de los cuales Nicaragua sea Estado Parte.
+Art�culo 58 Solicitud de Autorizaci�n
+La solicitud de Autorizaci�n deber� presentarse acompa�ando toda la informaci�n y documentaci�n que justifique la misma, incluyendo el pago del correspondiente Canon recurrente anual por aterrizaje de se�ales satelitales y de cables submarinos, de conformidad con los requisitos y procedimientos que TELCOR establezca en las normativas correspondientes.
+T�TULO VI
+EQUIPOS DE TELECOMUNICACIONES
+CAP�TULO I
+HOMOLOGACI�N DE EQUIPOS
+Art�culo 59 Conformidad de los equipos de telecomunicaciones
+Todos los equipos de telecomunicaciones que se conecten directa o indirectamente, o permitan el acceso a las redes p�blicas de telecomunicaciones, deben cumplir con los est�ndares y especificaciones t�cnicas, regulatorias, ambientales, de salud y seguridad humana, establecidas en el pa�s o por organismos de estandarizaci�n internacional, adoptadas y reconocidas por el Estado de Nicaragua.
+Art�culo 60 Homologaci�n de los equipos de telecomunicaciones
+La fabricaci�n, importaci�n, distribuci�n y comercializaci�n de equipos de telecomunicaciones en general, requiere de la previa Homologaci�n de los mismos ante TELCOR, con el prop�sito de comprobar que sus caracter�sticas t�cnicas no afectar�n o da�ar�n las redes a las que se conecten, ni a los equipos de otras redes autorizadas, a fin de garantizar la seguridad de los Usuarios.
+Art�culo 61 Certificado de Homologaci�n
+Los fabricantes, importadores, distribuidores, comercializadores, Operadores y Usuarios en general, s�lo podr�n internar, vender y usar en el mercado, respectivamente, equipos de telecomunicaciones que cumplan con la evaluaci�n de la conformidad, en t�rminos de compatibilidad e interoperabilidad que establezca TELCOR.
+A tal efecto, los interesados, deber�n obtener el Certificado de Homologaci�n expedido por TELCOR previo pago de la tarifa por el tr�mite administrativo correspondiente, como comprobante de que sus equipos cumplen con las exigencias t�cnicas regulatorias de compatibilidad e interoperabilidad, respectivamente.
+El Certificado de Homologaci�n se emitir� por cada modelo de equipo y tendr� una vigencia indefinida. En el caso que se trate de una nueva versi�n del equipo previamente homologado, el interesado deber� solicitar el Certificado de Homologaci�n respectivo.
+Art�culo 62 Etiquetado de los equipos de telecomunicaciones
+Los fabricantes, importadores, distribuidores o comercializadores, una vez aprobada la Homologaci�n, deber�n agregar a los equipos de telecomunicaciones a ser vendidos y usados en Nicaragua, una etiqueta especial que indique que �stos cumplen con la regulaci�n nacional establecida.
+Art�culo 63 Requisitos para el Certificado de Homologaci�n
+Los interesados en obtener un Certificado de Homologaci�n deben presentar como soporte de su solicitud, la documentaci�n con las especificaciones t�cnicas detalladas de los equipos a homologar y el Certificado de Conformidad emitido por organismos internacionales de normalizaci�n y/o autoridades reguladoras de otros pa�ses, aceptados por TELCOR en la normativa correspondiente. TELCOR podr� establecer otros requisitos que considere pertinentes para el efectivo proceso de homologaci�n de los equipos.
+Art�culo 64 Base de datos de equipos de telecomunicaciones homologados y rechazados
+TELCOR, establecer� y mantendr� actualizada una base de datos con el registro de todos los tipos de equipos de telecomunicaciones que han sido homologados y de aquellos equipos que hayan sido rechazados, la cual estar� disponible al p�blico en general.
+Art�culo 65 Acreditaci�n de los organismos de certificaci�n
+Los organismos de certificaci�n de la conformidad y los laboratorios de pruebas nacionales, regionales y/o internacionales, deben ser acreditados por la Entidad Nacional correspondiente seg�n la Ley de la materia, para el reconocimiento de sus certificados de conformidad y de sus resultados de pruebas dentro del pa�s, respectivamente, con base en los lineamientos establecidos por TELCOR.
+Art�culo 66 Evaluaci�n de la conformidad
+TELCOR, en la normativa espec�fica establecer� los requisitos, condiciones, protocolos, est�ndares, procedimientos, excepciones y otros aspectos necesarios para la evaluaci�n de la conformidad, interoperabilidad y homologaci�n de los equipos de telecomunicaciones, as� como, el otorgamiento del certificado correspondiente.
+CAP�TULO II
+EQUIPOS PROHIBIDOS Y/O DE USO RESTRINGIDO
+Art�culo 67 Internaci�n de equipos
+Los equipos que se encuentren registrados como homologados, podr�n ser internados al pa�s, por cualquier persona natural o jur�dica, sin necesidad de gestionar un nuevo Certificado de Homologaci�n.
+Art�culo 68 Restricci�n y prohibici�n a la internaci�n y uso de determinados equipos de telecomunicaciones
+Corresponde a TELCOR, establecer medidas de restricci�n a la internaci�n y uso de determinados equipos de telecomunicaciones y elementos asociados o complementarios, que requieran el otorgamiento de un T�tulo Habilitante o que contravengan el marco regulatorio vigente. Asimismo, podr� prohibir la internaci�n y uso de aquellos equipos de telecomunicaciones que pongan en riesgo la seguridad nacional y/o los intereses de la Rep�blica de Nicaragua. Todo lo anterior, conforme a la legislaci�n nacional, al Acuerdo General sobre Aranceles Aduaneros y Comercio (GATT, por sus siglas en ingl�s) y dem�s Instrumentos Internacionales de los cuales Nicaragua sea Estado Parte.
+TELCOR, mantendr� disponible a los interesados un registro o base de datos de los equipos de telecomunicaciones cuya internaci�n al pa�s est� sujeta a restricci�n o prohibici�n.
+Art�culo 69 Constancia de No Objeci�n
+En los casos de internaci�n de equipos de telecomunicaciones y elementos asociados o complementarios, cuyo uso sea restringido, los interesados deben solicitar previamente ante TELCOR, una Constancia de No Objeci�n para el despacho en Aduana. Dichos equipos deben de estar previamente homologados.
+Para efectos de la aplicaci�n de este art�culo, TELCOR y la Direcci�n General de Servicios Aduaneros (DGA) deber�n establecer las coordinaciones interinstitucionales respectivas.
+CAP�TULO III
+DISPOSICIONES COMUNES
+Art�culo 70 Fiscalizaci�n y control de los equipos de telecomunicaciones
+Es facultad de TELCOR, ejecutar la fiscalizaci�n y control continuo de los equipos de telecomunicaciones y elementos asociados o complementarios, para garantizar el cumplimiento de las disposiciones de la presente Ley y las normativas correspondientes.
+Art�culo 71 Retiro de equipos de telecomunicaciones
+TELCOR, podr� prohibir el uso o retirar los equipos de telecomunicaciones y elementos asociados o complementarios, cuyo uso o caracter�sticas t�cnicas, no cumplan con las disposiciones de la presente Ley y las normativas correspondientes, pudiendo para tal fin, auxiliarse de la fuerza p�blica.
+Art�culo 72 Tarifas por tr�mites administrativos
+Los requisitos, procedimientos y tarifas por los tr�mites administrativos de otorgamiento del Certificado de Homologaci�n y la Constancia de No Objeci�n, ser�n establecidos por TELCOR en la normativa correspondiente.
+T�TULO VII
+R�GIMEN DE INTERCONEXI�N DE REDES, ACCESO Y USO COMPARTIDO DE INSTALACIONES ESENCIALES
+CAP�TULO I
+OBLIGACI�N DE ACCESO Y USO COMPARTIDO DE INSTALACIONES ESENCIALES
+Art�culo 73 Obligaci�n de Acceso y uso compartido de Instalaciones Esenciales
+Los Operadores y Proveedores de Servicios de Telecomunicaciones est�n obligados a permitir el acceso y uso compartido de sus Instalaciones Esenciales, a cualquier otro Operador o Proveedor de Servicios de Telecomunicaciones que as� lo solicite, de acuerdo con las condiciones definidas en la normativa espec�fica que al efecto emita TELCOR y en la cual tambi�n se definir�n los criterios para declarar qu� instalaciones se consideran esenciales, para efectos de la aplicaci�n de esta disposici�n.
+Art�culo 74 Criterios para el Acceso y uso compartido de Instalaciones Esenciales
+El acceso y uso compartido de Instalaciones Esenciales, deben atender criterios de trato igualitario o no menos favorable, transparencia, precios basados en costos eficientes, promoci�n de la competencia y los principios establecidos en la presente Ley y en las Normativas pertinentes.
+CAP�TULO II
+OBLIGACI�N DE INTERCONEXI�N DE REDES
+Art�culo 75 Obligaci�n de Interconexi�n
+Los Operadores de Telecomunicaciones est�n obligados a permitir que otros Operadores que lo soliciten, se interconecten a sus Redes, de acuerdo con las condiciones definidas en la normativa espec�fica que emita TELCOR.
+La Interconexi�n a las Redes debe atender criterios de trato igualitario o no menos favorable, transparencia, precios basados en costos eficientes, promoci�n de la competencia y los principios establecidos en la presente Ley y en las Normativas pertinentes.
+Cuando un Operador requiera interconectar su Red con las Redes de Operadores en el extranjero, el Operador nacional conjuntamente con el Operador en el extranjero deber�n presentar a TELCOR la propuesta del contrato de Interconexi�n, para su revisi�n y aprobaci�n, pudiendo ordenar modificaciones cuando considere que perjudiquen los intereses de otros Operadores o de los Usuarios.
+Si para interconectar la Red de un Operador fuera del territorio nacional fuese necesario celebrar contratos con alg�n Gobierno Extranjero, los tr�mites ser�n realizados por conducto de TELCOR.
+Art�culo 76 Conexi�n de los Equipos Terminales
+Los Operadores de Telecomunicaciones est�n obligados de permitir la conexi�n de los Equipos Terminales del Usuario a sus Redes. Los equipos deben estar homologados y cumplir con las Normativas correspondientes.
+CAP�TULO III
+OFERTAS B�SICAS DE REFERENCIA DE ACCESO Y USO COMPARTIDO DE INSTALACIONES ESENCIALES E INTERCONEXI�N
+Art�culo 77 Ofertas B�sicas de Referencia
+Los Operadores de Servicios P�blicos de Telecomunicaciones que hayan sido declarados por TELCOR, con Peso Significativo de Mercado (PSM), deben remitir a TELCOR para su aprobaci�n, la Oferta B�sica de Referencia de Acceso y Uso Compartido de Instalaciones Esenciales, as� como la Oferta B�sica de Referencia de Interconexi�n a sus Redes, con el modelo de contrato correspondiente. En el caso de Proveedores de Servicios de Comunicaciones Audiovisuales, esta obligaci�n corresponde a la Oferta B�sica de Referencia de Acceso y Uso Compartido de sus Instalaciones Esenciales.
+Art�culo 78 Contenido de las Ofertas B�sicas de Referencia de Acceso Uso Compartido e Interconexi�n
+Las Ofertas B�sicas de Referencias de Acceso Uso Compartido e Interconexi�n contendr�n las condiciones t�cnicas, legales, comerciales, econ�micas y contractuales m�nimas y todos los elementos que resulten necesarios para el Acceso, Uso Compartido o la Interconexi�n. Su contenido debe reflejar una estricta fundamentaci�n en costos eficientes o en alguna otra metodolog�a que TELCOR establezca.
+Art�culo 79 Ajuste de precios de Acceso e Interconexi�n
+TELCOR, podr� ajustar anualmente los precios de acceso y de Interconexi�n en Redes de telecomunicaciones fijas y m�viles, as� como los precios por concepto de uso compartido de Instalaciones Esenciales, mediante una metodolog�a de costos eficientes, estudios comparativos de los precios que se aplican entre empresas similares en otros pa�ses o mediante la metodolog�a que sea m�s conveniente de acuerdo al criterio de TELCOR.
+CAP�TULO IV
+INTERVENCI�N POR PARTE DE TELCOR
+Art�culo 80 Adhesi�n a las Ofertas B�sicas de Referencia
+Con la simple adhesi�n por parte del Operador de Servicios P�blicos de Telecomunicaciones o el Proveedor de Servicios de Comunicaciones Audiovisuales solicitante a la Oferta B�sica de Referencia de Acceso y Uso Compartido de Instalaciones Esenciales o a la Oferta B�sica de Referencia de Interconexi�n, se genera como consecuencia la obligaci�n del Operador o Proveedor receptor de la solicitud de suscribir el contrato correspondiente con el solicitante, dentro de un plazo m�ximo de treinta (30) d�as calendario.
+Art�culo 81 Negociaci�n del contrato
+Si el solicitante no se adhiere a la Oferta B�sica de Referencia de Acceso y Uso Compartido de Instalaciones Esenciales o a la Oferta B�sica de Referencia de Interconexi�n, las partes dispondr�n de un plazo m�ximo de treinta (30) d�as calendarios para negociar y establecer de mutuo acuerdo las condiciones t�cnicas, comerciales, econ�micas y legales que rigen el contrato correspondiente, respetando el criterio de Trato Igualitario y no menos favorable y los principios establecidos en la presente Ley y en las Normativas pertinentes.
+Art�culo 82 Intervenci�n de TELCOR
+TELCOR, de oficio o a solicitud de parte interesada, intervendr� con la finalidad de iniciar un procedimiento administrativo para ordenar el Acceso o Interconexi�n f�sica, estableciendo los t�rminos y condiciones m�nimas y ordenando a las partes la suscripci�n del contrato respectivo, en cualquiera de los siguientes casos:
+a) Si vencido el plazo de negociaci�n, las partes no hubieren llegado a ning�n acuerdo.
+b) Ante la negativa del Operador o Proveedor receptor de la solicitud para la suscripci�n del contrato.
+c) Cuando las partes hubiesen suscrito el contrato respectivo, en contravenci�n a las disposiciones de la presente Ley o las Normativas aplicables.
+d) En cualquier momento, por causas de inter�s p�blico o cuando las condiciones del mercado as� lo exijan.
+CAP�TULO V
+DISPOSICIONES COMUNES
+Art�culo 83 Aprobaci�n y Registro de los Contratos de Acceso e Interconexi�n
+Todos los Contratos de Acceso, Uso Compartido de Instalaciones Esenciales y/o de Interconexi�n de Redes que suscriban las partes por acuerdo mutuo o por mandato como consecuencia de la intervenci�n de TELCOR, deber�n ser presentados en un plazo no mayor de quince (15) d�as h�biles contados a partir de su suscripci�n, para su correspondiente aprobaci�n y registro por parte de TELCOR, como condici�n indispensable para su entrada en vigencia.
+Art�culo 84 Aspectos procedimentales y requisitos para el Acceso e Interconexi�n
+Los procedimientos, requisitos, reglas, t�rminos y condiciones para la aplicaci�n de las disposiciones relativas al Acceso y Uso compartido de Instalaciones Esenciales e Interconexi�n de Redes, ser�n establecidos por TELCOR, mediante la normativa correspondiente.
+CAP�TULO VI
+ACCESO Y USO COMPARTIDO DE INSTALACIONES NO ESENCIALES
+Art�culo 85 Libertad de negociaci�n
+Los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales, tendr�n la libertad de negociar el acceso y uso compartido de las Instalaciones no declaradas como esenciales de otros Operadores o Proveedores. Los T�rminos T�cnicos y Econ�micos deber�n constar en un Contrato de Compartici�n, mismo que deber� ser registrado ante TELCOR. El contrato que las partes suscriban debe cumplir con los criterios de trato igualitario o no menos favorable y los Principios establecidos en la presente Ley y las Normativas pertinentes.
+Art�culo 86 Contraprestaci�n para el titular de la Instalaci�n
+El Operador de Servicios P�blicos de Telecomunicaciones o Proveedor de Servicios de Comunicaciones Audiovisuales, titular de la Instalaci�n solicitada, tiene el derecho a recibir como contraprestaci�n de parte del Operador o Proveedor solicitante, el pago negociado por la Instalaci�n, el cual debe ser justo y razonable que permita cubrir los costos por el acceso, de operaci�n y mantenimiento de la Instalaci�n que forman parte del Contrato de Compartici�n.
+Art�culo 87 Compensaci�n por da�os al titular de la Instalaci�n
+El Operador o Proveedor solicitante no debe afectar la calidad y continuidad del servicio del Operador o Proveedor titular de las Instalaciones compartidas. En todo momento, el Operador o Proveedor solicitante debe evitar causar da�os en las instalaciones del Operador o Proveedor titular. En caso de da�o, el Operador o Proveedor solicitante deber� compensar debidamente al Operador o Proveedor titular de la instalaci�n compartida, por el monto correspondiente al da�o infringido.
+Art�culo 88 Revisi�n de los Contratos de Compartici�n
+TELCOR, verificar� en cualquier momento las condiciones de los Contratos de Compartici�n registrados a fin de valorar su impacto sobre la competencia efectiva en el sector. Cuando se observen efectos negativos sobre la competencia, TELCOR, podr� establecer y aplicar medidas para garantizar que la compartici�n se realice bajo condiciones no discriminatorias y prevenir o corregir conductas contrarias a la competencia.
+Art�culo 89 Inversiones conjuntas
+Los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales, pueden emprender esfuerzos de inversi�n conjuntas, para el despliegue de instalaciones de red, para su uso compartido bajo los criterios de no discriminaci�n y trato no menos favorable y dem�s principios establecidos en la presente Ley, para lo cual deben suscribir un acuerdo de inversi�n conjunta. Los interesados deben remitir la propuesta de inversi�n conjunta, su alcance, t�rminos y condiciones del acuerdo, para la aprobaci�n previa de parte de TELCOR.
+T�TULO VIII
+R�GIMEN DE TARIFAS
+CAP�TULO I
+TARIFAS A LOS USUARIOS FINALES
+Art�culo 90 Libertad de fijaci�n tarifaria
+Como regla general, los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales por suscripci�n o paga, podr�n fijar libremente las tarifas de los servicios ofertados a los Usuarios, de acuerdo a la oferta y la demanda, dentro de un r�gimen de libre y sana competencia en el mercado, sobre las cuales TELCOR, realizar� funciones continuas y permanentes de supervisi�n y fiscalizaci�n.
+Los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales por suscripci�n o paga, deben establecer tarifas justas por la prestaci�n de los servicios a sus Usuarios, las cuales deben ser razonables, no discriminatorias, libres de subsidios cruzados, atendiendo las condiciones del mercado, procurando ser m�s competitivas que las tarifas de los mismos servicios ofrecidos en la regi�n o pa�ses de econom�as comparables.
+Art�culo 91 Prohibici�n de cobrar por servicios no prestados
+Ning�n Operador o Proveedor podr� incluir en su factura ni cobrar en sus tarifas servicios que no haya prestado o que el Usuario no haya solicitado o contratado.
+Art�culo 92 Planes tarifarios
+Los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales por suscripci�n o paga, deber�n de informar a TELCOR sobre los planes tarifarios de los servicios que ofrecen a los Usuarios, conforme a la periodicidad que establezca TELCOR en la normativa correspondiente.
+Art�culo 93 Publicaci�n de las tarifas
+Los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales por suscripci�n o paga, deber�n publicar y mantener actualizadas sus tarifas, en su sitio Web y en cualquier otro medio f�sico o electr�nico que facilite su efectiva difusi�n a todos los Usuarios.
+CAP�TULO II
+REGULACI�N POR PARTE DE TELCOR
+Art�culo 94 Regulaci�n tarifaria
+TELCOR, regular� las tarifas de los Servicios P�blicos de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales, cuando ocurra al menos una de las siguientes situaciones:
+a) Dichas tarifas no est�n basadas en la oferta y la demanda;
+b) No exista suficiente competencia;
+c) Se evidencie una falla de mercado; o
+d) Cuando la calidad en la prestaci�n de los servicios sea insuficiente.
+En el caso que se requiera la regulaci�n de las tarifas, TELCOR, aplicar� criterios y metodolog�as de costos eficientes, o alternativamente, podr� aplicar an�lisis de referencia comparativo con mercados de la regi�n.
+T�TULO IX
+DE LOS USUARIOS
+CAP�TULO I
+DERECHOS DE LOS USUARIOS
+Art�culo 95 Derechos de los Usuarios
+Sin perjuicio de otros derechos establecidos en la Ley N�. 842, Ley de Protecci�n de los Derechos de las Personas Consumidoras y Usuarias, los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales, deben garantizar a los Usuarios el cumplimiento de los siguientes derechos:
+1) Recibir el servicio contratado en condiciones �ptimas de calidad y continuidad.
+2) Ser informado de las condiciones contractuales de forma clara y expl�cita, en correspondencia con las regulaciones de protecci�n de los derechos de los Usuarios de los Servicios P�blicos de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales.
+3) Hacer uso de la Portabilidad Num�rica, conservando el n�mero de la l�nea telef�nica fija o m�vil, cada vez que decida cambiar de Operador.
+4) Elegir y cambiar libremente de Operador o Proveedor, as� como rescindir o cancelar el o los servicios contratados, en cualquier momento.
+5) Recibir un original del contrato del servicio correspondiente al momento de suscribirlo, el que deber� estar debidamente firmado por ambas partes.
+6) Presentar peticiones, quejas o reclamos ante el Operador o Proveedor sobre el servicio prestado o contratado a trav�s de cualquier medio f�sico o electr�nico y de realizar seguimiento de su tr�mite igualmente por ese tipo de medios.
+7) Obtener c�digo o comprobante del tr�mite de las peticiones, quejas o reclamos, de manera inmediata, as� como recibir respuesta debidamente sustentadas en el plazo establecido en la normativa pertinente.
+8) Recibir informaci�n clara, �til, necesaria, veraz, oportuna, gratuita y comprobable, en idioma espa�ol o en las lenguas aut�ctonas de las Regiones Aut�nomas de la Costa Caribe nicarag�ense, sobre los servicios ofrecidos, el alcance, los precios, los cargos y las condiciones aplicables a los planes tarifarios, incluyendo promociones, ofertas y sus modalidades, equipos terminales, par�metros de calidad y seguridad, a efecto que el Usuario pueda tomar en forma libre e independiente sus decisiones y les permita un correcto aprovechamiento de los servicios.
+9) Exigir el cumplimiento de lo ofrecido en la publicidad, las promociones y ofertas difundidas por cualquier medio; as� como del cumplimiento de condiciones establecidas en las cl�usulas del contrato de servicio suscrito.
+10) Recibir protecci�n en cuanto al contenido de sus comunicaciones, datos y metadatos asociados, as� como la informaci�n de sus datos personales, y que le sea garantizada la privacidad, la inviolabilidad de las comunicaciones en todo momento, exceptuando requerimiento de autoridad competente.
+11) Recibir en forma clara y oportuna la factura o documento de cobro detallado para efectos del pago de los servicios recibidos, y que reflejen las condiciones comerciales pactadas con el Operador o Proveedor, a trav�s del mecanismo f�sico o electr�nico elegido en forma voluntaria y expresa por el Usuario, con al menos quince (15) d�as de antelaci�n a la fecha de vencimiento de la factura.
+12) Contratar libremente los servicios de forma individual, sin ser obligados a adquirir otros bienes o servicios adicionales al que solicita.
+13) Interponer petici�n, queja o reclamo a trav�s de cualquier medio f�sico o electr�nico ante TELCOR, cuando no est�n conformes con lo resuelto por el Operador o Proveedor, o que no reciban respuesta despu�s de diez (10) d�as h�biles de interpuesto el reclamo.
+14) Rescindir los contratos en cualquier momento sin penalidad alguna, de conformidad con la Ley de la materia y a la normativa que para tal efecto emita TELCOR.
+15) Pagar �nicamente los servicios recibidos y suspender su obligaci�n de pago sobre aquellas facturas que sean sujetas de reclamo, mientras �ste no se resuelva definitivamente.
+16) Ser informado con suficiente anticipaci�n, en los casos de interrupci�n programada de los servicios, as� como del tiempo estimado para su restablecimiento.
+17) Recibir compensaci�n econ�mica de parte del Operador o Proveedor, en los casos en que el servicio se hubiese interrumpido independientemente de su causa o no se haya prestado, as� como, por los da�os causados en la propiedad o bienes del Usuario por la instalaci�n, reparaci�n o desinstalaci�n de los equipos o accesorios para prestar el servicio.
+Art�culo 96 In dubio pro Usuario
+Ante cualquier duda que surja en la interpretaci�n o aplicaci�n de la presente Ley, sus normativas y las cl�usulas contractuales dentro de la relaci�n entre el Operador de Servicios P�blicos de Telecomunicaciones o Proveedor de Servicios de Comunicaciones Audiovisuales y los Usuarios, TELCOR aplicar� la norma m�s favorable al Usuario de tal manera que prevalezcan sus derechos en tanto que el Operador o Proveedor no demuestre lo contrario.
+Cualquier cl�usula en los contratos que se celebren que sea contraria a los derechos de los Usuarios contemplados en la presente Ley se tendr� como nula, inexistente y no v�lida.
+CAP�TULO II
+OBLIGACIONES DE LOS USUARIOS
+Art�culo 97 Obligaciones de los Usuarios
+Son obligaciones de los Usuarios de los servicios prestados por los Operadores de Servicios P�blicos de Telecomunicaciones o Proveedores de Servicios de Comunicaciones Audiovisuales, las siguientes:
+1) Pagar por los servicios recibidos, en el tiempo, modo y condiciones establecidas en el contrato de servicio suscrito con su Operador o Proveedor.
+2) Usar los servicios recibidos de acuerdo con las condiciones establecidas en el contrato de servicio suscrito.
+3) Adoptar las medidas necesarias para evitar riesgos derivados del uso de los servicios recibidos.
+4) Atender las indicaciones sobre el uso adecuado del servicio prestado que le suministra su Operador o Proveedor.
+5) Cumplir los t�rminos y condiciones acordados en el contrato de servicio suscrito.
+CAP�TULO III
+DISPOSICIONES GENERALES
+Art�culo 98 Protecci�n de los Usuarios
+Corresponde a TELCOR, la protecci�n adecuada y eficiente de los derechos de los Usuarios de Servicios P�blicos de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales, por lo que est� facultado para realizar inspecciones, pruebas t�cnicas, auditor�as, mediciones de calidad y cualquier otra actividad necesaria para este fin, pudiendo hacer uso de la fuerza p�blica en caso de negativa por parte del Operador o Proveedor.
+Art�culo 99 Peticiones, quejas y reclamos ante TELCOR
+El Usuario que est� inconforme con la respuesta del Operador o Proveedor, o que no reciba respuesta en el plazo establecido, podr� interponer su reclamo ante TELCOR, quien iniciar� un procedimiento administrativo para tramitarlo y resolverlo, de conformidad a la Normativa que al efecto emita TELCOR.
+Los derechos establecidos en el presente T�tulo, son enunciativos m�s no limitativos; sin perjuicio de aquellos derechos establecidos en otras disposiciones legales, en los contratos de servicio y en la Normativa que al efecto emita TELCOR.
+Art�culo 100 Sitio Web de informaci�n interactiva
+TELCOR, pondr� a disposici�n de los Usuarios, a trav�s de su sitio Web o de cualquier medio electr�nico, una gu�a interactiva con informaci�n necesaria y �til, para el empoderamiento de los Usuarios de los Servicios P�blicos de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales.
+T�TULO X
+OBLIGACIONES DE LOS OPERADORES DE SERVICIOS P�BLICOS DE TELECOMUNICACIONES Y PROVEEDORES DE SERVICIOS DE COMUNICACIONES AUDIOVISUALES
+CAP�TULO �NICO
+Art�culo 101 Obligaciones de los Operadores y Proveedores
+Los Operadores de Servicios P�blicos de Telecomunicaciones y los Proveedores de Servicios de Comunicaciones Audiovisuales, est�n obligados a lo siguiente:
+1) Implementar la Portabilidad Num�rica en Telefon�a Fija y Telefon�a M�vil, como un derecho de los Usuarios, para lo cual se le debe garantizar las diferentes modalidades de Portabilidad Num�rica, de conformidad a la Normativa que al efecto emita TELCOR.
+2) Compartir sus Instalaciones Esenciales con otros Operadores y Proveedores de Telecomunicaciones que lo soliciten, de conformidad con lo establecido en la presente Ley, y en la normativa correspondiente.
+3) Garantizar la conexi�n de los Equipos Terminales de los Usuarios a sus Redes e infraestructuras.
+4) Implementar un sistema de contabilidad regulatoria de los costos e ingresos percibidos por la prestaci�n de los Servicios P�blicos de Telecomunicaciones y/o Servicios de Comunicaciones Audiovisuales, de conformidad con lo establecido en la presente Ley, y en la normativa correspondiente.
+5) Brindar Itinerancia nacional con precios regulados por TELCOR, atendiendo criterios de costos eficientes.
+6) Excluir cl�usulas abusivas y/o de retenci�n de Usuarios, de acuerdo a lo establecido en la Ley de la materia.
+7) Permitir contenidos y aplicaciones prestados a trav�s de las Redes de telecomunicaciones.
+8) Prestar los servicios bajo las condiciones y est�ndares de calidad que defina TELCOR en la normativa correspondiente.
+9) Proveer a los Usuarios los servicios de forma continua e ininterrumpida.
+10) Solicitar a TELCOR la previa aprobaci�n de su programa de mantenimiento de sus Redes cuando se requiera interrumpir la prestaci�n del servicio a los Usuarios.
+11) Previa aprobaci�n de TELCOR, informar a los Usuarios, con al menos cinco (5) d�as calendarios de anticipaci�n, en los casos de interrupci�n programada de los servicios, as� como del tiempo estimado para su restablecimiento.
+12) En caso de interrupciones de servicios no programados, informar de manera inmediata a TELCOR, as� como la medida y tiempo de restablecimiento.
+13) Compensar econ�micamente al Usuario, en los casos en que el servicio se hubiese interrumpido independientemente de su causa, o cuando no se haya prestado, exceptuando caso fortuito o fuerza mayor comprobados, as� como, por los da�os causados en la propiedad o bienes del Usuario por la instalaci�n, reparaci�n o desinstalaci�n de los equipos o accesorios para prestar el servicio.
+14) Cumplir con las publicidades, promociones y ofertas difundidas por cualquier medio, as� como con las condiciones establecidas en las cl�usulas del contrato de servicio suscrito con el Usuario.
+15) Garantizar la prestaci�n del servicio al Usuario, sin exigirle la adquisici�n de otros bienes o servicios adicionales al que solicita, ni limitar o restringir el uso del servicio prestado como condici�n para proporcion�rselo.
+16) Elaborar los contratos por adhesi�n a suscribir con sus Usuarios, de conformidad con lo dispuesto en la Ley de la materia y la normativa correspondiente que emita TELCOR.
+17) Someter para la aprobaci�n de TELCOR, el modelo de contrato de servicios, as� como cualquier modificaci�n, previo a su implementaci�n.
+18) Entregar al Usuario un original del contrato del servicio a prestar al momento de suscribirlo debidamente firmado por ambas partes.
+19) Establecer oficinas f�sicas para la atenci�n de peticiones, quejas o reclamos de los Usuarios, en las �reas de cobertura de los servicios que ofrecen.
+20) Cumplir con los derechos de los Usuarios y resolver sus peticiones, quejas o reclamos, a trav�s de cualquier medio f�sico o electr�nico, dentro del plazo establecido.
+21) Crear un registro de los Equipos Terminales reportados como perdidos o robados y tomar las providencias necesarias para impedir el comercio de estos equipos terminales de conformidad con la normativa que al efecto emita TELCOR.
+22) Garantizar que los equipos que sean utilizados para la prestaci�n de los Servicios P�blicos de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales est�n debidamente homologados.
+23) Brindar a los Usuarios acceso telef�nico gratuito a trav�s de sus Redes, a los servicios p�blicos de Emergencia Nacional.
+24) Garantizar la inviolabilidad del contenido de las comunicaciones de los Usuarios, los datos y metadatos asociados a ellas, salvo mandato de autoridad judicial competente y de conformidad con las leyes de la materia.
+25) Permitir el acceso de los servidores p�blicos y/o t�cnicos de TELCOR a sus dependencias, instalaciones y equipos, y brindar las facilidades necesarias para que cumplan sus labores de supervisi�n y fiscalizaci�n, ya sea t�cnica, financiera o contable; bajo apercibimiento de imputarse como ciertos los hechos presumidos por TELCOR, sin perjuicio de auxiliarse de la fuerza p�blica.
+26) Unirse a las transmisiones nacionales de radio y televisi�n, en los t�rminos y condiciones que establezca TELCOR en la Convocatoria respectiva, para casos de situaciones de emergencia nacional o regional, vinculadas a la seguridad y defensa de la naci�n, graves alteraciones al orden p�blico, a las condiciones econ�micas y sociales, epidemias, pandemias, fen�menos y cat�strofes naturales, y en general cuando las autoridades del Gobierno de la Rep�blica de Nicaragua transmitan mensajes de inter�s nacional.
+27) Poner sus instalaciones y servicios a disposici�n del Gobierno de la Rep�blica de Nicaragua de manera gratuita, en caso de situaciones de emergencia nacional o regional.
+28) Asegurar que el despliegue y operaci�n de infraestructura inal�mbrica cumpla con los l�mites de exposici�n m�xima de los seres humanos con relaci�n a las radiaciones electromagn�ticas de radiofrecuencia no ionizantes conforme a la normativa correspondiente.
+29) Responder ante TELCOR, por cualquier incumplimiento al marco regulatorio, inclusive, por parte de su revendedor.
+Las obligaciones establecidas en el presente T�tulo, son enunciativas m�s no limitativas; sin perjuicio de aquellas obligaciones establecidas en otras disposiciones legales, en los contratos de servicio y en las Normativas que para tal efecto emita TELCOR.
+T�TULO XI
+INCLUSI�N Y ACCESO PARA LAS PERSONAS CON DISCAPACIDAD Y NECESIDADES ESPECIALES
+CAP�TULO I
+DERECHOS DE LOS USUARIOS CON DISCAPACIDAD
+Art�culo 102 Usuarios con Discapacidad
+Todos los Usuarios con Discapacidad tienen derecho a recibir un trato no discriminatorio, preferente, asistido, sin exclusi�n, restricci�n, obstaculizaci�n cuando soliciten Servicios de Telecomunicaciones o hagan uso de ellos.
+Art�culo 103 Derechos de los Usuarios con Discapacidad
+Sin perjuicio de todos los derechos de los Usuarios establecidos en la presente Ley, y en las leyes de la materia, todas las personas Usuarias con Discapacidad tendr�n derecho a:
+1) Recibir informaci�n completa, comparable, pertinente, fiable, actualizada y de f�cil consulta seg�n su discapacidad, sobre la calidad, las tarifas y texto del contrato de los servicios, as� como las condiciones en que se le suministrar� el servicio para que pueda hacer un uso efectivo del mismo.
+2) Recibir sus estados de cuenta con funcionalidades de accesibilidad de acuerdo a su discapacidad.
+3) Acceder a equipos terminales especiales a precios asequibles que le permita recibir el servicio de su inter�s.
+4) Tener acceso a los servicios p�blicos de Emergencia Nacional en condiciones equivalentes al que disfrutan otros Usuarios.
+5) Recibir atenci�n preferente, adecuada y expedita sin dilaciones y sin discriminaci�n alguna.
+6) Ser atendido por int�rpretes de lengua de se�as nicarag�ense a fin de comunicarse con el Operador o Proveedor.
+7) Ser atendido en los centros de atenci�n al Usuario, con adaptaciones en la infraestructura que hagan posible su accesibilidad.
+8) Acceder a las p�ginas de Internet de consultas en l�nea, as� como los n�meros telef�nicos de atenci�n al Usuario, con las funcionalidades necesarias de accesibilidad.
+9) Recibir interpretaci�n de lengua de se�as nicarag�ense y otros mecanismos en la publicidad efectuada por los Operadores o Proveedores.
+10) Acceder a medios o mecanismos tecnol�gicos que le permitan la suscripci�n de contratos seg�n su discapacidad.
+11) Cualquier otro derecho de los Usuarios con Discapacidad que establezca TELCOR en la normativa correspondiente.
+CAP�TULO II
+OBLIGACIONES DE LOS OPERADORES Y PROVEEDORES CON RESPECTO A LOS USUARIOS CON DISCAPACIDAD
+Art�culo 104 Obligaciones de los Operadores y Proveedores frente a los Usuarios con Discapacidad
+En adici�n a otras obligaciones establecidas en la presente Ley, los Operadores y Proveedores est�n obligados frente a los Usuarios con Discapacidad a:
+1) Ofrecer planes de Servicios P�blicos de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales, gratuitamente o a precios preferenciales atendiendo el tipo de su discapacidad.
+2) Garantizar la accesibilidad f�sica a sus Centros de Atenci�n, oficinas y locales pertinentes, incluyendo la provisi�n de las debidas se�alizaciones visuales, auditivas y t�ctiles para ayudarles a orientarse en las mismas.
+3) Brindar atenci�n preferencial, cort�s, expedita y sin discriminaci�n de ning�n tipo.
+4) Poner a disposici�n int�rpretes de lengua de se�as nicarag�ense a fin de comunicarse con el personal que le atiende.
+5) Asegurar la disponibilidad de acceso equitativo a los servicios de emergencia.
+6) Dise�ar alternativas, medios y modos de navegaci�n en sus sitios Web con base en la �ltima versi�n de las directrices de accesibilidad de contenidos Web (WCAG) del W3G, u otros est�ndares equivalentes de uso com�n.
+7) Brindar interpretaci�n de lengua de se�as nicarag�ense y otros mecanismos en la publicidad efectuada por los Operadores o Proveedores. En todos los casos, se realizar� de forma progresiva, de acuerdo con la Ley de la materia.
+8) Facilitar los medios o mecanismos tecnol�gicos que le permitan al Usuario la suscripci�n de contratos seg�n su tipo de discapacidad.
+9) Proporcionar los contratos de los servicios suscritos, tarifas y estados de cuenta con funcionalidades de accesibilidad de acuerdo a su discapacidad.
+10) Implementar servicios de subt�tulos en espa�ol, audio y lengua de se�as nicarag�ense; as� como aumentar, al menos, a una quinta parte, la dimensi�n del recuadro de interpretaci�n de lengua de se�as nicarag�ense en los canales de televisi�n nacionales.
+11) Garantizar la disponibilidad de equipos terminales y aparatos telef�nicos especiales y asequibles, en formatos de funcionamiento que permitan su utilizaci�n de manera aut�noma.
+12) Cumplir con los requisitos en materia de calidad de servicio que satisfagan las necesidades espec�ficas de las personas con discapacidad.
+13) Cualquier otra disposici�n en beneficio de los Usuarios con discapacidad que establezca TELCOR en la normativa correspondiente.
+CAP�TULO III
+RESPONSABILIDADES DE TELCOR
+Art�culo 105 Accesibilidad de los Usuarios con Discapacidad
+En virtud de lo establecido en la Convenci�n de las Naciones Unidas sobre los derechos de las personas con discapacidad y en pleno ejercicio de sus funciones, TELCOR, garantizar� la accesibilidad de los Usuarios con Discapacidad a los sistemas, tecnolog�as y servicios de telecomunicaciones. A tal efecto, TELCOR deber�:
+1) Establecer la utilizaci�n de lengua de se�as nicarag�ense, sistema de braille, los modos, medios y formatos aumentativos y alternativos de comunicaci�n, incluyendo su sitio Web y plataformas digitales disponibles, en su gesti�n reguladora, as� como en la prestaci�n de los servicios de los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios Audiovisuales.
+2) Garantizar la accesibilidad f�sica y digital a sus oficinas y dem�s instalaciones incluyendo los espacios de capacitaci�n, as� como plataformas de capacitaci�n en l�nea.
+3) Implementar su sistema digital institucional, incorporando las disposiciones y medios que permitan la accesibilidad e inclusi�n digital de todas las personas con discapacidad seg�n sus particularidades.
+4) Garantizar que sus sitios Web, sus redes sociales, sus plataformas o sus aplicaciones se desarrollen con base en las recomendaciones de accesibilidad de contenidos Web (WCAG) del W3C y/o incorporen tecnolog�as de asistencia y herramientas necesarias para el uso aut�nomo de las mismas por parte de las personas con discapacidad.
+5) Impulsar la implementaci�n y desarrollo de programas y proyectos con la Administraci�n P�blica, Gobiernos Municipales, Asociaciones Civiles e iniciativa privada, que fomenten y brinden a todas las personas con discapacidad la debida accesibilidad a los Servicios de Telecomunicaciones.
+6) Supervisar y Fiscalizar que los Operadores y Proveedores cumplan con todas las obligaciones y normas t�cnicas de calidad en materia de accesibilidad de Usuarios con Discapacidad, de conformidad a lo establecido en la presente Ley, sus normativas y dem�s disposiciones de la materia.
+7) Incluir en los indicadores de Tecnolog�a de Informaci�n y Comunicaci�n (TIC), as� como de Servicios de Telecomunicaciones, datos referidos a las personas con discapacidad de acuerdo a las recomendaciones de la Uni�n Internacional de Telecomunicaciones y lo establecido en nuestra legislaci�n en materia de discapacidad.
+8) Promover y desarrollar campa�as de difusi�n sobre la importancia del uso y manejo de las Tecnolog�as de la Informaci�n y las Comunicaciones (TIC), por parte de las personas con discapacidad.
+T�TULO XII
+DESPLIEGUE DE INFRAESTRUCTURA DE REDES PARA LA PRESTACI�N DE SERVICIOS DE TELECOMUNICACIONES
+CAP�TULO I
+FOMENTO AL DESPLIEGUE DE INFRAESTRUCTURA DE REDES
+Art�culo 106 Instalaci�n y despliegue de infraestructura de redes
+La instalaci�n y despliegue de infraestructuras de Redes requeridas para prestar los servicios de telecomunicaciones, son elementos estrat�gicos y esenciales para el desarrollo econ�mico del pa�s, as� como para garantizar el derecho de la poblaci�n de acceder a los servicios, contenidos y aplicaciones prestadas mediante el uso y aprovechamiento de estas redes.
+Art�culo 107 Infraestructura de redes para el desarrollo
+La expansi�n de las infraestructuras de Redes de telecomunicaciones es indispensable para lograr los objetivos de conectividad nacional, cierre de la brecha de infraestructura e inclusi�n digital de la poblaci�n nicarag�ense.
+Las autoridades a nivel nacional, regional o municipal, as� como todas las instituciones p�blicas, en ejercicio de sus competencias, deber�n llevar a cabo todas las acciones necesarias que aseguren el cumplimiento de este derecho del pueblo y deber�n facilitar el despliegue de las redes e infraestructuras, as� como la expansi�n de la cobertura de los Servicios de Telecomunicaciones. En consecuencia, no deben establecer barreras, limitaciones o restricciones de ning�n tipo a esa instalaci�n y despliegue, eliminando aquellas que se identifiquen.
+CAP�TULO II
+SERVIDUMBRES Y BIENES P�BLICOS
+Art�culo 108 Uso de propiedad privada
+Cuando se requiera el uso de una propiedad privada para la prestaci�n de los Servicios de Telecomunicaciones, el interesado deber� de negociar con el due�o del inmueble.
+Art�culo 109 Uso de bienes inmuebles propiedad de Entidades P�blicas y Municipalidades
+Los Operadores y Proveedores de Servicios de Telecomunicaciones podr�n solicitar el uso de las �reas, espacios, terrazas de los bienes inmuebles propiedad de las Entidades P�blicas y Municipalidades, para la instalaci�n de equipos e infraestructuras de Redes requeridas para la prestaci�n de Servicios de Telecomunicaciones a la poblaci�n. En cuyo caso, deber�n negociar con las Entidades P�blicas y Municipalidades las condiciones t�cnicas, econ�micas, legales, administrativas por el uso del �rea respectiva del inmueble solicitado, atendiendo criterios de trato igualitario o no menos favorable, de promoci�n de la competencia, expansi�n de las redes y dem�s principios establecidos en la presente Ley.
+T�TULO XIII SUMINISTRO DE INFORMACI�N, SUPERVISI�N Y FISCALIZACI�N
+CAP�TULO I
+OBLIGACI�N DE PROVEER INFORMACI�N
+Art�culo 110 Obligaci�n de suministrar informaci�n
+Los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales, est�n obligados a suministrar toda la informaci�n que le sea requerida, incluyendo informaci�n estad�stica y georreferenciada generada de su participaci�n en el mercado, en forma peri�dica o como resultado de requerimientos espec�ficos de TELCOR, en el ejercicio de sus facultades y atribuciones regulatorias. Para tal efecto, la informaci�n requerida deber� ser proporcionada, de forma detallada, exacta, veraz, oportuna y comprobable.
+Los Operadores y Proveedores con Peso Significativo de Mercado (PSM) est�n obligados a proporcionar informaci�n de sus costos, ingresos y activos separados por servicio, con base en un sistema de contabilidad regulatoria que deber�n implementar de conformidad a la normativa que para tal efecto emita TELCOR.
+CAP�TULO II
+SUPERVISI�N Y FISCALIZACI�N
+Art�culo 111 Supervisi�n y fiscalizaci�n
+Corresponde a TELCOR, supervisar y fiscalizar el cumplimiento de las obligaciones establecidas en la presente Ley, sus normativas y en las Licencias correspondientes, por parte de los Operadores de Servicios P�blicos de Telecomunicaciones, Proveedores de Servicios de Comunicaciones Audiovisuales y las personas naturales o jur�dicas que hacen uso del Espectro Radioel�ctrico.
+TELCOR, tiene todas las facultades para realizar inspecciones, pruebas t�cnicas, auditor�as t�cnicas, financieras, tarifarias, mediciones de calidad y cualquier otra actividad necesaria para el ejercicio de su funci�n supervisora y fiscalizadora.
+Art�culo 112 Acceso a las instalaciones al personal de TELCOR
+Los Operadores de Servicios P�blicos de Telecomunicaciones, Proveedores de Servicios de Comunicaciones Audiovisuales y las personas naturales o jur�dicas que hacen uso del Espectro Radioel�ctrico, est�n obligados a permitir al personal de TELCOR, delegado y debidamente identificado, el acceso a sus instalaciones, con la finalidad de realizar las supervisiones y fiscalizaciones que correspondan, en el ejercicio de sus funciones.
+En el caso de los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales, adem�s est�n obligados a exhibir al personal de TELCOR para su revisi�n, los documentos relacionados con su actividad comercial, operaci�n t�cnica, actividad financiera, registros contables, planes tarifarios, informaci�n estad�stica y societaria, as� como la correspondencia comercial y registros electr�nicos, incluyendo los programas inform�ticos o facilidades que fueran necesarias para su lectura e interpretaci�n, entre otros. Todo lo anterior, sin perjuicio de auxiliarse de la fuerza p�blica en caso que sea necesario.
+Art�culo 113 Monitoreo de interferencias perjudiciales
+TELCOR, contar� con estaciones fijas y m�viles de radio monitoreo y radio determinaci�n, para la comprobaci�n de las emisiones radioel�ctricas, la identificaci�n y localizaci�n de interferencias perjudiciales y dem�s perturbaciones a los sistemas de Servicios P�blicos de Telecomunicaciones, Servicios de Comunicaciones Audiovisuales y Redes Privadas, que hacen uso del Espectro Radioel�ctrico.
+Cuando se identifiquen y localicen interferencias perjudiciales y dem�s perturbaciones, TELCOR, ejercer� las acciones correspondientes a fin de eliminar sus efectos.
+T�TULO XIV
+MEDIDAS DE POL�TICA P�BLICA Y DE PROMOCI�N DE LAS TELECOMUNICACIONES
+CAP�TULO �NICO
+FONDO DE DESAROLLO DE TELECOMUNICACIONES CONVERGENTES (FODETEC)
+Art�culo 114 Creaci�n del FODETEC
+Se crea el Fondo de Desarrollo de Telecomunicaciones Convergentes, el cual se denominar� abreviadamente FODETEC, administrado por TELCOR, como un fondo destinado exclusivamente al desarrollo de proyectos encaminados al cierre de la brecha digital, el fomento de la inclusi�n y transformaci�n digital, as� como a la promoci�n de los Servicios P�blicos de Telecomunicaciones, Servicios de Comunicaciones Audiovisuales y las redes e infraestructuras asociadas incluyendo los Servicios Postales, en �reas geogr�ficas no atendidas y/o subatendidas, �reas rurales o �reas con desventajas econ�micas.
+Art�culo 115 Objetivos de FODETEC
+El FODETEC tendr� los siguientes objetivos:
+1) Promover el acceso universal a los Servicios P�blicos de Telecomunicaciones, Servicios de Comunicaciones Audiovisuales y a las redes e infraestructuras asociadas, con el objeto de reducir la brecha digital y fomentar la inclusi�n y transformaci�n digital, incluyendo los Servicios Postales, en �reas geogr�ficas no atendidas y/o subatendidas, �reas rurales o �reas con desventajas econ�micas.
+2) Promover la participaci�n de los Operadores de Servicios P�blicos de Telecomunicaciones, Proveedores de Servicios de Comunicaciones Audiovisuales y Operadores de Servicios Postales, en la prestaci�n de estos servicios en �reas geogr�ficas no atendidas y/o subatendidas, �reas rurales o �reas con desventajas econ�micas.
+3) Promover la inclusi�n de todos los sectores en la implementaci�n de los programas, proyectos, acciones y actividades coordinadas por el FODETEC, con el prop�sito de fomentar la disponibilidad y acceso a una amplia gama de Servicios P�blicos de Telecomunicaciones, Servicios de Comunicaciones Audiovisuales, infraestructuras de Redes y Servicios Postales eficientes, asequibles y de alta calidad.
+4) Promover el despliegue de infraestructura de redes de banda ancha a nivel nacional, para la prestaci�n de Servicios P�blicos de Telecomunicaciones, Servicios de Comunicaciones Audiovisuales y la provisi�n de contenidos y aplicaciones sobre las mismas.
+5) Promover el acceso de la poblaci�n en general a los Servicios P�blicos de Telecomunicaciones, Servicios de Comunicaciones Audiovisuales, a las redes e infraestructuras asociadas y Servicios Postales, especialmente de los habitantes de las �reas geogr�ficas no atendidas y/o subatendidas, �reas rurales o �reas con desventajas econ�micas.
+6) Promover y apoyar la incorporaci�n de Microtelcos o MIPYMEs de Telecomunicaciones para masificar el despliegue de redes de telecomunicaciones con tecnolog�as alternativas o innovadoras en el pa�s.
+Art�culo 116 Ingresos del FODETEC
+Las fuentes de ingresos del FODETEC podr�n ser:
+1) Las partidas presupuestarias que le asigne TELCOR.
+2) Los aportes, asignaciones, donaciones o transferencias, provenientes de personas naturales o jur�dicas, nacionales o extranjeras.
+3) Las asignaciones o transferencias que otorgue el Presupuesto General de la Rep�blica, conforme las normas del Ministerio de Hacienda y Cr�dito P�blico.
+4) Los fondos provenientes de contratos de pr�stamos con organismos nacionales e internacionales.
+5) Cualquier otra fuente de financiamiento.
+Los recursos del FODETEC, podr�n ser depositados en cualquier instituci�n bancaria del Sistema Financiero Nacional y los dep�sitos podr�n hacerse en moneda nacional o extranjera, en cuentas corrientes, de ahorros, certificados de dep�sitos a plazos fijos o cualquier otra modalidad autorizada por las leyes de Nicaragua.
+Art�culo 117 Funcionamiento del FODETEC
+La organizaci�n, administraci�n y funcionamiento del FODETEC, ser�n establecidos por TELCOR en la normativa que para tal efecto emita.
+T�TULO XV
+DE LOS MICROTELCOS O MIPYMEs DE TELECOMUNICACIONES
+CAP�TULO �NICO
+APOYO INSTITUCIONAL
+Art�culo 118 Acceso de Microtelcos o MIPYMEs al FODETEC
+Los Microtelcos o MIPYMEs de Telecomunicaciones podr�n acceder al Fondo de Desarrollo de Telecomunicaciones Convergentes (FODETEC), para la prestaci�n de Servicios P�blicos de Telecomunicaciones y/o Servicios de Comunicaciones Audiovisuales, en �reas geogr�ficas no atendidas y/o subatendidas, �reas rurales o �reas con desventajas econ�micas, atendiendo los criterios, requisitos, t�rminos, condiciones y procedimientos establecidos en la normativa respectiva.
+Art�culo 119 Exenci�n o reducci�n de c�nones
+Los Microtelcos o MIPYMEs de Telecomunicaciones, podr�n solicitar por un plazo determinado, ser eximidos o la reducci�n del pago del Canon por regulaci�n y por los C�nones aplicables a los recursos p�blicos utilizados, cuando incluyan dentro de su �rea de cobertura de prestaci�n del servicio, �reas geogr�ficas no atendidas y/o subatendidas, �reas rurales o �reas con desventajas econ�micas.
+Art�culo 120 Tecnolog�as alternativas o innovadoras
+Para la prestaci�n de Servicios P�blicos de Telecomunicaciones o Servicios de Comunicaciones Audiovisuales, los Microtelcos o MIPYMEs de Telecomunicaciones pueden hacer uso de tecnolog�as alternativas o innovadoras, as� como las bandas de frecuencias de car�cter compartido y secundario, y aquellas adicionales que determine TELCOR en la normativa respectiva, con base en las condiciones t�cnicas de operaci�n que se establezcan para esas bandas.
+T�TULO XVI
+R�GIMEN DE COMPETENCIA
+CAP�TULO I
+R�GIMEN DE LIBRE Y LEAL COMPETENCIA
+Art�culo 121 Supervisi�n de la competencia en el mercado de las telecomunicaciones
+TELCOR, supervisar� y tomar� las medidas correctivas necesarias para que la participaci�n de los Operadores y Proveedores de Servicios de Telecomunicaciones en el mercado se efect�e en condiciones homog�neas, en r�gimen de libre y leal competencia, sin que intervengan fuerzas distintas a las del mercado mismo. Todo conforme a las disposiciones de la presente Ley, la Ley de la materia y su Reglamento, as� como a la normativa que al efecto emita TELCOR.
+Art�culo 122 Facultades para asegurar la libre competencia
+Para asegurar un r�gimen de libre competencia en el mercado de las telecomunicaciones, o en un segmento de �ste y corregir las distorsiones que se presenten, TELCOR tiene las siguientes facultades:
+a) Ejercer una regulaci�n asim�trica para la competencia, a fin de igualar las condiciones desiguales de competencia existentes entre Operadores y/o Proveedores en el mercado.
+b) Conocer, investigar, resolver y sancionar, de oficio o, a petici�n de parte, toda pr�ctica anticompetitiva, competencia desleal, concentraciones y en general sobre cualquier otra pr�ctica, acto o conducta perjudicial o nociva en el mercado de las Telecomunicaciones.
+Art�culo 123 Regulaci�n asim�trica
+La regulaci�n asim�trica para la competencia, se basa en el an�lisis del Mercado Relevante para determinar y declarar si un Operador de Servicios P�blicos de Telecomunicaciones o un Proveedor de Servicios de Comunicaciones Audiovisuales, posee un Peso Significativo de Mercado (PSM).
+La declaraci�n de Operador o Proveedor con PSM, se realiza con base en la evaluaci�n de los siguientes criterios:
+a) Integraci�n vertical, horizontal o mixta.
+b) Capacidad de controlar las tarifas del mercado.
+c) Control en Instalaciones Esenciales.
+d) Volumen de negocios del Operador o Proveedor.
+e) Control sobre los medios de acceso a los Usuarios.
+f) Elevado desarrollo tecnol�gico.
+g) Facilidad de acceso a recursos financieros.
+h) Experiencia en suministrar servicios.
+i) Posici�n dominante que puede ostentar sobre determinadas redes o servicios; o
+j) Cualquier otra circunstancia similar que a juicio razonado de TELCOR, pueda afectar las condiciones de la libre y leal competencia.
+La declaraci�n de Mercado Relevante y Operador o Proveedor con Peso Significativo de Mercado (PSM), se efectuar� mediante el correspondiente Acto Administrativo emitido por TELCOR, el que deber� ser debidamente razonado con fundamentos econ�micos, jur�dicos, t�cnicos y conforme las disposiciones de la presente Ley, la Ley de la materia y su Reglamento, as� como la normativa correspondiente que al efecto emita TELCOR.
+Art�culo 124 Obligaciones espec�ficas de la regulaci�n asim�trica
+La regulaci�n asim�trica de la competencia conlleva al establecimiento de obligaciones espec�ficas para los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales con Peso Significativo de Mercado (PSM) y en consecuencia la aplicaci�n de medidas correctivas conforme la presente Ley, la Ley de la materia y su Reglamento, y la normativa correspondiente que al efecto emita TELCOR.
+Art�culo 125 Declaraci�n de Mercado Relevante y PSM
+El Acto Administrativo que declare Mercado Relevante y Operador o Proveedor con Peso Significativo de Mercado (PSM), se revisar� como m�ximo cada dos (2) a�os. En caso que, como producto de dicha evaluaci�n, se concluya evidentemente que han desaparecido las razones para tal declaraci�n, TELCOR, emitir� otro Acto Administrativo, indicando que el respectivo Mercado Relevante se encuentra en plena competencia o al menos en competencia efectiva; entendi�ndose en tal caso que, no se est� afectando sustancialmente la libre y leal competencia.
+Art�culo 126 Prohibici�n de actos anticompetitivos
+Est�n prohibidos todos los acuerdos, los actos, contratos, convenios o combinaciones, sean expresos o t�citos, escritos o verbales, entre Operadores de Servicios P�blicos de Telecomunicaciones y/o Proveedores de Servicios de Comunicaciones Audiovisuales que tengan por objeto o efecto impedir, restringir o falsear la competencia en el mercado de las Telecomunicaciones.
+Art�culo 127 Competencia desleal
+Se considera competencia desleal, todo acto o conducta realizada por Operadores de Servicios P�blicos de Telecomunicaciones o Proveedores de Servicios de Comunicaciones Audiovisuales, que sea contrario a los usos y pr�cticas honestas en materia comercial.
+Se proh�ben todos los actos o conductas de competencia desleal entre Operadores de Telecomunicaciones y/o Proveedores de Servicios de Comunicaciones Audiovisuales.
+CAP�TULO II
+DE LAS CONCENTRACIONES ECON�MICAS
+Art�culo 128 Marco legal de las concentraciones econ�micas
+Las concentraciones econ�micas en materia de telecomunicaciones se rigen por la presente Ley, la Ley de la materia y su Reglamento, y la normativa que al efecto emita TELCOR.
+Art�culo 129 Concentraci�n econ�mica
+Los Operadores de Servicios P�blicos de Telecomunicaciones y los Proveedores de Servicios de Comunicaciones Audiovisuales, previo a realizar una concentraci�n econ�mica, deber�n solicitar la autorizaci�n a TELCOR. Dicha solicitud deber� contener un estudio t�cnico econ�mico que demuestre los beneficios que la concentraci�n generar� a favor de los Usuarios y que no afecta la competencia en el mercado nacional.
+El procedimiento para la investigaci�n de las concentraciones econ�micas y su autorizaci�n o rechazo por parte de TELCOR, ser� establecido en la normativa correspondiente, conforme a las disposiciones de la presente Ley, la Ley de la materia y su Reglamento.
+En caso que TELCOR autorice una concentraci�n econ�mica, la persona natural o jur�dica que adquiere el control deber� pagar a favor de TELCOR, una tarifa por el tr�mite regulatorio correspondiente a un porcentaje del valor de la transacci�n, el cual ser� establecido en la normativa correspondiente. Este porcentaje no podr� exceder el tres por ciento (3%).
+Art�culo 130 Concentraciones econ�micas prohibidas
+TELCOR, no autorizar� las concentraciones econ�micas que resulten en:
+1) Una adquisici�n de Peso Significativo de Mercado (PSM) o incremento de la posibilidad de adquirir dicha condici�n, por parte de un agente econ�mico del sector de las telecomunicaciones, en el Mercado Relevante respectivo.
+2) La colusi�n expresa o t�cita entre agentes econ�micos del sector de telecomunicaciones.
+3) Resultados adversos, perjudiciales o nocivos a la libre y leal competencia o para los Usuarios.
+Art�culo 131 Condiciones para autorizar una concentraci�n econ�mica
+TELCOR, al autorizar una concentraci�n econ�mica, podr� imponer al Operador de Servicios P�blicos de Telecomunicaciones o Proveedor de Servicios de Comunicaciones Audiovisuales, algunas de las siguientes condiciones:
+a) La cesi�n, el traspaso o la venta de uno o m�s de sus activos, derechos o acciones mediante el procedimiento de concurso p�blico.
+b) La separaci�n o escisi�n del Operador de Servicios P�blicos de Telecomunicaciones o Proveedor de Servicios de Comunicaciones Audiovisuales.
+c) La limitaci�n o la restricci�n de prestar determinados Servicios P�blicos de Telecomunicaciones o Servicios de Comunicaciones Audiovisuales, o la limitaci�n del �mbito geogr�fico en que estos puedan ser prestados o cualquier otra circunstancia similar que se pueda consignar en la respectiva Licencia.
+d) La introducci�n, eliminaci�n o modificaci�n de alguna de las cl�usulas de los contratos suscritos por el Operador de Servicios P�blicos de Telecomunicaciones o Proveedor de Servicios de Comunicaciones Audiovisuales relacionados con la operaci�n de redes o la prestaci�n de sus servicios.
+e) Otras que se establezcan en la normativa correspondiente.
+T�TULO XVII
+REGULACI�N EXPERIMENTAL (SANDBOX)
+CAP�TULO �NICO
+Art�culo 132 Mecanismo de Regulaci�n Experimental (Sandbox)
+Es atribuci�n de TELCOR, fomentar la inversi�n, la investigaci�n y la innovaci�n continua en el sector de las telecomunicaciones a trav�s de la aplicaci�n de un esquema de regulaci�n din�mico que responda oportunamente a los cambios y evoluci�n de las industrias del sector que regula.
+A tal efecto, TELCOR, podr� implementar un mecanismo de Regulaci�n Experimental (Sandbox) que facilite y promueva la introducci�n y prueba de nuevas tecnolog�as, nuevos productos, servicios innovadores y modelos de negocios novedosos por parte de los Operadores de Servicios P�blicos de Telecomunicaciones y Proveedores de Servicios de Comunicaciones Audiovisuales, sujeto a un esquema de regulaci�n flexible o de excepci�n, conforme a la normativa espec�fica que para tal efecto emita TELCOR.
+Art�culo 133 Solicitud de Regulaci�n Experimental (Sandbox)
+Los Operadores de Servicios P�blicos de Telecomunicaciones, Proveedores de Servicios de Comunicaciones Audiovisuales y en general cualquier persona natural o jur�dica que deseen introducir al mercado iniciativas o proyectos que requieran la aplicaci�n del mecanismo de Regulaci�n Experimental (Sandbox), deber�n presentar sus propuestas a TELCOR, con la documentaci�n soporte necesaria y cumplir con los requisitos, objetivos y criterios que se establezcan en la normativa correspondiente.
+Los interesados deben demostrar la factibilidad y viabilidad t�cnica y econ�mica de sus iniciativas o proyectos, respetar los derechos de los Usuarios y proponer las condiciones regulatorias que les permitan desarrollar exitosamente sus propuestas.
+TELCOR, mediante Resoluci�n Administrativa con car�cter preliminar, notificar� al interesado la aprobaci�n o rechazo de su solicitud.
+Art�culo 134 Establecimiento de r�gimen de excepci�n
+En caso de aprobaci�n de la solicitud de aplicaci�n del mecanismo de Regulaci�n Experimental (Sandbox), TELCOR, podr� establecer un r�gimen de excepci�n a la regulaci�n vigente o bien una regulaci�n asim�trica flexible a favor del proyecto o iniciativa del interesado. TELCOR, indicar� el mercado geogr�fico y el plazo de vigencia de la aplicaci�n de Regulaci�n Experimental (Sandbox).
+Art�culo 135 Uso temporal de recursos p�blicos
+TELCOR, en la implementaci�n y desarrollo de la iniciativa o proyecto bajo el mecanismo de Regulaci�n Experimental (Sandbox), podr� autorizar el uso de cualquiera de los recursos p�blicos de Espectro Radioel�ctrico y Numeraci�n, en dependencia de su naturaleza y gestionar las coordinaciones necesarias con otras dependencias p�blicas o privadas.
+Art�culo 136 Supervisi�n y fiscalizaci�n de la Regulaci�n Experimental (Sandbox)
+Durante el plazo de vigencia del mecanismo de Regulaci�n Experimental (Sandbox), TELCOR, supervisar� y fiscalizar� continuamente el desarrollo de la iniciativa o proyecto aprobado, evaluando su impacto en las condiciones de competencia del mercado y valorando los beneficios o efectos para los Usuarios.
+Art�culo 137 Aprobaci�n o rechazo definitivo del proyecto
+Finalizado el plazo de vigencia de la aplicaci�n de este mecanismo de Regulaci�n Experimental (Sandbox), TELCOR, mediante Resoluci�n Administrativa con car�cter definitivo, aprobar� o rechazar� la iniciativa o proyecto. En caso de aprobaci�n, TELCOR, establecer� el esquema que resulte pertinente para la implementaci�n exitosa de la iniciativa o proyecto, garantizando la efectiva y leal competencia en el mercado, as� como los derechos de los Usuarios.
+Art�culo 138 Procedimiento para aplicaci�n y administraci�n de la Regulaci�n Experimental (Sandbox)
+TELCOR, mediante la normativa espec�fica, establecer� el procedimiento para la aplicaci�n y administraci�n de la Regulaci�n Experimental (Sandbox), as� como lo relativo al pago de las tarifas por tr�mites administrativos y regulatorios, incluyendo los C�nones que correspondan.
+TELCOR, podr� eximir o reducir el pago en concepto de C�nones, de acuerdo a los criterios establecidos en dicha normativa.
+T�TULO XVIII
+R�GIMEN DE INFRACCIONES Y SANCIONES
+CAP�TULO I
+R�GIMEN DE INFRACCIONES
+Art�culo 139 Clasificaci�n de infracciones
+Las infracciones a las disposiciones de la presente Ley y de las Normativas que emita TELCOR, se clasifican en muy graves, graves y leves.
+Art�culo 140 Infracciones muy graves
+Se consideran infracciones muy graves:
+1) Realizar cualquier actividad relacionada con la prestaci�n de los Servicios P�blicos de Telecomunicaciones, Servicios de Comunicaci�n Audiovisual o hacer uso del Espectro Radioel�ctrico sin el correspondiente T�tulo Habilitante.
+2) Usar frecuencias del Espectro Radioel�ctrico que no hayan sido asignadas, o usarlas para un servicio o fin distinto al autorizado en el respectivo T�tulo Habilitante.
+3) Interferir, interceptar o afectar intencionalmente el funcionamiento de los Servicios P�blicos de Telecomunicaciones, Servicios de Comunicaciones Audiovisuales o Redes Privadas que hagan uso de Espectro Radioel�ctrico.
+4) Utilizar en forma fraudulenta o ilegal los Servicios P�blicos de Telecomunicaciones, Servicios de Comunicaciones Audiovisuales o Redes Privadas que hagan uso de Espectro Radioel�ctrico, sin perjuicio de las responsabilidades civiles y penales que correspondan.
+5) Negarse u obstruir las inspecciones o auditor�as que ordene TELCOR en ejercicio de sus facultades de fiscalizaci�n, supervisi�n, control y vigilancia.
+6) Negarse u obstruir la Interconexi�n, el acceso a las Instalaciones Esenciales con otros Operadores o Proveedores de Servicios de Telecomunicaciones.
+7) Negarse u obstruir la implementaci�n y el cumplimiento de las medidas regulatorias que emita TELCOR, para la promoci�n y defensa de la competencia en los mercados de redes y servicios sujetos a regulaci�n.
+8) Negarse a entregar informaci�n, as� como suministrar informaci�n falsa o tendenciosa a TELCOR.
+9) Negarse a implementar la Portabilidad Num�rica, en los plazos o en las condiciones establecidas por TELCOR.
+10) Negarse a implementar un sistema de contabilidad regulatoria o implementarlo sin atender las disposiciones y requisitos establecidos por TELCOR.
+11) Negarse a facilitar Itinerancia nacional a los Operadores de Servicios P�blicos de Telecomunicaciones nuevos o entrantes al mercado bajo las condiciones y requisitos regulatorios establecidos por TELCOR.
+12) Prestar o Comercializar los Servicios P�blicos de Telecomunicaciones y los Servicios de Comunicaciones Audiovisuales utilizando un modelo de contrato, que no haya sido previamente aprobado por TELCOR.
+13) Incluir cl�usulas abusivas en los contratos que suscriban con sus Usuarios.
+14) No disponer de ninguna oficina f�sica para la atenci�n de peticiones, quejas o reclamos de los Usuarios, en las �reas de cobertura de los servicios que ofrecen.
+15) No garantizar a los Usuarios acceso telef�nico gratuito a trav�s de sus Redes, a los servicios p�blicos de Emergencia Nacional.
+16) Negarse a garantizar la inviolabilidad e integridad del contenido de las comunicaciones de los Usuarios, los datos y metadatos asociados.
+17) Vender, ceder, transferir los T�tulos Habilitantes sin la previa autorizaci�n de TELCOR.
+18) Gravar de alguna manera los T�tulos Habilitantes.
+19) Fabricar, importar, distribuir, comercializar o usar equipos, aparatos y dispositivos de telecomunicaciones que no cuenten con el Certificado de Homologaci�n correspondiente.
+20) Operar infraestructuras inal�mbricas por encima de los l�mites de exposici�n m�ximos para radiaciones electromagn�ticas de radiofrecuencia no ionizantes.
+21) El incumplimiento de Actos Administrativos, emitidos por TELCOR.
+22) Realizar coordinaciones internacionales para los Recursos �rbita-espectro con otras entidades sin la aprobaci�n o participaci�n de TELCOR.
+23) Hacer uso de Recursos �rbita-espectro sin el debido T�tulo Habilitante.
+24) Negarse a unirse a las transmisiones nacionales de radio y televisi�n que convoque TELCOR.
+25) Negarse a poner sus instalaciones y servicios a disposici�n del Gobierno de la Rep�blica de Nicaragua, en caso de situaciones de Emergencia Nacional o regional.
+26) No garantizar la continuidad, regularidad e ininterrupci�n de los Servicios de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales, de conformidad a lo dispuesto en la Normativa de Calidad, que al efecto emita TELCOR.
+27) La reincidencia en la comisi�n de dos infracciones graves.
+Otras que se especifiquen en las Normativas que emita TELCOR.
+Art�culo 141 Infracciones graves
+Se consideran infracciones graves:
+1) La reincidencia en la producci�n no intencional o negligente de interferencias perjudiciales.
+2) Difundir publicidad, promociones y ofertas que induzcan al enga�o o que no se correspondan con exactitud con lo ofrecido al Usuario al momento de la contrataci�n o uso del servicio.
+3) Condicionar la prestaci�n del servicio al Usuario, a la adquisici�n de otros bienes o servicios adicionales al que solicita, o imponerles condiciones injustificadas para proporcion�rselo.
+4) Aplicar cargos por Itinerancia nacional que no reflejen criterios de costos eficientes.
+5) Bloquear contenidos y aplicaciones, prestados a trav�s de las redes de telecomunicaciones sin autorizaci�n previa de TELCOR.
+6) No proporcionar a sus Usuarios un original del contrato del servicio a prestar debidamente firmado, al momento de la contrataci�n.
+7) No cumplir con los par�metros y reglas de calidad establecidas en la Normativa, que al efecto emita TELCOR.
+8) Negarse u obstruir la conexi�n de los Equipos Terminales homologados por TELCOR, a las Redes de telecomunicaciones.
+9) No cumplir con los derechos de los Usuarios ni resolver sus peticiones, quejas o reclamos en los plazos establecidos por TELCOR.
+10) Incumplir con cualquiera de las obligaciones establecidas en la presente Ley con relaci�n a los Usuarios con Discapacidad.
+11) Negarse a pagar los C�nones y tarifas por tr�mites administrativos y regulatorios establecidos por TELCOR, de conformidad con la presente Ley.
+12) Negarse a brindar a Usuarios con Discapacidad servicios en condiciones equivalentes al que disfrutan otros Usuarios.
+13) No disponer de un registro de los Equipos Terminales m�viles reportados como perdidos o robados, o no tomar las providencias necesarias para impedir el comercio de estos equipos terminales.
+14) Entregar informaci�n, datos o documentaci�n incompleta a TELCOR.
+15) La reincidencia en la comisi�n de dos infracciones leves.
+Otras que se especifiquen en las Normativas que emita TELCOR.
+Art�culo 142 Infracciones leves
+Se consideran infracciones leves:
+1) La producci�n no intencional o negligente de interferencias perjudiciales por primera vez.
+2) No informar a los Usuarios en los plazos establecidos, en los casos de interrupci�n programada de los servicios, as� como del tiempo estimado para su restablecimiento.
+3) Entregar la informaci�n fuera del plazo o per�odo requerido por TELCOR.
+4) Unirse a las transmisiones nacionales de radio y televisi�n, sin cumplir cabalmente con los t�rminos y condiciones establecidos por TELCOR en la convocatoria respectiva.
+5) El incumplimiento de cualquier instrucci�n u orden de car�cter particular, emitidas por TELCOR.
+Otras que se especifiquen en las Normativas que emita TELCOR.
+CAP�TULO II
+R�GIMEN DE SANCIONES
+Art�culo 143 Multas basadas en Ingresos Brutos
+En el caso de los Servicios P�blicos de Telecomunicaciones y Servicios de Comunicaciones Audiovisuales por suscripci�n o paga, las infracciones ser�n sancionadas con multas equivalentes a un porcentaje de sus Ingresos Brutos, derivados de la prestaci�n de los servicios en el �ltimo a�o gravable, tomando en cuenta la gravedad de la infracci�n, seg�n el siguiente detalle:
+a) Infracciones Muy Graves: Desde el uno punto cinco por ciento (1.5%) hasta el dos puntos cinco por ciento (2.5%).
+b) Infracciones Graves: Desde el cero punto setenta y cinco por ciento (0.75%) hasta el uno punto veinticinco por ciento (1.25%).
+c) Infracciones Leves: Hasta el cero punto cinco por ciento (0.5%).
+Cuando el Operador o Proveedor cometa una Infracci�n Leve por primera vez y no se hubieren ocasionado efectos perjudiciales para los Usuarios o la competencia, TELCOR podr� aplicar sanciones no pecuniarias tales como apercibimientos al infractor, requiri�ndole a �ste adoptar de inmediato las medidas y acciones necesarias para cesar la comisi�n de dicha infracci�n, compensar los efectos de la misma y/o evitar la reincidencia.
+En caso que el infractor no haya obtenido Ingresos Brutos o se encuentre imposibilitado para presentarlos, previa verificaci�n de TELCOR, se utilizar� como par�metro para la imposici�n de sanciones, los Ingresos Brutos del �ltimo a�o gravable disponible.
+Cuando el infractor sea un Operador Entrante y no tenga informaci�n disponible, sobre los Ingresos Brutos de a�os gravables anteriores, previa verificaci�n de TELCOR, se utilizar� como par�metro para la imposici�n de sanciones, la proyecci�n de Ingresos Brutos presentada en su plan de negocios, correspondiente al a�o en que cometi� la infracci�n.
+Art�culo 144 Multas no basadas en Ingresos Brutos
+En el caso de Proveedores de Servicios de Comunicaciones Audiovisuales cuyo modelo de negocio no se basa en suscripci�n o paga, as� como en el caso de personas naturales o jur�dicas que operen Redes Privadas, las infracciones ser�n sancionadas con multas basadas en el salario m�nimo vigente, aplicable al sector comunicaciones, de acuerdo al siguiente detalle:
+a) Infracciones Muy Graves: Desde nueve (9) hasta quince (15) salarios m�nimos del sector comunicaciones.
+b) Infracciones Graves: Desde cinco (5) hasta ocho (8) salarios m�nimos del sector comunicaciones.
+c) Infracciones Leves: Hasta cuatro (4) salarios m�nimos del sector comunicaciones.
+Art�culo 145 Factores para valorar las sanciones a aplicar
+En cada caso, TELCOR impondr� la multa seg�n la gravedad de la infracci�n que se trate, tomando en cuenta factores como la capacidad econ�mica, las circunstancias agravantes o atenuantes de la infracci�n, tales como: el grado de perturbaci�n y alteraci�n de los servicios y de la cuant�a del da�o o perjuicio ocasionado. La intencionalidad y la reincidencia ser�n siempre circunstancias agravantes.
+Adem�s de la multa, TELCOR podr� dictar las medidas pertinentes para evitar la reincidencia del infractor, incluyendo la revocaci�n del T�tulo Habilitante, cuando hubiera causal para ello, sin perjuicio de la obligaci�n de pagar los C�nones y/o tarifas por tr�mites administrativos y regulatorios que apliquen.
+Art�culo 146 Procedimiento Sancionatorio
+TELCOR, a instancia de la parte interesada o de oficio, iniciar� el procedimiento sancionatorio correspondiente, con la finalidad de investigar los hechos acaecidos, determinar la comisi�n de alguna infracci�n e imponer la sanci�n correspondiente al presunto infractor.
+En todo caso, TELCOR notificar� por escrito al presunto infractor, poni�ndolo en conocimiento de la infracci�n o infracciones que se le imputan, otorg�ndole un plazo de diez (10) d�as h�biles, contados despu�s de la notificaci�n, para contestar lo que tuviera a bien. Vencido dicho plazo, TELCOR abrir� a pruebas por un plazo de diez (10) d�as h�biles improrrogables.
+Una vez vencido el plazo de pruebas, la M�xima Autoridad de TELCOR, dispondr� de un plazo de veinte (20) d�as h�biles, para emitir la Resoluci�n Administrativa absolviendo o imponiendo la respectiva sanci�n al infractor.
+En caso que el presunto infractor no conteste en el plazo concedido, se tendr�n por ciertos los hechos imputados y sin m�s tr�mite, la M�xima Autoridad de TELCOR emitir� la respectiva Resoluci�n Administrativa imponiendo la sanci�n correspondiente, en un plazo de diez (10) d�as h�biles.
+Art�culo 147 Plazo para el pago de la multa
+Las multas deber�n ser pagadas dentro de los treinta (30) d�as calendarios contados a partir de la notificaci�n al infractor.
+Los Ingresos provenientes del pago de multas y recargos moratorios que apliquen, por la comisi�n de infracciones, formar�n parte del patrimonio de TELCOR.
+Art�culo 148 M�rito ejecutivo
+El Acto Administrativo mediante el cual TELCOR imponga cualquiera de las sanciones establecidas en esta Ley, prestar� m�rito ejecutivo una vez se haya agotado la v�a administrativa.
+Art�culo 149 Prestaci�n de Servicios de Telecomunicaciones sin T�tulo Habilitante
+Ninguna persona natural o jur�dica podr� prestar Servicios de Telecomunicaciones ni hacer uso de los Recursos P�blicos del Espectro Radioel�ctrico y Numeraci�n, sin el correspondiente T�tulo Habilitante emitido por TELCOR. Caso contrario, TELCOR estar� facultado para ordenar el cese de las operaciones de manera inmediata, as� como retirar todos los equipos de telecomunicaciones utilizados para la prestaci�n ilegal de los servicios, pudiendo auxiliarse de la fuerza p�blica para tal efecto. Todo lo anterior, sin perjuicio de poner en conocimiento de las autoridades competentes para el establecimiento de las responsabilidades civiles o penales a que hubiere lugar.
+T�TULO XIX
+DE LOS MEDIOS DE IMPUGNACI�N
+CAP�TULO �NICO
+RECURSO DE REVISI�N Y APELACI�N
+Art�culo 150 Recursos
+Contra los Actos Administrativos que emita TELCOR derivados de la aplicaci�n de la presente Ley, cabr�n los Recursos de Revisi�n y Apelaci�n, los que se tramitar�n y resolver�n conforme el procedimiento establecido en la Ley N�. 290, Ley de Organizaci�n, Competencia y Procedimientos del Poder Ejecutivo.
+Art�culo 151 Actos administrativos firmes
+Los Actos Administrativos no impugnados, se considerar�n firmes y ser�n de obligatorio cumplimiento en los t�rminos y plazos establecidos en ellos.
+T�TULO XX
+DISPOSICIONES TRANSITORIAS Y FINALES
+CAP�TULO I
+DISPOSICIONES TRANSITORIAS
+Art�culo 152 Adecuaci�n de T�tulos Habilitantes
+Los T�tulos Habilitantes que a la entrada en vigencia de la presente Ley se encuentren vigentes, de conformidad con la Ley N�. 200, Ley General de Telecomunicaciones y Servicios Postales y su Reglamento, conservar�n su validez y se respetar�n los t�rminos y condiciones que no contravengan ni se opongan a las disposiciones de la presente Ley y sus normativas.
+Sin perjuicio de lo anterior, TELCOR, en un plazo m�ximo de seis (6) meses, contados a partir de la entrada en vigencia de la presente Ley, adecuar� todos los T�tulos Habilitantes que se encuentren vigentes, de conformidad con las disposiciones de la presente Ley y las Normativas correspondientes.
+En el caso de los T�tulos Habilitantes cuya vigencia haya sido prorrogada en virtud de la Ley N�. 670, Ley de Pr�rroga a las Licencias de las Empresas, Personas Naturales o Jur�dicas que Operan Radio, Televisi�n y Tele Cable, mantendr�n su validez durante el plazo antes se�alado, dentro del cual TELCOR emitir� los correspondientes T�tulos Habilitantes adecuados a las disposiciones de la presente Ley y las normativas correspondientes.
+CAP�TULO II
+DISPOSICIONES FINALES
+Art�culo 153 Cancelaci�n de pagos pendientes
+En cualquier caso, TELCOR mediante acto administrativo, el cual prestar� m�rito ejecutivo, podr� en cualquier momento requerir judicial o extrajudicialmente la cancelaci�n de pagos pendientes o atrasados en concepto de C�nones, Tarifas Regulatorias y Administrativos, Multas y cualquier otra obligaci�n exigible, establecidos en la presente Ley y en las normativas que al efecto emita TELCOR.
+La falta de pago, por cualquiera de los conceptos indicados en el p�rrafo anterior, dar� lugar a la imposici�n de un cargo por mora equivalente al tres por ciento (3%) mensual, sobre el monto correspondiente, hasta la fecha de su cancelaci�n.
+Art�culo 154 Facultad de TELCOR de emitir normativas
+TELCOR, est� facultado para emitir todas las normativas que sean necesarias, con el objetivo de garantizar la aplicaci�n de las disposiciones de la presente Ley, conforme el desarrollo del mercado, los nuevos modelos de negocios, la evoluci�n y convergencia tecnol�gica y de mercado, las mejores pr�cticas internacionales y recomendaciones de Organismos Internacionales relacionados con las telecomunicaciones de los cuales Nicaragua sea Estado Parte.
+Art�culo 155 Auxilio Interinstitucional
+Para garantizar el cumplimiento de los actos administrativos derivados de la aplicaci�n de la presente Ley, TELCOR podr� auxiliarse de la fuerza p�blica o de otras instituciones del Estado seg�n corresponda.
+Art�culo 156 Derogaciones
+La presente Ley deroga las siguientes disposiciones:
+1) Ley N�. 200, Ley General de Telecomunicaciones y Servicios Postales, publicada en La Gaceta, Diario Oficial N�. 154 del 18 de agosto de 1995 y su Texto Consolidado publicado en La Gaceta, Diario Oficial N�. 242 del 18 de diciembre de 2019.
+2) Ley N�. 210, Ley de Incorporaci�n de Particulares en la Operaci�n y Ampliaci�n de los Servicios P�blicos de Telecomunicaciones, publicada en La Gaceta, Diario Oficial N�. 231 del 7 de diciembre de 1995 y sus Reformas.
+3) Ley N�. 670, Ley de Pr�rroga a las Licencias de las Empresas, Personas Naturales o Jur�dicas que Operan Radio, Televisi�n y Tele Cable, publicada en La Gaceta, Diario Oficial N�. 181 del 22 de septiembre de 2008.
+4) Decreto Ejecutivo N�. 19-96, Reglamento de la Ley General de Telecomunicaciones y Servicios Postales, publicado en La Gaceta Diario Oficial N�. 177 del 19 de septiembre de 1996 y su Texto Consolidado publicado en La Gaceta, Diario Oficial N�. 242 del 18 de diciembre de 2019.
+5) Decreto Ejecutivo N�. 136-2004, Pol�tica Sectorial y Lineamientos de Apertura del Mercado de Telecomunicaciones, publicado en La Gaceta, Diario Oficial N�. 2 del 04 de enero de 2005.
+6) Decreto Ejecutivo N�. 5-2006, Constituci�n del Fondo de Inversi�n de Telecomunicaciones, publicado en La Gaceta, Diario Oficial N�. 19 del 26 de enero de 2006, cuyo Texto Consolidado fue publicado en La Gaceta, Diario Oficial N�. 242 del 18 de diciembre de 2019 y su Reforma.
+Art�culo 157 Adecuaci�n normativa
+En todo el ordenamiento jur�dico nacional donde se mencione al “Fondo de Inversi�n de Telecomunicaciones (FITEL)”, deber� leerse “Fondo de Desarrollo de Telecomunicaciones Convergentes (FODETEC)”.
+Art�culo 158 Vigencia
+La presente Ley entrar� en vigencia en un plazo de doce (12) meses despu�s de su publicaci�n en La Gaceta, Diario Oficial.
+Dado en el Sal�n de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los treinta y un d�as del mes de octubre del a�o dos mil veinticuatro. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+Por tanto. T�ngase como Ley de la Rep�blica. Publ�quese y Ejec�tese. Managua, el d�a cuatro de noviembre del a�o dos mil veinticuatro. Daniel Ortega Saavedra, Presidente de la Rep�blica de Nicaragua.
+Asamblea Nacional de la Rep�blica de Nicaragua
+Complejo Legislativo "Carlos N��ez T�llez"
+Avenida Peatonal General Augusto C. Sandino
+Edificio Gral. Benjam�n Zeled�n, 7mo. Piso
+Tel�fono Directo: 2276-8460. Ext.: 281
+Enviar sus comentarios a: Direcci�n de Informaci�n Legislativa

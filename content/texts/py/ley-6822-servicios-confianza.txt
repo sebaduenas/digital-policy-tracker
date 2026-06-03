@@ -1,0 +1,854 @@
+Ley Nº 6822 / DE LOS SERVICIOS DE CONFIANZA PARA LAS TRANSACCIONES ELECTRÓNICAS, DEL DOCUMENTO ELECTRÓNICO Y LOS DOCUMENTOS TRANSMISIBLES ELECTRÓNICOS.
+• Libros: “Cuentos para niños basados en biografí ...
+• Agenda: Presentación de libro: Voces de la Memor ...
+• Libros: DEUS UBIQUE EST . LIBRO VIVO
+• Libros: Poder y liderazgo del paraguayo Una visi ...
+• Agenda: Presentación de libro "ACERO; la espada ...
+• Noticias: La Biblioteca del Congreso será sede de ...
+• Agenda: Taller sobre fortalecimiento Institucion ...
+• Dinapi: Llanto en los ojos y otros
+• Agenda: 1er. Intercolegial de Juegos de Mesa y l ...
+• Leyes Paraguayas: Ley Nº 7634/2026 / Ley N° 7634 ACUERDO I ...
+Primary Menu
+• Inicio
+• la bacn
+• Quienes somos
+• Mision y vision
+• Comision administrativa
+• orgranigrama
+• presupuesto
+• marco normativo
+• Servicios
+• Publicaciones BACN
+• Antecedentes de la BACN
+• Proyecto edificio BACN
+• leyes paraguayas
+• constitucion nacional de la republica del paraguay
+• conoce tu ley
+• leyes mas solicitadas
+• ultimas leyes publicadas
+• leyes por año
+• Historia de la Ley
+• Multimedia
+• Libros
+• Revistas del a BACCN
+• Bibliografias de la baccn
+• galeria de imagenes
+• Galeria de recortes de prensa
+• Videos de la BACCN
+• Videos Conveción Nacional Constituyente
+• catalogo bibliografico
+• Noticias
+• faqs
+• Blog
+• contacto
+Inicio
+Leyes Paraguayas
+Ley Nº 6822 / DE LOS SERVICIOS DE CONFIANZA PARA LAS TRANSACCIONES ELECTRÓNICAS, DEL DOCUMENTO ELECTRÓNICO Y LOS DOCUMENTOS TRANSMISIBLES ELECTRÓNICOS.
+Leyes Paraguayas
+Ley Nº 6822 / DE LOS SERVICIOS DE CONFIANZA PARA LAS TRANSACCIONES ELECTRÓNICAS, DEL DOCUMENTO ELECTRÓNICO Y LOS DOCUMENTOS TRANSMISIBLES ELECTRÓNICOS.
+Escrito por
+Mariela
+Lunes 09 de Mayo de 2022
+51,472 vistas
+Comparte
+• Fecha de Promulgación: 30-12-2021
+• Fecha de Publicación: 04-01-2022
+Descargar Archivo: Ley 6822 (6.47 MB)
+Descargar Archivo: Decreto 7576 (3.24 MB)
+LEY N 6822
+DE LOS SERVICIOS DE CONFIANZA PARA LAS TRANSACCIONES ELECTR NICAS, DEL DOCUMENTO ELECTR NICO Y LOS DOCUMENTOS TRANSMISIBLES ELECTR NICOS.
+EL CONGRESO DE LA NACION PARAGUAYA SANCIONA CON FUERZA DE
+LEY
+T TULO PRIMERO
+DISPOSICIONES GENERALES
+Art culo 1. Objeto.
+Establecer un marco jur dico para la identificaci n electr nica, firma electr nica, el sello electr nico, el sello de tiempo electr nico, el documento electr nico, el expediente electr nico, el servicio de entrega electr nica certificada, el servicio de certificado para la autenticaci n de sitios web, el documento transmisible electr nico y en particular para las transacciones electr nicas.
+Art culo 2. mbito de aplicaci n.
+La presente ley aplica a toda clase de transacciones y actos jur dicos, p blicos o privados, as como en los procesos privados, administrativos y judiciales tramitados electr nicamente salvo disposici n legal en contrario, o que por su naturaleza o los requisitos particulares del acto o negocio concretos resulten incompatibles.
+Art culo 3. Principios.
+En la aplicaci n de la presente ley, deben observarse los siguientes principios:
+a) Equivalencia funcional.
+b) Neutralidad tecnol gica.
+c) No discriminaci n contra el uso de las comunicaciones electr nicas.
+d) Libre competencia.
+e) Compatibilidad internacional.
+f) Buena fe.
+Toda interpretaci n de los preceptos de la presente ley deber guardar armon a con los principios se alados.
+Art culo 4. Definiciones.
+A efectos de la presente ley, se aplicar n las siguientes definiciones:
+1) Autenticaci n electr nica: un proceso electr nico que posibilita la identificaci n electr nica de una persona f sica o jur dica, o del origen y la integridad de datos en formato electr nico.
+2) Autoridad de Aplicaci n: rgano competente del Estado encargado de interpretar, regular, aplicar y velar por lo ordenado y establecido en la presente ley.
+3) Certificado cualificado de autenticaci n de sitio web: un certificado de autenticaci n de sitio web que ha sido expedido por un prestador cualificado de servicios de confianza y que cumple los requisitos establecidos en el art culo 61 de la presente ley.
+4) Certificado cualificado de firma electr nica: un certificado de firma electr nica que ha sido expedido por un prestador cualificado de servicios de confianza y que cumple los requisitos establecidos en el art culo 43 de la presente ley.
+5) Certificado cualificado de sello electr nico: un certificado de sello electr nico que ha sido expedido por un prestador cualificado de servicios de confianza y que cumple los requisitos establecidos en el art culo 53 de la presente ley.
+6) Certificado de autenticaci n de sitio web: una declaraci n electr nica que permite autenticar un sitio web y vincula el sitio web con la persona f sica o jur dica a quien se ha expedido el certificado.
+7) Certificado de firma electr nica: una declaraci n electr nica que vincula los datos de validaci n de una firma con una persona f sica y confirma, al menos, el nombre o el seud nimo de esa persona.
+8) Certificado de sello electr nico: una declaraci n electr nica que vincula los datos de validaci n de un sello con una persona jur dica y confirma el nombre de la misma.
+9) Copia aut ntica electr nica: consiste en la reproducci n del contenido del documento original a una copia realizada por cualquier medio electr nico.
+10) Creador de un sello: una persona jur dica que crea un sello electr nico.
+11) Datos de creaci n de la firma electr nica: los datos nicos que utiliza el firmante para crear una firma electr nica.
+12) Datos de creaci n del sello electr nico: los datos nicos que utiliza el creador del sello electr nico para crearlo.
+13) Datos de identificaci n de la persona: un conjunto de datos que permite establecer la identidad de una persona f sica o jur dica, o de una persona f sica que representa a una persona jur dica.
+14) Datos de validaci n: los datos utilizados para validar una firma electr nica o un sello electr nico.
+15) Destinatario: toda persona designada por el remitente para recibir el mensaje, pero que no est actuando a t tulo de intermediario con respecto a l.
+16) Digitalizaci n certificada: proceso tecnol gico que permite, mediante la aplicaci n de t cnicas foto electr nicas o de esc ner, convertir la imagen contenida en un documento en papel, en una imagen digital codificada conforme a las disposiciones del art culo 74 de la presente ley.
+17) Dispositivo cualificado de creaci n de firma electr nica: un dispositivo de creaci n de firmas electr nicas que cumple los requisitos establecidos en el art culo 44 de la presente ley.
+18) Dispositivo cualificado de creaci n de sello electr nico: un dispositivo de creaci n de sellos electr nicos que cumple con los requisitos establecidos en el art culo 54 de la presente ley.
+19) Dispositivo de creaci n de firma electr nica: un equipo o programa inform tico configurado que se utiliza para crear una firma electr nica.
+20) Dispositivo de creaci n de sello electr nico: un equipo o programa inform tico configurado que se utiliza para crear un sello electr nico.
+21) Documento electr nico: toda informaci n generada, comunicada, recibida o archivada por medios electr nicos o similares, incluida, cuando proceda, toda la informaci n l gicamente asociada o vinculada de alguna otra forma a ella de modo que forme parte del documento, se haya generado simult neamente o no.
+22) Documento o t tulo transmisible emitido en papel: todo documento o t tulo transmisible emitido en papel que faculte a su tenedor para reclamar el cumplimiento de la obligaci n indicada en dicho documento o t tulo y para transmitir el derecho a obtener el cumplimiento de la obligaci n indicada en el documento o t tulo mediante la transmisi n de este.
+23) Documento transmisible electr nico: todo documento electr nico que cumpla con los requisitos establecidos en el T tulo Cuarto de la presente ley.
+24) Domicilio electr nico: sistema de informaci n destinado a recibir notificaciones electr nicas en procesos privados, judiciales o administrativos.
+25) Electr nico: caracter stica de la tecnolog a que tiene capacidades el ctricas, digitales, magn ticas, inal mbricas, pticas, electromagn ticas u otras similares.
+26) Expediente electr nico: conjunto de datos registrados en un soporte electr nico durante el seguimiento y hasta la finalizaci n de una actividad institucional o personal, y que comprende un contenido, un contexto y una estructura suficiente para constituir una prueba o una evidencia de esa actividad.
+27) Firma electr nica cualificada: una firma electr nica que se crea mediante un dispositivo cualificado de creaci n de firmas electr nicas y que se basa en un certificado cualificado de firma electr nica, la cual deber estar vinculada al firmante de manera nica, permitir la identificaci n del firmante, haber sido creada utilizando datos de creaci n de la firma electr nica que el firmante puede utilizar, con un alto nivel de confianza, bajo su control exclusivo y estar vinculada con los datos firmados por la misma de modo tal que cualquier modificaci n ulterior de los mismos sea detectable.
+28) Firma electr nica: los datos en formato electr nico anexos a otros datos electr nicos o asociados de manera l gica con ellos que utiliza el firmante para firmar.
+29) Firmante: una persona f sica que crea una firma electr nica.
+30) Identificaci n electr nica: proceso de utilizar los datos de identificaci n de una persona en formato electr nico que representan de manera nica a una persona f sica o jur dica o a una persona f sica que representa a una persona jur dica.
+31) ndice electr nico: relaci n de documentos electr nicos de un expediente electr nico, firmada o sellada por el responsable, rgano o entidad actuante, seg n proceda y cuya finalidad es garantizar la integridad del expediente electr nico y permitir su recuperaci n siempre que sea preciso.
+32) Medios de identificaci n electr nica: una unidad material y/o inmaterial que contiene los datos de identificaci n de una persona y que se utiliza para la autenticaci n en servicios en l nea.
+33) Metadato: informaci n estructurada o semiestructurada que posibilita la creaci n, registro, clasificaci n, acceso, conservaci n y disposici n de los documentos a lo largo del tiempo.
+34) Organismo de evaluaci n de conformidad: organismo que desempe a actividades de evaluaci n de la conformidad a un prestador de servicios de confianza y de los servicios de confianza que este presta conforme a la presente ley.
+35) Organismo de supervisi n: organismo que concede y retira la cualificaci n a los prestadores de servicios de confianza y a los servicios de confianza que prestan adem s de las funciones establecidas en el art culo 17 de la presente ley.
+36) rgano de acreditaci n y supervisi n: rgano que desempe a actividades de acreditaci n y supervisi n conforme a las disposiciones del art culo 87 de la presente ley.
+37) Parte usuaria: la persona f sica o jur dica que conf a en el servicio de confianza.
+38) Prestador cualificado de servicios de confianza: un prestador de servicios de confianza que presta uno o varios servicios de confianza cualificados y al que el organismo de supervisi n ha concedido la habilitaci n;
+39) Prestador de servicios de confianza: una persona f sica o jur dica que presta uno o m s servicios de confianza, bien como prestador cualificado o como prestador no cualificado de servicios de confianza.
+40) Producto: un equipo o programa inform tico, o los componentes pertinentes del mismo, destinado a ser utilizado para la prestaci n de servicios de confianza.
+41) Remitente: toda persona que haya actuado por su cuenta o en cuyo nombre se haya actuado para enviar o generar el documento electr nico antes de ser archivado, si ste es el caso, pero que no haya actuado a t tulo de intermediario con respecto a l.
+42) Sello cualificado de tiempo electr nico: sello cualificado de tiempo electr nico que debe vincular la fecha y hora con los datos de forma que se elimine razonablemente la posibilidad de modificar los datos sin que se detecte, basarse en una fuente de informaci n temporal vinculada al Tiempo Universal Coordinado y haber sido firmada mediante el uso de una firma electr nica o sellada con un sello electr nico del prestador cualificado de servicios de confianza o por cualquier m todo equivalente.
+43) Sello de tiempo electr nico: datos en formato electr nico que vinculan otros datos en formato electr nico con un instante concreto, aportando la prueba de que estos ltimos datos exist an en ese instante.
+44) Sello electr nico cualificado: un sello electr nico que se crea mediante un dispositivo cualificado de creaci n de sellos electr nicos y que se basa en un certificado cualificado de sello electr nico, el cual deber estar vinculado al creador del sello de manera nica, permitir la identificaci n del creador del sello, haber sido creado utilizando datos de creaci n del sello electr nico que el creador del sello puede utilizar para la creaci n de un sello electr nico, con un alto nivel de confianza, bajo su control exclusivo, y estar vinculado con los datos a que se refiere de modo tal que cualquier modificaci n ulterior de los mismos sea detectable.
+45) Sello electr nico: datos en formato electr nico anexos a otros datos en formato electr nico, o asociados de manera l gica con ellos, para garantizar el origen y la integridad de estos ltimos.
+46) Servicio cualificado de entrega electr nica certificada: un servicio cualificado de entrega electr nica certificada prestado por uno o m s prestadores cualificados de servicios de confianza, que permite asegurar con un alto nivel de fiabilidad la identificaci n del remitente, garantizar la identificaci n del destinatario antes de la entrega de los datos, estar protegidos el env o y recepci n de datos por una firma electr nica o un sello electr nico de un prestador cualificado de servicios de confianza de tal forma que se impida la posibilidad de que se modifiquen los datos sin que se detecte, indicar claramente al emisor y al destinatario de los datos cualquier modificaci n de los datos necesarios a efectos del env o o recepci n de los datos, indicar mediante un sello cualificado de tiempo electr nico la fecha y hora de env o, recepci n y eventual modificaci n de los datos.
+47) Servicio de confianza cualificado: el servicio electr nico prestado habitualmente a cambio de una remuneraci n, consistente en: a) la creaci n, verificaci n y validaci n de firmas electr nicas cualificadas, sellos electr nicos cualificados, sellos cualificados de tiempo electr nicos, servicios cualificados de entrega electr nica certificada y certificados relativos a estos servicios, y/o b) la creaci n, verificaci n y validaci n de certificados cualificados para la autenticaci n de sitios web, y/o c) la preservaci n de firmas, sellos o certificados cualificados electr nicos relativos a estos servicios, d) servicio de expedici n de medios de identificaci n en virtud a sistemas de identificaci n electr nica con nivel de seguridad alto.
+48) Servicio de confianza: el servicio electr nico prestado habitualmente a cambio de una remuneraci n, consistente en: a) la creaci n, verificaci n y validaci n de firmas electr nicas, sellos electr nicos, sellos de tiempo electr nicos, servicios de entrega electr nica certificada y certificados relativos a estos servicios, o b) la creaci n, verificaci n y validaci n de certificados para la autenticaci n de sitios web, o c) la preservaci n de firmas, sellos o certificados electr nicos relativos a estos servicios, d) servicio de expedici n de medios de identificaci n en virtud a sistemas de identificaci n electr nica.
+49) Servicio de entrega electr nica certificada: un servicio electr nico que permite transmitir datos entre partes terceras por medios electr nicos y aporta pruebas relacionadas con la gesti n de los datos transmitidos, incluida la prueba del env o y la recepci n de los datos, y que protege los datos transmitidos frente a los riesgos de p rdida, robo, deterioro o alteraci n no autorizada.
+50) Sistema de identificaci n electr nica: un r gimen para la identificaci n electr nica en virtud del cual se expiden medios de identificaci n electr nica a las personas f sicas o jur dicas o a una persona f sica que representa a una persona jur dica.
+51) Validaci n: el proceso de verificar y confirmar la validez de una firma o sello electr nico.
+T TULO SEGUNDO
+SERVICIOS DE CONFIANZA
+Secci n I
+Disposiciones Generales
+Art culo 5. Prestadores de servicios de confianza sujetos a la ley.
+1. La presente ley se aplica a los prestadores de servicios de confianza establecidos en la Rep blica del Paraguay. Se entiende que un prestador de servicios de confianza est establecido en Paraguay cuando su residencia o domicilio se halle en territorio paraguayo, siempre que stos coincidan con el lugar en que est efectivamente centralizada la gesti n administrativa y la direcci n de sus negocios.
+2. Se considera que un prestador opera mediante un establecimiento permanente situado en territorio paraguayo cuando disponga en l, de forma continuada o habitual, de instalaciones o lugares de trabajo en los que realice toda o parte de su actividad.
+3. Se presume que un prestador de servicios de confianza est establecido en Paraguay cuando dicho prestador o alguna de sus sucursales se haya inscripto en el registro p blico en el que fuera necesaria la inscripci n para la adquisici n de personalidad jur dica.
+La mera utilizaci n de medios tecnol gicos situados en Paraguay para la prestaci n o el acceso al servicio no implica, por s sola, el establecimiento del prestador en Paraguay.
+4. Para constituirse en Prestador Cualificado de Servicios de Confianza, la prestaci n del servicio debe contemplarse en su carta org nica o instrumento de creaci n.
+Art culo 6. Carga de la prueba.
+1. Sin perjuicio de lo dispuesto en el apartado 2, los prestadores de servicios de confianza son responsables de los perjuicios causados de forma deliberada o por negligencia a cualquier persona f sica o jur dica en raz n del incumplimiento de las obligaciones establecidas en la presente ley.
+La carga de la prueba de la intencionalidad o la negligencia de un prestador no cualificado de servicios de confianza corresponde a la persona f sica o jur dica que alegue los perjuicios a que se refiere el primer p rrafo.
+Corresponde al prestador cualificado de servicios de confianza demostrar que los perjuicios a que se refiere el p rrafo primero se produjeron sin intenci n ni negligencia por su parte.
+2. Cuando un prestador de servicios informe debidamente a sus clientes con antelaci n sobre las limitaciones de la utilizaci n de los servicios que presta y estas limitaciones sean reconocibles para un tercero, el prestador de servicios de confianza no ser responsable de los perjuicios producidos por una utilizaci n de los servicios que vaya m s all de las limitaciones indicadas.
+Art culo 7. Aspectos internacionales.
+1. Los servicios de confianza prestados por los prestadores de servicios de confianza establecidos fuera del pa s ser n reconocidos como legalmente equivalentes a los servicios de confianza cualificados prestados por prestadores cualificados de servicios de confianza establecidos en la Rep blica del Paraguay si los servicios de confianza son reconocidos en virtud de acuerdos de reconocimiento mutuo celebrado entre autoridades normativas de cada pa s o con organizaciones internacionales de conformidad a la reglamentaci n correspondiente.
+2. Los acuerdos a que se refiere el apartado 1 deben garantizar, en particular, que:
+a) Los prestadores de servicios de confianza establecidos fuera del pa s u organizaciones internacionales y los servicios de confianza que prestan, cumplen los requisitos aplicables a los prestadores cualificados de servicios de confianza establecidos en el Paraguay y a los servicios de confianza cualificados que prestan.
+b) Los servicios de confianza cualificados prestados por prestadores cualificados de servicios de confianza establecidos en Paraguay son reconocidos como legalmente equivalentes a los servicios de confianza prestados por prestadores de servicios establecidos fuera del pa s u organizaciones internacionales con los que se celebran acuerdos.
+Art culo 8. Accesibilidad para las personas con discapacidad.
+Siempre que sea factible, los servicios de confianza prestados y los productos para el usuario final utilizados en la prestaci n de estos servicios deben ser accesibles para las personas con discapacidad.
+Art culo 9. Tratamiento y protecci n de los datos personales.
+Los prestadores de servicios de confianza s lo pueden recolectar los datos personales directamente de la persona a quien esos datos se refieran. Estas deben dar su consentimiento expreso e informado a tales efectos. La recolecci n y procesamiento en general de los datos personales se realizar n solo en la medida en que los mismos sean necesarios para la prestaci n del servicio de confianza. Los datos personales no pueden ser procesados para otro fin distinto al acordado, sin el consentimiento expreso del titular de los datos.
+No se prohibir la utilizaci n de los seud nimos en las transacciones electr nicas, al efecto, los prestadores de servicios de confianza que consignen un seud nimo en un certificado electr nico deber n constatar la verdadera identidad del firmante o titular del certificado y conservar la documentaci n que la acredite. Dichos prestadores de servicios de confianza estar n obligados a revelar la citada identidad cuando lo soliciten los rganos judiciales y otras autoridades p blicas para el ejercicio de las funciones.
+Secci n II
+Obligaciones y responsabilidades de los prestadores de servicios de confianza.
+Art culo 10. Obligaciones de los prestadores de servicios de confianza.
+1. Los prestadores de servicios de confianza deben publicar informaci n veraz y acorde con la presente ley y sus reglamentaciones.
+2. Los prestadores de servicios de confianza que expidan certificados electr nicos, deben cumplir tambi n las siguientes obligaciones:
+a) No almacenar ni copiar, por s o a trav s de un tercero, los datos de creaci n de firma, de sello o de autenticaci n de sitio web de la persona f sica o jur dica a la que hayan prestado sus servicios, salvo en caso de su gesti n en nombre del firmante o del creador del sello.
+En este caso, se debe utilizar sistemas y productos fiables, incluidos canales de comunicaci n electr nica seguros, aplicar procedimientos y mecanismos t cnicos y organizativos adecuados, para garantizar que el entorno sea fiable y se utilice bajo el control exclusivo del titular del certificado. Adem s, deben custodiar y proteger los datos de creaci n de firma, de sello o de autenticaci n de sitio web frente a cualquier alteraci n, destrucci n o acceso no autorizado, as como garantizar su continua disponibilidad.
+b) Disponer de un servicio de consulta sobre el estado de validez y revocaci n de los certificados emitidos accesible al p blico.
+c) Cumplir con las disposiciones reglamentadas por la Autoridad de Aplicaci n para asegurar que el prestador de servicios de confianza se ajusta a la presente ley.
+3. Los prestadores cualificados de servicios de confianza deben cumplir las siguientes obligaciones adicionales:
+a) El per odo de tiempo durante el que deben conservar la informaci n relativa a los servicios prestados ser de diez a os. En caso de que expidan medios de identificaci n electr nica en virtud del sistema de identificaci n electr nicos de nivel alto, certificados cualificados de sello electr nico, los prestadores de servicios de confianza deben registrar tambi n la informaci n que permita determinar la identidad de la persona f sica a la que se hayan entregado los citados medios/certificados, para su identificaci n en procedimientos judiciales o administrativos.
+b) Constituir un seguro de responsabilidad civil por importe m nimo de quinientos salarios m nimos previstos para actividades diversas no especificadas, excepto si el prestador pertenece al sector p blico.
+Si presta m s de un servicio de los previstos en la presente ley, se a adir n ciento cincuenta salarios m nimos m s por cada servicio. La citada garant a puede ser sustituida total o parcialmente por una garant a mediante aval bancario o seguro de cauci n, de manera que la suma de las cantidades aseguradas sea coherente con lo dispuesto en el p rrafo anterior.
+c) El prestador cualificado de servicios de confianza que vaya a cesar en su actividad debe comunicarlo a los clientes a los que preste sus servicios y al organismo de supervisi n con una antelaci n m nima de dos meses al cese efectivo de la actividad. El plan de cese del prestador cualificado de servicios de confianza puede incluir la transferencia de clientes a otro prestador cualificado, una vez acreditada la ausencia de oposici n de los mismos. Igualmente, comunicar al organismo de supervisi n cualquier otra circunstancia relevante que pueda impedir la continuaci n de su actividad. En especial, debe comunicar, en cuanto tenga conocimiento de ello, la apertura de cualquier proceso concursal que se siga contra l.
+d) Antes de la expedici n de un certificado cualificado, los prestadores cualificados de servicios de confianza deben asegurarse de que el titular del certificado puede controlar el acceso y uso de los datos de creaci n de firma o sello o de autenticaci n de sitio web correspondientes a los de verificaci n que consten en el certificado.
+e) Los prestadores cualificados de servicios de confianza deben enviar el informe de evaluaci n de la conformidad a la Autoridad de Aplicaci n en los t rminos previstos en el art culo 24 apartado 1 de la presente ley. El incumplimiento de esta obligaci n conlleva la suspensi n de la cualificaci n al prestador y al servicio que ste presta, y su eliminaci n de la lista de confianza prevista en el art culo 22 de la presente ley.
+f) Antes de la expedici n de un medio de identificaci n electr nica en virtud del sistema de identificaci n electr nica, los prestadores cualificados de servicios de confianza deben asegurarse de que el titular del medio de identificaci n puede controlar el acceso y uso de los datos de identificaci n contenido en ese medio.
+Art culo 11. Responsabilidad de los prestadores de servicios de confianza.
+1. Los prestadores de servicios de confianza deben responder por los da os y perjuicios que causen a cualquier persona en el ejercicio de su actividad cuando incumplan las obligaciones que les impone la presente ley.
+2. Los prestadores de servicios de confianza deben asumir toda la responsabilidad frente a terceros por la actuaci n de las personas u otros prestadores en los que deleguen la ejecuci n de alguna o algunas de las funciones necesarias para la prestaci n de servicios de confianza, incluyendo las actuaciones de comprobaci n de identidad previas a la expedici n de un certificado cualificado.
+3. Los prestadores de servicios de confianza ser n responsables de los perjuicios causados de forma deliberada o por negligencia a cualquier persona f sica o jur dica en caso de incumplimiento de sus obligaciones en virtud de los incisos c) y e) del art culo 30.
+4. Los prestadores de servicios de confianza que expidan los medios de identificaci n electr nica ser n responsables de los perjuicios causados de forma deliberada o por negligencia a cualquier persona f sica o jur dica en caso de incumplimiento de sus obligaciones en virtud del inciso d) del art culo 30.
+5. Los prestadores de servicios de confianza que realicen el procedimiento de autenticaci n ser n responsables de los perjuicios causados de forma deliberada o por negligencia a cualquier persona f sica o jur dica en caso de incumplimiento de sus obligaciones en virtud del inciso e) del art culo 30.
+Art culo 12. Limitaciones de responsabilidad de los prestadores de servicios de confianza.
+1. El prestador de servicios de confianza no ser responsable de los da os y perjuicios ocasionados a la persona a la que ha prestado sus servicios o a terceros de buena fe, si la citada persona incurre en alguno de los supuestos siguientes:
+• No haber proporcionado al prestador de servicios de confianza informaci n veraz, completa y exacta para la prestaci n del servicio de confianza, en particular, sobre los datos que deban constar en el certificado electr nico o que sean necesarios para su expedici n o para la extinci n o suspensi n de su vigencia, cuando su inexactitud no haya podido ser detectada por el prestador de servicios.
+• La falta de comunicaci n sin demora al prestador de servicios de cualquier modificaci n de las circunstancias que incidan en la prestaci n del servicio de confianza, en particular, aquellas reflejadas en el certificado electr nico.
+• Negligencia en la conservaci n de sus datos de creaci n de firma, sello o autenticaci n de sitio web, en el aseguramiento de su confidencialidad y en la protecci n de todo acceso o revelaci n de stos o, en su caso, de los medios que den acceso a ellos.
+• No solicitar la suspensi n o revocaci n del certificado electr nico en caso de duda en cuanto al mantenimiento de la confidencialidad de sus datos de creaci n de firma, sello o autenticaci n de sitio web o, en su caso, de los medios que den acceso a ellos.
+• Utilizar los datos de creaci n de firma, sello o autenticaci n de sitio web cuando haya expirado el per odo de validez del certificado electr nico o el prestador de servicios de confianza le notifique la extinci n o suspensi n de su vigencia.
+2. El prestador de servicios de confianza tampoco ser responsable por los da os y perjuicios si el destinatario de los documentos firmados o sellados electr nicamente act a de forma negligente. Entre otros supuestos, se entiende que el destinatario act a de forma negligente cuando no tenga en cuenta la suspensi n o p rdida de vigencia del certificado electr nico publicada en el servicio de consulta sobre la vigencia de los certificados, o cuando no verifique la firma o sello electr nicos.
+3. El prestador de servicios de confianza no ser responsable por los da os y perjuicios en caso de inexactitud de los datos que consten en el certificado electr nico si stos le han sido acreditados mediante documento p blico, inscripto en un registro p blico si as resulta exigible.
+4. El prestador de servicios de confianza no ser responsable por los da os y perjuicios relativos a la expedici n de un medio de identificaci n electr nica en virtud del sistema de identificaci n electr nica siempre y cuando acredite el cumplimiento de las obligaciones que le impone la presente ley.
+Art culo 13. Obligaciones de seguridad de la informaci n.
+1. Los prestadores cualificados y no cualificados de servicios de confianza deben notificar a la Autoridad de Aplicaci n de las violaciones de seguridad que sufran, entendi ndose como violaci n de seguridad a un evento que afecta de manera cr tica la confidencialidad, integridad y/o disponibilidad de los activos de informaci n, en los t rminos previstos en el art culo 20 apartado 2.
+2. Los prestadores de servicios tienen la obligaci n de gestionar los incidentes de seguridad que les afecten, debiendo prever los mecanismos adecuados para su prevenci n, detecci n, an lisis y resoluci n.
+3. Los prestadores de servicios deben ampliar tras la resoluci n del incidente, la informaci n suministrada en la notificaci n inicial con arreglo a las directrices que pueda establecer la Autoridad de Aplicaci n.
+Art culo 14. Declaraci n de pr cticas de los servicios electr nicos de confianza.
+1. La declaraci n de pr cticas es un documento en el que los prestadores de servicios de confianza describen la forma en que prestan el servicio y aseguran el cumplimiento de las obligaciones legalmente exigibles, e informan al p blico sobre el modo correcto de utilizaci n de sus servicios. La declaraci n de pr cticas debe estar disponible al p blico de manera f cilmente accesible, al menos por v a electr nica y de forma gratuita.
+2. En el caso de los servicios de emisi n de certificados, la declaraci n de pr cticas describe las condiciones aplicables a la solicitud y expedici n de un certificado, incluida la celebraci n de un contrato; detalla los t rminos aplicables a la suspensi n y extinci n de la vigencia de los certificados, e informa sobre la existencia de un servicio de consulta sobre la vigencia de los certificados. As mismo, indica las obligaciones del titular en el uso del certificado, la forma en que han de custodiarse los datos de creaci n de firma, de sello o de autenticaci n de sitio web, y los medios que los protegen, as como cualquier recomendaci n til para garantizar una buena utilizaci n del certificado.
+Art culo 15. Servicios de confianza no cualificados.
+Los prestadores de servicios de confianza no cualificados no necesitan autorizaci n administrativa para iniciar su actividad, pero deben comunicar su actividad a la Autoridad de Aplicaci n en el plazo de tres meses desde que la inicien. En el mismo plazo deben comunicar la modificaci n de los datos inicialmente transmitidos y el cese de su actividad.
+Secci n III
+Supervisi n y Control
+Art culo 16. Organismo de supervisi n.
+1. Sin perjuicio de las funciones espec ficas conforme al art culo 17, la Autoridad de Aplicaci n, ser el rgano de supervisi n, debe controlar el cumplimiento de las obligaciones establecidas en la presente ley por parte de los prestadores de servicios de confianza cualificados y no cualificados que ofrezcan sus servicios al p blico.
+2. La Autoridad de Aplicaci n podr acordar las medidas apropiadas para el cumplimiento de la presente ley. En particular, puede dictar directrices para la elaboraci n y comunicaci n de informes, documentos y para el cumplimiento de las obligaciones t cnicas y de seguridad exigibles a los servicios de confianza, as como sobre requisitos y normas t cnicas de auditor a y certificaci n con arreglo a las cuales los organismos de evaluaci n de la conformidad realizan la evaluaci n de la conformidad de los prestadores cualificados de servicios de confianza. Para ello, pueden referenciar especificaciones o normas elaboradas por organismos internacionales.
+Art culo 17. Funciones del organismo de supervisi n.
+1. Las funciones del organismo de supervisi n son las siguientes:
+a) Supervisar a los prestadores cualificados de servicios de confianza establecidos en el Paraguay a fin de garantizar, mediante actividades de supervisi n previas y posteriores, que dichos prestadores cualificados de servicios de confianza, y los servicios de confianza cualificados prestados por ellos, cumplen los requisitos establecidos en la presente ley.
+b) Adoptar medidas, en caso necesario, en relaci n con los prestadores no cualificados de servicios de confianza establecidos, mediante actividades de supervisi n posteriores, cuando reciba la informaci n de que dichos prestadores no cualificados de servicios de confianza, o los servicios de confianza prestados por ellos, supuestamente no cumplen los requisitos establecidos en la presente ley.
+2. Para los fines del apartado 1, y con sujeci n a las limitaciones establecidas en el mismo, las funciones del organismo de supervisi n incluyen, en particular:
+a) Analizar los informes de evaluaci n de la conformidad a que se refieren el art culo 24, apartado 1, art culo 25, apartado 2.
+b) Informar al p blico de la violaci n de seguridad, de conformidad con el art culo 20, apartado 2.
+c) Realizar auditor as o solicitar a un organismo de evaluaci n de la conformidad que realice una evaluaci n de la conformidad de prestadores cualificados de servicios de confianza, con arreglo al art culo 24, apartado 2.
+d) Conceder la cualificaci n a los prestadores de servicios de confianza y a los servicios de confianza que prestan, y retirar esta cualificaci n, con arreglo a los art culos 24 y 25.
+e) Comunicar al organismo responsable de la lista de confianza a que se refiere el art culo 26, de su decisi n de conceder o retirar la cualificaci n, salvo el caso de que dicho organismo sea igualmente el organismo de supervisi n.
+f) Verificar la existencia y la correcta aplicaci n de las disposiciones relativas a los planes de cese en caso de que los prestadores de servicios de confianza cesen sus actividades, con inclusi n de la forma en que se hace accesible la informaci n, con arreglo al art culo 28, apartado 2, inciso h).
+g) Requerir que los prestadores de servicios de confianza subsanen cualquier incumplimiento de los requisitos establecidos en la presente ley.
+3. El organismo de supervisi n debe establecer, mantener y actualizar una infraestructura de confianza de conformidad con las condiciones establecidas en la ley.
+Art culo 18. Actuaciones inspectoras.
+1. La Autoridad de Aplicaci n realizar las actuaciones inspectoras que sean precisas para el ejercicio de su funci n de control.
+2. La Autoridad de Aplicaci n puede recurrir a entidades independientes y t cnicamente cualificadas para que le asistan en las labores de supervisi n y control sobre los prestadores de servicios de confianza que le asigna la presente ley.
+3. Podr requerirse la realizaci n de pruebas en laboratorios o entidades especializadas para acreditar el cumplimiento de determinados requisitos. En este caso, los prestadores de servicios correr n con los gastos que ocasione esta evaluaci n.
+Art culo 19. Informaci n y colaboraci n.
+1. Los prestadores de servicios de confianza, los organismos de evaluaci n de la conformidad y cualquier otra persona o entidad relacionada con el prestador de servicios de confianza, tienen la obligaci n de facilitar a la Autoridad de Aplicaci n toda la informaci n y colaboraci n precisas para el ejercicio de sus funciones.
+En particular, deben permitir a sus agentes o al personal inspector el acceso a sus instalaciones y la consulta de cualquier documentaci n relevante para la inspecci n de que se trate conforme al servicio que se preste. En sus inspecciones podr n ir acompa ados de expertos o peritos en las materias sobre las que versen aqu llas.
+2. La informaci n referente a los prestadores cualificados de servicios de confianza puede ser objeto de publicaci n en la direcci n de internet de la Autoridad de Aplicaci n para su difusi n y conocimiento.
+Art culo 20. Requisitos de seguridad aplicables a los prestadores de servicios de confianza.
+1. Los prestadores cualificados y no cualificados de servicios de confianza adoptar n las medidas t cnicas y organizativas adecuadas para gestionar los riesgos para la seguridad de los servicios de confianza que prestan. Habida cuenta de los ltimos avances tecnol gicos, dichas medidas garantizan un nivel de seguridad proporcional al grado de riesgo. En particular, se adoptar n medidas para evitar y reducir al m nimo el impacto de los incidentes de seguridad e informar a los interesados de los efectos negativos de cualquiera de tales incidentes.
+2. Los prestadores cualificados y no cualificados de servicios de confianza, sin demoras indebidas, pero en cualquier caso en un plazo de veinticuatro horas tras tener conocimiento de ellas, notificar n al organismo de supervisi n y al Centro de Respuestas a Incidentes Cibern ticos del Ministerio de Tecnolog as de la Informaci n y Comunicaci n (MITIC), sobre cualquier violaci n de la seguridad que tenga un impacto significativo en el servicio de confianza prestado o en los datos personales correspondientes.
+Cuando la violaci n de seguridad pueda atentar contra una persona f sica o jur dica a la que se ha prestado el servicio de confianza, el prestador de servicios de confianza notificar tambi n a la persona f sica o jur dica, sin demora indebida, la violaci n de seguridad.
+El organismo de supervisi n notificado informar al p blico o exigir al prestador de servicios de confianza que lo haga, en caso de considerar que la divulgaci n de la violaci n de seguridad reviste inter s p blico.
+Secci n IV
+Infracciones y sanciones
+Art culo 21. Infracciones.
+1. Las infracciones de los preceptos de la presente ley se clasifican en leves, graves, y muy graves.
+2. Constituyen infracciones leves:
+a) No publicar informaci n veraz y acorde con la presente ley.
+b) No comunicar el inicio de actividad, su modificaci n o cese por los prestadores de servicios no cualificados en el plazo establecido en el art culo 15.
+c) El incumplimiento por parte de los prestadores cualificados de servicios de confianza de alguna de las obligaciones establecidas en el art culo 28 numeral 2, incisos a) e i).
+d) No colaborar con otros prestadores cualificados para determinar la fecha de la ltima presencia de la persona f sica firmante o solicitante del sello o de empleo de un medio equivalente de identificaci n aceptado, cuando su colaboraci n sea necesaria.
+e) En caso de prestadores que expidan certificados cualificados de sello electr nico, no registrar la informaci n a la que se refiere el art culo 10 numeral 3 inciso a).
+f) No disponer de un servicio de consulta, sobre el estado de validez y revocaci n de los certificados emitidos, accesible al p blico de conformidad con lo dispuesto en el art culo 10 numeral 2 inciso b).
+g) El incumplimiento de las reglamentaciones dictadas por la Autoridad de Aplicaci n para asegurar que el prestador de servicios de confianza se ajusta a la presente ley conforme al art culo 10 numeral 2 inciso c).
+h) El incumplimiento de las disposiciones establecidas en el art culo 9.
+i) El incumplimiento de todas las dem s disposiciones contenidas en la presente ley que no han sido tipificadas como infracciones graves o muy graves.
+3. Una infracci n grave se convierte en muy grave cuando, como consecuencia de ella, se hayan causado da os graves constatables a usuarios concretos o la seguridad de los servicios de confianza se haya visto gravemente afectada.
+4. Son infracciones graves:
+a) La resistencia, obstrucci n, excusa o negativa injustificada a la actuaci n inspectora de los rganos facultados para llevarla a cabo con arreglo a la presente ley.
+b ) El incumplimiento de un requerimiento de subsanaci n de una deficiencia constitutiva de infracci n cuando ste haya tenido que dictarse por segunda vez.
+c) Actuar en el mercado como prestador cualificado de servicios de confianza, ofrecer servicios de confianza como cualificados o utilizar la etiqueta de confianza PY como prestador de servicios de confianza cualificados sin haber obtenido la cualificaci n de los citados servicios.
+d) En caso de que el prestador expida certificados electr nicos, almacenar o copiar, por s o a trav s de un tercero, los datos de creaci n de firma o sello de la persona f sica o jur dica a la que hayan prestado sus servicios, salvo en caso de su gesti n en nombre del firmante o del creador del sello.
+e) No proteger adecuadamente los datos de creaci n de firma o de sello cuya gesti n se le haya encomendado en la forma establecida en el art culo 10 numeral 2 inciso a).
+f) No notificar, sin demoras indebidas, pero en cualquier caso en un plazo de veinticuatro horas tras tener conocimiento de ellas, a la Autoridad de Aplicaci n, cualquier violaci n de la seguridad que tenga un impacto significativo en el servicio de confianza prestado, salvo que s lo afecte a los datos personales tratados por el prestador, o no ampliar la informaci n notificada, seg n lo dispuesto en el art culo 13 numeral 3.
+g) Cuando la violaci n de seguridad pueda atentar contra una persona f sica o jur dica a la que se ha prestado el servicio de confianza, no notificar tambi n a la persona f sica o jur dica, sin demora indebida, la violaci n de seguridad.
+h) En caso de prestadores cualificados de servicios de confianza, el incumplimiento de alguna de las obligaciones establecidas en el art culo 28 numeral 2, incisos b), c), d), e), f), g), h), y k), numeral 3 y numeral 4 de la presente ley, con las precisiones establecidas cuando no constituya infracci n muy grave y no haya dado lugar a la retirada de la cualificaci n del prestador.
+i) La expedici n de certificados cualificados sin realizar todas las comprobaciones previas relativas a la identidad u otras circunstancias del titular del certificado, o al poder de representaci n de quien lo solicita en su nombre se aladas en la presente ley, u omitir la comprobaci n indicada en el art culo 10 numeral 3 inciso d). Para la aplicaci n de lo dispuesto en el presente art culo, la Autoridad de Aplicaci n debe definir las condiciones relativas a cantidad y per odo de expedici n de certificados cualificados.
+j) La expedici n de medios de identificaci n electr nica en virtud del sistema de identificaci n electr nicos de nivel alto sin realizar todas las comprobaciones previas relativas a la identidad u otras circunstancias del titular del medio de identificaci n, o al poder de representaci n de quien lo solicita en su nombre se aladas en la presente ley, u omitir la comprobaci n indicada en el art culo 10 numeral 3 inciso f).
+k) No resolver los incidentes de seguridad en las redes y sistemas de informaci n.
+l) No disponer de un servicio de consulta sobre el estado de validez y revocaci n de los certificados emitidos accesible al p blico.
+Art culo 22. Sanciones.
+1. Por la comisi n de infracciones recogidas en el art culo anterior, se impondr n al infractor las siguientes sanciones:
+a) Por la comisi n de infracciones leves, una multa por importe de 100 hasta 1.000 jornales m nimos.
+b) Por la comisi n de infracciones graves, una multa por importe de 1.001 hasta 5.000 jornales m nimos.
+c) Por la comisi n de infracciones muy graves, una multa por importe de 5.001 hasta 10.000 jornales m nimos.
+2. La cuant a de las sanciones que se impongan se determinar aplicando una graduaci n de importe m nimo, medio y m ximo a cada nivel de infracci n, teniendo en cuenta lo siguiente:
+a) El grado de culpabilidad o la existencia de intencionalidad.
+b) La continuidad o persistencia en la conducta infractora.
+c) La naturaleza y cuant a de los perjuicios causados.
+d) La reincidencia, por comisi n en el t rmino de un a o de m s de una infracci n de la misma naturaleza cuando as haya sido declarada por resoluci n firme en v a administrativa.
+e) N mero de personas afectadas por la infracci n.
+f) Gravedad del riesgo generado por la conducta o persistencia del mismo.
+g) Las acciones realizadas por el prestador encaminadas a paliar los efectos o consecuencias de la infracci n.
+3. Las resoluciones sancionadoras por la comisi n de infracciones graves o muy graves ser n publicadas en el sitio de internet de la Autoridad de Aplicaci n.
+4. Las sanciones previstas en el presente art culo se aplicar n a los Prestadores de Servicios de confianza cualificados y no cualificados.
+Art culo 23. Competencia y procedimiento sancionador. Prescripci n.
+1. Las infracciones a los preceptos de la presente ley deben ser objeto de sumario administrativo, cuyas sanciones son impuestas por la Autoridad de Aplicaci n.
+2 . Las infracciones a la presente ley prescribir n a los dos a os, computados a partir del ltimo d a en que las infracciones fueron cometidas.
+Secci n V
+Servicios de confianza cualificados
+Art culo 24. Supervisi n de los prestadores cualificados de servicios de confianza.
+1. Los prestadores cualificados de servicios de confianza son auditados, al menos cada veinticuatro meses, corriendo con los gastos que ello genere, por un organismo de evaluaci n de la conformidad. La finalidad de la auditor a es confirmar que tanto los prestadores cualificados de servicios de confianza como los servicios de confianza cualificados que prestan cumplen los requisitos establecidos en la presente ley. Los prestadores cualificados de servicios de confianza env an el informe de evaluaci n de la conformidad correspondiente al organismo de supervisi n en el plazo de tres d as h biles tras su recepci n.
+2. Sin perjuicio de lo dispuesto en el apartado 1, el organismo de supervisi n puede en cualquier momento auditar o solicitar a un organismo de evaluaci n de la conformidad que realice una evaluaci n de conformidad de los prestadores cualificados de servicios de confianza, corriendo con los gastos dichos prestadores de servicios de confianza, para confirmar que tanto ellos como los servicios de confianza cualificados que prestan cumplen los requisitos de la presente ley.
+3. Cuando el organismo de supervisi n requiera a un prestador cualificado de servicios de confianza que corrija el incumplimiento de requisitos de la presente ley y este prestador no act e en consecuencia, en su caso, en el plazo fijado por el organismo de supervisi n, el organismo de supervisi n, teniendo en cuenta en particular el alcance, la duraci n y las consecuencias de este incumplimiento, puede retirar la cualificaci n al prestador o al servicio que este presta e informar al organismo a que se refiere el art culo 26 a efectos de que se actualice la lista de confianza mencionada en el mismo art culo. El organismo de supervisi n comunicar al prestador cualificado de servicios de confianza la retirada de su cualificaci n o de la cualificaci n del servicio de que se trate.
+4. La Autoridad de Aplicaci n, reglamentar las siguientes normas:
+a) La acreditaci n de los organismos de evaluaci n de la conformidad y para el informe de evaluaci n de la conformidad a que se refiere el apartado 1.
+b) Sobre las disposiciones en materia de auditor a con arreglo a las cuales, los organismos de evaluaci n de la conformidad realizar n la evaluaci n de la conformidad de los prestadores cualificados de servicios de confianza a que se refiere el apartado 1.
+Art culo 25. Inicio de un servicio de confianza cualificado.
+1. Cuando los prestadores de servicios de confianza, sin cualificaci n, tengan intenci n de iniciar la prestaci n de servicios de confianza cualificados, presentar n al organismo de supervisi n una notificaci n de su intenci n junto con un informe de evaluaci n de la conformidad expedido por un organismo de evaluaci n de la conformidad.
+2. El organismo de supervisi n verificar si el prestador de servicios de confianza y los servicios de confianza que presta cumplen los requisitos establecidos en la presente ley, y en particular, los requisitos establecidos para los prestadores cualificados de servicios de confianza y para los servicios de confianza cualificados que estos prestan.
+Si el organismo de supervisi n concluye que el prestador de servicios de confianza y los servicios de confianza que este presta cumplen los requisitos a que se refiere el p rrafo primero, el organismo de supervisi n concede la cualificaci n al prestador de servicios de confianza y a los servicios de confianza que este presta y lo comunica al organismo a que se refiere el art culo 26, a efectos de actualizar las listas de confianza a que se refiere el mismo art culo.
+Si la verificaci n no ha concluido en el plazo de tres meses, el organismo de supervisi n informa al prestador de servicios de confianza especificando los motivos de la demora y el plazo previsto para concluir la verificaci n.
+3. Los prestadores cualificados de servicios de confianza pueden comenzar a prestar el servicio de confianza cualificado una vez que la cualificaci n haya sido indicada en las listas de confianza a que se refiere el art culo 26, apartado 1.
+4. La Autoridad de Aplicaci n reglamentar los formatos y procedimientos a efectos de los apartados 1 y 2.
+Art culo 26. Listas de confianza.
+1. La Autoridad de Aplicaci n establece, mantiene y publica la lista de confianza con informaci n relativa a los prestadores cualificados de servicios de confianza sujetos a la presente ley junto con la informaci n relacionada con los servicios de confianza cualificados prestados por ellos.
+2. La Autoridad de Aplicaci n establece, mantiene y publica, de manera segura, la lista de confianza firmada o sellada electr nicamente a que se refiere el apartado 1 en una forma apropiada para el tratamiento autom tico.
+3. La revocaci n de la cualificaci n a un prestador o a un servicio mediante su retirada de la lista de confianza es independiente de la aplicaci n del r gimen sancionador.
+4. La Autoridad de Aplicaci n especificar la informaci n a que se refiere el apartado 1 y definir las especificaciones t cnicas y formatos de las listas de confianza aplicables a efectos de los apartados 1 y 2.
+Art culo 27. Etiqueta de confianza PY para servicios de confianza cualificados.
+1. Una vez que la cualificaci n a que se refiere el art culo 25, apartado 2, p rrafo segundo, se haya incluido en la lista de confianza a que se refiere el art culo 26, los prestadores cualificados de los servicios de confianza pueden usar la etiqueta de confianza PY para indicar de manera simple, reconocible y clara los servicios de confianza cualificados que prestan.
+2. Al utilizar la etiqueta de confianza PY para los servicios de confianza cualificados a que se refiere el apartado 1, los prestadores de los servicios de confianza garantizan que en su sitio web exista un enlace a la lista de confianza pertinente.
+3. La Autoridad de Aplicaci n elaborar especificaciones relativas a la forma y en particular la presentaci n, composici n, tama o y dise o de la etiqueta de confianza PY para servicios de confianza cualificados.
+Art culo 28. Requisitos para los prestadores cualificados de servicios de confianza.
+1. Al expedir un certificado cualificado para un servicio de confianza, un prestador cualificado de servicios de confianza verifica, por los medios apropiados la identidad y, si procede, cualquier atributo espec fico de la persona f sica o jur dica a la que se expide un certificado cualificado.
+La informaci n a que se refiere el p rrafo primero ser verificada por el prestador de servicios de confianza bien directamente o bien por medio de un tercero:
+a) En presencia de la persona f sica o de un representante autorizado de la persona jur dica; o,
+b) A distancia, utilizando medios de identificaci n electr nica, para los cuales se haya garantizado la presencia de la persona f sica o de un representante autorizado de la persona jur dica previamente a la expedici n del certificado cualificado, y que cumplan los requisitos establecidos con el art culo 31 con respecto al nivel de seguridad alto ; o,
+c) Por medio de un certificado de una firma electr nica cualificada o de un sello electr nico cualificado expedido de conformidad con la letra a) o b); o,
+d) Utilizando otros m todos de identificaci n reconocidos a escala nacional que aporten una seguridad equivalente en t rminos de fiabilidad a la presencia f sica. La seguridad equivalente ser confirmada por un organismo de evaluaci n de la conformidad.
+2. Los prestadores cualificados de servicios de confianza que prestan servicios de confianza cualificados:
+a) Informan al organismo de supervisi n de cualquier cambio en la prestaci n de servicios de confianza cualificados, y de su intenci n de cesar tales actividades.
+b) Cuentan con personal y, si procede, con subcontratistas, que posean los conocimientos especializados, la fiabilidad, la experiencia y las cualificaciones necesarios y hayan recibido la formaci n adecuada en materia de seguridad y normas de protecci n de datos personales y que apliquen procedimientos administrativos y de gesti n que correspondan a normas internacionales.
+c) Con respecto al riesgo de la responsabilidad por da os y perjuicios de conformidad con el art culo 11, mantienen recursos financieros suficientes u obtienen p lizas de seguros de responsabilidad adecuadas.
+d) Antes de entrar en una relaci n contractual, informan, de manera clara y comprensible, a cualquier persona que desee utilizar un servicio de confianza cualificado acerca de las condiciones precisas relativas a la utilizaci n de dicho servicio, incluidas las limitaciones de su utilizaci n.
+e) Utilizan sistemas y productos fiables que est n protegidos contra toda alteraci n y que garanticen la seguridad y la fiabilidad t cnicas de los procesos que sustentan.
+f) Utilizan sistemas fiables para almacenar los datos que se les faciliten de forma verificable, de modo que:
+i) Est n a disposici n del p blico para su recuperaci n s lo cuando se haya obtenido el consentimiento de la persona a la que corresponden los datos.
+ii) Solo personas autorizadas puedan hacer anotaciones y modificaciones en los datos almacenados.
+iii) Pueda comprobarse la autenticidad de los datos.
+g) Toman medidas adecuadas contra la falsificaci n y el robo de datos.
+h) Registran y mantienen accesible durante un per odo de tiempo definido por la Autoridad de Aplicaci n, incluso cuando hayan cesado las actividades del prestador cualificado de servicios de confianza, toda la informaci n pertinente referente a los datos expedidos y recibidos por el prestador cualificado de servicios de confianza, en particular al objeto de que sirvan de prueba en los procedimientos legales y para garantizar la continuidad del servicio. Esta actividad de registro podr realizarse por medios electr nicos.
+i) Cuentan con un plan de cese actualizado para garantizar la continuidad del servicio, de conformidad con las disposiciones verificadas por el organismo de supervisi n con arreglo al art culo 17, apartado 2, inciso f).
+j) Garantizan un tratamiento l cito de los datos personales.
+k) En caso de los prestadores cualificados de servicios de confianza que expidan certificados cualificados, establecen y mantienen actualizada una base de datos de certificados.
+3. Cuando los prestadores cualificados de servicios de confianza que expidan certificados cualificados decidan revocar un certificado, registran su revocaci n en su base de datos de certificados y publican el estado de revocaci n del certificado oportunamente y, en todo caso, en un plazo de veinticuatro horas despu s de la recepci n de la solicitud. La revocaci n ser efectiva inmediatamente despu s de su publicaci n.
+4. Con respecto a lo dispuesto en el apartado 3, los prestadores cualificados de servicios de confianza que expidan certificados cualificados proporcionan a cualquier parte usuaria informaci n sobre el estado de validez o revocaci n de los certificados cualificados expedidos por ellos. Esta informaci n debe estar disponible al menos por cada certificado en cualquier momento y con posterioridad al per odo de validez del certificado en una forma automatizada que sea fiable, gratuita y eficiente.
+5. La Autoridad de Aplicaci n reglamentar normas para sistemas y productos fiables que cumplan con los requisitos establecidos en los incisos e) y f) del apartado 2 del presente art culo. Se tendr por acreditado el cumplimiento de los requisitos establecidos en el presente art culo cuando los sistemas y productos fiables se ajusten a lo dispuesto en dichas normas.
+Secci n VI
+Identificaci n Electr nica
+Art culo 29. Efecto jur dico.
+1. No se negar n efectos jur dicos ni admisibilidad en procedimientos privados, judiciales y administrativos a la identificaci n electr nica de una persona f sica o jur dica o a una persona f sica que representa a una persona jur dica por la sola raz n de que la comprobaci n de identidad y la identificaci n electr nica se hayan hecho en forma electr nica expedidos en virtud de un sistema de identificaci n electr nica que cumplan con las condiciones de seguridad previstas en la presente ley.
+2. Cuando la ley requiera o permita que se identifique a una persona, ese requisito se dar por cumplido respecto al sistema de identificaci n electr nica si se utiliza un m todo fiable para la identificaci n electr nica de la persona f sica o jur dica o a una persona f sica que representa a una persona jur dica.
+Se tendr por acreditada la fiabilidad del m todo a los efectos del apartado 2, si se utiliza sistema de identificaci n electr nica conforme a los requisitos establecidos en el art culo 30 y el art culo 31 numeral 2 inciso c).
+Art culo 30. Requisitos de un sistema de identificaci n electr nica.
+Un sistema de identificaci n electr nica cumple los siguientes requisitos:
+a) Que los medios de identificaci n electr nica en virtud del sistema de identificaci n electr nica hayan sido expedidos por un prestador de servicios de confianza.
+b) Que tanto el sistema de identificaci n electr nica como los medios de identificaci n electr nicos en su virtud expedidos cumplan los requisitos de al menos uno de los niveles de seguridad previstos en la reglamentaci n a que hace referencia el art culo 31, apartado 3.
+c) Que el prestador de servicios de confianza garantiza que los datos de identificaci n de la persona que representan en exclusiva a la persona en cuesti n se atribuyen de conformidad con las especificaciones t cnicas, las normas y los procedimientos del nivel de seguridad pertinente establecido en la reglamentaci n a que se refiere el art culo 31, apartado 3, a la persona f sica o jur dica a la que se refiere el art culo 4 respecto a la definici n de identificaci n electr nica, en el momento de expedici n de los medios de identificaci n electr nica previstos en este sistema.
+d) Que la parte que expide los medios de identificaci n electr nica previstos en este sistema garantice que los medios de identificaci n electr nica se atribuyan a la persona a que se refiere el inciso c) del presente art culo de conformidad con las especificaciones t cnicas, las normas y los procedimientos del nivel de seguridad pertinente establecidos en la reglamentaci n a que se refiere el art culo 31, apartado 3.
+e) Que el prestador de servicios de confianza garantiza la disponibilidad de la autenticaci n en l nea de manera que cualquier parte usuaria pueda confirmar los datos de identificaci n de la persona recibidos en formato electr nico.
+Art culo 31. Niveles de seguridad de los sistemas de identificaci n electr nica.
+1. Los sistemas de identificaci n electr nica pueden contar con diversos niveles de seguridad y deber n ser provistos por un prestador de servicios de confianza.
+Un sistema de identificaci n electr nica debe especificar los niveles de seguridad bajo, sustancial y alto para los medios de identificaci n electr nica expedidos en virtud del mismo.
+2. Los niveles de seguridad bajo, sustancial y alto cumplir n los siguientes criterios, respectivamente:
+a) El nivel de seguridad bajo se refiere a un medio de identificaci n electr nica, en el contexto de un sistema de identificaci n electr nica, que establece un grado limitado de confianza en la identidad pretendida o declarada de una persona y se describe en referencia a las especificaciones t cnicas, las normas y los procedimientos del mismo, entre otros los controles t cnicos, y cuyo objetivo es reducir el riesgo de uso indebido o alteraci n de la identidad.
+b) El nivel de seguridad sustancial se refiere a un medio de identificaci n electr nica, en el contexto de un sistema de identificaci n electr nica, que establece un grado sustancial de confianza en la identidad pretendida o declarada de una persona y se describe en referencia a las especificaciones t cnicas, las normas y los procedimientos del mismo, entre otros los controles t cnicos, y cuyo objetivo es reducir sustancialmente el riesgo de uso indebido o alteraci n de la identidad.
+c) El nivel de seguridad alto se refiere a un medio de identificaci n electr nica, en el contexto de un sistema de identificaci n electr nica, que establece un grado de confianza en la identidad pretendida o declarada de una persona superior al medio de identificaci n electr nica con un nivel de seguridad sustancial, y se describe en referencia a las especificaciones t cnicas, las normas y los procedimientos del mismo, entre otros los controles t cnicos, cuyo objetivo es evitar el uso indebido o alteraci n de la identidad.
+Los medios de identificaci n electr nica en virtud del sistema de identificaci n electr nica con nivel de seguridad alto, deben ser expedidos por un prestador cualificado de servicios de confianza.
+3. La Autoridad de Aplicaci n reglamentar , las especificaciones t cnicas m nimas, las normas y los procedimientos con referencia a los cuales se especificar n los niveles de seguridad bajo, sustancial y alto de los medios de identificaci n electr nica a efectos del apartado 1.
+Estas especificaciones t cnicas m nimas, normas y procedimientos se establecer n en referencia a la fiabilidad y la calidad de los siguientes elementos:
+a) El procedimiento para demostrar y comprobar la identidad de las personas f sicas o jur dicas que solicitan la expedici n de los medios de identificaci n electr nica.
+b) El procedimiento para expedir los medios de identificaci n electr nica solicitados.
+c) El mecanismo de autenticaci n mediante el cual la persona f sica o jur dica utiliza los medios de identificaci n electr nica para confirmar su identidad a una parte usuaria.
+d) La entidad que expide los medios de identificaci n electr nica.
+e) Cualquier otro organismo que intervenga en la solicitud de expedici n de los medios de identificaci n electr nica.
+f) Las especificaciones t cnicas y de seguridad de los medios de identificaci n electr nica.
+Las especificaciones t cnicas m nimas, normas y procedimientos indicados en el p rrafo anterior deber n ser cumplidos por el prestador de servicios de confianza para la provisi n de un sistema de identificaci n electr nica.
+4. La Autoridad de Aplicaci n mantendr en su sitio de internet la lista de sistemas de identificaci n electr nica la cual debe ser aprobada por resoluci n ministerial y contener m nimamente:
+a) El nombre del sistema.
+b) Medio de identificaci n electr nica.
+c) Nivel de seguridad.
+d) Responsable del sistema.
+e) Fecha de vigencia.
+Art culo 32. Violaci n de la seguridad.
+1. En caso de que el sistema de identificaci n electr nica aprobado por resoluci n ministerial, o la autenticaci n a que se refiere el art culo 30, inciso e), hayan sido violados o puestos parcialmente en peligro de una forma que afecte a la fiabilidad de la autenticaci n de dicho sistema, la Autoridad de Aplicaci n suspender o revocar sin dilaciones indebidas dicha autenticaci n e informar .
+2. Cuando se haya subsanado la violaci n o la puesta en peligro a que se refiere el apartado 1, la Autoridad de Aplicaci n restablecer la autenticaci n e informar .
+3. Si la violaci n o la puesta en peligro a que se refiere el apartado 1 no se corrige en un plazo de tres meses a partir de la suspensi n o revocaci n, la Autoridad de Aplicaci n informar la inhabilitaci n del sistema de identificaci n electr nica y la exclusi n de la lista de sistemas de identificaci n electr nica a la que refiere el art culo 31 apartado 4.
+4. La Autoridad de Aplicaci n publicar en su sitio de internet las informaciones mencionadas en los apartados 1, 2 y 3 de este art culo, as como las modificaciones correspondientes a la lista a que refiere el art culo 31, apartado 4, sin dilaciones indebidas.
+Secci n VII
+Certificados electr nicos
+Art culo 33. Vigencia y caducidad de los certificados electr nicos.
+1. Los certificados electr nicos se extinguen por caducidad a la expiraci n de su per odo de vigencia.
+2. El per odo de vigencia de los certificados cualificados no ser superior a cuatro a os. Dicho per odo se fijar en atenci n a las caracter sticas y tecnolog as empleadas para generar los datos de creaci n de firma o sello, o de autenticaci n de sitio web.
+Art culo 34. Revocaci n y suspensi n de los certificados electr nicos.
+1. Los prestadores de servicios de confianza extinguir n la vigencia de los certificados electr nicos mediante revocaci n en los siguientes supuestos:
+a) Solicitud formulada por el firmante, la persona f sica o jur dica representada por ste, un tercero autorizado, el creador del sello o el titular del certificado de autenticaci n de sitio web.
+b) Violaci n o puesta en peligro del secreto de los datos de creaci n de firma o de sello, o del prestador de servicios de confianza, o de autenticaci n de sitio web, o utilizaci n indebida de dichos datos por un tercero.
+c) Resoluci n judicial o administrativa competente que lo ordene.
+d) Fallecimiento del firmante; incapacidad sobrevenida, total o parcial, del firmante; extinci n de la personalidad jur dica o disoluci n del creador del sello, y cambio de nombre de dominio en el supuesto de un certificado de autenticaci n de sitio web.
+e) Cese en la actividad del prestador de servicios de confianza salvo que la gesti n de los certificados electr nicos expedidos por aqu l sea transferida a otro prestador de servicios de confianza.
+f) Descubrimiento de la falsedad o inexactitud de los datos aportados para la expedici n del certificado y que consten en l, o alteraci n posterior de las circunstancias verificadas para la expedici n del certificado.
+g) Cualquier otra causa l cita prevista en la declaraci n de pr cticas del servicio de confianza.
+2. Los prestadores de servicios pueden suspender la vigencia de los certificados electr nicos en los supuestos previstos en los incisos a), c) y g) del apartado anterior, as como en los casos de duda sobre la concurrencia de las circunstancias previstas en sus incisos b) y f), siempre que sus declaraciones de pr cticas de certificaci n prevean la posibilidad de suspender los certificados.
+3. En su caso, y de manera previa o simult nea a la indicaci n de la revocaci n o suspensi n de un certificado electr nico cualificado en el servicio de consulta sobre el estado de validez o revocaci n de los certificados por l expedidos, el prestador de servicios de confianza informar al firmante acerca de esta circunstancia, especificando los motivos, la fecha y la hora en que el certificado quedar sin efecto.
+En los casos de suspensi n, la vigencia del certificado se extinguir si transcurrido el plazo de duraci n de la suspensi n, el prestador no la hubiera levantado.
+Art culo 35. Identidad y atributos de los titulares de certificados cualificados.
+1. La identidad del titular en los certificados cualificados se consigna de la siguiente forma:
+a) En el supuesto de certificados de firma electr nica y de autenticaci n de sitio web expedidos a personas f sicas, por sus nombres, apellidos, n mero de documento de identidad, o a trav s de un seud nimo que conste como tal de manera inequ voca. El n mero de documento de identidad podr sustituirse por otro c digo o n mero identificativo cuando el firmante carezca de l, siempre que le identifique un vocamente.
+b) En el supuesto de certificados de sello electr nico y de autenticaci n de sitio web expedidos a personas jur dicas, por su denominaci n o raz n social y su n mero de registro nico de contribuyente. En defecto de ste, deber indicarse otro c digo identificativo que le identifique un vocamente, si el creador del sello lo tuviera.
+Art culo 36. Comprobaci n de la identidad y otras circunstancias de los solicitantes de un certificado cualificado.
+1. La identificaci n de la persona f sica que solicite un certificado cualificado exige su presencia f sica ante los encargados de verificarla y se acredita mediante un documento de identidad vigente.
+Puede prescindirse de la presencia f sica de la persona que solicite un certificado cualificado si su firma en la solicitud de expedici n de un certificado cualificado ha sido legitimada en presencia notarial.
+2. La Autoridad de Aplicaci n puede determinar las condiciones y requisitos aplicables a la verificaci n de la identidad y, si procede, otros atributos espec ficos de la persona solicitante de un certificado cualificado mediante otros medios de identificaci n que aporten una seguridad equivalente en t rminos de fiabilidad a la presencia f sica.
+3. En el caso de certificados cualificados de sello electr nico los prestadores de servicios de confianza comprobar n, adem s de los datos se alados en los apartados anteriores, los datos relativos a la constituci n y personer a jur dica y a la persona o entidad representada, respectivamente, as como la extensi n y vigencia de las facultades de representaci n del solicitante mediante los documentos que sirvan para acreditar los extremos citados de manera fehaciente y su inscripci n en el correspondiente registro p blico.
+Esta comprobaci n puede realizarse, asimismo, mediante consulta en el registro p blico en el que est n inscriptos los documentos de constituci n y de apoderamiento, pudiendo emplear los medios telem ticos facilitados por los citados registros p blicos.
+4. Cuando el certificado cualificado contenga otras circunstancias personales o atributos del solicitante, stas deben comprobarse mediante los documentos que las acrediten, de conformidad con su normativa espec fica.
+5. Lo dispuesto en los apartados anteriores puede no ser exigible en los siguientes casos:
+a) Cuando la identidad u otras circunstancias permanentes de los solicitantes de los certificados constaran ya al prestador de servicios de confianza en virtud de una relaci n preexistente, en la que, para la identificaci n del interesado, se hubieran empleado los medios se alados en este art culo y el per odo de tiempo transcurrido desde la identificaci n es menor de cuatro a os.
+b) Cuando para solicitar un certificado se utilice otro vigente para cuya expedici n se hubiera identificado a la persona f sica solicitante en la forma prescripta en este art culo y le conste al prestador de servicios que el per odo de tiempo transcurrido desde la identificaci n es menor de cuatro a os.
+La forma en que se ha procedido a identificar a la persona f sica solicitante puede constar en el certificado. En otro caso, los prestadores de servicios deben colaborar entre s para determinar cu ndo se produjo la ltima personaci n o medio equivalente de identificaci n al que alude el apartado 2.
+Art culo 37. C dula de identidad electr nica.
+1. La c dula de identidad electr nica es el documento de identidad que acredita electr nicamente la identidad personal de su titular y permite la firma electr nica de documentos.
+2. La c dula de identidad electr nica deber expedirse en virtud a un sistema de identificaci n electr nica alto conforme a las disposiciones de la presente ley.
+Art culo 38. Requisitos y caracter sticas de la c dula de identidad electr nica.
+1. El Departamento de Identificaciones de la Polic a Nacional es el rgano competente para la expedici n de la c dula de identidad electr nica, cumplir las obligaciones que la presente ley impone a los prestadores de servicios de confianza que expidan certificados cualificados.
+2. El Ministerio de Interior a trav s del Departamento de Identificaciones de la Polic a Nacional debe nicamente emitir certificado cualificado de firma electr nica utilizando dispositivo cualificado de creaci n de firma electr nica contenido en la c dula de identidad.
+Secci n VIII
+Firma electr nica
+Art culo 39. Efecto jur dico y admisibilidad de la firma electr nica.
+1. No se negar n efectos jur dicos ni admisibilidad en procedimientos privados, judiciales y administrativos a una firma electr nica por el mero hecho de ser una firma electr nica o porque no cumpla los requisitos de la firma electr nica cualificada.
+2. Una firma electr nica cualificada tiene un efecto jur dico equivalente al de una firma manuscrita.
+3. El p rrafo 2 ser aplicable tanto si el requisito en l previsto est expresado en forma de obligaci n como si la ley simplemente prev consecuencias en el caso de que no exista una firma.
+Art culo 40. Impugnaci n de una firma electr nica.
+1. Si se impugnare la autenticidad de la firma electr nica, con la que se hayan firmado los datos incorporados al documento electr nico, se estar conforme con lo establecido en el art culo 404 del C digo Civil Paraguayo.
+2. Si se impugnare la autenticidad de la firma electr nica cualificada con la que se hayan firmado los datos incorporados al documento electr nico se proceder a comprobar que se trata de una firma electr nica basada en un certificado cualificado, que cumple todos los requisitos y condiciones establecidos en la presente ley para este tipo de certificados, as como que la firma se ha generado mediante un dispositivo cualificado de creaci n de firma electr nica. La carga de realizar las citadas comprobaciones corresponde a quien alegue que la firma es falsa. Si dichas comprobaciones obtienen un resultado positivo, se tendr por acreditada la autenticidad de la firma electr nica cualificada con la que se haya firmado dicho documento electr nico. En principio, la carga de la prueba incumbe a quien alegue la falsedad de la firma salvo excepciones previstas por la ley.
+Art culo 41. Empleo de la firma electr nica en el mbito de la Administraci n P blica.
+1. La presente ley se aplica al uso de la firma electr nica en el seno de las administraciones p blicas, sus organismos p blicos y las entidades dependientes o vinculadas a las mismas y en las relaciones que mantengan aqu llas y stos entre s o con los particulares.
+Las administraciones p blicas, con el objeto de salvaguardar las garant as de cada procedimiento, pueden establecer condiciones adicionales a la utilizaci n de la firma electr nica en los procedimientos.
+2. Estas condiciones ser n objetivas, proporcionadas, transparentes y no discriminatorias y no deben obstaculizar la prestaci n de servicios al ciudadano cuando intervengan distintas dependencias de la Administraci n P blica.
+3. Las normas que establezcan condiciones generales adicionales para el uso de la firma electr nica ante la Administraci n General del Estado, sus organismos p blicos y las entidades dependientes o vinculadas a las mismas se dictar n a propuesta del Ministerio de Tecnolog as de la Informaci n y Comunicaci n (MITIC), para el impulso del Gobierno Electr nico.
+4. La utilizaci n de la firma electr nica en las comunicaciones que afecten a la informaci n clasificada, a la seguridad p blica o a la defensa nacional se regir n por su normativa espec fica.
+Art culo 42. Certificados cualificados de firma electr nica.
+1. Los certificados cualificados de firma electr nica cumplir n los requisitos establecidos en el art culo 43.
+2. Los certificados cualificados de firma electr nica no estar n sometidos a ning n requisito obligatorio que exceda de los requisitos establecidos en el art culo 43.
+3. Los certificados cualificados de firmas electr nicas pueden incluir atributos espec ficos adicionales no obligatorios. Esos atributos no afectar n a la interoperabilidad y el reconocimiento de las firmas electr nicas cualificadas.
+4. Si un certificado cualificado de firma electr nica ha sido revocado despu s de su activaci n inicial, pierde su validez desde el momento de su revocaci n y no puede en ninguna circunstancia recuperar su estado.
+5. Seg n las condiciones que siguen, la Autoridad de Aplicaci n puede fijar normas sobre la suspensi n temporal de certificados cualificados de firma electr nica:
+a) Si un certificado cualificado de firma electr nica ha sido suspendido temporalmente, ese certificado pierde su validez durante el per odo de suspensi n.
+b) El per odo de suspensi n se indicar claramente en la base de datos de certificados y el estado de suspensi n ser visible, durante el per odo de suspensi n, a partir del servicio que proporcione la informaci n sobre el estado del certificado.
+6. La Autoridad de Aplicaci n reglamentar las normas relativas a los certificados cualificados de firma electr nica. Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en el art culo 43 cuando un certificado cualificado de firma electr nica se ajuste a lo dispuesto en dichas normas.
+Art culo 43. Requisitos de los certificados cualificados de firma electr nica.
+Los certificados cualificados de firma electr nica contienen :
+a) Una indicaci n, al menos en un formato adecuado para el procesamiento autom tico, de que el certificado ha sido expedido como certificado cualificado de firma electr nica.
+b) Un conjunto de datos que represente inequ vocamente al prestador cualificado de servicios de confianza que expide los certificados cualificados:
+- Para personas jur dicas: el nombre y el n mero de registro nico del contribuyente seg n conste en el documento respectivo.
+- Para personas f sicas, el nombre de la persona y el n mero de documento de identidad o el n mero de registro nico del contribuyente seg n conste en el documento respectivo.
+c) Al menos el nombre del firmante o un seud nimo; si se usara un seud nimo, se indicar claramente.
+d) Datos de validaci n de la firma electr nica que correspondan a los datos de creaci n de la firma electr nica.
+e) Los datos relativos al inicio y final del per odo de validez del certificado.
+f) El c digo de identidad del certificado, que debe ser nico para el prestador cualificado de servicios de confianza.
+g) La firma electr nica o el sello electr nico del prestador de servicios de confianza expedidor.
+h) El lugar en que est disponible gratuitamente el certificado que respalda la firma electr nica o el sello electr nico a que se hace referencia en el inciso g).
+i) La localizaci n de los servicios que pueden utilizarse para consultar el estado de validez del certificado cualificado.
+j) Cuando los datos de creaci n de firma electr nica relacionados con los datos de validaci n de firma electr nica se encuentren en un dispositivo cualificado de creaci n de firma electr nica, una indicaci n adecuada de esto, al menos en una forma apta para el procesamiento autom tico.
+Art culo 44. Requisitos de los dispositivos cualificados de creaci n de firma electr nica.
+1. Los dispositivos cualificados de creaci n de firmas electr nicas cumplir n los siguientes requisitos garantizando como m nimo, por medios t cnicos y de procedimiento adecuados, que:
+a) Est garantizada razonablemente la confidencialidad de los datos de creaci n de firma electr nica utilizados para la creaci n de firmas electr nicas.
+b) Los datos de creaci n de firma electr nica utilizados para la creaci n de firma electr nica s lo puedan aparecer una vez en la pr ctica.
+c) Exista la seguridad razonable de que los datos de creaci n de firma electr nica utilizados para la creaci n de firma electr nica no pueden ser hallados por deducci n y de que la firma est protegida con seguridad contra la falsificaci n mediante las tecnolog as disponibles en el momento.
+d) Los datos de creaci n de la firma electr nica utilizados para la creaci n de firma electr nica puedan ser protegidos por el firmante leg timo de forma fiable frente a su utilizaci n por otros.
+2. Los dispositivos cualificados de creaci n de firmas electr nicas no alterar n los datos que deben firmarse ni impedir n que dichos datos se muestren al firmante antes de firmar.
+3. La generaci n o la gesti n de los datos de creaci n de la firma electr nica en nombre del firmante s lo podr n correr a cargo de un prestador cualificado de servicios de confianza.
+4. Sin perjuicio del inciso d) del punto 1, los prestadores cualificados de servicios de confianza que gestionen los datos de creaci n de firma electr nica en nombre del firmante podr n duplicar los datos de creaci n de firma nicamente con objeto de efectuar una copia de seguridad de los citados datos siempre que se cumplan los siguientes requisitos:
+a) La seguridad de los conjuntos de datos duplicados es del mismo nivel que para los conjuntos de datos originales.
+b) El n mero de conjuntos de datos duplicados no supera el m nimo necesario para garantizar la continuidad del servicio.
+5. La Autoridad de Aplicaci n reglamentar normas relativas a los dispositivos cualificados de creaci n de firmas electr nicas. Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en este art culo cuando un dispositivo cualificado de creaci n de firmas electr nicas se ajuste a lo dispuesto en dichas normas.
+Art culo 45. Certificaci n de los dispositivos cualificados de creaci n de firmas electr nicas.
+1. La conformidad de los dispositivos cualificados de creaci n de firmas electr nicas con los requisitos que figuran en el art culo 44 ser certificada por los organismos p blicos o privados adecuados designados por la Autoridad de Aplicaci n.
+2. La Autoridad de Aplicaci n mantendr en su sitio de internet los nombres y direcciones de los organismos p blicos o privados a que se refiere el apartado 1.
+3. La certificaci n contemplada en el apartado 1 se basa en los elementos siguientes:
+a) Un proceso de evaluaci n de la seguridad llevado a cabo de conformidad con las normas para la evaluaci n de la seguridad de los productos de tecnolog as de la informaci n incluidos en la lista que se establecer de conformidad con el p rrafo segundo; o,
+b) Un proceso distinto del proceso contemplado en el inciso a), con tal de que ese proceso haga uso de niveles de seguridad equivalentes y que los organismos p blicos o privados a los que se refiere el apartado 1 notifiquen ese proceso a la Autoridad de Aplicaci n. Podr recurrirse a ese proceso nicamente a falta de las normas a que se refiere al inciso a) o cuando est en curso el proceso de evaluaci n de la seguridad a que se refiere al inciso a).
+4. La Autoridad de Aplicaci n reglamentar , la lista de las normas para la evaluaci n de la seguridad de los productos de tecnolog as de la informaci n a que se refiere el inciso a).
+Art culo 46. Publicaci n de una lista de dispositivos cualificados de creaci n de firmas electr nicas certificados.
+1. La Autoridad de Aplicaci n establece, publica y mantiene una lista de dispositivos cualificados de creaci n de firmas electr nicas certificados sin retrasos indebidos y no m s tarde de un mes despu s de que haya concluido la certificaci n, informaci n sobre los dispositivos cualificados de creaci n de firmas electr nicas que hayan sido certificados por los organismos a que se refiere el art culo 45 apartado 1. Del mismo modo establece, publica y mantiene una lista de dispositivos cualificados de creaci n de firmas electr nicas certificados, sin retrasos indebidos y no m s tarde de un mes despu s de que haya expirado la certificaci n, informaci n sobre los dispositivos de creaci n de firmas electr nicas que hayan dejado de estar certificados.
+2. La Autoridad de Aplicaci n reglamentar los formatos y procedimientos aplicables a efectos del apartado 1.
+Art culo 47. Requisitos de la validaci n de las firmas electr nicas cualificadas.
+1. El proceso de validaci n de una firma electr nica cualificada confirma la validez de una firma electr nica cualificada siempre que:
+a) El certificado que respalda la firma fuera, en el momento de la firma, un certificado cualificado de firma electr nica que se ajusta al art culo 43.
+b) El certificado cualificado fuera emitido por un prestador de servicios de confianza y fuera v lido en el momento de la firma.
+c) Los datos de validaci n de la firma corresponden a los datos proporcionados a la parte usuaria.
+d) El conjunto nico de datos que representa al firmante en el certificado se facilite correctamente a la parte usuaria.
+e) En caso de que se utilice un seud nimo, la utilizaci n del mismo se indique claramente a la parte usuaria en el momento de la firma.
+f) La firma electr nica se haya creado mediante un dispositivo cualificado de creaci n de firmas electr nicas.
+g) La integridad de los datos firmados no se haya visto comprometida.
+h) Se hayan cumplido lo dispuesto en el art culo 4 respecto a la definici n de firma electr nica cualificada en el momento de la firma.
+2. El sistema utilizado para validar la firma electr nica cualificada ofrece a la parte usuaria el resultado correcto del proceso de validaci n y le permite detectar cualquier problema que afecte a la seguridad.
+3. La Autoridad de Aplicaci n reglamentar normas relativas a la validaci n de las firmas electr nicas cualificadas. Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en el apartado 1 cuando la validaci n de una firma electr nica cualificada se ajuste a lo dispuesto en dichas normas.
+Art culo 48. Servicio de validaci n cualificado de firmas electr nicas cualificadas.
+1. Solo puede prestar un servicio de validaci n cualificado de firmas electr nicas cualificadas el prestador cualificado de servicios de confianza que:
+a) Realice la validaci n de conformidad con el art culo 47, apartado 1.
+b) Permita que las partes usuarias reciban el resultado del proceso de validaci n de una manera automatizada que sea fiable, eficiente e incluya la firma electr nica o el sello electr nico del prestador cualificado de servicio de validaci n.
+2. La Autoridad de Aplicaci n reglamentar normas relativas al servicio de validaci n cualificado a que se refiere el apartado 1. Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en el apartado 1 cuando la validaci n de una firma electr nica cualificada se ajuste con lo dispuesto en l en dichas normas.
+Art culo 49. Servicio cualificado de conservaci n de firmas electr nicas cualificadas.
+1. Solo puede prestar un servicio cualificado de conservaci n de firmas electr nicas cualificadas el prestador cualificado de servicios de confianza que utilice procedimientos y tecnolog as capaces de ampliar la fiabilidad de los datos de la firma electr nica cualificada m s all del per odo de validez tecnol gico.
+2. La Autoridad de Aplicaci n reglamentar normas relativas al servicio cualificado de conservaci n de firmas electr nicas cualificadas. Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en el apartado 1 cuando los mecanismos del servicio cualificado de conservaci n de firmas electr nicas cualificadas se ajusten a lo dispuesto en dichas normas.
+Secci n IX
+Sello electr nico
+Art culo 50. Efectos jur dicos del sello electr nico.
+1. No se negar n efectos jur dicos ni admisibilidad en procedimientos privados, judiciales y administrativos a un sello electr nico por el mero hecho de estar en formato electr nico o de no cumplir los requisitos del sello electr nico cualificado.
+2. Un sello electr nico cualificado garantiza y da certeza de la integridad de los datos y de la correcci n del origen de los datos a los que el sello electr nico cualificado est vinculado.
+3. Cuando una transacci n exija un sello electr nico cualificado de una persona jur dica, debe ser igualmente aceptable una firma electr nica cualificada del representante autorizado de la persona jur dica, sin embargo no debe ser aplicado a la inversa, donde se exija firma electr nica cualificada no podr ser aceptado un sello electr nico cualificado.
+4. Adem s de autenticar el documento expedido por la persona jur dica, los sellos electr nicos pueden utilizarse para autenticar cualquier activo digital de la persona jur dica, como programas inform ticos o servidores, esta menci n resulta meramente enunciativa m s no limitativa.
+Art culo 51. Sellos electr nicos en el mbito de la Administraci n P blica.
+1. La presente ley se aplica al uso de los sellos electr nicos en el seno de las administraciones p blicas, sus organismos p blicos y las entidades dependientes o vinculadas a las mismas y en las relaciones que mantengan aqu llas y stos entre s o con los particulares.
+Las administraciones p blicas, con el objeto de salvaguardar las garant as de cada procedimiento, pueden establecer condiciones adicionales a la utilizaci n de los sellos electr nicos en los procedimientos.
+2. Estas condiciones ser n objetivas, proporcionadas, transparentes y no discriminatorias y no deben obstaculizar la prestaci n de servicios al ciudadano cuando intervengan distintas dependencias de la Administraci n P blica.
+3. Las normas que establezcan condiciones generales adicionales para el uso del sello electr nico ante la Administraci n General del Estado, sus organismos p blicos y las entidades dependientes o vinculadas a las mismas se dictar n a propuesta del Ministerio de Tecnolog as de la Informaci n y Comunicaci n (MITIC), para el impulso del Gobierno Electr nico.
+4. La utilizaci n de los sellos electr nicos en las comunicaciones que afecten a la informaci n clasificada, a la seguridad p blica o a la defensa nacional se regir n por su normativa espec fica.
+Art culo 52. Certificados cualificados de sello electr nico.
+1. Los certificados cualificados de sello electr nico cumplir n los requisitos establecidos en el art culo 53.
+2. Los certificados cualificados de sello electr nico no est n sometidos a ning n requisito obligatorio que exceda de los requisitos establecidos en el art culo 53.
+3. Los certificados cualificados de sello electr nico pueden incluir atributos espec ficos adicionales no obligatorios. Esos atributos no afectar n a la interoperabilidad y reconocimiento de los sellos electr nicos cualificados.
+4. Si un certificado cualificado de sello electr nico ha sido revocado despu s de su activaci n inicial, pierde su validez desde el momento de su revocaci n y no puede en ninguna circunstancia recuperar su estado.
+5. Seg n las condiciones expuestas a continuaci n, la Autoridad de Aplicaci n fijar normas sobre la suspensi n temporal de certificados cualificados de sello electr nico:
+a) Si un certificado cualificado de sello electr nico ha sido suspendido temporalmente, ese certificado pierde su validez durante el per odo de suspensi n.
+b) El per odo de suspensi n se indicar claramente en la base de datos de certificados y el estado de suspensi n ser visible, durante el per odo de suspensi n, a partir del servicio que proporcione la informaci n sobre el estado del certificado.
+6. La Autoridad de Aplicaci n reglamentar normas relativas a los certificados cualificados de sello electr nico. Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en el art culo 53 cuando un certificado cualificado de sello electr nico se ajuste a lo dispuesto en dichas normas.
+Art culo 53. Requisitos de los certificados cualificados de sello electr nico.
+Los certificados cualificados de sello electr nico contendr n:
+a) Una indicaci n, al menos en un formato adecuado para el procesamiento autom tico, de que el certificado ha sido expedido como certificado cualificado de sello electr nico.
+b) Un conjunto de datos que represente inequ vocamente al prestador cualificado de servicios de confianza que expide los certificados cualificados, incluyendo como m nimo:
+- Para personas jur dicas: el nombre y el n mero de registro nico del contribuyente seg n conste en el documento respectivo.
+- Para personas f sicas: el nombre de la persona, el n mero de Documento de identidad o el n mero de registro nico del contribuyente seg n conste en el documento respectivo.
+c) Al menos, el nombre del creador del sello y el n mero de registro nico del contribuyente seg n conste en el documento respectivo.
+d) Los datos de validaci n del sello electr nico que correspondan a los datos de creaci n del sello electr nico.
+e) Los datos relativos al inicio y final del per odo de validez del certificado.
+f) El c digo de identidad del certificado, que debe ser nico para el prestador cualificado de servicios de confianza.
+g) La firma electr nica o el sello electr nico del prestador de servicios de confianza del expedidor.
+h) El lugar en que est disponible gratuitamente el certificado que respalda la firma electr nica o el sello a que se hace referencia en el inciso g).
+i) La localizaci n de los servicios que pueden utilizarse para consultar el estado de validez del certificado cualificado.
+j) Cuando los datos de creaci n del sello electr nico relacionados con los datos de validaci n del sello electr nico se encuentren en un dispositivo cualificado de creaci n de sellos electr nicos, una indicaci n adecuada de esto, al menos en una forma apta para el procesamiento autom tico.
+Art culo 54. Dispositivos cualificados de creaci n de sello electr nico.
+1. A los requisitos de los dispositivos cualificados de creaci n de sello electr nico, se aplicar lo dispuesto en el art culo 44.
+2. A la certificaci n de los dispositivos cualificados de creaci n de sello electr nico, se aplicar lo dispuesto en el art culo 45.
+3. A la publicaci n de una lista de dispositivos cualificados de creaci n de sello electr nico certificados, se aplicar lo dispuesto en el art culo 46.
+Art culo 55. Validaci n y conservaci n de sellos electr nicos cualificados.
+A la validaci n y conservaci n de los sellos electr nicos cualificados, se aplicar n las disposiciones de los art culos 47, 48 y 49.
+Secci n X
+Sello de tiempo electr nico
+Art culo 56. Efecto jur dico de los sellos de tiempo electr nicos.
+1. No se negar n efectos jur dicos ni admisibilidad en procedimientos privados, judiciales y administrativos a un sello de tiempo electr nico por el mero hecho de estar en formato electr nico o de no cumplir los requisitos de sello cualificado de tiempo electr nico.
+2. El sello cualificado de tiempo electr nico garantiza y da certeza de exactitud de la fecha y hora que indican y de la integridad de los datos a los que la fecha y hora est n vinculadas.
+Art culo 57. Requisitos de los sellos cualificados de tiempo electr nicos.
+1. Un sello cualificado de tiempo electr nico cumple los requisitos siguientes:
+a) Vincular la fecha y hora con los datos de forma que se elimine razonablemente la posibilidad de modificar los datos sin que se detecte.
+b) Basarse en una fuente de informaci n temporal vinculada al Tiempo Universal Coordinado.
+c) Haber sido firmada mediante el uso de una firma electr nica o sellada con un sello electr nico del prestador cualificado de servicios de confianza.
+2. La Autoridad de Aplicaci n reglamentar normas relativas a la vinculaci n de la fecha y hora con los datos y a una fuente de informaci n temporal exacta. Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en el apartado 1 cuando la vinculaci n de la fecha y hora con los datos y la fuente de informaci n temporal exacta se ajuste a dichas normas.
+Secci n XI
+Servicio de entrega electr nica certificada
+Art culo 58. Efecto jur dico de un servicio de entrega electr nica certificada.
+1. A los datos enviados y recibidos mediante un servicio de entrega electr nica certificada no se les negar n efectos jur dicos, admisibilidad y fuerza probatoria en procedimientos privados, judiciales y administrativos por el mero hecho de que est n en formato electr nico o no cumplan los requisitos de servicio cualificado de entrega electr nica certificada.
+2. Los datos enviados y recibidos mediante un servicio cualificado de entrega electr nica certificada garantiza y da certeza de la integridad de los datos, el env o de dichos datos por el remitente identificado, la recepci n por el destinatario identificado y la exactitud de la fecha y hora de env o y recepci n de los datos que indica el servicio cualificado de entrega electr nica certificada.
+Art culo 59. Requisitos de los servicios cualificados de entrega electr nica certificada.
+1. Los servicios cualificados de entrega electr nica certificada cumplen los requisitos siguientes:
+a) Ser prestados por uno o m s prestadores cualificados de servicios de confianza.
+b) Asegurar con un alto nivel de fiabilidad la identificaci n del remitente.
+c) Garantizar la identificaci n del destinatario antes de la entrega de los datos.
+d) Estar protegidos el env o y recepci n de datos por una firma electr nica o un sello electr nico de un prestador cualificado de servicios de confianza de tal forma que se impida la posibilidad de que se modifiquen los datos sin que se detecte.
+e) Indicar claramente al emisor y al destinatario de los datos cualquier modificaci n de los datos necesarios a efectos del env o o recepci n de los datos.
+f) Indicar mediante un sello cualificado de tiempo electr nico la fecha y hora de env o, recepci n y eventual modificaci n de los datos.
+En caso de que los datos se transfieran entre dos o m s prestadores cualificados de servicios de confianza, se aplicar n los requisitos establecidos en los incisos a) a f) a todos los prestadores cualificados de servicios de confianza.
+2. La Autoridad de Aplicaci n reglamentar normas relativas a los procesos de env o y recepci n de datos. Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en el apartado 1 cuando el proceso de env o y recepci n de datos se ajuste a dichas normas.
+Secci n XII
+Autenticaci n de sitios web
+Art culo 60. Servicios de autenticaci n de sitios web.
+Proporcionan un medio por el que puede garantizarse a la persona que visita un sitio web que existe una entidad aut ntica y leg tima que respalda su existencia.
+Los servicios de autenticaci n de sitios web de un prestador extranjero solamente se reconocer n como servicios cualificados de conformidad con la presente ley en caso de que se haya celebrado un acuerdo internacional.
+Art culo 61. Requisitos de los certificados cualificados de autenticaci n de sitios web.
+1. Los certificados cualificados de autenticaci n de sitios web contienen:
+a) Una indicaci n, al menos en un formato adecuado para el procesamiento autom tico, de que el certificado ha sido expedido como certificado cualificado de autenticaci n de sitio web.
+b) Un conjunto de datos que represente inequ vocamente al prestador cualificado de servicios de confianza que expide los certificados cualificados.
+- Para personas jur dicas: el nombre y, cuando proceda, el n mero de registro nico del contribuyente seg n conste en el documento respectivo.
+- Para personas f sicas: el nombre de la persona, el n mero de documento de identidad o el n mero de registro nico del contribuyente seg n conste en el documento respectivo.
+c) Para personas f sicas: al menos el nombre de la persona a la que se expida el certificado, o un seud nimo; si se usara un seud nimo, se indicar claramente.
+Para personas jur dicas: al menos el nombre de la persona jur dica a la que se expida el certificado y, cuando proceda, el n mero de registro, tal como se recojan en los registros oficiales.
+d) Elementos de la direcci n, incluida al menos la ciudad y el pa s, de la persona f sica o jur dica a quien se expida el certificado, y, cuando proceda, seg n figure en los registros oficiales.
+e) El nombre o los nombres de dominio explotados por la persona f sica o jur dica a la que se expida el certificado.
+f) Los datos relativos al inicio y final del per odo de validez del certificado.
+g) El c digo de identidad del certificado, que debe ser nico para el prestador cualificado de servicios de confianza.
+h) La firma electr nica o el sello electr nico del prestador de servicios de confianza expedidor.
+i) El lugar en que est disponible gratuitamente el certificado que respalda la firma electr nica o el sello electr nico a que se hace referencia en el inciso h).
+j) La localizaci n de los servicios que pueden utilizarse para consultar el estado de validez del certificado cualificado.
+2. La Autoridad de Aplicaci n reglamentar normas relativas a los certificados cualificados de autenticaci n de sitios web. Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en el apartado 1 cuando un certificado cualificado de autenticaci n de sitios web se ajuste a dichas normas.
+T TULO TERCERO
+DOCUMENTOS ELECTR NICOS
+Secci n I
+Documentos electr nicos
+Art culo 62. Efectos jur dicos y admisibilidad de los documentos electr nicos.
+1. No se negar n efectos jur dicos ni admisibilidad en procedimientos privados, judiciales y administrativos a un documento electr nico por el mero hecho de estar en formato electr nico.
+2. No se negar n efectos jur dicos, validez ni fuerza obligatoria a la informaci n por la sola raz n de que no est contenida en el documento electr nico que se supone ha de dar lugar a este efecto jur dico, sino que figure simplemente en el documento electr nico en forma de remisi n.
+3. Cuando la ley requiera que la informaci n conste por escrito, ese requisito quedar satisfecho con un documento electr nico si la informaci n que este contiene es accesible para su ulterior consulta.
+4. El p rrafo 3 ser aplicable tanto si el requisito en l previsto est expresado en forma de obligaci n como si la ley simplemente prev consecuencias en el caso de que la informaci n no conste por escrito.
+5. Al valorar la fuerza probatoria de un documento electr nico se habr de tener presente la fiabilidad de la forma en la que se haya generado, archivado o comunicado, la fiabilidad de la forma en la que se haya conservado la integridad de la informaci n, la forma en la que se identifique a su remitente y cualquier otro factor pertinente.
+Art culo 63. Soporte del documento electr nico.
+1. El documento electr nico ser soporte de:
+a) Instrumentos p blicos, por estar firmados electr nicamente conforme a las caracter sticas establecidas en el Libro Segundo Cap tulo III Secci n II par grafo I y II del C digo Civil Paraguayo los cuales deben suscribirse mediante firma electr nica cualificada.
+b) Instrumentos privados, firmados electr nicamente conforme a las caracter sticas establecidas en el Libro Segundo Cap tulo III Secci n II par grafo III del C digo Civil Paraguayo en cuanto hayan sido suscritos con firma electr nica cualificada acreditar n la autenticidad de la firma y la identidad de su titular. Sin embargo, no har n fe respecto de su fecha, a menos que sta conste a trav s de un sello electr nico de tiempo otorgado por un prestador cualificado de servicios de confianza.
+2. El soporte en que se hallen los datos firmados electr nicamente ser admisible como prueba documental en procedimientos judiciales y administrativos.
+Art culo 64. Original.
+1. Cuando la ley requiera que la informaci n sea presentada y conservada en su forma original, ese requisito quedar satisfecho con un documento electr nico:
+a) Si existe alguna garant a fidedigna de que se ha conservado la integridad de la informaci n a partir del momento en que se gener por primera vez en su forma definitiva, como documento electr nico o en alguna otra forma.
+b) De requerirse que la informaci n sea presentada, si dicha informaci n puede ser mostrada a la persona a la que se deba presentar.
+2. El p rrafo 1 es aplicable tanto si el requisito en l previsto est expresado en forma de obligaci n como si la ley simplemente prev consecuencias en el caso de que la informaci n no sea presentada o conservada en su forma original.
+3. Para los fines del inciso a) del p rrafo 1:
+a) La integridad de la informaci n ser evaluada conforme al criterio de que haya permanecido completa e inalterada, salvo la adici n de alg n endoso o de alg n cambio que sea inherente al proceso de su comunicaci n, archivo o presentaci n.
+b) El grado de fiabilidad requerido ser determinado a la luz de los fines para los que se gener la informaci n y de todas las circunstancias del caso.
+Art culo 65. Copia electr nica.
+1. Las copias realizadas por medios electr nicos de documentos electr nicos por los rganos competentes de la administraci n p blica y judicial que las expiden, manteni ndose o no el formato original, tendr n la consideraci n de copias aut nticas, siempre que el documento electr nico original se encuentre en poder de la administraci n p blica o judicial donde haya sido originado o incorporado y que la informaci n de firma electr nica y, en su caso, de sellado de tiempo permitan comprobar la coincidencia con dicho documento.
+Si se alterase el formato original, deber incluirse en los metadatos la condici n de copia.
+2. Las copias realizadas por rganos competentes de la administraci n p blica y judicial, utilizando medios electr nicos, de documentos emitidos originalmente por ellas en soporte papel tendr n la consideraci n de copias aut nticas siempre que la copia contenga una firma electr nica cualificada del responsable autorizado o en su caso el sello electr nico.
+3. Los rganos competentes de la administraci n p blica y judicial podr n obtener im genes electr nicas de los documentos privados aportados por los ciudadanos, con su misma validez y eficacia, a trav s de procesos de digitalizaci n certificada conforme a la presente ley.
+4. Las copias realizadas en soporte papel de documentos judiciales o administrativos de documentos electr nicos y firmados electr nicamente por el responsable autorizado tendr n la consideraci n de copias aut nticas, siempre que incluyan la impresi n de un c digo seguro de verificaci n que permita contrastar su autenticidad mediante el acceso a los archivos electr nicos del rgano o entidad judicial o administrativo emisor.
+Art culo 66. Conservaci n de los documentos electr nicos.
+1. Cuando la ley requiera que ciertos documentos, registros o informaciones sean conservados, ese requisito quedar satisfecho mediante la conservaci n del documento electr nico, siempre que se cumplan las condiciones siguientes:
+a) Que la informaci n que contengan sea accesible para su ulterior consulta.
+b) Que el documento electr nico sea conservado con el formato en que se haya generado, enviado o recibido o con alg n formato que sea demostrable que reproduce con exactitud la informaci n generada, enviada o recibida.
+c) Que se conserve, de haber alguno, todo dato que permita determinar el origen y el destino del documento, y la fecha y la hora en que fue enviado o recibido.
+2. La obligaci n de conservar ciertos documentos, registros o informaciones conforme con lo dispuesto en el apartado 1 no ser aplicable a aquellos datos que tengan por nica finalidad facilitar el env o o recepci n del documento.
+3. Toda persona podr recurrir a los servicios de un tercero para observar el requisito mencionado en el p rrafo 1, siempre que se cumplan las condiciones enunciadas en los incisos a), b) y c) del p rrafo 1.
+Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en el presente art culo cuando la conservaci n de los documentos electr nicos se ajuste a las normas conforme al art culo 77.
+Art culo 67. Formaci n y validez de los contratos.
+En la formaci n de un contrato, de no convenir las partes lo contrario, la oferta y su aceptaci n podr n ser expresadas por medio de un documento electr nico. No se negar validez o fuerza probatoria a un contrato por la sola raz n de haberse utilizado en su formaci n un documento electr nico.
+Secci n II
+Env o y recepci n de los documentos electr nicos
+Art culo 68. Reconocimiento por las partes de los documentos electr nicos.
+En las relaciones entre el remitente y el destinatario de documentos electr nicos, no se negar n efectos jur dicos, validez o fuerza obligatoria a una manifestaci n de voluntad u otra declaraci n por la sola raz n de haberse hecho en forma de documentos electr nicos.
+Art culo 69. Atribuci n de los documentos electr nicos.
+1. Un documento electr nico proviene del remitente si ha sido enviado por el propio remitente.
+2. En las relaciones entre el remitente y el destinatario, se entender que un documento electr nico proviene del remitente si ha sido enviado:
+a) Por alguna persona facultada para actuar en nombre del remitente respecto de ese documento electr nico; o,
+b) Por un sistema de informaci n programado por el remitente o en su nombre para que opere autom ticamente.
+3. En las relaciones entre el remitente y el destinatario, el destinatario tendr derecho a considerar que un documento electr nico proviene del remitente y a actuar en consecuencia, cuando:
+a) Para comprobar que el documento electr nico proven a del remitente, el destinatario haya aplicado adecuadamente un procedimiento aceptado previamente por el remitente con ese fin; o,
+b) El documento electr nico que reciba el destinatario resulte de los actos de una persona cuya relaci n con el remitente, o con alg n mandatario suyo, le haya dado acceso a alg n m todo utilizado por el remitente para identificar un documento electr nico como propio.
+4. El p rrafo 3 no se aplica:
+a) A partir del momento en que el destinatario haya sido informado por el remitente de que el documento electr nico no proven a del remitente y haya dispuesto de un plazo razonable para actuar en consecuencia; o,
+b) En los casos previstos en el inciso b) del p rrafo 3, desde el momento en que el destinatario sepa, o debiera saber de haber actuado con la debida diligencia o de haber aplicado alg n m todo convenido, que el documento electr nico no proven a del remitente.
+5. Siempre que un documento electr nico provenga del remitente o que se entienda que proviene de l, o siempre que el destinatario tenga derecho a actuar con arreglo a este supuesto, en las relaciones entre el remitente y el destinatario, el destinatario tendr derecho a considerar que el documento electr nico recibido corresponde al que quer a enviar el remitente, y podr actuar en consecuencia. El destinatario no gozar de este derecho si sab a, o hubiera sabido de haber actuado con la debida diligencia o de haber aplicado alg n m todo convenido, que la transmisi n hab a dado lugar a alg n error en el documento electr nico recibido.
+6. El destinatario tendr derecho a considerar que cada documento electr nico recibido es un documento electr nico separado y a actuar en consecuencia, salvo en la medida en que duplique otro documento electr nico, y que el destinatario sepa, o debiera saber de haber actuado con la debida diligencia o de haber aplicado alg n m todo convenido, que el documento electr nico era un duplicado.
+Art culo 70. Acuse de recibo.
+1. Los p rrafos 2 al 4, del presente art culo son aplicables cuando, al enviar o antes de enviar un documento electr nico, el remitente solicite o acuerde con el destinatario que se acuse recibo del documento electr nico.
+2. Cuando el remitente no haya acordado con el destinatario que el acuse de recibo se d en alguna forma determinada o utilizando un m todo determinado, se podr acusar recibo mediante:
+a) Toda comunicaci n del destinatario, automatizada o no; o,
+b) Todo acto del destinatario, que baste para indicar al remitente que se ha recibido el documento electr nico.
+3. Cuando el remitente haya indicado que los efectos del documento electr nico estar n condicionados a la recepci n de un acuse de recibo, se considerar que el documento electr nico no ha sido enviado en tanto que no se haya recibido el acuse de recibo.
+4. Cuando el remitente no haya indicado que los efectos del documento electr nico estar n condicionados a la recepci n de un acuse de recibo, si no ha recibido acuse en el plazo fijado o convenido o no se ha fijado o convenido ning n plazo, en un plazo razonable el remitente:
+a) Podr dar aviso al destinatario de que no ha recibido acuse de recibo y fijar un plazo razonable para su recepci n.
+b) De no recibirse acuse dentro del plazo fijado conforme al inciso a), podr , dando aviso de ello al destinatario, considerar que el documento electr nico no ha sido enviado o ejercer cualquier otro derecho que pueda tener.
+5. Cuando el remitente reciba acuse de recibo del destinatario, se presumir que ste ha recibido el documento electr nico correspondiente. Esa presunci n no implicar que el documento electr nico corresponda al documento recibido.
+6. Cuando en el acuse de recibo se indique que el documento electr nico recibido cumple con los requisitos t cnicos convenidos o enunciados en alguna norma t cnica aplicable, se presumir que ello es as .
+7. Salvo en lo que se refiere al env o o recepci n del documento electr nico, el presente art culo no obedece al prop sito de regir las consecuencias jur dicas que puedan derivarse de ese documento electr nico o de su acuse de recibo.
+Art culo 71. Tiempo y lugar del env o y la recepci n de un documento electr nico.
+1. De no convenir lo contrario el remitente y el destinatario, el documento electr nico se tendr por expedido cuando ingrese en un sistema de informaci n que no est bajo el control del remitente o de la persona que envi el documento electr nico en nombre del remitente.
+2. De no convenir lo contrario el remitente y el destinatario, el momento de recepci n de un documento electr nico se determinar como sigue:
+a) Si el destinatario ha designado un sistema de informaci n para la recepci n del documento electr nico, la recepci n tendr lugar:
+i) En el momento en que ingrese el documento electr nico en el sistema de informaci n designado; o,
+ii) De enviarse el documento electr nico a un sistema de informaci n del destinatario que no sea el sistema de informaci n designado, en el momento en que el destinatario recupere el documento electr nico.
+b) Si el destinatario no ha designado un sistema de informaci n, la recepci n tendr lugar al entrar el documento electr nico en un sistema de informaci n del destinatario.
+3. El p rrafo 2 ser aplicable aun cuando el sistema de informaci n est ubicado en un lugar distinto de donde se tenga por recibido el documento conforme al p rrafo 4.
+4. De no convenir lo contrario el remitente y el destinatario, el documento electr nico se tendr por expedido en el lugar donde el remitente tenga su establecimiento y por recibido en el lugar donde el destinatario tenga el suyo. Para los fines del presente p rrafo:
+a) Si el remitente o el destinatario tienen m s de un establecimiento, su establecimiento ser el que guarde una relaci n m s estrecha con la operaci n subyacente o, de no haber una operaci n subyacente, su establecimiento principal.
+b) Si el remitente o el destinatario no tienen establecimiento, se tendr en cuenta su lugar de residencia habitual.
+Secci n III
+Digitalizaci n certificada
+Art culo 72. Disposiciones Generales.
+1. El documento original en soporte papel reproducido en formato electr nico a trav s del procedimiento de digitalizaci n certificada ser considerado original y como consecuencia con valor probatorio como tal.
+2. Cuando por mandato de una ley se establezca que un documento en formato papel deba ser conservado en el tiempo, se considerar satisfecho con un documento reproducido en formato electr nico a trav s del procedimiento de digitalizaci n certificada ajustado a las disposiciones de los art culos 64 y 66 de la presente ley.
+3. El documento as digitalizado permite prescindir del original en papel y habilita su destrucci n siempre y cuando se cumpla con lo requerido en el numeral 2.
+4. La Autoridad de Aplicaci n, reglamentar las condiciones para la destrucci n de documentos originales en formato papel.
+5. Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en la presente secci n cuando la digitalizaci n certificada se ajuste a las normas conforme al art culo 77.
+Art culo 73. Exclusiones.
+Los documentos cient ficos, hist ricos y culturales no pueden ser sustituidos mediante proceso de digitalizaci n certificada.
+Art culo 74. Requisitos de la digitalizaci n certificada.
+Este proceso de digitalizaci n debe cumplir los siguientes requisitos:
+a) Que el proceso de digitalizaci n sea realizado por el propio responsable de la conservaci n del documento o bien por un tercero, en nombre y por cuenta de aqu l, utilizando en ambos casos un software de digitalizaci n certificada en los t rminos del inciso d) de este apartado.
+b) Que el proceso de digitalizaci n utilizado garantice la obtenci n de una imagen fiel e ntegra de cada documento digitalizado y que esta imagen digital sea firmada con firma electr nica cualificada o sello electr nico cualificado en base a un certificado electr nico instalado en el sistema de digitalizaci n e invocado por el software de digitalizaci n certificada. Este certificado debe corresponder al responsable de la conservaci n del documento cuando la digitalizaci n certificada se realice por el mismo o al prestador de servicios de confianza en otro caso. Uno u otro, seg n corresponda, deber disponer de los procedimientos y controles necesarios para garantizar la fidelidad del proceso de digitalizaci n certificada.
+c) Que el resultado de la digitalizaci n certificada se organice en torno a una base de datos documental y que por cada documento digitalizado se conserve un campo en el que se contenga la imagen binaria del documento digitalizado o que enlace al archivo que la contenga, en ambos casos con la firma electr nica cualificada de la imagen del documento conforme a como se indica en el inciso b).
+d) Que el responsable de la conservaci n disponga del software de digitalizaci n certificada con las siguientes funcionalidades:
+i) Firma de la base de datos que garantice la integridad de datos.
+ii) Acceso completo y sin demora injustificada a la base de datos. A estos efectos, se entiende por acceso completo aquel que posibilite una consulta en l nea a los datos que permita la visualizaci n de los documentos con todo el detalle de su contenido, la b squeda selectiva, la copia o descarga en l nea en los formatos originales y la impresi n a papel de aquellos documentos que sean necesarios a los efectos de la verificaci n o documentaci n de las actuaciones de control.
+iii) Las entidades desarrolladoras deber n homologar su software de digitalizaci n ante la Autoridad de Aplicaci n.
+Secci n IV
+Expediente electr nico
+Validez jur dica y valor probatorio
+Art culo 75.
+1. En todo proceso privado, judicial y administrativo podr utilizarse el expediente electr nico con id ntica validez jur dica y valor probatorio que el expediente convencional.
+2. En la tramitaci n del expediente electr nico podr utilizarse documento electr nico, firma electr nica, sistemas de informaci n electr nica, domicilio electr nico, siendo esta enumeraci n meramente enunciativa m s no limitativa.
+3. El expediente electr nico podr ser mixto, compuesto por documentos de archivo electr nicos y tradicionales, relacionados entre s , y conservados en parte en soporte electr nico y en parte como expediente tradicional.
+Art culo 76. Condiciones m nimas del expediente electr nico.
+El expediente electr nico deber cumplir con las siguientes condiciones:
+1. Asignar un n mero de identificaci n general a aquellos documentos que puedan generar un nuevo procedimiento, que ser nico e inalterable a lo largo de todo el proceso, permitiendo su identificaci n un voca por cualquier rgano del mbito judicial o administrativo en un entorno de intercambio de datos.
+2. El foliado del expediente electr nico se lleva a cabo mediante un ndice electr nico, que contenga una firma electr nica cualificada del responsable de la conservaci n del expediente o en su caso su sello electr nico cualificado, emitidos por un prestador de servicios de confianza. Este ndice debe garantizar la integridad del expediente electr nico y permitir su recuperaci n siempre que sea preciso, siendo admisible que un mismo documento forme parte de distintos expedientes electr nicos.
+3. La remisi n de expedientes se sustituye a todos los efectos legales por la puesta a disposici n del expediente electr nico, teniendo derecho a obtener copia electr nica del mismo todos aquellos que formen parte del procedimiento en los que tengan la condici n de parte.
+Se tendr por acreditada la autenticidad y el cumplimiento de los requisitos establecidos en la presente secci n cuando el expediente electr nico se ajuste a las normas conforme al art culo 77.
+Art culo 77. Reglamentaci n del T tulo Tercero.
+La Autoridad de Aplicaci n debe de reglamentar las normas relativas a los procesos para la implementaci n e impulso de las disposiciones establecidas en el presente t tulo.
+T tulo CUARTO
+DOCUMENTO TRANSMISIBLE ELECTR NICO
+Secci n I
+Disposiciones Generales
+Art culo 78. Alcance.
+Salvo en los casos previstos en la presente ley, nada de lo dispuesto en ella afectar a la aplicaci n a los documentos transmisibles electr nicos de norma de derecho alguna que rija los documentos o t tulos transmisibles emitidos en papel, incluidas las normas jur dicas aplicables a la protecci n del consumidor.
+Art culo 79. Reconocimiento jur dico de un documento transmisible electr nico.
+1. No se negar n efectos jur dicos, validez ni fuerza ejecutoria a un documento transmisible electr nico por la sola raz n de que est en forma electr nica.
+2. Nada de lo dispuesto en la presente ley obligar a persona alguna a utilizar un documento transmisible electr nico sin su consentimiento.
+3. El consentimiento de una persona para que se utilice un documento transmisible electr nico podr inferirse de su conducta.
+Art culo 80. Exclusiones.
+Las disposiciones previstas para los documentos transmisibles electr nicos no se aplican a los t tulos valores de oferta p blica ni a otros instrumentos de inversi n.
+Art culo 81. Requisitos de informaci n.
+Nada de lo dispuesto en la presente ley afectar a la aplicaci n de norma jur dica alguna que pudiera obligar a una persona a revelar su identidad, la ubicaci n de su establecimiento u otra informaci n, ni eximir de consecuencias jur dicas a ninguna persona que haga a ese respecto declaraciones inexactas, incompletas o falsas.
+Art culo 82. Informaci n adicional contenida en un documento transmisible electr nico.
+Nada de lo dispuesto en la presente ley excluye la posibilidad de incluir en un documento transmisible electr nico otra informaci n adem s de la que figure en un documento o t tulo transmisible emitido en papel.
+Secci n II
+Disposiciones sobre equivalencia funcional
+Art culo 83. Constancia por escrito.
+Cuando la ley requiera que la informaci n conste por escrito, ese requisito se dar por cumplido respecto de un documento transmisible electr nico si la informaci n contenida en l es accesible para su ulterior consulta.
+Art culo 84. Firma.
+Cuando la ley requiera o permita la firma de una persona, ese requisito se dar por cumplido en relaci n con un documento transmisible electr nico si est suscripto con una firma electr nica cualificada para indicar la voluntad que tiene esa persona respecto de la informaci n contenida en el documento transmisible electr nico.
+Art culo 85. Documentos o t tulos transmisibles emitidos en papel.
+1. Cuando la ley requiera que se utilice un documento o t tulo transmisible emitido en papel, ese requisito se cumple con un documento electr nico si:
+a) El documento electr nico contiene la informaci n que ser a obligatorio consignar en un documento o t tulo transmisible emitido en papel.
+b) Se utiliza un m todo fiable que permita:
+i) Determinar que ese documento electr nico es el documento transmisible electr nico.
+ii) Lograr que ese documento electr nico pueda ser objeto de control desde su creaci n hasta que pierde toda validez o eficacia.
+iii) Mantener la integridad de ese documento electr nico.
+2. El criterio para evaluar la integridad consistir en determinar si la informaci n contenida en el documento transmisible electr nico, incluido todo cambio autorizado que se realice desde su creaci n hasta que pierda toda validez o eficacia, se ha mantenido completa y sin alteraciones que no sean alg n cambio sobrevenido en el curso normal de su comunicaci n, archivo o presentaci n.
+Art culo 86. Control.
+1. Cuando la ley requiera o permita la posesi n de un documento o t tulo transmisible emitido en papel, ese requisito se dar por cumplido respecto de un documento transmisible electr nico si se utiliza un m todo fiable:
+a) Para determinar que ese documento transmisible electr nico est bajo el control exclusivo de una persona.
+b) Para identificar a esa persona como la persona que tiene el control.
+2. Cuando la ley requiera o permita que se transfiera la posesi n de un documento o t tulo transmisible emitido en papel, ese requisito se cumplir con respecto a un documento transmisible electr nico mediante la transferencia del control de ese documento transmisible electr nico.
+Secci n III
+Utilizaci n de documentos transmisibles electr nicos
+Art culo 87. Norma de fiabilidad general.
+1. A los efectos de lo dispuesto en los art culos 84, 85, 86, 88, 91, 92 y 93 el m todo mencionado debe:
+a) Ser tan fiable como sea apropiado para cumplir la funci n para la cual se utiliza, atendidas todas las circunstancias del caso, mencionadas a continuaci n:
+i) Norma operacional establecida por la Autoridad de Aplicaci n que sea pertinente para evaluar la fiabilidad.
+ii) La garant a de la integridad de los datos.
+iii) La capacidad de impedir el acceso no autorizado al sistema y su uso no autorizado.
+iv) La seguridad de los equipos y programas inform ticos.
+v) La periodicidad y el alcance de las auditor as realizadas por un rgano independiente autorizado por la Autoridad de Aplicaci n.
+vi) Respecto de la fiabilidad del m todo, la existencia de una declaraci n de un rgano de supervisi n y un rgano de acreditaci n establecidos por la Autoridad de Aplicaci n.
+vii) Cualquier norma aplicable del sector; o,
+b) Haber demostrado en la pr ctica que, por s solo o con el respaldo de otras pruebas, ha cumplido su funci n.
+2. La Autoridad de Aplicaci n debe reglamentar las normas relativas a la fiabilidad. Se tendr por acreditado el cumplimiento de los requisitos establecidos en la presente secci n cuando el proceso de fiabilidad se ajuste con lo dispuesto en dichas normas.
+Art culo 88. Indicaci n de la fecha y hora y el lugar en los documentos transmisibles electr nicos.
+Cuando la ley requiera o permita que se indique la fecha y hora o el lugar con respecto a un documento o t tulo transmisible emitido en papel, ese requisito se dar por cumplido si se utiliza un sello electr nico de tiempo otorgado por un prestador cualificado de servicios de confianza y un m todo fiable para indicar el lugar con respecto a un documento transmisible electr nico.
+Art culo 89. Establecimiento.
+1. Un lugar no constituye un establecimiento por el mero hecho de que sea el lugar:
+a) Donde est n ubicados el equipo y las tecnolog as que sirvan de soporte al sistema de informaci n utilizado por una de las partes en relaci n con los documentos transmisibles electr nicos; o,
+b) Donde otras partes puedan acceder a ese sistema de informaci n.
+2. El mero hecho de que una parte haga uso de una direcci n de correo electr nico o de otro elemento de un sistema de informaci n vinculados a determinado pa s no crea la presunci n de que su establecimiento se encuentra en ese pa s.
+Art culo 90. Endoso.
+Cuando la ley requiera o permita que se endose de alguna manera un documento o t tulo transmisible emitido en papel, ese requisito se dar por cumplido respecto de un documento transmisible electr nico si la informaci n exigida para el endoso est incluida en l y esa informaci n cumple los requisitos establecidos en los art culos 83 y 84.
+Art culo 91. Modificaci n .
+Cuando la ley requiera o permita que se modifique un documento o t tulo transmisible emitido en papel, ese requisito se dar por cumplido respecto de un documento transmisible electr nico si para modificar la informaci n contenida en l se utiliza un m todo fiable que permita distinguir como tal la informaci n modificada.
+Art culo 92. Sustituci n de un documento o t tulo transmisible emitido en papel por un documento transmisible electr nico.
+1. Un documento o t tulo transmisible emitido en papel puede sustituirse por un documento transmisible electr nico si se utiliza un m todo fiable a los efectos del cambio de soporte.
+2. Para que el cambio de soporte surta efecto, en el documento transmisible electr nico se insertar una nota que indique que se ha cambiado el soporte.
+3. En el momento de emitirse el documento transmisible electr nico de conformidad con los numerales 1 y 2, se dejar sin efecto el documento o t tulo transmisible emitido en papel, el cual perder toda eficacia y validez.
+4. Los cambios de soporte que se realicen con arreglo a lo dispuesto en los p rrafos 1 y 2 no afectar n a los derechos y obligaciones de las partes.
+Art culo 93. Sustituci n de un documento transmisible electr nico por un documento o t tulo transmisible emitido en papel.
+1. Un documento transmisible electr nico puede sustituirse por un documento o t tulo transmisible emitido en papel si se utiliza un m todo fiable a los efectos del cambio de soporte.
+2. Para que el cambio de soporte surta efecto, en el documento o t tulo transmisible emitido en papel se insertar una nota que indique que se ha cambiado el soporte.
+3. En el momento de emitirse el documento o t tulo transmisible en papel de conformidad con los p rrafos 1 y 2, se dejar sin efecto el documento transmisible electr nico, el cual perder toda eficacia y validez.
+4. Los cambios de soporte que se realicen con arreglo a lo dispuesto en los p rrafos 1 y 2 no afectar n a los derechos y obligaciones de las partes.
+Art culo 94. No discriminaci n de los documentos transmisibles electr nicos extranjeros.
+1. No se negar n efectos jur dicos, validez ni fuerza ejecutoria a un documento transmisible electr nico por la sola raz n de que se haya emitido o utilizado en el extranjero.
+2. Nada de lo dispuesto en la presente ley afecta a la aplicaci n a los documentos transmisibles electr nicos de las normas del derecho internacional privado que rigen los documentos o t tulos transmisibles emitidos en papel.
+Art culo 95. rgano de supervisi n y acreditaci n.
+Cr ase el rgano de Supervisi n y Acreditaci n, conforme a las disposiciones de la presente ley.
+La Autoridad de Aplicaci n debe reglamentar los procedimientos y requerimientos t cnicos para la implementaci n e impulso de las disposiciones establecidas en el presente t tulo.
+T tulo QUINTO
+AUTORIDAD DE APLICACI N
+Art culo 96. Autoridad de Aplicaci n.
+Ser Autoridad de Aplicaci n de la presente ley el Ministerio de Industria y Comercio (MIC), a trav s de la Direcci n General de Firma Digital y Comercio Electr nico dependiente del Viceministerio de Comercio y Servicios, el cual est facultado a conformar un organismo de composici n mixta p blico privado para el mejor cumplimiento de sus funciones y de las disposiciones establecidas en la presente ley.
+A partir de la promulgaci n de la presente ley la Direcci n General de Firma Digital y Comercio Electr nico pasar a denominarse Direcci n General de Comercio Electr nico.
+La Autoridad de Aplicaci n dispondr de recursos que provendr n de los fondos que sean asignados anualmente en el Presupuesto General de la Naci n para el ejercicio de sus funciones, estos fondos no podr n ser utilizados para fines distintos a los previstos en la presente ley.
+Art culo 97. Infraestructura de Clave P blica del Paraguay.
+Cr ase la Infraestructura de Clave P blica del Paraguay (ICPP), para garantizar la autenticidad, integridad y validez jur dica de los documentos en forma electr nica que utilicen certificados digitales as como la realizaci n de transacciones electr nicas seguras. La Infraestructura de Clave P blica del Paraguay (ICPP), tiene prohibido emitir claves criptogr ficas y certificados electr nicos a la parte usuaria de un servicio de confianza cualificado.
+Su estructura y organizaci n ser reglamentada por la Autoridad de Aplicaci n.
+Art culo 98. Funciones de la Autoridad de Aplicaci n.
+Ser n funciones del Ministerio de Industria y Comercio (MIC), sin perjuicio de las funciones espec ficas del mismo, en su car cter de Autoridad de Aplicaci n de la presente ley:
+a) Dictar las normas reglamentarias y de aplicaci n de la presente ley.
+b) Velar por el cabal cumplimiento de las disposiciones legales y reglamentarias vigentes conforme al mbito de su competencia.
+c) Imponer sanciones por infracciones previstas en la presente ley.
+d) Instrumentar acuerdos nacionales e internacionales.
+e) Fomentar y llevar a cabo por s o a trav s de terceros, estudios e investigaciones para el pa s en el mbito de su competencia.
+f) Representar al Paraguay, en conjunto con el Ministerio de Relaciones Exteriores (MRE), en convenios, acuerdos, tratados y actos en el mbito de su competencia.
+g) Desempe ar las funciones atribuidas al Organismo de Supervisi n establecidas en los art culos 16, 17 y 18 de la presente ley.
+h) Desempe ar las funciones asignadas al Organismo de Evaluaci n de la conformidad seg n lo dispuesto en la Secci n III y Secci n V del T tulo Segundo de la presente ley.
+i) Desempe ar las funciones asignadas al rgano de Supervisi n y Acreditaci n seg n lo dispuesto en el T tulo Cuarto de la presente ley.
+j) Administrar la Infraestructura de Clave P blica del Paraguay (ICPP).
+k) Ser la fuente confiable de tiempo para la infraestructura del servicio de sello electr nico de tiempo ejerciendo las competencias resultantes del mismo.
+l) Establecer y ejecutar pol ticas, procedimientos, est ndares t cnicos y operativos para la realizaci n de sus actividades en el mbito de su competencia.
+m) Actualizar, ajustar y revisar los procedimientos y las pr cticas operacionales establecidas, garantizando su compatibilidad y promoviendo la actualizaci n tecnol gica y su conformidad con las normas de seguridad.
+n) Definir y administrar los diversos identificadores de objeto, en el mbito de la Infraestructura de Clave P blica del Paraguay (ICPP).
+) Establecer la estructura organizacional y funcional para el cumplimiento de las disposiciones del T tulo Segundo y T tulo Cuarto de la presente ley.
+Art culo 99. De las tasas.
+Fac ltase al Ministerio de Industria y Comercio (MIC), a percibir tasas por la prestaci n de servicios y la realizaci n de actividades comprendidas en el mbito de su competencia y en las condiciones previstas por la presente ley, las cuales ser n ajustadas a las formas previstas en la reglamentaci n correspondiente.
+Las tasas establecidas ser n ajustadas a un valor m ximo que no podr exceder los sesenta jornales m nimos diarios para actividades diversas no especificadas. El Ministerio de Industria y Comercio (MIC), publicar anualmente por medios oficiales el cuadro de valores correspondientes a las tasas, las cuales podr n ser actualizadas de acuerdo con la variaci n de precios al consumidor (IPC) publicadas por el Banco Central del Paraguay (BCP), en el a o respectivo y entrar n en vigencia a partir del uno de enero de cada a o. Los ingresos provenientes del pago de tasas por la prestaci n de servicios, pasar n a formar parte del presupuesto destinado a la Direcci n General de Firma Digital y Comercio Electr nico, en adelante Direcci n General de Comercio Electr nico. Estos recursos no podr n ser utilizados para fines distintos.
+T TULO SEXTO
+DISPOSICIONES FINALES
+Art culo 100. De los prestadores de servicios de certificaci n.
+El prestador de servicios de certificaci n habilitado por leyes anteriores ser reconocido como prestador cualificado de servicios de confianza nicamente para prestar el servicio de creaci n, verificaci n y validaci n de firmas electr nicas cualificadas. Para la prestaci n de otros servicios cualificados de confianza previstos en la presente ley deber n solicitar la concesi n de la cualificaci n respectiva.
+Art culo 101. De las resoluciones administrativas o judiciales.
+En las resoluciones administrativas o judiciales, la firma electr nica cualificada del funcionario pertinente en un documento electr nico es suficiente para garantizar la identidad del signatario, la autenticidad de la firma y la integridad del contenido del documento.
+En consecuencia, se prescinde de la refrenda del fedatario correspondiente, cuya funci n es suplida por el proceso de validaci n cualificado de firmas electr nicas cualificadas.
+Art culo 102. De las notificaciones judiciales.
+En el marco de los procesos judiciales tramitados electr nicamente, aquellas notificaciones que conforme al art culo 133 del C digo Procesal Civil, deban ser realizadas en el domicilio del interesado, quedar n cumplidas con el diligenciamiento de la c dula de notificaci n electr nica depositada en el domicilio electr nico.
+El plazo empezar a correr desde el d a h bil siguiente de su dep sito en la bandeja correspondiente, haya o no el destinatario accedido a la misma.
+Los casos en que los diligenciamientos de las c dulas de notificaci n deban de ser realizados en formato electr nico o papel, ser n regulados por la Corte Suprema de Justicia (CSJ).
+Art culo 103. Derogaci n.
+Quedan derogadas todas las disposiciones de la Ley N 4.017/2010 de validez jur dica de la firma electr nica, la firma digital, los mensajes de datos y el expediente electr nico , la Ley N 4610/2012 que modifica y amplIa la ley N 4017/10 de validez jur dica de la firma electr nica, la firma digital, los mensajes de datos y el expediente electr nico y todas aquellas que se opongan a la presente ley.
+Art culo 104. Vigencia.
+La presente ley entrar en vigencia a partir de los cuatro meses de su promulgaci n.
+Art culo 105. Comun quese al Poder Ejecutivo.
+Aprobado el Proyecto de Ley por la Honorable C mara de Diputados, a los quince d as del mes de junio del a o dos mil veintiuno, y por la Honorable C mara de Senadores, a los diecis is d as del mes de setiembre del a o dos mil veintiuno, queda sancionado, de conformidad con lo dispuesto en el art culo 207 numeral 2) de la Constituci n Nacional. Objetado parcialmente por el Poder Ejecutivo seg n Decreto N 6176 del veintisiete de octubre del a o dos mil veintiuno. Aceptada la objeci n parcial y sancionada la parte no objetada por la Honorable C mara de Diputados, a un d a del mes de diciembre del a o dos mil veintiuno, y por la Honorable C mara de Senadores, a los diecis is d as del mes de diciembre del a o dos mil veintiuno, de conformidad con lo establecido en el art culo 208 de la Constituci n Nacional.
+Tags: TRANSACCIONES ELECTRÓNICAS DOCUMENTO ELECTRÓNICO DOCUMENTOS TRANSMISIBLES ELECTRÓNICOS.
+De interes
+Martes 07 de Abril de 2015
+Ley Nº 3955 / DESAFECTA DEL DOMINIO PUBLICO MUNICI ...
+Mi�rcoles 18 de Mayo de 2022
+Ley Nº 1542 / ESTABLECE EL PROCEDIMIENTO PARA LA ...
+Mi�rcoles 06 de Abril de 2016
+Ley Nº 5104 / AMPLÍA EL PRESUPUESTO GENERAL DE LA ...
+¿Tienes alguna duda? ponte en contacto con nosotros
+Buscar:
+Ultimos en Leyes Paraguayas
+Ley Nº 7634/2026 / Ley N° 7634 ACUERDO INTERINO DE ...
+Mi�rcoles 13 de Mayo de 2026
+Ley Nº 7627/2026 / QUE MODIFICA LOS ARTÍCULOS 3° Y ...
+Jueves 07 de Mayo de 2026
+Ley Nº 7342/2024 / QUE CONCEDE PENSIÓN GRACIABLE A ...
+Martes 28 de Abril de 2026
+Ley Nº 7341/2024 / QUE ESTABLECE EL TRATAMIENTO IN ...
+Martes 28 de Abril de 2026
+Lo mas visto en la bacn
+Ley Nº 1337 / CODIGO PROCESAL CIVIL
+Leyes Paraguayas
+Mi�rcoles 25 de Febrero de 2015
+Ley Nº 1680 / CODIGO DE LA NIÑEZ Y LA ADOLESCENCIA
+Leyes Paraguayas
+Jueves 11 de Mayo de 2017
+Ley Nº 213 / ESTABLECE EL CODIGO DEL TRABAJO.
+Leyes Paraguayas
+Mi�rcoles 17 de Septiembre de 2014
+Indice
+• Leyes Paraguayas
+• Declaraciones
+• Conoce tu ley
+• Revistas
+• Libros
+• Videos
+• Noticias
+• Agenda
+• Galería de Imágenes
+• Todas
+• Galería de Recortes de Prensa
+• Archivos Históricos
+• Revistas de la BACCN
+• Bibliografías de la BACCN
+• Actualidad de la BACCN
+• Historia de ley
+Biblioteca y Archivo del Congreso de la Nación. 2026

@@ -1,0 +1,166 @@
+D9854
+Presid�ncia da Rep�blica
+Secretaria-Geral
+Subchefia para Assuntos Jur�dicos
+DECRETO N� 9.854, DE 25 DE JUNHO DE 2019
+Institui o
+Plano Nacional de Internet das Coisas e disp�e sobre a C�mara de Gest�o e
+Acompanhamento do Desenvolvimento de Sistemas de Comunica��o M�quina a
+M�quina e Internet das Coisas.
+O PRESIDENTE DA REP�BLICA ,
+no uso da atribui��o que lhe confere o art. 84, caput , inciso VI,
+al�nea �a�, da Constitui��o,
+DECRETA :
+Art. 1� Fica institu�do o Plano Nacional de Internet das
+Coisas com a finalidade de implementar e desenvolver a Internet das Coisas
+no Pa�s e , com base na livre concorr�ncia e na livre circula��o de dados,
+observadas as diretrizes de seguran�a da informa��o e de prote��o de dados
+pessoais.
+Art. 2� Para fins do disposto neste Decreto,
+considera-se:
+I - Internet das Coisas - IoT - a infraestrutura que integra a presta��o de
+servi�os de valor adicionado com capacidades de conex�o f�sica ou virtual de
+coisas com dispositivos baseados em tecnologias da informa��o e comunica��o
+existentes e nas suas evolu��es, com interoperabilidade;
+II - coisas - objetos no mundo f�sico ou no mundo digital, capazes de serem
+identificados e integrados pelas redes de comunica��o;
+III - dispositivos - equipamentos ou subconjuntos de equipamentos com
+capacidade mandat�ria de comunica��o e capacidade opcional de sensoriamento,
+de atua��o, de coleta, de armazenamento e de processamento de dados; e
+IV - servi�o de valor adicionado - atividade que acrescenta a um servi�o de
+telecomunica��es que lhe d� suporte e com o qual n�o se confunde novas
+utilidades relacionadas ao acesso, ao armazenamento, � apresenta��o, �
+movimenta��o ou � recupera��o de informa��es, nos termos do disposto no
+art.
+61 da Lei n� 9.472, de 16 de julho de 1997 .
+Art. 3� S�o objetivos do Plano Nacional de Internet das
+Coisas:
+I - melhorar a qualidade de vida das pessoas e promover ganhos de efici�ncia
+nos servi�os, por meio da implementa��o de solu��es de IoT;
+II - promover a capacita��o profissional relacionada ao desenvolvimento de
+aplica��es de IoT e a gera��o de empregos na economia digital;
+III - incrementar a produtividade e fomentar a competitividade das empresas
+brasileiras desenvolvedoras de IoT, por meio da promo��o de um ecossistema
+de inova��o neste setor;
+IV - buscar parcerias com os setores p�blico e privado para a implementa��o
+da IoT; e
+V - aumentar a integra��o do Pa�s no cen�rio internacional, por meio da
+participa��o em f�runs de padroniza��o, da coopera��o internacional em
+pesquisa, desenvolvimento e inova��o e da internacionaliza��o de solu��es de
+IoT desenvolvidas no Pa�s.
+Art. 4� Ato do Ministro de Estado da Ci�ncia,
+Tecnologia, Inova��es e Comunica��es indicar� os ambientes priorizados para
+aplica��es de solu��es de IoT e incluir�, no m�nimo, os ambientes de sa�de,
+de cidades, de ind�strias e rural.
+� 1� Os ambientes de uso de IoT ser�o priorizados a partir de crit�rios de
+oferta, de demanda e de capacidade de desenvolvimento local.
+� 2� O ato de que trata o caput ser� utilizado como refer�ncia para:
+I - o acesso a mecanismos de fomento � pesquisa cient�fica, ao
+desenvolvimento tecnol�gico e � inova��o; e
+II - o apoio ao empreendedorismo de base tecnol�gica.
+� 3� Os �rg�os e entidades p�blicas com projetos relacionados � IoT poder�o
+aderir ao Plano Nacional de Internet das Coisas
+para fins do disposto no � 2�, por meio de acordo de coopera��o t�cnica com
+o Minist�rio da Ci�ncia, Tecnologia, Inova��es e Comunica��es.
+Art. 5� Ficam estabelecidos os seguintes temas que
+integrar�o plano de a��o destinado a identificar solu��es para viabilizar o
+Plano Nacional de Internet das Coisas
+I - ci�ncia, tecnologia e inova��o;
+II - inser��o internacional;
+III - educa��o e capacita��o profissional;
+IV - infraestrutura de conectividade e interoperabilidade;
+V - regula��o, seguran�a e privacidade; e
+VI - viabilidade econ�mica.
+Par�grafo �nico. As a��es desenvolvidas no plano de a��o de que trata o
+caput dever�o estar alinhadas com as a��es estrat�gicas definidas na
+Estrat�gia Brasileira para a Transforma��o Digital, nos termos do disposto
+no Decreto n� 9.319, de 21 de mar�o de 2018.
+Art. 6� Ficam estabelecidos os seguintes projetos
+mobilizadores com o objetivo de facilitar a implementa��o do Plano Nacional
+de Internet das Coisas, a serem coordenados pelo Minist�rio da Ci�ncia,
+Tecnologia, Inova��es e Comunica��es:
+I - Plataformas de Inova��o em Internet das Coisas;
+II - Centros de Compet�ncia para Tecnologias Habilitadoras em Internet das
+Coisas; e
+III - Observat�rio Nacional para o Acompanhamento da Transforma��o Digital.
+Art. 7� A C�mara de Gest�o e Acompanhamento do
+Desenvolvimento de Sistemas de Comunica��o M�quina a M�quina e Internet das
+Coisas - C�mara IoT
+� �rg�o de assessoramento destinado a
+acompanhar a implementa��o do Plano Nacional de Internet das Coisas, a quem
+compete:
+I - monitorar e avaliar as iniciativas de implementa��o do Plano Nacional de
+Internet das Coisas;
+II - promover e fomentar parcerias entre entidades p�blicas e privadas para
+o alcance dos objetivos do Plano Nacional de Internet das Coisas;
+III - discutir com os �rg�os e entidades p�blicas os temas do plano de a��o
+de que trata o art. 5�;
+IV - apoiar e propor projetos mobilizadores; e
+V - atuar conjuntamente com �rg�os e entidades p�blicas para estimular o uso
+e o desenvolvimento de solu��es de IoT.
+� 1� A C�mara IoT � um colegiado n�o deliberativo, que dispensa qu�rum
+m�nimo para reuni�es e vota��o sobre as mat�rias de sua pauta.
+� 2� A C�mara IoT ser� composta por representantes dos seguintes �rg�os:
+I - Minist�rio da Ci�ncia, Tecnologia, Inova��es e Comunica��es, que a
+presidir�;
+II - Minist�rio da Economia;
+III - Minist�rio da Agricultura, Pecu�ria e Abastecimento;
+IV - Minist�rio da Sa�de; e
+V - Minist�rio do Desenvolvimento Regional.
+� 3�
+Cada membro do colegiado ter� um suplente, que o substituir� em suas
+aus�ncias e impedimentos.
+� 4� Os membros da C�mara IoT a que se referem os incisos I a V do � 2� e
+seus respectivos suplentes ser�o indicados pelos titulares dos �rg�os que
+representam e designados pelo Secret�rio de Empreendedorismo e Inova��o do
+Minist�rio da Ci�ncia, Tecnologia, Inova��es e Comunica��es.
+� 5� O Secret�rio de Empreendedorismo e Inova��o do Minist�rio da Ci�ncia,
+Tecnologia, Inova��es e Comunica��es poder� convidar representantes de
+associa��es e de entidades p�blicas e privadas para participar das reuni�es
+da C�mara IoT.
+� 6� A C�mara IoT se reunir� em car�ter ordin�rio semestralmente e em
+car�ter extraordin�rio sempre que convocado por seu Presidente.
+� 7�
+A Secretaria-Executiva da C�mara IoT ser� exercida pela Secretaria de
+Empreendedorismo e Inova��o do Minist�rio da Ci�ncia, Tecnologia, Inova��es
+e Comunica��es.
+� 8� Os membros
+da C�mara IoT
+que se encontrarem no Distrito Federal se reunir�o presencialmente
+e os membros que se encontrem em outros entes federativos participar�o da
+reuni�o por meio de videoconfer�ncia.
+� 9� Eventuais despesas de deslocamento e estadia dos membros da C�mara IoT
+ser�o custeadas pelos respectivos �rg�os ou entidades de origem.
+� 10. A participa��o na C�mara IoT ser� considerada presta��o de servi�o
+p�blico relevante, n�o remunerada.
+� 11. � vedada a cria��o de subcolegiados no �mbito da C�mara IoT.
+Art. 8� Para fins do disposto no
+art. 38 da Lei n�
+12.715, de 17 de setembro de 2012 , s�o considerados sistemas de comunica��o
+m�quina a m�quina as redes de telecomunica��es, inclu�dos os dispositivos de
+acesso, para transmitir dados a aplica��es remotas com o objetivo de
+monitorar, de medir e de controlar o pr�prio dispositivo, o ambiente ao seu
+redor ou sistemas de dados a ele conectados por meio dessas redes.
+� 1� Para fins do disposto no caput , os sistemas de comunica��o
+m�quina a m�quina n�o incluem os equipamentos denominados m�quinas de cart�o
+de d�bito e/ou cr�dito, formalmente considerados terminais de transfer�ncia
+eletr�nica de d�bito e cr�dito, classificados na posi��o 8470.50 da Tabela
+de Incid�ncia do Imposto sobre Produtos Industrializados - TIPI, aprovada
+pelo Decreto n� 8.950, de 29 de dezembro de 2016.
+� 2� Compete � Ag�ncia Nacional de Telecomunica��es regulamentar e
+fiscalizar o disposto neste artigo, observadas as normas do Minist�rio da
+Ci�ncia, Tecnologia, Inova��es e Comunica��es.
+Art. 9� O Minist�rio da Ci�ncia, Tecnologia, Inova��es e
+Comunica��es poder� dispor sobre regras complementares para a implementa��o
+do Plano Nacional de Internet das Coisas.
+Art. 10. Fica revogado o
+Decreto n� 8.234, de 2 de maio
+de 2014 .
+Art. 11. Este Decreto entra em vigor na data de sua
+publica��o.
+Bras�lia, 25 de junho de 2019; 198� da Independ�ncia e 131� da Rep�blica.
+JAIR MESSIAS
+BOLSONARO
+Elifas Chaves Gurgel do Amaral
+Este texto
+n�o substitui o publicado no DOU de 26.6.2019

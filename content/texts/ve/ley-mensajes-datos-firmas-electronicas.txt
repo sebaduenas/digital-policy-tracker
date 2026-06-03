@@ -1,0 +1,461 @@
+LEY SOBRE MENSAJES DE DATOS Y FIRMAS                           Certificado Electrónico: Mensaje de Datos proporcionado
+                     ELECTRÓNICAS                                   por un Proveedor de Servicios de Certificación que le atribuye
+  Gaceta Oficial N° 37.148 de fecha 28 de febrero de 2001           certeza y validez a la Firma Electrónica.
+                                                                    Sistema de Información: Aquel utilizado para generar,
+                    CAPITULO I                                      procesar o archivar de cualquier forma Mensajes de Datos.
+        ÁMBITO DE APLICACIÓN Y DEFINICIONES                         Usuario: Toda persona que utilice un sistema de información.
+                                                                    Inhabilitación técnica: Es la incapacidad temporal o
+Objeto y aplicabilidad del Decreto-Ley.                             permanente del Proveedor de Servicios de Certificación que
+Artículo 1.. El presente Decreto-Ley tiene por objeto otorgar y     impida garantizar el cumplimiento de sus servicios, así como,
+reconocer eficacia y valor jurídico a la Firma Electrónica, al      cumplir con los requisitos y condiciones establecidos en este
+Mensaje de Datos y a toda información inteligible en formato        Decreto-Ley para el ejercicio de sus actividades.
+electrónico, independientemente de su soporte material,
+atribuible a personas naturales o jurídicas, públicas o             El reglamento del presente Decreto-Ley podrá adaptar las
+privadas, así como regular todo lo relativo a los Proveedores       definiciones antes señaladas a los desarrollos tecnológicos
+de Servicios de Certificación y los Certificados Electrónicos.      que se produzcan en el futuro. Así mismo, podrá establecer
+                                                                    otras definiciones que fueren necesarias para la eficaz
+El presente Decreto-Ley será aplicable a los Mensajes de            aplicación de este Decreto-Ley.
+Datos y Firmas Electrónicas independientemente de sus
+características tecnológicas o de los desarrollos tecnológicos      Adaptabilidad del Decreto-Ley.
+que se produzcan en un futuro. A tal efecto, sus normas serán       Artículo 3.- El Estado adoptará las medidas que fueren
+desarrolladas e interpretadas progresivamente, orientadas a         necesarias para que los organismos públicos puedan
+reconocer la validez y eficacia probatoria de los Mensajes de       desarrollar sus funciones, utilizando los mecanismos descritos
+datos y Firmas Electrónicas.                                        en este Decreto-Ley.
+
+La certificación a que se refiere el presente Decreto-Ley no                              CAPITULO II
+excluye el cumplimiento de las formalidades de registro                           DE LOS MENSAJES DE DATOS
+público o autenticación que, de conformidad con la ley,
+requieran determinados actos o negocios jurídicos.                  Eficacia Probatoria.
+                                                                    Artículo 4.- Los Mensajes de Datos tendrán la misma eficacia
+Definiciones.                                                       probatoria que la ley otorga a los documentos escritos, sin
+Artículo 2.- A los efectos del presente Decreto-Ley, se             perjuicio de lo establecido en la primera parte del artículo 6 de
+entenderá por:                                                      este Decreto-Ley. Su promoción, control, contradicción y
+Persona: Todo sujeto jurídicamente hábil, bien sea natural,         evacuación como medio de prueba, se realizará conforme a lo
+jurídica, pública, privada, nacional o extranjera, susceptible de   previsto para las pruebas libres en el Código de
+adquirir derechos y contraer obligaciones.                          Procedimiento Civil.
+Mensajes de datos: Toda información inteligible en formato
+electrónico o similar que pueda ser almacenada o                    La información contenida en un Mensaje de Datos,
+intercambiada por cualquier medio.                                  reproducida en formato impreso, tendrá la misma eficacia
+Emisor: Persona que origina un Mensaje de Datos por sí              probatoria atribuida en la ley a las copias o reproducciones
+mismo, o a través de terceros autorizados.                          fotostáticas.
+Firma Electrónica: Información creada o utilizada por el
+Signatario, asociada al Mensaje de Datos, que permite               Sometimiento a la Constitución y a la ley.
+atribuirle su autoría bajo el contexto en el cual ha sido           Artículo 5.- Los Mensajes de Datos estarán sometidos a las
+empleado.                                                           disposiciones constitucionales y legales que garantizan los
+Signatario: Es la persona titular de una Firma Electrónica o        derechos a la privacidad de las comunicaciones y de acceso a
+Certificado Electrónico.                                            la información personal.
+Destinatario: Persona a quien va dirigido el Mensaje de
+Datos.                                                              Cumplimiento de solemnidades y formalidades.
+Proveedor de Servicios de Certificación: Persona dedicada           Artículo 6.- Cuando para determinados actos o negocios
+a proporcionar Certificados Electrónicos y demás actividades        jurídicos la ley exija el cumplimiento de solemnidades o
+previstas en este Decreto-Ley.                                      formalidades, éstas podrán realizarse utilizando para ello los
+ Acreditación: Es el título que otorga la Superintendencia de       mecanismos descritos en este Decreto-Ley.
+servicios de Certificación Electrónica a los Proveedores de
+Servicios de Certificación para proporcionar certificados           Cuando para determinados actos o negocios jurídicos la ley
+electrónicos, una vez cumplidos los requisitos y condiciones        exija la firma autógrafa, ese requisito quedará satisfecho en
+establecidos en este Decreto-Ley.
+
+                                                                                                                                   1
+relación con un Mensaje de Datos al tener asociado una            Oportunidad de la emisión.
+Firma Electrónica.                                                Artículo 10.- Salvo acuerdo en contrario entre las partes, el
+                                                                  Mensaje de Datos se tendrá por emitido cuando el sistema de
+Integridad del Mensaje de Datos.                                  información del Emisor lo remita al Destinatario.
+Artículo 7.- Cuando la ley requiera que la información sea
+presentada o conservada en su forma original, ese requisito       Reglas para la determinación de la recepción.
+quedará satisfecho con relación a un Mensaje de Datos si se       Artículo 11.- Salvo acuerdo en contrario entre el Emisor y el
+ha conservado su integridad y cuando la información               Destinatario, el momento de recepción de un Mensaje de
+contenida en dicho Mensaje de Datos esté disponible. A tales      Datos se determinará conforme a las siguientes reglas:
+efectos, se considerará que un Mensaje de Datos permanece              1. Si el Destinatario ha designado un sistema de
+íntegro, si se mantiene inalterable desde que se generó, salvo             información para la recepción de Mensajes de
+algún cambio de forma propio del proceso de comunicación,                  Datos, la recepción tendrá lugar cuando el Mensaje
+archivo o presentación.                                                    de Datos ingrese al sistema de información
+                                                                           designado.
+Constancia por escrito del Mensaje de Datos.                           2. Si el Destinatario no ha designado un sistema de
+Artículo 8.- Cuando la ley requiera que la información conste              información, la recepción tendrá lugar, salvo prueba
+por escrito, ese requisito quedará satisfecho con relación a un            en contrario, al ingresar el Mensaje de Datos en un
+Mensaje de Datos, si la información que éste contiene es                   sistema de información utilizado regularmente por el
+accesible para su ulterior consulta.                                       Destinatario.
+
+Cuando la ley requiera que ciertos actos o negocios jurídicos     Lugar de emisión y recepción.
+consten por escrito y su soporte deba permanecer accesible,       Artículo 12.- Salvo prueba en contrario, el Mensaje de Datos
+conservado o archivado por un período determinado o en            se tendrá por emitido en el lugar donde el Emisor tenga su
+forma permanente, estos requisitos quedarán satisfechos           domicilio y por recibido en el lugar donde el Destinatario tenga
+mediante la conservación de los Mensajes de Datos, siempre        el suyo.
+que se cumplan las siguiente condiciones:
+    1. Que la información que contengan pueda ser                 Del acuse de recibo.
+         consultada posteriormente.                               Artículo 13.- El Emisor de un Mensaje de Datos podrá
+    2. Que conserven el formato en que se generó, archivó         condicionar los efectos de dicho mensaje a la recepción de un
+         o recibió o en algún formato que sea demostrable         acuse de recibo emitido por el Destinatario.
+         que reproduce con exactitud la información
+         generada o recibida.                                     Las partes podrán determinar un plazo para la recepción del
+    3. Que se conserve todo dato que permita determinar           acuse de recibo. La no recepción de dicho acuse de recibo
+         el origen y el destino del Mensaje de Datos, la fecha    dentro del plazo convenido, dará lugar a que se tenga el
+         y la hora en que fue enviado o recibido.                 Mensaje de Datos como no emitido.
+
+Toda persona podrá recurrir a los servicios de un tercero para    Cuando las partes no establezcan un plazo para la recepción
+dar cumplimiento a los requisitos señalados en este artículo.     del acuse de recibo, el Mensaje de Datos se tendrá por no
+                                                                  emitido si el Destinatario no envía su acuse de recibo en un
+                   CAPITULO III                                   plazo de veinticuatro (24) horas a partir de su emisión.
+ DE LA EMISIÓN Y RECEPCIÓN DE LOS MENSAJES DE
+                     DATOS                                        Cuando el Emisor reciba el acuse de recibo del Destinatario
+                                                                  conforme a lo establecido en el presente artículo, el Mensaje
+Verificación de la emisión del Mensaje de Datos.                  de Datos surtirá todos sus efectos.
+Artículo 9.- Las partes podrán acordar un procedimiento para
+establecer cuándo el Mensaje de Datos proviene                    Mecanismos y métodos para el acuse de recibo.
+efectivamente del Emisor. A falta de acuerdo entre las partes,    Artículo 14.- Las partes podrán acordar los mecanismos y
+se entenderá que un Mensajes de Datos proviene del Emisor,        métodos para el acuse de recibo de un Mensaje de Datos.
+cuando éste ha sido enviado por:                                  Cuando las partes no hayan acordado que para el acuse de
+     1. El propio Emisor.                                         recibo se utilice un método determinado, se considerará que
+     2. Persona autorizada para actuar en nombre del              dicho requisito se ha cumplido cabalmente mediante:
+         Emisor respecto de ese mensaje.                               1. Toda comunicación del Destinatario, automatizada o
+     3. Por un Sistema de Información programado por el                    no, que señale la recepción del Mensaje de Datos.
+         Emisor, o bajo su autorización, para que opere                2. Todo acto del Destinatario que resulte suficiente a
+         automáticamente.                                                  los efectos de evidenciar al Emisor que ha recibido
+                                                                           su Mensaje de Datos.
+
+                                                                                                                                2
+Oferta y aceptación en los contratos.                                      El Signatario que no cumpla con las obligaciones
+Artículo 15.- En la formación de los contratos, las partes                 antes señaladas será responsable de las
+podrán acordar que la oferta y aceptación se realicen por                  consecuencias del uso no autorizado de su Firma
+medio de Mensajes de Datos.                                                Electrónica.
+
+                      CAPITULO IV                                                     CAPITULO V
+             DE LAS FIRMAS ELECTRÓNICAS                                DE LA SUPERINTENDENCIA DE SERVICIOS DE
+                                                                              CERTIFICACIÓN ELECTRÓNICA
+Validez y eficacia de la Firma Electrónica. Requisitos.
+                                                                  Creación de la Superintendencia.
+Artículo 16.- La Firma Electrónica que permita vincular al        Artículo 20.- Se crea la Superintendencia de Servicios de
+Signatario con el Mensaje de Datos y atribuir la autoría de       Certificación Electrónica, como un servicio autónomo con
+éste, tendrá la misma validez y eficacia probatoria que la ley    autonomía presupuestaria, administrativa, financiera y de
+otorga a la firma autógrafa. A tal efecto, salvo que las partes   gestión, en las materias de su competencia, dependiente del
+dispongan otra cosa, la Firma Electrónica deberá llenar los       Ministerio de Ciencia y Tecnología.
+siguientes aspectos:
+     1. Garantizar que los datos utilizados para su               Objeto de la Superintendencia.
+         generación puedan producirse sólo una vez, y             21.- La Superintendencia de Servicios de Certificación
+         asegurar, razonablemente, su confidencialidad.           Electrónica tiene por objeto acreditar, supervisar y controlar,
+     2. Ofrecer seguridad suficiente de que no pueda ser          en los términos previstos en este Decreto-Ley y sus
+         falsificada con la tecnología existente en cada          reglamentos, a los Proveedores de Servicios de Certificación
+         momento.                                                 públicos o privados.
+     3. No alterar la integridad del Mensaje de Datos.
+                                                                  Competencias de la Superintendencia.
+A los efectos de este artículo, la Firma Electrónica podrá        Artículo 22.- La Superintendencia de Servicios de
+formar parte integrante del Mensaje de Datos, o estar             Certificación Electrónica tendrá las siguientes competencias:
+inequívocamente asociada a éste; enviarse o no en un mismo             1. Otorgar la acreditación y la correspondiente
+acto.                                                                       renovación a los Proveedores de Servicios de
+                                                                            Certificación una vez cumplidas las formalidades y
+Efectos jurídicos. Sana critica.                                            requisitos de este Decreto-Ley, sus reglamentos y
+Artículo 17.- La Firma Electrónica que no cumpla con los                    demás normas aplicables.
+requisitos señalados en el artículo anterior no tendrá los             2. Revocar o suspender la acreditación otorgada
+efectos jurídicos que se le atribuyen en el presente Capítulo,              cuando se incumplan las condiciones, requisitos y
+sin embargo, podrá constituir un elemento de convicción                     obligaciones que se establecen en el presente
+valorable conforme a las reglas de la sana crítica.                         Decreto-Ley.
+                                                                       3. Mantener, procesar, clasificar, resguardar y
+La certificación.                                                           custodiar el Registro de los Proveedores de
+Artículo 18.- La Firma Electrónica, debidamente certificada                 Servicios de Certificación públicos o privados.
+por un Proveedor de Servicios de Certificación conforme a lo           4. Verificar que los Proveedores de Servicios de
+establecido en este Decreto-Ley, se considerará que cumple                  Certificación cumplan con los requisitos contenidos
+con los requisitos señalados en el artículo 16.                             en el presente Decreto-Ley y sus reglamentos.
+                                                                       5. Supervisar las actividades de los Proveedores de
+Obligaciones del signatario.                                                Servicios de Certificación conforme a este Decreto-
+Artículo 19.- El Signatario de la Firma Electrónica tendrá las              Ley, sus reglamentos y las normas y procedimientos
+siguientes obligaciones:                                                    que establezca la Superintendencia en el
+                                                                            cumplimiento de sus funciones.
+         Actuar con diligencia para evitar el uso no                   6. Liquidar, recaudar y administrar las tasas
+         autorizado de su Firma Electrónica.                                establecidas en el artículo 24 de este Decreto-Ley.
+                                                                       7. Liquidar y recaudar las multas establecidas en el
+         Notificar a su Proveedor de Servicios de                           presente Decreto-Ley.
+         Certificación que su Firma Electrónica ha sido                8. Administrar los recursos que se le asignen y los que
+         controlada por terceros no autorizados o                           obtenga en el desempeño de sus funciones.
+         indebidamente utilizada, cuando tenga conocimiento            9. Coordinar con los organismos nacionales o
+         de ello.                                                           internacionales cualquier aspecto relacionado con el
+                                                                            objeto de este Decreto-Ley.
+
+
+                                                                                                                               3
+    10. Inspeccionar y fiscalizar la instalación, operación y              cobrará una tasa de quinientas unidades tributarias
+        prestación de servicios realizados por los                         (500 U.T.).
+        Proveedores de Servicios de Certificación.                    4.   Por la autorización que se otorgue a los
+    11. Abrir, de oficio o a instancia de parte, sustanciar y              Proveedores de Servicios de Certificación
+        decidir los procedimientos administrativos relativos a             debidamente acreditados en relación a la garantía
+        presuntas infracciones a este Decreto-Ley.                         de los Certificados Electrónicos proporcionados por
+    12. Requerir de los Proveedores de Servicios de                        Proveedores de Servicios de Certificación
+        Certificación o sus usuarios, cualquier información                extranjeros, conforme a lo establecido en el artículo
+        que considere necesaria y que esté relacionada con                 44 del presente Decreto-Ley, se cobrará una tasa de
+        materias relativas al ámbito de sus funciones.                     quinientas unidades tributarias (500 U.T.).
+    13. Actuar como mediador en la solución de conflictos
+        que se susciten entre los Proveedores de Servicios        Los Proveedores de Servicios de Certificación constituidos
+        de Certificados y sus usuarios, cuando ello sea           por entes públicos estarán exentos del pago de las tasas
+        solicitado por las partes involucradas, sin perjuicio     previstas en este artículo.
+        de las atribuciones que tenga el organismo
+        encargado de la protección, educación y defensa del       Mecanismos de control.
+        consumidor y el usuario, conforme a la ley que rige       Artículo 25.- La Contraloría Interna del Ministerio de Ciencia
+        esta materia.                                             y Tecnología, ejercerá las funciones de control, vigilancia y
+    14. Seleccionar los expertos técnicos o legales que           fiscalización de los ingresos, gastos y bienes públicos sobre
+        considere necesarios para facilitar el ejercicio de sus   este servicio autónomo, de conformidad con la ley que regula
+        funciones.                                                la materia.
+    15. Presentar un informe anual sobre su gestión al
+        Ministerio de adscripción.                                De la supervisión.
+    16. Tomar las medidas preventivas o correctivas que           Artículo 26.- La Superintendencia de Servicios de
+        considere necesarias conforme a lo previsto en este       Certificación Electrónica supervisará a los Proveedores de
+        Decreto-Ley.                                              Servicios de Certificación con el objeto de verificar que
+    17. Imponer las sanciones establecidas en este Decreto-       cumplan con los requerimientos necesarios para ofrecer un
+        Ley.                                                      servicio eficaz a sus usuarios. A tal efecto, podrá
+    18. Determinar la forma y alcance de los requisitos           directamente o a través de expertos, realizar las inspecciones
+        establecidos en los artículos 31 y 32 del presente        y auditorias que fueren necesarias para comprobar que los
+        Decreto-Ley.                                              Proveedores de Servicios de Certificación cumplen con tales
+    19. Las demás que establezcan la ley y los reglamentos.       requerimientos.
+
+Ingresos de la Superintendencia.                                  Medidas para garantizar la confiabilidad.
+Artículo 23.- Son ingresos de la Superintendencia de              Artículo 27.- La Superintendencia de Servicios de
+Servicios de Certificación Electrónica:                           Certificación Electrónica podrá adoptar las medidas
+     1. Los recursos que le sean asignados en la Ley de           preventivas o correctivas necesarias para garantizar la
+         Presupuesto a través del Ministerio de Ciencia y         confiabilidad de los servicios prestados por los Proveedores
+         Tecnología.                                              de Servicios de Certificación. A tal efecto, podrá ordenar,
+     2. Los provenientes de su gestión conforme a lo              entre otras medidas, el uso de estándares o prácticas
+         establecido en esta Ley.                                 internacionalmente aceptadas para la prestación de los
+     3. Cualquier otro ingreso permitido por ley.                 servicios de certificación electrónica, o que el Proveedor se
+                                                                  abstenga de realizar cualquier actividad que ponga en peligro
+De las tasas.                                                     la integridad o el buen uso del servicio.
+Articulo 24.- La Superintendencia de Servicios de
+Certificación Electrónica cobrará las siguientes tasas:           Designación del Superintendente.
+     1. Por la acreditación de los Proveedores de Servicios       Artículo 28.- La Superintendencia de Servicios de
+          de Certificación se cobrará una tasa de un mil          Certificación Electrónica estará a cargo de un
+          unidades tributarias (1.000 U.T.).                      Superintendente, será de libre designación y remoción del
+     2. Por la renovación de la acreditación de los               Ministro de Ciencia y Tecnología.
+          Proveedores de Servicios de Certificación se
+          cobrará una tasa de quinientas unidades tributarias     Requisitos para ser Superintendente.
+          (500 U.T.).                                             Artículo 29.- El Superintendente de Servicios de Certificación
+     3. Por la cancelación de la acreditación de los              Electrónica, debe reunir los siguientes requisitos:
+          Proveedores de Servicios de Certificación se                 1. Ser venezolano.
+
+
+                                                                                                                              4
+    2.    De reconocida competencia técnica y profesional                  Servicios de Certificación. En el caso de organismos
+          para el ejercicio de sus funciones.                              públicos, éstos deberán contar con un presupuesto
+                                                                           de gastos y de ingresos que permitan el desarrollo
+No podrá ser Superintendente, los miembros directivos,                     de esta actividad.
+agentes, comisarios, administradores o accionistas de                 2. La capacidad y elementos técnicos necesarios para
+empresas o instituciones sometidas al control de la                        proveer Certificados Electrónicos.
+Superintendencia. Tampoco podrá ejercer tal cargo el que              3. Garantizar un servicio de suspensión, cancelación y
+tenga parentesco hasta el cuarto grado de consanguinidad o                 revocación, rápido y seguro, de los Certificados
+segundo de afinidad con personas naturales también                         Electrónicos que proporcione.
+sometidas al control de la Superintendencia.                          4. Un sistema de información de acceso libre,
+                                                                           permanente, actualizado y eficiente en el cual se
+Atribuciones del Superintendente.                                          publiquen las políticas y procedimientos aplicados
+Artículo 30.- Son atribuciones del Superintendente:                        para la prestación de sus servicios, así como los
+     1. Dirigir el Servicio Autónomo Superintendencia de                   Certificados Electrónicos que hubiere proporcionado,
+         Servicios de Certificación Electrónica.                           revocado, suspendido o cancelado y las
+     2. Suscribir los actos y documentos relacionados con                  restricciones o limitaciones aplicables a éstos.
+         las materias especificadas en el artículo 22 de este         5. Garantizar que en la emisión de los Certificados
+         Decreto-Ley.                                                      Electrónicos que provea se utilicen herramientas y
+     3. Administrar los recursos e ingresos del Servicio                   estándares adecuados a los usos internacionales,
+         Autónomo Superintendencia de Servicios de                         que estén protegidos contra su alteración o
+         Certificación Electrónica.                                        modificación, de tal forma que garanticen la
+     4. Celebrar previa delegación del Ministro de Ciencia y               seguridad técnica de los procesos de certificación .
+         Tecnología, convenios con organismos públicos o              6. En caso de personas jurídicas, éstas deberán estar
+         privados, nacionales e internacionales, derivados del             legalmente constituidas de conformidad con las
+         cumplimiento de las atribuciones que corresponden                 leyes del país de origen.
+         a la Superintendencia de Servicios de Certificación          7. Personal técnico adecuado con conocimiento
+         Electrónica.                                                      especializado en la materia y experiencia en el
+     5. Elaborar el proyecto de presupuesto anual, de                      servicio a prestar.
+         conformidad con las previsiones legales                      8. Las demás que señale el reglamento de este
+         correspondientes.                                                 Decreto-Ley.
+     6. Proponer escalas especiales de remuneración para         El incumplimiento de cualesquiera de los requisitos anteriores
+         el personal de la Superintendencia, de conformidad      dará lugar a la revocatoria de la acreditación otorgada por la
+         con las disposiciones legales aplicables.               Superintendencia de Servicios de Certificación Electrónica,
+     7. Presentar al Ministro de Ciencia y Tecnología el         sin perjuicio de las sanciones previstas en este Decreto-Ley.
+         Proyecto de Reglamento Interno.
+     8. Celebrar previa delegación del Ministro de Ciencia y     De la acreditación.
+         Tecnología, los contratos de trabajo y de servicios     Artículo 32.- Los Proveedores de Servicios de Certificación
+         de personal, que requiera la Superintendencia de        presentarán ante la Superintendencia de Servicios de
+         Servicios de Certificación Electrónica para su          Certificación Electrónica, junto con la correspondiente
+         funcionamiento.                                         solicitud, los documentos que acrediten el cumplimiento de los
+     9. Elaborar anualmente la memoria y cuenta de la            requisitos señalados en el artículo 31. La Superintendencia de
+         Superintendencia de Servicios de Certificación          Servicios de Certificación Electrónica, previa verificación de
+         Electrónica.                                            tales documentos, procederá a recibir y procesar dicha
+     10. Las demás que le sean asignadas por el Ministro de      solicitud y deberá pronunciarse sobre la acreditación del
+         Ciencia y Tecnología.                                   Proveedor de Servicios de Certificación, dentro de los veinte
+                                                                 (20) días hábiles siguientes a la fecha de presentación de la
+                     CAPITULO VI                                 solicitud.
+         DE LOS PROVEEDORES DE SERVICIOS DE
+                   CERTIFICACIÓN                                 Una vez aprobada la solicitud del Proveedor de Servicios de
+                                                                 Certificación, éste presentará, a los fines de su acreditación,
+Requisitos para ser Proveedor.                                   garantías que cumplan con los siguientes requisitos:
+Artículo 31. Podrán ser Proveedores de Servicios de                   1. Ser expedidas por una entidad aseguradora o
+Certificación, las personas, que cumplan y mantengan los                   bancaria autorizada para operar en el país,
+siguientes requisitos:                                                     conforme a las disposiciones que rigen la materia.
+     1. La capacidad económica y financiera suficiente para           2. Cubrir todos los perjuicios contractuales y
+          prestar los servicios autorizados como Proveedor de              extracontractuales de los signatarios y terceros de
+
+                                                                                                                              5
+          buena fe derivados de actuaciones dolosas,                        información relacionada con los referidos
+          culposas u omisiones atribuibles a los                            Certificados Electrónicos.
+          administradores,      representantes     legales     o        5. Garantizar a los Signatarios un medio para notificar
+          empleados del Proveedor de Servicios de                           el uso indebido de sus Firmas Electrónicas.
+          Certificación.                                                6. Informar a los interesados en sus servicios de
+El Proveedor de Servicios de Certificación deberá mantener                  certificación, utilizando un lenguaje comprensible en
+vigente la garantía aquí solicitada por el tiempo de vigencia de            su pagina en la Internet o en cualquier otra red
+su acreditación. El incumplimiento de este requisito dará lugar             mundial de acceso público, los términos precisos y
+a la revocatoria de la acreditación otorgada por la                         condiciones para el uso del Certificado Electrónico y,
+Superintendencia de Servicios de Certificación Electrónica.                 en particular, de cualquier limitación sobre su
+                                                                            responsabilidad, así como de los procedimientos
+Negativa de la acreditación.                                                especiales existentes para resolver cualquier
+Artículo 33.- La Superintendencia de Servicios de                           controversia.
+Certificación Electrónica podrá negar la solicitud a que se             7. Garantizar la integridad, disponibilidad y
+refiere el artículo anterior, en caso que el solicitante no reuna           accesibilidad de la información y documentos
+los requisitos señalados en este Decreto-Ley y sus                          relacionados con los servicios que proporcione. A
+reglamentos.                                                                tales efectos, deberán mantener un respaldo
+                                                                            confiable y seguro de dicha información.
+Actividades de los Proveedores de Servicios de                          8. Garantizar la adopción de las medidas necesarias
+Certificación.                                                              para evitar la falsificación de Certificados
+Artículo 34.- Los Proveedores de Servicios de Certificación                 Electrónicos y de las Firmas Electrónicas que
+realizarán entre otras, las siguientes actividades:                         proporcionen.
+      1. Proporcionar, revocar o suspender los distintos tipos          9. Efectuar las notificaciones y publicaciones
+           o clases de Certificados Electrónicos.                           necesarias para informar a los signatarios y
+      2. Ofrecer o facilitar los servicios de creación de Firmas            personas interesadas acerca del vencimiento,
+           Electrónicas.                                                    revocación, suspensión o cancelación de los
+      3. Ofrecer servicios de archivo cronológicos de las                   Certificados Electrónicos que proporcione, así como
+           Firmas Electrónicas certificadas por el Proveedor de             de cualquier otro aspecto de relevancia para el
+           Servicios de Certificación.                                      público en general, en relación con dichos
+      4. Ofrecer los servicios de archivo y conservación de                 Certificados Electrónicos.
+           mensajes de datos.                                           10. Notificar a la Superintendencia de Servicios de
+      5. Garantizar Certificados Electrónicos proporcionados                Certificación Electrónica cuando tenga conocimiento
+           por Proveedores de Servicios de Certificación                    de cualquier hecho que pueda conllevar a su
+           extranjeros.                                                     Inhabilitación Técnica.
+      6. Las demás que se establezcan en el presente
+           Decreto-Ley o en sus reglamentos.                        El incumplimiento de cualesquiera de los requisitos anteriores
+Los Certificados Electrónicos proporcionados por los                dará lugar a la suspensión de la acreditación otorgada por la
+Proveedores de Servicios de Certificación garantizarán la           Superintendencia de Servicios de Certificación Electrónica,
+validez de las Firmas Electrónicas que certifiquen, y la            sin perjuicio de las sanciones establecidas en el presente
+titularidad que sobre ellas tengan sus Signatarios.                 Decreto-Ley.
+
+Obligaciones de los Proveedores.                                    La contraprestación del servicio.
+Artículo 35.- Los Proveedores de Servicios de Certificación         Artículo 36.- La contraprestación por los servicios que los
+tendrán las siguientes obligaciones:                                Proveedores de Servicios de Certificación presten, estará
+     1. Adoptar las medidas necesarias para determinar la           sujeta a las reglas de la oferta y la demanda.
+          exactitud de los Certificados Electrónicos que
+          proporcionen y la identidad del Signatario.               Notificación del cese de actividades.
+     2. Garantizar la validez, vigencia y legalidad del             Artículo 37.- Cuando los Proveedores de Servicios de
+          Certificado Electrónico que proporcione.                  Certificación decidan cesar en sus actividades, lo notificarán a
+     3. Verificar la información suministrada por el                la Superintendencia de Servicios de Certificación Electrónica,
+          Signatario para la emisión del Certificado                al menos con treinta (30) días de anticipación a la fecha de
+          Electrónico.                                              cesación.
+     4. Mantener en medios electrónicos o magnéticos, para
+          su consulta, por diez (10) años siguientes al             En el caso de Inhabilitación Técnica, el Proveedor de
+          vencimiento de los Certificados Electrónicos que          Servicios de Certificación notificará inmediatamente a la
+          proporcionen, un archivo cronológico con la               Superintendencia de Servicios de Certificación Electrónica.
+
+                                                                                                                                  6
+Recibida cualesquiera de las notificaciones señaladas en este      Proveedor deberá proceder a suspender el mismo durante el
+artículo, la Superintendencia de Servicios de Certificación        tiempo solicitado por el Signatario.
+Electrónica emitirá un acto por el cual se declare
+públicamente la cesación de actividades del Proveedor de           Suspensión o revocatoria forzosa.
+Servicios de Certificación como prestador de ese servicio, sin     Artículo 42.- En los contratos que celebren los Proveedores
+perjuicio de las investigaciones que pueda realizar a fin de       de Servicios de Certificación con sus usuarios, se deberán
+determinar las causas que originaron el cese de las                establecer como causales de suspensión o revocatoria del
+actividades del Proveedor, y las medidas que fueren                Certificado Electrónico de la Firma Electrónica, las siguientes:
+necesarias adoptar con el objeto de salvaguardar los                    1. Sea solicitado por una autoridad competente de
+derechos de los usuarios. En ese acto la Superintendencia                    conformidad con la ley.
+podrá ordenar al Proveedor que realice los trámites que                 2. Se compruebe que alguno de los datos del
+considere necesarios para hacer del conocimiento público la                  Certificado Electrónico proporcionado por el
+cesación de esas actividades, y para garantizar la                           Proveedor de Servicios de Certificación es falso.
+conservación de la información que fuere de interés para sus            3. Se compruebe el incumplimiento de una obligación
+usuarios y el público en general.                                            principal derivada del contrato celebrado entre el
+                                                                             Proveedor de Servicios de Certificación y el
+En todo caso, el cese de las actividades de un Proveedor de                  Signatario.
+Servicios de Certificación conllevará su retiro del registro            4. Se produzca una Quiebra Técnica del sistema de
+llevado por la Superintendencia de Servicios de Certificación                seguridad del Proveedor de Servicios de
+Electrónica.                                                                 Certificación que afecte la integridad y confiabilidad
+                                                                             del certificado contentivo de la Firma Electrónica.
+                     CAPITULO VII                                  Así mismo, se preverá en los referidos contratos que los
+             CERTIFICADOS ELECTRÓNICAS                             Proveedores de Servicios de Certificación podrán dejar sin
+                                                                   efecto la suspensión temporal del Certificado Electrónico de
+Garantía de la autoría de la Firma Electrónica.                    una Firma Electrónica al verificar que han cesado las causas
+Artículo 38.- El Certificado Electrónico garantiza la autoría de   que originaron dicha suspensión, en cuyo caso el Proveedor
+la Firma Electrónica que certifica así como la integridad del      de Servicios de Certificación correspondiente estará en la
+Mensaje de Datos. El Certificado Electrónico no confiere la        obligación de habilitar de inmediato el Certificado Electrónico
+autenticidad o fe pública que conforme a la ley otorguen los       de que se trate.
+funcionarios públicos a los actos, documentos y
+certificaciones que con tal carácter suscriban.                    La vigencia del Certificado Electrónico cesará cuando se
+                                                                   produzca la extinción o incapacidad absoluta del Signatario
+Vigencia del Certificado Electrónico.
+Artículo 39.- El Proveedor de Servicios de Certificación y el      Contenido de los Certificados Electrónicos.
+Signatario, de mutuo acuerdo, determinarán la vigencia del         Artículo 43.- Los Certificados Electrónicos deberán contener
+Certificado Electrónico.                                           la siguiente información:
+                                                                         1. Identificación del Proveedor de Servicios de
+Cancelación.                                                                 Certificación que proporciona el Certificado
+Artículo 40.- La cancelación de un Certificado Electrónico                   Electrónico, indicando su domicilio y dirección
+procederá cuando el Signatario así lo solicite a su Proveedor                electrónica.
+de Servicios de Certificación. Dicha cancelación no exime al             2. El código de identificación asignado al Proveedor de
+Signatario de las obligaciones contraídas durante la vigencia                Servicios de Certificación por la Superintendencia de
+del Certificado, conforme a lo previsto en este Decreto-Ley.                 Servicios de Certificación Electrónica.
+                                                                         3. Identificación del titular del Certificado Electrónico,
+El Signatario estará obligado a solicitar la cancelación del                 indicando su domicilio y dirección electrónica.
+Certificado Electrónico cuando tenga conocimiento del uso                4. Las fechas de inicio y vencimiento del periodo de
+indebido de su Firma Electrónica. Si el Signatario en                        vigencia del Certificado Electrónico.
+conocimiento de tal situación no solicita dicha cancelación,             5. La Firma Electrónica del Signatario.
+será responsable por los daños y perjuicios sufridos por                 6. Un serial único de identificación del Certificado
+terceros de buena fe como consecuencia del uso indebido de                   Electrónico.
+la Firma Electrónica certificada mediante el correspondiente             7. Cualquier información relativa a las limitaciones de
+Certificado Electrónico.                                                     uso, vigencia y responsabilidad a las que esté
+                                                                             sometido el Certificado Electrónico.
+Suspensión temporal voluntaria.
+Artículo 41.- El Signatario podrá solicitar la suspensión
+temporal del Certificado Electrónico, en cuyo caso su
+
+                                                                                                                                 7
+Certificados electrónicos extranjeros.                              Prescripción de las sanciones.
+Artículo 44.- Los Certificados Electrónicos emitidos por            Artículo 47.- Las sanciones aplicadas prescriben por el
+proveedores de servicios de certificación extranjeros tendrán       transcurso de tres (3) años, contados a partir de la fecha de
+la misma validez y eficacia jurídica reconocida en el presente      notificación al infractor.
+Decreto-Ley, siempre que tales certificados sean garantizados
+por un Proveedor de Servicios de Certificación, debidamente         Falta de acreditación.
+acreditado conforme a lo previsto en el presente Decreto-Ley,       Artículo 48.- Serán sancionadas con multa de dos mil (2000)
+que garantice, en la misma forma que lo hace con sus propios        a cinco mil (5000) Unidades Tributarias (U.T.), las personas
+certificados, el cumplimiento de los requisitos, seguridad,         que presten los servicios de Proveedores de Servicios de
+validez y vigencia del certificado. Los certificados electrónicos   Certificación previstos en este Decreto-Ley, sin la acreditación
+extranjeros, no garantizados por un Proveedor de Servicios          de la Superintendencia de Servicios de Certificación
+de Certificación debidamente acreditado conforme a lo               Electrónica, alegando tenerla.
+previsto en el presente Decreto-Ley, carecerán de los efectos
+jurídicos que se atribuyen en el presente Capítulo, sin             Procedimiento ordinario.
+embargo, podrán constituir un elemento de convicción                Artículo 49.- Para la imposición de las multas previstas en los
+valorable conforme a las reglas de la sana crítica.                 artículos anteriores, la Superintendencia de Servicios de
+                                                                    Certificación Electrónica aplicará el procedimiento
+                      CAPITULO VIII                                 administrativo ordinario previsto en la Ley Orgánica de
+                    DE LAS SANCIONES                                Procedimientos Administrativos.
+
+A los Proveedores de Servicios de Certificación.                                           CAPITULO X
+Artículo 45.- Los Proveedores de Servicios de Certificación                          DISPOSICIONES FINALES
+serán sancionados con multa de Quinientas Unidades                  Primera.- El presente Decreto-Ley entrará en vigencia a partir
+Tributarias (500 U.T.) a Dos Mil Unidades Tributarias (2.000        de su publicación en la Gaceta Oficial de la República
+U.T.), cuando incumplan las obligaciones que les impone el          Bolivariana de Venezuela.
+artículo 35 del presente Decreto-Ley.
+                                                                    Segunda.- Los procedimientos, trámites y recursos contra los
+Los Proveedores de Servicios de Certificación serán                 actos emanados de la Superintendencia de Servicios de
+sancionados con multa de Quinientas Unidades Tributarias            Certificación Electrónica, se regirán por lo previsto en la Ley
+(500 U.T.) a Dos Mil Unidades Tributarias (2.000 U.T.),             Orgánica de Procedimientos Administrativos.
+cuando dejen de cumplir con alguno de los requisitos
+establecidos en el artículo 31 del presente Decreto-Ley.            Tercera.- Sin limitación de otros que se constituyan, el Estado
+                                                                    creará un Proveedor de Servicios de Certificación de carácter
+Las sanciones serán impuestas en su término medio, pero             público, conforme a las normas del presente Decreto-Ley. El
+podrán ser aumentadas o disminuidas en atención a las               Presidente de la República determinará la forma y adscripción
+circunstancias agravantes o atenuantes existentes.                  de este Proveedor de Servicios de Certificación.
+
+Circunstancias agravantes y atenuantes.                             Cuarta.- La Administración Tributaria y Aduanera adoptará las
+Artículo 46.- Son circunstancias agravantes:                        medidas necesarias para ejercer sus funciones utilizando los
+     1. La reincidencia y la reiteración.                           mecanismos descritos en este Decreto-Ley, así como para
+     2. La gravedad del perjuicio causado al Usuario.               que los contribuyentes puedan dar cumplimiento a sus
+     3. La gravedad de la infracción.                               obligaciones tributarias mediante dichos mecanismos.
+     4. La resistencia o reticencia del infractor para
+         esclarecer los hechos.
+
+Son circunstancias atenuantes:
+    1. No haber tenido la intención de causar el hecho
+          imputado de tanta gravedad.
+    2. Las que se evidencien de las pruebas aportadas por
+          el infractor en su descargo.
+En el proceso se apreciará el grado de la culpa para agravar o
+atenuar la pena.
+
+
+                                                                                                                                  8

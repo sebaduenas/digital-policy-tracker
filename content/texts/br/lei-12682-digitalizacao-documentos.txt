@@ -1,0 +1,107 @@
+L12682
+Presid�ncia da Rep�blica
+Casa Civil
+Subchefia para Assuntos Jur�dicos
+LEI N� 12.682, DE 9 DE JULHO DE 2012.
+Mensagem de veto
+(Vide Decreto n�
+8.539, de 2015)
+Disp�e sobre a elabora��o e o arquivamento de documentos em meios eletromagn�ticos.
+A PRESIDENTA DA REP�BLICA
+Fa�o saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+Art. 1� A digitaliza��o, o armazenamento em meio eletr�nico, �ptico ou equivalente e a reprodu��o de documentos p�blicos e privados ser�o regulados pelo disposto nesta Lei.
+Par�grafo �nico. Entende-se por digitaliza��o a convers�o da fiel imagem de um documento para c�digo digital.
+Art. 2� (VETADO).
+Art. 2�-A. Fica autorizado o armazenamento, em meio eletr�nico, �ptico ou equivalente, de documentos privados, compostos por dados ou por imagens, observado o disposto nesta Lei, nas das demais legisla��es espec�ficas e no regulamento.
+(Inclu�do pela Medida Provis�ria n� 881, de 2019)
+� 1� Ap�s a digitaliza��o, constatada a integridade do documento digital nos termos estabelecidos no regulamento, o original poder� ser destru�do, ressalvados os documentos de valor hist�rico, cuja preserva��o observar� o disposto na legisla��o espec�fica.
+(Inclu�do pela Medida Provis�ria n� 881, de 2019)
+� 2� O documento digital e a sua reprodu��o, em qualquer meio, realizada de acordo com o disposto nesta Lei e na legisla��o espec�fica, ter�o o mesmo valor probat�rio do documento original, para todos os fins de direito, inclusive para atender ao poder fiscalizat�rio do Estado.
+(Inclu�do pela Medida Provis�ria n� 881, de 2019)
+� 3� Decorridos os respectivos prazos de decad�ncia ou de prescri��o, os documentos armazenados em meio eletr�nico, �ptico ou equivalente poder�o ser eliminados.
+(Inclu�do pela Medida Provis�ria n� 881, de 2019)
+� 4� Os documentos digitalizados nos termos do disposto neste artigo ter�o o mesmo efeito jur�dico conferido aos documentos microfilmados, nos termos do disposto na
+Lei n� 5.433, de 8 de maio de 1968,
+e regulamenta��o posterior.
+(Inclu�do pela Medida Provis�ria n� 881, de 2019)
+� 5� Ato do Secret�rio de Governo Digital da Secretaria Especial de Desburocratiza��o, Gest�o e Governo Digital do Minist�rio da Economia estabelecer� os documentos cuja reprodu��o conter� c�digo de autentica��o verific�vel.
+(Inclu�do pela Medida Provis�ria n� 881, de 2019)
+Art. 2�-A. �Fica autorizado o armazenamento, em meio eletr�nico,
+�ptico ou equivalente, de documentos p�blicos ou privados, compostos
+por dados ou por imagens, observado o disposto nesta Lei, nas
+legisla��es espec�ficas e no regulamento.
+(Inclu�do pela Lei n� 13.874, de
+2019)
+(Regulamento)
+� 1� �Ap�s a digitaliza��o, constatada a integridade do documento
+digital nos termos estabelecidos no regulamento, o original poder�
+ser destru�do, ressalvados os documentos de valor hist�rico, cuja
+preserva��o observar� o disposto na legisla��o espec�fica.
+(Inclu�do
+pela Lei n� 13.874, de
+2019)
+� 2� �O documento digital e a sua reprodu��o, em qualquer meio,
+realizada de acordo com o disposto nesta Lei e na legisla��o
+espec�fica, ter�o o mesmo valor probat�rio do documento original,
+para todos os fins de direito, inclusive para atender ao poder
+fiscalizat�rio do Estado.
+(Inclu�do pela Lei n� 13.874, de
+2019)
+� 3� �Decorridos os respectivos prazos de decad�ncia ou de
+prescri��o, os documentos armazenados em meio eletr�nico, �ptico ou
+equivalente poder�o ser eliminados.
+(Inclu�do pela Lei n� 13.874, de
+2019)
+� 4� �Os documentos digitalizados conforme o disposto neste artigo
+ter�o o mesmo efeito jur�dico conferido aos documentos microfilmados,
+nos termos da
+Lei n� 5.433, de 8 de maio de 1968
+e de regulamenta��o posterior.
+(Inclu�do pela Lei n� 13.874, de
+2019)
+� 5� �Ato do Secret�rio de Governo Digital da Secretaria Especial de
+Desburocratiza��o, Gest�o e Governo Digital do Minist�rio da
+Economia estabelecer� os documentos cuja reprodu��o conter� c�digo
+de autentica��o verific�vel.
+(Inclu�do pela Lei n� 13.874, de
+2019)
+� 6� �Ato do Conselho Monet�rio Nacional dispor� sobre o cumprimento
+do disposto no � 1� deste artigo, relativamente aos documentos
+referentes a opera��es e transa��es realizadas no sistema financeiro
+nacional.
+(Inclu�do pela Lei n� 13.874, de
+2019)
+� 7� �� l�cita a reprodu��o de documento digital, em papel ou em
+qualquer outro meio f�sico, que contiver mecanismo de verifica��o de
+integridade e autenticidade, na maneira e com a t�cnica definidas
+pelo mercado, e cabe ao particular o �nus de demonstrar
+integralmente a presen�a de tais requisitos.
+(Inclu�do pela Lei n� 13.874, de
+2019)
+� 8� Para a garantia de preserva��o da integridade, da autenticidade
+e da confidencialidade de documentos p�blicos ser� usada
+certifica��o digital no padr�o da Infraestrutura de Chaves P�blicas
+Brasileira (ICP-Brasil).
+(Inclu�do pela Lei n� 13.874, de
+2019)
+Art. 3� O processo de digitaliza��o dever� ser realizado de forma a manter a integridade, a autenticidade e, se necess�rio, a confidencialidade do documento digital, com o emprego de certificado digital emitido no �mbito da Infraestrutura de Chaves P�blicas Brasileira - ICP - Brasil.
+Art. 3� O processo de digitaliza��o dever� ser realizado de forma a manter
+a integridade, a autenticidade e, se necess�rio, a confidencialidade do
+documento digital, com o emprego de assinatura eletr�nica.
+(Reda��o dada
+pela Lei n�
+14.129, de 2021)
+(Vig�ncia)
+Par�grafo �nico. Os meios de armazenamento dos documentos digitais dever�o proteg�-los de acesso, uso, altera��o, reprodu��o e destrui��o n�o autorizados.
+Art. 4� As empresas privadas ou os �rg�os da Administra��o P�blica direta ou indireta que utilizarem procedimentos de armazenamento de documentos em meio eletr�nico, �ptico ou equivalente dever�o adotar sistema de indexa��o que possibilite a sua precisa localiza��o, permitindo a posterior confer�ncia da regularidade das etapas do processo adotado.
+Art. 5� (VETADO).
+Art. 6� Os registros p�blicos originais, ainda que digitalizados, dever�o ser preservados de acordo com o disposto na legisla��o pertinente.
+Art. 7� (VETADO).
+Art. 8� Esta Lei entra em vigor na data de sua publica��o.
+Bras�lia, 9 de julho de 2012; 191� da Independ�ncia e 124� da Rep�blica.
+DILMA ROUSSEFF
+M�rcia Pelegrini
+Guido Mantega
+Jorge Hage Sobrinho
+Luis In�cio Lucena Adams
+Este texto n�o substitui o publicado no DOU de 10.7.2012

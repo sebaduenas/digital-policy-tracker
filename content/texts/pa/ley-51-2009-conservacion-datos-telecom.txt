@@ -1,0 +1,357 @@
+REPÚBLICA DE PANAMÁ
+                                        ASAMBLEA NACIONAL
+                                             LEGISPAN
+                             LEGISLACIÓN DE LA REPÚBLICA DE PANAMÁ
+
+   Tipo de Norma: LEY
+          Número:           51                  Referencia:
+             Año: 2009            Fecha(dd-mm-aaaa): 18-09-2009
+          Titulo: QUE DICTA NORMAS PARA LA CONSERVACION, LA PROTECCION Y EL SUMINISTRO DE
+                  DATOS DE USUARIOS DE LOS SERVICIOS DE TELECOMUNICACIONES Y ADOPTA OTRAS
+                  DISPOSICIONES.
+
+    Dictada por: ASAMBLEA NACIONAL
+  Gaceta Oficial: 26374                       Publicada el: 23-09-2009
+Rama del Derecho: DER. ADMINISTRATIVO, DER. DE INFORMATICA
+
+ Palabras Claves: Internet, Computadora, Tecnología, Comunicaciones, Teléfonos celulares,
+                  Teléfonos, Servicio telefónico, Seguridad pública, Accidentes, Servicio de
+                  información, Servicios públicos, Entidades públicas
+
+         Páginas:       7                    Tamaño en Mb:           0.311
+           Rollo: 567                             Posición:   2067
+
+
+                                 TEL.:212-8496 - EMAIL:LEGISPAN@ASAMBLEA.GOB.PA
+                                              WWW.ASAMBLEA.GOB.PA
+Digitalizado por la Asamblea Nacional
+Digitalizado por la Asamblea Nacional
+Digitalizado por la Asamblea Nacional
+Digitalizado por la Asamblea Nacional
+Digitalizado por la Asamblea Nacional
+Digitalizado por la Asamblea Nacional
+Digitalizado por la Asamblea Nacional
+G.O. 26374
+                                           LEY 51
+                                  De 18 de septiembre de 2009
+
+     Que dicta normas para la conservación, la protección y el suministro
+          de datos de usuarios de los servicios de telecomunicaciones
+                         y adopta otras disposiciones
+
+                                  LA ASAMBLEA NACIONAL
+                                             DECRETA:
+
+                                           Capítulo I
+                                        Registro de Datos
+
+
+Artículo 1. Las empresas concesionarias, los distribuidores, los agentes autorizados y los
+revendedores de telefonía móvil, fija y troncal, los Internet cafés, las infoplazas y las redes de
+comunicación que presten el servicio y/o lo comercialicen, en o desde la República de
+Panamá, deberán establecer y conservar un registro de datos que proporcione la identificación
+y dirección suministradas por los usuarios que contraten sus servicios, en cualquiera de sus
+modalidades, en todo el territorio nacional.
+
+
+Artículo 2. Los datos de registro y conservación necesarios para identificar al usuario de las
+empresas concesionarias, los distribuidores, los agentes autorizados y los revendedores de
+telefonía móvil, fija y troncal, de Internet cafés, de infoplazas y de redes de comunicación
+serán los siguientes:
+1.     Para rastrear e identificar el origen de una comunicación:
+       a.      Con respecto a la red de telefonía fija, móvil y troncal, número de teléfono del
+               cliente, nombre, dirección suministrada por el cliente y copia de cédula o de
+               pasaporte.
+                        En caso de sociedades, asociaciones o fundaciones, copia del
+               certificado de Registro Público aportado al momento de crearse la cuenta de
+               red de telefonía fija, móvil y troncal del abonado o usuario y copia de cédula o
+               del pasaporte del representante legal o la persona autorizada para crear una
+               cuenta con la empresa de telefonía fija, móvil o troncal.
+       b.      Con respecto al servicio de Internet, cuando se pueda determinar, nombre,
+               dirección suministrada por el cliente al que se le ha asignado, al momento de la
+               comunicación, una dirección de Protocolo de Internet (IP), número de teléfono
+               asignado a toda comunicación que acceda a la red pública de telefonía, siempre
+               que el servicio de Telefonía IP sea brindado por el concesionario.
+       c.      Con respecto al servicio de Internet inalámbrico, el número de la línea que se
+               utiliza para este servicio.
+       d.      Con respecto al acceso al servicio de Internet fijo o móvil, le corresponderá al
+               concesionario la identificación del usuario, número de teléfono asignado,
+               cuando corresponda, el nombre y la dirección, la fecha y hora de la conexión y
+               la dirección IP.
+
+
+                 ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ
+G.O. 26374
+      e.     Con respecto a correos electrónicos, el nombre y la dirección física del dueño
+             de una cuenta de correo electrónico que origina un mensaje, cuando esta
+             dirección corresponda al concesionario.
+      f.     Con respecto al servicio de Internet proporcionado por un Internet café,
+             infoplaza o similar, la identificación del cliente, así como la fecha y hora en
+             que se usó el servicio.
+2.    Para identificar el destino de una comunicación:
+      a.     Con respecto a la red de telefonía fija, móvil y troncal, el concesionario del
+             usuario del equipo que origina una llamada debe proporcionar el número o los
+             números marcados (el número o números de teléfono del destino) y, en los
+             casos que intervengan otros servicios como el desvío o transferencia de
+             llamada, el número o los números a los cuales se transfieran las llamadas. El
+             concesionario del usuario que recibe la llamada debe proporcionar el nombre y
+             la dirección suministrada por el cliente.
+      b.     Con respecto al correo electrónico por Internet, el concesionario del cliente que
+             recibe un correo electrónico debe proporcionar el nombre y la dirección física
+             del dueño de la dirección de correo electrónico cuando esta dirección
+             corresponda al concesionario.
+3.    Para determinar la hora, fecha y duración de una comunicación:
+      a.     Con respecto a la red de telefonía fija, móvil y troncal, la fecha y hora de inicio
+             y fin de la comunicación.
+      b.     Con respecto al acceso a Internet, en los casos en que la conexión no sea
+             permanente, la fecha y hora de la conexión al punto de acceso que suministra el
+             concesionario del servicio de Internet.
+4.    Para identificar el tipo de comunicación:
+      a.     Con respecto a la red de telefonía fija, móvil y troncal, el servicio telefónico
+             utilizado, el tipo de comunicación con base en los servicios facturados
+             incluidos la transmisión de datos, el buzón de mensajes de voz, la conferencia
+             y los datos, servicios suplementarios incluidos el reenvío o la transferencia de
+             llamada, o servicios de mensajería o multimedia empleados incluidos los
+             servicios de mensajes cortos y servicios multimedia.
+5.    Para identificar el equipo de comunicación:
+      a.     Con respecto a la red de telefonía fija, los números de teléfono de origen.
+      b.     Con respecto a la red de telefonía móvil, los números de teléfono de origen, la
+             identidad internacional del abonado móvil (IMSI por sus siglas en inglés) de la
+             parte que efectúa la llamada y la identidad internacional del equipo móvil
+             (IMEI por sus siglas en inglés) de la parte que efectúa la llamada. En el caso
+             de los servicios de tarjetas prepago, la fecha y la hora de la activación del
+             servicio, así como la ubicación de la celda que registró la activación del
+             servicio.
+      c.     Con respecto al acceso a Internet, el número de teléfono de origen en caso de
+             acceso mediante el marcado de números. En la medida en que se pueda
+
+
+               ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ
+G.O. 26374
+               identificar, la línea digital del abonado (DSL) u otro punto terminal del
+               generador de la comunicación.
+6.     Para identificar la localización del equipo de comunicación móvil, ubicación
+       geográfica de la celda donde se inicia la comunicación.
+
+
+Artículo 3. Las empresas concesionarias, los distribuidores, los agentes autorizados y los
+revendedores de telefonía móvil, fija y troncal, los Internet cafés, las infoplazas y las redes de
+comunicación establecidos en el territorio nacional están obligados a adoptar las medidas
+necesarias para garantizar que los datos señalados en el artículo anterior se conserven
+debidamente en tales empresas, en la medida en que sean generados por estas en el marco de
+la prestación de los servicios de comunicación y comercialización de que se traten, y por el
+término que se establece en el artículo 6 de la presente Ley.
+
+
+Artículo 4.    Los operadores de telefonía móvil, sus filiales y agentes autorizados que
+comercialicen servicios con sistemas de actividad mediante la modalidad de tarjetas prepago
+deberán llevar un registro en el que conste la identidad o las generales que suministren sus
+clientes que adquieren una unidad de teléfono o tarjeta inteligente (SIM) con dicha modalidad
+de pago.
+
+
+Artículo 5. Las empresas concesionarias están obligadas a mantener una base de datos en la
+que se registre la información de los equipos terminales móviles reportados ante ellas como
+extraviados, hurtados, robados o encontrados, de forma tal que establezcan e intercambien
+entre sí, periódicamente, la lista de equipos terminales extraviados, hurtados, robados o
+encontrados que hayan sido reportados por sus usuarios y clientes. Dicha base de datos
+contendrá, como mínimo, la siguiente información:
+1.     La marca, el modelo y, de ser posible, el número de serie del equipo terminal móvil.
+2.     La fecha y hora en que se hace el reporte.
+3.     El hecho que motiva el reporte, es decir, si es por razón de equipo extraviado, hurtado,
+       robado o encontrado.
+4.     El número y tipo de documentación que identifique a quien reporta.
+       Las empresas concesionarias estarán obligadas a mantener en la base de datos todos
+los reportes realizados por sus usuarios y clientes por un periodo mínimo de dos años.
+       El reporte del equipo y/o tarjeta inteligente (SIM) extraviados, hurtados, robados o
+encontrados podrá hacerse vía telefónica o personalmente en los centros de atención al cliente
+de los concesionarios.
+
+
+Artículo 6. La obligación de conservar los datos señalados en esta Ley por parte de las
+empresas prestadoras de los servicios cesa a los seis meses, contados desde la fecha en que se
+haya generado la información. No obstante, a solicitud de autoridad judicial de información
+específica, se podrá ampliar el plazo de conservación para determinados datos, hasta un
+máximo de seis meses adicionales al periodo anterior, tomando en consideración el costo del
+almacenamiento y la conservación de los datos, así como el interés de estos para los fines de
+detención, investigación y enjuiciamiento de los delitos.
+
+                 ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ
+G.O. 26374
+
+
+                                        Capítulo II
+                         Medidas de Protección del Registro de Datos
+
+Artículo 7. La obligación de conservar la información o los datos previstos en esta Ley en
+ningún caso conllevará actividades dirigidas a interceptar, grabar o acceder al contenido de las
+comunicaciones de telefonía fija o móvil, o a la información generada por motivo de las
+comunicaciones vía Internet.
+
+
+Artículo 8.    Se prohíbe la utilización de la información y de los datos conservados y
+registrados en cumplimiento de la presente Ley para fines distintos a los que esta dispone.
+      El uso de la información o de los datos para fines distintos será sancionado penalmente
+por la autoridad judicial competente.
+
+
+Artículo 9. Las empresas concesionarias deberán tomar las medidas técnicas necesarias
+respecto de la información y los datos objeto de registro para garantizar su integridad y
+protección, así como para evitar su destrucción, manipulación, alteración, cancelación o
+acceso ilícito dentro del marco de la presente Ley.
+
+
+Artículo 10. Los datos conservados y la información suministrada con arreglo a lo dispuesto
+en esta Ley tienen el carácter de información confidencial y solo podrán ser proveídos de
+conformidad con lo establecido en la Constitución Política de la República, la presente Ley y
+sus reglamentaciones.
+
+
+                                        Capítulo III
+                               Suministro del Registro de Datos
+
+Artículo 11.    Es deber de las empresas concesionarias, los distribuidores, los agentes
+autorizados y los revendedores de telefonía móvil, fija y troncal, los Internet cafés, las
+infoplazas y las redes de comunicación suministrar al Ministerio Público o a la autoridad
+judicial la información y los datos que cuenten en sus sistemas de información y que se
+requieran para la investigación de delitos, la detención y el enjuiciamiento de las personas
+vinculadas, directa o indirectamente, con la comisión de dichos delitos, de acuerdo con las
+formalidades legales y para los fines específicos establecidos en la ley.
+       En todo caso, se guardará absoluta reserva sobre los asuntos ajenos al objeto del
+examen o de la retención de la información y de los datos solicitados.
+
+
+Artículo 12. La información o los datos requeridos por el Ministerio Público, en el marco de
+una investigación penal, serán solicitados a las empresas de que trata el artículo anterior,
+mediante resolución motivada, con base en el principio de proporcionalidad                  y de
+excepcionalidad, la que será objeto del control o la revisión posterior de la autoridad judicial a
+la que le corresponda el conocimiento de la causa.
+
+
+                 ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ
+G.O. 26374
+Artículo 13. Las empresas concesionarias estarán obligadas a suministrar, al Ministerio
+Público o a la autoridad judicial, según corresponda, la información requerida y que repose en
+los registros mantenidos de conformidad con lo establecido en la presente Ley, de la siguiente
+manera:
+1.     En el término de cinco días hábiles, cuando la solicitud trata de información
+       correspondiente a registros dentro de los seis meses desde que se haya generado la
+       información.
+2.     En el término de quince días hábiles, cuando sea para responder solicitud de
+       información concerniente al plazo ampliado establecido en el artículo 6 de esta Ley.
+
+
+Artículo 14.      Las empresas concesionarias designarán personal especializado para la
+coordinación y atención expedita, a fin de ejecutar las solicitudes por escrito emanadas del
+Ministerio Público o de autoridad judicial para la obtención de la información y de los datos
+que requiere.
+
+
+                                          Capítulo IV
+                                    Disposiciones Adicionales
+
+Artículo 15. Se adiciona el numeral 7 al artículo 27 de la Ley 44 de 2007, así:
+       Artículo 27. Son infracciones a la presente Ley:
+       …
+       7.       Realizar llamadas     que suministren información falsa al SUME 9-1-1, que
+                provoquen la afectación y la interrupción al servicio, u ocupen falsamente las
+                redes del SUME 9-1-1.
+
+
+Artículo 16. El artículo 28 de la Ley 44 de 2007 queda así:
+       Artículo 28. Las infracciones descritas en los numerales 1 y 2 del artículo anterior
+       serán sancionadas con multas de cien balboas (B/.100.00) a cinco mil balboas
+       (B/.5,000.00). Las infracciones descritas en los numerales 3, 4, 5, 6 y 7 de dicho
+       artículo serán sancionadas con multas de cinco mil balboas (B/.5,000.00) a diez mil
+       balboas (B/.10,000.00).
+                Para este fin, el Director Ejecutivo del SUME 9-1-1 pondrá en conocimiento a
+       los patronos de la situación de infracción junto con los elementos probatorios que
+       correspondan, quienes a su vez solicitarán formalmente a la Dirección Ejecutiva que
+       imponga las sanciones correspondientes al caso.
+                Las multas ingresarán al fondo especial SUME 9-1-1 y se impondrán sin
+       perjuicio de otras sanciones legales a que haya lugar.
+
+
+Artículo 17. Se adiciona el artículo 28-A a la Ley 44 de 2007, así:
+       Artículo 28-A. Las empresas que prestan los servicios de telecomunicación básica
+       local (101), servicio de larga distancia nacional (102), servicio de larga distancia
+       internacional (103), servicios de telefonía móvil celular (107) y servicios de
+
+
+                  ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ
+G.O. 26374
+       comunicaciones personales (106) deberán suspender la línea que el SUME 9-1-1
+       reporte como llamada que suministre información falsa.
+
+
+                                          Capítulo V
+                                      Disposiciones Finales
+
+Artículo 18 (transitorio). En un plazo no mayor de doce meses calendario, contado a partir
+de la entrada en vigencia de la presente Ley, todas las empresas concesionarias, los
+distribuidores, los agentes autorizados y los revendedores de telefonía móvil, fija y troncal,
+los Internet cafés, las infoplazas y las redes de comunicación que presten el servicio y/o lo
+comercialicen deberán adoptar las medidas necesarias para establecer la conservación y el
+registro de los datos de los usuarios que contraten telefonía en cualquiera de sus modalidades,
+comunicaciones en redes y similares, así como la actualización de datos personales y registros
+de identificación y ubicación de estos.
+
+
+Artículo 19 (transitorio). Para efectos del artículo anterior, las empresas concesionarias
+deberán informar a los usuarios del servicio que prestan su obligación de suministrar y
+actualizar los datos a través de los formularios que prepararán para ese propósito.         El
+formulario deberá ser firmado por el usuario y deberá contener una leyenda en la cual este
+certifique que la información presentada es veraz. Las empresas concesionarias tomarán las
+medidas necesarias para registrar y actualizar los datos de sus usuarios o clientes al momento
+de la renovación de sus respectivos servicios de comunicación.
+
+
+Artículo 20. La presente Ley modifica el artículo 28 y adiciona el numeral 7 al artículo 27 y
+el artículo 28-A a la Ley 44 de 31 de octubre de 2007.
+
+
+Artículo 21. Esta Ley comenzará a regir el día siguiente al de su promulgación.
+
+
+COMUNÍQUESE Y CÚMPLASE.
+Proyecto 28 de 2009 aprobado en tercer debate en el Palacio Justo Arosemena, ciudad de
+Panamá, a los dos días del mes de septiembre del año dos mil nueve.
+
+
+                                                                   El Presidente,
+                                                                José Luis Varela R.
+
+        El Secretario General,
+       Wigberto E. Quintero G.
+
+
+ÓRGANO EJECUTIVO NACIONAL. PRESIDENCIA DE LA REPÚBLICA,
+PANAMÁ, REPÚBLICA DE PANAMA, 18 DE SEPTIEMBRE DE 2009.
+
+
+                                                              RICARDO MARTINELLI B.
+                                                              Presidente de la República
+
+
+       JOSÉ RAÚL MULINO
+    Ministro de Gobierno y Justicia
+
+                 ASAMBLEA NACIONAL, REPÚBLICA DE PANAMÁ
+                       ASAMBLEA NACIONAL
+
+            LEY: 051   DE   2009
+
+PROYECTO DE LEY: 2009_P_028.PDF
+   NOMENCLATURA: AÑO_MES_DÍA_LETRA_ORIGEN
+                                   ACTAS DEL MISMO DÍA: A, B, C, D
+
+                                   ACTAS DE VARIOS DIAS: V
+
+
+                            ACTAS DEL PLENO
+
+                    2009_08_31_A_PLENO.PDF
+
+                    2009_09_01_A_PLENO.PDF
+
+                    2009_09_02_A_PLENO.PDF

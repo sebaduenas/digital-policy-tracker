@@ -1,0 +1,1046 @@
+PLAN NACIONAL DE TELECOMUNICACIONES
+                         2024-2025
+
+
+   Subsecretaría de Telecomunicaciones y Asuntos Postales
+
+
+Dirección de Políticas de Telecomunicaciones y Asuntos Postales
+
+
+                             2024
+CONTENIDO
+
+
+1.     INTRODUCCIÓN .................................................................................................... 2
+2.     MARCO NORMATIVO ........................................................................................... 3
+3.     MARCO CONCEPTUAL .......................................................................................... 6
+4.     ALINEACIÓN CON LAS POLÍTICAS E INSTRUMENTOS DE PLANIFICACIÓN ........ 7
+5.     PLAN NACIONAL DE TELECOMUNICACIONES ................................................... 12
+5.1 Objetivo General ................................................................................................ 12
+5.2 Objetivos Específicos ......................................................................................... 12
+       SIMPLIFICACIÓN Y MEJORA REGULATORIA ...................................................... 12
+       CONECTIVIDAD ................................................................................................... 13
+       ACCESO A LOS SERVICIOS DE TELECOMUNICACIONES .................................... 14
+       RADIODIFUSIÓN Y TELEVISIÓN .......................................................................... 15
+6.     PLANIFICACIÓN DE ACCIONES, PRODUCTOS Y ACTORES INVOLUCRADOS ..... 15
+     6.1     DEFINICIÓN DE INDICADOR Y META.......................................................... 16
+7.     PRESUPUESTO REFERENCIAL ............................................................................. 17
+8.     MODELO DE GESTIÓN SEGUIMIENTO Y EVALUACIÓN ..................................... 19
+9.     SIGLAS Y ACRÓNIMOS ........................................................................................ 22
+10. FIRMAS DE ELABORACIÓN, REVISIÓN Y APROBACIÓN..................................... 23
+
+
+                                                                                                                    1
+1. INTRODUCCIÓN
+
+
+Mediante Acuerdo Ministerial Nro. MINTEL-MINTEL-2023-0010 de 16 de mayo de
+2023, se aprobó la Política Pública de Telecomunicaciones 2023-2025, publicada en el
+Suplemento Nro. 328. del Registro Oficial de 9 de junio de 2023, cuyo objetivo es
+promover un entorno favorable para acelerar el fortalecimiento del sector de las
+telecomunicaciones, la reducción de la brecha digital, la simplificación y eficiencia
+regulatoria y el fomento de las inversiones para que los mercados puedan innovar
+transformarse, y, a su vez, se maximicen los beneficios para la población. La Política
+Pública de Telecomunicaciones especifica cuatro (4) ejes: gobernanza y marco
+normativo; conectividad; acceso; y, radiodifusión y televisión.
+
+El crecimiento exponencial de las nuevas tecnologías de la información ha generado
+un cambio significativo en el desarrollo y la creación de oportunidades en los países,
+lo que ha llevado a transformaciones importantes en el sector de las
+telecomunicaciones. Como resultado, este sector se ha convertido en uno de los más
+influyentes en las actividades económicas, sociales y de desarrollo de una nación.
+
+Asimismo, es importante tener en cuenta que todavía existe una brecha digital,
+especialmente en los segmentos vulnerables de la población y en las áreas rurales.
+Por lo tanto, para reducir esta brecha, es necesario avanzar en la conectividad y la
+cobertura de servicios de telecomunicaciones y permitir un mayor acceso y uso
+efectivo de las tecnologías de la información, permitiendo alcanzar los objetivos
+establecidos en el Plan Nacional de Desarrollo “Plan de Desarrollo para el Nuevo
+Ecuador 2024 - 2025“.
+
+En este contexto, el Ministerio de Telecomunicaciones y de la Sociedad de la
+Información (MINTEL), en el ámbito de sus atribuciones, impulsó un nuevo proceso
+participativo para la expedición del Plan Nacional de Telecomunicaciones, alineado
+con las necesidades actuales del sector a la Agenda 2030 de Desarrollo Sostenible
+emitida por la Organización de las Naciones Unidas, a la planificación nacional
+establecida en el “Plan de Desarrollo para el Nuevo Ecuador 2024 – 2025”, y a los
+planes sectoriales, a fin de implementar la Política Pública de Telecomunicaciones
+2023-2025.
+
+Para el desarrollo del presente Plan, se tomó como referencia las etapas y algunos
+acápites de la Guía Metodológica para la Formulación de Planes Sectoriales, emitida
+por la Secretaría Nacional de Planificación, estableciendo objetivos, acciones,
+
+
+                                                                                    2
+indicadores y metas a nivel de plan, para el cumplimiento especialmente de las
+estrategias que constan en la Política Pública del Sector de Telecomunicaciones.
+
+2. MARCO NORMATIVO.-
+
+
+Constitución de la República:
+
+
+   Art 15.- “A las ministras y ministros de Estado, además de las atribuciones
+    establecidas en la ley, les corresponde: 1. Ejercer la rectoría de las políticas
+    públicas del área a su cargo y expedir los acuerdos y resoluciones
+    administrativas que requiera su gestión (…)”.
+
+   Art 16.- “Todas las personas, en forma individual o colectiva, tienen derecho a:
+    (…) 2. El acceso universal a las tecnologías de información y comunicación (…)”.
+
+   Art 226.- “Las instituciones del Estado, sus organismos, dependencias, las
+    servidoras o servidores públicos y las personas que actúen en virtud de una
+    potestad estatal ejercerán solamente las competencias y facultades que les sean
+    atribuidas en la Constitución y la ley. Tendrán el deber de coordinar acciones para
+    el cumplimiento de sus fines y hacer efectivo el goce y ejercicio de los derechos
+    reconocidos en la Constitución”.
+
+   Art 227.- “La administración pública constituye un servicio a la colectividad que se
+    rige por los principios de eficacia, eficiencia, calidad, jerarquía, desconcentración,
+    descentralización, coordinación, participación, planificación, transparencia y
+    evaluación”.
+
+    Artículo 261.- “El Estado central tendrá competencias exclusivas sobre: (…) 10. El
+    espectro radioeléctrico y el régimen general de comunicaciones y
+    telecomunicaciones (…)”.
+
+    Art 313.- “El Estado se reserva el derecho de administrar, regular, controlar y
+    gestionar los sectores estratégicos, de conformidad con los principios de
+    sostenibilidad ambiental, precaución, prevención y eficiencia. (…) Se consideran
+    sectores estratégicos la energía en todas sus formas, las telecomunicaciones, los
+    recursos naturales no renovables, el transporte y la refinación de hidrocarburos,
+
+                                                                                        3
+    la biodiversidad y el patrimonio genético, el espectro radioeléctrico, el agua, y los
+    demás que determine la ley”.
+
+    Art 314.- “El Estado será responsable de la provisión de los servicios públicos de
+    agua potable y de riego, saneamiento, energía eléctrica, telecomunicaciones,
+    vialidad, infraestructuras portuarias y aeroportuarias, y los demás que determine
+    la ley. El Estado garantizará que los servicios públicos y su provisión respondan a
+    los principios de obligatoriedad, generalidad, uniformidad, eficiencia,
+    responsabilidad, universalidad, accesibilidad, regularidad, continuidad y calidad.
+    El Estado dispondrá que los precios y tarifas de los servicios públicos sean
+    equitativos, y establecerá su control y regulación”.
+
+Ley Orgánica de Telecomunicaciones1 - LOT:
+
+
+    El Artículo 3 determina que sus objetivos son: “(…) 2.- Fomentar la inversión
+    nacional e internacional, pública o privada para el desarrollo de las
+    telecomunicaciones; (…) 5.- Promover el despliegue de redes e infraestructura de
+    telecomunicaciones, que incluyen audio y vídeo por suscripción y similares, bajo el
+    cumplimiento de normas técnicas, políticas nacionales y regulación de ámbito
+    nacional, relacionadas con ordenamiento de redes, soterramiento y
+    mimetización”.
+
+   El artículo 7, respecto de las competencias del Gobierno Central, establece: “El
+    Estado, a través del Gobierno Central tiene competencias exclusivas sobre el
+    espectro radioeléctrico y el régimen general de telecomunicaciones. Dispone del
+    derecho de administrar, regular y controlar los sectores estratégicos de
+    telecomunicaciones y espectro radioeléctrico, lo cual incluye la potestad para
+    emitir políticas públicas, planes y normas técnicas nacionales, de cumplimiento en
+    todos los niveles de gobierno del Estado. La gestión, entendida como la
+    prestación del servicio público de telecomunicaciones se lo realizará conforme a
+    las disposiciones constitucionales y a lo establecido en la presente Ley”.
+
+   El artículo 40, señala: “Para el otorgamiento y renovación de los títulos
+    habilitantes para la prestación de servicios a empresas mixtas, organizaciones de
+
+1 Publicada en el Tercer Suplemento del Registro Oficial No. 439, 18 de febrero 2015; última reforma
+
+publicada en el Suplemento del Registro Oficial No. 279, 29 de marzo de 2023.
+
+                                                                                                       4
+    economía popular y solidaria y empresas privadas, la Agencia de Regulación y
+    Control de las Telecomunicaciones considerará la necesidad de atender: al
+    desarrollo tecnológico, a la evolución de los mercados, al Plan Nacional de
+    Telecomunicaciones, a las necesidades para el desarrollo sostenido del sector y
+    del Estado y el acceso universal a las tecnologías de información y comunicación,
+    así como a la satisfacción efectiva del interés público o general. (…)”.
+
+   El artículo 140 establece: “El Ministerio encargado del sector de las
+    Telecomunicaciones y de la Sociedad de la Información es el órgano rector de las
+    telecomunicaciones y de la sociedad de la información, informática, tecnologías
+    de la información y las comunicaciones y de la seguridad de la información. A
+    dicho órgano le corresponde el establecimiento de políticas, directrices y planes
+    aplicables en tales áreas para el desarrollo de la sociedad de la información, de
+    conformidad con lo dispuesto en la presente Ley, su Reglamento General y los
+    planes de desarrollo que se establezcan a nivel nacional. Los planes y políticas
+    que dicte dicho Ministerio deberán enmarcarse dentro de los objetivos del Plan
+    Nacional de Desarrollo y serán de cumplimiento obligatorio tanto para el sector
+    público como privado”.
+
+   El artículo 141 determina entre otras competencias: "2. Formulan dirigir, orientar
+    y coordinar las políticas, planes y proyectos para la promoción de las tecnologías
+    de la información y la comunicación y el desarrollo de las telecomunicaciones, así
+    como supervisar y evaluar su cumplimiento".
+
+Reglamento General a la Ley Orgánica de Telecomunicaciones2 - RLOT:
+
+   El artículo 5 establece que son atribuciones del Ministerio rector de las
+    telecomunicaciones y de la sociedad de la información: “2. Elaborar y aprobar los
+    planes de Servicio Universal, Plan de Sociedad de la Información, Plan Nacional de
+    Telecomunicaciones.”.
+
+Acuerdo No. MINTEL-2022-0016 de 13 de junio de 2022:
+
+
+2 Registro Oficial Suplemento No. 676, 25 de enero de 2016; última reforma: Segundo Suplemento No.
+
+608, 30 de diciembre de 2021.
+
+                                                                                                     5
+   Del Direccionamiento de Tecnologías de la Información y Comunicación, entre las
+    atribuciones del Viceministro de Tecnologías de la Información y Comunicación
+    establece: “Aprobar los informes para la emisión de políticas, planes, programas,
+    proyectos, normas y directrices en los sectores de telecomunicaciones y sociedad
+    de la información (…)”.
+   De la Gestión de Telecomunicaciones y Asuntos Postales, como parte de las
+    atribuciones del Subsecretario de Telecomunicaciones y Asuntos Postales se
+    encuentran: “a) Formular políticas, políticas públicas, planes y proyectos que
+    promuevan el desarrollo del sector de las telecomunicaciones y propender la
+    eliminación de la brecha digital; (…)”.
+   De la Gestión de Políticas de Telecomunicaciones y Asuntos Postales, entre las
+    atribuciones de la Dirección de Políticas de Telecomunicaciones y Asuntos
+    Postales es “Elaborar, revisar y gestionar el Plan Nacional de
+    Telecomunicaciones”.
+
+3. MARCO CONCEPTUAL.-
+
+
+Para la aplicación del presente Plan, además de las disposiciones contenidas en la Ley
+Orgánica de Telecomunicaciones y su Reglamento General, las cuales tendrán
+prevalencia sobre cualquier otra definición, se considerarán las siguientes
+definiciones:
+
+Brecha digital: Desigualdad en el acceso y uso de Internet y las Tecnologías de la
+Información y Comunicación - TIC.
+
+Universalidad de Internet: “(…) medio para crear sociedades del conocimiento y la
+agenda de desarrollo sostenible después de 2015” (UNESCO, 2013).
+
+Zonas fronterizas: “(…) cantones y las parroquias rurales que se encuentren total o
+parcialmente, dentro de la franja de cuarenta kilómetros desde la línea de frontera”
+(Art. 2 de la Ley Orgánica de Desarrollo Fronterizo).
+
+Zonas priorizadas: “Son áreas geográficas definidas por el MINTEL que carecen o
+tienen escasa cobertura de servicios de telecomunicaciones (SMA y SAI), las cuales
+requieren ser atendidas a través de la ejecución de proyectos que garanticen la
+prestación del Servicio Universal”. (PSU, 2022).
+
+Las definiciones técnicas no contempladas en el presente instrumento tendrán el
+significado adoptado por la Unión Internacional de Telecomunicaciones (UIT),
+                                                                              6
+normativa secundaria de la Agencia de Control y Regulación de las
+Telecomunicaciones (ARCOTEL) e instrumentos que se emitan por parte del
+Ministerio rector de las Telecomunicaciones y de la Sociedad de la Información.
+
+
+4. ALINEACIÓN CON LAS POLÍTICAS                                      E INSTRUMENTOS DE
+   PLANIFICACIÓN.-
+4.1 ESTRATEGIAS DE LA POLÍTICA PÚBLICA DEL SECTOR DE
+    TELECOMUNICACIONES.-
+
+
+En la Política Pública del Sector de Telecomunicaciones se establecieron estrategias
+sobre las cuales es necesario desarrollar acciones que permitan su implementación,
+lo que se ejecutará a través de la implementación del presente Plan. A continuación,
+se detallan las estrategias por cada componente de la Política Pública mencionada:
+         EJE                   OBJETIVOS                                  ESTRATEGIAS
+                                                        a) Fortalecer la gobernanza y el marco legal
+                                                        promoviendo las inversiones en el sector y la
+                                                        conectividad
+                                                        b) Acelerar la simplificación y mejora regulatoria de
+                                                        trámites y normativas como un mecanismo de reforma
+                                                        estructural y calidad regulatoria, para facilitar el
+                                                        despliegue de los servicios de telecomunicaciones
+                                                        c) Impulsar la innovación sobre los regímenes de
+                                                        regulación, control y otorgamiento de títulos
+                     Modernizar el marco legal y        habilitantes; así como promover el establecimiento de
+                     regulatorio        de        las   procedimientos y herramientas regulatorias ágiles y
+                     telecomunicaciones,                efectivas para la introducción de nuevos servicios y
+                     enfocándolos        en       las   toma de decisiones.
+                     prioridades del desarrollo         d) Establecer el principio de efectividad, idoneidad y
+GOBERNANZA Y MARCO                                      eficiencia en la emisión de normativas y requerimientos
+                     socioeconómico del país, que
+NORMATIVO                                               de la        información     a    los  operadores    de
+                     facilite el despliegue de
+                     infraestructuras             de    telecomunicaciones, así como la estandarización de las
+                     telecomunicaciones,           el   estadísticas del sector que permitan fortalecer las
+                     fomento de servicios de            capacidades de monitoreo, evaluación del mercado, y
+                     banda      ancha,    eficientes,   los procesos de mejora.
+                     inclusivas y asequibles.           e) Fomentar regulación equilibrada y desregularizar
+                                                        aquellos servicios de telecomunicaciones que compiten
+                                                        con servicios sustitutos o convergentes o que, de
+                                                        acuerdo a su grado de madurez o comportamiento,
+                                                        requieran una desregulación para su optimización, como
+                                                        el servicio de telefonía fija y el de audio y video por
+                                                        suscripción.
+                                                        f) Promover la calidad de los servicios de
+                                                        telecomunicaciones a través de la evaluación,
+                                                        monitoreo y control, orientado a una mejora continua
+                                                        de los servicios a la ciudadanía.
+
+                                                                                                           7
+          EJE              OBJETIVOS                                       ESTRATEGIAS
+                                                    a) Promover mecanismos efectivos de atribución,
+                                                    asignación, y adjudicación del espectro radioeléctrico
+                                                    para nuevas tecnologías, y ampliación de cobertura en
+                                                    servicios de telecomunicaciones conforme a las
+                                                    recomendaciones internacionales.
+                                                    b) Coordinar con las diferentes funciones del Estado
+                                                    para facilitar la instalación y despliegue de
+                                                    infraestructuras, a través de la fijación de
+                                                    procedimientos para obtención de permisos ágiles y
+                                                    eficientes en materia de ordenamiento y soterramiento
+                                                    de redes, a fin de acelerar e incentivar el despliegue de
+                  Promover el despliegue de
+                                                    infraestructura de telecomunicaciones, y que se
+                  infraestructura     y       la
+                                                    encuentren acorde a las mejores prácticas
+                  masificación de los servicios
+                                                    internacionales.
+CONECTIVIDAD      de        telecomunicaciones,
+                                                    c) Incentivar la inversión y proyectos de conectividad
+                  impulsando la inversión,
+                                                    con tecnologías emergentes e innovadoras para llevar
+                  nuevas tecnologías y servicios
+                                                    servicios de conectividad con énfasis en zonas de difícil
+                  de calidad.
+                                                    acceso, rurales y suburbanas mediante el
+                                                    aprovechamiento de las innovaciones tecnológicas, a fin
+                                                    de acelerar el cierre de la brecha de conectividad.
+                                                    d) Fomentar la reducción de la brecha digital, el uso
+                                                    eficiente del espectro, el servicio y acceso universal
+                                                    mediante incentivos normativos y regulatorios,
+                                                    promoviendo la competencia y la mejora en la calidad
+                                                    de la prestación de los servicios de telecomunicaciones.
+                                                    e) Promover la migración de los servicios de segunda y
+                                                    tercera generación a redes de 4G o superiores,
+                                                    mediante incentivos normativos y regulatorios.
+                                                    a) Impulsar mecanismos e incentivos para el acceso a
+                                                    los servicios de telecomunicaciones a grupos prioritarios
+                                                    a través de tarifas preferenciales, e incentivar mejores
+                                                    condiciones para los sectores productivos.
+                                                    b) Promover la actualización de la definición de la
+                  Promover mecanismos e
+                                                    velocidad de banda ancha y su disponibilidad conforme
+                  incentivos para mejorar la
+                                                    a las necesidades del país.
+ACCESO            asequibilidad y el acceso a los
+                                                    c) Promover un ecosistema de innovación e incentivos
+                  servicios de banda ancha en la
+                                                    regulatorios para operadores que desplieguen redes en
+                  población.
+                                                    zonas rurales y fronterizas, así como la adopción de
+                                                    tecnologías emergentes en sectores productivos.
+                                                    d) Promover el desarrollo de infraestructura para la
+                                                    banda ancha de alta velocidad, que permita el acceso al
+                                                    servicio de internet en el territorio nacional.
+                                                    a) Impulsar mecanismos eficientes para la asignación
+                  Promover los servicios de         de frecuencias, para la prestación de servicios de
+                  radiodifusión y televisión por    radiodifusión sonora y de televisión abierta, de
+RADIODIFUSIÓN Y
+                  suscripción a través de la        conformidad con recomendaciones de organismos
+TELEVISIÓN
+                  mejora regulatoria y la           internacionales, adoptando medidas de acción
+                  innovación de los servicios.      afirmativa establecidas en la Ley Orgánica de
+                                                    Comunicación.
+
+
+                                                                                                         8
+         EJE                 OBJETIVOS                               ESTRATEGIAS
+                                               b) Promover servicios de radiodifusión sonora y de
+                                               televisión de acuerdo con estándares internacionales de
+                                               calidad; así como impulsar la cooperación
+                                               interinstitucional para la ejecución de acciones
+                                               tendientes a la prevención y disminución de la piratería
+                                               en los servicios de audio y video por suscripción.
+                                               c) Impulsar el desarrollo tecnológico de los servicios de
+                                               audio y video por suscripción, a través de acciones
+                                               regulatorias que faciliten la transición a las nuevas
+                                               tecnologías.
+
+
+4.2 ALINEACIÓN DEL             PLAN      CON      OTROS          INSTRUMENTOS                    DE
+    PLANIFICACIÓN.-
+
+El Plan Nacional de Telecomunicaciones se alinea a los objetivos y metas de los
+instrumentos de planificación nacional, sectorial e institucional, así como a la Agenda
+2030 de la Organización de Naciones Unidas como se describe a continuación:
+
+Objetivos y Metas de Desarrollo Sostenible Agenda 2030:
+
+El Desarrollo Sostenible es uno de los objetivos que persigue la Organización de
+Naciones Unidas (ONU), razón por la cual, en el año 2015, este organismo
+internacional aprobó la Agenda 2030 para que los países orienten su actuar hacia el
+desarrollo de sus sociedades, con una mejor calidad de vida para todos. La Agenda
+2030 establece 17 Objetivos de Desarrollo Sostenible (ODS), que recogen aspectos
+relativos a la reducción de la pobreza y hambre, combate al cambio climático,
+industrialización inclusiva y sostenible, educación, igualdad de la mujer, protección
+del medio ambiente, entre otros aspectos.
+
+Referente a la industrialización inclusiva y sostenible, la Agenda 2030 señala que,
+junto con la innovación y el desarrollo de infraestructura, se puede ayudar a
+dinamizar a las fuerzas económicas, mejorar la competitividad, generar nuevos
+empleos y mejorar los ingresos. Estas fuerzas desempeñan un papel esencial en la
+introducción y promoción de nuevas tecnologías, además de facilitar el comercio
+internacional y permitir el uso eficiente de los recursos.
+
+La innovación y el desarrollo tecnológico son fundamentales para implementar
+soluciones a los desafíos económicos y medioambientales, lo cual se evidenció en la
+respuesta ante la pandemia mundial provocada por el COVID-19, debido a que las TIC
+permitieron continuar con varias actividades como el trabajo, estudio, comunicación,
+entretenimiento y comercio de bienes, servicios esenciales, entre otras actividades.
+                                                                                                    9
+No obstante, millones de personas aún no tienen acceso Internet y en consecuencia
+aún no pueden acceder a servicios en línea. Por lo que, las metas del Objetivo 9:
+“Industria, innovación e infraestructura”, se enfocan principalmente en:
+
+      Desarrollar infraestructuras fiables, sostenibles, resilientes y de calidad, para
+        apoyar el desarrollo económico y el bienestar humano, orientando su
+        accionar hacia el acceso asequible y equitativo para todos.
+      Facilitar el desarrollo de infraestructuras sostenibles y resilientes mediante
+        apoyo financiero, tecnológico y técnico principalmente en los países en
+        desarrollo.
+      Apoyar el desarrollo de tecnologías, la investigación y la innovación
+        nacionales en los países en desarrollo, entre otras cosas, garantizando un
+        entorno normativo favorable para la diversificación industrial y la adición de
+        valor a los productos básicos.
+      Aumentar significativamente el acceso a la tecnología de la información y
+        comunicación y aunar esfuerzos para proporcionar acceso universal y
+        servicio de Internet asequible en los países de desarrollo.
+
+Plan Nacional de Desarrollo3:
+
+El Plan Nacional de Desarrollo “Plan de Desarrollo para el Nuevo Ecuador 2024 -
+2025”, define objetivos, políticas y metas que hacen énfasis en promover el
+despliegue de fibra óptica a nivel rural y urbano marginal; y fortalecer la conectividad
+en el territorio, como una de las perspectivas de acción que permitan el acceso a la
+población.
+
+Para el sector de las telecomunicaciones los objetivos, políticas y metas son:
+
+   Objetivo 8. Impulsar la conectividad como fuente de desarrollo y crecimiento
+   económico y sostenible.
+
+      Política 8.1. Mejorar la conectividad digital y el acceso a nuevas tecnologías
+       para la población.
+
+         Estrategias:
+            a. Incrementar la cobertura de la tecnología 4G en el territorio nacional.
+            b. Aumentar la cobertura de fibra óptica en el país.
+
+3 Aprobado por el Consejo Nacional de Planificación (CNP) con Resolución 003-2024-CNP de 16 de
+
+febrero de 2024.
+                                                                                                 10
+         Metas:
+           1. Incrementar el porcentaje de cobertura poblacional con tecnología
+                4G de 78,08% en el año 2022 a 80,00% al 2025.
+           2. Incrementar el porcentaje de parroquias rurales y cabeceras
+                cantonales con presencia del servicio de internet fijo a través de
+                enlaces de fibra óptica de 75,82% en el año 2022 a 86,79% al 2025.
+
+Al respecto, el Plan Nacional de Telecomunicaciones se enmarca dentro de los
+objetivos del Plan Nacional de Desarrollo “Plan de Creación de Oportunidades 2021-
+2025”, y constituye un instrumento que contribuirá a alcanzar las metas propuestas
+en la planificación nacional.
+
+Plan Estratégico Institucional4:
+
+El rol del Ministerio de Telecomunicaciones y de la Sociedad de la Información es:
+“Garantizar que todos los ciudadanos accedan y generen información y conocimiento,
+mediante el uso efectivo de las tecnologías de la información y comunicación y se
+integren activamente al proceso de desarrollo social y solidario del Ecuador, a través
+del fortalecimiento del sector de Tecnologías de la Información y la Comunicación
+mediante: la ampliación de cobertura para asegurar el acceso a servicios; el uso y la
+apropiación por parte de la ciudadanía, los sectores privado, público, popular y
+solidaria; el fomento del desarrollo de la industria de la información y conocimiento,
+así como la generación de un marco institucional y regulatorio que garantice que los
+servicios se brinden conforme con los principios constitucionales, para que el sector se
+convierta en un eje estratégico del desarrollo.”
+
+Para esto, a través del Plan Estratégico Institucional, se han definido los procesos
+gobernantes, agregadores de valor, habilitantes y de apoyo sobre los cuales el
+Ministerio de Telecomunicaciones y de la Sociedad de la Información, fundamenta su
+gestión. A continuación, se muestran los Objetivos Estratégicos Institucionales (OEI)
+relacionados con la conectividad y cierre de brecha digital, temáticas abordadas en el
+Plan Nacional de Telecomunicaciones.
+
+
+4 Aprobado mediante Acuerdo Ministerial Nro. MINTEL-MINTEL-2022-0001, de 05 de enero de 2022 y
+
+publicado en el Registro Oficial Suplemento No. 8 de 22 de febrero de 2022.
+                                                                                                 11
+Objetivo Estratégico Institucional OEI 1
+
+El Objetivo Estratégico 1 se enfoca en “Propiciar la conectividad universal y el cierre
+de brecha digital”, para lo cual se definen las siguientes estrategias:
+
+Estrategias del OEI 1
+
+A continuación, se detallan los lineamientos generales de acción que establecen una
+dirección para lograr el Objetivo Estratégico Institucional 1:
+
+       Facilitar el despliegue de infraestructura y redes de telecomunicaciones.
+       Fomentar el desarrollo de las telecomunicaciones en las áreas rurales,
+        fronterizas y amazónicas.
+       Promover la adecuada administración y gestión del espectro radioeléctrico.
+       Fomentar proyectos de carácter social y de ampliación del servicio universal
+        de telecomunicaciones.
+       Fomentar la migración a redes de nueva generación y de alta velocidad.
+       Formular políticas y planes relativos a los servicios de telecomunicaciones y
+        espectro radioeléctrico.
+
+
+5. PLAN NACIONAL DE TELECOMUNICACIONES.-
+
+5.1 Objetivo General:
+
+
+Promover la conectividad, el acceso, la calidad y la innovación de los servicios de
+telecomunicaciones y de radiodifusión y televisión para impulsar el desarrollo
+económico y social del país.
+
+5.2 Objetivos Específicos:
+
+
+Los objetivos específicos serán abordados en cuatro programas, siendo estos los que
+se muestran a continuación:
+
+PROGRAMA: SIMPLIFICACIÓN Y MEJORA REGULATORIA.-
+
+Objetivo Específico 1:
+
+                                                                                    12
+       Realizar procedimientos de mejora regulatoria que facilite el despliegue de la
+       infraestructura de telecomunicaciones y la conectividad.
+
+Líneas de acción para su ejecución:
+
+       a) Efectuar procesos de simplificación normativa acorde a las necesidades
+          del sector y los objetivos de la política sectorial y nacional, considerando
+          principalmente los siguientes ámbitos:
+               Elaborar la hoja de ruta para simplificar la reportería y
+                  requerimientos de información, que contenga objetivos, metas,
+                  cronogramas y estrategias tendientes a implementar un proceso
+                  de simplificación regulatoria, dentro de un horizonte plenamente
+                  establecido.
+               Facilitar la reducción de carga regulatoria de los servicios de
+                  telecomunicaciones que, de acuerdo a su grado de madurez o
+                  comportamiento, requieran una simplificación o desregulación a
+                  fin de fomentar su innovación y desarrollo.
+               Revisar y simplificar los requisitos, formatos y los procesos que se
+                  deben cumplir para el otorgamiento y renovación de títulos
+                  habilitantes, a fin de disponer de trámites ágiles para el desarrollo
+                  del sector.
+               Revisar y optimizar las normas e indicadores de calidad de los
+                  servicios de telecomunicaciones.
+               Otras que se identifiquen como prioritarias.
+
+       b) Establecer la normativa técnica secundaria necesaria para crear las
+          condiciones que permitan la implementación de Redes Comunitarias de
+          Telecomunicaciones.
+       c) Establecer los lineamientos necesarios para la aplicación de sandbox
+          regulatorios en materia de telecomunicaciones para fomentar la
+          inversión, acelerar la adopción de nuevas tecnologías y mejorar la calidad
+          de los servicios.
+
+PROGRAMA: CONECTIVIDAD.-
+
+Objetivo Específico 2:
+
+                                                                                    13
+        Promover la conectividad, impulsando la inversión y la innovación de los
+        servicios.
+
+Líneas de acción para su ejecución:
+
+        a) Promover la asignación y adjudicación del espectro radioeléctrico,
+           impulsando la operación de redes 5G.
+        b) Promover la simplificación y armonización para la obtención ágil y
+           eficiente de permisos de despliegue de infraestructura de
+           telecomunicaciones en coordinación y articulación con las entidades
+           relacionadas y Gobiernos Autónomos Descentralizados (GAD).
+        c) Coordinar con los GAD, a fin de que se publique los procesos y trámites
+           para obtener los permisos de despliegue de infraestructura a nivel de
+           cada entidad.
+        d) Socializar buenas prácticas y normativas a los GAD que promuevan el
+           despliegue de infraestructura.
+        e) Promover mecanismos e incentivos (tasas, contribuciones, otros) para la
+           inversión pública y privada.
+        f) Fomentar el despliegue de infraestructura a través de la asociatividad
+           público-privada y la compartición de infraestructura.
+
+
+PROGRAMA: ACCESO A LOS SERVICIOS DE TELECOMUNICACIONES.-
+
+Objetivo Especifico 3:
+
+       Promover el acceso y la asequibilidad a los servicios de telecomunicaciones.
+
+Líneas de acción para su ejecución:
+
+        a) Promover el uso de las tarifas preferenciales, a través de la socialización
+           de sus beneficios, impulsando incentivos para mejorar la asequibilidad y
+           el acceso por los sectores prioritarios.
+        b) Establecer mecanismos que permitan mejorar el acceso a los servicios de
+           telecomunicaciones para los sectores productivos.
+        c) Impulsar proyectos de cooperación con modelos innovadores y de bajo
+           costo con el sector público, privado, la academia y organismos
+
+
+                                                                                   14
+                     internacionales, que             faciliten   el   acceso     a   los   servicios     de
+                     telecomunicaciones.
+
+       PROGRAMA: RADIODIFUSIÓN Y TELEVISIÓN.-
+
+       Objetivo Específico 4:
+
+       Fomentar el desarrollo de los servicios de radiodifusión y televisión por suscripción a
+       través de la mejora regulatoria y la innovación de los servicios.
+
+       Líneas de acción para su ejecución:
+
+                a) Efectuar un proceso de revisión y adecuación de la normativa, para la
+                   provisión del servicio de audio y video por suscripción, para impulsar su
+                   desarrollo e innovación.
+                b) Realizar acciones conjuntas con las entidades públicas y privadas para
+                   establecer mecanismos de control que permitan mitigar la piratería en la
+                   televisión por suscripción.
+                c) Promover acciones con entidades públicas y privadas que incentiven el
+                   despliegue de infraestructura de los servicios de radiodifusión abierta
+                   (sonora y de televisión) especialmente en zonas que carecen de esos
+                   servicios, promoviendo su digitalización.
+                d) Actualizar el Plan para el proceso de transición a la televisión digital
+                   terrestre.
+
+       6. PLANIFICACIÓN DE ACCIONES, PRODUCTOS Y ACTORES.-
+
+       En función de las acciones definidas, en la Tabla No. 1, se muestran los productos
+       esperados en la ejecución del Plan Nacional de Telecomunicaciones, las entidades
+       responsables de su cumplimiento y las fechas estimadas para su entrega.
+
+                                 Tabla 1: Productos, actores y fecha de entrega
+
+Nro.                         PRODUCTO                        RESPONSABLE(S)   ACTORES INVOLUCRADOS    FECHA DE ENTREGA
+
+
+        Hoja de ruta establecida para el proceso de                           ARCOTEL/MINTEL/PRESTA
+ 1                                                          MINTEL, ARCOTEL                           Septiembre 2024
+        simplificación regulatoria.                                                   DORES
+
+
+                                                                                                          15
+Nro.                          PRODUCTO                             RESPONSABLE(S)   ACTORES INVOLUCRADOS     FECHA DE ENTREGA
+
+
+        Normativa técnica emitida para la implementación de                                ARCOTEL
+ 2                                                                    ARCOTEL                                Septiembre 2025
+        Redes Comunitarias de Telecomunicaciones.                                    /PRESTADORES/MINTEL
+        Gestionar las acciones necesarias para la emisión de
+ 3      los lineamientos para la aplicación de sandbox             MINTEL/ARCOTEL   MINTEL/ARCOTEL/ MPCEIP      Marzo 2025
+        regulatorios.
+                                                                                    ARCOTEL/MINTEL/PRESTA
+ 4      Hoja de ruta para la operación de redes 5G                    ARCOTEL                                   Marzo 2025
+                                                                                            DORES
+
+        Actualización integral del Plan Nacional de
+ 5                                                                    ARCOTEL        ARCOTEL/PRESTADORES      Diciembre 2024
+        Frecuencias.
+        Mecanismos y procesos para la simplificación, la
+        armonización y la obtención ágil y eficiente de
+                                                                                    MINTEL/GAD/PRESTADORE
+ 6      permisos con los Gobiernos Autónomos                          MINTEL                                 Septiembre 2025
+                                                                                              S
+        Descentralizados para el despliegue de
+        infraestructura.
+        Hoja de ruta para la socialización de los beneficios e
+                                                                                    PRESTADORES/ARCOTEL/M
+ 7      incentivos para mejorar la asequibilidad y el acceso          MINTEL                                  Diciembre 2024
+                                                                                            INTEL
+        para los sectores prioritarios.
+        Estudio con la identificación de las necesidades y los
+                                                                                    PRESTADORES/ARCOTEL/M
+        mecanismos de cooperación con el sector público,
+ 8                                                                    MINTEL            INTEL/ENTIDADES         Junio 2025
+        privado, que faciliten el acceso a los servicios de
+                                                                                         RELACIONADAS
+        telecomunicaciones.
+        Revisión de normativa y hoja de ruta establecida para
+                                                                                    ARCOTEL/PRESTADORES/M
+ 9      efectuar los procesos de simplificación, a fin de             ARCOTEL                                   Junio 2025
+                                                                                             INTEL
+        promover los servicios de televisión por suscripción.
+        Hoja de ruta establecida para mitigar la piratería en la                    MINTEL/ARCOTEL/PRESTA
+10                                                                 ARCOTEL/MINTEL                            Septiembre 2024
+        Televisión por suscripción.                                                     DORES/SENADI
+
+        Plan elaborado para el proceso de transición a la                           MINTEL/ARCOTEL/PRESTA
+11                                                                    MINTEL                                 Septiembre 2024
+        Televisión Digital Terrestre.                                                       DORES
+
+        Norma Técnica para el Servicio de Radiodifusión
+12                                                                    ARCOTEL        ARCOTEL/PRESTADORES      Diciembre 2024
+        Sonora en Amplitud de Modulada Analógica.
+
+       Elaboración: DPTAP 2024
+
+
+       6.1 DEFINICIÓN DE INDICADOR Y META.-
+
+
+       A continuación, se muestra el indicador y la meta para la ejecución del Plan Nacional
+       de Telecomunicaciones.
+
+
+                                                                                                                 16
+             Tabla 2: Indicador y meta del Plan Nacional de Telecomunicaciones
+
+                                   META             META                                               META
+                                                                    META              META
+        INDICADOR               SEPTIEMBRE       DICIEMBRE                                          SEPTIEMBRE
+                                                                  MARZO 2025        JUNIO 2025
+                                   2024             2024                                               2025
+
+ Porcentaje de avance en la
+                                   25%              50%              67%                83%            100%
+ ejecución del Plan
+
+                                             Elaboración: DPTAP 2024
+
+7. PRESUPUESTO REFERENCIAL.-
+
+Para la obtención de los productos propuestos en el presente Plan, se identifica
+únicamente acciones que se financian con gasto corriente, relacionado con las
+remuneraciones del personal del MINTEL y de la ARCOTEL, contemplado en el
+objetivo de conectividad del Plan Estratégico Institucional del MINTEL; sin embargo,
+en el caso de identificar proyectos de inversión en la ejecución o entrega de las
+diferentes acciones, se los propondrá de conformidad con la normativa vigente y de
+acuerdo con el presupuesto asignado al MINTEL.
+
+
+                              Tabla 3: Presupuesto referencial (Millones USD)
+
+                                                                           ENTIDAD        2024          2025
+COMPONENT                                                                                                            TOTAL
+                    OBJETIVOS                  LÍNEAS DE ACCIÓN            RESPONS      Corriente     Corriente
+    E                                                                                                                (USD)
+                                                                             ABLE        (USD)         (USD)
+
+                                  a) Efectuar procesos de simplificación
+                                     normativa acorde a las necesidades del
+                                     sector y los objetivos de la política
+                                     sectorial y nacional, considerando
+                                     principalmente los siguientes ámbitos:
+                                    Elaborar la hoja de ruta para simplificar
+             Objetivo 1:              la reportería y requerimientos de
+             Realizar                 información, que contenga objetivos,
+             procedimientos de        metas, cronogramas y estrategias
+SIMPLIFICACI
+             mejora regulatoria       tendientes a implementar un proceso ARCOTEL/
+ÓN Y MEJORA
+             que facilite el                                                            $3,42       $3,53          $6,95
+REGULATORI                            de simplificación regulatoria, dentro de MINTEL
+             despliegue de la
+A                                     un horizonte plenamente establecido.
+             infraestructura de
+             telecomunicacione      Facilitar la reducción de carga
+             s y la conectividad.     regulatoria de los servicios de
+                                      telecomunicaciones que, de acuerdo a
+                                      su      grado     de     madurez       o
+                                      comportamiento,       requieran      una
+                                      simplificación o desregulación a fin de
+                                      fomentar su innovación y desarrollo.
+                                    Revisar y simplificar los requisitos,
+
+
+                                                                                                              17
+                                                                                    ENTIDAD      2024          2025
+COMPONENT                                                                                                                   TOTAL
+                 OBJETIVOS                     LÍNEAS DE ACCIÓN                     RESPONS    Corriente     Corriente
+    E                                                                                                                       (USD)
+                                                                                      ABLE      (USD)         (USD)
+
+                                        formatos y los procesos que se deben
+                                        cumplir para el otorgamiento y
+                                        renovación de títulos habilitantes, a fin
+                                        de disponer de trámites ágiles para el
+                                        desarrollo del sector.
+                                      Revisar y optimizar las normas e
+                                        indicadores de calidad de los servicios
+                                        de telecomunicaciones.
+                                      Otras que se identifiquen como
+                                        prioritarias.
+                                     b)           Establecer la normativa técnica
+                                    secundaria necesaria para crear las
+                                    condiciones que permitan la
+                                    implementación de Redes Comunitarias de
+                                    Telecomunicaciones
+                                    c)           Establecer los lineamientos
+                                    necesarios para la aplicación de sandbox
+                                    regulatorios en materia de
+                                    telecomunicaciones.
+
+                                    a)          Promover la asignación y
+                                    adjudicación del espectro radioeléctrico,
+                                    impulsando la operación de redes 5G.
+
+                                    b)           Promover la simplificación y
+                                    armonización para la obtención ágil y
+                                    eficiente de permisos de despliegue de
+                                    infraestructura de telecomunicaciones en
+                                    coordinación y articulación con las
+            Objetivo 2:             entidades relacionadas y Gobiernos
+            Promover la             Autónomos Descentralizados (GAD)
+            conectividad,           c)           Coordinar con los GAD, a fin
+CONECTIVIDA                                                                         MINTEL/AR
+            impulsando la           de que se publique los procesos y trámites                $3,42        $3,53          $6,95
+D                                                                                   COTEL
+            inversión y la          para obtener los permisos de despliegue de
+            innovación de los       infraestructura a nivel de cada entidad
+            servicios.              d)           Socializar buenas prácticas y
+                                    normativas a los GAD que promuevan el
+                                    despliegue de infraestructura.
+                                    e)           Promover mecanismos e
+                                    incentivos (tasas, contribuciones, otros)
+                                    para la inversión pública y privada.
+                                    f)           Fomentar el despliegue de
+                                    infraestructura a través de la asociatividad
+                                    público-privada y la compartición de
+                                    infraestructura.
+ACCESO A      Objetivo 3:           a)           Promover el uso de las tarifas
+LOS           Promover el           preferenciales, a través de la socialización
+                                                                                    MINTEL/AR
+SERVICIOS     acceso y la           de sus beneficios, impulsando incentivos                  $3,42        $3,53          $6,95
+                                                                                    COTEL
+DE            asequibilidad a los   para mejorar la asequibilidad y el acceso
+TELECOMUNI    servicios de          por los sectores prioritarios.
+
+
+                                                                                                                     18
+                                                                                     ENTIDAD       2024          2025
+COMPONENT                                                                                                                     TOTAL
+                 OBJETIVOS                     LÍNEAS DE ACCIÓN                      RESPONS     Corriente     Corriente
+    E                                                                                                                         (USD)
+                                                                                       ABLE       (USD)         (USD)
+
+CACIONES      telecomunicacione     b)           Establecer mecanismos que
+              s                     permitan mejorar el acceso a los servicios
+                                    de telecomunicaciones para los sectores
+                                    productivos.
+                                    c)           Impulsar proyectos de
+                                    cooperación con modelos innovadores y de
+                                    bajo costo con el sector público, privado, la
+                                    academia y organismos internacionales,
+                                    que faciliten el acceso a los servicios de
+                                    telecomunicaciones.
+              Objetivo 4:
+              Fomentar el
+              desarrollo de los
+              servicios de          a)          Efectuar un proceso de revisión
+              radiodifusión y       y adecuación de la normativa, para la
+              televisión por        provisión del servicio de audio y video por                  $3,42       $3,53          $6,95
+              suscripción a         suscripción, para impulsar su desarrollo e
+              través de la mejora   innovación.
+              regulatoria y la
+              innovación de los
+              servicios.
+                                    b)           Realizar acciones conjuntas
+RADIODIFUSI                         con las entidades públicas y privadas para
+                                                                                     MINTEL/AR
+ÓN Y                                establecer mecanismos de control que
+                                                                                     COTEL
+TELEVISIÓN                          permitan mitigar la piratería en la televisión
+                                    por suscripción.
+                                    c)           Promover acciones con
+                                    entidades públicas y privadas que
+                                    incentiven el despliegue de infraestructura
+                                    de los servicios de radiodifusión abierta
+                                    (sonora y de televisión) especialmente en
+                                    zonas que carecen de esos servicios,
+                                    promoviendo su digitalización.
+                                    d)           Actualizar el Plan para el
+                                    proceso de transición a la televisión digital
+                                    terrestre.
+
+
+                                                                                        TOTAL $13,66         $14,12         $27,78
+
+Elaboración: DPTAP
+
+8. MODELO DE GESTIÓN SEGUIMIENTO Y EVALUACIÓN.-
+
+
+El Plan Nacional de Telecomunicaciones 2024-2025 establece un modelo de gestión
+que desde su formulación considera la participación de múltiples actores vinculados
+al sector, con miras a la construcción de un instrumento que contemple las
+diferentes visiones de todos los actores involucrados.
+
+                                                                                                                       19
+Se considera que desde la construcción participativa se crean las bases para contar
+con un sector integrado, en el cual las acciones se puedan alinear hacia los objetivos
+y los desafíos del sector y contar con el apoyo para su implementación y ejecución.
+
+Entre los elementos distintivos del Plan se encuentra la ejecución de las acciones en
+el marco de las estrategias alineadas la política pública de telecomunicaciones 2023-
+2025. Desde este ámbito, se detallan los siguientes aspectos esenciales para una
+adecuada implementación del Plan.
+
+8.1 Rectoría:
+
+
+El Ministerio de Telecomunicaciones y de la Sociedad de la Información, como
+órgano rector del sector de las telecomunicaciones, será el responsable de emitir las
+directrices y las políticas sobre esta temática.
+
+8.2 Nivel de gestión Interinstitucional:
+
+
+La máxima autoridad del Ministerio de Telecomunicaciones y de la Sociedad de la
+Información (MINTEL), será quien se encargue de coordinar y aprobar aquellas
+directrices que no se encuentren plasmadas en este documento, pero que podrían
+ser necesarias para el cumplimiento de las metas establecidas en el Plan Nacional de
+Telecomunicaciones 2024-2025, así como de intervenir en la coordinación
+interministerial e intersectorial que permita alcanzar los resultados definidos en el
+mismo.
+
+8.3 Nivel de gestión institucional – MINTEL:
+
+
+El Viceministro(a) de Tecnologías de la Información y Comunicación será quien dirija
+y coordine la implementación del Plan Nacional de Telecomunicaciones 2024-2025,
+así como el responsable de solicitar el seguimiento sobre su avance.
+
+La Subsecretaría de Telecomunicaciones y Asuntos Postales del MINTEL será la
+responsable de realizar las coordinaciones que permitan la ejecución del Plan
+Nacional de Telecomunicaciones 2024-2025, junto con las unidades administrativas
+del MINTEL involucradas en la ejecución, seguimiento y evaluación del mismo; así
+como, con las entidades adscritas al MINTEL e instituciones de los diferentes sectores
+que se mencionan en este Plan.
+
+                                                                                   20
+8.4 Riesgos:
+
+La ejecución del Plan Nacional de Telecomunicaciones conlleva riesgos que pueden
+afectar su ejecución y por ende su contribución a los indicadores establecidos en la
+política pública vigente. En este sentido, se han identificado principalmente los
+siguientes riesgos:
+
+      Cambios institucionales y de la política nacional:
+
+       Considerando que en el Ecuador existen diferentes cambios a nivel de
+       gobierno, se identificó como un riesgo asociado los cambios a nivel de la
+       política gubernamental que podrían afectar a la ejecución del Plan Nacional
+       de Telecomunicaciones.
+
+      Inversión insuficiente:
+
+       Por otra parte, otro riesgo asociado es la falta o disminución de recursos para
+       llevar a cabo todas las actividades necesarias para implementar el Plan. Esto
+       podría resultar en retrasos o en la implementación de las acciones y de los
+       objetivos establecidos. Asimismo, para la implementación tanto de la Política
+       Pública de Telecomunicaciones como del presente Plan, se requiere de
+       acciones complementarias de inversión a través de otros instrumentos como
+       el Plan del Servicio Universal, el cual requiere de inversiones y de la
+       normativa necesaria para promover la ejecución de proyectos derivados de
+       la contribución del servicio universal.
+
+      Comportamiento del mercado:
+
+       Existe un riesgo asociado al comportamiento del mercado y de la
+       masificación de los servicios de telecomunicaciones, y de radiodifusión y de
+       televisión, como por ejemplo el caso de la tecnología 4G su comportamiento
+       es de una masificación exponencial en los primeros años de implementación,
+       no obstante, dependiendo de la madurez del servicio o de la introducción de
+       nuevas tecnologías (5G), podrían cambiar las prioridades de implementación
+       en el mercado, afectando a los indicadores establecidos en la planificación
+       nacional, por lo se podría requerir de una adecuación, ajuste o revisión
+       normativa constante.
+
+      Plazo de ejecución:
+
+
+                                                                                   21
+       Considerando que la política pública tiene un horizonte hasta el año 2025 a
+       igual que el Plan Nacional de Desarrollo, uno de los riesgos asociados, es el
+       tiempo limitado para la ejecución, aprobación o implementación de las
+       acciones planteadas, considerando los procesos de simplificación y de mejora
+       regulatoria; y acciones conjuntas que requieren de coordinación y
+       participación de otras entidades del Estado y del sector privado.
+
+Para mitigar estos riesgos, se efectuará un seguimiento y supervisión constante a
+medida que se desarrolla el Plan. Además, se promoverá la participación y
+coordinación activa de las múltiples partes interesadas.
+
+8.5 Seguimiento y Evaluación:
+
+
+El seguimiento del Plan Nacional de Telecomunicaciones 2024-2025 estará a cargo de
+la Dirección Políticas de Telecomunicaciones y Asuntos Postales del Ministerio de
+Telecomunicaciones y de la Sociedad de la Información, según el ámbito de su
+competencia.
+
+En relación a la periodicidad del seguimiento se lo efectuará de manera trimestral,
+conforme a las metas y lineamientos establecidos en el mismo.
+
+Asimismo, la Dirección de Supervisión y Evaluación de Empresas de
+Telecomunicaciones y Asuntos Postales, será el área encargada de realizar la
+evaluación del Plan Nacional de Telecomunicaciones 2024-2025, conforme al periodo
+de vigencia.
+
+9. SIGLAS Y ACRÓNIMOS.-
+
+LOT: Ley Orgánica de Telecomunicaciones.
+RLOT: Reglamento General a la Ley Orgánica de Telecomunicaciones.
+ARCOTEL: Agencia de Regulación y Control de las Telecomunicaciones.
+MINTEL: Ministerio de Telecomunicaciones y de la Sociedad de la Información.
+DPTAP: Dirección de Políticas de Telecomunicaciones y Asuntos Postales.
+SENADI: Servicio Nacional de Derechos Intelectuales.
+PND: Plan Nacional de Desarrollo.
+GAD: Gobierno Autónomo Descentralizado.
+
+
+                                                                                 22
+10. FIRMAS DE ELABORACIÓN, REVISIÓN Y APROBACIÓN.-
+
+
+            Elaborado por:                              Revisado por:
+
+
+                                                           Firmado electrónicamente por:
+               Firmado electrónicamente por:               CARLOS EDUARDO
+               JUAN PABLO                                  ESCOBAR MUENTES
+               PUCHAICELA HUACA
+
+
+     Nombre: Pablo Puchaicela                  Nombre: Carlos Eduardo Escobar
+
+
+     Cargo: Analista 3 DPTAP                   Cargo: Director DPTAP
+
+
+             Aprobado por:                             Aprobado por:
+
+
+               Firmado electrónicamente por:
+               RICARDO XAVIER                             Firmado electrónicamente por:
+               GUTIERREZ CEVALLOS                         VICENTA ALEXANDRA
+                                                          MACIAS MEZA
+
+
+                                               Nombre: Vicenta Alexandra
+     Nombre: Ricardo Gutiérrez
+                                               Macías Meza
+     Cargo: Subsecretario de                   Cargo: Viceministra de
+     Telecomunicaciones y Asuntos              Tecnologías de la Información y
+     Postales                                  Comunicación
+
+
+                                                                                           23

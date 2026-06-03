@@ -1,0 +1,117 @@
+BOLETIN OFICIAL REPUBLICA ARGENTINA - JEFATURA DE GABINETE DE MINISTROS SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN - Resolución 1523/2019
+Toggle navigation
+Boletín Oficial de la República Argentina
+Institucional
+Productos y servicios
+Preguntas Frecuentes
+Contacto
+Edición del
+3 de Junio de 2026
+Ediciones Anteriores
+Búsqueda avanzada
+Secciones
+Búsqueda
+Cantidad de resultados
+Búsqueda avanzada
+Legislación y Avisos Oficiales
+Primera Sección
+Sociedades y Avisos Judiciales
+Segunda Sección
+Contrataciones
+Tercera Sección
+Volver
+Legislación y Avisos Oficiales
+Primera sección
+• Primera
+• Resoluciones
+• Detalle
+Ver páginas publicadas
+Ver texto del aviso
+JEFATURA DE GABINETE DE MINISTROS SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN
+Resolución 1523/2019
+RESOL-2019-1523-APN-SGM#JGM
+Ciudad de Buenos Aires, 12/09/2019
+VISTO el Expediente N° EX-2018-55001386-APN-DGDA#JGM, la Ley de Ministerios (texto ordenado por Decreto N° 438 de fecha 12 de marzo de 1992) y sus modificatorios, los Decretos Nros. 577 de fecha 28 de julio de 2017, 801 y 802 de fecha 5 de septiembre de 2018, 480 de fecha 11 de julio de 2019, la Resolución de la JEFATURA DE GABINETE DE MINISTROS N° 141 de fecha 9 de mayo de 2019 y la Resolución de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN N° 829 de fecha 24 de mayo de 2019, y
+CONSIDERANDO:
+Que por Decreto N° 577 de fecha 28 de julio de 2017 se creó el Comité de Ciberseguridad, integrado por los MINISTERIOS DE DEFENSA Y SEGURIDAD y el entonces MINISTERIO DE MODERNIZACIÓN (actual SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN), entre cuyas funciones se encuentra la de “fijar los lineamientos y criterios para la definición, identificación y protección de las Infraestructuras Críticas Nacionales”, según lo señala el inciso e) de su artículo 2°.
+Que por Decreto N° 480 de fecha 11 de julio de 2019 se amplió la composición del Comité de Ciberseguridad incorporando al mismo a los MINISTERIOS DE JUSTICIA Y DERECHOS HUMANOS y DE RELACIONES EXTERIORES Y CULTO y a la SECRETARÍA DE ASUNTOS ESTRATÉGICOS de la JEFATURA DE GABINETE DE MINISTROS.
+Que por Resolución de la JEFATURA DE GABINETE DE MINISTROS N° 141 de fecha 9 de mayo de 2019, el Jefe de Gabinete de Ministros delegó en el Secretario de Gobierno de Modernización la presidencia del Comité de Ciberseguridad.
+Que por la Resolución de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN N° 829 de fecha 24 de mayo de 2019 se aprobó la Estrategia Nacional de Ciberseguridad, la cual incluye entre sus objetivos la Protección de las Infraestructuras Críticas de Información del país.
+Que el avance tecnológico registrado en las últimas décadas ha alcanzado prácticamente a todos los sectores de la economía de las naciones, contribuyendo a una mayor generación de conocimiento, a una prosperidad creciente y a mejoras en la salud, la comunicación, los transportes, la producción y la educación, entre otras áreas.
+Que, sin embargo, estos avances vienen acompañados de un panorama creciente y cambiante de amenazas, que podrían afectar seriamente a servicios esenciales de nuestra sociedad, cuya prestación es posible gracias a la existencia de infraestructuras tecnológicas.
+Que estas amenazas afectan tanto las infraestructuras tecnológicas utilizadas en ambientes organizacionales, pero también en entornos industriales, cuyo impacto podría inclusive producir daño a las personas o a los activos físicos, como lo han demostrado ya casos de ciberataques registrados en otros países.
+Que establecer la definición y los criterios de identificación y proponer un agrupamiento en sectores tanto para infraestructuras de tecnologías de información como de operación, constituye un requisito esencial para la elaboración de las normas, políticas y planes para la protección de las Infraestructuras que respaldan servicios críticos, permitiendo la identificación de sistemas, equipamiento y actores involucrados, entre otros aspectos.
+Que resulta necesario establecer un Glosario de Términos vinculados a los aspectos de ciberseguridad, de un modo que permita unificar conceptos y establecer un lenguaje común entre los distintos actores que tienen intervención en los procesos relacionados.
+Que con la participación de los equipos técnicos pertenecientes a los organismos que integran el Comité de Ciberseguridad, se realizó un análisis pormenorizado de las definiciones adoptadas por diferentes países y Organizaciones Internacionales, con el fin de aprovechar la experiencia y los conocimientos internacionales en la materia.
+Que la definición de Infraestructuras Críticas y de Infraestructuras Críticas de Información, la enumeración y contextualización de los criterios de identificación y la determinación de los sectores alcanzados guarda coherencia con la Estrategia Nacional de Ciberseguridad.
+Que dado la vertiginosidad del cambio tecnológico y la constante modificación del escenario de riegos asociado, resulta necesario considerar al Glosario como un documento vivo, sujeto a todas las modificaciones que fueran necesarias en función de lo antes señalado.
+Que en virtud de lo señalado en el considerando anterior, se entiende necesario delegar en el Director Nacional de Ciberseguridad de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN de la JEFATURA DE GABINETE DE MINISTROS, la facultad de revisar y actualizar el Glosario de Términos.
+Que por el Decreto N° 801 de fecha 5 de septiembre de2018 se fusionaron diversos Ministerios a fin de centralizar las competencias en un número menor de Jurisdicciones y en consecuencia se sustituyó el artículo 8º del Título II de la Ley de Ministerios (texto ordenado por Decreto N° 438/92) y sus modificatorias.
+Que mediante el Decreto N° 802 de fecha 5 de septiembre de 2018 se creó en el ámbito de la JEFATURA DE GABINETE DE MINISTROS, la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN, la que tiene dentro de sus objetivos los de intervenir en la definición de estrategias y estándares sobre tecnologías de información, comunicaciones asociadas y otros sistemas electrónicos de tratamiento de información de la Administración Nacional y diseñar, coordinar e implementar la incorporación y mejoramiento de los procesos, tecnologías, infraestructura informática y sistemas y tecnologías de gestión de la Administración Pública Nacional.
+Que dado lo dispuesto por el artículo 5° del Decreto N° 577/17 y su modificatorio y el artículo 1° de la Resolución de la JEFATURA DE GABINETE DE MINISTROS N° 141/19, el Secretario de Gobierno de Modernización cuenta con las facultades para impulsar los actos administrativos para la implementación de la Estrategia Nacional de Ciberseguridad.
+Que ha tomado debida intervención el servicio de asesoramiento jurídico de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN.
+Que la presente medida se dicta en ejercicio de las atribuciones conferidas por el Decreto N° 577/17 y su modificatorio, el Decreto N° 802/18 y la Resolución de la JEFATURA DE GABINETE DE MINISTROS N° 141/19.
+Por ello,
+EL SECRETARIO DE GOBIERNO DE MODERNIZACIÓN
+RESUELVE:
+ARTÍCULO 1°.- Apruébese la definición de Infraestructuras Críticas y de Infraestructuras Críticas de Información, la enumeración de los criterios de identificación y la determinación de los sectores alcanzados, que como Anexo I (IF-2019-78452510-APN-SGM#JGM) forma parte de la presente medida.
+ARTICULO 2°.- Apruébese el Glosario de Términos de Ciberseguridad, que como Anexo II (IF-2019-78455467-APN-SGM#JGM) forma parte de la presente medida.
+ARTICULO 3°.- Delégase en el Director Nacional de Ciberseguridad de la SECRETARÍA DE GOBIERNO DE MODERNIZACIÓN de la JEFATURA DE GABINETE DE MINISTROS, la revisión y actualización periódica del Glosario aprobado en el artículo 2° de la presente medida.
+ARTÍCULO 4°.- Comuníquese, publíquese, dese a la DIRECCIÓN NACIONAL DEL REGISTRO OFICIAL y archívese. Andrés Horacio Ibarra
+NOTA: El/los Anexo/s que integra/n este(a) Resolución se publican en la edición web del BORA -www.boletinoficial.gob.ar-
+e. 18/09/2019 N° 69991/19 v. 18/09/2019
+Fecha de publicación 18/09/2019
+Anexo - 1
+Anexo - 2
+Compartir por email
+Para:
+Asunto:
+Aviso:
+Cerrar
+Enviar
+Biblioteca de Normativas
+Al hacer clic en este enlace usted está siendo dirigido a la página https://www.argentina.gob.ar/normativa .
+Cerrar
+Ir a Biblioteca de Normativas
+Institucional
+Misión, Visión e Historia
+Sitios de Interés
+Red de Boletines Oficiales de la R. A.
+BFA Blockchain Federal Argentina
+Productos y Servicios
+• Tarifas de Publicación
+Autenticaciones
+• BFA Repositorio recibos
+• BFA Verificación
+• Firma digital
+Faq y Tutoriales
+• Preguntas Frecuentes
+Contacto
+Institucional
+• Misión, Visión e Historia
+Productos y Servicios
+• Tarifas de Publicación
+Sitios de Interés
+Red de Boletines Oficiales de la R. A.
+BFA Blockchain Federal Argentina
+Autenticaciones
+• BFA Repositorio recibos
+• BFA Verificación
+• Firma digital
+Faq y Tutoriales
+• Preguntas Frecuentes
+Contacto
+Secretaría
+Legal y Técnica
+Boletín Oficial
+de la República Argentina
+TELÉFONOS: 5218-8400 - 0810-345-BORA (2672)
+SEDE CENTRAL: Suipacha 767, C.A.B.A. (C1008AAO)
+Secretaría Legal y Técnica |
+Dra. María Ibarzabal Murphy - Secretaria
+Dirección Nacional del Registro Oficial |
+Dr. Walter Rubén Gonzalez - Director Nacional
+Red de Boletines Provinciales
+Al hacer clic en este enlace usted acepta ser dirigido fuera de nuestro sitio a la página http://www.reddeboletines.gob.ar cuya información es proporcionada por la Dirección Nacional del Sistema Argentino de Información Jurídica (SAIJ) dependiente del Ministerio de Justicia y Derechos Humanos de la Nación.
+Cerrar
+Ir a Red de Boletines Provinciales

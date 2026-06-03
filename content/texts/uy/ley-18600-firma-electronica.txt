@@ -1,0 +1,593 @@
+Ley N� 18600
+Volver
+Ver Base Jurisprudencia Nacional
+Ley N� 18600
+DOCUMENTO ELECTRONICO Y FIRMA ELECTRONICA. ADMISIBILIDAD, VALIDEZ Y EFICACIA
+Documento Actualizado
+Ver Imagen del D.O.
+Promulgaci�n: 21/09/2009
+Publicaci�n: 05/11/2009
+• Registro Nacional de Leyes y Decretos:
+• Tomo: 1
+• Semestre: 2
+• A�o: 2009
+• P�gina: 839
+Reglamentada por:
+Decreto N� 276/013 de 03/09/2013,
+Decreto N� 36/012 de 08/02/2012,
+Decreto N� 436/011 de 08/12/2011.
+Referencias a toda la norma
+CAPITULO I - DISPOSICIONES GENERALES
+Art�culo 1
+(Ambito de aplicaci�n).- Queda reconocida la admisibilidad, validez y
+eficacia jur�dicas del documento electr�nico y de la firma electr�nica.
+Los servicios de certificaci�n deber�n ajustarse a lo previsto en esta
+ley, su actividad no estar� sujeta a autorizaci�n previa y se realizar� en
+r�gimen de libre competencia, sin que ello implique sustituir o modificar
+las normas que regulan las funciones que corresponde realizar a quienes
+est�n facultados legalmente para dar fe p�blica.
+Las disposiciones de esta ley no alteran el derecho preexistente respecto
+a la celebraci�n, perfeccionamiento, validez y eficacia de los actos y
+negocios jur�dicos.
+Art�culo 2
+(Definiciones).- A los efectos de esta ley se entender� por:
+A) "Acreditaci�n": el procedimiento en virtud del cual el prestador de
+servicios de certificaci�n demuestra a la Unidad de Certificaci�n
+Electr�nica que cumple con esta ley y su respectiva reglamentaci�n.
+B) "Certificado electr�nico": documento electr�nico firmado
+electr�nicamente que da fe del v�nculo entre el firmante o el titular
+del certificado y los datos de creaci�n de la firma electr�nica.
+C) "Certificado reconocido": certificado electr�nico emitido por un
+prestador de servicios de certificaci�n acreditado.
+D) "Datos de creaci�n de firma": los datos �nicos, tales como c�digos o
+claves criptogr�ficas privadas, que el firmante utiliza para crear la
+firma electr�nica.
+E) "Datos de verificaci�n de firma": los datos, tales como c�digos o
+claves criptogr�ficas p�blicas, que se utilizan para verificar la firma
+electr�nica.
+F) "Dispositivo de creaci�n de firma": componente inform�tico que sirve
+para aplicar los datos de creaci�n de firma.
+G) "Dispositivo de verificaci�n de firma": componente inform�tico que
+sirve para aplicar los datos de verificaci�n de firma.
+H) "Documento electr�nico o documento digital": representaci�n digital de
+actos o hechos, con independencia del soporte utilizado para su
+fijaci�n, almacenamiento o archivo.
+I) "Fecha electr�nica": conjunto de datos en forma electr�nica utilizados
+como medio para determinar el momento en que se ha efectuado una
+actuaci�n sobre otros datos electr�nicos a los que est� asociado.
+J) "Firma electr�nica": los datos en forma electr�nica anexos a un
+documento electr�nico o asociados de manera l�gica con el mismo,
+utilizados por el firmante como medio de identificaci�n.
+K) "Firma electr�nica avanzada": la firma electr�nica que cumple los
+siguientes requisitos:
+1) Requerir informaci�n de exclusivo conocimiento del firmante,
+permitiendo su identificaci�n un�voca;
+2) ser creada por medios que el firmante pueda mantener bajo su
+exclusivo control;
+3) ser susceptible de verificaci�n por terceros;
+4) estar vinculada a un documento electr�nico de tal modo que cualquier
+alteraci�n subsiguiente en el mismo sea detectable; y
+5) haber sido creada utilizando un dispositivo de creaci�n de firma
+t�cnicamente seguro y confiable y estar basada en un certificado
+reconocido v�lido al momento de la firma.
+L) "Firmante o signatario": persona que utiliza bajo su exclusivo control
+un certificado electr�nico o un certificado reconocido para efectuar
+operaciones de firma electr�nica o firma electr�nica avanzada.
+M) "Prestador de servicios de certificaci�n": persona f�sica o jur�dica,
+p�blica o privada, nacional o extranjera, que expida certificados
+electr�nicos o preste otros servicios de certificaci�n en relaci�n con
+la firma electr�nica.
+N) "Prestador de servicios de certificaci�n acreditado": aquel prestador
+de servicios de certificaci�n acreditado ante la Unidad de
+Certificaci�n Electr�nica.
+�) "Titular del certificado": persona que utiliza bajo su exclusivo
+control un certificado electr�nico.
+O) Tercero aceptante: persona que acepta de su titular un certificado
+electr�nico expedido por un prestador de servicios de certificaci�n
+acreditado. (*)
+(*) Notas: Literal o) ver vigencia: Ley N� 18.996 de 07/11/2012 art�culo 2 .
+Literal o) agregado/s por: Ley N� 18.996 de 07/11/2012 art�culo 41 .
+Art�culo 3
+(Principios generales).- Sin que la enumeraci�n tenga car�cter taxativo,
+los actos y negocios jur�dicos realizados electr�nicamente, las firmas
+electr�nicas o firmas electr�nicas avanzadas y la prestaci�n de los
+servicios de certificaci�n, se ajustar�n a los siguientes principios
+generales:
+A) equivalencia funcional;
+B) neutralidad tecnol�gica;
+C) libre competencia;
+D) compatibilidad internacional; y
+E) buena fe.
+Dichos principios generales servir�n tambi�n de criterio interpretativo
+para resolver las cuestiones que puedan suscitarse en la aplicaci�n de las
+disposiciones pertinentes.
+Art�culo 4
+(Efectos legales de los documentos electr�nicos).- Los documentos
+electr�nicos satisfacen el requerimiento de escritura y tendr�n el mismo
+valor y efectos jur�dicos que los documentos escritos, salvo las
+excepciones legalmente consagradas.
+El que voluntariamente transmitiere un texto del que resulte un documento
+infiel, adultere o destruya un documento electr�nico, incurrir� en los
+delitos previstos por los art�culos 236 a 245 del C�digo Penal, seg�n
+corresponda.
+Referencias al art�culo
+Art�culo 5
+(Efectos legales de la firma electr�nica).- La firma electr�nica tendr�
+eficacia jur�dica cuando fuese admitida como v�lida por las partes que la
+utilizan o haya sido aceptada por la persona ante quien se oponga el
+documento firmado electr�nicamente.
+Se respetar� la libertad de las partes para concertar de com�n acuerdo las
+condiciones en que aceptar�n las firmas electr�nicas, conforme a la
+presente normativa.
+En caso de ser desconocida la firma electr�nica por una de las partes,
+corresponde a la otra parte probar su validez.
+Art�culo 6
+(Efectos legales de la firma electr�nica avanzada).- La firma electr�nica
+avanzada tendr� id�ntica validez y eficacia que la firma aut�grafa
+consignada en documento p�blico o en documento privado con firmas
+certificadas, siempre que est� debidamente autenticada por claves u otros
+procedimientos seguros que:
+A) garanticen que la firma electr�nica avanzada se corresponde con el
+certificado reconocido emitido por un prestador de servicios de
+certificaci�n acreditado, que lo asocia con la identificaci�n del
+signatario;
+B) aseguren que la firma electr�nica avanzada se corresponde con el
+documento respectivo y que el mismo no fue alterado ni pueda ser
+repudiado; y
+C) garanticen que la firma electr�nica avanzada ha sido creada usando
+medios que el signatario mantiene bajo su exclusivo control y durante
+la vigencia del certificado reconocido.
+El documento electr�nico suscripto con firma electr�nica avanzada tendr�
+id�ntico valor probatorio al documento p�blico o al documento privado con
+firmas certificadas en soporte papel. El documento electr�nico no har� fe
+respecto de su fecha, a menos que �sta conste a trav�s de un fechado
+electr�nico otorgado por un prestador de servicios de certificaci�n
+acreditado.
+Referencias al art�culo
+Art�culo 7
+(Uso de la firma electr�nica avanzada en la funci�n notarial).-
+Autor�zase el uso de documentos electr�nicos y firma electr�nica avanzada
+en la funci�n notarial, de conformidad con la reglamentaci�n que
+establezca la Suprema Corte de Justicia.
+Art�culo 8
+(Empleo de la firma electr�nica o firma electr�nica avanzada en los
+�rganos del Estado).- El Estado, los Gobiernos Departamentales, los entes
+aut�nomos, los servicios descentralizados y, en general, todos los �rganos
+del Estado podr�n ejecutar o realizar actos, celebrar contratos y expedir
+cualquier documento, dentro de su �mbito de competencia, suscribi�ndolos
+por medio de firma electr�nica o firma electr�nica avanzada.
+Se except�an aquellas actuaciones para las cuales la Constituci�n de la
+Rep�blica o la ley exijan una solemnidad que no sea susceptible de
+cumplirse mediante documento electr�nico o requiera la concurrencia
+personal de la autoridad o funcionario que deba intervenir en ellas.
+Referencias al art�culo
+Art�culo 9
+(R�gimen espec�fico de uso de la firma electr�nica o firma electr�nica
+avanzada en la Administraci�n P�blica).- La Unidad de Certificaci�n
+Electr�nica podr� determinar por v�a reglamentaria el uso de la firma
+electr�nica o firma electr�nica avanzada en el seno de la Administraci�n
+P�blica y en las relaciones que con ella mantengan los particulares, a los
+efectos de adoptar las condiciones adicionales que se estimen necesarias,
+para salvaguardar las garant�as de cada procedimiento.
+Art�culo 10
+(R�gimen de uso de la firma electr�nica o firma electr�nica avanzada en
+las profesiones de Abogado, Escribano y Procurador).- La Suprema Corte de
+Justicia expedir�, en forma exclusiva, los certificados reconocidos para
+ser utilizados en el ejercicio de las profesiones de Abogado, Escribano y
+Procurador, si se constituye como prestador de servicios de certificaci�n
+acreditado bajo las condiciones que establece esta ley.
+En caso de que la Suprema Corte de Justicia no se constituya como
+prestador de servicios de certificaci�n acreditado, tendr�n plena validez
+y eficacia para ser utilizados en el ejercicio de las profesiones de
+Abogado, Escribano y Procurador, los certificados reconocidos expedidos
+por otro prestador de servicios de certificaci�n acreditado.
+CAPITULO II - INFRAESTRUCTURA NACIONAL DE CERTIFICACION ELECTRONICA
+Art�culo 11
+(Infraestructura nacional de certificaci�n electr�nica).- La
+infraestructura nacional de certificaci�n electr�nica es el conjunto de
+equipos y programas inform�ticos, dispositivos criptogr�ficos, pol�ticas,
+normas y procedimientos, dispuestos para la generaci�n, almacenamiento y
+publicaci�n de los certificados reconocidos, as� como tambi�n para la
+publicaci�n de informaci�n y consulta del estado de vigencia y validez de
+dichos certificados.
+Art�culo 12
+(Unidad de Certificaci�n Electr�nica).- Cr�ase la Unidad de Certificaci�n
+Electr�nica como �rgano desconcentrado de la Agencia para el Desarrollo
+del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del
+Conocimiento (AGESIC), dotada de la m�s amplia autonom�a t�cnica.
+La Unidad de Certificaci�n Electr�nica estar� dirigida por un Consejo
+Ejecutivo integrado por tres miembros: el Director Ejecutivo de AGESIC y
+dos miembros designados por el Poder Ejecutivo entre personas que, por sus
+antecedentes personales, profesionales y de conocimiento en la materia,
+aseguren independencia de criterio, eficiencia, objetividad e
+imparcialidad en el desempe�o de su cargo.
+Dichos miembros durar�n cuatro a�os en sus cargos, pudiendo ser designados
+nuevamente. S�lo cesar�n por la expiraci�n de su mandato y designaci�n de
+su sucesor o por su remoci�n dispuesta por el Poder Ejecutivo en los casos
+de ineptitud, omisi�n o delito, conforme a las garant�as del debido
+proceso.
+La Presidencia de la Unidad de Certificaci�n Electr�nica ser� ejercida en
+forma rotativa por per�odos anuales entre los integrantes del Consejo
+Ejecutivo -a excepci�n del Director Ejecutivo de la AGESIC- y tendr� a su
+cargo la representaci�n de la misma y la ejecuci�n de las actividades
+necesarias para el cumplimiento de sus resoluciones.
+Art�culo 13
+(Consejo Consultivo).- El Consejo Ejecutivo de la Unidad de Certificaci�n
+Electr�nica funcionar� asistido por un Consejo Consultivo que estar�
+integrado por el Presidente de la Unidad de Certificaci�n Electr�nica, que
+lo presidir�, el Presidente de la Suprema Corte de Justicia, el Presidente
+del Banco Central del Uruguay, el Rector de la Universidad de la
+Rep�blica, el Presidente de la Unidad Reguladora de Servicios de
+Comunicaciones y el Presidente de la C�mara Nacional de Comercio y
+Servicios del Uruguay, o quienes ellos designen como sus representantes.
+Sesionar� a convocatoria del Presidente de la Unidad de Certificaci�n
+Electr�nica o de la mayor�a absoluta de los miembros del Consejo
+Consultivo.
+Podr� ser consultado por el Consejo Ejecutivo sobre cualquier aspecto de
+su competencia y lo ser� preceptivamente por �ste cuando ejerza potestades
+de reglamentaci�n, sin que sus pronunciamientos tengan car�cter
+vinculante.
+Art�culo 14
+(Competencia).- La Unidad de Certificaci�n Electr�nica deber� realizar
+todas las acciones necesarias para el cumplimiento de los objetivos y
+dem�s disposiciones de esta ley. A tales efectos tendr� las siguientes
+funciones y atribuciones:
+1) De acreditaci�n:
+A) Recibir, tramitar y resolver las solicitudes de acreditaci�n de los
+prestadores de servicios de certificaci�n.
+B) Inscribir a los prestadores de servicios de certificaci�n en el
+Registro de Prestadores de Servicios de Certificaci�n Acreditados,
+que a tal efecto se crea en esta ley, una vez otorgada la
+acreditaci�n.
+C) Suspender o revocar la inscripci�n de los prestadores de servicios
+de certificaci�n acreditados.
+D) Mantener en el sitio web de la Unidad de Certificaci�n Electr�nica
+la informaci�n relativa al Registro de Prestadores de Servicios de
+Certificaci�n Acreditados, tales como altas, bajas, sanciones y
+revocaciones.
+2) De control:
+A) Controlar la calidad y confiabilidad de los servicios brindados por
+los prestadores de servicios de certificaci�n acreditados, as� como
+los procedimientos de auditor�a que se establezcan en la
+reglamentaci�n.
+B) Realizar auditor�as a los prestadores de servicios de certificaci�n
+acreditados, de conformidad con los criterios que la reglamentaci�n
+establezca para verificar todos los aspectos relacionados con el
+ciclo de vida de los certificados reconocidos y de sus claves
+criptogr�ficas.
+C) Determinar las medidas que estime necesarias para proteger la
+confidencialidad de los titulares de certificados reconocidos.
+D) Efectuar inspecciones y requerir en cualquier momento a los
+prestadores de servicios de certificaci�n acreditados toda la
+informaci�n necesaria para garantizar el cumplimiento de la funci�n
+en los t�rminos definidos en esta ley y su reglamento.
+3) De instrucci�n: recibir y evaluar reclamos de titulares de certificados
+reconocidos relativos a la prestaci�n de servicios de certificaci�n,
+sin perjuicio de la responsabilidad directa que el prestador de
+servicios de certificaci�n acreditado tiene ante el titular.
+4) De regulaci�n:
+A) Definir los est�ndares t�cnicos y operativos que deber�n cumplir los
+prestadores de servicios de certificaci�n acreditados, as� como los
+procedimientos y requisitos de acreditaci�n necesarios para su
+cumplimiento.
+B) Fijar reglas y patrones industriales que aseguren la compatibilidad,
+interconexi�n e interoperabilidad, as� como el correcto y seguro
+funcionamiento de los dispositivos de creaci�n y verificaci�n de
+firma, controlando su aplicaci�n.
+C) Definir y regular las obligaciones y responsabilidades respecto de
+los terceros que acepten certificados electr�nicos expedidos por un
+prestador de servicios de certificaci�n acreditado, as� como
+establecer las recomendaciones atinentes a los mismos. (*)
+5) De sanci�n: La Unidad de Certificaci�n Electr�nica podr� imponer al
+prestador de servicios de certificaci�n acreditado que infringiere
+total o parcialmente cualesquiera de las obligaciones derivadas de esta
+ley o de las normas que resulten aplicables al servicio que presta, las
+sanciones que se graduar�n en atenci�n a la gravedad o reiteraci�n de
+la infracci�n, que se detallan a continuaci�n:
+A) Apercibimiento.
+B) Multa entre 100.000 UI (cien mil unidades indexadas) y 4.000.000 UI
+(cuatro millones de unidades indexadas).
+C) Suspensi�n hasta por un a�o de la acreditaci�n.
+D) Revocaci�n de la acreditaci�n.
+Las sanciones podr�n aplicarse independiente o conjuntamente, seg�n
+resulte de las circunstancias del caso.
+Las resoluciones que impongan sanciones pecuniarias de acuerdo a lo
+previsto en esta ley, constituyen t�tulo ejecutivo a todos sus efectos.
+(*) Notas: Literal c), numeral 4) ver vigencia: Ley N� 18.996 de 07/11/2012 art�culo
+2 .
+Literal c), numeral 4) agregado/s por: Ley N� 18.996 de 07/11/2012
+art�culo 42 .
+Referencias al art�culo
+Art�culo 15
+(Autoridad Certificadora Ra�z Nacional).- La Autoridad Certificadora Ra�z
+Nacional es la primera autoridad de la cadena de certificaci�n a la cual
+le compete emitir, distribuir, revocar y administrar los certificados de
+los prestadores de servicios de certificaci�n acreditados.
+Des�gnase a la Agencia para el Desarrollo del Gobierno de Gesti�n
+Electr�nica y la Sociedad de la Informaci�n y del Conocimiento como
+Autoridad Certificadora Ra�z Nacional.
+CAPITULO III - PRESTADORES DE SERVICIOS DE CERTIFICACION ACREDITADOS
+Art�culo 16
+(Registro de Prestadores de Servicios de Certificaci�n Acreditados).-
+Cr�ase el Registro de Prestadores de Servicios de Certificaci�n
+Acreditados que estar� a cargo de la Unidad de Certificaci�n Electr�nica.
+Art�culo 17
+(Requisitos para ser prestador de servicios de certificaci�n
+acreditado).- Son condiciones indispensables para ser prestador de
+servicios de certificaci�n acreditado, las siguientes:
+1) Ser persona f�sica o jur�dica constituida en el pa�s, dar garant�a
+econ�mica y solvencia suficiente para prestar los servicios.
+2) Contar con personal calificado con conocimientos y experiencia
+necesarios para la prestaci�n de los servicios de certificaci�n
+ofrecidos y los procedimientos de seguridad y de gesti�n adecuados en
+el �mbito de la firma electr�nica avanzada.
+3) Utilizar est�ndares y herramientas adecuadas seg�n lo establecido por
+la Unidad de Certificaci�n Electr�nica.
+4) Estar domiciliado en el territorio de la Rep�blica Oriental del
+Uruguay, entendi�ndose que cumple con este requisito cuando su
+infraestructura tecnol�gica y dem�s recursos materiales y humanos se
+encuentren situados en territorio uruguayo.
+Referencias al art�culo
+Art�culo 18
+(Obligaciones de los prestadores de servicios de certificaci�n
+acreditados).- Todos los prestadores de servicios de certificaci�n
+acreditados deben cumplir con las siguientes obligaciones:
+1) Abstenerse de generar, exigir o, por cualquier otro medio, tomar
+conocimiento o acceder bajo ninguna circunstancia, a los datos de
+creaci�n de firma electr�nica avanzada de los titulares de los
+certificados reconocidos por �l emitidos.
+2) Proporcionar al solicitante antes de la expedici�n del certificado
+reconocido la siguiente informaci�n m�nima, que deber� transmitirse de
+forma gratuita, por escrito o por v�a electr�nica:
+A) Las obligaciones del firmante, la forma en que han de custodiarse
+los datos de creaci�n de firma, el procedimiento que haya de
+seguirse para comunicar la p�rdida o posible utilizaci�n indebida de
+dichos datos y determinados dispositivos de creaci�n y de
+verificaci�n de firma electr�nica avanzada que sean compatibles con
+los datos de firma y con el certificado reconocido expedido.
+B) Los mecanismos para garantizar la fiabilidad de la firma electr�nica
+avanzada de un documento a lo largo del tiempo.
+C) El m�todo utilizado por el prestador para comprobar la identidad del
+firmante u otros datos que figuren en el certificado reconocido.
+D) Las condiciones precisas de utilizaci�n del certificado reconocido,
+sus posibles l�mites de uso y la forma en que el prestador garantiza
+su responsabilidad patrimonial.
+E) Las acreditaciones que haya obtenido el prestador de servicios de
+certificaci�n.
+F) Las dem�s informaciones contenidas en la declaraci�n de pr�cticas de
+certificaci�n.
+La informaci�n citada anteriormente que sea relevante para terceros
+afectados por los certificados reconocidos deber� estar disponible a
+instancia de �stos.
+3) Mantener un registro actualizado de certificados reconocidos en el que
+se indicar�n los certificados expedidos y si est�n vigentes o si su
+vigencia ha sido suspendida o extinguida. La integridad del registro se
+proteger� mediante la utilizaci�n de los mecanismos de seguridad
+adecuados.
+4) Garantizar la disponibilidad de un servicio de consulta sobre la
+vigencia de los certificados reconocidos.
+5) Informar a la Unidad de Certificaci�n Electr�nica cualquier
+modificaci�n de las condiciones que permitieron su acreditaci�n durante
+la vigencia de su inscripci�n en el Registro de Prestadores de
+Servicios de Certificaci�n Acreditados.
+(*) Notas: Ver en esta norma, art�culos: 19 y 25 .
+Art�culo 19
+(Cese de la actividad de un prestador de servicios de certificaci�n
+acreditado).- El prestador de servicios de certificaci�n acreditado que
+vaya a cesar en su actividad deber� comunicarlo a los titulares de
+certificados reconocidos que hubiere expedido y podr� transferir su
+gesti�n, con su consentimiento expreso, a otro prestador de servicios de
+certificaci�n acreditado o, en caso contrario, extinguir su vigencia.
+La referida comunicaci�n deber� efectuarse con una antelaci�n m�nima de
+sesenta d�as al cese efectivo de su actividad e informar�, en su caso,
+sobre las caracter�sticas del prestador al que se propone la
+transferencia. La comunicaci�n deber� realizarse perentoriamente dentro de
+los primeros veinte d�as y los titulares de los certificados contar�n con
+un plazo de veinte d�as a partir de la recepci�n de la comunicaci�n para
+dar su consentimiento.
+El prestador cesante deber� comunicarlo a la Unidad de Certificaci�n
+Electr�nica con una antelaci�n de veinte d�as al cese efectivo de su
+actividad y deber� indicar el destino que dar� a los certificados
+reconocidos, especificando si los va a transferir y a qui�n, o si los
+dejar� sin efecto.
+La inscripci�n del prestador de servicios de certificaci�n en el Registro
+de Prestadores de Servicios de Certificaci�n Acreditados ser� cancelada de
+oficio por la Unidad de Certificaci�n Electr�nica, cuando aquel cese en su
+actividad.
+La Unidad de Certificaci�n Electr�nica se har� cargo de la informaci�n
+relativa a los certificados reconocidos que se hubieren dejado sin efecto
+por el prestador de servicios de certificaci�n, de conformidad con lo
+previsto en el numeral 3) del art�culo 18.
+Referencias al art�culo
+Art�culo 20
+(Responsabilidad de los prestadores de servicios de certificaci�n
+acreditados).- Los prestadores de servicios de certificaci�n acreditados
+responder�n por los da�os y perjuicios que causen a cualquier persona en
+el ejercicio de su actividad, cuando incumplan las obligaciones que se
+estipulan en esta ley o act�en con negligencia. En todo caso,
+corresponder� al prestador de servicios de certificaci�n acreditado
+demostrar que actu� con la debida diligencia.
+El prestador de servicios de certificaci�n acreditado s�lo responder� de
+los da�os y perjuicios causados por el uso indebido del certificado
+reconocido cuando no haya consignado en �l, de forma claramente
+reconocible por terceros, el l�mite en cuanto a su posible uso o al
+importe del valor de las transacciones v�lidas que pueden realizarse
+emple�ndolo.
+La responsabilidad ser� exigible conforme a las normas generales sobre la
+culpa contractual o extracontractual, seg�n proceda, con las
+especialidades previstas en este art�culo. Cuando la garant�a que hubieran
+constituido los prestadores de servicios de certificaci�n acreditados no
+sea suficiente para satisfacer la indemnizaci�n debida, responder�n de la
+deuda con todos sus bienes presentes y futuros.
+Lo dispuesto en este art�culo se entiende sin perjuicio de lo establecido
+en la Ley N� 17.250, de 11 de agosto de 2000, relativa a las relaciones de
+consumo.
+En ning�n caso la responsabilidad que pueda emanar de la certificaci�n
+efectuada por un prestador de servicios de certificaci�n acreditado no
+estatal comprometer� la responsabilidad pecuniaria del Estado.
+Referencias al art�culo
+CAPITULO IV - CERTIFICADOS RECONOCIDOS
+Art�culo 21
+(Contenido de los certificados reconocidos).- Los certificados
+reconocidos tendr�n el siguiente contenido:
+A) La indicaci�n de que se expiden como tales.
+B) El c�digo identificativo �nico del certificado.
+C) La identificaci�n del prestador de servicios de certificaci�n
+acreditado que expide el certificado, indicando su nombre o raz�n
+social, su domicilio, su correo electr�nico, su n�mero de
+identificaci�n fiscal y sus datos de identificaci�n registral.
+D) La firma electr�nica avanzada del prestador de servicios de
+certificaci�n acreditado que expide el certificado.
+E) La identificaci�n del firmante a trav�s de sus nombres, apellidos y
+documento de identidad para las personas f�sicas o la raz�n social y
+n�mero de identificaci�n fiscal para las personas jur�dicas. Se podr�
+consignar en el certificado cualquier otra circunstancia del titular en
+caso de que sea significativa en funci�n del fin propio del certificado
+y siempre que aquel d� su consentimiento.
+F) En los supuestos de representaci�n, la indicaci�n del documento que
+acredite las facultades del signatario para actuar en nombre de la
+persona f�sica o jur�dica a la que represente.
+G) Los datos de verificaci�n de firma que correspondan a los datos de
+creaci�n de firma que se encuentren bajo el control del firmante.
+H) El comienzo y el fin del per�odo de validez del certificado.
+I) Los l�mites de uso del certificado, si se prev�n.
+La consignaci�n en el certificado de cualquier otra informaci�n
+relativa al signatario requerir� su consentimiento expreso.
+Art�culo 22
+(Comprobaci�n de la identidad de los solicitantes).- La identificaci�n de
+la persona f�sica que solicite un certificado reconocido exigir� su
+comparecencia f�sica ante los encargados de verificarla y se acreditar�
+mediante el documento de identidad, pasaporte u otros medios legalmente
+admitidos.
+En el caso de certificados reconocidos de personas jur�dicas se exigir� la
+comparecencia f�sica del representante, el que deber� acreditar mediante
+certificado notarial la representaci�n invocada, la personer�a jur�dica y
+su vigencia.
+Art�culo 23
+(Vigencia de los certificados reconocidos).- Los certificados reconocidos
+quedar�n sin efecto si concurre alguna de las siguientes circunstancias:
+A) Expiraci�n del per�odo de validez del certificado.
+B) Revocaci�n por el signatario, por la persona f�sica o jur�dica
+representada por �ste o por un tercero autorizado.
+C) P�rdida o inutilizaci�n por da�os del soporte del certificado.
+D) Utilizaci�n indebida por un tercero.
+E) Resoluci�n judicial o administrativa que lo ordene.
+F) Fallecimiento del signatario o de su representado, incapacidad
+sobrevenida, total o parcial, de cualquiera de ellos, terminaci�n de la
+representaci�n o extinci�n de la persona jur�dica representada.
+G) Cese en su actividad del prestador de servicios de certificaci�n
+acreditado salvo que, previo consentimiento expreso del firmante, los
+certificados reconocidos expedidos por aquel sean transferidos a otro
+prestador de servicios de certificaci�n acreditado.
+H) Inexactitudes graves en los datos aportados por el firmante para la
+obtenci�n del certificado reconocido.
+La p�rdida de eficacia de los certificados reconocidos, en los supuestos
+de expiraci�n de su per�odo de validez y de cese de actividad del
+prestador de servicios de certificaci�n acreditado, tendr� lugar desde que
+estas circunstancias se produzcan. En los dem�s casos, la extinci�n de la
+eficacia de un certificado reconocido surtir� efectos desde la fecha en
+que el prestador de servicios de certificaci�n acreditado tenga
+conocimiento cierto de cualquiera de los hechos determinantes de ella y
+as� lo haga constar en su registro actualizado de certificados
+reconocidos.
+En cualquiera de los supuestos indicados el prestador de servicios de
+certificaci�n acreditado habr� de publicar la extinci�n de eficacia del
+certificado reconocido y responder� de los posibles perjuicios que se
+causen al signatario o a terceros de buena fe por el retraso en la
+publicaci�n. Corresponder� al prestador de servicios de certificaci�n
+acreditado la prueba de que los terceros conoc�an las circunstancias
+invalidantes del certificado reconocido.
+El prestador de servicios de certificaci�n acreditado podr� suspender
+temporalmente la eficacia de los certificados reconocidos expedidos si as�
+lo solicita el firmante o sus representados o lo ordena una autoridad
+judicial o administrativa. La suspensi�n surtir� efectos en la forma
+prevista en los dos incisos anteriores.
+Art�culo 24
+(Equivalencia de certificados).- Los certificados reconocidos podr�n ser
+emitidos por entidades no establecidas en el territorio nacional y ser�n
+equivalentes a los otorgados por prestadores de servicios de certificaci�n
+acreditados, cuando exista un convenio internacional ratificado por la
+Rep�blica Oriental del Uruguay y se encuentre vigente.
+Igualmente ser�n v�lidos aquellos certificados emitidos por una autoridad de certificaci�n extranjera, siempre que cumplan con los requisitos establecidos por la presente ley y su reglamentaci�n y exista un acuerdo de reconocimiento rec�proco entre la Entidad acreditadora del pa�s de origen del certificado y la Unidad de Certificaci�n Electr�nica.(*)
+(*) Notas: Inciso 2�) ver vigencia: Ley N� 19.355 de 19/12/2015 art�culo 3 .
+Inciso 2�) agregado/s por: Ley N� 19.355 de 19/12/2015 art�culo 116 .
+CAPITULO V - FIRMANTE O SIGNATARIO
+Art�culo 25
+(Derechos del firmante o signatario).- El firmante o signatario tiene los
+siguientes derechos:
+A) A ser informado por el prestador de servicios de certificaci�n
+acreditado, con car�cter previo a la emisi�n del certificado
+reconocido, de acuerdo con lo establecido en el numeral 2) del art�culo
+18.
+B) A que el prestador de servicios de certificaci�n acreditado emplee los
+elementos t�cnicos disponibles para brindar seguridad y
+confidencialidad a la informaci�n proporcionada por �l y a ser
+informado sobre ello.
+C) A que el prestador de servicios de certificaci�n acreditado le informe
+sobre su domicilio en la Rep�blica Oriental del Uruguay y sobre los
+medios a los que puede acudir para solicitar aclaraciones, dar cuenta
+del mal funcionamiento del sistema o presentar sus reclamos.
+Art�culo 26
+(Obligaciones del firmante o signatario).- Son obligaciones del firmante
+o signatario:
+A) Brindar declaraciones exactas y completas en el momento de proporcionar
+los datos de su identidad personal u otras circunstancias objeto de
+certificaci�n.
+B) Mantener el control exclusivo de sus datos de creaci�n de firma
+electr�nica avanzada, no compartirlos e impedir su divulgaci�n.
+C) Utilizar un dispositivo de creaci�n de firma electr�nica avanzada
+t�cnicamente confiable.
+D) Solicitar la revocaci�n de su certificado reconocido al prestador de
+servicios de certificaci�n acreditado ante cualquier circunstancia que
+pueda haber comprometido la privacidad de sus datos de creaci�n de
+firma.
+E) Informar sin demora al prestador de servicios de certificaci�n
+acreditado el cambio de alguno de los datos contenidos en el
+certificado reconocido que hubiera sido objeto de verificaci�n.
+Art�culo 27
+(Responsabilidad de los representantes o administradores de las personas
+jur�dicas).- Para el caso en que el titular del certificado reconocido sea
+una persona jur�dica ser�n responsables sus representantes o
+administradores de acuerdo con lo establecido en esta ley y en las normas
+generales en la materia.
+CAPITULO VI - DISPOSICIONES FINALES
+Art�culo 28
+(Derogaciones).- Der�ganse los art�culos 129 y 130 de la Ley N� 16.002,
+de 25 de noviembre de 1988; 697 de la Ley N� 16.736, de 5 de enero de
+1996; 25 de la Ley N� 17.243, de 29 de junio de 2000; 329 y 330 de la Ley
+N� 18.172, de 31 de agosto de 2007; y dem�s normas que se opongan a esta
+ley.
+Art�culo 29
+(Traslado del Registro de Prestadores de Servicios de Certificaci�n).- Se
+establece un plazo de noventa d�as para realizar el traslado del Registro
+de Prestadores de Servicios de Certificaci�n, a cargo de la Unidad
+Reguladora de Servicios de Comunicaciones, al Registro de Prestadores de
+Servicios de Certificaci�n Acreditados creado por esta ley en la Unidad de
+Certificaci�n Electr�nica.
+Art�culo 30
+(Reglamentaci�n).- El Poder Ejecutivo deber� reglamentar esta ley dentro
+de los ciento ochenta d�as de su promulgaci�n.
+CAP�TULO VII
+Art�culo 31
+(Prestadores de Servicios de Confianza).- Cr�ase en la Unidad de Certificaci�n Electr�nica el Registro de Prestadores de Servicios de Confianza. A estos prestadores les compete prestar servicios de confianza que brinden seguridad jur�dica a los hechos, actos y negocios realizados o registrados por medios electr�nicos, entre ellos, la creaci�n, verificaci�n y validaci�n de firmas electr�nicas avanzadas con custodia centralizada, la identificaci�n digital y el sellado de tiempo, debiendo cumplir con las siguientes obligaciones espec�ficas:
+A) Custodiar diligentemente la clave del firmante o signatario y
+asegurar los medios para su generaci�n, protecci�n y destrucci�n.
+B) Establecer mecanismos seguros para realizar firmas electr�nicas
+por orden del firmante o signatario de acuerdo con lo que
+determine la Unidad de Certificaci�n Electr�nica.
+C) Disponer de mecanismos seguros para el registro y autenticaci�n de
+personas para su identificaci�n digital.
+Los prestadores de servicios de confianza deber�n cumplir con el
+procedimiento de acreditaci�n y con las pol�ticas determinadas por
+la Unidad de Certificaci�n Electr�nica. (*) (*) Notas: Agregado/s por: Ley N� 19.535 de 25/09/2017 art�culo 28 .
+Reglamentado por:
+Decreto N� 71/025 de 25/02/2025,
+Decreto N� 70/018 de 19/03/2018.
+Art�culo 32
+(Firma electr�nica avanzada con custodia centralizada).- La firma electr�nica avanzada con custodia centralizada, realizada a trav�s de un Prestador de Servicios de Confianza, si cumple con todos los requisitos legales tendr� la misma validez y eficacia jur�dica que la firma electr�nica avanzada. (*) (*) Notas: Agregado/s por: Ley N� 19.535 de 25/09/2017 art�culo 28 .
+Reglamentado por: Decreto N� 70/018 de 19/03/2018.
+Art�culo 33
+(Equivalencia funcional de la identificaci�n digital).- La Unidad de Certificaci�n Electr�nica definir� los niveles de seguridad que proporcionen a la identificaci�n digital el mismo valor y efecto jur�dicos que la identificaci�n presencial. (*) (*) Notas: Agregado/s por: Ley N� 19.535 de 25/09/2017 art�culo 28 .
+Reglamentado por: Decreto N� 70/018 de 19/03/2018.
+RODOLFO NIN NOVOA - CARLOS LISCANO - JORGE BRUNI - PEDRO VAZ - ALVARO GARCIA - GONZALO FERNANDEZ - VICTOR ROSSI - RAUL SENDIC - JULIO BARAIBAR - MARIA JULIA MU�OZ - ANDRES BERTERRECHE - HECTOR LESCANO - JACK COURIEL - MARINA ARISMENDI
+Ayuda

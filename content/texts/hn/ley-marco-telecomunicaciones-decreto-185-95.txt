@@ -1,0 +1,838 @@
+Ley Marco del Sector de Telecomunicaciones
+                         Decreto 185-95
+                  Del 5 de Diciembre de 1995
+                                Y
+Actualización de la Ley Marco del Sector de Telecomunicaciones
+                         Decreto 118-97
+                   Del 25 de Octubre de 1997.
+                                                                                                       DECRETO NO. 185-95
+
+
+                            LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+                                                        ÍNDICE
+LEY MARCO DEL SECTOR DE TELECOMUNICACIONES .................................................................. 2
+
+TÍTULO PRIMERO DE LAS DISPOSICIONES GENERALES................................................................. 2
+   CAPÍTULO I DE LAS DISPOSICIONES GENERALES ........................................................................ 2
+   CAPÍTULO II DE LAS REDES Y SERVICIOS DE TELECOMUNICACIONES................................................. 2
+   CAPITULO III DE LA PROPIEDAD Y ADMINISTRACIÓN DEL ESPECTRO RADIOELÉCTRICO ........................... 3
+
+TITULO SEGUNDO DE LA ENTIDAD REGULADORA ...................................................................... 4
+   CAPÍTULO ÚNICO DE LA COMISIÓN NACIONAL DE TELECOMUNICACIONES (CONATEL) ........................... 4
+
+TÍTULO TERCERO DE LAS CONCESIONES, LICENCIAS, PERMISOS Y REGISTROS .................................. 7
+   CAPITULO I DE LOS PRINCIPIOS GENERALES............................................................................ 7
+   CAPITULO II DE LAS TASAS Y TARIFAS.................................................................................... 8
+   CAPÍTULO III DE LA INTERCONEXIÓN DE LAS REDES DE TELECOMUNICACIONES ................................... 8
+   CAPÍTULO IV DE LAS SERVIDUMBRES Y DEL USO DE BIENES ........................................................... 9
+
+TÍTULO CUARTO DE LA COMPETENCIA ................................................................................... 9
+   CAPITULO UNICO PROHIBICIÓN DE LAS ACCIONES QUE LIMITEN LA COMPETENCIA ............................... 9
+
+TÍTULO QUINTO DE LAS INFRACCIONES Y SANCIONES Y DE LA RESOLUCIÓN DE CONCESIONES............. 9
+   CAPITULO I DE LAS INFRACCIONES Y SANCIONES....................................................................... 9
+   CAPÍTULO II DE LA RESOLUCIÓN DE LAS CONCESIONES ..............................................................11
+
+TÍTULO FINAL DISPOSICIONES FINALES Y TRANSITORIAS ........................................................... 12
+   CAPÍTULO ÚNICO DISPOSICIONES FINALES Y TRANSITORIAS.........................................................12
+                           DECRETO No. 185-95 y DECRETO No. 118-97*
+                                        EL CONGRESO NACIONAL,
+
+CONSIDERANDO: Que la Ley Orgánica de la Empresa Hondureña de Telecomunicaciones, (HONDUTEL) ha estado en
+vigencia por más de dieciocho años y que durante ese período las políticas que rigen el sector de
+telecomunicaciones han evolucionado como consecuencia de los cambios tecnológicos, la apertura en la
+competencia de los servicios y la participación de la inversión privada.
+CONSIDERANDO: Que es deber del Estado regular las actividades de operación y explotación de los servicios de
+telecomunicaciones de manera que permitan la tecnificación, modernización y expansión del sistema de
+telecomunicaciones en el país, estableciendo las condiciones indispensables para satisfacer la demanda de los
+servicios de manera eficiente, continúa y confiable.
+CONSIDERANDO: Que se hace necesario incrementar la eficiencia en la operación y explotación de los servicios de
+telecomunicaciones.
+CONSIDERANDO: Que es importante garantizar la operación y explotación de los servicios de las comunicaciones
+en un régimen de competencia, reservándose el Estado su función de regulación y fiscalización de la actividad a
+través de un organismo eminentemente técnico e independiente.
+CONSIDERANDO: Que con las reformas a la LEY GENERAL DE LA ADMINISTRACIÓN PÚBLICA contenida en el Decreto
+No. 218-96 del 17 de Diciembre de 1996, se hace necesario actualizar la LEY MARCO DEL SECTOR DE
+TELECOMUNICACIONES.
+CONSIDERANDO: Que la Libre Emisión del Pensamiento es una garantía reconocida y plasmada en la Constitución
+de la República.
+CONSIDERANDO: Que los medios de radiodifusión y demás de la Ley de Emisión del Pensamiento desempeñan una
+función fundamental en la estabilidad democrática del país.
+
+* el texto en cursiva corresponde a la reforma hecha mediante Decreto 118-97
+
+
+      POR TANTO:
+
+
+      DECRETA:
+
+
+      La siguiente:
+
+
+                                                       1
+                                                      LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+        LEY MARCO DEL SECTOR DE                    disposiciones de la presente Ley en cuanto
+          TELECOMUNICACIONES                       al uso y el control del espectro
+                                                   radioeléctrico y al cumplimiento de las
+             TÍTULO PRIMERO                        características técnicas para cada servicio.
+     DE LAS DISPOSICIONES GENERALES                En caso de insuficiencia de facilidades
+                CAPÍTULO I                         técnicas,    los   servicios  públicos    de
+     DE LAS DISPOSICIONES GENERALES                telecomunicaciones tendrán preferencia
+                                                   sobre los servicios privados.
+Artículo 1
+La presente Ley establece las normas para          Artículo 5
+regular en el territorio nacional los              Los       equipos       terminales      de
+servicios      de      telecomunicaciones,         telecomunicaciones     serán    libremente
+comprendiéndose     entre     éstos    toda        adquiridos y podrán ser conectados con las
+transmisión, emisión o recepción de                redes públicas existentes siempre que
+signos, señales, escritos, imágenes fijas,         reúnan las características exigidas por
+imágenes en movimiento, sonidos o                  CONATEL.
+informaciones de cualquier naturaleza por
+medio de transmisión eléctrica por hilos,                         CAPÍTULO II
+radioelectricidad,     medios       ópticos,              DE LAS REDES Y SERVICIOS DE
+combinación de ellos o cualesquiera otros                    TELECOMUNICACIONES
+sistemas electromagnéticos.
+                                                   Artículo 6
+Artículo 2                                         Una Red Pública de Telecomunicaciones es
+Corresponderá al Estado, a través del              el conjunto de medios de transmisión,
+Presidente de la República, la formulación         distribución y conmutación utilizados para
+de las políticas relacionadas con las              prestar        los      servicios       de
+telecomunicaciones y, por medio de la              telecomunicaciones.
+Comisión Nacional de Telecomunicaciones,           Los equipos terminales de los usuarios
+en lo sucesivo denominada CONATEL,                 conectados a los puntos de terminación de
+regular y fiscalizar la explotación y              dicha red, no forman parte de la Red
+operación de las telecomunicaciones que            Pública de Telecomunicaciones.
+realicen la Empresa Hondureña de
+Telecomunicaciones      (HONDUTEL),    sus         Artículo 7
+asociados y los particulares.                      Para los efectos de la presente Ley, los
+                                                   servicios    de   telecomunicaciones   se
+Artículo 3                                         clasifican en:
+Las telecomunicaciones son inviolables. No         a) Servicios portadores;
+podrán,      por      consiguiente,     ser        b) Servicios finales, que comprenden
+interceptadas o interferidas, salvo por                los servicios básicos y los servicios
+resolución judicial.                                   complementarios;
+Las     informaciones      obtenidas     en        c) Servicios de valor agregado, y;
+contravención de esta norma no podrán ser          ch)Servicios de radiocomunicaciones y
+utilizadas en ninguna forma y originarán           difusión.
+responsabilidad civil y penal.                     En cuanto a su utilización y naturaleza,
+                                                   los servicios de telecomunicaciones se
+Artículo 4                                         clasifican en:
+Los   servicios   de  telecomunicaciones           a) Públicos, y;
+aéreas,    marítimas,  militares  y   de           b) Privados
+seguridad pública estarán sujetos a las
+
+                                               2
+                                                        LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+Servicios Portadores son aquellos que                necesidades de comunicación sin fines de
+tienen capacidad únicamente para el                  lucro.
+transporte de señales entre dos o más
+puntos     definidos     de    la   red     de       Artículo 8
+telecomunicaciones y que permiten la                 Los términos técnicos que no están
+prestación de servicios finales, de difusión         definidos en la presente Ley y que sean
+y de valor agregado. Tienen tal carácter             requeridos para la aplicación de la misma,
+los servicios de larga distancia nacional e          serán     definidos   reglamentariamente,
+internacional y los locales.                         tomando        en    consideración      las
+Servicios Finales son los que hacen                  recomendaciones de los convenios de la
+posible una completa comunicación entre              Unión Internacional de Telecomunicaciones
+los usuarios. Forman parte de los mismos             (UIT) y demás organismos afines.
+los servicios básicos de telefonía, télex,
+telégrafos, teléfonos públicos y telefonía                          CAPITULO III
+móvil      celular     y     los     servicios         DE LA PROPIEDAD Y ADMINISTRACIÓN DEL
+complementarios       de     transmisión     y               ESPECTRO RADIOELÉCTRICO
+conmutación de datos, troncalizado y
+busca personas.                                      Artículo 9
+Servicios de Valor Agregado son los que              El espectro radioeléctrico es un recurso
+utilizando     como      soporte     servicios       natural de propiedad exclusiva del Estado.
+portadores, finales o de difusión, o                  El mismo está integrado por toda la gama
+cualquier combinación de éstos que sin               de radiofrecuencias utilizables para las
+usar infraestructura propia de transmisión           comunicaciones.
+añaden alguna característica o facilidad al          La utilización del espectro radioeléctrico
+servicio que le sirve de base para                   por      medio     de      satélites    de
+satisfacer nuevas necesidades específicas.           telecomunicaciones    se     someterá   al
+Forman parte de este grupo los facsímiles,           ordenamiento jurídico aplicable en materia
+el teletexto, el videotexto, los video-              de telecomunicaciones y a lo establecido
+conferencias, el acceso a base de datos,             en los tratados y acuerdos internacionales
+los telemandos, la teleacción y los demás            de los que Honduras forma parte, en
+que determine CONATEL.                               especial los que versan sobre propiedad
+Servicios de Radiocomunicaciones y                   intelectual.
+Difusión. Los primeros son los que
+transmiten, emiten y reciben ondas                   Artículo 10
+radioeléctricas para fines específicos de            El derecho a utilizar una frecuencia
+radiocomunicaciones. Los servicios de                quedará     afecto     al    servicio     de
+difusión son los que hacen posible la                telecomunicación para el cual se conceda y
+comunicación en un solo sentido a varios             no se podrá utilizar para fines distintos de
+puntos de recepción en forma simultánea.             los expresamente autorizados.
+Servicios Públicos son los destinados a              Las estaciones de radio, televisión y otros
+satisfacer      las       necesidades       de       servicios de difusión estarán obligadas
+telecomunicación       de     las    personas        cuando CONATEL lo solicite, a otorgar
+naturales o jurídicas ajenas a la prestación         espacios para cadena nacional para
+de servicios, cuya utilización se efectúa a          difundir mensajes de los Presidentes de los
+cambio de un pago.                                   tres Poderes del Estado y para casos de
+Servicios Privados son los que sirven para           emergencia nacional y de interés nacional,
+el uso exclusivo de una persona natural o            cultural y cívico que se consignarán en el
+jurídica a fin de satisfacer sus propias             reglamento respectivo.
+
+
+                                                 3
+                                                       LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+Artículo 11                                         5. Velar por el respeto de los derechos de
+La administración y control del espectro                los usuarios y evitar que se afecten
+radioeléctrico corresponde a CONATEL, la                indebidamente sus intereses;
+que además tendrá a su cargo la                     6. Establecer       los      mecanismos      y
+comprobación técnica de las emisiones                   procedimientos por medio de los cuales
+radioeléctricas y la cancelación de                     los usuarios podrán ejercer sus
+aquellas que no cumplan con los requisitos              derechos ante los operadores de los
+establecidos   por    esta  Ley   y    sus              servicios de telecomunicaciones;
+reglamentos.                                        7. Promover la competencia en la
+                                                        prestación     de    los    servicios   de
+                                                        telecomunicaciones;
+                                                    8. Emitir regulaciones con respecto a las
+             TITULO SEGUNDO                             tarifas    que     podrán     cobrar   los
+       DE LA ENTIDAD REGULADORA                         operadores        de      servicios     de
+             CAPÍTULO ÚNICO                             telecomunicaciones, cuando no estén
+       DE LA COMISIÓN NACIONAL DE                       siendo    brindados      en    condiciones
+     TELECOMUNICACIONES (CONATEL)                       competitivas, a excepción de los
+                                                        servicios que presten los medios de
+Artículo 12                                             libre difusión del pensamiento;
+CONATEL es una entidad desconcentrada               9. Asegurarse de que los operadores de
+de la Secretaría de Estado en el Despacho               redes de telecomunicaciones den
+de Finanzas, respecto de la cual                        acceso, en igualdad de condiciones, a
+funcionará con independencia técnica,                   otros operadores y usuarios que se
+administrativa y presupuestaria.                        encuentren en las mismas o análogas
+                                                        circunstancias;
+Articulo 13                                         10. Resolver los conflictos en materia de
+CONATEL      tendrá     las    facultades   y           interconexión que se susciten entre los
+atribuciones siguientes:                                operadores     de    los    servicios   de
+1. Colaborar con el Presidente de la                    telecomunicaciones a solicitud          de
+    República en la formulación de las                  cualesquiera de las partes o de oficio,
+    políticas de telecomunicaciones y velar             en su caso;
+    por su efectiva ejecución;
+2. Cumplir y hacer cumplir las leyes,               Artículo 14
+    reglamentos, normas técnicas y demás            También son facultades y atribuciones de
+    disposiciones internas, así como los            CONATEL:
+    tratados,     convenios     y    acuerdos       1. Clasificar      los     servicios     de
+    internacionales sobre telecomunicacio-              telecomunicaciones;
+    nes. En caso de contradicción entre             2. Otorgar       concesiones,     licencias,
+    estos últimos y las leyes y demás                   permisos o registros para la prestación
+    disposiciones internas, prevalecerán                de servicios de telecomunicaciones y,
+    los tratados;                                       en su caso, renovar, modificar o
+3. Promover la universalización de los                  declarar la caducidad o revocar los
+    servicios de telecomunicaciones y                   mismos     en   conformidad     con   el
+    procurar su más alta calidad y menor                correspondiente reglamento;
+    costo posible;                                  3. Velar por el estricto cumplimiento de
+4. Adoptar las medidas necesarias para                  las obligaciones establecidas en las
+    que        los         servicios       de           concesiones, licencias, permisos o
+    telecomunicaciones se brinden en                    registros;
+    forma eficiente, ininterrumpida, sin
+    interferencias y sin discriminaciones;
+                                                4
+                                                       LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+4. Aplicar las sanciones previstas en esta          Para ser miembro de CONATEL se requiere
+    Ley y en los reglamentos respectivos;           ser hondureño por nacimiento, mayor de
+5. Establecer las tasas y demás sumas que           30 años, estar en el libre ejercicio de los
+    deberán pagar los operadores de los             derechos     civiles,    ostentar     título
+    sistemas de telecomunicaciones y velar          profesional de nivel universitario, de
+    por su estricto cumplimiento;                   reconocida honorabilidad, competencia y
+6. Formular y llevar a la práctica el Plan          acreditada          experiencia           en
+    Nacional de Telecomunicaciones;                 telecomunicaciones o asuntos relacionados
+7. Administrar y controlar el uso del               con las mismas.
+    espectro radioeléctrico;
+8. Ejercer la representación del Estado en          Artículo 17
+    materia de telecomunicaciones ante              No podrán ser miembros de CONATEL
+    los organismos internacionales, por             quienes:
+    medio de su Presidente o de la persona          a) Tengan cuentas pendientes con el
+    o personas que designe CONATEL;                     Estado;
+9. Emitir las regulaciones y normas de              b) Sean      directa     o    indirectamente
+    índole técnica necesarias para la                   contratistas    o   concesionarios     del
+    prestación     de    los    servicios  de           Estado;
+    telecomunicaciones de conformidad               c) Sean miembros de las juntas directivas
+    con esta Ley;                                       de los partidos políticos o desempeñen
+10. Promover la inversión privada con el                cargos      o      empleos        públicos
+    fin de desarrollar el sector de las                 remunerados, excepto de carácter
+    telecomunicaciones;                                 docente, cultural y los relacionados
+11. Preparar      su     Anteproyecto      de           con los servicios profesionales de
+    Presupuesto Anual y presentarlo a la                asistencia social;
+    Secretaría de Finanzas para su                  ch)Sean cónyuges o parientes dentro del
+    incorporación     en     el   Presupuesto          cuarto grado de consanguinidad o
+    General de Ingresos y Egresos de la                segundo de afinidad del Presidente de
+    República que aprueba el Congreso                  la República, de los designados a la
+    Nacional.; y,                                      Presidencia de la República, de los
+12. Las demás que determine la presente                Secretarios     de    Estado,     de    los
+    Ley.                                               presidentes     o    gerentes     de    las
+                                                       instituciones      descentralizadas       o
+Artículo 15                                            desconcentradas del Estado o del
+CONATEL estará integrada por tres                      Comandante en Jefe de las Fuerzas
+miembros nombrados por el Presidente de                Armadas;
+la República por medio de la Secretaría de          d) Sean miembros de las juntas directivas
+Estado en el Despacho de Finanzas.                      o consejos de administración de las
+En igual forma, serán nombrados dos                     empresas prestatarios de servicios de
+miembros suplentes, que sustituirán las                 telecomunicaciones o propietarios de
+ausencias     de    los   propietarios     y            las mismas;
+ordinariamente,       desempeñarán       las        e) Formen parte de empresas cuya
+funciones que les asigne CONATEL. Los                   finalidad es la prestación de servicios a
+miembros suplentes deberán cumplir con                  personas     naturales      o    jurídicas
+los requisitos establecidos en los Artículos            dedicadas a las telecomunicaciones;
+16 y 17.                                            f) Hayan sido declarados fallidos o
+                                                        quebrados      o    estén     sujetos    a
+Artículo 16                                             procedimientos       de      quiebra     o
+                                                        liquidación; y
+
+                                                5
+                                                       LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+g) Sean legalmente incapaces.                       Las sesiones de CONATEL serán dirigidas
+                                                    por el miembro de la misma que el titular
+Artículo 18                                         del Poder Ejecutivo haya designado como
+Todo acto, resolución u omisión de los              su Presidente.
+miembros de CONATEL que contravenga                 El Presidente de CONATEL representará
+disposiciones legales o reglamentarias hará         judicial y extrajudicialmente a ésta y a él
+incurrir en responsabilidad personal y              corresponderá convocar a sesiones a la
+solidaria para con CONATEL, el Estado o             Comisión; conferir y revocar poderes; y
+terceros a todos los miembros presentes             dirigir y coordinar las actividades de ésta.
+en la sesión respectiva, salvo a aquellos
+que hubiesen hecho constar su voto                  Artículo 22
+contrario en el acta correspondiente.               Cuando un miembro de CONATEL tuviere
+                                                    interés personal en cualquier asunto que
+Artículo 19                                         deba discutirse o resolverse por la misma o
+Los miembros de CONATEL tendrán el                  lo tuviese su cónyuge, sus parientes dentro
+carácter de funcionarios públicos, durante          del cuarto grado de consanguinidad o
+cuatro (4) años en el ejercicio de sus              segundo de afinidad, o sus socios en
+funciones y podrán ser nombrados para               cualquier tipo de empresas, deberá
+nuevos     períodos.    Desempeñarán      sus       excusarse desde la presentación y hasta la
+actividades a tiempo completo y no podrán           conclusión del correspondiente asunto. De
+ocupar otro cargo, remunerado o ad                  la excusa deberá dejarse constancia en
+honorem, excepto los de carácter docente,           acta.
+cultural y los relacionados con los servicios
+profesionales en asistencia social.                 Artículo 23
+                                                    Los    miembros    de   CONATEL       y   los
+Artículo 20                                         funcionarios y empleados de ésta que
+Los miembros de CONATEL deberán                     divulguen en forma indebida cualquier
+reunirse en sesión para tomar sus                   información sobre los asuntos que aquélla
+decisiones. Las sesiones podrán ser                 maneje o que se aprovechen de la misma
+ordinarias    o   extraordinarias   y   se          para fines personales o en daño de la
+celebrarán con la periodicidad que                  entidad, del Estado o de terceros,
+determine el Reglamento Interno de                  incurrirán en responsabilidad civil y penal.
+aquélla.
+Para que las sesiones de CONATEL sean               Artículo 24
+válidas deberán concurrir a la misma todos          Los miembros de CONATEL cesarán en sus
+sus miembros propietarios. Ordinariamente           funciones por:
+CONATEL tomará sus decisiones por simple            a) Muerte;
+mayoría de votos, pero en casos                     b) Renuncia;
+excepcionales,     que   determinará    el          c) Remoción hecha por el Presidente de
+Reglamento Interno de la misma, sus                     la   República   cuando   ello  sea
+decisiones las acordará por unanimidad.                 procedente de conformidad con esta
+De cada sesión que se realice deberá                    Ley;
+levantarse un acta, la que deberá ser               ch) Declaratoria de reo, y,
+firmada por los comisionados y el                   d) Incapacidad     física   o    mental
+Secretario de la Comisión. Las decisiones               sobreviniente.
+de la Comisión se tomarán mediante
+resolución.
+
+Artículo 21
+
+                                                6
+                                                      LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+            TÍTULO TERCERO                         serán     establecidas   por     la   vía
+     DE LAS CONCESIONES, LICENCIAS,                reglamentaria.
+          PERMISOS Y REGISTROS                     Los    requisitos    y condiciones   que
+               CAPITULO I                          establezcan los reglamentos para el
+      DE LOS PRINCIPIOS GENERALES                  otorgamiento de concesiones, licencias y
+                                                   permisos serán iguales para todos los
+Artículo 25                                        interesados en prestar el mismo tipo de
+Para la prestación de servicios de                 servicio.
+telecomunicaciones      se     requiere   de       Los gobiernos extranjeros no podrán
+concesión, licencia, permiso o registro            participar en forma directa, en la
+otorgado por CONATEL.                              prestación        de    servicios     de
+Los        servicios       públicos       de       telecomunicaciones.
+telecomunicaciones portadores y finales
+básicos a los que se refieren los incisos a)       Artículo 27
+y b) del Artículo 7, precedente, requerirán        Las concesiones no podrán exceder de
+para su prestación, de una concesión.              veinticinco (25) años; los permisos de
+Los servicios finales complementarios, de          quince (15) años y los registros de cinco
+radiocomunicación, de difusión y redes             (5) años.     Estos plazos, sin embargo,
+privadas, así como los servicios privados,         podrán renovarse antes de su vencimiento.
+requieren de permiso para su prestación.           Los permisos para los servicios de
+Los servicios de valor agregado deberán            radiodifusión de libre recepción serán
+registrarse ante CONATEL como condición            otorgados por (15) años y su renovación
+previa para iniciar su prestación. El              será automática por períodos iguales,
+registro no podrá denegarse sino sólo              siempre que reúnan los requisitos que se
+cuando el servicio corresponda a una               establecen en base a lo dispuesto en el
+categoría distinta de la solicitada.               Artículo anterior.
+Los servicios de difusión se prestarán en          Las licencias serán otorgadas por períodos
+régimen de libre competencia, quedando             iguales a la duración de la concesión,
+prohibida cualquier forma de exclusividad,         permiso o registro correspondiente y
+monopolio o acaparamiento.                         afecto al servicio autorizado.
+Sin perjuicio de lo anterior, los servicios        El otorgamiento de una concesión se hará
+que necesiten para su prestación del uso           mediante el procedimiento de licitación
+del espectro radioeléctrico requerirán,            pública de acuerdo con la legislación
+además,     de    licencia    otorgada   por       aplicable en la materia.
+CONATEL.
+                                                   Artículo 28
+Artículo 26                                        Sin perjuicio del derecho de defensa, el
+Las concesiones y licencias se otorgarán,          Estado podrá, por razones de seguridad
+como regla general, sin derecho de                 nacional, cancelar, previa indemnización
+exclusividad. Se excluyen los casos que por        con arreglo a la Ley, las concesiones,
+razones    económicas    o    técnicas   se        licencias o permisos de explotación de un
+justifique sean otorgadas en exclusividad          servicio de telecomunicaciones.
+temporal a un número limitado de
+operadores.                                        Artículo 29
+Los requisitos y condiciones requeridos            Las concesiones, permisos o licencias no
+para obtener concesiones, licencias,               podrán    ser   transferidas   a   terceras
+permisos y registros, así como las                 personas, sin la previa autorización escrita
+estipulaciones de los contratos y las              de CONATEL.
+causales de terminación de los mismos,
+
+                                               7
+                                                     LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+Sin embargo, los permisos de los servicios        CONATEL establecerá el marco dentro del
+de difusión de libre recepción y sus              cual se fijarán las tarifas que aplicarán los
+licencias asociadas durante el plazo de su        operadores      de     los    servicios    de
+vigencia, podrán ser transferidos por             telecomunicaciones que se hallen sujetos a
+sucesión por causa de muerte, por                 regulación tarifaria.
+donación entre vivos y libre disposición de       Dichas tarifas deberán ser uniformes y
+bienes, siempre y cuando se encuentren en         homogéneas y tomarán en cuenta las
+operación y el nuevo titular reúna los            recomendaciones y regulaciones de los
+requisitos necesarios y cumpla con las            organismos         internacionales         de
+disposiciones que la Ley exige para la            telecomunicaciones.
+prestación de este tipo de servicios,
+debiendo     previamente     solicitar   la       Artículo 33
+autorización a CONATEL del traspaso               Los valores que se capten por concepto de
+correspondiente     para     los    efectos       tasas, multas u otros ingresos que se
+consiguientes.                                    generen con motivo de la aplicación de
+                                                  esta Ley y de sus reglamentos serán
+               CAPITULO II                        enterados en la Tesorería General de la
+         DE LAS TASAS Y TARIFAS                   República o en la institución financiera
+                                                  que la Secretaría de Estado en los
+Artículo 30                                       Despachos de Hacienda y Crédito Público
+El otorgamiento de cada concesión,                haya autorizado como agente recaudador.
+permiso o registro y el uso de frecuencias        En consecuencia, ningún pago por tales
+radioeléctricas conlleva la obligación de         conceptos podrá hacerse a los funcionarios
+pagar al Estado los derechos, las tasas,          o empleados de CONATEL.
+cánones o tarifas, según sea el caso, y que
+determine CONATEL.                                              CAPÍTULO III
+Para los operadores amparados por la Ley            DE LA INTERCONEXIÓN DE LAS REDES DE
+de Emisión del Pensamiento, las tarifas                     TELECOMUNICACIONES
+por servicios, se concertarán para su
+aplicación.                                       Artículo 34
+Para efecto de los operadores a que se            La interconexión entre las redes públicas
+refiere el párrafo anterior, el uso de            será obligatoria siempre que sean técnica y
+frecuencias de enlaces, unidades móviles y        funcionalmente compatibles.
+estaciones terrenas, no estarán afectos al        Los    operadores     de   redes   públicas
+pago de derecho alguno.                           negociarán entre sí las condiciones
+                                                  técnicas     y     económicas    en    que
+Artículo 31                                       interconectarán sus redes, para lo cual
+Las tarifas que cobren los operadores de          actuarán de acuerdo con lo que prescriban
+servicios portadores, finales básicos y           los reglamentos que para el efecto emita
+complementarios de telecomunicaciones,            CONATEL.
+exceptuando los servicios que presten los         Si las partes no se ponen de acuerdo, sus
+medios de libre difusión del pensamiento,         diferencias serán resueltas por CONATEL.
+serán regulados por CONATEL, siempre que
+ésta haya determinado que no están                Artículo 35
+siendo prestados en condiciones adecuadas         Los operadores de una red pública que
+de competencia.                                   tengan poder dominante en el mercado
+                                                  estarán obligados a ofrecer condiciones
+Artículo 32                                       técnicas y financieras de interconexión que
+                                                  no discriminen entre los operadores
+
+                                              8
+                                                       LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+interconectados.     Los   acuerdos     de          Mientras persista el diferendo, no podrá
+interconexión, además, deberán asegurar             ejecutarse ninguna obra en el predio
+la igualdad de acceso de otros operadores           sirviente.
+y    la  neutralidad   respecto   de   las          En lo no previsto en el presente Capítulo
+operaciones del operador que se encuentre           se estará, en lo aplicable, a lo prescrito
+en una situación dominante y las de sus             por el Código Civil en materia de
+competidores.                                       servidumbres legales.
+CONATEL reglamentará esta disposición.
+
+              CAPÍTULO IV                                       TÍTULO CUARTO
+DE LAS SERVIDUMBRES Y DEL USO DE BIENES                       DE LA COMPETENCIA
+                                                                CAPITULO UNICO
+Articulo 36                                         PROHIBICIÓN DE LAS ACCIONES QUE LIMITEN
+Los operadores de servicios públicos de                         LA COMPETENCIA
+telecomunicaciones, por el solo efecto de
+esta    Ley,   tendrán el derecho         de        Articulo 38
+servidumbre sobre los bienes inmuebles              Quedan prohibidas las prácticas que
+nacionales y privados que sean necesarios           limiten o distorsionen la competencia.
+para     el    establecimiento     de     las       Se considerarán prácticas restrictivas de la
+correspondientes       redes.         Dichos        competencia los acuerdos entre empresas
+operadores      adoptarán     las   medidas         dedicadas a la prestación de servicios de
+necesarias para evitar cualquier daño en            telecomunicaciones que tengan como
+los predios sirvientes.                             finalidad distribuirse el mercado, fijar
+Lo dispuesto en este Artículo no obstará            precios o tarifas iguales o semejantes en
+para que, si dichos operadores lo                   condiciones disímiles de costo, limitar el
+consideran oportuno, adquieran el dominio           acceso    a    la   actividad  a    posibles
+de los inmuebles de que se trate, previo            competidores      y     las   demás     que
+acuerdo entre las partes y la consiguiente          reglamentariamente determine CONATEL.
+indemnización      del    propietario    del        Para que la práctica restrictiva de la
+inmueble.                                           competencia tenga tal carácter bastará
+Cuando el predio sea propiedad del                  con que los acuerdos sean susceptibles de
+Estado, la solicitud de compra se le hará a         producir los señalados efectos o que
+la Secretaría de Estado en los Despachos            confiera a la contraparte una preferencia
+de Hacienda y Crédito Público o al                  discriminatoria frente a sus competidores
+Instituto    Nacional     Agrario,     según        o que implique abuso de su posición
+corresponda, o en su caso a la                      dominante para lograr una ventaja en el
+municipalidad respectiva.                           mercado.
+
+Artículo 37
+EL dueño del predio particular podrá                              TÍTULO QUINTO
+oponerse a la         constitución de la                DE LAS INFRACCIONES Y SANCIONES Y
+servidumbre       cuando      ésta     pueda            DE LA RESOLUCIÓN DE CONCESIONES
+establecerse en un predio nacional o ejidal                         CAPITULO I
+adyacente     al    suyo    o   cuando    las            DE LAS INFRACCIONES Y SANCIONES
+instalaciones de que se trate puedan
+hacerse en otro lugar del mismo predio o            Artículo 39
+sobre otros predios que ofrezcan mejores            Se reputará como infracción toda acción u
+condiciones      por     su   ubicación     o       omisión que contravenga los preceptos de
+características.                                    la presente Ley.
+                                                9
+                                                   LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+Las infracciones podrán realizarse por          h) El    incumplimiento    de    otros
+acción o por omisión y se configurarán             requisitos o normas de la presente
+independientemente de la existencia de             Ley o sus reglamentos que tenga un
+culpa, dolo o de perjuicio fiscal.                 impacto muy serio en contra del
+La investigación, combate y sanciones de           interés    público    y  que    sea
+las infracciones a la presente Ley                 denominado por el reglamento como
+corresponderá a CONATEL y al Ministerio            infracción muy grave.
+Público.
+La sanción de las infracciones constitutivas    Artículo 42
+de delito corresponderá exclusivamente a        Son infracciones graves las siguientes:
+los juzgados y tribunales de justicia.          a) Negar la información que CONATEL
+                                                    solicite al operador de un servicio de
+Artículo 40                                         telecomunicaciones;
+Para los efectos de esta Ley, será              b) Modificar, ampliar o cambiar la
+reincidente quien habiendo cometido una             ubicación de redes o antenas o
+infracción cometa una nueva igual,                  introducir   en    el   equipo    alguna
+semejante o comparable.                             alteración   sustancial    de   carácter
+                                                    técnico, sin autorización previa de
+Articulo 41                                         CONATEL;
+Constituyen infracciones muy graves las         c) Incumplir las exigencias de continuidad
+siguientes:                                         y buena calidad en la prestación de los
+a) Incumplir con el pago de los                     servicios, según las normas técnicas
+    derechos      o     tasas     que   le          determinadas por CONATEL;
+    correspondan,      originados    en la      ch) Incumplir las órdenes emanadas por
+    prestación de los servicios de                   CONATEL sobre la organización de los
+    telecomunicaciones;                              servicios, controles       técnicos y
+b) Divulgar el contenido de cualquier                administrativos o sobre la información
+    comunicación que corresponda a                   contable;
+    otra persona, salvo en los casos que        d) Interferir, perturbar o dañar por
+    determine la Ley;                               negligencia     los     servicios     de
+c) Instalar, construir o poner en                   telecomunicaciones que preste otro
+    operación       un      servicio    de          operador;
+    telecomunicaciones          sin     la      e) Obstaculizar, evadir o impedir la
+    autorización de CONATEL;                        práctica de una diligencia ordenada por
+ch)Interconectar        una      red    de          CONATEL;
+     telecomunicaciones a cualquier otra        f) Emitir señales de identificación falsas o
+     sin la autorización correspondiente;           engañosas;
+d) Interferir, perturbar o dañar en             g) La importación, fabricación o ventas de
+    forma deliberada las redes, sistemas            equipos terminales o equipos de
+    o servicios de telecomunicaciones               radiocomunicación que no disponen del
+    de otra persona;                                certificado de homologación o la
+e) Utilizar frecuencias radioeléctricas             aprobación de CONATEL, y;
+    sin licencias o en forma distinta a la      h) Cualquier otra infracción que tenga un
+    autorizada;                                     impacto serio y dañino al interés
+f) La prestación de cualquier servicio              público y que sea tipificada en el
+    no autorizado;                                  Reglamento como infracción grave.
+g) La     comisión    de    más de tres
+    infracciones graves en un lapso de          Artículo 43
+    doce meses, y;
+
+                                           10
+                                                   LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+Las infracciones se sancionarán de la           Son causales que darán lugar a la
+manera siguiente:                               resolución       administrativa     de     las
+1) Las infracciones muy graves con una          concesiones las siguientes:
+     multa de hasta Lps. 500,000.00             a) El incumplimiento sustancial de las
+     (quinientos mil Lempiras) por cada             obligaciones de expansión y calidad de
+     infracción; y,                                 los servicios en los casos en que éstos
+2) Las infracciones graves con una                  se hubiesen pactado en el contrato de
+     multa de hasta Lps. 99,000.00                  concesión;
+     (noventa y nueve mil Lempiras] por         b) La modificación no autorizada del
+     cada infracción.                               objeto de la concesión;
+Para cuantificar la imposición de la            c) El traspaso, enajenación o gravamen de
+sanción, se tomará en consideración los             los bienes destinados a la prestación
+factores expresados en los artículos                del servicio concedido sin previa
+anteriores, el grado de alteración de               autorización de CONATEL o el hecho de
+los servicios, los incumplimientos a los            que se permita su utilización a terceros
+contratos otorgados, el riesgo corrido o            en forma contraria a la prevista o
+daño producido al Estado o a terceros y             autorizada en el contrato de concesión;
+la capacidad económica del infractor.           ch) La venta o cesión a cualquier título, de
+En ningún caso, la aplicación de                     todo o parte de las acciones o
+sanciones puede ser utilizada como un                intereses de la empresa concesionaria
+medio     indirecto     para   afectar     o         por el propietario que tenga el control
+restringir     la   libre    emisión     del         administrativo de la empresa sin
+pensamiento.                                         autorización previa de CONATEL o la
+Las multas impuestas pasarán a ser                   contravención      al     contrato    de
+parte de los ingresos corrientes del                 concesión o la delegación de los
+Estado.     La    certificación     de    la         derechos y obligaciones del mismo sin
+resolución que se emita tendrá fuerza                la previa autorización de CONATEL;
+ejecutiva.                                      d) La        quiebra       decretada      del
+El uso de las frecuencias del Espectro              concesionario;
+Radioeléctrico     sin    la  autorización      e) La manifiesta incapacidad técnica o
+correspondiente,       será   penado      de        financiera del concesionario que incida
+acuerdo a lo consignado en el Código                sustancialmente en el cumplimiento del
+Penal vigente, sin perjuicio de la multa            contrato de concesión;
+que le corresponde pagar de acuerdo a           f) La      interrupción,    en    un    grado
+lo establecido en el presente Artículo;             significativo y sin causa justificada, de
+el pago de valor de las tasas y el canon            los servicios cuya prestación se haya
+que hubiere tenido que pagar durante                otorgado al concesionario. Para estos
+el período que operó sin autorización y             efectos, el caso fortuito y la fuerza
+la clausura de la señal no autorizada.              mayor constituirán causas justificadas;
+El monto de la multa se ajustará                g) La participación del concesionario, del
+anualmente aplicando el ochenta y cinco              socio operador o de cualquiera de los
+por ciento (85%) de la tasa de inflación del        accionistas o socios del concesionario
+año anterior, de acuerdo a los datos                en el capital de sociedades o
+oficiales del Banco Central de Honduras.            consorcios a los que se les hubiese
+                                                    otorgado otras concesiones para los
+              CAPÍTULO II                           mismos             servicios           de
+  DE LA RESOLUCIÓN DE LAS CONCESIONES               telecomunicaciones, con excepción del
+                                                    Estado y accionistas o propietarios cuyo
+Artículo 44
+
+                                           11
+                                                   LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+   interés sea menor del diez por ciento           Forzosa, siendo entendido que la
+   (10%);                                          valoración  de    los  mencionados
+h) El incumplimiento de la ley en materia          activos será hecha por peritos
+   de telecomunicaciones;                          nombrados por el juez competente.
+i) El incumplimiento de las sanciones que
+   se le impongan al concesionario de                         TÍTULO FINAL
+   acuerdo con la presente Ley;                   DISPOSICIONES FINALES Y TRANSITORIAS
+j) Incurrir,   en   forma     reiterada  y                   CAPÍTULO ÚNICO
+   sustancial, en cualquier infracción muy        DISPOSICIONES FINALES Y TRANSITORIAS
+   grave o grave contenida en esta Ley,
+   previo apercibimiento de CONATEL, y;         Artículo 47
+k) Las demás que establezca la concesión.       Se prohíbe la práctica de llamadas
+                                                revertidas    que      involucren    servicios
+Artículo 45                                     telefónicos prestados dentro del territorio
+Contra el acto que decrete la resolución        nacional,    que     son    sistemáticamente
+administrativa del contrato de concesión        originados fuera del país como resultado
+cabrá el recurso de reposición con el cual      directo de llamadas internacionales no
+se agotará la vía administrativa, previa a      completadas,      originadas     dentro    del
+la    instancia   de    lo    Contencioso       territorio nacional, a menos que el
+Administrativo.                                 proveedor de dichos servicios tenga una
+                                                concesión debidamente otorgada por
+Articulo 46                                     CONATEL para la prestación de servicios
+En caso de que CONATEL revoque una              finales públicos.
+concesión    se   aplicarán    las    reglas
+siguientes:                                     Artículo 48
+a) El Estado, por medio de CONATEL,             Los operadores que estén prestando
+    tomará posesión y tendrá derecho de         servicios que requieran de concesiones,
+    usufructo sobre los bienes, redes y         permisos, registros y licencias cuyas
+    equipos      utilizados      por      el    autorizaciones fueron otorgadas al amparo
+    concesionario, con la finalidad de          de la legislación que estuvo vigente
+    garantizar la continuidad eficiente e       anteriormente, deberán adecuarse a lo
+    ininterrumpida del servicio público         dispuesto en la presente Ley dentro de los
+    correspondiente;                            doce (12) meses siguientes a la fecha de
+b) CONATEL deberá convocar a una                entrada en vigencia del reglamento de la
+    nueva licitación para la concesión          misma.    El   incumplimiento   de    esta
+    del servicio, la que se deberá              disposición, dará lugar a las respectivas
+    adjudicar en un término no mayor            revocatorias.
+    de ciento veinte (120) días y               Los operadores que estén prestando
+    conforme        al      procedimiento       servicios de telecomunicaciones con base
+    establecido en esta Ley;                    en licencias o permisos otorgados por
+c) El    nuevo    concesionario      deberá     HONDUTEL, continuarán en el disfrute de
+    adquirir del anterior, los bienes,          las mismas hasta su vencimiento, pero
+    redes    y    equipos     que     estén     dando cumplimiento a las regulaciones de
+    destinados a la concesión por el            la presente Ley.
+    valor que corresponda. De no                En el caso de los operadores de servicios
+    llegarse a un acuerdo, el Estado            de difusión de libre recepción, la
+    podrá expropiar dichos bienes, redes        adecuación a que se refiere el presente
+    y equipos siguiendo para ello lo            Artículo y lo que se determine en el
+    prescrito por la Ley de Expropiación        Reglamento de la Ley, se hará en forma
+
+                                           12
+                                                    LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+concertada tomando en consideración el           c), k) y l); 23, inciso d) y 58 de la Ley
+interés general, la vida útil del equipo y       Orgánica de la Empresa Hondureña de
+las autorizaciones concedidas.                   Telecomunicaciones, contenida en el
+                                                 Decreto-Ley Número 341 del 17 de mayo de
+Artículo 49                                      1976, que en lo sucesivo se leerán así:
+Por razones de interés público, al entrar              "Artículo 3 HONDUTEL, operará
+en vigencia la presente Ley, toda                      directamente o por medio de la
+concesión, licencia o permiso que no haya              empresa o empresas con las que se
+sido utilizada por los correspondientes                asocie o celebre contratos de
+beneficiarios en los plazos y condiciones              administración o convenga en el
+establecidos     en      las     respectivas           establecimiento de una o más
+autorizaciones, quedará revocada por el                subsidiarias para prestar los servicios
+solo efecto de esta disposición.                       de telecomunicaciones nacionales e
+                                                       internacionales que esté operando a
+Artículo 50                                            la fecha de entrada en vigencia de la
+El Presidente de la República nombrará los             Ley     Marco      del     Sector     de
+primeros miembros de la CONATEL dentro                 Telecomunicaciones.
+de los sesenta (60) días siguientes a la               La empresa o empresas a las que se
+fecha de entrada en vigencia de la                     refiere el párrafo anterior deberán
+presente Ley.                                          ser     de     reconocido      prestigio
+Integrada CONATEL, la Empresa Hondureña                internacional      en    materia      de
+de Telecomunicaciones, HONDUTEL, le                    telecomunicaciones y deberán hacer
+traspasará       sin      tardanza       e             inversiones de capital a fin de
+incondicionalmente todos los bienes y                  modernizar y ampliar los servicios de
+equipos que en dicha fecha formen parte                telecomunicaciones;             además,
+de la Dirección de Radiocomunicaciones,                tendrán el control administrativo y
+previo inventario.                                     operativo de la entidad o entidades
+A partir de tal momento, asimismo, las                 que se formen. Estas empresas
+funciones atribuidas a CONATEL, por                    quedarán sujetas al pago de todos los
+medio de esta Ley dejarán de ser                       impuestos o tributos que le sean
+cumplidas por HONDUTEL.                                aplicables.
+                                                       Para     los     efectos     anteriores,
+Artículo 51                                            HONDUTEL             seguirá         los
+Los funcionarios o empleados que formen                procedimientos de licitación pública
+parte de CONATEL, estarán sujetos a lo                 de    acuerdo     con    la    Ley    de
+establecido en el Código del Trabajo;                  Contratación del Estado.”
+mientras se emita la Ley de la Carrera                 "Artículo 4 Son atribuciones de la
+Administrativa.                                        empresa:
+                                                           a) Operar, mantener, ampliar
+Artículo 52                                                    y modernizar los servicios
+La función de fiscalización y vigilancia de                    de telecomunicaciones;
+las operaciones presupuestarias propias de                 b) Realizar las acciones a que
+CONATEL, estarán a cargo de un Auditor                         se    refiere     el    Artículo
+Interno que será nombrado por la                               anterior para el logro de la
+Contraloría General de la República.                           finalidad prevista en el
+                                                               mismo".
+Artículo 53                                            "Artículo     5.      Constituyen     el
+Reformar los Artículos 3, 4, incisos a) y b);          patrimonio y recurso de HONDUTEL:
+5, inciso b); 8, 10, 14, 15, 20, incisos b),
+
+                                            13
+                                           LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+b)Las tarifas y recargos que cobre               trativos. Lo dispuesto en los
+por los servicios o facilidades que              Artículos 17 y 24 de la Ley
+preste; …”                                       Marco del Sector de Telecomu-
+"Artículo 8 Los contratos de obras               nicaciones será aplicable a los
+públicas,        compra-venta         o          directores a que se refiere este
+arrendamiento de bienes y servicios,             inciso. Estos directores se
+de administración y de gestión se                dedicarán a esta labor a tiempo
+celebrarán de conformidad con lo                 completo".
+establecido      en     la   Ley     de      "Artículo 15. La Junta Directiva será
+Contratación del Estado y dentro de          presidida por el Secretario de Estado
+los    límites   previstos   por    las       en el Despacho Finanzas. En caso de
+Disposiciones       Generales       del      ausencia o impedimento temporal de
+Presupuesto General de Ingresos y            éste, será presidida por el Secretario
+Egresos de la República".                    de Estado que corresponda según el
+"Artículo 10 HONDUTEL coordinará             orden establecido en el Artículo 14,
+sus estudios y proyectos con los             precedente.
+planes y programas nacionales de             Actuará como Secretario de la Junta
+desarrollo económico y social.               Directiva el Gerente General de la
+Sus     presupuestos     de   inversión      Empresa, quien participará en sus
+deberán      guardar     la  necesaria       sesiones con voz pero sin voto".
+armonía con los del Gobierno Central         "Artículo 20 Son atribuciones de la
+y los de las otras instituciones del         Junta Directiva:
+Estado y se formularán de acuerdo            b) Formular las políticas de la
+con     la   Ley    General     de   la           empresa;
+Administración Pública".                     c)Cumplir las decisiones emanadas
+"Artículo 14 La Junta Directiva es el           del Poder Ejecutivo a través de
+órgano de dirección superior de                 la Secretaría de Estado en los
+HONDUTEL y estará integrado en la               Despachos      de    Hacienda     y
+forma siguiente:                                Crédito Público en relación al
+a) El Secretario de Estado en el                gasto, la inversión pública y la
+    Despacho de Finanzas, o en su               política de endeudamiento;
+    defecto el Subsecretario que             k) Designar al Gerente General y
+    este designe;                               Sub-Gerente General;
+b) El Secretario de Estado en los            l) Autorizar la participación o
+    Despachos        de     Industria,          asociación de HONDUTEL, con
+    Comercio y Turismo;                         las sociedades a que se refiere
+c) El Secretario de Estado en los               el artículo 3, reformado, de la
+    Despachos de Gobernación y                  presente Ley".
+    Justicia o en su defecto el              "Artículo 23. Son facultades y
+    Subsecretario;                           deberes del Gerente General:
+d) Dos directores designados por             d)Nombrar, contratar, promover,
+    el Presidente de la República,              trasladar, remover, permutar y
+    por un período de cuatro (4)                destinar el personal de la
+    años, quienes podrán desempe-               empresa, de conformidad con la
+    ñarse por períodos adicionales              ley".
+    y deberán ser personas de                "Artículo 58 Durante los diez (10)
+    reconocida honorabilidad, pro-           años siguientes a la fecha de entrada
+    bidad, competencia y expe-               en vigencia de Ley Marco del Sector
+    riencia en asuntos adminis-              de Telecomunicaciones, HONDUTEL
+
+                                      14
+                                                      LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+      prestará en forma exclusiva los              correspondían, durante los años 1995 y
+      servicios de telefonía nacional e            1996 lo harán en base a lo dispuesto en el
+      internacional y continuará prestando         Decreto No. 101-90 del 31 de Agosto de
+      los servicios de telegrafía en               1990,    aplicando     la    interpretación
+      aquellos lugares donde no haya otro          contenida en el Decreto No. 162-93 del 20
+      medio de comunicación con el resto           de Septiembre de 1993, incrementadas en
+      del país. Esta exclusividad le               un treinta por ciento (30%).
+      corresponderá a la empresa o                 Esta disposición también será aplicable a
+      empresas que HONDUTEL establezca             los operadores de estos servicios que con
+      de conformidad con lo dispuesto en           anterioridad a la vigencia del presente
+      el Artículo 3, reformado.        Las         Decreto, hubieren cancelado las tarifas y
+      condiciones en que se prestarán los          derechos que les fueron cobrados, por lo
+      servicios       señalados      serán         que CONATEL deberá otorgar los créditos
+      establecidos   por    CONATEL,    de         correspondientes para ser aplicados a
+      conformidad con la mencionada Ley.           pagos subsiguientes.
+        El plazo anterior se entenderá que
+      forma parte de una concesión de              Artículo 56
+      veinticinco (25) años, otorgada por          La presente Ley entrará en vigencia veinte
+      CONATEL a favor de HONDUTEL, o de            días después de su publicación en el Diario
+      la empresa o empresas antes                  Oficial La Gaceta.
+      mencionadas".
+
+Artículo 54
+El Reglamento de la presente Ley será              DECRETO No. 185-95
+elaborado por CONATEL y aprobado por el            Dado en la ciudad de Tegucigalpa, Municipio del
+Poder Ejecutivo a través de la Secretaría          Distrito Central, en el Salón de Sesiones del
+de    Estado   en    los   Despachos  de           Congreso Nacional, a los treinta y un días del
+Gobernación y Justicia dentro de los seis          mes de octubre de mil novecientos noventa y
+meses siguientes a su vigencia.                    cinco.
+
+Articulo 55                                            CARLOS ROBERTO FLORES FACUSSE
+Derogar los Artículos 4, incisos c), ch), i),                   PRESIDENTE
+j), k) y l); 13; 20, inciso ll); 23, incisos e)
+y h); 26, 27, 29, 30, 31, 32, 33, 34, 35, 36,      ROBERTO      MICHELETTI     BAIN    SALOMON
+37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47,        SORTO                                 DELCID
+48, 49, 50, 51, 52, 53, 54, 55, 56 y 57 de                              SECRETARIO
+la Ley Orgánica de la Empresa Hondureña
+de     Telecomunicaciones        (HONDUTEL),       Al Poder Ejecutivo.
+contenida en el Decreto-Ley número 341             Por tanto: Ejecútese.
+del 17 de mayo de 1976 y demás                     Tegucigalpa, M.D.C. 28 de noviembre de 1995.
+disposiciones legales que se le opongan.
+                                                        CARLOS ROBERTO REINA IDIAQUEZ
+TRANSITORIO. Las estaciones transmisoras               PRESIDENTE CONSTITUCIONAL DE LA
+de libre recepción de radiodifusión                               REPÚBLICA
+sonora,   televisión  y   estaciones  de
+televisión por suscripción por cable y                         HERMAN APARICIO
+servicios de radiocomunicaciones móviles                EL SECRETARIO DE ESTADO EN LOS
+de carácter privado que no hubieren                               DESPACHOS
+cancelado las tarifas o derechos que les
+
+                                              15
+                                          LEY MARCO DEL SECTOR DE TELECOMUNICACIONES
+
+
+DE COMUNICACIONES OBRAS PUBLICAS Y
+           TRANSPORTE
+
+
+                                     16

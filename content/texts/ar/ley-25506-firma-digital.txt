@@ -1,0 +1,583 @@
+FIRMA DIGITAL
+Ir a texto actualizado y otros datos
+FIRMA DIGITAL
+Ley 25.506
+Consideraciones generales. Certificados digitales.
+Certificador licenciado. Titular de un certificado digital.
+Organizaci�n institucional. Autoridad de aplicaci�n. Sistema de
+auditor�a. Comisi�n Asesora para la Infraestructura de Firma Digital.
+Responsabilidad. Sanciones. Disposiciones Complementarias.
+Sancionada: Noviembre 14 de 2001.
+Promulgada de Hecho: Diciembre 11 de 2001.
+El Senado y C�mara de Diputados de la Naci�n Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+LEY DE FIRMA DIGITAL
+CAPITULO I
+Consideraciones generales
+ARTICULO 1� � Objeto. Se reconoce el
+empleo de la firma electr�nica y de la firma digital y su eficacia
+jur�dica en las condiciones que establece la presente ley.
+ARTICULO 2� � Firma Digital. Se
+entiende por firma digital al resultado de aplicar a un documento
+digital un procedimiento matem�tico que requiere informaci�n de
+exclusivo conocimiento del firmante, encontr�ndose �sta bajo su
+absoluto control. La firma digital debe ser susceptible de verificaci�n
+por terceras partes, tal que dicha verificaci�n simult�neamente permita
+identificar al firmante y detectar cualquier alteraci�n del documento
+digital posterior a su firma.
+Los procedimientos de firma y verificaci�n a ser
+utilizados para tales fines ser�n los determinados por la Autoridad de
+Aplicaci�n en consonancia con est�ndares tecnol�gicos internacionales
+vigentes.
+ARTICULO 3� � Del requerimiento de
+firma. Cuando la ley requiera una firma manuscrita, esa exigencia
+tambi�n queda satisfecha por una firma digital. Este principio es
+aplicable a los casos en que la ley establece la obligaci�n de firmar o
+prescribe consecuencias para su ausencia.
+ARTICULO 4� � Exclusiones. Las disposiciones de esta ley no son aplicables:
+a) A las disposiciones por causa de muerte;
+b) A los actos jur�dicos del derecho de familia;
+c) A los actos personal�simos en general;
+d) A los actos que deban ser instrumentados bajo
+exigencias o formalidades incompatibles con la utilizaci�n de la firma
+digital, ya sea como consecuencia de disposiciones legales o acuerdo de
+partes.
+ARTICULO 5� � Firma electr�nica. Se
+entiende por firma electr�nica al conjunto de datos electr�nicos
+integrados, ligados o asociados de manera l�gica a otros datos
+electr�nicos, utilizado por el signatario como su medio de
+identificaci�n, que carezca de alguno de los requisitos legales para
+ser considerada firma digital. En caso de ser desconocida la firma
+electr�nica corresponde a quien la invoca acreditar su validez.
+ARTICULO 6� � Documento digital. Se
+entiende por documento digital a la representaci�n digital de actos o
+hechos, con independencia del soporte utilizado para su fijaci�n,
+almacenamiento o archivo. Un documento digital tambi�n satisface el
+requerimiento de escritura.
+ARTICULO 7� � Presunci�n de autor�a.
+Se presume, salvo prueba en contrario, que toda firma digital pertenece
+al titular del certificado digital que permite la verificaci�n de dicha
+firma.
+ARTICULO 8� � Presunci�n de
+integridad. Si el resultado de un procedimiento de verificaci�n de una
+firma digital aplicado a un documento digital es verdadero, se presume,
+salvo prueba en contrario, que este documento digital no ha sido
+modificado desde el momento de su firma.
+ARTICULO 9� � Validez. Una firma digital es v�lida si cumple con los siguientes requisitos:
+a) Haber sido creada durante el per�odo de vigencia del certificado digital v�lido del firmante;
+b) Ser debidamente verificada por la referencia a
+los datos de verificaci�n de firma digital indicados en dicho
+certificado seg�n el procedimiento de verificaci�n correspondiente;
+c) Que dicho certificado haya sido emitido o reconocido, seg�n el art�culo 16 de la presente, por un certificador licenciado.
+ARTICULO 10. � Remitente. Presunci�n.
+Cuando un documento digital sea enviado en forma autom�tica por un
+dispositivo programado y lleve la firma digital del remitente se
+presumir�, salvo prueba en contrario, que el documento firmado proviene
+del remitente.
+ARTICULO 11. � Original. Los
+documentos electr�nicos firmados digitalmente y los reproducidos en
+formato digital firmados digitalmente a partir de originales de primera
+generaci�n en cualquier otro soporte, tambi�n ser�n considerados
+originales y poseen, como consecuencia de ello, valor probatorio como
+tales, seg�n los procedimientos que determine la reglamentaci�n.
+ARTICULO 12. � Conservaci�n. La
+exigencia legal de conservar documentos, registros o datos, tambi�n
+queda satisfecha con la conservaci�n de los correspondientes documentos
+digitales firmados digitalmente, seg�n los procedimientos que determine
+la reglamentaci�n, siempre que sean accesibles para su posterior
+consulta y permitan determinar fehacientemente el origen, destino,
+fecha y hora de su generaci�n, env�o y/o recepci�n.
+CAPITULO II
+De los certificados digitales
+ARTICULO 13. � Certificado digital. Se
+entiende por certificado digital al documento digital firmado
+digitalmente por un certificador, que vincula los datos de verificaci�n
+de firma a su titular.
+ARTICULO 14. � Requisitos de validez de los certificados digitales. Los certificados digitales para ser v�lidos deben:
+a) Ser emitidos por un certificador licenciado por el ente licenciante;
+b) Responder a formatos est�ndares reconocidos
+internacionalmente, fijados por la autoridad de aplicaci�n, y contener,
+como m�nimo, los datos que permitan:
+1. Identificar indubitablemente a su titular y al
+certificador licenciado que lo emiti�, indicando su per�odo de vigencia
+y los datos que permitan su identificaci�n �nica;
+2. Ser susceptible de verificaci�n respecto de su estado de revocaci�n;
+3. Diferenciar claramente la informaci�n verificada de la no verificada incluidas en el certificado;
+4. Contemplar la informaci�n necesaria para la verificaci�n de la firma;
+5. Identificar la pol�tica de certificaci�n bajo la cual fue emitido.
+ARTICULO 15. � Per�odo de vigencia del
+certificado digital. A los efectos de esta ley, el certificado digital
+es v�lido �nicamente dentro del per�odo de vigencia, que comienza en la
+fecha de inicio y finaliza en su fecha de vencimiento, debiendo ambas
+ser indicadas en el certificado digital, o su revocaci�n si fuere
+revocado.
+La fecha de vencimiento del certificado digital
+referido en el p�rrafo anterior en ning�n caso puede ser posterior a la
+del vencimiento del certificado digital del certificador licenciado que
+lo emiti�.
+La Autoridad de Aplicaci�n podr� establecer mayores
+exigencias respecto de la determinaci�n exacta del momento de emisi�n,
+revocaci�n y vencimiento de los certificados digitales.
+ARTICULO 16. � Reconocimiento de
+certificados extranjeros. Los certificados digitales emitidos por
+certificadores extranjeros podr�n ser reconocidos en los mismos
+t�rminos y condiciones exigidos en la ley y sus normas reglamentarias
+cuando:
+a) Re�nan las condiciones que establece la presente
+ley y la reglamentaci�n correspondiente para los certificados emitidos
+por certificadores nacionales y se encuentre vigente un acuerdo de
+reciprocidad firmado por la Rep�blica Argentina y el pa�s de origen del
+certificador extranjero, o
+b) Tales certificados sean reconocidos por un
+certificador licenciado en el pa�s, que garantice su validez y vigencia
+conforme a la presente ley. A fin de tener efectos, este reconocimiento
+deber� ser validado por la autoridad de aplicaci�n.
+CAPITULO III
+Del certificador licenciado
+ARTICULO 17. � Del certificador
+licenciado. Se entiende por certificador licenciado a toda persona de
+existencia ideal, registro p�blico de contratos u organismo p�blico que
+expide certificados, presta otros servicios en relaci�n con la firma
+digital y cuenta con una licencia para ello, otorgada por el ente
+licenciante.
+La actividad de los certificadores licenciados no
+pertenecientes al sector p�blico se prestar� en r�gimen de competencia.
+El arancel de los servicios prestados por los certificadores
+licenciados ser� establecido libremente por �stos.
+ARTICULO 18. � Certificados por
+profesi�n. Las entidades que controlan la matr�cula, en relaci�n a la
+prestaci�n de servicios profesionales, podr�n emitir certificados
+digitales en lo referido a esta funci�n, con igual validez y alcance
+jur�dico que las firmas efectuadas en forma manuscrita. A ese efecto
+deber�n cumplir los requisitos para ser certificador licenciado.
+ARTICULO 19. � Funciones. El certificador licenciado tiene las siguientes funciones:
+a) Recibir una solicitud de emisi�n de certificado
+digital, firmada digitalmente con los correspondientes datos de
+verificaci�n de firma digital del solicitante;
+b) Emitir certificados digitales de acuerdo a lo
+establecido en sus pol�ticas de certificaci�n, y a las condiciones que
+la autoridad de aplicaci�n indique en la reglamentaci�n de la presente
+ley;
+c) Identificar inequ�vocamente los certificados digitales emitidos;
+d) Mantener copia de todos los certificados
+digitales emitidos, consignando su fecha de emisi�n y de vencimiento si
+correspondiere, y de sus correspondientes solicitudes de emisi�n;
+e) Revocar los certificados digitales por �l
+emitidos en los siguientes casos, entre otros que ser�n determinados
+por la reglamentaci�n:
+1) A solicitud del titular del certificado digital.
+2) Si determinara que un certificado digital fue
+emitido en base a una informaci�n falsa, que en el momento de la
+emisi�n hubiera sido objeto de verificaci�n.
+3) Si determinara que los procedimientos de emisi�n y/o verificaci�n han dejado de ser seguros.
+4) Por condiciones especiales definidas en su pol�tica de certificaci�n.
+5) Por resoluci�n judicial o de la autoridad de aplicaci�n.
+f) Informar p�blicamente el estado de los
+certificados digitales por �l emitidos. Los certificados digitales
+revocados deben ser incluidos en una lista de certificados revocados
+indicando fecha y hora de la revocaci�n. La validez y autor�a de dicha
+lista de certificados revocados deben ser garantizadas.
+ARTICULO 20. � Licencia. Para obtener
+una licencia el certificador debe cumplir con los requisitos
+establecidos por la ley y tramitar la solicitud respectiva ante el ente
+licenciante, el que otorgar� la licencia previo dictamen legal y
+t�cnico que acredite la aptitud para cumplir con sus funciones y
+obligaciones. Estas licencias son intransferibles.
+ARTICULO 21. � Obligaciones. Son obligaciones del certificador licenciado:
+a) Informar a quien solicita un certificado con
+car�cter previo a su emisi�n y utilizando un medio de comunicaci�n las
+condiciones precisas de utilizaci�n del certificado digital, sus
+caracter�sticas y efectos, la existencia de un sistema de
+licenciamiento y los procedimientos, forma que garantiza su posible
+responsabilidad patrimonial y los efectos de la revocaci�n de su propio
+certificado digital y de la licencia que le otorga el ente licenciante.
+Esa informaci�n deber� estar libremente accesible en lenguaje
+f�cilmente comprensible. La parte pertinente de dicha informaci�n
+estar� tambi�n disponible para terceros;
+b) Abstenerse de generar, exigir, o por cualquier
+otro medio tomar conocimiento o acceder bajo ninguna circunstancia, a
+los datos de creaci�n de firma digital de los titulares de certificados
+digitales por �l emitidos;
+c) Mantener el control exclusivo de sus propios datos de creaci�n de firma digital e impedir su divulgaci�n;
+d) Operar utilizando un sistema t�cnicamente confiable de acuerdo con lo que determine la autoridad de aplicaci�n;
+e) Notificar al solicitante las medidas que est�
+obligado a adoptar para crear firmas digitales seguras y para su
+verificaci�n confiable, y las obligaciones que asume por el solo hecho
+de ser titular de un certificado digital;
+f) Recabar �nicamente aquellos datos personales del
+titular del certificado digital que sean necesarios para su emisi�n,
+quedando el solicitante en libertad de proveer informaci�n adicional;
+g) Mantener la confidencialidad de toda informaci�n que no figure en el certificado digital;
+h) Poner a disposici�n del solicitante de un certificado digital toda la informaci�n relativa a su tramitaci�n;
+i) Mantener la documentaci�n respaldatoria de los
+certificados digitales emitidos, por diez (10) a�os a partir de su
+fecha de vencimiento o revocaci�n;
+j) Incorporar en su pol�tica de certificaci�n los
+efectos de la revocaci�n de su propio certificado digital y/o de la
+licencia que le otorgara la autoridad de aplicaci�n;
+k) Publicar en Internet o en la red de acceso
+p�blico de transmisi�n o difusi�n de datos que la sustituya en el
+futuro, en forma permanente e ininterrumpida, la lista de certificados
+digitales revocados, las pol�ticas de certificaci�n, la informaci�n
+relevante de los informes de la �ltima auditor�a de que hubiera sido
+objeto, su manual de procedimientos y toda informaci�n que determine la
+autoridad de aplicaci�n;
+l) Publicar en el Bolet�n Oficial aquellos datos que la autoridad de aplicaci�n determine;
+m) Registrar las presentaciones que le sean formuladas, as� como el tr�mite conferido a cada una de ellas;
+n) Informar en las pol�ticas de certificaci�n si los
+certificados digitales por �l emitidos requieren la verificaci�n de la
+identidad del titular;
+o) Verificar, de acuerdo con lo dispuesto en su
+manual de procedimientos, toda otra informaci�n que deba ser objeto de
+verificaci�n, la que debe figurar en las pol�ticas de certificaci�n y
+en los certificados digitales;
+p) Solicitar inmediatamente al ente licenciante la
+revocaci�n de su certificado, o informarle la revocaci�n del mismo,
+cuando existieren indicios de que los datos de creaci�n de firma
+digital que utiliza hubiesen sido comprometidos o cuando el uso de los
+procedimientos de aplicaci�n de los datos de verificaci�n de firma
+digital en �l contenidos hayan dejado de ser seguros;
+q) Informar inmediatamente al ente licenciante sobre cualquier cambio en los datos relativos a su licencia;
+r) Permitir el ingreso de los funcionarios
+autorizados de la autoridad de aplicaci�n, del ente licenciante o de
+los auditores a su local operativo, poner a su disposici�n toda la
+informaci�n necesaria y proveer la asistencia del caso;
+s) Emplear personal id�neo que tenga los
+conocimientos espec�ficos, la experiencia necesaria para proveer los
+servicios ofrecidos y en particular, competencia en materia de gesti�n,
+conocimientos t�cnicos en el �mbito de la firma digital y experiencia
+adecuada en los procedimientos de seguridad pertinentes;
+t) Someter a aprobaci�n del ente licenciante el
+manual de procedimientos, el plan de seguridad y el de cese de
+actividades, as� como el detalle de los componentes t�cnicos a
+utilizar;
+u) Constituir domicilio legal en la Rep�blica Argentina;
+v) Disponer de recursos humanos y tecnol�gicos
+suficientes para operar de acuerdo a las exigencias establecidas en la
+presente ley y su reglamentaci�n;
+w) Cumplir con toda otra obligaci�n emergente de su calidad de titular de la licencia adjudicada por el ente licenciante.
+ARTICULO 22. � Cese del certificador. El certificador licenciado cesa en tal calidad:
+a) Por decisi�n unilateral comunicada al ente licenciante;
+b) Por cancelaci�n de su personer�a jur�dica;
+c) Por cancelaci�n de su licencia dispuesta por el ente licenciante.
+La autoridad de aplicaci�n determinar� los procedimientos de revocaci�n aplicables en estos casos.
+ARTICULO 23. � Desconocimiento de la validez de un certificado digital. Un certificado digital no es v�lido si es utilizado:
+a) Para alguna finalidad diferente a los fines para los cuales fue extendido;
+b) Para operaciones que superen el valor m�ximo autorizado cuando corresponda;
+c) Una vez revocado.
+CAPITULO IV
+Del titular de un certificado digital
+ARTICULO 24. � Derechos del titular de un certificado digital. El titular de un certificado digital tiene los siguientes derechos:
+a) A ser informado por el certificador licenciado,
+con car�cter previo a la emisi�n del certificado digital, y utilizando
+un medio de comunicaci�n sobre las condiciones precisas de utilizaci�n
+del certificado digital, sus caracter�sticas y efectos, la existencia
+de este sistema de licenciamiento y los procedimientos asociados. Esa
+informaci�n deber� darse por escrito en un lenguaje f�cilmente
+comprensible. La parte pertinente de dicha informaci�n estar� tambi�n
+disponible para terceros;
+b) A que el certificador licenciado emplee los
+elementos t�cnicos disponibles para brindar seguridad y
+confidencialidad a la informaci�n proporcionada por �l, y a ser
+informado sobre ello;
+c) A ser informado, previamente a la emisi�n del
+certificado, del precio de los servicios de certificaci�n, incluyendo
+cargos adicionales y formas de pago;
+d) A que el certificador licenciado le informe sobre
+su domicilio en la Rep�blica Argentina, y sobre los medios a los que
+puede acudir para solicitar aclaraciones, dar cuenta del mal
+funcionamiento del sistema, o presentar sus reclamos;
+e) A que el certificador licenciado proporcione los
+servicios pactados, y a no recibir publicidad comercial de ning�n tipo
+por intermedio del certificador licenciado.
+ARTICULO 25. � Obligaciones del titular del certificado digital. Son obligaciones del titular de un certificado digital:
+a) Mantener el control exclusivo de sus datos de creaci�n de firma digital, no compartirlos, e impedir su divulgaci�n;
+b) Utilizar un dispositivo de creaci�n de firma digital t�cnicamente confiable;
+c) Solicitar la revocaci�n de su certificado al
+certificador licenciado ante cualquier circunstancia que pueda haber
+comprometido la privacidad de sus datos de creaci�n de firma;
+d) Informar sin demora al certificador licenciado el
+cambio de alguno de los datos contenidos en el certificado digital que
+hubiera sido objeto de verificaci�n.
+CAPITULO V
+De la organizaci�n institucional
+ARTICULO 26. � Infraestructura de
+Firma Digital. Los certificados digitales regulados por esta ley deben
+ser emitidos o reconocidos, seg�n lo establecido por el art�culo 16,
+por un certificador licenciado.
+ARTICULO 27. � Sistema de Auditor�a.
+La autoridad de aplicaci�n, con el concurso de la Comisi�n Asesora para
+la Infraestructura de Firma Digital, dise�ar� un sistema de auditor�a
+para evaluar la confiabilidad y calidad de los sistemas utilizados, la
+integridad, confidencialidad y disponibilidad de los datos, as� como
+tambi�n el cumplimiento de las especificaciones del manual de
+procedimientos y los planes de seguridad y de contingencia aprobados
+por el ente licenciante.
+ARTICULO 28. � Comisi�n Asesora para
+la Infraestructura de Firma Digital. Cr�ase en el �mbito jurisdiccional
+de la Autoridad de Aplicaci�n, la Comisi�n Asesora para la
+Infraestructura de Firma Digital.
+CAPITULO VI
+De la autoridad de aplicaci�n
+ARTICULO 29. � Autoridad de Aplicaci�n. La autoridad de aplicaci�n de la presente ley ser� la Jefatura de Gabinete de Ministros.
+ARTICULO 30. � Funciones. La autoridad de aplicaci�n tiene las siguientes funciones:
+a) Dictar las normas reglamentarias y de aplicaci�n de la presente;
+b) Establecer, previa recomendaci�n de la Comisi�n
+Asesora para la Infraestructura de la Firma Digital, los est�ndares
+tecnol�gicos y operativos de la Infraestructura de Firma Digital;
+c) Determinar los efectos de la revocaci�n de los certificados de los certificadores licenciados o del ente licenciante;
+d) Instrumentar acuerdos nacionales e
+internacionales a fin de otorgar validez jur�dica a las firmas
+digitales creadas sobre la base de certificados emitidos por
+certificadores de otros pa�ses;
+e) Determinar las pautas de auditor�a, incluyendo los dict�menes tipo que deban emitirse como conclusi�n de las revisiones;
+f) Actualizar los valores monetarios previstos en el r�gimen de sanciones de la presente ley;
+g) Determinar los niveles de licenciamiento;
+h) Otorgar o revocar las licencias a los
+certificadores licenciados y supervisar su actividad, seg�n las
+exigencias instituidas por la reglamentaci�n;
+i) Fiscalizar el cumplimiento de las normas legales
+y reglamentarias en lo referente a la actividad de los certificadores
+licenciados;
+j) Homologar los dispositivos de creaci�n y
+verificaci�n de firmas digitales, con ajuste a las normas y
+procedimientos establecidos por la reglamentaci�n;
+k) Aplicar las sanciones previstas en la presente ley.
+ARTICULO 31. � Obligaciones. En su
+calidad de titular de certificado digital, la autoridad de aplicaci�n
+tiene las mismas obligaciones que los titulares de certificados y que
+los certificadores licenciados. En especial y en particular debe:
+a) Abstenerse de generar, exigir, o por cualquier
+otro medio tomar conocimiento o acceder, bajo ninguna circunstancia, a
+los datos utilizados para generar la firma digital de los
+certificadores licenciados;
+b) Mantener el control exclusivo de los datos utilizados para generar su propia firma digital e impedir su divulgaci�n;
+c) Revocar su propio certificado frente al compromiso de la privacidad de los datos de creaci�n de firma digital;
+d) Publicar en Internet o en la red de acceso
+p�blico de transmisi�n o difusi�n de datos que la sustituya en el
+futuro, en forma permanente e ininterrumpida, los domicilios, n�meros
+telef�nicos y direcciones de Internet tanto de los certificadores
+licenciados como los propios y su certificado digital;
+e) Supervisar la ejecuci�n del plan de cese de actividades de los certificadores licenciados que discontin�an sus funciones.
+ARTICULO 32. � Arancelamiento. La
+autoridad de aplicaci�n podr� cobrar un arancel de licenciamiento para
+cubrir su costo operativo y el de las auditor�as realizadas por s� o
+por terceros contratados a tal efecto.
+CAPITULO VII
+Del sistema de auditor�a
+ARTICULO 33. � Sujetos a auditar. El
+ente licenciante y los certificadores licenciados, deben ser auditados
+peri�dicamente, de acuerdo al sistema de auditor�a que dise�e y apruebe
+la autoridad de aplicaci�n.
+La autoridad de aplicaci�n podr� implementar el
+sistema de auditor�a por s� o por terceros habilitados a tal efecto.
+Las auditor�as deben como m�nimo evaluar la confiabilidad y calidad de
+los sistemas utilizados, la integridad, confidencialidad y,
+disponibilidad de los datos, as� como tambi�n el cumplimiento de las
+especificaciones del manual de procedimientos y los planes de seguridad
+y, de contingencia aprobados por el ente licenciante.
+ARTICULO 34. � Requisitos de
+habilitaci�n. Podr�n ser terceros habilitados para efectuar las
+auditor�as las Universidades y organismos cient�ficos y/o tecnol�gicos
+nacionales o provinciales, los Colegios y Consejos profesionales que
+acrediten experiencia profesional acorde en la materia.
+CAPITULO VIII
+De la Comisi�n Asesora para la Infraestructura de Firma Digital
+ARTICULO 35. � Integraci�n y
+funcionamiento. La Comisi�n Asesora para la Infraestructura de Firma
+Digital estar� integrada multidisciplinariamente por un m�ximo de 7
+(siete) profesionales de carreras afines a la actividad de reconocida
+trayectoria y experiencia, provenientes de Organismos del Estado
+nacional, Universidades Nacionales y Provinciales, C�maras, Colegios u
+otros entes representativos de profesionales.
+Los integrantes ser�n designados por el Poder Ejecutivo por un per�odo de cinco (5) a�os renovables por �nica vez.
+Se reunir� como m�nimo trimestralmente. Deber�
+expedirse prontamente a solicitud de la autoridad de aplicaci�n y sus
+recomendaciones y disidencias se incluir�n en las actas de la Comisi�n.
+Consultar� peri�dicamente mediante audiencias
+p�blicas con las c�maras empresarias, los usuarios y las asociaciones
+de consumidores y mantendr� a la autoridad de aplicaci�n regularmente
+informada de los resultados de dichas consultas.
+ARTICULO 36. � Funciones. La Comisi�n
+debe emitir recomendaciones por iniciativa propia o a solicitud de la
+autoridad de aplicaci�n, sobre los siguientes aspectos:
+a) Est�ndares tecnol�gicos;
+b) Sistema de registro de toda la informaci�n relativa a la emisi�n de certificados digitales;
+c) Requisitos m�nimos de informaci�n que se debe
+suministrar a los potenciales titulares de certificados digitales de
+los t�rminos de las pol�ticas de certificaci�n;
+d) Metodolog�a y requerimiento del resguardo f�sico de la informaci�n;
+e) Otros que le sean requeridos por la autoridad de aplicaci�n.
+CAPITULO IX
+Responsabilidad
+ARTICULO 37. � Convenio de partes. La
+relaci�n entre el certificador licenciado que emita un certificado
+digital y el titular de ese certificado se rige por el contrato que
+celebren entre ellos, sin perjuicio de las previsiones de la presente
+ley, y dem�s legislaci�n vigente.
+ARTICULO 38. � Responsabilidad de los certificadores licenciados ante terceros.
+El certificador que emita un certificado digital o
+lo reconozca en los t�rminos del art�culo 16 de la presente ley, es
+responsable por los da�os y perjuicios que provoque, por los
+incumplimientos a las previsiones de �sta, por los errores u omisiones
+que presenten los certificados digitales que expida, por no revocarlos,
+en legal tiempo y forma cuando as� correspondiere y por las
+consecuencias imputables a la inobservancia de procedimientos de
+certificaci�n exigibles. Corresponder� al prestador del servicio
+demostrar que actu� con la debida diligencia.
+ARTICULO 39. � Limitaciones de responsabilidad. Los certificadores licenciados no son responsables en los siguientes casos:
+a) Por los casos que se excluyan taxativamente en
+las condiciones de emisi�n y utilizaci�n de sus certificados y que no
+est�n expresamente previstos en la ley;
+b) Por los da�os y perjuicios que resulten del uso
+no autorizado de un certificado digital, si en las correspondientes
+condiciones de emisi�n y utilizaci�n de sus certificados constan las
+restricciones de su utilizaci�n;
+c) Por eventuales inexactitudes en el certificado
+que resulten de la informaci�n facilitada por el titular que, seg�n lo
+dispuesto en las normas y en los manuales de procedimientos
+respectivos, deba ser objeto de verificaci�n, siempre que el
+certificador pueda demostrar que ha tomado todas las medidas razonables.
+CAPITULO X
+Sanciones
+ARTICULO 40. � Procedimiento. La
+instrucci�n sumarial y la aplicaci�n de sanciones por violaci�n a
+disposiciones de la presente ley ser�n realizadas por el ente
+licenciante. Es aplicable la Ley de Procedimientos Administrativos
+19.549 y sus normas reglamentarias.
+ARTICULO 41. � Sanciones. El
+incumplimiento de las obligaciones establecidas en la presente ley para
+los certificadores licenciados dar� lugar a la aplicaci�n de las
+siguientes sanciones:
+a) Apercibimiento;
+b) Multa de pesos diez mil ($ 10.000) a pesos quinientos mil ($ 500.000);
+c) Caducidad de la licencia.
+Su gradaci�n seg�n reincidencia y/u oportunidad ser�n establecidas por la reglamentaci�n.
+El pago de la sanci�n que aplique el ente
+licenciante no relevar� al certificador licenciado de eventuales
+reclamos por da�os y perjuicios causados a terceros y/o bienes de
+propiedad de �stos, como consecuencia de la ejecuci�n del contrato que
+celebren y/o por el incumplimiento de las obligaciones asumidas
+conforme al mismo y/o la prestaci�n del servicio.
+ARTICULO 42. � Apercibimiento. Podr� aplicarse sanci�n de apercibimiento en los siguientes casos:
+a) Emisi�n de certificados sin contar con la totalidad de los datos requeridos, cuando su omisi�n no invalidare el certificado;
+b) No facilitar los datos requeridos por el ente licenciante en ejercicio de sus funciones;
+c) Cualquier otra infracci�n a la presente ley que no tenga una sanci�n mayor.
+ARTICULO 43. � Multa. Podr� aplicarse sanci�n de multa en los siguientes casos:
+a) Incumplimiento de las obligaciones previstas en el art�culo 21;
+b) Si la emisi�n de certificados se realizare sin
+cumplimentar las pol�ticas de certificaci�n comprometida y causare
+perjuicios a los usuarios, signatarios o terceros, o se afectare
+gravemente la seguridad de los servicios de certificaci�n;
+c) Omisi�n de llevar el registro de los certificados expedidos;
+d) Omisi�n de revocar en forma o tiempo oportuno un certificado cuando as� correspondiere;
+e) Cualquier impedimento u obstrucci�n a la
+realizaci�n de inspecciones o auditor�as por parte de la autoridad de
+aplicaci�n y del ente licenciante;
+f) Incumplimiento de las normas dictadas por la autoridad de aplicaci�n;
+g) Reincidencia en la comisi�n de infracciones que dieran lugar a la sanci�n de apercibimiento.
+ARTICULO 44. � Caducidad. Podr� aplicarse la sanci�n de caducidad de la licencia en caso de:
+a) No tomar los debidos recaudos de seguridad en los servicios de certificaci�n;
+b) Expedici�n de certificados falsos;
+c) Transferencia no autorizada o fraude en la titularidad de la licencia;
+d) Reincidencia en la comisi�n de infracciones que dieran lugar a la sanci�n de multa;
+e) Quiebra del titular.
+La sanci�n de caducidad inhabilita a la titular
+sancionada y a los integrantes de �rganos directivos por el t�rmino de
+10 a�os para ser titular de licencias.
+ARTICULO 45. � Recurribilidad. Las
+sanciones aplicadas podr�n ser recurridas ante los Tribunales Federales
+con competencia en lo Contencioso Administrativo correspondientes al
+domicilio de la entidad, una vez agotada la v�a administrativa
+pertinente.
+La interposici�n de los recursos previstos en este cap�tulo tendr� efecto devolutivo.
+ARTICULO 46. � Jurisdicci�n. En los
+conflictos entre particulares y certificadores licenciados es
+competente la Justicia en lo Civil y Comercial Federal. En los
+conflictos en que sea parte un organismo p�blico certificador
+licenciado, es competente la Justicia en lo Contencioso-administrativo
+Federal.
+CAPITULO XI
+Disposiciones Complementarias
+ARTICULO 47. � Utilizaci�n por el
+Estado Nacional. El Estado nacional utilizar� las tecnolog�as y
+previsiones de la presente ley en su �mbito interno y en relaci�n con
+los administrados de acuerdo con las condiciones que se fijen
+reglamentariamente en cada uno de sus poderes.
+ARTICULO 48. � Implementaci�n. El
+Estado nacional, dentro de las jurisdicciones y entidades comprendidas
+en el art�culo 8� de la Ley 24.156, promover� el uso masivo de la firma
+digital de tal forma que posibilite el tr�mite de los expedientes por
+v�as simult�neas, b�squedas autom�ticas de la informaci�n y seguimiento
+y control por parte del interesado, propendiendo a la progresiva
+despapelizaci�n.
+En un plazo m�ximo de 5 (cinco) a�os contados a
+partir de la entrada en vigencia de la presente ley, se aplicar� la
+tecnolog�a de firma digital a la totalidad de las leyes, decretos,
+decisiones administrativas, resoluciones y sentencias emanados de las
+jurisdicciones y entidades comprendidas en el art�culo 8� de la Ley
+24.156.
+ARTICULO 49. � Reglamentaci�n. El
+Poder Ejecutivo deber� reglamentar esta ley en un plazo no mayor a los
+180 (ciento ochenta) d�as de su publicaci�n en el Bolet�n Oficial de la
+Naci�n.
+ARTICULO 50. � Invitaci�n. Inv�tase a
+las jurisdicciones provinciales a dictar los instrumentos legales
+pertinentes para adherir a la presente ley.
+ARTICULO 51. � Equiparaci�n a los efectos del derecho penal. Incorp�rase el siguiente texto como art�culo 78 (bis) del C�digo Penal:
+Los t�rminos firma y suscripci�n comprenden la firma
+digital, la creaci�n de una firma digital o firmar digitalmente. Los
+t�rminos documento, instrumento privado y certificado comprenden el
+documento digital firmado digitalmente.
+ARTICULO 52. � Autorizaci�n al Poder
+Ejecutivo. Autor�zase al Poder Ejecutivo para que por la v�a del
+art�culo 99, inciso 2, de la Constituci�n Nacional actualice los
+contenidos del Anexo de la presente ley a fin de evitar su
+obsolescencia.
+ARTICULO 53. � Comun�quese al Poder Ejecutivo.
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO,
+EN BUENOS AIRES, A LOS CATORCE DIAS DEL MES DE NOVIEMBRE DEL A�O DOS
+MIL UNO.
+� REGISTRADA BAJO EL N� 25.506 �
+RAFAEL PASCUAL. � EDUARDO MENEM. � Guillermo Aramburu. � Juan C. Oyarz�n.
+ANEXO
+Informaci�n: conocimiento adquirido acerca de algo o alguien.
+Procedimiento de verificaci�n: proceso utilizado
+para determinar la validez de una firma digital. Dicho proceso debe
+considerar al menos:
+a) que dicha firma digital ha sido creada durante el per�odo de validez del certificado digital del firmante;
+b) que dicha firma digital ha sido creada utilizando
+los datos de creaci�n de firma digital correspondientes a los datos de
+verificaci�n de firma digital indicados en el certificado del firmante;
+c) la verificaci�n de la autenticidad y la validez de los certificados involucrados.
+Datos de creaci�n de firma digital: datos �nicos,
+tales como c�digos o claves criptogr�ficas privadas, que el firmante
+utiliza para crear su firma digital.
+Datos de verificaci�n de firma digital: datos
+�nicos, tales como c�digos o claves criptogr�ficas p�blicas, que se
+utilizan para verificar la firma digital, la integridad del documento
+digital y la identidad del firmante.
+Dispositivo de creaci�n de firma digital:
+dispositivo de hardware o software t�cnicamente confiable que permite
+firmar digitalmente.
+Dispositivo de verificaci�n de firma digital:
+dispositivo de hardware o software t�cnicamente confiable que permite
+verificar la integridad del documento digital y la identidad del
+firmante.
+Pol�ticas de certificaci�n: reglas en las que se
+establecen los criterios de emisi�n y utilizaci�n de los certificados
+digitales.
+T�cnicamente confiable: cualidad del conjunto de
+equipos de computaci�n, software, protocolos de comunicaci�n y de
+seguridad y procedimientos administrativos relacionados que cumplan los
+siguientes requisitos:
+1. Resguardar contra la posibilidad de intrusi�n y/o uso no autorizado;
+2. Asegurar la disponibilidad, confiabilidad, confidencialidad y correcto funcionamiento;
+3. Ser apto para el desempe�o de sus funciones espec�ficas;
+4. Cumplir las normas de seguridad apropiadas, acordes a est�ndares internacionales en la materia;
+5. Cumplir con los est�ndares t�cnicos y de auditor�a que establezca la Autoridad de Aplicaci�n.
+Clave criptogr�fica privada: En un criptosistema asim�trico es aquella que se utiliza para firmar digitalmente.
+Clave criptogr�fica p�blica: En un criptosistema asim�trico es aquella que se utiliza para verificar una firma digital.
+Integridad: Condici�n que permite verificar que una informaci�n no ha sido alterada por medios desconocidos o no autorizados.
+Criptosistema asim�trico: Algoritmo que utiliza un
+par de claves, una clave privada para firmar digitalmente y su
+correspondiente clave p�blica para verificar dicha firma digital.

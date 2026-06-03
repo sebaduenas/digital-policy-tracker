@@ -1,0 +1,680 @@
+L12965
+Presid�ncia da Rep�blica
+Secretaria-Geral
+Subchefia para Assuntos Jur�dicos
+LEI N� 12.965, DE 23 DE ABRIL DE 2014
+Vig�ncia
+Regulamento
+Estabelece princ�pios, garantias, direitos e deveres para o uso da Internet no Brasil.
+A PRESIDENTA DA REP�BLICA
+Fa�o saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+CAP�TULO I
+DISPOSI��ES PRELIMINARES
+Art. 1�
+Esta Lei estabelece princ�pios, garantias, direitos e deveres para o uso da internet no Brasil e determina as diretrizes para atua��o da Uni�o, dos Estados, do Distrito Federal e dos Munic�pios em rela��o � mat�ria.
+Par�grafo �nico. O disposto nesta Lei
+aplica-se mesmo que as atividades sejam realizadas por pessoa jur�dica
+sediada no exterior, desde que oferte servi�o ao p�blico brasileiro ou, no
+m�nimo, uma pessoa jur�dica integrante do mesmo grupo econ�mico possua
+estabelecimento situado no Pa�s.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Art. 2� A disciplina do uso da internet no Brasil tem como fundamento o respeito � liberdade de express�o, bem como:
+I - o reconhecimento da escala mundial da rede;
+II - os direitos humanos, o desenvolvimento da personalidade e o exerc�cio da cidadania em meios digitais;
+III - a pluralidade e a diversidade;
+IV - a abertura e a colabora��o;
+V - a livre iniciativa, a livre concorr�ncia e a defesa do consumidor; e
+VI - a finalidade social da rede.
+Art. 3�
+A disciplina do uso da internet no Brasil tem os seguintes princ�pios:
+I - garantia da liberdade de express�o, comunica��o e manifesta��o de pensamento, nos termos da Constitui��o Federal;
+II - prote��o da privacidade;
+III - prote��o dos dados pessoais, na forma da lei;
+IV - preserva��o e garantia da neutralidade de rede;
+V - preserva��o da estabilidade, seguran�a e funcionalidade da rede, por meio de medidas t�cnicas compat�veis com os padr�es internacionais e pelo est�mulo ao uso de boas pr�ticas;
+VI - responsabiliza��o dos agentes de acordo com suas atividades, nos termos da lei;
+VII - preserva��o da natureza participativa da rede;
+VIII - liberdade dos modelos de neg�cios promovidos na internet, desde que n�o conflitem com os demais princ�pios estabelecidos nesta Lei.
+Par�grafo �nico. Os princ�pios expressos nesta Lei n�o excluem outros previstos no ordenamento jur�dico p�trio relacionados � mat�ria ou nos tratados internacionais em que a Rep�blica Federativa do Brasil seja parte.
+Art. 4� A disciplina do uso da internet no Brasil tem por objetivo a promo��o:
+I - do direito de acesso � internet a todos;
+II - do acesso � informa��o, ao conhecimento e � participa��o na vida cultural e na condu��o dos assuntos p�blicos;
+III - da inova��o e do fomento � ampla difus�o de novas tecnologias e modelos de uso e acesso; e
+IV - da ades�o a padr�es tecnol�gicos abertos que permitam a comunica��o, a acessibilidade e a interoperabilidade entre aplica��es e bases de dados.
+Art. 5�
+Para os efeitos desta Lei, considera-se:
+I - internet: o sistema constitu�do do conjunto de protocolos l�gicos, estruturado em escala mundial para uso p�blico e irrestrito, com a finalidade de possibilitar a comunica��o de dados entre terminais por meio de diferentes redes;
+II - terminal: o computador ou qualquer dispositivo que se conecte � internet;
+III - endere�o de protocolo de internet (endere�o IP): o c�digo atribu�do a um terminal de uma rede para permitir sua identifica��o, definido segundo par�metros internacionais;
+IV - administrador de sistema aut�nomo: a pessoa f�sica ou jur�dica que administra blocos de endere�o IP espec�ficos e o respectivo sistema aut�nomo de roteamento, devidamente cadastrada no ente nacional respons�vel pelo registro e distribui��o de endere�os IP geograficamente referentes ao Pa�s;
+V - conex�o � internet: a habilita��o de um terminal para envio e recebimento de pacotes de dados pela internet, mediante a atribui��o ou autentica��o de um endere�o IP;
+VI - registro de conex�o: o conjunto de informa��es referentes � data e hora de in�cio e t�rmino de uma conex�o � internet, sua dura��o e o endere�o IP utilizado pelo terminal para o envio e recebimento de pacotes de dados;
+VII - aplica��es de internet: o conjunto de funcionalidades que podem ser acessadas por meio de um terminal conectado � internet; e
+VII - aplica��es de internet - o conjunto
+de funcionalidades que podem ser acessadas por meio de um terminal conectado
+� internet;
+(Reda��o dada
+pela Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+VII - aplica��es de internet: o conjunto de funcionalidades que podem ser acessadas por meio de um terminal conectado � internet; e
+VIII - registros de acesso a aplica��es de internet: o conjunto de informa��es referentes � data e hora de uso de uma determinada aplica��o de internet a partir de um determinado endere�o IP.
+VIII - registros de acesso a aplica��es de
+internet - o conjunto de informa��es referentes � data e � hora de uso de
+uma determinada aplica��o de internet a partir de um determinado endere�o IP;
+(Reda��o dada
+pela Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+VIII - registros de acesso a aplica��es de internet: o conjunto de informa��es referentes � data e hora de uso de uma determinada aplica��o de internet a partir de um determinado endere�o IP.
+IX - rede social - aplica��o de internet cuja
+principal finalidade seja o compartilhamento e a dissemina��o, pelos
+usu�rios, de opini�es e informa��es, veiculados por textos ou arquivos de
+imagens, sonoros ou audiovisuais, em uma �nica plataforma, por meio de
+contas conectadas ou acess�veis de forma articulada, permitida a conex�o
+entre usu�rios, e que seja provida por pessoa jur�dica que exer�a atividade
+com fins econ�micos e de forma organizada, mediante a oferta de servi�os ao
+p�blico brasileiro com, no m�nimo, dez milh�es de usu�rios registrados no
+Pa�s; e
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+X - modera��o em redes sociais - a��es dos
+provedores de redes sociais de exclus�o, suspens�o ou bloqueio da divulga��o
+de conte�do gerado por usu�rio e a��es de cancelamento ou suspens�o, total
+ou parcial, dos servi�os e das funcionalidades de conta ou perfil de usu�rio
+de redes sociais.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Par�grafo �nico. N�o se incluem na defini��o de que trata o inciso
+IX do caput as aplica��es de internet que se destinam � troca
+de mensagens instant�neas e �s chamadas de voz, assim como aquelas
+que tenham como principal finalidade a viabiliza��o do com�rcio de
+bens ou servi�os.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Art. 6� Na interpreta��o desta Lei ser�o levados em conta, al�m dos fundamentos, princ�pios e objetivos previstos, a natureza da internet, seus usos e costumes particulares e sua import�ncia para a promo��o do desenvolvimento humano, econ�mico, social e cultural.
+CAP�TULO II
+DOS DIREITOS E GARANTIAS DOS USU�RIOS
+Se��o I
+Disposi��es gerais
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Art. 7� O acesso � internet � essencial ao exerc�cio da cidadania, e ao usu�rio s�o assegurados os seguintes direitos:
+I - inviolabilidade da intimidade e da vida privada, sua prote��o e indeniza��o pelo dano material ou moral decorrente de sua viola��o;
+II - inviolabilidade e sigilo do fluxo de suas comunica��es pela internet, salvo por ordem judicial, na forma da lei;
+III - inviolabilidade e sigilo de suas comunica��es privadas armazenadas, salvo por ordem judicial;
+IV - n�o suspens�o da conex�o � internet, salvo por d�bito diretamente decorrente de sua utiliza��o;
+V - manuten��o da qualidade contratada da conex�o � internet;
+VI - informa��es claras e completas constantes dos contratos de presta��o de servi�os, com detalhamento sobre o regime de prote��o aos registros de conex�o e aos registros de acesso a aplica��es de internet, bem como sobre pr�ticas de gerenciamento da rede que possam afetar sua qualidade;
+VII - n�o fornecimento a terceiros de seus dados pessoais, inclusive registros de conex�o, e de acesso a aplica��es de internet, salvo mediante consentimento livre, expresso e informado ou nas hip�teses previstas em lei;
+VIII - informa��es claras e completas sobre coleta, uso, armazenamento, tratamento e prote��o de seus dados pessoais, que somente poder�o ser utilizados para finalidades que:
+a) justifiquem sua coleta;
+b) n�o sejam vedadas pela legisla��o; e
+c) estejam especificadas nos contratos de presta��o de servi�os ou em termos de uso de aplica��es de internet;
+IX - consentimento expresso sobre coleta, uso, armazenamento e tratamento de dados pessoais, que dever� ocorrer de forma destacada das demais cl�usulas contratuais;
+X - exclus�o definitiva dos dados pessoais que tiver fornecido a determinada aplica��o de internet, a seu requerimento, ao t�rmino da rela��o entre as partes, ressalvadas as hip�teses de guarda obrigat�ria de registros previstas nesta Lei;
+X - exclus�o definitiva dos dados pessoais que tiver fornecido a determinada aplica��o de internet, a seu requerimento, ao t�rmino da rela��o entre as partes, ressalvadas as hip�teses de guarda obrigat�ria de registros previstas nesta Lei e na que disp�e sobre a prote��o de dados pessoais;
+(Reda��o dada pela Lei n� 13.709, de 2018)
+(Vig�ncia)
+XI - publicidade e clareza de eventuais pol�ticas de uso dos provedores de conex�o � internet e de aplica��es de internet;
+XII - acessibilidade, consideradas as caracter�sticas f�sico-motoras, perceptivas, sensoriais, intelectuais e mentais do usu�rio, nos termos da lei; e
+XIII - aplica��o das normas de prote��o e defesa do consumidor nas rela��es de consumo realizadas na internet.
+Art. 8�
+A garantia do direito � privacidade e � liberdade de express�o nas comunica��es � condi��o para o pleno exerc�cio do direito de acesso � internet.
+Par�grafo �nico. S�o nulas de pleno direito as cl�usulas contratuais que violem o disposto no
+caput,
+tais como aquelas que:
+I - impliquem ofensa � inviolabilidade e ao sigilo das comunica��es privadas, pela internet; ou
+II - em contrato de ades�o, n�o ofere�am como alternativa ao contratante a ado��o do foro brasileiro para solu��o de controv�rsias decorrentes de servi�os prestados no Brasil.
+Se��o II
+Dos direitos e das
+garantias dos usu�rios de redes sociais
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Art. 8�-A Aos usu�rios,
+nas rela��es com os provedores de redes sociais, s�o assegurados os
+seguintes direitos, sem preju�zo do disposto na Se��o I deste Cap�tulo:
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+I - acesso a informa��es claras, p�blicas e objetivas sobre
+quaisquer pol�ticas, procedimentos, medidas e instrumentos utilizados para
+fins de eventual modera��o ou limita��o do alcance da divulga��o de conte�do
+gerado pelo usu�rio, inclu�dos os crit�rios e os procedimentos utilizados
+para a decis�o humana ou automatizada, ressalvados os segredos comercial e
+industrial;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+II - contradit�rio, ampla defesa e recurso, a serem obrigatoriamente
+observados nas hip�teses de modera��o de conte�do, devendo o provedor de
+redes sociais oferecer, no m�nimo, um canal eletr�nico de comunica��o
+dedicado ao exerc�cio desses direitos;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+III - restitui��o do conte�do disponibilizado pelo usu�rio, em
+particular de dados pessoais, textos, imagens, dentre outros, quando houver
+requerimento;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+IV - restabelecimento da conta, do perfil ou do conte�do no mesmo
+estado em que se encontrava, na hip�tese de modera��o indevida pelo provedor
+de redes sociais;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+V - n�o exclus�o, cancelamento ou suspens�o, total ou parcial, de
+servi�os e funcionalidades da conta ou do perfil, exceto por justa causa,
+observado o disposto no art. 8�-B;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+VI - n�o exclus�o, suspens�o ou bloqueio da divulga��o de conte�do
+gerado pelo usu�rio, exceto por justa causa, observado o disposto no art.
+8�-C; e
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+VII - acesso a resumo dos termos de uso da rede social, com
+destaque �s regras de maior signific�ncia para o usu�rio.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Par�grafo �nico. � vedada aos provedores de redes sociais a ado��o
+de crit�rios de modera��o ou limita��o do alcance da divulga��o de conte�do
+que impliquem censura de ordem pol�tica, ideol�gica, cient�fica, art�stica
+ou religiosa, observado o disposto nos art. 8�-B e art. 8�-C.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Art. 8�-B Em observ�ncia � liberdade de
+express�o, comunica��o e manifesta��o de pensamento, a exclus�o, o
+cancelamento ou a suspens�o, total ou parcial, dos servi�os e das
+funcionalidades da conta ou do perfil de usu�rio de redes sociais somente
+poder� ser realizado com justa causa e motiva��o.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 1� Considera-se caracterizada a justa causa nas seguintes
+hip�teses:
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+I - inadimplemento do usu�rio;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+II - contas criadas com o prop�sito de assumir ou simular
+identidade de terceiros para enganar o p�blico, ressalvados o direito ao uso
+de nome social e � pseudon�mia e o expl�cito �nimo humor�stico ou par�dico;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+III - contas preponderantemente geridas por qualquer programa de
+computador ou tecnologia para simular ou substituir atividades humanas na
+distribui��o de conte�do em provedores;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+IV - pr�tica reiterada das condutas previstas no art. 8�-C;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+V - contas que ofertem produtos ou servi�os que violem patente,
+marca registrada, direito autoral ou outros direitos de propriedade
+intelectual; ou
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+VI - cumprimento de determina��o judicial.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 2� O
+usu�rio dever� ser notificado da exclus�o, do cancelamento ou da suspens�o,
+total ou parcial, dos servi�os e das funcionalidades da conta ou do perfil.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 3� A
+notifica��o de que trata o � 2�:
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+I -
+poder� ocorrer por meio eletr�nico, de acordo com as regras de uso da rede
+social;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+II -
+ocorrer� de forma pr�via ou concomitante � exclus�o, ao cancelamento ou �
+suspens�o, total ou parcial, dos servi�os e das funcionalidades da conta ou
+do perfil; e
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+III -
+conter� a identifica��o da medida adotada, a motiva��o da decis�o e as
+informa��es sobre prazos, canais eletr�nicos de comunica��o e procedimentos
+para a contesta��o e a eventual revis�o pelo provedor de redes sociais.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 4� As
+medidas de que trata o caput tamb�m poder�o ser adotadas a
+requerimento do pr�prio usu�rio, de seu representante legal ou de seus
+herdeiros, ressalvadas as hip�teses de guarda obrigat�ria de registros
+previstas na legisla��o.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Art. 8�-C Em observ�ncia � liberdade de
+express�o, comunica��o e manifesta��o de pensamento, a exclus�o, a suspens�o
+ou o bloqueio da divulga��o de conte�do gerado por usu�rio somente poder�
+ser realizado com justa causa e motiva��o.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 1� Considera-se caracterizada a justa causa nas seguintes
+hip�teses:
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+I - quando o conte�do publicado pelo usu�rio estiver em desacordo
+com o disposto na Lei n� 8.069, de 13 de
+julho de 1990 ;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+II - quando a divulga��o ou a reprodu��o configurar:
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+a) nudez ou representa��es expl�citas ou impl�citas de atos
+sexuais;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+b) pr�tica, apoio, promo��o ou incita��o de crimes contra a vida,
+pedofilia, terrorismo, tr�fico ou quaisquer outras infra��es penais sujeitas
+� a��o penal p�blica incondicionada;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+c) apoio, recrutamento, promo��o ou ajuda a organiza��es criminosas
+ou terroristas ou a seus atos;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+d) pr�tica, apoio, promo��o ou incita��o de atos de amea�a ou
+viol�ncia, inclusive por raz�es de discrimina��o ou preconceito de ra�a,
+cor, sexo, etnia, religi�o ou orienta��o sexual;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+e) promo��o, ensino, incentivo ou apologia � fabrica��o ou ao
+consumo, expl�cito ou impl�cito, de drogas il�citas;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+f) pr�tica, apoio, promo��o ou incita��o de atos de viol�ncia
+contra animais;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+g) utiliza��o ou ensino do uso de computadores ou tecnologia da
+informa��o com o objetivo de roubar credenciais, invadir sistemas,
+comprometer dados pessoais ou causar danos a terceiros;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+h) pr�tica, apoio, promo��o ou incita��o de atos contra a seguran�a
+p�blica, defesa nacional ou seguran�a do Estado;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+i) utiliza��o ou ensino do uso de aplica��es de internet, s�tios
+eletr�nicos ou tecnologia da informa��o com o objetivo de violar patente,
+marca registrada, direito autoral ou outros direitos de propriedade
+intelectual;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+j) infra��o �s normas editadas pelo Conselho Nacional de
+Autorregulamenta��o Publicit�ria referentes a conte�do ou material
+publicit�rio ou propagand�stico;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+k) dissemina��o de v�rus de software ou qualquer outro
+c�digo de computador, arquivo ou programa projetado para interromper,
+destruir ou limitar a funcionalidade de qualquer recurso de computador; ou
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+l) comercializa��o de produtos impr�prios ao consumo, nos termos do
+disposto no � 6� do art. 18 da Lei
+n� 8.078, de 11 de setembro de 1990 ;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021
+(Rejeitada)
+III - requerimento do ofendido, de seu representante legal ou de
+seus herdeiros, na hip�tese de viola��o � intimidade, � privacidade, �
+imagem, � honra, � prote��o de seus dados pessoais ou � propriedade
+intelectual; ou
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+IV - cumprimento de determina��o judicial.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 2� O
+usu�rio dever� ser notificado da exclus�o, da suspens�o ou do bloqueio da
+divulga��o de conte�do por ele gerado.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 3� A
+notifica��o de que trata o � 2�:
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+I -
+poder� ocorrer por meio eletr�nico, de acordo com as regras de uso da rede
+social;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+II -
+ocorrer� de forma pr�via ou concomitante � exclus�o, � suspens�o ou ao
+bloqueio da divulga��o de conte�do; e
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+III -
+conter� a identifica��o da medida adotada, a motiva��o da decis�o e as
+informa��es sobre prazos, canais eletr�nicos de comunica��o e procedimentos
+para a contesta��o e a eventual revis�o pelo provedor de redes sociais.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 4� As
+medidas de que trata o caput tamb�m poder�o ser adotadas a
+requerimento do pr�prio usu�rio, ressalvadas as hip�teses de guarda
+obrigat�ria de registros previstas na legisla��o.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Art. 8�-D Para aplica��o do disposto nos art. 8�-B e
+art. 8�-C, ser� considerada motivada a decis�o que:
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+I -
+indicar a parte espec�fica do contrato de presta��o de servi�os ou do termo
+de uso relativo aos servi�os fornecidos pelo provedor de aplica��es de
+internet que foi violada;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+II -
+especificar a postagem ou a conduta considerada afrontosa ao contrato de
+presta��o de servi�os ou ao termo de uso; e
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+III -
+informar o fundamento jur�dico da decis�o.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+CAP�TULO III
+DA PROVIS�O DE CONEX�O E DE APLICA��ES DE INTERNET
+Se��o I
+Da Neutralidade de Rede
+Art. 9� O respons�vel pela transmiss�o, comuta��o ou roteamento tem o dever de tratar de forma ison�mica quaisquer pacotes de dados, sem distin��o por conte�do, origem e destino, servi�o, terminal ou aplica��o.
+� 1� A discrimina��o ou degrada��o do tr�fego ser� regulamentada nos termos das atribui��es privativas do Presidente da Rep�blica previstas no
+inciso IV do art. 84 da Constitui��o Federal,
+para a fiel execu��o desta Lei, ouvidos o Comit� Gestor da Internet e a Ag�ncia Nacional de Telecomunica��es, e somente poder� decorrer de:
+I - requisitos t�cnicos indispens�veis � presta��o adequada dos servi�os e aplica��es; e
+II - prioriza��o de servi�os de emerg�ncia.
+� 2� Na hip�tese de discrimina��o ou degrada��o do tr�fego prevista no � 1� , o respons�vel mencionado no
+caput
+deve:
+I - abster-se de causar dano aos usu�rios, na forma do
+art. 927 da Lei n� 10.406, de 10 de janeiro de 2002 - C�digo Civil;
+II - agir com proporcionalidade, transpar�ncia e isonomia;
+III - informar previamente de modo transparente, claro e suficientemente descritivo aos seus usu�rios sobre as pr�ticas de gerenciamento e mitiga��o de tr�fego adotadas, inclusive as relacionadas � seguran�a da rede; e
+IV - oferecer servi�os em condi��es comerciais n�o discriminat�rias e abster-se de praticar condutas anticoncorrenciais.
+� 3� Na provis�o de conex�o � internet, onerosa ou gratuita, bem como na transmiss�o, comuta��o ou roteamento, � vedado bloquear, monitorar, filtrar ou analisar o conte�do dos pacotes de dados, respeitado o disposto neste artigo.
+Se��o II
+Da Prote��o aos Registros, aos Dados Pessoais e �s Comunica��es Privadas
+Art. 10. A guarda e a disponibiliza��o dos registros de conex�o e de acesso a aplica��es de internet de que trata esta Lei, bem como de dados pessoais e do conte�do de comunica��es privadas, devem atender � preserva��o da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas.
+� 1� O provedor respons�vel pela guarda somente ser� obrigado a disponibilizar os registros mencionados no
+caput,
+de forma aut�noma ou associados a dados pessoais ou a outras informa��es que possam contribuir para a identifica��o do usu�rio ou do terminal, mediante ordem judicial, na forma do disposto na Se��o IV deste Cap�tulo, respeitado o disposto no art. 7� .
+� 2� O conte�do das comunica��es privadas somente poder� ser disponibilizado mediante ordem judicial, nas hip�teses e na forma que a lei estabelecer, respeitado o disposto nos incisos II e III do art. 7� .
+� 3� O disposto no
+caput
+n�o impede o acesso aos dados cadastrais que informem qualifica��o pessoal, filia��o e endere�o, na forma da lei, pelas autoridades administrativas que detenham compet�ncia legal para a sua requisi��o.
+� 4� As medidas e os procedimentos de seguran�a e de sigilo devem ser informados pelo respons�vel pela provis�o de servi�os de forma clara e atender a padr�es definidos em regulamento, respeitado seu direito de confidencialidade quanto a segredos empresariais.
+Art. 11. Em qualquer opera��o de coleta, armazenamento, guarda e tratamento de registros, de dados pessoais ou de comunica��es por provedores de conex�o e de aplica��es de internet em que pelo menos um desses atos ocorra em territ�rio nacional, dever�o ser obrigatoriamente respeitados a legisla��o brasileira e os direitos � privacidade, � prote��o dos dados pessoais e ao sigilo das comunica��es privadas e dos registros.
+� 1� O disposto no
+caput
+aplica-se aos dados coletados em territ�rio nacional e ao conte�do das comunica��es, desde que pelo menos um dos terminais esteja localizado no Brasil.
+� 2� O disposto no
+caput
+aplica-se mesmo que as atividades sejam realizadas por pessoa jur�dica sediada no exterior, desde que oferte servi�o ao p�blico brasileiro ou pelo menos uma integrante do mesmo grupo econ�mico possua estabelecimento no Brasil.
+(Revogado pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 2� O disposto no
+caput
+aplica-se mesmo que as atividades sejam realizadas por pessoa jur�dica sediada no exterior, desde que oferte servi�o ao p�blico brasileiro ou pelo menos uma integrante do mesmo grupo econ�mico possua estabelecimento no Brasil.
+� 3� Os provedores de conex�o e de aplica��es de internet dever�o prestar, na forma da regulamenta��o, informa��es que permitam a verifica��o quanto ao cumprimento da legisla��o brasileira referente � coleta, � guarda, ao armazenamento ou ao tratamento de dados, bem como quanto ao respeito � privacidade e ao sigilo de comunica��es.
+� 4� Decreto regulamentar� o procedimento para apura��o de infra��es ao disposto neste artigo.
+Art. 12. Sem preju�zo das demais san��es c�veis, criminais ou administrativas, as infra��es �s normas previstas nos arts. 10 e 11 ficam sujeitas, conforme o caso, �s seguintes san��es, aplicadas de forma isolada ou cumulativa:
+(Revogado pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+I - advert�ncia, com indica��o de prazo para ado��o de medidas corretivas;
+(Revogado pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+II - multa de at� 10% (dez por cento) do faturamento do grupo econ�mico no Brasil no seu �ltimo exerc�cio, exclu�dos os tributos, considerados a condi��o econ�mica do infrator e o princ�pio da proporcionalidade entre a gravidade da falta e a intensidade da san��o;
+(Revogado pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+III - suspens�o tempor�ria das atividades que envolvam os atos previstos no art. 11; ou
+(Revogado pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+IV - proibi��o de exerc�cio das atividades que envolvam os atos previstos no art. 11.
+(Revogado pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Par�grafo �nico. Tratando-se de empresa estrangeira, responde solidariamente pelo pagamento da multa de que trata o
+caput
+sua filial, sucursal, escrit�rio ou estabelecimento situado no Pa�s.
+(Revogado pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Art. 12. Sem preju�zo das demais san��es c�veis, criminais ou administrativas, as infra��es �s normas previstas nos arts. 10 e 11 ficam sujeitas, conforme o caso, �s seguintes san��es, aplicadas de forma isolada ou cumulativa:
+I - advert�ncia, com indica��o de prazo para ado��o de medidas corretivas;
+II - multa de at� 10% (dez por cento) do faturamento do grupo econ�mico no Brasil no seu �ltimo exerc�cio, exclu�dos os tributos, considerados a condi��o econ�mica do infrator e o princ�pio da proporcionalidade entre a gravidade da falta e a intensidade da san��o;
+III - suspens�o tempor�ria das atividades que envolvam os atos previstos no art. 11; ou
+IV - proibi��o de exerc�cio das atividades que envolvam os atos previstos no art. 11.
+Par�grafo �nico. Tratando-se de empresa estrangeira, responde solidariamente pelo pagamento da multa de que trata o
+caput
+sua filial, sucursal, escrit�rio ou estabelecimento situado no Pa�s.
+Subse��o I
+Da Guarda de Registros de Conex�o
+Art. 13. Na provis�o de conex�o � internet, cabe ao administrador de sistema aut�nomo respectivo o dever de manter os registros de conex�o, sob sigilo, em ambiente controlado e de seguran�a, pelo prazo de 1 (um) ano, nos termos do regulamento.
+� 1� A responsabilidade pela manuten��o dos registros de conex�o n�o poder� ser transferida a terceiros.
+� 2� A autoridade policial ou administrativa ou o Minist�rio P�blico poder� requerer cautelarmente que os registros de conex�o sejam guardados por prazo superior ao previsto no
+caput.
+� 3� Na hip�tese do � 2� , a autoridade requerente ter� o prazo de 60 (sessenta) dias, contados a partir do requerimento, para ingressar com o pedido de autoriza��o judicial de acesso aos registros previstos no
+caput.
+� 4� O provedor respons�vel pela guarda dos registros dever� manter sigilo em rela��o ao requerimento previsto no � 2� , que perder� sua efic�cia caso o pedido de autoriza��o judicial seja indeferido ou n�o tenha sido protocolado no prazo previsto no � 3� .
+� 5� Em qualquer hip�tese, a disponibiliza��o ao requerente dos registros de que trata este artigo dever� ser precedida de autoriza��o judicial, conforme disposto na Se��o IV deste Cap�tulo.
+� 6� Na aplica��o de san��es pelo descumprimento ao disposto neste artigo, ser�o considerados a natureza e a gravidade da infra��o, os danos dela resultantes, eventual vantagem auferida pelo infrator, as circunst�ncias agravantes, os antecedentes do infrator e a reincid�ncia.
+Subse��o II
+Da Guarda de Registros de Acesso a Aplica��es de Internet na Provis�o de Conex�o
+Art. 14. Na provis�o de conex�o, onerosa ou gratuita, � vedado guardar os registros de acesso a aplica��es de internet.
+Subse��o III
+Da Guarda de Registros de Acesso a Aplica��es de Internet na Provis�o de Aplica��es
+Art. 15. O provedor de aplica��es de internet constitu�do na forma de pessoa jur�dica e que exer�a essa atividade de forma organizada, profissionalmente e com fins econ�micos dever� manter os respectivos registros de acesso a aplica��es de internet, sob sigilo, em ambiente controlado e de seguran�a, pelo prazo de 6 (seis) meses, nos termos do regulamento.
+� 1� Ordem judicial poder� obrigar, por tempo certo, os provedores de aplica��es de internet que n�o est�o sujeitos ao disposto no
+caput
+a guardarem registros de acesso a aplica��es de internet, desde que se trate de registros relativos a fatos espec�ficos em per�odo determinado.
+� 2� A autoridade policial ou administrativa ou o Minist�rio P�blico poder�o requerer cautelarmente a qualquer provedor de aplica��es de internet que os registros de acesso a aplica��es de internet sejam guardados, inclusive por prazo superior ao previsto no
+caput,
+observado o disposto nos �� 3� e 4� do art. 13.
+� 3� Em qualquer hip�tese, a disponibiliza��o ao requerente dos registros de que trata este artigo dever� ser precedida de autoriza��o judicial, conforme disposto na Se��o IV deste Cap�tulo.
+� 4� Na aplica��o de san��es pelo descumprimento ao disposto neste artigo, ser�o considerados a natureza e a gravidade da infra��o, os danos dela resultantes, eventual vantagem auferida pelo infrator, as circunst�ncias agravantes, os antecedentes do infrator e a reincid�ncia.
+Art. 16. Na provis�o de aplica��es de internet, onerosa ou gratuita, � vedada a guarda:
+I - dos registros de acesso a outras aplica��es de internet sem que o titular dos dados tenha consentido previamente, respeitado o disposto no art. 7� ; ou
+II - de dados pessoais que sejam excessivos em rela��o � finalidade para a qual foi dado consentimento pelo seu titular.
+II - de dados pessoais que sejam excessivos em
+rela��o � finalidade para a qual foi dado consentimento pelo seu titular,
+exceto nas hip�teses previstas na Lei que disp�e sobre a prote��o de dados
+pessoais.
+(Reda��o dada pela Lei n� 13.709, de 2018)
+(Vig�ncia)
+Art. 17. Ressalvadas as hip�teses previstas nesta Lei, a op��o por n�o guardar os registros de acesso a aplica��es de internet n�o implica responsabilidade sobre danos decorrentes do uso desses servi�os por terceiros.
+Se��o III
+Da Responsabilidade por Danos Decorrentes de Conte�do Gerado por Terceiros
+Art. 18. O provedor de conex�o � internet n�o ser� responsabilizado civilmente por danos decorrentes de conte�do gerado por terceiros.
+Art. 19. Com o intuito de assegurar a liberdade de express�o e impedir a censura, o provedor de aplica��es de internet somente poder� ser responsabilizado civilmente por danos decorrentes de conte�do gerado por terceiros se, ap�s ordem judicial espec�fica, n�o tomar as provid�ncias para, no �mbito e nos limites t�cnicos do seu servi�o e dentro do prazo assinalado, tornar indispon�vel o conte�do apontado como infringente, ressalvadas as disposi��es legais em contr�rio.
+� 1� A ordem judicial de que trata o
+caput
+dever� conter, sob pena de nulidade, identifica��o clara e espec�fica do conte�do apontado como infringente, que permita a localiza��o inequ�voca do material.
+� 2� A aplica��o do disposto neste artigo para infra��es a direitos de autor ou a direitos conexos depende de previs�o legal espec�fica, que dever� respeitar a liberdade de express�o e demais garantias previstas no art. 5� da Constitui��o Federal.
+� 3� As causas que versem sobre ressarcimento por danos decorrentes de conte�dos disponibilizados na internet relacionados � honra, � reputa��o ou a direitos de personalidade, bem como sobre a indisponibiliza��o desses conte�dos por provedores de aplica��es de internet, poder�o ser apresentadas perante os juizados especiais.
+� 4� O juiz, inclusive no procedimento previsto no � 3� , poder� antecipar, total ou parcialmente, os efeitos da tutela pretendida no pedido inicial, existindo prova inequ�voca do fato e considerado o interesse da coletividade na disponibiliza��o do conte�do na internet, desde que presentes os requisitos de verossimilhan�a da alega��o do autor e de fundado receio de dano irrepar�vel ou de dif�cil repara��o.
+Art. 20. Sempre que tiver informa��es de contato do usu�rio diretamente respons�vel pelo conte�do a que se refere o art. 19, caber� ao provedor de aplica��es de internet comunicar-lhe os motivos e informa��es relativos � indisponibiliza��o de conte�do, com informa��es que permitam o contradit�rio e a ampla defesa em ju�zo, salvo expressa previs�o legal ou expressa determina��o judicial fundamentada em contr�rio.
+Par�grafo �nico. Quando solicitado pelo usu�rio que disponibilizou o conte�do tornado indispon�vel, o provedor de aplica��es de internet que exerce essa atividade de forma organizada, profissionalmente e com fins econ�micos substituir� o conte�do tornado indispon�vel pela motiva��o ou pela ordem judicial que deu fundamento � indisponibiliza��o.
+Art. 21. O provedor de aplica��es de internet que disponibilize conte�do gerado por terceiros ser� responsabilizado subsidiariamente pela viola��o da intimidade decorrente da divulga��o, sem autoriza��o de seus participantes, de imagens, de v�deos ou de outros materiais contendo cenas de nudez ou de atos sexuais de car�ter privado quando, ap�s o recebimento de notifica��o pelo participante ou seu representante legal, deixar de promover, de forma diligente, no �mbito e nos limites t�cnicos do seu servi�o, a indisponibiliza��o desse conte�do.
+Par�grafo �nico. A notifica��o prevista no
+caput
+dever� conter, sob pena de nulidade, elementos que permitam a identifica��o espec�fica do material apontado como violador da intimidade do participante e a verifica��o da legitimidade para apresenta��o do pedido.
+Se��o IV
+Da Requisi��o Judicial de Registros
+Art. 22. A parte interessada poder�, com o prop�sito de formar conjunto probat�rio em processo judicial c�vel ou penal, em car�ter incidental ou aut�nomo, requerer ao juiz que ordene ao respons�vel pela guarda o fornecimento de registros de conex�o ou de registros de acesso a aplica��es de internet.
+Par�grafo �nico. Sem preju�zo dos demais requisitos legais, o requerimento dever� conter, sob pena de inadmissibilidade:
+I - fundados ind�cios da ocorr�ncia do il�cito;
+II - justificativa motivada da utilidade dos registros solicitados para fins de investiga��o ou instru��o probat�ria; e
+III - per�odo ao qual se referem os registros.
+Art. 23. Cabe ao juiz tomar as provid�ncias necess�rias � garantia do sigilo das informa��es recebidas e � preserva��o da intimidade, da vida privada, da honra e da imagem do usu�rio, podendo determinar segredo de justi�a, inclusive quanto aos pedidos de guarda de registro.
+CAP�TULO IV
+DA ATUA��O DO PODER P�BLICO
+Art. 24. Constituem diretrizes para a atua��o da Uni�o, dos Estados, do Distrito Federal e dos Munic�pios no desenvolvimento da internet no Brasil:
+I - estabelecimento de mecanismos de governan�a multiparticipativa, transparente, colaborativa e democr�tica, com a participa��o do governo, do setor empresarial, da sociedade civil e da comunidade acad�mica;
+II - promo��o da racionaliza��o da gest�o, expans�o e uso da internet, com participa��o do Comit� Gestor da internet no Brasil;
+III - promo��o da racionaliza��o e da interoperabilidade tecnol�gica dos servi�os de governo eletr�nico, entre os diferentes Poderes e �mbitos da Federa��o, para permitir o interc�mbio de informa��es e a celeridade de procedimentos;
+IV - promo��o da interoperabilidade entre sistemas e terminais diversos, inclusive entre os diferentes �mbitos federativos e diversos setores da sociedade;
+V - ado��o preferencial de tecnologias, padr�es e formatos abertos e livres;
+VI - publicidade e dissemina��o de dados e informa��es p�blicos, de forma aberta e estruturada;
+VII - otimiza��o da infraestrutura das redes e est�mulo � implanta��o de centros de armazenamento, gerenciamento e dissemina��o de dados no Pa�s, promovendo a qualidade t�cnica, a inova��o e a difus�o das aplica��es de internet, sem preju�zo � abertura, � neutralidade e � natureza participativa;
+VIII - desenvolvimento de a��es e programas de capacita��o para uso da internet;
+IX - promo��o da cultura e da cidadania; e
+X - presta��o de servi�os p�blicos de atendimento ao cidad�o de forma integrada, eficiente, simplificada e por m�ltiplos canais de acesso, inclusive remotos.
+Art. 25. As aplica��es de internet de entes do poder p�blico devem buscar:
+I - compatibilidade dos servi�os de governo eletr�nico com diversos terminais, sistemas operacionais e aplicativos para seu acesso;
+II - acessibilidade a todos os interessados, independentemente de suas capacidades f�sico-motoras, perceptivas, sensoriais, intelectuais, mentais, culturais e sociais, resguardados os aspectos de sigilo e restri��es administrativas e legais;
+III - compatibilidade tanto com a leitura humana quanto com o tratamento automatizado das informa��es;
+IV - facilidade de uso dos servi�os de governo eletr�nico; e
+V - fortalecimento da participa��o social nas pol�ticas p�blicas.
+Art. 26. O cumprimento do dever constitucional do Estado na presta��o da educa��o, em todos os n�veis de ensino, inclui a capacita��o, integrada a outras pr�ticas educacionais, para o uso seguro, consciente e respons�vel da internet como ferramenta para o exerc�cio da cidadania, a promo��o da cultura e o desenvolvimento tecnol�gico.
+Art. 27. As iniciativas p�blicas de fomento � cultura digital e de promo��o da internet como ferramenta social devem:
+I - promover a inclus�o digital;
+II - buscar reduzir as desigualdades, sobretudo entre as diferentes regi�es do Pa�s, no acesso �s tecnologias da informa��o e comunica��o e no seu uso; e
+III - fomentar a produ��o e circula��o de conte�do nacional.
+Art. 28. O Estado deve, periodicamente, formular e fomentar estudos, bem como fixar metas, estrat�gias, planos e cronogramas, referentes ao uso e desenvolvimento da internet no Pa�s.
+CAP�TULO
+IV-A
+DAS SAN��ES
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+Art. 28-A. Sem preju�zo das demais san��es c�veis,
+criminais ou administrativas, as infra��es �s normas previstas nos art.
+8�-A, art. 8�-B, art. 8�-C, art. 10 e art. 11 ficam sujeitas, conforme o
+caso, �s seguintes san��es:
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+I - advert�ncia, com indica��o de prazo para ado��o de medidas
+corretivas;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+II - multa de at� dez por cento do faturamento do grupo econ�mico
+no Pa�s em seu �ltimo exerc�cio, exclu�dos os tributos, considerados a
+condi��o econ�mica do infrator e o princ�pio da proporcionalidade entre a
+gravidade da falta e a intensidade da san��o;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+III - multa di�ria, observado o limite total a que se refere o
+inciso II;
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+IV - suspens�o tempor�ria das atividades que envolvam os atos
+previstos no art. 11; ou
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+V - proibi��o de exerc�cio das atividades que envolvam os atos
+previstos no art. 11.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 1� Na hip�tese de empresa estrangeira, responde solidariamente
+pelo pagamento da multa de que trata o caput a filial, a sucursal, o
+escrit�rio ou o estabelecimento situado no Pa�s.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 2� As san��es previstas neste artigo ser�o aplicadas pela
+autoridade administrativa, no �mbito de suas compet�ncias, isolada ou
+cumulativamente, inclusive por medida cautelar, antecedente ou incidente de
+procedimento administrativo.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+� 3� As san��es previstas neste artigo ser�o aplicadas de forma
+proporcional, de acordo com as peculiaridades do caso concreto, e depender�o
+de procedimento administrativo, assegurados a ampla defesa e o
+contradit�rio.
+(Inclu�do pela
+Medida Provis�ria n� 1.068, de 2021)
+(Rejeitada)
+CAP�TULO V
+DISPOSI��ES FINAIS
+Art. 29. O usu�rio ter� a op��o de livre escolha na utiliza��o de programa de computador em seu terminal para exerc�cio do controle parental de conte�do entendido por ele como impr�prio a seus filhos menores, desde que respeitados os princ�pios desta Lei e da
+Lei n� 8.069, de 13 de julho de 1990
+- Estatuto da Crian�a e do Adolescente.
+Par�grafo �nico. Cabe ao poder p�blico, em conjunto com os provedores de conex�o e de aplica��es de internet e a sociedade civil, promover a educa��o e fornecer informa��es sobre o uso dos programas de computador previstos no
+caput,
+bem como para a defini��o de boas pr�ticas para a inclus�o digital de crian�as e adolescentes.
+Art. 30. A defesa dos interesses e dos direitos estabelecidos nesta Lei poder� ser exercida em ju�zo, individual ou coletivamente, na forma da lei.
+Art. 31. At� a entrada em vigor da lei espec�fica prevista no � 2� do art. 19, a responsabilidade do provedor de aplica��es de internet por danos decorrentes de conte�do gerado por terceiros, quando se tratar de infra��o a direitos de autor ou a direitos conexos, continuar� a ser disciplinada pela legisla��o autoral vigente aplic�vel na data da entrada em vigor desta Lei.
+Art. 32. Esta Lei entra em vigor ap�s decorridos 60 (sessenta) dias de sua publica��o oficial.
+Bras�lia, 23 de abril de 2014; 193� da Independ�ncia e 126� da Rep�blica.
+DILMA ROUSSEFF
+Jos� Eduardo Cardozo
+Miriam Belchior
+Paulo Bernardo Silva
+Cl�lio Campolina Diniz
+Este texto n�o substitui o publicado no DOU de 24.4.2014

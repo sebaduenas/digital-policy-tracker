@@ -1,0 +1,416 @@
+L14852
+Presid�ncia da Rep�blica
+Casa Civil
+Secretaria Especial para Assuntos Jur�dicos
+LEI N�
+14.852, DE 3 DE MAIO DE 2024
+Mensagem de
+veto
+Cria o marco legal para a ind�stria de jogos eletr�nicos; e altera as
+Leis n�s 8.313, de 23 de dezembro de 1991, 8.685, de 20 de julho de
+1993, e 9.279, de 14 de maio de 1996 .
+O PRESIDENTE DA REP�BLICA
+Fa�o saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+CAP�TULO I
+DISPOSI��ES PRELIMINARES
+Art. 1� Esta Lei cria o marco legal para a ind�stria de
+jogos eletr�nicos.
+Art. 2� A fabrica��o, a importa��o, a comercializa��o, o
+desenvolvimento e o uso comercial de jogos eletr�nicos s�o regulados por
+esta Lei.
+Art. 3� S�o livres a fabrica��o, a importa��o, a
+comercializa��o, o desenvolvimento e o uso comercial de jogos eletr�nicos,
+observado o disposto no
+art. 173 da Constitui��o Federal e na legisla��o
+vigente.
+� 1�
+O Estado realizar� a classifica��o et�ria indicativa, dispensada autoriza��o
+estatal pr�via para o desenvolvimento e a explora��o dos jogos eletr�nicos
+abrangidos por esta Lei.
+� 2�
+Na realiza��o da classifica��o et�ria indicativa de jogos eletr�nicos,
+levar-se-�o em conta os riscos relacionados ao uso de mecanismos de
+microtransa��es.
+CAP�TULO II
+DOS JOGOS ELETR�NICOS
+Se��o I
+Das Defini��es, dos Princ�pios e das Diretrizes Fundamentais
+Art. 4� Relativamente aos jogos eletr�nicos, esta Lei:
+I �
+estabelece os princ�pios e as diretrizes para sua utiliza��o;
+II �
+apresenta medidas de fomento ao ambiente de neg�cios e ao aumento de oferta
+de capital para investimento em empreendedorismo inovador.
+Art.
+5� Para os efeitos desta Lei, considera-se jogo eletr�nico:
+I �
+a obra audiovisual interativa desenvolvida como programa de computador,
+conforme definido na Lei n� 9.609, de 19 de fevereiro de 1998 , em que as
+imagens s�o alteradas em tempo real a partir de a��es e intera��es do
+jogador com a interface;
+II �
+o dispositivo central e acess�rios, para uso privado ou comercial,
+especialmente dedicados a executar jogos eletr�nicos;
+III
+� o software para uso como aplicativo de celular e/ou p�gina de
+internet, jogos de console de videogames e jogos em realidade virtual,
+realidade aumentada, realidade mista e realidade estendida, consumidos por
+download ou por streaming .
+Par�grafo �nico. As promo��es comerciais ou as modalidades lot�ricas
+regulamentadas pelas Leis n�s 13.756, de 12 de dezembro de 2018 , e
+14.790,
+de 29 de dezembro de 2023 , ou qualquer tipo de jogo que ofere�a algum tipo
+de aposta, com pr�mios em ativos reais ou virtuais, ou que envolva resultado
+aleat�rio ou de progn�stico, n�o s�o considerados jogo eletr�nico, vedado �s
+empresas e aos profissionais envolvidos na produ��o ou na distribui��o
+dessas atividades beneficiar-se de alguma vantagem definida nesta Lei.
+Art.
+6� S�o princ�pios e diretrizes desta Lei:
+I �
+reconhecimento do empreendedorismo inovador em jogos eletr�nicos como vetor
+de desenvolvimento econ�mico, social, ambiental e cultural;
+II �
+fomento ao empreendedorismo inovador como meio de promo��o da produtividade
+e da competitividade da economia brasileira e de gera��o de postos de
+trabalho qualificados;
+III
+� promo��o da diversidade cultural e das fontes de informa��o, produ��o e
+programa��o;
+IV �
+respeito aos direitos fundamentais e aos valores democr�ticos;
+V �
+defesa do consumidor e educa��o e informa��o de fornecedores e consumidores
+quanto aos seus direitos e deveres;
+VI �
+prote��o integral da crian�a e do adolescente, nos termos do
+art. 5� da Lei n� 8.069, de 13 de julho de 1990 (Estatuto da Crian�a e do Adolescente);
+VII
+� preserva��o da privacidade, prote��o de dados pessoais e autodetermina��o
+informativa, nos termos da
+Lei n� 13.709, de 14 de agosto de 2018 (Lei Geral
+de Prote��o de Dados Pessoais).
+Se��o II
+Do Enquadramento das Empresas Desenvolvedoras de Jogos Eletr�nicos
+Art.
+7� Consideram-se empresas desenvolvedoras de jogos eletr�nicos as
+organiza��es empresariais e societ�rias que tenham por objetivo criar jogos
+eletr�nicos, conforme defini��o do art. 5� desta Lei.
+� 1�
+Enquadram-se como profissionais da �rea de jogos eletr�nicos, sem preju�zo
+de outras profiss�es, o artista visual para jogos, o artista de �udio para
+jogos, o designer de narrativa de jogos, o designer de jogos,
+o programador de jogos, o testador de jogos e o produtor de jogos.
+� 2�
+Aos profissionais referidos no � 1� deste artigo aplica-se, no que couber, o
+disposto nas Leis Complementares n�s 123, de 14 de dezembro de 2006 (Lei do
+Simples Nacional), e 128, de 19 de dezembro de 2008 , para fins de inscri��o
+e constitui��o na forma de microempreendedor individual (MEI), de
+microempresas e de empresas de pequeno porte.
+� 3�
+Para os fins desta Lei, considera-se:
+I �
+artista visual para jogos: profissional especializado em criar elementos
+visuais est�ticos e/ou din�micos para jogos eletr�nicos;
+II �
+artista de �udio para jogos: profissional especializado em conceber,
+projetar, desenvolver e implementar elementos sonoros para jogos
+eletr�nicos;
+III
+� designer de narrativa de jogos: profissional especializado em
+conceber, projetar, desenvolver e implementar a narrativa, a hist�ria e a
+estrutura narrativa de jogos eletr�nicos;
+IV �
+designer de jogos: profissional especializado em conceber, projetar,
+corrigir, balancear, aprimorar e expandir a experi�ncia interativa de jogos
+eletr�nicos;
+V �
+programador de jogos: profissional especializado em desenvolver a l�gica e o
+c�digo que permitem o funcionamento dos jogos eletr�nicos;
+VI �
+testador de jogos: profissional especializado em testar e avaliar jogos
+eletr�nicos em desenvolvimento, a fim de identificar falhas ou gargalos
+durante a sess�o de jogo e outros defeitos poss�veis;
+VII
+� produtor de jogos: profissional especializado em liderar e supervisionar o
+desenvolvimento de jogos eletr�nicos, desde a concep��o at� o lan�amento.
+� 4�
+A Funda��o Instituto Brasileiro de Geografia e Estat�stica (IBGE)
+disponibilizar� c�digo espec�fico na Classifica��o Nacional de Atividades
+Econ�micas (CNAE) para empresas desenvolvedoras de jogos eletr�nicos.
+Art.
+8� Para fins de aplica��o desta Lei, s�o eleg�veis para o enquadramento na
+modalidade de tratamento especial ao fomento de jogos eletr�nicos o
+empres�rio individual, as sociedades empres�rias, as sociedades
+cooperativas, as sociedades simples e os MEIs, com receita bruta de at� R$
+16.000.000,00 (dezesseis milh�es de reais) no ano-calend�rio anterior, ou de
+R$ 1.333.334,00 (um milh�o, trezentos e trinta e tr�s mil, trezentos e
+trinta e quatro reais) multiplicado pelo n�mero de meses de atividade do
+ano-calend�rio anterior, quando inferior a 12 (doze) meses,
+independentemente da forma societ�ria adotada.
+� 1�
+Para o enquadramento a que se refere o caput deste artigo, aplicam-se
+os seguintes crit�rios:
+I �
+utiliza��o de modelos de neg�cios inovadores para a gera��o de produtos ou
+servi�os, nos termos do
+inciso IV do caput do art. 2� da Lei n�
+10.973, de 2 de dezembro de 2004 ; ou
+II �
+enquadramento no regime especial Inova Simples, nos termos do
+art. 65-A da
+Lei Complementar n� 123, de 14 de dezembro de 2006 .
+� 2�
+O desenvolvimento de jogos eletr�nicos � eleg�vel para fomento em inova��o,
+em desenvolvimento de recursos humanos e em cultura.
+Se��o III
+Dos Requisitos para o Desenvolvimento de Jogos Eletr�nicos
+Art.
+9� Consideram-se ferramentas essenciais ao desenvolvimento de jogos
+eletr�nicos:
+I �
+computadores, entendidos como dispositivos eletr�nicos que executam os
+programas de computadores dedicados � cria��o de jogos;
+II �
+equipamentos especializados, comercializados ou n�o, essenciais � fabrica��o
+de jogo para uma determinada plataforma;
+III
+� programas de computadores dedicados � cria��o de jogos, com capacidade de
+gerar a vers�o execut�vel do jogo para uma ou mais plataformas;
+IV �
+programas de computadores e licen�as necess�rios ao time de especialidades
+multidisciplinares na constru��o do jogo;
+V � SDK ( software development kit ).
+� 1�
+Para os efeitos desta Lei, SDKs ( software development kits ), tamb�m
+denominados DevKits, s�o consoles de videogames e/ou prot�tipos de
+equipamentos para o desenvolvimento de jogos eletr�nicos, criados pelas
+empresas que produzem consoles comerciais, na qualidade de ferramentas
+cedidas pelas empresas aos desenvolvedores cadastrados e com contratos de
+responsabilidade assinados.
+� 2�
+O poder p�blico regulamentar� o desembara�o aduaneiro e as taxas de
+importa��o incidentes, com vistas a fomentar a inova��o no setor de empresas
+desenvolvedoras de jogos eletr�nicos.
+Se��o IV
+Do Uso de Jogos Eletr�nicos
+Art.
+10. Os jogos eletr�nicos, observada sua classifica��o et�ria indicativa,
+podem ser utilizados para entretenimento ou para qualquer outra atividade
+l�cita, inclusive:
+I �
+para fins de entretenimento ou contempla��o art�stica;
+II �
+em ambiente escolar, para fins did�ticos, em conformidade com a Base
+Nacional Comum Curricular (BNCC), e de recrea��o, observadas as disposi��es
+normativas dos sistemas de ensino e os regimentos escolares;
+III
+� para fins terap�uticos;
+IV �
+para fins de treinamento e capacita��o, por meio de simula��o ou emula��o de
+a��o em ambiente institucional;
+V �
+para fins de comunica��o e propaganda.
+� 1�
+O Poder Executivo regulamentar� o disposto nos incisos III e IV do caput
+deste artigo.
+� 2�
+O poder p�blico poder� promover pol�ticas p�blicas para a utiliza��o de
+jogos eletr�nicos nas escolas p�blicas, no �mbito da Pol�tica Nacional de
+Educa��o Digital, de que trata a Lei n� 14.533, de 11 de janeiro de 2023 .
+� 3�
+O poder p�blico poder� criar reposit�rio de jogos eletr�nicos financiados
+com recursos p�blicos, com uso livre por institui��es p�blicas de ensino,
+pesquisa e sa�de.
+� 4�
+A utiliza��o de jogos eletr�nicos para fins de comunica��o e propaganda
+dever� observar o disposto na Lei n� 8.069, de 13 de julho de 1990 (Estatuto
+da Crian�a e do Adolescente).
+Se��o V
+Do Fomento � Pesquisa, ao Desenvolvimento, � Inova��o e � Cultura
+Art.
+11. Aplica-se �s empresas desenvolvedoras de jogos eletr�nicos, constitu�das
+na forma do art. 7� desta Lei, o disposto na
+Lei n� 8.685, de 20 de julho de
+1993.
+Par�grafo �nico. Para fins do disposto no caput deste artigo, o
+investimento em desenvolvimento de jogos eletr�nicos � considerado
+investimento em pesquisa, desenvolvimento, inova��o e cultura.
+Art.
+12. O desenvolvimento de jogos eletr�nicos � considerado segmento cultural
+para fins da Lei n� 8.313, de 23 de dezembro de 1991 .
+Se��o VI
+Do Apoio � Forma��o de Recursos Humanos e Espa�os Formativos
+Art.
+13. O Estado apoiar� a forma��o de recursos humanos para a ind�stria de
+jogos eletr�nicos, nos termos do ordenamento jur�dico vigente.
+� 1�
+O apoio poder� ser feito, entre outros, por meio de:
+I �
+incentivo � cria��o de cursos de educa��o profissional e tecnol�gica e de
+cursos superiores direcionados a jogos eletr�nicos;
+II �
+cria��o ou apoio a oficinas profissionalizantes direcionadas a jogos
+eletr�nicos;
+III
+� cria��o ou apoio a cursos de forma��o profissional t�cnica e tecnol�gica e
+de especializa��o destinados aos profissionais que desenvolvem jogos
+eletr�nicos;
+IV �
+incentivo � pesquisa, ao desenvolvimento e ao aperfei�oamento de jogos
+eletr�nicos direcionados � educa��o, inclusive mediante a cria��o de
+plataforma de jogos eletr�nicos educativos.
+� 2�
+Os cursos de capacita��o e forma��o poder�o ser feitos de forma presencial
+ou a dist�ncia.
+� 3�
+Aos profissionais referidos no � 1� do art. 7� desta Lei n�o ser� exigida
+qualifica��o especial ou licen�a do Estado para o exerc�cio da profiss�o.
+� 4�
+Observados os direitos das crian�as e dos adolescentes e a legisla��o
+trabalhista, os adolescentes ser�o incentivados �s profiss�es referidas no �
+1� do art. 7� desta Lei com vistas � programa��o e ao desenvolvimento de
+jogos eletr�nicos.
+Art.
+14. O poder p�blico poder� estabelecer incentivos para a cria��o de espa�os
+formativos de recursos humanos especializados para o setor de jogos
+eletr�nicos.
+CAP�TULO III
+DA PROTE��O DAS CRIAN�AS E DOS
+ADOLESCENTES
+Art.
+15. A concep��o, o design , a gest�o e o funcionamento dos jogos
+eletr�nicos de acesso por crian�as e adolescentes devem ter como par�metro o
+superior interesse da crian�a e do adolescente, de acordo com a legisla��o
+vigente.
+� 1�
+Nos jogos eletr�nicos a que se refere o caput deste artigo dever�o
+ser adotadas medidas adequadas e proporcionais para mitigar os riscos aos
+direitos de crian�as e adolescentes que possam advir da concep��o ou do
+funcionamento desses jogos, bem como para fomentar a efetiva��o de seus
+direitos relacionados ao ambiente digital.
+� 2�
+Para o adequado cumprimento do disposto no caput e no � 1� deste
+artigo, os desenvolvedores de jogos eletr�nicos devem envidar esfor�os para
+criar canais de escuta e di�logo com crian�as e adolescentes.
+� 3�
+Os fornecedores de jogos eletr�nicos devem garantir que os seus servi�os,
+sistemas e comunidades oficiais relacionados n�o fomentem ou gerem ambiente
+prop�cio para:
+I �
+quaisquer formas de neglig�ncia, discrimina��o, explora��o, viol�ncia,
+crueldade ou opress�o contra crian�as e adolescentes;
+II �
+discrimina��o de crian�as e adolescentes com defici�ncia, devendo
+implementar medidas t�cnicas que garantam o desenho universal e a
+acessibilidade do servi�o a todas as crian�as e adolescentes, nos termos da
+Lei n� 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Defici�ncia).
+Art.
+16. Nos jogos eletr�nicos direcionados a crian�as e adolescentes que
+possibilitem a intera��o entre usu�rios por meio de mensagens de texto,
+�udio, v�deo ou troca de conte�dos, de forma s�ncrona ou ass�ncrona, deve
+ser garantida a aplica��o de salvaguardas a direitos de crian�as e
+adolescentes, com a disponibiliza��o de, no m�nimo:
+I �
+sistema para recebimento e processamento de reclama��es e den�ncias de
+abusos e irregularidades cometidos por usu�rios;
+II �
+informa��es aos usu�rios denunciantes, em prazo razo�vel, sobre o resultado
+das den�ncias realizadas;
+III
+� instrumentos para solicitar revis�o de decis�o e revers�o de penalidades
+impostas;
+IV �
+transpar�ncia social sobre:
+a) a
+quantidade de den�ncias recebidas e as categorias de viola��es cometidas;
+b) o
+detalhamento dos m�todos empregados para an�lise de den�ncias, remo��o de
+conte�dos e gerenciamento de comunidades;
+c) o
+detalhamento dos m�todos empregados para mitiga��o de riscos e aplica��o de
+salvaguardas a direitos de crian�as e adolescentes que utilizam a
+plataforma;
+d)
+as san��es a serem aplicadas aos usu�rios infratores, inclu�das as medidas
+utilizadas para impedir que os usu�rios criem contas adicionais em caso de
+banimento;
+e)
+as a��es proativas adotadas para conscientiza��o, educa��o e promo��o de
+direitos fundamentais na comunidade e nos mecanismos internos;
+V -
+veda��o, em seus termos de uso, de pr�ticas, de trocas de conte�dos e de
+intera��es que violem direitos de crian�as e adolescentes, respeitada a
+legisla��o brasileira;
+VI �
+atualiza��o e manuten��o de ferramentas de supervis�o e de modera��o
+parental que respeitem o desenvolvimento progressivo das capacidades e a
+autonomia das crian�as e dos adolescentes usu�rios, garantindo, ainda, seu
+direito � informa��o sobre a ativa��o e os par�metros do mecanismo de
+supervis�o;
+VII
+� transpar�ncia e atualiza��o e melhoria cont�nuas dos mecanismos de
+prote��o contra risco de contato com outros usu�rios, garantindo, inclusive,
+a possibilidade de desativa��o de mecanismos de intera��o;
+VIII
+� informa��es referentes ao disposto nos incisos I, II e III deste caput
+em l�ngua portuguesa e em linguagem simples e de f�cil compreens�o para
+crian�as, adolescentes e seus respons�veis.
+Art.
+17. As ferramentas de compras dentro de jogos eletr�nicos devem garantir,
+por padr�o, a restri��o da realiza��o de compras e de transa��es comerciais
+por crian�as, quando aplic�vel, de forma a garantir o consentimento dos
+respons�veis.
+CAP�TULO IV
+DAS ALTERA��ES LEGISLATIVAS
+Art.
+18. A Lei n� 8.313, de 23 de dezembro de 1991, passa a vigorar com as
+seguintes altera��es:
+�Art. 1�
+..................................................................................
+.........................................................................................................
+X �
+estimular a produ��o ou a coprodu��o de jogos eletr�nicos brasileiros
+independentes.� (NR)
+�Art. 18.
+.................................................................................
+.........................................................................................................
+� 3�
+.......................................................................................
+.........................................................................................................
+i)
+produ��o ou coprodu��o de jogos eletr�nicos brasileiros independentes, bem
+como forma��o de profissionais do setor.� (NR)
+�Art. 25.
+.................................................................................
+.........................................................................................................
+X �
+produ��o ou coprodu��o de jogos eletr�nicos brasileiros independentes, bem
+como forma��o de profissionais do setor.
+................................................................................................
+� (NR)
+Art.
+19. (VETADO).
+Art.
+20. O caput do art. 2� da Lei n� 9.279, de 14 de maio de 1996 , passa
+a vigorar acrescido do seguinte inciso VI:
+�Art. 2�
+..................................................................................
+.........................................................................................................
+VI �
+concess�o de registro para jogos eletr�nicos.� (NR)
+CAP�TULO V
+DISPOSI��ES FINAIS
+Art.
+21. Esta Lei entra em vigor na data de sua publica��o.
+Bras�lia, 3 de maio
+de 2024; 203 o da Independ�ncia e 136 o da
+Rep�blica.
+LUIZ IN�CIO LULA DA SILVA
+Margareth Menezes da Purifica��o Costa
+Rita Cristina de Oliveira
+Fernando Haddad
+Camilo Sobreira de Santana
+Simone Nassar Tebet
+Jorge Rodrigo Ara�jo Messias
+Este texto n�o substitui o publicado no DOU de
+6.5.2024.

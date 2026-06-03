@@ -1,0 +1,329 @@
+[
+  {
+    "slug": "bo/decreto-supremo-2514-creacion-agetic",
+    "source": "https://agetic.gob.bo/sites/default/files/2025-02/decreto-supremo-2514-creacion-AGETIC.pdf",
+    "reason": "pdf_extract_failed"
+  },
+  {
+    "slug": "bo/proyecto-ley-178-inteligencia-artificial",
+    "source": "https://www.senado.gob.bo/area-legislativa/proyectos-de-ley-aprobados",
+    "reason": "extracted_too_short",
+    "details": "19 chars"
+  },
+  {
+    "slug": "bo/proyecto-ley-estrategia-nacional-ciberseguridad",
+    "source": "https://www.senado.gob.bo/prensa/noticias/aprueban-pl-que-declara-prioridad-nacional-la-elaboraci%C3%B3n-e-implementaci%C3%B3n-de-la",
+    "reason": "extracted_too_short",
+    "details": "19 chars"
+  },
+  {
+    "slug": "bo/resolucion-bcb-082-2024-activos-virtuales",
+    "source": "https://www.bcb.gob.bo/webdocs/01_resoluciones/RD%20082%202024.pdf",
+    "reason": "pdf_extract_failed"
+  },
+  {
+    "slug": "br/resolucao-conjunta-bcb-cmn-1-2020-open-banking",
+    "source": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20Conjunta&numero=1",
+    "reason": "extracted_too_short",
+    "details": "23 chars"
+  },
+  {
+    "slug": "cl/proyecto-ley-ia-boletin-16821-19",
+    "source": "https://www.camara.cl/legislacion/proyectosdeley/tramitacion.aspx?prmID=17429&prmBOLETIN=16821-19",
+    "reason": "http_403"
+  },
+  {
+    "slug": "cl/proyecto-imitaciones-digitales-ia-boletin-17795-19",
+    "source": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18447&prmBOLETIN=17795-19",
+    "reason": "http_403"
+  },
+  {
+    "slug": "cl/proyecto-redes-sociales-menores-boletin-18277-04",
+    "source": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18954&prmBOLETIN=18277-04",
+    "reason": "http_403"
+  },
+  {
+    "slug": "cl/proyecto-sello-distintivo-ia-boletin-17810-19",
+    "source": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18461&prmBOLETIN=17810-19",
+    "reason": "http_403"
+  },
+  {
+    "slug": "cl/proyecto-sello-rastreable-ia-boletin-17618-19",
+    "source": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=18265&prmBOLETIN=17618-19",
+    "reason": "http_403"
+  },
+  {
+    "slug": "co/conpes-3975-politica-nacional-ia",
+    "source": "https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3975.pdf",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "cr/proyecto-24007-ciberseguridad",
+    "source": "https://www.asamblea.go.cr/Centro_de_informacion/Consultas_SIL/Pginas/Detalle%20Proyectos%20de%20Ley.aspx?Numero_Proyecto=24007",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "cu/politica-transformacion-digital-agenda-ia-2024",
+    "source": "https://www.artemisa.gob.cu/images/Articulos/Politica_de_Transformacion_Digital_de_Cuba_Agenda_Digital_y_Estrategia.pdf",
+    "reason": "network",
+    "details": "curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)\n"
+  },
+  {
+    "slug": "do/decreto-230-18-estrategia-ciberseguridad",
+    "source": "https://cncs.gob.do/wp-content/uploads/2020/02/Decreto-230-18.pdf",
+    "reason": "pdf_extract_failed"
+  },
+  {
+    "slug": "do/proyecto-ley-ciberseguridad-2024",
+    "source": "https://www.senadord.gob.do/el-senado-aprueba-en-segunda-lectura-proyecto-de-ley-sobre-ciberseguridad/",
+    "reason": "extracted_too_short",
+    "details": "185 chars"
+  },
+  {
+    "slug": "do/proyecto-ley-inteligencia-artificial-2024",
+    "source": "https://www.senadord.gob.do/comision-de-educacion-superior-ciencia-y-tecnologia-analiza-proyecto-de-ley-que-regula-sistema-de-inteligencia-artificial-ia/",
+    "reason": "extracted_too_short",
+    "details": "185 chars"
+  },
+  {
+    "slug": "ec/adhesion-convenio-budapest",
+    "source": "https://www.cancilleria.gob.ec/2024/12/13/deposito-del-instrumento-de-ratificacion-del-convenio-de-budapest/",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "co/estrategia-nacional-seguridad-digital-2025-2027",
+    "source": "https://www.mintic.gov.co/portal/715/articles-403023_recurso_2.pdf",
+    "reason": "network",
+    "details": "curl: (28) Operation timed out after 45001 milliseconds with 8843410 out of 22330400 bytes received\n"
+  },
+  {
+    "slug": "ec/ley-organica-transparencia-acceso-informacion",
+    "source": "https://www.dpe.gob.ec/wp-content/dpedocumentoslotaip/LOTAIPyReglamento-2015.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "gt/acuerdo-13-2018-factura-electronica-fel",
+    "source": "https://portal.sat.gob.gt/portal/descarga/1897/normativa-sat/25216/acuerdo-directorio-13-2018-fel.pdf",
+    "reason": "http_403"
+  },
+  {
+    "slug": "gt/acuerdo-gubernativo-106-2024-comite-modernizacion-transformacion-digital",
+    "source": "https://gae.gob.gt/wp-content/uploads/2025/03/Acuerdo-Gubernativo-106-2024.pdf",
+    "reason": "pdf_extract_failed"
+  },
+  {
+    "slug": "ec/reglamento-ley-organica-proteccion-datos-personales",
+    "source": "https://www.telecomunicaciones.gob.ec/wp-content/uploads/2023/11/Decreto-Ejecutivo-No.-904.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "gt/iniciativa-6657-prodigi-deepfakes-ia",
+    "source": "https://www.congreso.gob.gt/seccion_informacion_legislativa/iniciativas",
+    "reason": "extracted_too_short",
+    "details": "0 chars"
+  },
+  {
+    "slug": "gt/ley-general-telecomunicaciones-1996",
+    "source": "https://www.congreso.gob.gt/detalle_pdf/decretos/897",
+    "reason": "extracted_too_short",
+    "details": "0 chars"
+  },
+  {
+    "slug": "gt/resolucion-jm-98-2025-riesgo-tecnologico",
+    "source": "https://www.sib.gob.gt/web/sib/",
+    "reason": "http_403"
+  },
+  {
+    "slug": "do/ley-153-98-telecomunicaciones",
+    "source": "https://indotel.gob.do/wp-content/uploads/2022/10/ley-general-de-telecomunicaciones-153-98-d.pdf",
+    "reason": "network",
+    "details": "curl: (28) Operation timed out after 45001 milliseconds with 3931444 out of 20880819 bytes received\n"
+  },
+  {
+    "slug": "mx/decreto-creacion-atdt-2024",
+    "source": "https://www.dof.gob.mx/nota_detalle.php?codigo=5744005&fecha=28/11/2024",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "ht/loi-signature-electronique-2017",
+    "source": "https://www.omrh.gouv.ht/Media/Publications/3-Decrets/Decret%20portant%20sur%20la%20signature%20%C3%A9lectronique.pdf",
+    "reason": "pdf_extract_failed"
+  },
+  {
+    "slug": "mx/iniciativa-ley-federal-ia",
+    "source": "https://comisiones.senado.gob.mx/inteligencia_artificial/",
+    "reason": "extracted_too_short",
+    "details": "0 chars"
+  },
+  {
+    "slug": "mx/iniciativa-ley-federal-ciberseguridad",
+    "source": "https://infosen.senado.gob.mx/sgsp/gaceta/65/3/2024-02-14-1/assets/documentos/Inic_Morena_diversos_senadores_art_211_CPF.pdf",
+    "reason": "extracted_too_short",
+    "details": "0 chars"
+  },
+  {
+    "slug": "mx/codigo-penal-federal-delitos-informaticos",
+    "source": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "mx/ley-federal-proteccion-consumidor",
+    "source": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "mx/ley-fintech-instituciones-tecnologia-financiera",
+    "source": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "mx/ley-firma-electronica-avanzada-2012",
+    "source": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "mx/ley-general-transparencia-acceso-informacion-2025",
+    "source": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "mx/ley-materia-telecomunicaciones-radiodifusion-2025",
+    "source": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "mx/ley-federal-telecomunicaciones-radiodifusion",
+    "source": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTR.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "mx/ley-federal-derecho-autor",
+    "source": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "mx/status-convenio-budapest",
+    "source": "https://www.coe.int/es/web/conventions/full-list?module=treaty-detail&treatynum=185",
+    "reason": "http_403"
+  },
+  {
+    "slug": "mx/lfpdppp-ley-federal-proteccion-datos-particulares",
+    "source": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15001 milliseconds\n"
+  },
+  {
+    "slug": "mx/lgpdppso-ley-general-proteccion-datos-sujetos-obligados",
+    "source": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "mx/reforma-constitucional-simplificacion-organica-2024",
+    "source": "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_268_20dic24.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15002 milliseconds\n"
+  },
+  {
+    "slug": "ni/ley-729-firma-electronica",
+    "source": "http://legislacion.asamblea.gob.ni/SILEG/Gacetas.nsf/5eea6480fc3d3d90062576e300504635/cbd27d56d8932c1d06257790005a8e56/$FILE/Ley%20No.%20729,%20Ley%20de%20firma%20electr%C3%B3nica.pdf",
+    "reason": "pdf_extract_failed"
+  },
+  {
+    "slug": "ni/ley-1072-2021-activos-virtuales-vasp",
+    "source": "https://www.siboif.gob.ni/sites/default/files/documentos/leyes/ley_1072.pdf",
+    "reason": "network",
+    "details": "curl: (28) Connection timed out after 15017 milliseconds\n"
+  },
+  {
+    "slug": "pa/decreto-709-csirt-panama",
+    "source": "https://cert.pa/wp-content/uploads/2015/09/Decreto-Ejecutivo-no-709.pdf",
+    "reason": "extracted_too_short",
+    "details": "141 chars"
+  },
+  {
+    "slug": "pa/ley-82-firma-electronica-cualificada",
+    "source": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/2010/2012/LEY/Administrador%20Legispan_27160_2012_11_9_ASAMBLEA%20NACIONAL_82.pdf",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "pa/ley-81-proteccion-datos",
+    "source": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/2010/2019/LEY/Administrador%20Legispan_28743-A_2019_3_29_ASAMBLEA%20NACIONAL_81.pdf",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "pe/decreto-legislativo-1412-gobierno-digital",
+    "source": "https://busquedas.elperuano.pe/dispositivo/NL/1691026-1",
+    "reason": "extracted_too_short",
+    "details": "162 chars"
+  },
+  {
+    "slug": "pe/ley-30096-delitos-informaticos",
+    "source": "https://busquedas.elperuano.pe/normaslegales/ley-de-delitos-informaticos-ley-n-30096-1003117-1/",
+    "reason": "extracted_too_short",
+    "details": "141 chars"
+  },
+  {
+    "slug": "sv/ley-ciberseguridad-143",
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/D056D9A1-299D-4188-941A-9C3B5898D3F3.pdf",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "sv/ley-bitcoin-decreto-57",
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/43DA8049-AA39-4DA8-B892-437B2DD27C1C.pdf",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "sv/ley-comercio-electronico-463",
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/BAA0E931-E117-487D-8900-A1D9876D5FBE.pdf",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "sv/ley-emision-activos-digitales-643",
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/BED5A3F8-8937-4547-A291-CE06802B0B23.pdf",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "sv/ley-fomento-ia-234",
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/277EFC88-1C8D-4ACD-BE44-9DAFD64C6797.pdf",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "sv/ley-proteccion-datos-144",
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/7A4FBD85-7E1B-46BE-9408-6FC549E53E00.pdf",
+    "reason": "network",
+    "details": "curl: (60) SSL certificate problem: unable to get local issuer certificate\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above.\n"
+  },
+  {
+    "slug": "uy/convenio-marco-consejo-europa-ia",
+    "source": "https://www.coe.int/es/web/portal/-/uruguay-signs-council-of-europe-s-global-ai-treaty",
+    "reason": "http_403"
+  },
+  {
+    "slug": "ve/decreto-constituyente-criptoactivos-petro",
+    "source": "http://www.minci.gob.ve/wp-content/uploads/2019/01/Gaceta-Oficial-Decreto-Constituyente-sobre-el-Sistema-Integral-de-Criptoactivos.pdf",
+    "reason": "network",
+    "details": "curl: (6) Could not resolve host: www.minci.gob.ve\n"
+  }
+]

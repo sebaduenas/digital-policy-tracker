@@ -1,0 +1,958 @@
+• Bolivia: Ley General de telecomunicaciones, tecnologías de información y comunicación, 8 de agosto de 2011
+Aumentar el tamaño del texto Reducir el tamaño del texto Ver el documento PDF Ver el documento sin formato Ficha Técnica Contenido Enlaces con otros documentos Comentar el contenido Etiquetar o categorizar la norma Compartir la norma en las redes sociales Sugerir mejoras en el documento Enviar esta norma por correo electrónico Imprimir la norma Cerrar la ventana
+Conectarse al sistema Suscribirse a LexiVox
+Contenido
+Bolivia: Ley General de telecomunicaciones, tecnologías de información y comunicación, 8 de agosto de 2011
+Título I - Disposiciones generales
+Título II - Competencias y atribuciones del nivel central del Estado y las entidades territoriales autónomas
+Capítulo Único - Competencias y atribuciones del nivel central del Estado y las entidades territoriales autónomas
+Título III - Telecomunicaciones
+Capítulo Primero - Espectro radioeléctrico
+Capítulo Segundo - Autoridad de regulación y fiscalización de telecomunicaciones y transportes
+Capítulo Tercero - Comunicación vía satélite
+Capítulo Cuarto - Infraestructura de telecomunicaciones
+Capítulo Quinto - Autorizaciones y contratos para la prestación de servicios de telecomunicaciones y tecnologías de información y comunicación
+Capítulo Sexto - Revocatoria y transferencia
+Capítulo Séptimo - Régimen tarifario
+Capítulo Octavo - Interconexión y acceso
+Capítulo Noveno - Servicios públicos sobre internet
+Capítulo Décimo - Numeración
+Capítulo Onceavo - Derechos y obligaciones de las usuarias y usuarios
+Capítulo Doceavo - Derechos y obligaciones de los operadores y proveedores
+Capítulo Treceavo - Obligaciones económicas de los operadores y proveedores
+Capítulo Catorceavo - Telecomunicaciones de inclusión social
+Capítulo Quinceavo - Administración y registro de los nombres del dominio ‘.bo’
+Título IV - Desarrollo de contenidos y aplicaciones de tecnologías de información y comunicación
+Capítulo Primero - Las tecnologías de la información y comunicación en el Estado Plurinacional
+Capítulo Segundo - Gobierno electrónico y software libre
+Capítulo Tercero - Documentos y firmas digitales
+Capítulo Cuarto - Comercio electrónico
+Capítulo Quinto - Correo electrónico
+Título V - Infracciones y sanciones
+Título VI - Servicio postal
+Capítulo Primero - Servicio postal
+Capítulo Segundo - Servicio postal universal
+Capítulo Tercero - Operador público designado, licencia y regulación
+Capítulo Cuarto - Infracciones y sanciones
+Capítulo Quinto - Derechos de las usuarias y usuarios del servicio postal
+Título VII - Participación y control social en telecomunicaciones, tecnologías de información y comunicación y servicio postal
+Título VIII - Otras disposiciones
+Ficha Técnica (DCMI)
+Enlaces con otros documentos
+Abroga a
+Véase también
+Referencias a esta norma
+Deroga a
+Derogada por
+Nota importante
+Bolivia: Ley General de telecomunicaciones, tecnologías de información y comunicación, 8 de agosto de 2011
+LEY DE 8 DE AGOSTO DE 2011
+EVO MORALES AYMA
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA
+Por cuanto, la Asamblea Legislativa Plurinacional, ha sancionado la siguiente Ley:
+LA ASAMBLEA LEGISLATIVA PLURINACIONAL,
+DECRETA:
+LEY GENERAL DE TELECOMUNICACIONES, TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
+Título I
+Disposiciones generales
+Artículo 1°.- (Objeto) La presente Ley tiene por objeto establecer el régimen general de telecomunicaciones y tecnologías de información y comunicación, del servicio postal y el sistema de regulación, en procura del vivir bien garantizando el derecho humano individual y colectivo a la comunicación, con respeto a la pluralidad económica, social, jurídica, política y cultural de la totalidad de las bolivianas y los bolivianos, las naciones y pueblos indígena originario campesinos, y las comunidades interculturales y afrobolivianas del Estado Plurinacional de Bolivia.
+Artículo 2°.- (Objetivos) La presente Ley tiene por objetivos:
+• Garantizar la distribución equitativa y el uso eficiente del recurso natural y limitado del espectro radioeléctrico.
+• Asegurar el ejercicio del derecho al acceso universal y equitativo a los servicios de telecomunicaciones, tecnologías de información y comunicación, así como del servicio postal.
+• Garantizar el desarrollo y la convergencia de redes de telecomunicaciones y tecnologías de información y comunicación.
+• Precautelar la conservación del medio ambiente mediante el aprovechamiento responsable y planificado del espectro radioeléctrico, la instalación adecuada de infraestructura para el bienestar de las generaciones actuales y futuras.
+• Promover el uso de las tecnologías de información y comunicación para mejorar las condiciones de vida de las bolivianas y bolivianos.
+Artículo 3°.- (Marco constitucional)
+• El espectro electromagnético es un recurso natural, de carácter estratégico, limitado y de interés público, del cual es parte el espectro radioeléctrico, por lo que en todo momento el pueblo boliviano mantendrá la propiedad y el dominio sobre el mismo y el Estado lo administrará en su nivel central.
+• El Estado es responsable, en todos sus niveles de gobierno, de la provisión de los servicios de telecomunicaciones y tecnologías de información y comunicación, así como del servicio postal, a través de entidades públicas, mixtas, cooperativas, comunitarias y en el caso de telecomunicaciones también a través de empresas privadas, mediante autorizaciones o contratos en el marco de la Constitución Política del Estado.
+Artículo 4°.- (Ámbito de aplicación) La presente Ley se aplica a:
+• Personas naturales o jurídicas, públicas o privadas, nacionales o extranjeras, cooperativas y comunitarias que realicen actividades y presten servicios de telecomunicaciones y tecnologías de información y comunicación, originadas, en tránsito o terminadas en el territorio, así como del servicio postal en el Estado Plurinacional de Bolivia.
+• Entidades territoriales autónomas departamentales, municipales e indígena originario campesinas.
+Artículo 5°.- (Principios) El sector de telecomunicaciones y tecnologías de información y comunicación y del servicio postal se regirá por los siguientes principios:
+Acceso universal El Estado, en todos sus niveles de gobierno, promoverá el derecho al acceso universal a las telecomunicaciones y tecnologías de información y comunicación, así como al servicio postal, para todas y todos los habitantes del Estado Plurinacional de Bolivia, en ejercicio de sus derechos, relacionados principalmente a la comunicación, la educación, el acceso al conocimiento, la ciencia, la tecnología y la cultura.
+Asequibilidad Los servicios de telecomunicaciones y tecnologías de información y comunicación así como el servicio postal, deberán ser prestados con precios asequibles a todos los habitantes del Estado Plurinacional de Bolivia.
+Calidad Los servicios de telecomunicaciones y tecnologías de información y comunicación, así como el servicio postal, deben responder a indicadores de calidad definidos en estándares nacionales e internacionales.
+Continuidad Los servicios de telecomunicaciones y tecnologías de información y comunicación, así como el servicio postal, deben prestarse en forma permanente y sin interrupciones, salvo los casos previstos por norma.
+Inviolabilidad Las conversaciones o comunicaciones privadas efectuadas a través del uso de telecomunicaciones y tecnologías de información y comunicación, así como del servicio postal, son inviolables y secretas, no pudiendo ser interceptadas, interferidas, obstruidas, alteradas, desviadas, utilizadas, publicadas o divulgadas, salvo en los casos determinados por Ley.
+Innovación tecnológica El Estado promoverá el desarrollo de tecnología propia en el área de las telecomunicaciones y tecnologías de información y comunicación.
+Neutralidad tecnológica El Estado fomentará la libre adopción de tecnologías, en el marco de la soberanía nacional y teniendo en cuenta recomendaciones, conceptos y normativas de organismos internacionales competentes e idóneos en la materia.
+Plurinacionalidad El Estado está conformado por la totalidad de las bolivianas y los bolivianos, las naciones y pueblos indígena originario campesinos, y las comunidades interculturales, y afrobolivianas que en conjunto constituyen el pueblo boliviano.
+Protección del Medio Ambiente El desarrollo y explotación de los servicios de telecomunicaciones y tecnologías de información y comunicación, deberá realizarse en armonía con el medio ambiente, debiendo los operadores y proveedores cumplir con la legislación ambiental y con los derechos de la Madre Tierra.
+Solidaridad La prestación de servicios de telecomunicaciones y tecnologías de información y comunicación, así como el servicio postal fomentará la adopción de mecanismos para lograr el acceso a los servicios de sectores con menores ingresos y grupos con necesidades especiales, buscando calidad y precios asequibles.
+Artículo 6°.- (Definiciones)
+• A los fines de la presente Ley, se adoptan las siguientes definiciones principales, sin perjuicio de las definiciones técnicas específicas que se contemplan.
+II.
+Respecto a telecomunicaciones y tecnologías de información y comunicación:
+Acceso inalámbrico fijo Son aplicaciones de acceso inalámbrico en la que los lugares del punto de conexión de la usuaria o usuario final y el punto de acceso a la red que se conectará con la usuaria o usuario final son fijos y utiliza frecuencias establecidas en el Plan Nacional de Frecuencias para aplicaciones fijas. Asimismo, la usuaria o usuario final podrá tener cobertura restringida al límite mínimo de cobertura de la red (radiobase o celda) que corresponda al lugar donde se instalará el terminal de usuario y el mismo no debe funcionar con más de una estación radiobase.
+Acceso inalámbrico móvil Son aplicaciones de acceso inalámbrico en la que el lugar del punto de conexión de la usuaria o usuario final es móvil y utiliza frecuencias establecidas en el Plan Nacional de Frecuencias para aplicaciones móviles.
+Autorización Es el acto administrativo que habilita al operador o proveedor para operación de redes, la prestación de servicios y el uso de frecuencias electromagnéticas, cuando cumple los requisitos establecidos y responde a los planes aprobados por el Ministerio del sector.
+Convergencia tecnológica Desarrollo tecnológico que tiende a aglutinar varios o todos los servicios de telecomunicaciones y tecnologías de información y comunicación a través de un solo medio, equipo o instrumento de recepción y, en su caso de transmisión.
+Espectro radioeléctrico Es el conjunto de frecuencias del espectro electromagnético usadas para los servicios de radiodifusión, de telecomunicaciones y tecnologías de información y comunicación.
+Estación espacial Es un satélite equipado para proveer servicios de telecomunicaciones entre puntos terrestres. Las estaciones espaciales pueden ser geoestacionarias o no geoestacionarias.
+Estaciones terrenas Son equipos terrestres equipados para recibir, procesar y transmitir señales a través de una estación espacial.
+Estaciones terrestres receptoras Son estaciones que únicamente reciben señales desde estaciones espaciales, pero que no pueden transmitir.
+Interferencia perjudicial Es la emisión, radiación o inducción de frecuencia electromagnética que específicamente degrada, obstruye o interrumpe la provisión de un servicio autorizado o la operación de una red autorizada.
+Operador Es la persona natural o jurídica, pública o privada, cooperativa o comunitaria, que administra, controla, explota y mantiene una red de telecomunicaciones y tecnologías de información y comunicación con la autorización respectiva.
+Proveedor de servicios Es la persona natural o jurídica, pública o privada, cooperativa o comunitaria, autorizada para prestar servicios de telecomunicaciones y tecnologías de información y comunicación, a las usuarias y usuarios.
+Radioaficionado Es la persona natural, autorizada para realizar actividades de radio comunicación sin fines de lucro a través de bandas y frecuencias autorizadas, según la definición adoptada por la Unión Internacional de Telecomunicaciones – UIT.
+Recurso Órbita Espectro – ROE Es el recurso natural constituido por la órbita de los satélites geoestacionarios u otras órbitas de satélites y el espectro de frecuencias radioeléctricas atribuido o adjudicado a los servicios de radiocomunicaciones por satélite por la Unión Internacional de Telecomunicaciones – UIT.
+Red Son las instalaciones que en su conjunto establecen conexiones o comunicaciones entre dos o más puntos para conducir símbolos, señales, textos, imágenes, voz, sonidos, datos, información de cualquier naturaleza u otro tipo de señales electrónicas, mediante líneas físicas, ondas electromagnéticas, medios ópticos u otro tipo de conexión. Los equipos y programas son parte de la red. Las redes podrán ser: red pública, red privada u otras.
+Red departamental Es aquella red de telecomunicaciones y tecnologías de información y comunicación, autorizada a operar exclusivamente en un departamento.
+Red nacional Es aquella red de telecomunicaciones y tecnologías de información y comunicación, autorizada a operar en todo el territorio nacional o en más de un departamento.
+Red privada Es una infraestructura de telecomunicaciones operada por una o varias personas individuales o colectivas para su uso exclusivo, sin fin comercial, con el propósito de conectar o comunicar instalaciones de su propiedad o bajo su control. Esta red no está interconectada con una red pública dentro el territorio nacional o en el extranjero.
+Red pública Es aquella utilizada para prestar servicios de telecomunicaciones y tecnologías de información y comunicación al público en general, a la que se conectan equipos terminales de las usuarias y los usuarios a través de determinados puntos terminales.
+Segmento espacial Es la capacidad de comunicación en uno o varios satélites de comunicaciones, las instalaciones y equipos de seguimiento, telemetría, telemando, control, comprobación y demás conexos necesarios para el funcionamiento de dichos satélites correspondiente a las estaciones de control y monitoreo.
+Segmento terreno Está constituido por todas las instalaciones terrenas necesarias para la prestación de los servicios de telecomunicaciones y tecnologías de información y comunicación por satélite.
+Servicios de telecomunicaciones Son aquellos cuya provisión y prestación el Estado garantiza a los habitantes para el ejercicio del derecho al acceso universal a las telecomunicaciones y tecnologías de información y comunicación.
+Servicio de acceso a internet Es el servicio al público de acceso a la red internet que se presta a usuarias y usuarios conectados a la red pública mediante equipo terminal fijo o móvil, utilizando línea física o frecuencias electromagnéticas.
+Servicio de estación espacial Es la provisión u operación de canales de un transpondedor satelital para proveer servicios de telecomunicaciones a cualquier punto o puntos del área de servicio autorizada.
+Servicio de estación terrena Es la provisión de canales de comunicación de una estación terrena para transmitir señales a un satélite o recibir señales desde un satélite o estación espacial.
+Servicio público de voz sobre internet Es el servicio que permite la prestación de comunicación de voz mediante la red internet desde y hacia la red pública telefónica y otra red de servicio del mismo tipo.
+Servicio universal de telecomunicaciones El conjunto definido de servicios de telecomunicaciones, tecnologías de información y comunicación cuya prestación se garantiza para todas las usuarias y los usuarios finales con independencia de su localización geográfica, con una calidad determinada y a un precio asequible.
+Servicio rural Es un servicio provisto al público para realizar comunicaciones mediante equipo terminal fijo, domiciliario o de acceso al público, dentro de un área rural o entre el área rural y cualquier punto dentro del territorio nacional.
+Servicios de telecomunicaciones al público Son aquellos servicios provistos directamente al público por un operador o proveedor, incluyendo la reventa.
+Servicio local Es el servicio telefónico al público que se presta entre usuarias y usuarios conectados a la red pública, mediante equipo terminal fijo o de cobertura restringida y ubicados dentro de un área geográfica definida, utilizando línea física o frecuencias electromagnéticas específicas para este servicio.
+Servicio móvil Es el servicio al público que se presta utilizando frecuencias electromagnéticas específicas, a través de estaciones radiobase terrestres distribuidas en configuración celular o de microceldas y mediante equipos terminales móviles o portátiles conectados a éstas, cuya área de servicio abarca todo el territorio boliviano. Incluye servicios complementarios.
+Servicio de larga distancia nacional Es el servicio telefónico al público prestado entre diferentes áreas urbanas o rurales, o entre diferentes áreas de servicio, dentro del territorio boliviano.
+Servicio de larga distancia internacional Es el servicio telefónico al público prestado entre un área situada dentro del territorio boliviano y otra situada en el extranjero.
+Servicio de acceso público Es el servicio al público provisto a través de teléfonos públicos, puestos públicos de cabinas, locutorios, telecentros, infocentros, u otros, por medio de aparatos terminales que puede incluir teléfonos tradicionales, máquinas de facsímile, computadoras o cualquier tipo de equipo terminal, utilizados con monedas, fichas, tarjetas, o por pago en efectivo.
+Servicio de distribución de señales Es el servicio al público que se proporciona únicamente por suscripción a través de estaciones cuyas emisiones se distribuyen para ser recibidas por usuarias y usuarios determinados. Estos servicios incluyen la distribución de programación de televisión y/o audio.
+Servicio de radiodifusión Son los servicios cuyas emisiones se destinan a ser recibidas directamente por todo el público sin otra restricción que no sea la de contar con un aparato receptor. Estos servicios incluyen los de radio y televisión.
+Servicio de reventa Es el servicio al público, conmutado o de transmisión, que es prestado por un proveedor que no opera una red pública, pero que utiliza la infraestructura de circuitos y/o centrales de una red pública operada por otro titular.
+Servicio de valor agregado Es el servicio al público que utiliza aplicaciones específicas y no emplean circuitos propios de transmisión, salvo que sean provistos por un operador. Estas aplicaciones tienen efecto en el formato, contenido, código, protocolo, almacenaje o aspectos similares de la información transmitida por la usuaria y el usuario o le proveen información adicional, diferente o reestructurada, o le permiten interacción con información almacenada. No incluyen servicios de voz en tiempo real ni el acceso a internet.
+Tecnologías de Información y Comunicación – TIC Comprende al conjunto de recursos, herramientas, equipos, programas informáticos, aplicaciones, redes y medios, que permiten la compilación, procesamiento, almacenamiento, transmisión y recepción de información, voz, datos, texto, video e imágenes. Se consideran como sus componentes el hardware, el software y los servicios.
+Telecomunicaciones Comprende la transmisión, emisión y recepción, de señales, símbolos, textos, imágenes, video, voz, sonidos, datos o información de cualquier naturaleza o aplicaciones que facilitan los mismos, por cable o línea física, radioelectricidad, ondas hertzianas, medios ópticos u otros sistemas radioeléctricos de cualquier índole o especie, a través de una red pública o privada.
+Usuaria o usuario Es la persona natural o jurídica que utiliza los servicios de telecomunicaciones y tecnologías de información y comunicación, como destinatario final. Para efectos de esta Ley, se considera a los socios de las cooperativas de telecomunicaciones como usuarias o usuarios.
+Respecto al servicio postal:
+Destinatario Es la persona natural o jurídica, pública o privada a quien se dirige por parte del remitente una correspondencia postal.
+Encomienda Es el envío postal, con identificación y control individual cuyo peso unitario no debe exceder los veinte kilogramos.
+Envíos internacionales Son envíos postales impuestos en el Estado Plurinacional de Bolivia dirigidos a un domicilio o destinatario ubicado fuera de su territorio, o viceversa, sujetos a control aduanero.
+Envío postal Es toda correspondencia a ser procesada para su entrega en la dirección indicada por el remitente o expedidor, el cual debe ser admitido, transportado y distribuido. Se consideran las cartas, tarjetas postales, extractos de cuentas, recibos de toda clase, impresos, envíos publicitarios, libros, catálogos, diarios, publicaciones periódicas, cecogramas, encomiendas, los paquetes postales que contengan mercancías con o sin valor comercial.
+Mensajería Es el servicio postal no básico que se realiza en forma local o nacional en volúmenes mayores (masiva), expedida por un remitente dirigida a varios destinatarios, que necesariamente cuentan con valores agregados.
+Operador postal Es la persona natural o jurídica, pública, mixta, cooperativa, comunitaria y privada que cuente con la respectiva licencia para prestar el servicio postal básico o no básico.
+Operador público designado Es el operador al que el Estado le ha encomendado la prestación del Servicio Postal Universal en forma permanente y continua, la prestación de los servicios postales básicos, no básicos y otros establecidos para el servicio postal.
+Remitente Es la usuaria o usuario que envía correspondencia postal a un destinatario local, nacional o internacional.
+Servicio expreso Es un servicio postal no básico que cuenta con un tratamiento prioritario, que exige la aplicación y adopción de características especiales para la admisión, recolección, clasificación, transporte y entrega de envíos postales, que necesariamente cuentan con valores agregados.
+Servicio postal Es el conjunto de servicios postales, disponibles a todos los habitantes del territorio nacional en todo momento, en cualquier lugar y a un valor asequible, consistente en la admisión, clasificación, expedición, transporte, distribución y entrega de envíos postales.
+Servicio postal básico Es la correspondencia tradicional que está constituida por cartas, tarjetas postales, impresos grabados o realizados por cualquier otro procedimiento técnico, expedido en sobre abierto, cerrado o al descubierto, que tenga para el expedidor, destinatario o para alguno de ellos el carácter de correspondencia actual y personal, prioritaria y no prioritaria de hasta dos kilogramos en cartas y tarjetas postales, impresos y paquetes de hasta dos kilogramos, cecogramas de hasta siete kilogramos, sacas especiales “M” que contienen libros, periódicos y otros hasta treinta kilogramos y encomiendas con peso menor o igual a veinte kilogramos.
+Servicio postal no básico Es diferente al correo tradicional que necesariamente debe contar con los siguientes valores agregados: rapidez y tiempo de entrega cierto y garantizado; identificación individual por envío a través del número de registro; constancia de aceptación individual; disponibilidad de prueba de entrega; seguimiento y rastreo; recolección a domicilio y seguro opcional.
+Servicio postal universal Es el envío y recepción de correspondencia que constituye la oferta mínima del servicio básico, cuya prestación es responsabilidad del Estado y que es regulado conforme a normativa universalmente acordada.
+Transporte de envíos de correspondencia Es el servicio postal no básico, que el transporte terrestre, aéreo y fluvial realizan como actividad secundaria, y necesariamente cuentan con valores agregados.
+Respecto a la firma y documentos digitales:
+Certificado digital Es un documento digital firmado digitalmente por una entidad certificadora autorizada que vincula unos datos de verificación de firma a un signatario y confirma su identidad. El certificado digital es válido únicamente dentro del período de vigencia, indicado en el certificado digital.
+Comercio electrónico Es toda relación de índole comercial sea o no contractual, con la intervención o a partir de la utilización de una o más comunicaciones digitales.
+Correo electrónico Es un servicio de red que permite a las usuarias y usuarios enviar y recibir mensajes y archivos, mediante sistemas de comunicación electrónicos.
+Documento digital Es toda representación digital de actos, hechos o datos jurídicamente relevantes, con independencia del soporte utilizado para su fijación, almacenamiento o archivo.
+Firma digital Es la firma electrónica que identifica únicamente a su titular, creada por métodos que se encuentren bajo el absoluto y exclusivo control de su titular, susceptible de verificación y está vinculada a los datos del documento digital de modo tal que cualquier modificación de los mismos ponga en evidencia su alteración.
+Título II
+Competencias y atribuciones del nivel central del Estado y las entidades territoriales autónomas
+Capítulo Único
+Competencias y atribuciones del nivel central del Estado y las entidades territoriales autónomas
+Artículo 7°.- (Alcance competencial en telecomunicaciones y tecnologías de información y comunicación)
+• De acuerdo a lo establecido en la Constitución Política del Estado y el Artículo 85 de la Ley Nº 031 , Marco de Autonomías y Descentralización, de 19 de julio de 2010, le corresponde al nivel central del Estado, a través del Ministerio a cargo del sector de telecomunicaciones definido mediante normativa, ejercer a partir de sus competencias exclusivas las siguientes atribuciones:
+• Formular políticas, planes y programas que garanticen a través del uso de las telecomunicaciones y tecnologías de información y comunicación, el mejoramiento de la calidad de vida de las bolivianas y los bolivianos y el acceso equitativo a oportunidades de educación, salud y cultura, entre otras.
+• Formular, aprobar y ejecutar las políticas rectoras del sector de telecomunicaciones y tecnologías de información y comunicación, del espectro radioeléctrico y del servicio postal, así como, la normativa, reglamentación y planes necesarios en todo el país.
+• Formular la política para promover que las redes de información y comunicación, interconectadas vía internet sean accesibles a todos los habitantes del país manteniendo la disponibilidad, integridad y confidencialidad en la utilización de las tecnologías de información y comunicación.
+• Promover y negociar tratados y convenios internacionales en materia de telecomunicaciones y tecnologías de información y comunicación y de servicio postal.
+• Conocer y resolver de manera fundada los recursos jerárquicos interpuestos contra las resoluciones emitidas por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Promover la convergencia tecnológica y de servicios en coordinación con las entidades públicas competentes.
+• Fiscalizar, supervisar y vigilar la gestión y el cumplimiento de políticas del sector de telecomunicaciones y tecnologías de información y comunicación, así como del servicio postal, a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Coordinar la construcción de la sociedad de los saberes y la información y el desarrollo de las telecomunicaciones y tecnologías de información y comunicación con las entidades gubernamentales del Estado en su nivel nacional y las entidades territoriales autónomas.
+• Diseñar, coordinar, proponer normas en materia de telecomunicaciones y tecnologías de información y comunicación, radiodifusión y postal, interconexión, tarifas y precios aplicables en todo el territorio nacional, promoviendo el desarrollo integral y el acceso universal a los servicios básicos del sector en el marco de la soberanía del Estado Plurinacional.
+• Promover la provisión de servicios en telecomunicaciones y tecnologías de información y comunicación y postal en el marco de los principios de acceso universal, continuidad, calidad y solidaridad.
+• Formular, proponer o modificar el Plan Nacional de Frecuencias, el Plan Nacional de Telecomunicaciones y Tecnologías de Información y Comunicación, y otros planes aplicables en todo el territorio del Estado Plurinacional.
+• Promover y coordinar la participación de la sociedad civil organizada para el diseño de políticas públicas y efectivizar el control social a la calidad de los servicios públicos de telecomunicaciones y tecnologías de información y comunicación, así como del servicio postal.
+• Ejercer la representación internacional de Bolivia en el campo de las telecomunicaciones y tecnologías de información y comunicación ante organismos internacionales del sector.
+• Coordinar la generación de información técnica especializada del sector para su consideración en los censos nacionales, encuestas especializadas y otros.
+• Definir para todo el territorio nacional las bandas de frecuencias para uso exclusivo y directo relacionado con la seguridad y defensa del Estado.
+• Es competencia exclusiva del nivel central del Estado, toda otra competencia que no esté contemplada en la Constitución Política del Estado ni en esta Ley, la que podrá ser transferida o delegada por Ley.
+• De acuerdo a lo establecido en la Constitución Política del Estado y el Artículo 85 de la Ley Nº 031 , le corresponde al nivel central del Estado y a las entidades territoriales autónomas, ejercer a partir de la competencia concurrente las siguientes atribuciones:
+a) Del nivel central del Estado:
+• Administrar, autorizar y supervisar el uso de las frecuencias electromagnéticas en redes de telecomunicaciones, radiodifusión y otras, en el territorio nacional.
+• Supervisar el uso de frecuencias electromagnéticas de alcance internacional, conforme a los convenios e instrumentos internacionales suscritos por el país.
+• Elaborar y aprobar el Plan Nacional de Frecuencias, aplicable en todo el territorio del Estado Plurinacional.
+b) Los Gobiernos Departamentales Autónomos:
+• Supervisar el uso de las frecuencias electromagnéticas de alcance departamental, de acuerdo al Plan Nacional de Frecuencias.
+• La presente Ley constituye la legislación básica de la competencia compartida establecida en la Constitución Política del Estado y el Artículo 85 de la Ley Nº 031 :
+• Correspondiendo al nivel central del Estado legislar, reglamentar y ejecutar el servicio de telefonía móvil y telecomunicaciones por su cobertura nacional, para precautelar el derecho al acceso universal y equitativo de acuerdo al Artículo 20 y el cumplimiento de las competencias establecidas en el Artículo 298 parágrafo I numeral 12 y parágrafo II numerales 2 y 4 de la Constitución Política del Estado.
+• Corresponde al nivel central del Estado legislar, reglamentar y ejecutar los servicios de telefonía fija, redes privadas y radiodifusión con alcance mayor a un departamento.
+• La legislación de desarrollo, reglamentación y ejecución de la telefonía fija, redes privadas y radiodifusión, en concordancia con las políticas y planes del nivel central según la siguiente distribución a:
+Los Gobiernos Departamentales Autónomos:
+- Formular y aprobar el régimen y las políticas departamentales de telecomunicaciones para telefonía fija, redes privadas y radiodifusión, conforme al régimen general establecido en la presente Ley y las políticas de telecomunicaciones del país establecidas por el nivel central.
+- Reglamentar los servicios de telefonía fija, redes privadas y radiodifusión con alcance departamental conforme al régimen general establecido en la presente Ley y las políticas de servicios de telecomunicaciones del país establecidas por el nivel central.
+Los Gobiernos Municipales Autónomos:
+- Autorizar la instalación de torres y soportes de antenas y las redes, entendiéndose estas últimas como la implementación de la infraestructura subterránea y aérea en el ámbito de su jurisdicción.
+Los Gobiernos Indígena Originario Campesinos Autónomos:
+- Autorizar el funcionamiento de radios comunitarias en su jurisdicción, respetando las normas y políticas aprobadas por el nivel central del Estado.
+Título III
+Telecomunicaciones
+Capítulo Primero
+Espectro radioeléctrico
+Artículo 8°.- (Plan nacional de frecuencias)
+• El Plan Nacional de Frecuencias reglamentará el uso equitativo y eficiente del espectro radioeléctrico a nivel nacional, CONSIDERANDO, entre otros, los aspectos económicos, de seguridad, educativos, científicos, de interés público y técnicos conforme a políticas de Estado, intereses nacionales y compromisos internacionales aprobados, con el objeto de optimizar su uso y evitar interferencias perjudiciales.
+• La administración, asignación, autorización, control, fiscalización y supervisión del uso de las frecuencias electromagnéticas en redes de telecomunicaciones, radiodifusión y otras en el territorio nacional corresponde al nivel central del Estado a través de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, de acuerdo al Plan Nacional de Frecuencias.
+Artículo 9°.- (Uso del espectro radioeléctrico)
+• Los derechos de uso del espectro radioeléctrico derivados de una licencia de radiodifusión no podrán cederse, arrendarse, venderse, transferirse ni pignorarse, excepto en casos especiales y específicos establecidos en reglamento, debidamente aprobados por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Se requiere de una licencia para hacer uso de frecuencias del espectro radioeléctrico, excepto para aquellas frecuencias que se producen como resultado de emisiones por el uso de equipos industriales, científicos y médicos que empleen el espectro radioeléctrico; ni para la operación de radiadores involuntarios; ni para la operación de radiadores voluntarios de potencia muy baja, de acuerdo a lo establecido en reglamento.
+• El Plan Nacional de Frecuencias podrá establecer bandas de frecuencias de uso libre, CONSIDERANDO recomendaciones de la Unión Internacional de Telecomunicaciones – UIT.
+Artículo 10°.- (Distribución de frecuencias para radiodifusión)
+• La distribución del total de canales de la banda de frecuencias para el servicio de radiodifusión en frecuencia modulada y televisión analógica a nivel nacional donde exista disponibilidad, se sujetará a lo siguiente:
+Estado hasta el treinta y tres por ciento.
+Comercial hasta el treinta y tres por ciento.
+Social comunitario hasta el diecisiete por ciento.
+Pueblos indígena originario campesinos, y las comunidades interculturales y afrobolivianas hasta el diecisiete por ciento.
+La asignación de frecuencias se realizará de la siguiente forma:
+• Las frecuencias destinadas al Estado serán definidas por el Órgano Ejecutivo del nivel central.
+• Las frecuencias destinadas al sector comercial serán asignadas por licitación pública.
+• Las frecuencias destinadas al sector social comunitario y los pueblos indígena originario campesinos, y comunidades interculturales y afrobolivianas, serán asignadas mediante concurso de proyectos, y su calificación se realizará mediante indicadores objetivos.
+• Los detalles técnicos y normativos, como el procedimiento de la licitación pública y el de concurso de proyectos, serán establecidos mediante reglamento.
+• La distribución de bandas de frecuencias para el servicio de radiodifusión televisiva digital será establecida en el respectivo plan de implementación aprobado mediante decreto supremo.
+• La asignación de bandas de amplitud modulada y onda corta para el servicio de radiodifusión, responderá a reglamento.
+Artículo 11°.- (Asignación de frecuencias para uso estatal)
+• Para el funcionamiento de las estaciones transmisoras utilizadas en el servicio de radiodifusión estatal, así como los servicios destinados a la seguridad y defensa del Estado, la asignación de frecuencias electromagnéticas será de forma directa.
+• La información relativa a la asignación de frecuencias para los servicios de seguridad y defensa del Estado, tiene carácter reservado.
+Artículo 12°.- (Interferencia) La interferencia perjudicial del espectro radioeléctrico debe ser evitada, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes impondrá estándares técnicos para controlar dicha interferencia y podrá imponer sanciones apropiadas sobre el operador del aparato infractor, de acuerdo a reglamento.
+Artículo 13°.- (Emisiones ilegales)
+• Se considerarán ilegales las emisiones o transmisiones de ondas electromagnéticas que no hayan sido debidamente autorizadas o se realicen fuera de los parámetros técnicos fijados en la otorgación de la licencia.
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes podrá disponer el decomiso de los equipos de generación de señales y antenas de transmisión utilizadas sin licencia, o si la emisión causare interferencias indebidas en áreas de cobertura establecidas para otras emisiones, o si las mismas comprometieran el tránsito aéreo, la seguridad de aeronaves, los servicios de defensa civil, de seguridad o de defensa, conforme a proceso administrativo.
+Capítulo Segundo
+Autoridad de regulación y fiscalización de telecomunicaciones y transportes
+Artículo 14°.- (De la autoridad de regulación y fiscalización de telecomunicaciones y transportes) La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, en lo que se refiere a telecomunicaciones, tecnología de información y comunicación y servicio postal, tiene las siguientes atribuciones:
+• Cumplir y hacer cumplir la presente Ley y sus reglamentos, asegurando la correcta aplicación de sus principios, políticas y objetivos.
+• Autorizar, regular y fiscalizar los servicios de telefonía fija, móvil y todas las redes y servicios de telecomunicaciones y tecnologías de información y comunicación, así como al servicio postal a nivel nacional.
+• Regular el régimen general de las tarifas y precios, para los servicios de telefonía fija, móvil, larga distancia, telecomunicaciones y tecnologías de información provistas en todo el territorio nacional, independientemente de su cobertura, así como del servicio postal.
+• Publicar, controlar y fiscalizar, los precios y tarifas de acuerdo con la normativa y el régimen general.
+• Regular, controlar, supervisar y fiscalizar la correcta prestación de los servicios y actividades por parte de los operadores o proveedores de telecomunicaciones y tecnologías de información y comunicación, del servicio postal y de entidades certificadoras autorizadas y el cumplimiento de sus obligaciones legales y contractuales.
+• Otorgar, modificar y renovar autorizaciones y disponer la caducidad o revocatoria de las mismas, dentro del marco de la Ley y reglamentos correspondientes.
+• Regular, autorizar, controlar, fiscalizar y coordinar el uso del espectro radioeléctrico y realizar la comprobación técnica de las emisiones electromagnéticas en el territorio del Estado Plurinacional.
+• Fiscalizar y controlar los medios y equipos a través de los cuales se emiten las ondas electromagnéticas y protegerlas de cualquier interferencia dañina, irregularidad y perturbación a los sistemas de telecomunicaciones y tecnologías de información y comunicación.
+• Homologar equipos de telecomunicaciones y tecnologías de información y comunicación en todo el país.
+• Regular, controlar, fiscalizar y autorizar la interconexión de redes de telecomunicaciones y tecnologías de información y comunicación que prestan servicios de telecomunicaciones (telefonía fija, móvil y otros) con alcance departamental y nacional, y aprobar las ofertas básicas de interconexión y los acuerdos de interconexión.
+• Conocer y resolver, de manera fundamentada, en primera instancia los recursos de revocatoria que le sean presentados por la vía administrativa.
+• Elaborar y mantener los planes técnicos fundamentales definidos por la Unión Internacional de Telecomunicaciones – UIT, y establecer el estándar técnico necesario para operar y mejorar los servicios de telecomunicaciones, los que serán de aplicación en todo el territorio del país.
+• Intervenir a operadores o proveedores y entidades bajo su atribución fiscalizadora y designar a los interventores con facultades administrativas, cuando concurran causales establecidas en la presente Ley y los reglamentos.
+• Aprobar los modelos de contratos, términos y condiciones entre el proveedor de servicios o el operador postal y las usuarias o usuarios, de acuerdo a reglamento.
+• Elaborar, actualizar y modificar manuales, instructivos, circulares y procedimientos a ser aplicados en el sector.
+• Cubrir las obligaciones económicas que correspondan a su participación en organismos nacionales e internacionales del sector de telecomunicaciones a los que pertenezca y las obligaciones del Estado Plurinacional de Bolivia con la Unión Internacional de Telecomunicaciones – UIT.
+• Regular y administrar los recursos de identificación, utilizados en la provisión de redes y servicios de telecomunicaciones y cualquier otro recurso que actualmente o en el futuro identifique redes y usuarios.
+• Realizar auditorías técnicas del espectro radioeléctrico y de las entidades de certificación a nivel nacional.
+• Coordinar con los actores involucrados, el avance, desarrollo de las tecnologías de información y comunicación, brindando apoyo y asesoría técnica a nivel territorial y sectorial.
+• Elevar al Ministerio del sector informes sobre el desarrollo de los servicios, reflejando sus actuaciones, observaciones y sugerencias para promover el desarrollo de las telecomunicaciones y tecnologías de información y comunicación y del servicio postal.
+• Coordinar la implementación de las políticas de prevención en los ámbitos de comunicación, información y difusión contra el racismo y toda forma de discriminación y llevar a cabo los procesos sancionatorios.
+• Otras que se deriven de la presente Ley o por norma expresa.
+Artículo 15°.- (Sistema de información sectorial) La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes creará, mantendrá, actualizará y publicará en línea vía internet, un sistema de información sectorial con datos estadísticos, variables e indicadores relevantes del sector de telecomunicaciones y tecnologías de información y comunicación, así como del servicio postal. El sistema de información contribuirá al desarrollo de los servicios, el cumplimiento de metas, estrategias, programas y proyectos del sector, así como a la transparencia de la información sectorial.
+Capítulo Tercero
+Comunicación vía satélite
+Artículo 16°.- (Redes satelitales) Es responsabilidad de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes la asignación, control, fiscalización, supervisión y administración del espectro radioeléctrico asociado a redes satelitales, que abarca el ámbito geográfico del Estado Plurinacional. Estos recursos serán asignados de acuerdo a las disposiciones contenidas en la presente Ley y sus reglamentos.
+Artículo 17°.- (Recurso órbita – espectro – ROE)
+• El recurso natural Órbita – Espectro y frecuencias asociadas registradas a nombre del Estado Plurinacional de Bolivia, de acuerdo al Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones –UIT, se asignará a la Agencia Boliviana Espacial – ABE, para su uso en redes satelitales bolivianas, prioritariamente en el Programa Satélite de Comunicaciones Tupak Katari, estando exenta del pago de tasa de Fiscalización y Regulación, derecho de asignación y uso de frecuencias y aportes al financiamiento de los proyectos de telecomunicaciones orientados al acceso universal de las telecomunicaciones y tecnologías de información y comunicación.
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes otorgará la respectiva autorización de acuerdo a lo establecido por el parágrafo anterior, a la Agencia Boliviana Espacial – ABE.
+• En el caso de que la Agencia Boliviana Espacial – ABE, no utilice los recursos disponibles de Órbita – Espectro y sus frecuencias asociadas, su utilización será definida de acuerdo a las políticas integrales del sector de Telecomunicaciones y Tecnologías de Información y Comunicación.
+Artículo 18°.- (Coordinación con administraciones de satélites externos)
+• Los procesos de coordinación de satélites nacionales con administraciones de satélites externos, deberán ser realizados por el Órgano Ejecutivo a la cabeza del Ministerio de Obras Públicas, Servicios y Vivienda, como entidad representante del Estado Plurinacional ante la Unión Internacional de Telecomunicaciones – UIT, aplicándose los principios consignados en el Reglamento de Radiocomunicaciones y respetándose las prioridades del Recurso Órbita Espectro – ROE, asignado al país.
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, otorgará los mismos derechos para la operación y explotación de un satélite extranjero sobre su territorio, que los otorgados por terceros países a los satélites bolivianos, en aplicación del principio de reciprocidad establecido en el Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones – UIT.
+Artículo 19°.- (Estaciones terrenas receptoras)
+• Las estaciones terrenas receptoras que no brindan servicios al público, no requieren licencia ni tendrán protección de interferencia perjudicial.
+• Las estaciones terrenas receptoras de operador o proveedor de servicios al público deberán registrar sus operaciones ante la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes de acuerdo a los requisitos establecidos en el reglamento.
+Capítulo Cuarto
+Infraestructura de telecomunicaciones
+Artículo 20°.- (Instalación de antenas)
+• La instalación de antenas transmisoras requiere la licencia de uso de frecuencias previa, de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• La instalación de antenas de recepción de señales satelitales, nacionales o extranjeras, por parte de usuarias o usuarios finales, sin fines de redistribución comercial, es una actividad libre, no sujeta a licencia.
+• La solicitud de instalación de torres y soportes de antena a efectuarse por los operadores de redes de telecomunicaciones ante los gobiernos autónomos municipales, requerirá la licencia de uso de frecuencias previa, de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• La solicitud en caso de que el gobierno autónomo municipal no emitiera resolución correspondiente dentro del plazo de cuarenta y cinco días hábiles, se la tendrá por autorizada.
+Artículo 21°.- (Acceso y uso compartido)
+• Es obligación de los operadores, otorgar el acceso y uso compartido de infraestructura en sus redes de telecomunicaciones, incluyendo la co-ubicación a otro operador o proveedor que solicite, de acuerdo a reglamentación correspondiente.
+• Las condiciones exigidas por un operador para el acceso y uso compartido de infraestructura en sus redes de telecomunicaciones, no podrán ser menos ventajosas que las exigidas a otros operadores o terceros en condiciones iguales o equivalentes. Dicho operador, tendrá derecho a recibir una contraprestación razonable, orientada a costos, la misma que será establecida por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+Artículo 22°.- (Modalidades de acceso y uso compartido de infraestructura)
+• El acceso y uso compartido de infraestructura en sus redes de telecomunicaciones puede realizarse bajo dos modalidades:
+• Por acuerdo entre las partes, a través de un contrato escrito, estableciéndose un periodo de negociación de acuerdo a reglamento.
+• Por resolución de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, respondiendo al interés público, una vez que se haya vencido el periodo de negociación, y las partes no hayan llegado a un acuerdo.
+• En ambas modalidades se establecerán las condiciones técnicas, comerciales, económicas y legales, así como las causales para su resolución, debiendo adoptarse los mecanismos necesarios para precautelar los derechos de las usuarias y usuarios de los servicios involucrados.
+Artículo 23°.- (Servidumbres)
+• A solicitud del operador autorizado, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, podrá establecer servidumbres para el tendido de redes públicas de telecomunicaciones, construcción de obras y otras instalaciones públicas del sector. Los procedimientos serán establecidos en el reglamento.
+• Cuando la servidumbre tenga que imponerse sobre bienes de propiedad privada, el monto indemnizatorio o compensatorio se establecerá en negociación directa entre el operador y el propietario del bien. En caso de que éstos no pudiesen llegar a un acuerdo en el plazo establecido por reglamento, dicho monto será determinado por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes. El simple paso aéreo de cables de redes públicas no da derecho al pago compensatorio.
+Artículo 24°.- (Obligación de instalar fibra óptica o ductos y cámaras)
+• Los proyectos de infraestructura que brinden servicios de energía eléctrica, hidrocarburos y transportes deberán incorporar la instalación de fibra óptica o ductos y cámaras, sujetos a los términos y condiciones a establecerse en reglamento y los planes aprobados por el Ministerio de Obras Públicas, Servicios y Vivienda, orientados al vivir bien de todas las bolivianas y bolivianos.
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes en coordinación con los sectores de energía eléctrica, hidrocarburos y transportes establecerá, de ser el caso, los mecanismos necesarios para el reconocimiento de las inversiones ejecutadas, en cumplimiento de lo dispuesto en la presente Ley.
+• Las inversiones en infraestructura de telecomunicaciones, podrán ser realizadas en el marco de un financiamiento concurrente, especialmente entre el nivel central del Estado, gobiernos autónomos departamentales y gobiernos autónomos municipales.
+Capítulo Quinto
+Autorizaciones y contratos para la prestación de servicios de telecomunicaciones y tecnologías de información y comunicación
+Artículo 25°.- (Operación de redes y prestación de servicios)
+• El Estado a través de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes otorgará autorizaciones para la operación de redes y provisión de servicios mediante licencias y contratos en los términos de la presente Ley.
+• La provisión de los servicios de telecomunicaciones y tecnologías de información y comunicación, se realizará a través de entidades públicas, mixtas, cooperativas, comunitarias y empresas privadas.
+Artículo 26°.- (Del contrato)
+• Para la provisión de servicios y operación de redes de telecomunicaciones y tecnologías de información y comunicación los operadores o proveedores requieren de licencia única o licencia de radiodifusión y deberán suscribir un contrato con la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, de acuerdo a los términos señalados en la presente Ley.
+• Las condiciones generales del contrato deberán estar orientadas a garantizar:
+• El cumplimiento, de los requisitos para una adecuada operación y provisión del servicio y red de telecomunicaciones y tecnologías de información y comunicación.
+• Mecanismos idóneos para la información y protección de los derechos de las usuarias y usuarios.
+• El adecuado acceso a los servicios para las personas en situación de discapacidad.
+• Los derechos y obligaciones en materia de interconexión de redes y la interoperabilidad de las redes, derechos de la usuaria o usuario, tarifas, expansión y desarrollo de la red, recursos escasos, facturación, emergencia y otras.
+• La calidad del servicio.
+• La protección de los datos de las personas.
+• La sujeción a la legislación nacional vigente.
+Artículo 27°.- (Contenido del contrato) El contrato además de los requisitos generales establecidos por Ley, deberá contener mínimamente lo siguiente:
+• Objeto, plazo.
+• Las operaciones y los servicios de telecomunicaciones y tecnologías de información y comunicación que se autorizan.
+• Régimen de la calidad del servicio.
+• Las áreas de servicio y el cronograma de inicio de operaciones en cada servicio y zona.
+• Derechos y tasas.
+• Formas de terminación del contrato.
+• Fianzas y otras garantías de cumplimiento.
+Artículo 28°.- (Licencias)
+• Para la provisión de servicios y operación de redes de telecomunicaciones y tecnologías de información y comunicación, las licencias son:
+• Licencia única.
+• Habilitación específica.
+• Licencia de radiodifusión.
+• Licencia para el uso de frecuencias.
+• Licencia para redes privadas.
+• Licencia para servicios de valor agregado.
+• Licencia para la provisión de servicios satelitales.
+• Las licencias serán otorgadas a personas naturales o jurídicas domiciliadas en el país, estarán sometidas a la jurisdicción, las leyes y autoridades bolivianas, no pudiendo invocarse situación de excepción, ni apelar a reclamaciones diplomáticas para obtener un tratamiento más favorable.
+• Las licencias en radiodifusión no se otorgarán a personas naturales o jurídicas extranjeras; en el caso de sociedades la participación de la inversión extranjera no podrá exceder el veinticinco por ciento, salvo lo determinado por el Estado a través de Convenios y Tratados Internacionales.
+• La información de carácter técnico y económico que sea presentada por el solicitante, para la obtención de las licencias, será considerada como confidencial.
+Artículo 29°.- (Licencia única)
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes otorgará la licencia única, a entidades públicas, mixtas, cooperativas, comunitarias y empresa privada para la operación de redes o la prestación de servicios de telecomunicaciones y tecnologías de información y comunicación, en todo el territorio nacional, con alcance departamental o nacional a través de un contrato suscrito entre la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes y el operador o proveedor. ILa licencia única, será otorgada previa presentación, revisión, aceptación de los requisitos legales, técnicos y económicos a establecerse en reglamento.
+• Cuando el servicio requiera la utilización de frecuencias, la licencia para su uso será concedida mediante proceso independiente, conforme a la presente Ley.
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, concederá las licencias solicitadas evitando la duplicidad de infraestructura, enmarcándose en las políticas y planes aprobados por el Ministerio de Obras Públicas, Servicios y Vivienda.
+• La vigencia de la Licencia Única será de quince años, pudiendo ser renovada por una sola vez por igual período, siempre que su titular haya cumplido con las disposiciones previstas en esta Ley y en sus reglamentos.
+Artículo 30°.- (Licencia de radiodifusión)
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes otorgará la licencia de radiodifusión para la operación de redes y provisión de servicios de radio y televisión, a los solicitantes que deseen operar una red o proveer el servicio con alcance nacional o departamental, previa obtención de la licencia de frecuencias y presentación de los requisitos establecidos y cuando así lo determinen los planes aprobados por el Ministerio de Obras Públicas, Servicios y Vivienda, orientados al vivir bien de todas las bolivianas y bolivianos, a través de un contrato suscrito entre la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes y el operador o proveedor.
+• La vigencia de las licencias de radiodifusión será de quince años, pudiendo ser renovadas por una sola vez por igual período, siempre que su titular haya cumplido con las disposiciones previstas en esta Ley, en sus reglamentos y en la licencia respectiva. El operador cesante podrá participar en la licitación para el otorgamiento de una nueva licencia.
+• Ninguna persona natural o jurídica, por sí o por interpuesta persona, podrá obtener licencia de radiodifusión en una misma área de servicio, para más de una estación de radio en una misma banda de frecuencias. En televisión abierta, no se podrá obtener licencia de radiodifusión en una misma área de servicio para más de una estación de televisión analógica o digital. Esta misma restricción opera con relación a los accionistas de una empresa que cuenta con licencia para tales servicios.
+• Las restricciones establecidas en el parágrafo anterior no se aplican a las asignaciones al Estado.
+Para acceder a la licencia de radiodifusión, la persona natural o jurídica, dueña o accionista mayoritaria de empresas que no tengan ninguna relación con las comunicaciones y la información, deberá garantizar el cumplimiento de los principios establecidos en el Artículo 21 numerales 2, 3, 5 y 6 y los artículos 106 y 107 de la Constitución Política del Estado.
+Artículo 31°.- (Habilitación específica)
+• Los operadores y proveedores que cuenten con licencia única, la cual habilita a proveer varios servicios, para habilitar un servicio que no hubiera sido implementado al momento de la otorgación de la licencia única, requerirán de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, una habilitación específica.
+• La habilitación autoriza la prestación de un servicio específico, otorgando derechos y obligaciones inherentes al servicio o actividad para la cual ha sido autorizado el operador o proveedor.
+Artículo 32°.- (Licencia para el uso de frecuencias)
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes a través de Resolución Administrativa otorgará la licencia para las actividades de telecomunicaciones que hagan uso de frecuencias, siempre que cumplan con los requisitos establecidos y cuando así lo determinen los planes aprobados por el Ministerio de Obras Públicas, Servicios y Vivienda. Mediante solicitud de parte interesada, se podrá otorgar para los casos de redes privadas o radio enlaces requeridos para redes en funcionamiento, previo cumplimiento de los requisitos establecidos y si las frecuencias están definidas para el uso solicitado en el Plan Nacional de Frecuencias.
+• La licencia no otorga ningún derecho de propiedad y se limita al derecho de uso de la(s) frecuencia(s) a partir de la fecha de otorgación por un plazo limitado.
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes podrá modificar sin afectar los servicios que se preste al público la licencia de uso de frecuencias y el ancho de banda asignado, sin derecho a retribución o indemnización alguna, en los siguientes casos:
+• Por razones de seguridad del Estado.
+• Para la introducción de nuevas tecnologías y servicios.
+• Para solucionar problemas de interferencias.
+• Para dar cumplimiento a las modificaciones del Plan Nacional de Frecuencias.
+• De acuerdo a la disponibilidad de frecuencias, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes podrá autorizar el uso de nuevas frecuencias para los casos previstos en los numerales anteriores.
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes en base al Plan Nacional de Frecuencias establecerá el límite máximo de ancho de banda que puede ser autorizado a un mismo titular a efectos de asegurar su uso eficiente.
+• Las licencias para la utilización de frecuencias punto a punto por parte de operadores de red privada de telecomunicaciones podrán otorgarse directamente, a solicitud de parte y de acuerdo a lo establecido en el Plan Nacional de Frecuencias.
+• El plazo de las licencias será de quince años, el mismo que podrá ser renovado por una sola vez por igual periodo, siempre que su titular haya cumplido con las disposiciones previstas en esta Ley y en sus reglamentos.
+Artículo 33°.- (Licencia de red privada)
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes a través de Resolución Administrativa otorgará licencia para la operación o uso de redes privadas que se extiendan fuera del predio del propietario de la misma y a radioaficionados, de acuerdo a reglamento.
+• La licencia tendrá una vigencia de cinco años, renovable por similar periodo, siempre que su titular haya cumplido con las disposiciones previstas en esta Ley y en sus reglamentos.
+Artículo 34°.- (Licencia de valor agregado)
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, a través de Resolución Administrativa otorgará licencia para la provisión de servicios de valor agregado.
+• La licencia tendrá una vigencia de cinco años, renovable por similar periodo, siempre que su titular haya cumplido con las disposiciones previstas en esta Ley y en sus reglamentos.
+• Un operador que cuente con una licencia para operar una red pública, queda autorizado a proveer servicios de valor agregado sin requerir de una licencia previa.
+Artículo 35°.- (Licencia para la provisión del servicio satelital)
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes otorgará la licencia para la provisión de servicios satelitales, previa presentación de los requisitos conforme a reglamento.
+• La vigencia de la licencia para la provisión de servicios satelitales a través de estaciones espaciales será de quince años renovable por una sola vez, por igual periodo, en base a procedimiento a ser establecido mediante reglamento.
+• La vigencia de la licencia para la provisión de servicios satelitales a través de estaciones terrenas será de quince años renovable por una sola vez, por igual periodo, siempre que haya cumplido con las disposiciones previstas en esta Ley y en sus reglamentos.
+• Las licencias se inscribirán en el registro nacional, a cargo de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Ninguna persona individual o colectiva sujeta a las leyes del Estado Plurinacional de Bolivia proveerá, revenderá o asistirá en la provisión de servicios de estación espacial o estación terrena en Bolivia, sin previa licencia otorgada por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+Artículo 36°.- (Otorgación de licencias en el área rural)
+• Para la operación de redes públicas y provisión de servicios de telecomunicaciones y tecnologías de información y comunicación en el área rural, se podrá obtener licencia bajo el procedimiento de otorgación directa, conforme a reglamento.
+• Cualquier persona individual o colectiva, legalmente establecida en el país, interesada en operar redes y proveer servicios de telecomunicaciones y tecnologías de información y comunicación en el área rural, deberá presentar una solicitud a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, acompañando los requisitos e información mínima de acuerdo a lo establecido en reglamento.
+• Por su carácter social, la operación de redes públicas y provisión de servicios de telecomunicaciones en el área rural, están exentas del pago de tasas y derechos de asignación y uso de frecuencias y de los aportes al financiamiento de los proyectos de telecomunicaciones orientados al acceso universal de las telecomunicaciones y tecnologías de información y comunicación.
+Artículo 37°.- (Autorizaciones para empresas públicas estratégicas) Las empresas públicas estratégicas definidas por el nivel central del Estado, en el sector de telecomunicaciones y tecnologías de información y comunicación, reconocidas como tales mediante Decreto Supremo y las empresas de telecomunicaciones con participación estatal mayoritaria obtendrán de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes las licencias de forma directa, previa presentación de los requisitos, condiciones técnicas, económicas, pago de asignación y otros, a determinarse en reglamento.
+Artículo 38°.- (Registro único de licencias) La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, creará y administrará el registro único de licencias otorgadas a operadores y proveedores de redes y servicios de telecomunicaciones y tecnologías de información y comunicación, el cual deberá ser actualizado periódicamente y estar disponible por internet.
+Artículo 39°.- (Prohibiciones para el otorgamiento de licencias) No se otorgarán licencias a:
+• Los dignatarios de los Órganos Ejecutivo, Legislativo, Judicial, Electoral, personal militar y policial en actividad y Director Ejecutivo de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, sea a título personal o como integrantes de una sociedad. En caso de que dicho carácter sea sobreviniente a la autorización, no generará incompatibilidad.
+• Aquellas personas que tengan relación de parentesco hasta el primer grado de consanguinidad o afinidad con dignatarios de los Órganos Ejecutivo, Legislativo, Judicial, Electoral, el Ministro de Obras Públicas, Servicios y Vivienda, el Viceministro de Telecomunicaciones, las Autoridades de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Aquellas personas naturales o jurídicas, miembros de juntas o consejos directivos y socios de personas jurídicas a quienes por cualquier causal se les haya revocado la licencia para operar una red y proveer servicios de telecomunicaciones y tecnologías de información y comunicación o revocado la licencia para hacer uso del espectro radioeléctrico.
+• Aquellas personas que tengan pliego de cargo ejecutoriado, sentencia condenatoria ejecutoriada en materia penal, pendientes de cumplimiento.
+Capítulo Sexto
+Revocatoria y transferencia
+Artículo 40°.- (Revocatoria) La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, revocará las licencias y terminará los contratos, según corresponda por las siguientes causales:
+• Cuando el operador transfiera, ceda, arriende o realice cualquier acto de disposición de una licencia, exceptuando los casos especiales y específicos establecidos en reglamento, debidamente aprobados por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Por petición expresa del operador o proveedor.
+• Cuando se dicte auto declarativo de quiebra contra el operador y el mismo sea declarado ejecutoriado conforme a Ley.
+• Cuando el operador no haya iniciado la operación de la red o la provisión de servicios de telecomunicaciones y tecnologías de información y comunicación al público durante los doce meses posteriores a la otorgación de la licencia única y licencia para el uso de frecuencias.
+• Cuando el operador no haya iniciado la operación de servicios de radiodifusión al público durante los seis meses posteriores a la otorgación de la licencia de radiodifusión y licencia para el uso de frecuencias.
+• Cuando el operador preste un servicio distinto o modifique el objeto para el cual obtuvo la licencia sin autorización previa de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Cuando el operador, luego de haber recibido una notificación de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, sobre el incumplimiento de disposiciones contractuales, legales y reglamentarias, no las corrija o subsane en los plazos que señale el contrato o la normativa aplicable.
+• En caso de que un operador o proveedor incumpla el pago de derecho de uso de frecuencias por dos gestiones.
+• Por cualquier otra causal establecida en los contratos respectivos.
+Artículo 41°.- (Declaratoria de revocatoria)
+• Por las causales señaladas en el Artículo precedente la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes declarará la revocatoria de la licencia mediante Resolución Administrativa debidamente fundamentada.
+• La Resolución no será efectiva en tanto estén pendientes recursos administrativos de revocatoria o jerárquicos y la vía jurisdiccional correspondiente. En los casos establecidos en el reglamento y a fin de garantizar la continuidad del servicio la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, podrá disponer la intervención mientras se proceda a otorgar las correspondientes licencias a favor de un nuevo operador.
+Artículo 42°.- (Renovación o transferencia al nuevo operador) Al vencimiento del plazo de los contratos suscritos entre la ex Superintendencia de Telecomunicaciones – SITTEL, la ex Autoridad de Fiscalización y Control Social de Telecomunicaciones y Transportes – ATT o la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes y los operadores o proveedores o, la declaratoria de caducidad del contrato, se podrá optar por:
+• La renovación del o los contratos y licencias de acuerdo a los planes elaborados por el Ministerio de Obras Públicas, Servicios y Vivienda, si corresponde.
+• La licitación pública para otorgar las correspondientes licencias a favor de un nuevo operador bajo las siguientes disposiciones:
+• Otorgar el derecho al uso de la frecuencia, con más las instalaciones, equipos y obras directamente relacionadas a la operación de la red y provisión del servicio, mediante un nuevo contrato, que obligue al nuevo operador al pago al operador cesante de las instalaciones, equipos y obras del operador cesante, tomando como referencia el valor en libros, deduciendo los gastos incurridos en el proceso de licitación, multas y otros pagos pendientes.
+• En caso de vencimiento de plazo, el operador cesante podrá participar en la licitación para el otorgamiento de una nueva licencia.
+• Las disposiciones establecidas en el presente Artículo no se aplican a los servicios de radiodifusión y redes privadas.
+Capítulo Séptimo
+Régimen tarifario
+Artículo 43°.- (Política tarifaria)
+• El nivel central del Estado a través de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, regulará el régimen general de tarifas y precios a los servicios de telecomunicaciones y tecnologías de información y comunicación, provistos en todo el territorio nacional, independientemente de su cobertura, de acuerdo a condiciones y metodologías establecidas en el reglamento de la presente Ley.
+• La estructura de tarifas y precios para todos los servicios de telecomunicaciones y tecnologías de información y comunicación y servicio postal que se provea al público, deberá estar conforme con los siguientes preceptos generales:
+• La estructura de tarifas y precios reflejará los costos que demande la provisión eficiente de cada servicio.
+• En los servicios de telecomunicaciones y tecnologías de información y comunicación, la estructura tarifaria atenderá los principios de solidaridad y asequibilidad, de modo que se incluyan opciones tarifarias para usuarias o usuarios de menores ingresos.
+• La estructura tarifaria será diseñada para promover el uso eficiente de los servicios y no incluirá aspectos anticompetitivos.
+• No estarán permitidos subsidios cruzados entre servicios prestados en diferentes redes.
+• Ningún proveedor de servicios podrá discriminar a usuarias o usuarios que se encuentren en circunstancias similares, en relación a tarifas y precios.
+• Se permitirán los descuentos por volumen siempre que se sustenten en reducción de costos, se hagan públicas las tarifas con descuentos y se apliquen de manera no discriminatoria a usuarias o usuarios que se encuentren en circunstancias similares.
+• Los operadores podrán establecer el inicio de sus ciclos de facturación, siempre que sean regulares y cumplan con las disposiciones vigentes sobre facturación, cobranza y corte.
+• En los servicios de telecomunicaciones se establecerán franjas horarias para las tarifas cobradas por tiempo de comunicación. Los servicios a los que se aplicarán las franjas horarias serán establecidos en reglamento.
+Artículo 44°.- (Publicación de tarifas)
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, establecerá formatos y condiciones básicas de publicación de tarifas a los proveedores de servicios y los publicará en su sitio Web, de forma tal que la usuaria o el usuario disponga de información completa, comparable y oportuna.
+• Los operadores deberán publicar en internet, medios escritos de circulación nacional o regional y radiodifusión según se aplique, sus tarifas y precios con anterioridad a la fecha efectiva de cualquier cambio a los mismos. Una copia de la publicación deberá remitirse a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+Capítulo Octavo
+Interconexión y acceso
+Artículo 45°.- (Obligatoriedad de interconexión y acceso) Las redes públicas de telecomunicaciones deben estar obligatoriamente interconectadas, bajo las siguientes condiciones:
+• Interoperabilidad de las redes de telecomunicaciones.
+• Acceso a los elementos de las redes e instalaciones esenciales de telecomunicaciones necesarios para promover la provisión y comercialización de servicios, contenidos y aplicaciones.
+• Atención oportuna de todas las solicitudes de interconexión.
+• Proporcionar interconexión de igual tipo, calidad y funcionalidad a los operadores que la soliciten, de acuerdo a los requisitos establecidos por reglamento.
+• Las redes funcionalmente compatibles deben estar interconectadas, de manera directa o indirecta, respetando la no discriminación, proporcionalidad, reciprocidad, transparencia de los términos y condiciones de acceso e interconexión.
+• Proporcionar información veraz y fidedigna a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes sobre los costos relacionados a la interconexión que inciden en la determinación de las tarifas para las usuarias o los usuarios finales.
+• Obligatoriedad en la separación de cuentas relacionadas con actividades a la interconexión y el acceso.
+• Otros establecidos en reglamento.
+Artículo 46°.- (Limitación e interrupción de la interconexión)
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes podrá limitar la obligación de interconectar en caso de que las redes no sean técnicamente ni funcionalmente compatibles, sean utilizadas para fines no autorizados o la interconexión propuesta represente peligro sustancial a las instalaciones, redes y equipos del operador solicitado o amenace la vida o la seguridad de las usuarias o usuarios de cualesquiera de las redes y otros casos que señale el reglamento.
+• La interconexión no podrá ser interrumpida, total o parcialmente, sin previa autorización escrita de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes en los casos y condiciones previstos en reglamento.
+Artículo 47°.- (Mecanismos de interconexión)
+• La interconexión puede realizarse a través de:
+• La adhesión a la oferta básica de interconexión del operador con quien se desea establecer la interconexión con la aprobación de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Por acuerdo de interconexión negociado y definido entre las partes, con la aprobación de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Por acuerdo de interconexión o adhesión a la oferta básica de interconexión de un tercer operador, interconectado al operador con quien se desea establecer la interconexión.
+• De no cumplirse con la interconexión de acuerdo a las condiciones establecidas en cualquiera de los mecanismos de interconexión, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes podrá intervenir y disponer su cumplimiento.
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes intervendrá en casos de conflictos de interconexión entre operadores.
+Artículo 48°.- (Cargos de interconexión y precios de elementos desagregados y servicios de apoyo)
+• Los precios máximos para los cargos de interconexión y precios de elementos desagregados y servicios de apoyo de un operador, serán establecidos por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, en función a metodología establecida en reglamento.
+• Los precios de cargos de interconexión serán aplicados por los operadores y proveedores en moneda nacional, con fraccionamiento al segundo y por tiempo efectivo de comunicación por cada operador.
+• En la interconexión se podrán establecer franjas horarias para los cargos de interconexión.
+Artículo 49°.- (Itinerancia o roaming en áreas rurales)
+• Para garantizar a las usuarias o usuarios la cobertura nacional, todo operador de servicio móvil tendrá la obligación de prestar el servicio de apoyo de itinerancia o roaming por lo menos para comunicaciones telefónicas a las usuarias o usuarios de otro operador que no cuenten con cobertura móvil en áreas rurales, de acuerdo a reglamento.
+• Los operadores del servicio móvil garantizarán la compatibilidad de sus redes en toda área geográfica de forma tal que se comporten como una red única de cobertura nacional y su uso sea transparente para cualquier usuario.
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes queda encargada de fiscalizar, controlar, supervisar la implementación del servicio de itinerancia o roaming en áreas rurales, así como de determinar las tarifas en caso que los operadores no lleguen a un acuerdo.
+Artículo 50°.- (Interconexión entre proveedores de internet) Los proveedores de internet, deben obligatoriamente establecer y aceptar interconexiones entre sí, dentro del territorio nacional, a través de un punto de intercambio de tráfico, a fin de cursar el tráfico de internet, de acuerdo a las condiciones establecidas mediante reglamento.
+Capítulo Noveno
+Servicios públicos sobre internet
+Artículo 51°.- (Servicios públicos sobre internet)
+• Los operadores de servicios públicos sobre internet, con autorizaciones de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, podrán estructurar sus redes en forma libre de manera de obtener la mayor eficiencia de ellas y proporcionar una adecuada calidad del servicio conforme a sus características técnicas, cumpliendo con las disposiciones legales, reglamentarias y técnicas de telecomunicaciones, que correspondan de acuerdo a la presente Ley, al reglamento, su licencia y a la normativa aplicable, según su naturaleza.
+• El reglamento a la presente Ley debe establecer las condiciones y características del servicio público de voz sobre internet, entendido como el servicio que permite las comunicaciones que se realicen entre usuarias o usuarios de este servicio y usuarias o usuarios de la red pública telefónica o de otra red de un operador o proveedor de servicio público del mismo tipo, o viceversa, para lo cual requiere contar entre otros aspectos, con interconexión y numeración.
+Capítulo Décimo
+Numeración
+Artículo 52°.- (Numeración recurso limitado)
+• La numeración utilizada en los servicios de telecomunicaciones y tecnologías de información y comunicación es un recurso limitado y corresponde su administración, control y fiscalización a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes en todo el territorio del Estado Plurinacional, de acuerdo a lo establecido en el Plan Técnico Fundamental de Numeración.
+• En el Plan Técnico Fundamental de Numeración se establece, los números y series de números adecuados para todos los servicios de telecomunicaciones y tecnologías de información y comunicación.
+• Los recursos de numeración son otorgados de forma objetiva, transparente y no discriminatoria.
+• Los atributos de numeración que se otorguen de conformidad con esta Ley, tendrán carácter meramente instrumental, en consecuencia, su otorgamiento no confiere derechos a los operadores y proveedores de servicios de telecomunicaciones y tecnologías de información y comunicación, por lo que la modificación o supresión para el caso que se encuentren sin utilización, no genera derecho de indemnización alguna.
+• Se establecerá mediante norma expresa que las usuarias o usuarios de los servicios puedan conservar los números que les hayan sido asignados por el operador inicial.
+• Los recursos de numeración no podrán ser transferidos a otro proveedor, en forma directa o indirecta, la transferencia implicará la inmediata reversión de este recurso limitado, salvo autorización mediante norma expresa.
+Artículo 53°.- (Selección de operador o proveedor de larga distancia) Para la utilización de los servicios de telefonía de larga distancia, la selección del operador o proveedor por parte de la usuaria o del usuario final se realiza mediante el método de selección por marcación en cada llamada, a través de un código de selección asignado por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+Capítulo Onceavo
+Derechos y obligaciones de las usuarias y usuarios
+Artículo 54°.- (Derechos de las usuarias y usuarios) Las usuarias o los usuarios de los servicios de telecomunicaciones y tecnologías de información y comunicación tienen derecho a:
+• Acceder en condiciones de igualdad, equidad, asequibilidad, calidad, de forma ininterrumpida a los servicios de telecomunicaciones y tecnologías de información y comunicación.
+• Elegir y cambiar libremente de operador o proveedor de los servicios y de los planes de acceso a los mismos, salvo las condiciones pactadas libremente en el contrato, las cuales deben ser explícitas, claras y previamente informadas a las usuarias y los usuarios.
+• Acceder a información clara, precisa, cierta, completa, oportuna y gratuita acerca de los servicios de telecomunicaciones y tecnologías de información y comunicación, a ser proporcionada por los operadores o proveedores de los servicios.
+• Acceder gratuitamente a los servicios de telecomunicaciones y tecnologías de información y comunicación en casos de emergencia, que determine la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Recibir de forma oportuna, comprensible y veraz la factura mensual desglosada de todos los cargos y servicios del cual es usuario, en la forma y por el medio en que se garantice su privacidad.
+• Exigir respeto a la privacidad e inviolabilidad de sus comunicaciones, salvo aquellos casos expresamente señalados por la Constitución Política del Estado y la Ley.
+• Conocer los indicadores de calidad de prestación de los servicios al público de los proveedores de telecomunicaciones y tecnologías de información y comunicación.
+• Acceder gratuitamente a las guías telefónicas a nivel nacional y a un servicio nacional gratuito de información de voz, sobre sus contenidos.
+• Solicitar la exclusión, sin costo alguno, de las guías de usuarias o usuarios disponibles al público, ya sean impresas o electrónicas. Las usuarias o usuarios podrán decidir cuáles datos personales se incluyen, así como comprobarlos, corregirlos o suprimirlos.
+• Suscribir contratos de los servicios de telecomunicaciones y tecnologías de información y comunicación de acuerdo a los modelos de contratos, términos y condiciones, previamente aprobados por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Ser informado por el proveedor oportunamente, cuando se produzca un cambio de los precios, las tarifas o los planes contratados previamente.
+• Recibir el reintegro o devolución de montos que resulten a su favor por errores de facturación, deficiencias o corte del servicio.
+• Ser informado sobre los plazos de vigencia de las ofertas y promociones de los servicios.
+• Obtener respuesta efectiva a las solicitudes realizadas al proveedor.
+• Ser informado oportunamente de la desconexión o corte programado de los servicios.
+• Reclamar ante los proveedores de servicios y acudir ante las autoridades competentes en aquellos casos que la usuaria o usuario considere vulnerados sus derechos, mereciendo atención oportuna.
+• Recibir protección del proveedor del servicio sobre los datos personales contra la publicidad no autorizada por la usuaria o usuario, en el marco de la Constitución Política del Estado y la presente Ley.
+• Disponer, como usuaria o usuario en situación de discapacidad y persona de la tercera edad facilidades de acceso a los servicios de telecomunicaciones y tecnologías de información y comunicación, determinados en reglamento.
+• Exigir la protección de la niñez, adolescencia y juventud en la prestación de los servicios.
+• Recibir servicios que no causen daños a la salud y al medio ambiente, conforme a normas establecidas.
+• Participar en los mecanismos de control social.
+• Otros que se deriven de la aplicación de la Constitución Política del Estado, Tratados Internacionales, las leyes y demás normas aplicables.
+Artículo 55°.- (Obligaciones de las usuarias y usuarios) Son obligaciones de las usuarias y usuarios:
+• Pagar sus facturas por los servicios recibidos, de conformidad con los precios o tarifas establecidas.
+• Responder por la utilización de los servicios por parte de todas las personas que tienen acceso al mismo, en sus instalaciones o que hacen uso del servicio bajo su supervisión o control.
+• No causar daño a las instalaciones, redes y equipos de los operadores y proveedores.
+• Cumplir con las instrucciones y planes que emita la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes en casos de emergencia y seguridad del Estado.
+• No causar interferencias perjudiciales a operaciones debidamente autorizadas.
+• Otros que se deriven de la aplicación de la Constitución Política del Estado, las leyes y demás normas aplicables.
+Artículo 56°.- (Inviolabilidad y secreto de las comunicaciones) En el marco de lo establecido en la Constitución Política del Estado, los operadores de redes públicas y proveedores de servicios de telecomunicaciones y tecnologías de información y comunicación, deben garantizar la inviolabilidad y secreto de las comunicaciones, al igual que la protección de los datos personales y la intimidad de usuarias o usuarios, salvo los contemplados en guías telefónicas, facturas y otros establecidos por norma.
+Artículo 57°.- (Regla de interpretación) En caso de existir duda en la aplicación de la normativa del sector entre una usuaria o un usuario y un proveedor, se aplicará la norma que favorezca a la usuaria o usuario.
+Capítulo Doceavo
+Derechos y obligaciones de los operadores y proveedores
+Artículo 58°.- (Derechos de los operadores y proveedores)
+• Recibir oportunamente el pago por los servicios provistos, de conformidad con los precios o tarifas establecidas.
+• Cortar el servicio provisto por falta de pago por parte de las usuarias o usuarios, previa comunicación, conforme a lo establecido por reglamento.
+• Recibir protección frente a interferencias perjudiciales a operaciones debidamente autorizadas.
+• Otros que se deriven de la aplicación de la Constitución Política del Estado, la presente Ley y demás normas aplicables.
+Artículo 59°.- (Obligaciones de los operadores y proveedores)
+• Someterse a la jurisdicción y competencia de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Proveer en condiciones de igualdad, equidad, asequibilidad, calidad, de forma ininterrumpida, los servicios de telecomunicaciones y tecnologías de información y comunicación.
+• Proporcionar información clara, precisa, cierta, completa, oportuna y gratuita acerca de los servicios de telecomunicaciones y tecnologías de información y comunicación, a las usuarias o los usuarios.
+• Proporcionar información clara, precisa, cierta, completa y oportuna a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Proveer gratuitamente los servicios de telecomunicaciones y tecnologías de información y comunicación en casos de emergencia, que determine la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Entregar en servicios de modalidad post-pago de forma oportuna, comprensible y veraz, la factura mensual desglosada de todos los cargos y servicios del cual es proveedor, en la forma y por el medio en que se garantice la privacidad de la usuaria o del usuario y facilitar los medios de pago por los servicios prestados. En servicios de modalidad pre-pago o al contado, entregar la factura según corresponda.
+• Entregar gratuitamente y anualmente a las usuarias o los usuarios de servicios de telefonía, guías telefónicas impresas o electrónicas y un servicio gratuito de información de voz, sobre su contenido, así como, excluir sin costo alguno, a las usuarias o los usuarios que así lo soliciten.
+• Suscribir contratos de los servicios de telecomunicaciones y tecnologías de información y comunicación de acuerdo a los modelos de contratos, términos y condiciones, previamente aprobados por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• Efectuar el reintegro o devolución de montos que resulten a favor de las usuarias o los usuarios por errores de facturación, deficiencias o corte del servicio, con los respectivos intereses legales.
+• Informar oportunamente sobre los plazos de vigencia de las ofertas y promociones de los servicios.
+• Atender las solicitudes y las reclamaciones realizadas por las usuarias o los usuarios.
+• Informar oportunamente la desconexión o cortes programados de los servicios.
+• Brindar protección sobre los datos personales evitando la divulgación no autorizada por las usuarias o usuarios, en el marco de la Constitución Política del Estado y la presente Ley.
+• Facilitar a las usuarias o usuarios en situación de discapacidad y personas de la tercera edad, el acceso a los servicios de telecomunicaciones y tecnologías de información y comunicación, determinados en reglamento.
+• Proveer servicios que no causen daños a la salud y al medio ambiente.
+• Cumplir las instrucciones y planes que se emitan en casos de emergencia y seguridad del Estado.
+• Actualizar periódicamente su plataforma tecnológica y los procesos de atención a las usuarias y los usuarios.
+• Otros que se deriven de la aplicación de la Constitución Política del Estado, Tratados Internacionales, las leyes y demás normas aplicables.
+Artículo 60°.- (Metas de calidad) Los proveedores de servicios de telecomunicaciones y tecnologías de información y comunicación, deben presentar mensualmente los resultados de la medición de las metas de calidad para cada servicio, ante la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes y publicarlas en un sitio Web, éstos deberán ser verificables, comparables y de acceso público. La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes aprobará las normas técnicas específicas para su aplicación.
+Artículo 61°.- (Prohibiciones para los operadores y proveedores)
+• Son prohibiciones para los operadores y proveedores:
+• Las prácticas anticompetitivas como la fijación conjunta, directa o indirecta de precios, el establecimiento de limitaciones, control o repartición del mercado, y otras que sean calificadas mediante reglamento.
+• Las prácticas desleales como la realización de cualquier clase de actos comerciales o difusión de información falsa, incompleta o engañosa que de manera directa o indirecta perjudique a las usuarias o usuarios, competidores o al funcionamiento de la economía plural en general, como la inducción a la usuaria o al usuario a error respecto a las características del servicio, el desprestigio de otro operador o proveedor, información incompleta de los servicios propios o de un competidor, y otros que sean calificados mediante reglamento.
+• Las operaciones de concentración económica, cuyo objeto sea limitar, restringir, suprimir o distorsionar el ejercicio de la competencia o que pretendan el control o la exclusividad en la prestación de los servicios de telecomunicaciones y tecnologías de información y comunicación, a través de la toma de control de uno o varios proveedores u operadores, mediante fusiones o absorciones, adquisición de propiedad o cualquier derecho sobre acciones o participaciones de capital, que otorguen al comprador el control sobre otro proveedor u operador o una capacidad de influenciar en sus decisiones; o que tengan vinculación por medio de directoras o directores, o consejeras o consejeros comunes.
+• La formación de monopolios u oligopolios de forma directa o indirecta que impliquen la concentración de frecuencias del espectro radioeléctrico, en los servicios de radiodifusión, de acuerdo a lo establecido por reglamento.
+• Para promover el desarrollo de la economía plural, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, será la encargada de velar por el cumplimiento del presente Artículo.
+Capítulo Treceavo
+Obligaciones económicas de los operadores y proveedores
+Artículo 62°.- (Pagos por asignación y uso del espectro radioeléctrico)
+• Los operadores y proveedores que cuenten con licencias, pagarán por la asignación de frecuencias y por uso de frecuencias del espectro radioeléctrico. Estos pagos son independientes de la tasa de fiscalización y regulación establecida en la presente Ley.
+• El pago por derecho de asignación de frecuencia se efectuará antes de la emisión de la Resolución Administrativa de asignación de frecuencias y el derecho por uso de frecuencias se pagará anualmente de forma anticipada hasta el 31 de enero de cada año.
+• Los montos recaudados por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, por concepto de pagos por derechos de asignación y uso de frecuencias, serán depositados en una cuenta bancaria del Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS, previa deducción del pago de obligaciones a la Unión Internacional de Telecomunicaciones – UIT.
+Artículo 63°.- (Tasa de fiscalización y regulación)
+• Las actividades de fiscalización y regulación de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, así como la alícuota parte que corresponda a las actividades de formulación de normas y regulación del sector de telecomunicaciones y tecnologías de información y comunicación, serán cubiertas mediante la tasa de fiscalización y regulación. Los montos y formas de pago de estas tasas serán establecidos mediante reglamento, en función a lo siguiente:
+• Para titulares de licencias, que no sean operadores o proveedores de servicios o no presten servicios de valor agregado, el uno por ciento anual del valor estimado de mercado de los equipos utilizados que no son de propiedad de un tercero. Se excluye a la actividad de radioaficionados de la aplicación de esta tasa.
+• Para operadores o proveedores que presten servicios o servicios de valor agregado, el uno por ciento de sus ingresos brutos de operación del año anterior, obtenidos por la prestación del servicio.
+• Para los servicios de radiodifusión televisiva o distribución de señales, el uno por ciento de los ingresos brutos de operación del año anterior.
+• Para los servicios de radiodifusión sonora, el medio por ciento de los ingresos brutos de operación del año anterior.
+• Los servicios de radiodifusión provistos por los sectores social comunitario y los pueblos y naciones indígena originario campesinos, y comunidades interculturales y afrobolivianas fuera del área rural, el medio por ciento de sus ingresos brutos.
+• Los recursos de la tasa de fiscalización y regulación no podrán ser utilizados para fines distintos a los establecidos en el presente Artículo.
+• Las entidades territoriales autónomas no podrán crear impuestos, tasas de fiscalización y regulación, derechos de asignación y uso de frecuencias, contribuciones u otros tributos a las actividades de telecomunicaciones y tecnologías de la información y comunicación.
+Artículo 64°.- (Exención)
+• Están exentos del pago de tasas y derechos por utilización de frecuencia, siempre que utilicen frecuencias establecidas en el plan nacional de frecuencias y cumplan con los aspectos técnicos relacionados con su uso:
+• Las telecomunicaciones vinculadas a la seguridad, soberanía y defensa del Estado establecidas por el Órgano Ejecutivo del nivel central del Estado, así como las de carácter social, relacionadas con la educación, salud y emergencias.
+• Los servicios de radiodifusión declarados como oficiales mediante Decreto Supremo, establecidos por el Órgano Ejecutivo del nivel central del Estado.
+• La actividad de radioaficionado.
+• Los servicios de radiodifusión provistos por los pueblos y naciones indígena originario campesinos, y las comunidades interculturales y afrobolivianas, están exentos del pago del uso de frecuencias y del derecho de asignación siempre que utilicen frecuencias establecidas en el Plan Nacional de Frecuencias y cumplan con los aspectos técnicos relacionados con su uso.
+• Los servicios de radiodifusión provistos por los sectores social comunitario en el área urbana pagarán, la tasa de regulación y el derecho de asignación, exceptuando el derecho de uso de frecuencia.
+Capítulo Catorceavo
+Telecomunicaciones de inclusión social
+Artículo 65°.- (Programa Nacional de Telecomunicaciones de Inclusión Social)
+• Se crea el Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS, dependiente del Ministerio de Obras Públicas, Servicios y Vivienda, destinado al financiamiento de programas y proyectos de telecomunicaciones y tecnologías de información y comunicación, que permitan la expansión de redes de telecomunicaciones y desarrollo de contenidos y aplicaciones, para el logro del acceso universal en áreas rurales y de interés social.
+• El Órgano Ejecutivo reglamentará el funcionamiento, control y mecanismos de administración del Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS.
+• Los recursos del Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS no podrán ser utilizados para fines distintos a los establecidos en el presente Artículo.
+Artículo 66°.- (Financiamiento de proyectos de acceso universal a las telecomunicaciones tecnologías de información y comunicación)
+• El financiamiento de los proyectos de telecomunicaciones de inclusión social orientados al acceso universal de las telecomunicaciones y tecnologías de información y comunicación, tendrán las siguientes fuentes de financiamiento:
+• El importe por asignación y uso de frecuencias, multas, los montos de licitaciones, remate de bienes secuestrados definitivamente, recursos de la venta de pliegos, ejecución de boletas de garantía, excedentes de transferencias a nuevos titulares y otros recursos, serán depositados por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, previa deducción del pago de las obligaciones correspondientes a la Unión Internacional de Telecomunicaciones – UIT por concepto de contribuciones anuales, directamente en una cuenta bancaria del Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS, destinados a materializar el financiamiento de proyectos de acceso universal a las telecomunicaciones y tecnologías de información y comunicación.
+• Recursos externos, donaciones y cooperación internacional.
+• Los operadores y proveedores de redes y servicios de telecomunicaciones y tecnologías de información y comunicación con excepción de los proveedores de servicios de radiodifusión, aportarán obligatoriamente del uno hasta el dos por ciento de sus ingresos brutos emergentes de la provisión de los servicios prestados. La forma de cálculo del porcentaje deberá considerar el monto de los ingresos de los operadores y proveedores, de acuerdo a reglamento. Esta obligación reemplazará las metas de expansión en el área rural del servicio local, de larga distancia nacional e internacional y de telefonía pública.
+• Las redes que sean beneficiadas con el financiamiento de proyectos a las telecomunicaciones de inclusión social, deberán ser accesibles a los demás operadores y de acuerdo al costo determinado en la oferta básica de interconexión o a lo que establezca la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• El Ministerio a cargo del sector de telecomunicaciones, elaborará planes y proyectos para expandir la infraestructura de telecomunicaciones para la provisión del acceso universal al servicio de internet de banda ancha hasta el año 2015, que permita reducir los costos de la salida internacional. La administración y utilización de dicha infraestructura, servicios de voz, ancho de banda de internet y otros servicios, serán establecidas mediante reglamento.
+Artículo 67°.- (Ejecución) La ejecución del Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS, estará a cargo de la Unidad de Ejecución de Proyectos del PRONTIS. El Ministerio de Obras Públicas, Servicios y Vivienda suscribirá contratos para la ejecución de proyectos de telecomunicaciones de inclusión social con empresas de telecomunicaciones con participación estatal mayoritaria. Si estas empresas no pudiesen ejecutar los proyectos de telecomunicaciones de inclusión social, el Ministerio podrá licitar los proyectos entre los operadores de servicios establecidos en el país.
+Artículo 68°.- (Articulación) El Ministerio de Obras Públicas, Servicios y Vivienda coordinará la articulación del Plan de Tecnologías de la Información y Comunicación con los planes de salud, educación, culturas, comunicación y demás planes sectoriales, que permitan la optimización de recursos, promoviendo el desarrollo de aplicaciones y la conectividad en todo el territorio del Estado.
+Capítulo Quinceavo
+Administración y registro de los nombres del dominio ‘.bo’
+Artículo 69°.- (Dominio .bo) El nombre de dominio de internet bajo el código de país correspondiente a Bolivia es ‘.bo’, el mismo que es un recurso del sector de telecomunicaciones y tecnologías de información y comunicación, de interés público y cuya provisión, administración, mantenimiento y desarrollo estarán bajo la planeación, regulación y control del Estado, para su aprovechamiento por las usuarias o usuarios.
+Artículo 70°.- (Administrador) En el marco de la convergencia tecnológica y eficiencia del sector de telecomunicaciones y tecnologías de información y comunicación, preservando la integralidad de su desarrollo y reducción de la brecha digital se establece que la administración del dominio ‘.bo’, incluida su planificación, provisión, mantenimiento y desarrollo, debe ser realizada por la Agencia para el Desarrollo de la Sociedad de la Información en Bolivia – ADSIB.
+Título IV
+Desarrollo de contenidos y aplicaciones de tecnologías de información y comunicación
+Capítulo Primero
+Las tecnologías de la información y comunicación en el Estado Plurinacional
+Artículo 71°.- (Prioridad nacional) Se declara de prioridad nacional la promoción del uso de las tecnologías de información y comunicación para procurar el vivir bien de todas las bolivianas y bolivianos.
+Artículo 72°.- (Rol del Estado)
+• El Estado en todos sus niveles, fomentará el acceso, uso y apropiación social de las tecnologías de información y comunicación, el despliegue y uso de infraestructura, el desarrollo de contenidos y aplicaciones, la protección de las usuarias y usuarios, la seguridad informática y de redes, como mecanismos de democratización de oportunidades para todos los sectores de la sociedad y especialmente para aquellos con menores ingresos y con necesidades especiales.
+• Las entidades públicas deberán adoptar todas las medidas necesarias para garantizar el máximo aprovechamiento de las tecnologías de información y comunicación en el desarrollo de sus funciones.
+• El Estado promoverá de manera prioritaria el desarrollo de contenidos, aplicaciones y servicios de las tecnologías de información y comunicación en las siguientes áreas:
+• En educación, como medio para la creación y difusión de los saberes de las bolivianas y los bolivianos en forma universal y equitativa.
+• En salud, como mecanismo para desarrollar el sistema de alerta temprana, bases de administración de recursos en salud y plataformas de acceso a la información y consultas del sector.
+• En gestión gubernamental, como mecanismo para optimizar los sistemas existentes y crear nuevos para atender la demanda social, facilitar el acceso y uso intensivo de estos sistemas a nivel interno de cada unidad gubernamental, entre entidades gubernamentales, entre las ciudadanas y ciudadanos con las entidades gubernamentales.
+• En lo productivo, como mecanismo para optimizar, hacer eficiente y reducir los costos de la economía plural debiendo desarrollarse aplicaciones de tecnologías de la información y comunicación.
+• En comunicación e información, como mecanismo que permita garantizar los derechos a la libre expresión, a la diversidad de la palabra y a la participación activa, plural e informada de las bolivianas y los bolivianos.
+Artículo 73°.- (Comité Plurinacional de Tecnologías de Información y Comunicación – COPLUTIC)
+• Se crea el Comité Plurinacional de Tecnologías de Información y Comunicación – COPLUTIC, con la finalidad de proponer políticas y planes nacionales de desarrollo del sector de tecnologías de información y comunicación, coordinar los proyectos y las líneas de acción entre todos los actores involucrados, definir los mecanismos de ejecución y seguimiento a los resultados.
+• El Comité Plurinacional de Tecnologías de Información y Comunicación –COPLUTIC, estará integrado por el Ministerio de Obras Públicas, Servicios y Vivienda que lo preside, el Ministerio de Comunicaciones, Ministerio de Educación, Ministerio de Planificación del Desarrollo y la Agencia de Desarrollo para la Sociedad de la Información en Bolivia – ADSIB.
+• El funcionamiento del Comité Plurinacional de Tecnologías de Información y Comunicación – COPLUTIC se establecerá en reglamento.
+Artículo 74°.- (Consejo Sectorial de Telecomunicaciones y Tecnologías de Información y Comunicación)
+• Se crea el Consejo Sectorial de Telecomunicaciones y Tecnologías de Información y Comunicación – COSTETIC, como instancia consultiva de proposición y concertación entre el nivel central del Estado y los gobiernos autónomos, para la coordinación de asuntos sectoriales.
+• El Consejo Sectorial de Telecomunicaciones y Tecnologías de Información y Comunicación – COSTETIC, será presidido por el Ministro cabeza de sector, su composición y funcionamiento se determinará mediante norma expresa del nivel central del Estado conforme al Artículo 132 de la Ley Nº 031 .
+Capítulo Segundo
+Gobierno electrónico y software libre
+Artículo 75°.- (Gobierno Electrónico)
+• El nivel central del Estado promueve la incorporación del Gobierno Electrónico a los procedimientos gubernamentales, a la prestación de sus servicios y a la difusión de información, mediante una estrategia enfocada al servicio de la población.
+• El Órgano Ejecutivo del nivel central del Estado, elaborará los lineamientos para la incorporación del Gobierno Electrónico.
+Artículo 76°.- (Alcance) El Estado fijará los mecanismos y condiciones que las entidades públicas aplicarán para garantizar el máximo aprovechamiento de las tecnologías de la información y comunicación, que permitan lograr la prestación de servicios eficientes.
+Artículo 77°.- (Software libre)
+• Los Órganos Ejecutivo, Legislativo, Judicial y Electoral en todos sus niveles, promoverán y priorizarán la utilización del software libre y estándares abiertos, en el marco de la soberanía y seguridad nacional.
+• El Órgano Ejecutivo del nivel central del Estado, elaborará el plan de implementación de software libre y estándares abiertos en coordinación con los demás órganos del Estado y entidades de la administración pública.
+Capítulo Tercero
+Documentos y firmas digitales
+Artículo 78°.- (Validez jurídica) Tienen validez jurídica y probatoria:
+• El acto o negocio jurídico realizado por persona natural o jurídica en documento digital y aprobado por las partes a través de firma digital, celebrado por medio electrónico u otro de mayor avance tecnológico.
+• El mensaje electrónico de datos.
+• La firma digital.
+Artículo 79°.- (Exclusiones) Se exceptúan los siguientes actos y hechos jurídicos de su celebración por medios electrónicos:
+• Los actos propios del derecho de familia.
+• Los actos en que la Ley requiera la concurrencia personal física de alguna de las partes.
+• Los actos o negocios jurídicos señalados en la Ley que, para su validez o producción de determinados efectos, requieran de documento físico o por acuerdo expreso de partes.
+Artículo 80°.- (Certificados emitidos por entidades extranjeras) Los certificados digitales emitidos por entidades certificadoras extranjeras tienen la misma validez y eficacia jurídica reconocida en la presente Ley, siempre y cuando tales certificados sean reconocidos por una entidad certificadora autorizada nacional que garantice, en la misma forma que lo hace con sus propios certificados, el cumplimiento de los requisitos, el procedimiento, así como la validez y vigencia del certificado.
+Artículo 81°.- (Autoridad y atribuciones) La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes es la encargada de autorizar, regular, fiscalizar, supervisar y controlar a las entidades certificadoras de acuerdo a lo establecido en la presente Ley y su reglamentación.
+Artículo 82°.- (Entidad certificadora) Pueden constituirse y operar como entidades certificadoras, las personas jurídicas de derecho público o privado en la prestación de servicios de certificación digital, las que deben cumplir con los requisitos técnicos, económicos y legales establecidos en la presente Ley y su reglamento.
+Artículo 83°.- (Certificados digitales para el sector público) La Agencia para el Desarrollo de la Sociedad de la Información en Bolivia – ADSIB, prestará el servicio de certificación para el sector público y la población en general a nivel nacional, conforme a las normas contenidas en la presente Ley, y velará por la autenticidad, integridad y no repudio entre las partes.
+Artículo 84°.- (Reglamentación) El reglamento referido a firmas y certificados digitales comprenderá:
+• Los requisitos, funciones, procedimientos, convenio de partes, obligaciones, cese de la entidad certificadora autorizada, responsabilidad de las entidades certificadoras autorizadas ante terceros, sanciones, resolución de controversias y otros.
+• La publicidad, seguridad e integridad en el uso de la firma digital.
+• Las definiciones, principios y procedimientos relativos al tratamiento de los datos personales.
+Capítulo Cuarto
+Comercio electrónico
+Artículo 85°.- (La oferta electrónica de bienes y servicios) La oferta de bienes y servicios por medios digitales, que cumplan con las condiciones generales y específicas que la Ley impone, debe ser realizada en un ambiente técnicamente confiable y en las condiciones que establece el Código de Comercio.
+Artículo 86°.- (Validez de los contratos electrónicos)
+• Las partes podrán realizar transacciones comerciales mediante documento digital en las condiciones señaladas en la Ley.
+• Lo dispuesto en el presente capítulo no será aplicable a aquellos contratos en los cuales la Ley o el mismo contrato excluya expresamente la validez de los documentos digitales.
+Artículo 87°.- (Valoración)
+• Los documentos digitales carentes de firma digital, serán admisibles como principio de prueba o indicios.
+• Se tomará en cuenta la confiabilidad de la forma en que se haya generado, archivado y comunicado el documento digital, la forma en que se haya conservado la integridad de la información, y la forma en la que se identifique a su iniciador y cualquier otro factor pertinente.
+Artículo 88°.- (Controversias) En caso de controversias las partes se someterán a la jurisdicción estipulada en el contrato, a falta de ésta, se sujetarán a la autoridad administrativa boliviana si corresponde y en su caso a la jurisdicción ordinaria.
+Capítulo Quinto
+Correo electrónico
+Artículo 89°.- (Correo electrónico personal) A los efectos de esta Ley el correo electrónico personal se equipara a la correspondencia postal, estando dentro del alcance de la inviolabilidad establecida en la Constitución Política del Estado. La protección del correo electrónico personal abarca su creación, transmisión, recepción y almacenamiento.
+Artículo 90°.- (Correo electrónico laboral) Cuando una cuenta de correo electrónico sea provista por la entidad empleadora al dependiente como medio de comunicación, en función de una relación laboral, se entenderá que la titularidad de la misma corresponde al empleador, independientemente del nombre de usuario y clave de acceso que sean necesarias para su uso, debiendo comunicarse expresamente las condiciones de uso y acceso del correo electrónico laboral a la empleada o empleado.
+Artículo 91°.- (Comunicaciones comerciales publicitarias por correo electrónico o medios electrónicos) Mediante reglamento se establecerán, las condiciones de las comunicaciones comerciales publicitarias realizadas por medio de correo electrónico o cualquier otro medio electrónico, sin perjuicio de la aplicación, en los casos que corresponda, de la normativa vigente en materia comercial sobre publicidad y protección a las usuarias o usuarios.
+Título V
+Infracciones y sanciones
+Artículo 92°.- (Infracciones) Constituyen infracciones dentro el marco regulatorio las transgresiones a las disposiciones contenidas en la presente Ley y sus reglamentos, contratos y otras normas aplicables al sector de telecomunicaciones y tecnologías de información y comunicación.
+Artículo 93°.- (Criterios) Las sanciones serán determinadas teniendo en cuenta los siguientes criterios:
+• Naturaleza y gravedad del hecho.
+• Extensión y magnitud del peligro o daño causado.
+• Dolo o culpa en la comisión de la infracción.
+• Existencia de agravantes y atenuantes en la comisión de la infracción.
+Artículo 94°.- (Sanciones)
+• Sin perjuicio de la acción penal que corresponda, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, aplicará a los infractores las sanciones de apercibimiento, secuestro o embargo de equipos y material, multas e inhabilitación temporal para ejercer las actividades en telecomunicaciones y tecnologías de información y comunicación.
+• El cumplimiento de las sanciones impuestas según el parágrafo anterior, no convalida la actividad irregular que dio lugar a la sanción, debiendo el infractor cesar los actos irregulares en el plazo establecido por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• El infractor, independientemente de la sanción impuesta, está obligado al resarcimiento de daños y perjuicios ocasionados que pudieran establecerse judicialmente por la comisión del hecho ilícito.
+• La aplicación de sanciones no exime al operador o proveedor de servicios de la responsabilidad de cumplimiento de sus obligaciones en la prestación del servicio a la usuaria o usuario, siempre y cuando no involucren causales de caducidad, revocatoria o cancelación.
+• La graduación, montos y forma de pago por las sanciones se establecerán en reglamento. El monto proveniente del pago de estas sanciones se depositará en la cuenta bancaria correspondiente al Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS.
+• Las sanciones sólo se ejecutarán, cuando la resolución que las imponga cause estado o no admita recurso ulterior.
+Artículo 95°.- (Apercibimiento) La sanción de apercibimiento consiste en una llamada de atención escrita, en la cual se señala el hecho ilícito y se conmina a proceder conforme a derecho, en el plazo que se fije al efecto, tomando en cuenta los criterios de determinación señalados.
+Artículo 96°.- (Secuestro de equipos, componentes, piezas y materiales) El secuestro de equipos, componentes, piezas y materiales de operadores no legales, tendrá los siguientes alcances:
+• El secuestro como medida precautoria se aplicará en los casos expresamente señalados en el reglamento.
+• El secuestro en la vía precautoria o en la de sanción de bienes susceptibles de deterioro, perecimiento, obsolescencia o de difícil o gravosa custodia podrá ser objeto de venta anticipada en subasta pública dispuesta mediante resolución motivada, de acuerdo a normativa.
+• Si el secuestro cautelar importa bienes conforme al inciso anterior, se podrá solicitar sustitución de lo secuestrado, en cuyo caso, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes dispondrá lo que fuere conveniente. Si no mediare solicitud expresa de sustitución, y en caso de no consolidarse el secuestro como sanción, el bien o bienes secuestrados serán devueltos en el valor obtenido de la venta anticipada en subasta pública.
+• El secuestro como sanción se aplicará a las infracciones expresamente señaladas en reglamento e importará la pérdida de la propiedad de equipos, componentes, piezas y materiales.
+• Por razones de interés social, no se dispondrá el secuestro como sanción si los equipos, componentes, piezas y materiales se encuentren afectados a la prestación de servicios o actividades de telecomunicaciones legalmente concedidos, autorizados u otorgados.
+• En todo acto de secuestro, se levantará inventario notariado de los bienes secuestrados en el que conste su naturaleza y estado de conservación.
+Artículo 97°.- (Multa) La sanción de multa consiste en la imposición de pago de una cantidad de dinero que será determinada entre uno y quinientos días multa, según el servicio al que corresponda y de acuerdo a reglamento.
+Artículo 98°.- (Inhabilitación temporal) La sanción de inhabilitación temporal consiste en la prohibición de realizar actividades de telecomunicaciones vinculadas al giro comercial de operadores que no prestan servicios de telecomunicaciones al público, por un tiempo mínimo de cinco días y máximo de trescientos sesenta días calendario.
+Artículo 99°.- (Clasificación)
+• Las infracciones, teniendo en cuenta el objeto de las mismas, se clasifican en infracciones:
+• Por prestación ilegal del servicio, ejercicio ilegal de actividades de telecomunicaciones y tecnologías de información y comunicación y por utilización indebida del espectro radioeléctrico.
+• Contra el sistema de telecomunicaciones.
+• Contra los derechos de las usuarias y los usuarios.
+• Contra los derechos de los operadores y proveedores.
+• Contra las atribuciones de la autoridad fiscalizadora.
+• Otras infracciones.
+• Las sanciones se aplicarán teniendo en cuenta la gravedad de las infracciones.
+• La tipificación o individualización de las infracciones serán establecidas en reglamento.
+Artículo 100°.- (Intervención preventiva)
+• En caso de ponerse en riesgo la continuidad en la provisión de servicios de telecomunicaciones, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, designará mediante Resolución Administrativa debidamente fundamentada y previa notificación al operador o proveedor, un interventor por el plazo de noventa días, de acuerdo al procedimiento establecido en reglamento, las respectivas licencias y contratos. El plazo de la intervención podrá ser renovado por un período similar, previa aprobación del Ministerio de Obras Públicas, Servicios y Vivienda.
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, determinará la declaratoria de caducidad por las causales establecidas en norma expresa o en su caso, las medidas que el operador o proveedor de servicios de telecomunicaciones deberá adoptar para evitar dicha declaratoria, antes de la conclusión de este plazo, en base al informe presentado por el interventor designado para tal efecto.
+Título VI
+Servicio postal
+Capítulo Primero
+Servicio postal
+Artículo 101°.- (Clasificación de los servicios postales) Los servicios postales se clasifican en:
+• Servicios postales básicos.
+• Servicios postales no básicos.
+• Otros servicios a definirse en reglamento.
+Artículo 102°.- (Provisión del servicio postal)
+• El Estado en su nivel central autorizará la provisión de los servicios postales básicos a entidad pública, mixta, cooperativa o comunitaria, en los términos de la presente Ley y su reglamento.
+• El Estado en su nivel central autorizará la provisión de los servicios postales no básicos a persona natural o jurídica, privada, pública, mixta, cooperativa o comunitaria, en los términos de la presente Ley y su reglamento.
+Capítulo Segundo
+Servicio postal universal
+Artículo 103°.- (Servicio postal universal) El Estado en su nivel central a través del operador público designado, prestará el servicio postal universal, garantizando a todos los habitantes en forma permanente, con frecuencia predefinida, con calidad determinada, a precios asequibles, la prestación de servicios de oferta mínima, que se establecerán en reglamento.
+Artículo 104°.- (Programa Nacional del Servicio Postal Universal – PNSPU)
+• Se crea el Programa Nacional del Servicio Postal Universal – PNSPU, dependiente del Ministerio de Obras Públicas, Servicios y Vivienda, destinado al financiamiento de la red postal y la operabilidad del servicio postal universal, en el área rural o de interés social.
+• El Órgano Ejecutivo del nivel central, reglamentará el funcionamiento, control y mecanismos de administración, del Programa Nacional del Servicio Postal Universal – PNSPU.
+• Los recursos del Programa Nacional del Servicio Postal Universal – PNSPU no podrán ser utilizados para fines distintos a los establecidos en el presente Artículo.
+• El operador público designado para la utilización de los recursos provenientes del Programa Nacional del Servicio Postal Universal – PNSPU, presentará proyectos al Ministerio de Obras Públicas, Servicios y Vivienda, para la implementación del servicio postal universal.
+• El Programa se financiará con los siguientes recursos:
+• La contribución anual del tres por ciento de los ingresos brutos del año anterior de los operadores postales, con excepción del operador público designado.
+• La contribución anual del tres por ciento de los ingresos brutos del año anterior, correspondientes al servicio postal que prestan los operadores del servicio de transporte aéreo, terrestre y fluvial.
+• Recursos externos, donaciones y otros.
+Capítulo Tercero
+Operador público designado, licencia y regulación
+Artículo 105°.- (Operador público designado)
+• El Órgano Ejecutivo del nivel central, mediante norma expresa nombrará al operador público designado.
+• El operador público designado, es el responsable de prestar y desarrollar el servicio postal universal en todo el territorio nacional, cuya autorización estará exenta de pago.
+• Para la prestación de los servicios postales básicos, no básicos y otros a ser definidos en reglamento, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, de forma directa otorgará la licencia que estará exenta de pago, previo cumplimiento de requisitos establecidos mediante reglamento.
+Artículo 106°.- (Licencia)
+• Las entidades públicas, cooperativas y comunitarias, deben obtener la licencia para la provisión de los servicios postales básicos presentando la documentación legal, técnica y económica, pagando por la otorgación de la licencia según categorización.
+• Las personas naturales o jurídicas, públicas o privadas, cooperativas y comunitarias, deben obtener la licencia para la provisión de los servicios postales no básicos, presentando la documentación legal, técnica y económica, pagando por la otorgación de la licencia según categorización.
+• Los operadores postales deben recabar el certificado anual de operaciones, pagando por anticipado, el importe correspondiente de acuerdo a la categorización.
+• Las licencias serán otorgadas a personas naturales o jurídicas domiciliadas en el país, estarán sometidas a la jurisdicción, las leyes y autoridades bolivianas, no pudiendo invocarse situación de excepción, ni apelar a reclamaciones diplomáticas para obtener un tratamiento más favorable.
+• Los procedimientos, requisitos, vigencia, categorización y registro para la obtención de la licencia y del certificado anual de operaciones, serán establecidos mediante reglamento.
+Artículo 107°.- (Regulación del sector postal)
+• La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, creará una unidad de regulación postal, que será la encargada de regular, supervisar, controlar, fiscalizar, autorizar, establecer el régimen general de tarifas y los niveles de calidad de los servicios postales.
+• La regulación y fiscalización se financiará con los siguientes recursos:
+• El uno por ciento de los ingresos brutos del año anterior de los operadores postales.
+• El uno por ciento de los ingresos brutos del año anterior de los servicios postales que prestan los operadores del servicio de transporte aéreo, terrestre y fluvial, para lo cual deberán mantener cuentas separadas de su actividad principal.
+• El uno por ciento de los ingresos brutos del año anterior del Operador Público Designado, deduciendo las recaudaciones correspondientes al servicio postal universal.
+• Pagos de multas.
+• Ingresos por otorgación de la licencia y del certificado anual de operaciones.
+Capítulo Cuarto
+Infracciones y sanciones
+Artículo 108°.- (Infracciones y sanciones)
+• Constituyen infracciones administrativas las transgresiones a las disposiciones contenidas en la presente Ley, sus reglamentos, contratos y otras normas aplicables al sector postal.
+• Sin perjuicio de las acciones penales que correspondan, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, aplicará a los infractores las sanciones de clausura, multas y revocatoria de la licencia para ejercer las actividades postales.
+• El cumplimiento de las sanciones impuestas según el parágrafo anterior, no convalida la actividad irregular que dio lugar a la sanción, debiendo el infractor cesar los actos irregulares en el plazo establecido por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• El infractor, independientemente de la sanción impuesta, está obligado al resarcimiento de daños y perjuicios ocasionados que pudieran establecerse judicialmente por la comisión del hecho ilícito.
+• La aplicación de sanciones no exime al operador de servicios postales de la responsabilidad emergente del incumplimiento de sus obligaciones en la prestación del servicio a la usuaria o usuario.
+• La graduación, montos y forma de pago por las sanciones, se establecerán en reglamento. El monto proveniente del pago de estas multas se depositará en una cuenta bancaria de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• La tipificación o individualización serán establecidas en reglamento.
+Capítulo Quinto
+Derechos de las usuarias y usuarios del servicio postal
+Artículo 109°.- (Derechos de las usuarias y usuarios del servicio postal) Las usuarias y usuarios del servicio postal tienen los siguientes derechos:
+• Al secreto e inviolabilidad de la correspondencia postal.
+• Al respeto a la intimidad de las usuarias y usuarios.
+• A la confidencialidad de los datos.
+• A la prestación de un servicio postal con calidad.
+• A la igualdad de trato a las usuarias y usuarios del servicio postal que estén en condiciones análogas.
+• A la información fidedigna sobre las características del servicio postal.
+• A la reclamación.
+• A la propiedad de los envíos postales.
+Título VII
+Participación y control social en telecomunicaciones, tecnologías de información y comunicación y servicio postal
+Artículo 110°.- (Alcance)
+• La sociedad civil organizada participará del diseño de las políticas públicas de telecomunicaciones, tecnologías de información y comunicación y del servicio postal, ejerciendo el control social en todos los niveles del Estado a la calidad de los servicios públicos.
+• El Ministerio de Obras Públicas, Servicios y Vivienda, y la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, garantizarán la creación de espacios permanentes de participación y control social, el acceso a la información y la realización de audiencias públicas.
+• Los Gobiernos Autónomos Departamentales, garantizarán la creación de espacios permanentes de participación y control social, en la formulación de las políticas departamentales de telecomunicaciones en telefonía fija, redes privadas y radiodifusión, como en el seguimiento y evaluación a la calidad de los servicios.
+• Los Gobiernos Autónomos Municipales e indígena originario campesinos, garantizarán la creación de espacios permanentes de participación y control social, para el seguimiento y evaluación a la calidad de los servicios públicos de telecomunicaciones y tecnologías de información y comunicación, así como del servicio postal, a través de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• La participación y control social se regirá por lo establecido en la Constitución Política del Estado y la Ley vinculada a su ejercicio, sin perjuicio de la aplicación de otros mecanismos de rendición de cuentas, fiscalización y control.
+• El control social no retrasará, impedirá o suspenderá, la ejecución o continuidad de planes, programas, proyectos y actos administrativos de los servicios públicos de telecomunicaciones y tecnologías de información y comunicación, así como del servicio postal, salvo que se demuestre un evidente y potencial daño al Estado, a los intereses o derechos colectivos, específicos y concretos. El potencial daño será determinado por autoridad competente.
+Título VIII
+Otras disposiciones
+Artículo 111°.- (Casos de emergencia y seguridad del estado)
+• En casos de peligro para la seguridad del Estado, amenaza externa, conmoción interna o desastres, los operadores y proveedores de telecomunicaciones y tecnologías de información y comunicación, estarán obligados a cooperar y poner a disposición de las autoridades públicas legítima y legalmente constituidas, de manera gratuita y oportuna, las redes y servicios, así como la emisión, transmisión y recepción de las telecomunicaciones y tecnologías de información y comunicación que les sean requeridas.
+• En casos de desastre o emergencia declarada, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes y los operadores y proveedores, realizarán la coordinación en forma oportuna y eficiente con el Sistema Nacional de Reducción de Riesgos y Atención de Desastres y Emergencias – SISRADE.
+Artículo 112°.- (Mensajes presidenciales oficiales) Los operadores de radiodifusión de señales de audio y video (radio y televisión abierta) y distribución de señales de audio y video, están obligados a realizar dos transmisiones en cadena al año, sin pago alguno, de los mensajes oficiales de la Presidenta o Presidente del Estado Plurinacional dirigidos a todas las personas del país.
+Artículo 113°.- (Conexiones telefónicas ilegales) El Estado en su nivel central tomará las acciones y medidas necesarias para evitar el fraude de tráfico telefónico internacional entrante de voz, conocido como by pass o conexión ilegal, a través de las instancias administrativas o jurisdiccionales.
+Disposiciones transitorias
+Artículo transitorio 1°.-
+• Los operadores de redes, proveedores de servicios de telecomunicaciones y de radiodifusión, en cumplimiento de la presente Ley, deberán migrar sus autorizaciones transitorias especiales, licencias, autorizaciones y registros, en un plazo máximo de doce meses a partir de la vigencia de la presente Ley, en el marco del cronograma de migración elaborado por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes.
+• En cumplimiento a la Disposición Transitoria Octava de la Constitución Política del Estado, la migración al nuevo régimen jurídico establecido en la presente Ley, en ningún caso supondrá el desconocimiento de los derechos adquiridos, que se encuentran vigentes y hayan sido otorgados conforme a norma.
+• Las licencias experimentales otorgadas por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes no serán sujetas a migración.
+• Los operadores estatales de servicios de radiodifusión presentarán la documentación técnica para obtener la licencia correspondiente de acuerdo a reglamento.
+Artículo transitorio 2°.- Las autorizaciones transitorias especiales, licencias, registros y autorizaciones otorgados conforme al anterior régimen, serán migrados al nuevo sistema de autorizaciones y formalizados a través de contratos, de acuerdo a lo siguiente:
+• Las autorizaciones transitorias especiales para operar una red pública de telecomunicaciones o para prestar servicios de telecomunicaciones al público migrarán a licencia única.
+• Las licencias para el uso de frecuencias electromagnéticas migrarán a licencia para el uso de frecuencias radioeléctricas.
+• Los registros para proveer servicios de valor agregado que no sean para proveer servicios de internet, migrarán a licencia de servicio de valor agregado.
+• Los registros para proveer servicios de valor agregado de internet migrarán a licencia única.
+• Los registros y licencias para operar redes privadas de telecomunicaciones migrarán a licencia de red privada y licencia de uso de frecuencias radioeléctricas, respectivamente.
+• Las autorizaciones y licencias para uso de frecuencia para operar estaciones espaciales o estaciones terrenas en territorio nacional, migrarán a licencia para provisión de servicio satelital.
+• Los registros y licencias de radioaficionados migrarán a licencia de radioaficionado.
+Artículo transitorio 3°.-
+• De forma transitoria hasta que se apruebe el reglamento de calidad para cada uno de los servicios, quedan vigentes las metas de calidad actuales. El incumplimiento de las mencionadas metas será sancionado de acuerdo a los procedimientos y multas establecidos en los respectivos contratos.
+• Las metas de expansión, serán reemplazadas por el aporte obligatorio al Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS, fijado en la presente Ley, a partir del 01 de enero de 2012.
+• Los acuerdos de interconexión, las condiciones establecidas por autoridades nacionales y las ofertas básicas de interconexión vigentes a la fecha, serán obligatoriamente revisadas en un plazo máximo de seis meses, a partir de la vigencia de la presente Ley.
+Artículo transitorio 4°.- Se transfieren al Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS, los saldos de los importes que fueron depositados en el Fondo Nacional de Desarrollo Regional – FNDR, en aplicación del Artículo 28 de la Ley de Telecomunicaciones Nº 1632 de 05 de julio de 1995 y sus modificaciones.
+Artículo transitorio 5°.-
+• Las empresas de servicio expreso, mensajería y transporte de envíos de correspondencia, que se encuentren en la actualidad operando legalmente, conforme al régimen legal anterior, deberán adecuar sus autorizaciones, en un plazo de seis meses calendario a partir de la vigencia de la presente Ley, para la obtención de la correspondiente licencia, para tal efecto, la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes establecerá el cronograma de adecuación así como sus mecanismos.
+• Las empresas de servicio expreso, mensajería y transporte de envíos de correspondencia que actualmente presten dichos servicios, deberán cumplir sus obligaciones conforme al régimen legal anterior, hasta su adecuación conforme a reglamento.
+• El procedimiento de adecuación del servicio postal será establecido en reglamento.
+Artículo transitorio 6°.- Todos los aspectos que se requieran para la aplicación de la presente Ley, serán reglamentados por el Órgano Ejecutivo y regulados por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, en un plazo máximo de ciento veinte días hábiles a partir de la promulgación de la misma.
+Artículo transitorio 7°.- La presente Ley entrará en vigencia en la fecha de su publicación, con aplicación progresiva conforme a la aprobación de sus reglamentos específicos; en tanto se aprueben éstos, se aplicarán los reglamentos vigentes de telecomunicaciones y postal en todo lo que no contravenga a esta Ley.
+Artículo transitorio 8°.- En tanto no se emitan las disposiciones pertinentes sobre el operador público designado, la Empresa de Correos de Bolivia, prestará el servicio postal de acuerdo a lo establecido en el Decreto Supremo Nº 22616 de 08 de octubre de 1990, en todo lo que no contradiga lo dispuesto en la presente Ley.
+Artículo transitorio 9°.- La Autoridad de Fiscalización y Control Social de Telecomunicaciones y Transportes – ATT se denominará en adelante Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes – ATT y asumirá las atribuciones, competencias, derechos y obligaciones en materia de telecomunicaciones y tecnologías de la información y comunicación, transportes y del servicio postal, bajo tuición del Ministerio de Obras Públicas, Servicios y Vivienda.
+Artículo transitorio 10°.- De forma transitoria hasta que se apruebe el reglamento a la presente Ley, los operadores del servicio local de telefonía fija, quedan autorizados a cobrar optativamente a sus usuarias y usuarios, el valor equivalente a su unidad de medida, un pulso o un minuto, de una llamada local para las llamadas que se originen hacia las redes de servicio móvil, larga distancia y de cobro revertido.
+Disposición abrogatoria y derogatoria
+Artículo Único.-
+• Quedan abrogadas la Ley Nº 1632 de fecha 5 de julio de 1995, la Ley Nº 2328 de 4 de febrero de 2002, la Ley Nº 2342 de 25 de abril de 2002 y la Ley Nº 1424 de 29 de enero de 1993.
+• Se derogan los artículos séptimo, octavo y noveno del Decreto Supremo Nº 22616 del 8 de octubre de 1990 y todas las disposiciones contrarias a la presente Ley.
+Remítase al Órgano Ejecutivo, para fines constitucionales.
+Es dada en la Sala de Sesiones de la Asamblea Legislativa Plurinacional, a los veintiocho días del mes de julio del año dos mil once.
+FDO. René O. Martínez Callahuanca, Flora Aguilar Fernández, Zonia Guardia Melgar, Carmen García M., Esteban Ramírez Torrico, Angel David Cortés Villegas.
+Por tanto, la promulgo para que se tenga y cumpla como Ley del Estado Plurinacional de Bolivia.
+Palacio de Gobierno de la ciudad de La Paz, a los ocho días del mes agosto de dos mil once años.
+FDO. EVO MORALES AYMA, Carlos Gustavo Romero Bonifaz, E. Viviana Caro Hinojosa, Walter Juvenal Delgadillo Terceros, Roberto Ívan Aguilar Gómez, Julieta Mabel Monje Villa, Claudia Stacy Peña Claros, Iván Jorge Canelas Alurralde.
+Ficha Técnica ( DCMI )
+Norma Bolivia: Ley General de telecomunicaciones, tecnologías de información y comunicación, 8 de agosto de 2011
+Fecha 2023-03-05 Formato Text Tipo L
+Dominio Bolivia Derechos GFDL Idioma es
+Sumario Ley General de telecomunicaciones, tecnologías de información y comunicación
+Keywords Gaceta 287NEC, 2011-08-08, Ley, agosto/2011
+Origen http://www.gacetaoficialdebolivia.gob.bo/normas/verGratis/139394
+Referencias 201108b.lexml
+Creador FDO. René O. Martínez Callahuanca, Flora Aguilar Fernández, Zonia Guardia Melgar, Carmen García M., Esteban Ramírez Torrico, Angel David Cortés Villegas.
+FDO. EVO MORALES AYMA, Carlos Gustavo Romero Bonifaz, E. Viviana Caro Hinojosa, Walter Juvenal Delgadillo Terceros, Roberto Ívan Aguilar Gómez, Julieta Mabel Monje Villa, Claudia Stacy Peña Claros, Iván Jorge Canelas Alurralde.
+Contribuidor DeveNet.net
+Publicador DeveNet.net
+Enlaces con otros documentos
+Abroga a
+[BO-L-1424] Bolivia: Ley Nº 1424, 29 de enero de 1993 Empresa de correos de Bolivia. Elévase a ley el d.s. 22616 de 8 de octubre de 1990, que la crea
+[BO-L-1632] Bolivia: Ley de Telecomunicaciones, 5 de julio de 1995 Ley de Telecomunicaciones
+[BO-L-2342] Bolivia: Ley Nº 2342, 25 de abril de 2000 Modificación de los Artículos 2°, 4°, 11°, 21°, Titulo VII y 28 de la ley 1632
+[BO-L-2328] Bolivia: Ley Nº 2328, 4 de febrero de 2002 Modifícase el Artículo 22° de la Ley N° 1632, de Telecomunicaciones
+Véase también
+[BO-DS-22616] Bolivia: Decreto Supremo Nº 22616, 3 de octubre de 1990 Créase la Empresa de Correos de Bolivia (ECOBOL) como Empresa Pública de Administración Descentralizada del Estado, con personalidad jurídica propia, la que funcionará conforme al régimen establecido por la Ley de Organización Administrativa del Poder Ejecutivo promulgada por D.L. N° 10460 de 12 de septiembre de 1972, la Ley del Sistema de Administración, Fiscalización, y Control Gubernamental y demás disposiciones legales que rigen este tipo de entidades.
+[BO-L-N31] Bolivia: Ley marco de Autonomías y Descentralización “Andrés Ibáñez”, 19 de julio de 2010 Ley marco de autonomías y descentralización “Andrés Ibáñez”
+Referencias a esta norma
+[BO-L-N211] Bolivia: Ley Financial - Presupuesto General del Estado - Gestión 2012, 23 de diciembre de 2011 LEY DEL PRESUPUESTO GENERAL DEL ESTADO – GESTIÓN 2012.
+[BO-PRO-RE-L164] Bolivia: Proyecto Nº RE-L164, 24 de octubre de 2012 Proyecto de Reglamento general a la Ley Nº 164 General de telecomunicaciones, tecnologías de información y comunicación para el sector de telecomunicaciones
+[BO-DS-N1391] Bolivia: Decreto Supremo Nº 1391, 24 de octubre de 2012 Reglamento General - Ley Nº 164 - Sector de telecomunicaciones
+[BO-RE-DSN1391] Bolivia: Reglamento General a la Ley Nº 164, de 8 de agosto de 2011, General de telecomunicaciones, tecnologías de información, 24 de octubre de 2012 Reglamento General a la Ley Nº 164, de 8 de agosto de 2011, General de telecomunicaciones, tecnologías de información
+[BO-RBM-N294] Bolivia: Plan Nacional de Frecuencias, 15 de noviembre de 2012 PLAN NACIONAL DE FRECUENCIAS
+[BO-RBM-323] Bolivia: Resolución Biministerial Nº 323, 5 de diciembre de 2012 Reglamento para el otorgamiento de licencias en telecomunicaciones
+[BO-RE-RBM323] Bolivia: Reglamento para el otorgamiento de licencias en telecomunicaciones, 5 de diciembre de 2012 Ley del Presupuesto General del Estado Gestión 2013
+[BO-DS-N1436] Bolivia: Reglamento - Ley No. 264 Sistema Nacional de Seguridad Ciudadana “Para una vida segura”, DS Nº 1436, 14 de diciembre de 2012 REGLAMENTO - LEY No. 264 SISTEMA NACIONAL DE SEGURIDAD CIUDADANA “PARA UNA VIDA SEGURA”
+[BO-DS-N1460] Bolivia: Decreto Supremo Nº 1460, 10 de enero de 2013 Reglamenta la aplicación de la Ley N° 317 Presupuesto General del Estado Gestión 2013
+[BO-DS-N1466] Bolivia: Decreto Supremo Nº 1466, 16 de enero de 2013 Establece el proceso de cierre del Servicio Nacional de Telecomunicaciones Rurales – SENATER.
+[BO-RE-RM13-2013] Bolivia: Reglamento para el Programa Nacional de Telecomunicaciones de Inclusión Social, 23 de enero de 2013 Reglamento para el Programa Nacional de Telecomunicaciones de Inclusión Social.
+[BO-RM-13-2013] Bolivia: Resolución Ministerial Nº 13-2013, 23 de enero de 2013 Se aprueba el Reglamento para el Programa Nacional de Telecomunicaciones de Inclusión Social.
+[BO-RM-13] Bolivia: Resolución Ministerial Nº 13, 23 de enero de 2013 Se aprueba el Reglamento para el Programa Nacional de Telecomunicaciones de Inclusión Social.
+[BO-RE-RM13] Bolivia: Reglamento para el Programa Nacional de Telecomunicaciones de Inclusión Social, 23 de enero de 2013 Reglamento para el Programa Nacional de Telecomunicaciones de Inclusión Social.
+[BO-RM-MOPSV088-2013] Bolivia: Resolución Ministerial de 6 de mayo de 2013 Reglamento Régimen de regulación tarifaria de los servicios públicos de telecomunicaciones y tecnologías de información y comunicación
+[BO-RE-RM-MOPSV088-2013] Bolivia: Reglamento Régimen de regulación tarifaria de los servicios públicos de telecomunicaciones y tecnologías de información y comunicación, 6 de mayo de 2013 Reglamento Régimen de regulación tarifaria de los servicios públicos de telecomunicaciones y tecnologías de información y comunicación
+[BO-DS-N1743] Bolivia: Decreto Supremo Nº 1743, 25 de septiembre de 2013 Autoriza a la Agencia para el Desarrollo de la Sociedad de la Información en Bolivia – ADSIB, incrementar la subpartida 25210 “Consultorías por Producto”, por un monto total de Bs170.000, financiado con fuente 20 “Recursos Específicos”, y Organismo Financiador 230 “Otros Recursos Específicos”, a través de un traspaso presupuestario intrainstitucional, afectando la partida de gasto 21600 “Internet y Otros” en el mismo monto.
+[BO-DS-N1774] Bolivia: Decreto Supremo Nº 1774, 23 de octubre de 2013 Autoriza a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes – ATT, incrementar la subpartida 25210 “Consultorías por Producto”, en Bs1.440.000, mediante un traspaso presupuestario interinstitucional financiado con fuente 41 “Transferencias TGN” y Organismo Financiador 111 “Tesoro General de la Nación”, destinado a la realización de la “Auditoría Técnica, Económica y Legal a la Empresa Ferroviaria Andina S.A.”.
+[BO-RS-N279] Bolivia: Resolución Suprema Nº 279, 30 de octubre de 2013 Aprobar el Plan de Asignación de Frecuencias de Radiodifusión
+[BO-RE-DSN1793] Bolivia: Reglamento a la Ley Nº 164, de 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación, 13 de noviembre de 2013 Reglamento a la Ley Nº 164, de 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación
+[BO-DS-N1793] Bolivia: Decreto Supremo Nº 1793, 13 de noviembre de 2013 Aprueba el Reglamento a la Ley Nº 164, de 8 de agosto de 2011, para el Desarrollo de Tecnologías de Información y Comunicación, que en Anexo forma parte integrante del presente Decreto Supremo.
+[BO-DS-N1828] Bolivia: Decreto Supremo Nº 1828, 11 de diciembre de 2013 Modifica y complementa el Reglamento General a la Ley N° 164, de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación para el Sector de Telecomunicaciones; aprobado por Decreto Supremo Nº 1391, de 24 de octubre de 2012.
+[BO-DS-N1861] Bolivia: Reglamento de la Ley N° 455 - Presupuesto General del Estado - Gestión 2014, DS Nº 1861, 8 de enero de 2014 Reglamenta la aplicación de la Ley N° 455, de 11 de diciembre de 2013, del Presupuesto General del Estado - Gestión 2014.
+[BO-DS-N1874] Bolivia: Decreto Supremo Nº 1874, 23 de enero de 2014 Modifica los Artículos 45, 46 y 49 del Decreto Supremo Nº 29894, de 7 de febrero de 2009, modificados por los Artículos 3 y 8 del Decreto Supremo N° 0429, de 10 de febrero de 2010.
+[BO-DS-N1990] Bolivia: Decreto Supremo Nº 1990, 7 de mayo de 2014 Autoriza al Ministerio de Comunicación la transferencia de recursos a favor de la Empresa Estatal de Televisión “BOLIVIA TV”, para la ejecución de proyectos en el marco de los objetivos del Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS.
+[BO-DS-N2065] Bolivia: Reglamento del Sistema Integrado de Información Anticorrupción y de Recuperación de Bienes del Estado “SIIARBE”, DS Nº 2065, 23 de julio de 2014 Reglamento del Sistema Integrado de Información Anticorrupción y de Recuperación de Bienes del Estado “SIIARBE”.
+[BO-DS-N2104] Bolivia: Decreto Supremo Nº 2104, 5 de septiembre de 2014 Modifica el numeral 1 del Artículo 4 y los Artículos 53 y 185 del Reglamento General a la Ley Nº 164, de 8 de agosto de 2011, Ley General de Telecomunicaciones, Tecnologías de Información y Comunicación para el Sector de Telecomunicaciones, aprobado por Decreto Supremo Nº 1391, de 24 de octubre de 2012.
+[BO-DS-N2140] Bolivia: Decreto Supremo Nº 2140, 9 de octubre de 2014 09 DE OCTUBRE DE 2014.- Reglamenta la Disposición Adicional Única de la Ley Nº 571, de 8 de septiembre de 2014.
+[BO-DS-N2188] Bolivia: Decreto Supremo Nº 2188, 20 de noviembre de 2014 19 DE NOVIEMBRE DE 2014.- Se autoriza a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes – ATT, la compra de tres (3) vagonetas 4x4, tipo estándar, destinadas a las oficinas regionales de Cochabamba, Santa Cruz y Tarija, para uso operativo en actividades de fiscalización, control y monitoreo del espectro radioeléctrico.
+[BO-L-N603] Bolivia: Código de las familias y del proceso familiar, 24 de noviembre de 2014 19 DE NOVIEMBRE DE 2014.- CODIGO DE LAS FAMILIAS Y DEL PROCESO FAMILIAR
+[BO-DS-N2223] Bolivia: Decreto Supremo Nº 2223, 17 de diciembre de 2014 17 DE DICIEMBRE DE 2014.- Autoriza al Ministerio de Comunicación la transferencia de recursos a favor de la Empresa Estatal de Televisión “BOLIVIA TV”, para la ejecución de proyectos en el marco de los objetivos del Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS.
+[BO-DS-N2242] Bolivia: Decreto Supremo Nº 2242, 8 de enero de 2015 07 DE ENERO DE 2015.- Reglamenta la aplicación de la Ley N° 614, de 13 de diciembre de 2014, que aprueba el Presupuesto General del Estado - Gestión 2015.
+[BO-DS-N2441] Bolivia: Decreto Supremo Nº 2441, 9 de julio de 2015 08 DE JULIO DE 2015.- Establece las condiciones de intervención de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes – ATT, al Operador Público Designado del Servicio Postal.
+[BO-DS-N2475] Bolivia: Decreto Supremo Nº 2475, 5 de agosto de 2015 05 DE AGOSTO DE 2015.- Autoriza a la Agencia para el Desarrollo de la Sociedad de la Información en Bolivia – ADSIB, incrementar la subpartida 25210 “Consultorías por Producto”, en Bs607.396; destinados a la contratación de consultorías por producto para el cumplimiento de los objetivos institucionales de la gestión 2015.
+[BO-DS-N2498] Bolivia: Decreto Supremo Nº 2498, 26 de agosto de 2015 26 DE AGOSTO DE 2015.- Establece los mecanismos para la implementación de la Portabilidad Numérica para los servicios de telecomunicaciones.
+[BO-RM-235-2015] Bolivia: Resolución Ministerial de 9 de septiembre de 2015 01 DE SEPTIEMBRE DE 2015.- Aprueba el Plan de Asignación de Frecuencias para Servicios de Radiodifusión, cuyo contenido se encuentra desarrollado en el Artículo Tercero de la presente Resolución Ministerial, y determinar las frecuencias radioeléctricas disponibles para su asignación, en el marco del Decreto Supremo Nº 1391 de 24 de octubre de 2012 y del Plan Nacional de Frecuencias aprobado por la Resolución Ministerial Nº 294 de 08 de noviembre de 2012.
+[BO-RM-N235] Bolivia: Resolución Ministerial Nº 235, 9 de septiembre de 2015 01 DE SEPTIEMBRE DE 2015.- Aprueba el Plan de Asignación de Frecuencias para Servicios de Radiodifusión, cuyo contenido se encuentra desarrollado en el Artículo Tercero de la presente Resolución Ministerial, y determinar las frecuencias radioeléctricas disponibles para su asignación, en el marco del Decreto Supremo Nº 1391 de 24 de octubre de 2012 y del Plan Nacional de Frecuencias aprobado por la Resolución Ministerial Nº 294 de 08 de noviembre de 2012.
+[BO-L-N737] Bolivia: Ley Nº 737, 21 de septiembre de 2015 21 DE SEPTIEMBRE DE 2015.- Modifica el Artículo 37 de la Ley N° 1883 de 25 de junio de 1998, de Seguros.
+[BO-L-N742] Bolivia: Ley Nº 742, 30 de septiembre de 2015 29 DE SEPTIEMBRE DE 2015.- LEY DE MODIFICACIONES AL PRESUPUESTO GENERAL DEL ESTADO GESTIÓN 2015.
+[BO-DS-N2548] Bolivia: Decreto Supremo Nº 2548, 14 de octubre de 2015 14 DE OCTUBRE DE 2015.- Autoriza al Ministerio de Comunicación la contratación directa de hasta Bs3.000.000.- para la adquisición e instalación de sistemas de transmisión en Frecuencia Modulada, con potencia nominal de 5kw, así como los accesorios, servicios y sistemas de enlace necesarios, para la ejecución e implementación del Proyecto “Reducción de las desigualdades de acceso a los servicios de información en áreas rurales de los Departamentos de Cochabamba, Santa Cruz y Beni, a través del fortalecimiento de la Radio Kawsachun Coca de las RPOs para su difusión en FM”, en las poblaciones de las áreas rurales de Buena Vista y Montero del Departamento de Santa Cruz, San Ignacio de Moxos en el Departamento del Beni y áreas rurales aledañas a la provincia Cercado del Departamento de Cochabamba, en el marco del Programa Nacional de Telecomunicaciones para la Inclusión Social – PRONTIS.
+[BO-DS-N2617] Bolivia: Decreto Supremo Nº 2617, 2 de diciembre de 2015 02 DE DICIEMBRE DE 2015.- REGLAMENTO DE LA LEY Nº 164, DE 8 DE AGOSTO DE 2011, LEY GENERAL DE TELECOMUNICACIONES, TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN, PARA EL SECTOR POSTAL.
+[BO-DS-N2616] Bolivia: Decreto Supremo Nº 2616, 2 de diciembre de 2015 20 DE DICIEMBRE DE 2015.- Autoriza a la Escuela de Jueces del Estado del Órgano Judicial, la compra de una (1) vagoneta 4x4, tipo estándar, para actividades académicas y administrativas de la institución.
+[BO-RE-DSN2617] Bolivia: 02 DE DICIEMBRE DE 2015.- Reglamento de la Ley Nº 164, de 8 de agosto de 2011, Ley General de Telecomunicaciones, Tecnologías de Información y Comunicación, para el Sector Postal., 2 de diciembre de 2015 02 DE DICIEMBRE DE 2015.- REGLAMENTO DE LA LEY Nº 164, DE 8 DE AGOSTO DE 2011, LEY GENERAL DE TELECOMUNICACIONES, TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN, PARA EL SECTOR POSTAL.
+[BO-L-N769] Bolivia: Ley Nº 769, 17 de diciembre de 2015 17 DE DICIEMBRE DE 2015.- LEY DEL PRESUPUESTO GENERAL DEL ESTADO GESTIÓN 2016.
+[BO-DS-N2644] Bolivia: Decreto Supremo Nº 2644, 30 de diciembre de 2015 30 DE DICIEMBRE DE 2015.- Reglamenta la aplicación de la Ley N° 769, de 17 de diciembre de 2015, que aprueba el Presupuesto General del Estado Gestión 2016.
+[BO-L-N779] Bolivia: Ley Nº 779, 25 de enero de 2016 21 DE ENERO DE 2016.- LEY DE DESBUROCRATIZACIÓN PARA LA CREACIÓN Y FUNCIONAMIENTO DE UNIDADES ECONÓMICAS.
+[BO-RE-RM29-2016] Bolivia: 12 DE FEBRERO DE 2016.- Reglamento para el Otorgamiento de Licencias, Certificados Anuales de Operaciones y Procedimiento de Revocatoria, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial, 18 de febrero de 2016 12 DE FEBRERO DE 2016.- Reglamento para el Otorgamiento de Licencias, Certificados Anuales de Operaciones y Procedimiento de Revocatoria, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial
+[BO-RE-RMN29-16] Bolivia: 12 DE FEBRERO DE 2016.- Reglamento para el Otorgamiento de Licencias, Certificados Anuales de Operaciones y Procedimiento de Revocatoria, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial, 18 de febrero de 2016 12 DE FEBRERO DE 2016.- Reglamento para el Otorgamiento de Licencias, Certificados Anuales de Operaciones y Procedimiento de Revocatoria, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial
+[BO-RM-N29-16] Bolivia: Resolución Ministerial Nº 29-16, 18 de febrero de 2016 12 DE FEBRERO DE 2016.- Aprobar el Reglamento para el Otorgamiento de Licencias, Certificados Anuales de Operaciones y Procedimiento de Revocatoria, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial
+[BO-RE-RMN38] Bolivia: 18 DE FEBRERO DE 2016.- REGLAMENTO PARA LA AUTORIZACIÓN DE PRESTACIÓN DE SERVICIO DE ESTACIÓN ESPACIAL, 24 de febrero de 2016 18 DE FEBRERO DE 2016.- REGLAMENTO PARA LA AUTORIZACIÓN DE PRESTACIÓN DE SERVICIO DE ESTACIÓN ESPACIAL
+[BO-RE-RM38-2016] Bolivia: 18 DE FEBRERO DE 2016.- Reglamento para la autorización de prestación de servicio de estación espacial, 24 de febrero de 2016 18 DE FEBRERO DE 2016.- REGLAMENTO PARA LA AUTORIZACIÓN DE PRESTACIÓN DE SERVICIO DE ESTACIÓN ESPACIAL
+[BO-RM-38-2016] Bolivia: Resolución Ministerial Nº 38-2016, 24 de febrero de 2016 18 DE FEBRERO DE 2016.- REGLAMENTO PARA LA AUTORIZACIÓN DE PRESTACIÓN DE SERVICIO DE ESTACIÓN ESPACIAL
+[BO-RM-124-2016] Bolivia: Resolución Ministerial de 11 de mayo de 2016 04 DE MAYO DE 2016.- Aprobar el Plan de Asignación de Frecuencias de Radiodifusión, cuyo contenido se encuentra desarrollado en el Artículo Tercero de la presente Resolución Ministerial, y determinar las frecuencias radioeléctricas disponibles para su asignación, en el marco del Decreto Supremo Nº 1391 de 24 de octubre de 2012 y del Plan Nacional de Frecuencias aprobado por la Resolución Ministerial Nº 294 de 08 de noviembre de 2012
+[BO-RM-124] Bolivia: Resolución Ministerial Nº 124, 11 de mayo de 2016 04 DE MAYO DE 2016.- Aprobar el Plan de Asignación de Frecuencias de Radiodifusión, cuyo contenido se encuentra desarrollado en el Artículo Tercero de la presente Resolución Ministerial, y determinar las frecuencias radioeléctricas disponibles para su asignación, en el marco del Decreto Supremo Nº 1391 de 24 de octubre de 2012 y del Plan Nacional de Frecuencias aprobado por la Resolución Ministerial Nº 294 de 08 de noviembre de 2012
+[BO-RM-235] Bolivia: Resolución Ministerial Nº 235, 20 de julio de 2016 29 DE JUNIO DE 2016.- Aprobar el Reglamento para la Contratación Directa con Recursos del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, con sus tres Capítulos y quince (15) artículos, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial.
+[BO-RM-235-2016] Bolivia: Resolución Ministerial de 20 de julio de 2016 29 DE JUNIO DE 2016.- Aprobar el Reglamento para la Contratación Directa con Recursos del Programa Nacional de Telecomunicaciones de Inclusión Social - PRONTIS, con sus tres Capítulos y quince (15) artículos, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial.
+[BO-L-N829] Bolivia: Ley de adecuación para operadores de radiodifusión, 1 de septiembre de 2016 31 DE AGOSTO DE 2016.- LEY DE ADECUACIÓN PARA OPERADORES DE RADIODIFUSIÓN.
+[BO-RM-411] Bolivia: Resolución Ministerial Nº 411, 1 de noviembre de 2016 27 DE OCTUBRE DE 2016.- MINISTERIO DE OBRAS PUBLICAS SERVICIOS Y VIVIENDA: Aprueba el Plan de Asignación de Frecuencias de Radiodifusión, cuyo contenido se encuentra desarrollado en el Artículo Tercero de la presente Resolución Ministerial, y determinar las frecuencias radioeléctricas disponibles para su asignación, en el marco del Decreto Supremo Nº 1391 de 24 de octubre de 2012 y del Plan Nacional de Frecuencias aprobado mediante Resolución Ministerial Nº 294 de 08 de noviembre de 2012.
+[BO-RM-411-2016] Bolivia: Resolución Ministerial de 1 de noviembre de 2016 27 DE OCTUBRE DE 2016.- MINISTERIO DE OBRAS PUBLICAS SERVICIOS Y VIVIENDA: Aprueba el Plan de Asignación de Frecuencias de Radiodifusión, cuyo contenido se encuentra desarrollado en el Artículo Tercero de la presente Resolución Ministerial, y determinar las frecuencias radioeléctricas disponibles para su asignación, en el marco del Decreto Supremo Nº 1391 de 24 de octubre de 2012 y del Plan Nacional de Frecuencias aprobado mediante Resolución Ministerial Nº 294 de 08 de noviembre de 2012.
+[BO-RM-422-2016] Bolivia: Resolución Ministerial de 21 de noviembre de 2016 03 DE NOVIEMBRE DE 2016.- Aprobar el Reglamento de Regulación Tarifaria para el Servicio Postal no Básico, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial.
+[BO-RM-422] Bolivia: Resolución Ministerial Nº 422, 21 de noviembre de 2016 03 DE NOVIEMBRE DE 2016.- Aprobar el Reglamento de Regulación Tarifaria para el Servicio Postal no Básico, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial.
+[BO-DS-N3004] Bolivia: Decreto Supremo Nº 3004, 30 de noviembre de 2016 30 DE NOVIEMBRE DE 2016.- Establece la entrada en operación de la Portabilidad Numérica para el servicio móvil, a partir del 27 de noviembre de 2017.
+[BO-RM-494-2016] Bolivia: Resolución Ministerial de 24 de enero de 2017 01 DE DICIEMBRE DE 2016.- Aprobar el Plan de Prestación del Servicio Postal Universal, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial
+[BO-DS-N3129] Bolivia: Decreto Supremo Nº 3129, 29 de marzo de 2017 29 DE MARZO DE 2017.- Aprueba el Reglamento Ambiental para el Sector de Telecomunicaciones de la Ley N° 1333, de 27 de abril de 1992, que en Anexo forma parte integrante e indivisible del presente Decreto Supremo.
+[BO-RE-DS-N3129] Bolivia: Reglamento Ambiental para el Sector de Telecomunicaciones de la Ley N° 1333., 29 de marzo de 2017 Reglamento Ambiental para el Sector de Telecomunicaciones de la Ley N° 1333.
+[BO-PLAN-DS-N3152] Bolivia: Plan de 19 de abril de 2017 19 DE ABRIL DE 2017.- Plan de Implementación de Televisión Digital Terrestre
+[BO-DS-N3152] Bolivia: Decreto Supremo Nº 3152, 19 de abril de 2017 19 DE ABRIL DE 2017.- Aprueba el Plan de Implementación de Televisión Digital Terrestre que en Anexo forma parte integrante e indivisible del presente Decreto Supremo.
+[BO-DS-N3177] Bolivia: Decreto Supremo Nº 3177, 10 de mayo de 2017 10 DE MAYO DE 2017.- Modifica el Artículo 77 del Reglamento General a la Ley N° 164, de 8 de agosto de 2011, Ley General de Telecomunicaciones, Tecnologías de Información y Comunicación para el Sector de Telecomunicaciones, aprobado por Decreto Supremo Nº 1391, de 24 de octubre de 2012.
+[BO-DS-N3214] Bolivia: Decreto Supremo Nº 3214, 21 de junio de 2017 21 DE JUNIO DE 2017.- Modifica el Parágrafo II del Artículo 179 del Reglamento General a la Ley N° 164, de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación para el Sector de Telecomunicaciones, aprobado por Decreto Supremo Nº 1391, de 24 de octubre de 2012.
+[BO-DS-N3251] Bolivia: Decreto Supremo Nº 3251, 11 de julio de 2017 12 DE JULIO DE 2017.- Tiene por objeto: a) Aprueba el Plan de Implementación de Gobierno Electrónico que en Anexo forma parte integrante del presente Decreto Supremo; b) Aprueba el Plan de Implementación de Software Libre y Estándares Abiertos que en Anexo forma parte integrante del presente Decreto Supremo; c) Establece aspectos complementarios para la implementación de ambos planes.
+[BO-L-N975] Bolivia: Ley de modificaciones al Presupuesto General del Estado - Gestión 2017, 13 de septiembre de 2017 13 DE SEPTIEMBRE DE 2017.- LEY DE MODIFICACIONES AL PRESUPUESTO GENERAL DEL ESTADO - GESTIÓN 2017.
+[BO-DS-N3404] Bolivia: Decreto Supremo Nº 3404, 29 de noviembre de 2017 29 DE NOVIEMBRE DE 2017.- Establece la entrada en operación de la Portabilidad Numérica para el servicio móvil, a partir del 01 de octubre de 2018.
+[BO-DS-N3405] Bolivia: Decreto Supremo Nº 3405, 29 de noviembre de 2017 29 DE NOVIEMBRE DE 2017.- Crea el Registro Único Minero – RUM, e implementar el Sistema de Información Minero Metalúrgico – SIMM.
+[BO-DS-N3433] Bolivia: Decreto Supremo Nº 3433, 13 de diciembre de 2017 13 DE DICIEMBRE DE 2017.- Constituye el Registro Obligatorio de Empleadores – ROE, a cargo del Ministerio de Trabajo, Empleo y Previsión Social.
+[BO-DS-N3434] Bolivia: Decreto Supremo Nº 3434, 13 de diciembre de 2017 13 DE DICIEMBRE DE 2017.- REGLAMENTO DE LA LEY DE LUCHA CONTRA EL TRÁFICO ILÍCITO DE SUSTANCIAS CONTROLADAS.
+[BO-L-N1006] Bolivia: Ley Nº 1006, 20 de diciembre de 2017 20 DE DICIEMBRE DE 2017.- LEY DEL PRESUPUESTO GENERAL DEL ESTADO GESTIÓN 2018.
+[BO-RE-RM008] Bolivia: Reglamento para el Programa Nacional del Servicio Postal Universal-PNSPU, 3 de enero de 2018 03 DE ENERO DE 2018.- Reglamento para el Programa Nacional del Servicio Postal Universal-PNSPU.
+[BO-RE-RM-8-2018] Bolivia: Reglamento para el Programa Nacional del Servicio Postal Universal-PNSPU, 3 de enero de 2018 03 DE ENERO DE 2018.- Reglamento para el Programa Nacional del Servicio Postal Universal-PNSPU.
+[BO-DS-N3448] Bolivia: Decreto Supremo Nº 3448, 4 de enero de 2018 03 DE ENERO DE 2018.- Reglamenta la aplicación de la Ley N° 1006, de 20 de diciembre de 2017, que aprueba el Presupuesto General del Estado Gestión 2018.
+[BO-RM-N8] Bolivia: Resolución Ministerial Nº 8, 31 de enero de 2018 31-01-2018.- Resolución Ministerial Nº 008.
+[BO-RM-8-2018] Bolivia: Resolución Ministerial Nº 8-2018, 31 de enero de 2018 24 DE ENERO DE 2018.- Aprobar el Reglamento para el Programa Nacional del Servicio Postal Universal, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial.
+[BO-RM-N20] Bolivia: Resolución Ministerial Nº 20, 2 de febrero de 2018 02-02-2018.- Resolución Ministerial Nº 020
+[BO-RM-20-2018] Bolivia: Resolución Ministerial Nº 20-2018, 2 de febrero de 2018 01 DE FEBRERO DE 2018.- Aprobar el Plan de Asignación de Frecuencias para Servicios de Telecomunicaciones, cuyo contenido se encuentra desarrollado en el Artículo Tercero de la presente Resolución Ministerial, de conformidad al Decreto Supremo Nº 1391 de 24 de octubre de 2012, que aprueba el Reglamento General a la Ley Nº 164 de 8 de agosto de 2012, General de Telecomunicaciones, Tecnologías de Información y Comunicación, para el sector de telecomunicaciones y al Plan Nacional de Frecuencias aprobado mediante Resolución Ministerial Nº 294 de 08 de noviembre de 2012.
+[BO-RM-N38] Bolivia: Resolución Ministerial Nº 38, 2 de febrero de 2018 02 DE FEBRERO DE 2018.- Solicitud de reconocimiento de personalidad jurídica presentada por la entidad Sembrar Sartawi Institución Financiera de Desarrollo.
+[BO-RM-46-2018] Bolivia: Resolución Ministerial Nº 46-2018, 1 de marzo de 2018 10 DE MARZO DE 2018.- Aprueba el Reglamento de las Condiciones Normativas y Técnicas para el Acceso Gratuito a Sitios Web, que en Anexo forma parte integrante e indivisible de la presente Resolución Ministerial
+[BO-RM-46] Bolivia: Resolución Ministerial Nº 46, 1 de marzo de 2018 10 DE MARZO DE 2018.- Aprueba el Reglamento de las Condiciones Normativas y Técnicas para el Acceso Gratuito a Sitios Web, que en Anexo forma parte integrante e indivisible de la presente Resolución Ministerial
+[BO-RE-RM-46] Bolivia: Reglamento de las Condiciones Normativas y Técnicas para el Acceso Gratuito a Sitios Web, 1 de marzo de 2018 Reglamento de las Condiciones Normativas y Técnicas para el Acceso Gratuito a Sitios Web
+[BO-DS-N3495] Bolivia: Decreto Supremo Nº 3495, 1 de marzo de 2018 28 DE FEBRERO DE 2018.- Norma la administración del Servicio Postal Público en Bolivia
+[BO-RE-RM-46-2018] Bolivia: Reglamento de las condiciones normativas y técnicas para el acceso gratuito a sitios web, 1 de marzo de 2018 Reglamento de las Condiciones Normativas y Técnicas para el Acceso Gratuito a Sitios Web
+[BO-DS-N3525] Bolivia: Decreto Supremo Nº 3525, 4 de abril de 2018 Tiene por objeto:a) Establecer la Política de Atención a la Ciudadanía: Bolivia a tu Servicio y el Portal de Trámites del Estado;b) Normar el archivo digital, la interoperabilidad y la tramitación digital.
+[BO-DP-N3527] Bolivia: Decreto Presidencial Nº 3527, 11 de abril de 2018 11 DE ABRIL DE 2018.- Modifica los Artículos 3, 25, 27, 33, 34, 39 y 45, incorporar el inciso h) y el inciso i) en el Parágrafo III del Artículo 3, el inciso l) en el Parágrafo I del Artículo 27, inciso k) en el Artículo 33, inciso f) en el Parágrafo II del Artículo 34, inciso l) en el Artículo 38 e inciso q) en el Artículo 43 del Reglamento para el Desarrollo de Tecnologías de Información y Comunicación aprobado por Decreto Supremo N° 1793, de 13 de noviembre de 2013.
+[BO-RM-317-2018] Bolivia: Resolución Ministerial de 30 de abril de 2018 30 DE ABRIL DE 2018.- Aprobar el Plan de Asignación de Frecuencias de Radiodifusión, cuyo contenido se encuentra desarrollado en el Artículo Tercero de la presente Resolución Ministerial, y determinar las frecuencias radioeléctricas para su asignación, en el marco del Reglamento General a la Ley Nº 164 para el sector de telecomunicaciones aprobado mediante Decreto Supremo Nº 1391 de 24 de octubre de 2012 y del Plan Nacional de Frecuencias aprobado mediante Resolución Ministerial Nº 294 de 08 de noviembre de 2012 y su modificación a través de la Resolución Ministerial Nº 235 de 27 de julio de 2017.
+[BO-RM-317] Bolivia: Resolución Ministerial Nº 317, 30 de abril de 2018 30 DE ABRIL DE 2018.- Aprobar el Plan de Asignación de Frecuencias de Radiodifusión, cuyo contenido se encuentra desarrollado en el Artículo Tercero de la presente Resolución Ministerial, y determinar las frecuencias radioeléctricas para su asignación, en el marco del Reglamento General a la Ley Nº 164 para el sector de telecomunicaciones aprobado mediante Decreto Supremo Nº 1391 de 24 de octubre de 2012 y del Plan Nacional de Frecuencias aprobado mediante Resolución Ministerial Nº 294 de 08 de noviembre de 2012 y su modificación a través de la Resolución Ministerial Nº 235 de 27 de julio de 2017.
+[BO-RM-173-2018] Bolivia: Resolución Ministerial de 13 de junio de 2018 14 DE JUNIO DE 2018.- Aprobar el Reglamento de Proceso y Procedimiento de la Clausura en el Servicio Postal por Prestación u Ofrecimiento Ilegal del Servicio Postal, cuyo texto en anexo forma parte integrante e indivisible de la presente Resolución Ministerial.
+[BO-RE-RM-173-2018] Bolivia: Reglamento de proceso y procedimiento de la clausura en el servicio postal por prestación u ofrecimiento ilegal del servicio, 13 de junio de 2018 Reglamento de Proceso y Procedimiento de la Clausura en el Servicio Postal por Prestación u Ofrecimiento Ilegal del Servicio Postal
+[BO-RM-238-2018] Bolivia: Resolución Ministerial de 29 de agosto de 2018 29 DE AGOSTO DE 2018.- Establecer que las localidades con población mayor a 2.000 habitantes, denominadas localidades objetivo, que no fueron contempladas en los proyectos Instalación de Comunicaciones por Fibra Óptica – Fase 1 e Instalación de Comunicaciones por Fibra Óptica – Fase 2 con recursos del Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS, y que no cuentan con cobertura de redes de transporte de alta capacidad sean incluidas y priorizadas en la Hoja de Ruta para el Despliegue de la Red Troncal Boliviana.
+[BO-L-N1099] Bolivia: Ley Nº 1099, 17 de septiembre de 2018 17 DE SEPTIEMBRE DE 2018.- Modifica y establece las condiciones y destino de los recursos que recauda la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes – ATT, en el sector de telecomunicaciones.
+[BO-RM-295-2018] Bolivia: Resolución Ministerial de 18 de octubre de 2018 18 DE OCTUBRE DE 2018.- Aprobar el Plan de Asignación de Frecuencias para Servicios de Telecomunicaciones, cuyo contenido se encuentra desarrollado en el Resuelve Tercero de la presente Resolución Ministerial, de conformidad al Decreto Supremo Nº 1391 de 24 de octubre de 2012, que aprueba el Reglamento General a la Ley Nº 164 de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, para el sector de telecomunicaciones y al Plan Nacional de Frecuencias aprobado mediante Resolución Ministerial Nº 294 de 08 de noviembre de 2012.
+[BO-RM-293-2018] Bolivia: Resolución Ministerial de 18 de octubre de 2018 18 DE OCTUBRE DE 2018.- La presente Resolución Ministerial tiene por objeto realizar modificaciones al Reglamento de Facturación, Cobranza y Corte aprobado por la Resolución Ministerial Nº 351 de fecha 21 de diciembre de 2012.
+[BO-DS-N3716] Bolivia: Decreto Supremo Nº 3716, 14 de noviembre de 2018 14 DE NOVIEMBRE DE 2018.- Reglamenta los requisitos técnicos y de contenido educativo, cultural, producción nacional y de derechos fundamentales en el marco del Parágrafo IV del Artículo Único de la Ley N° 829, de 31 de agosto de 2016, de Adecuación para Operadores de Radiodifusión.
+[BO-DS-N3762] Bolivia: Decreto Supremo Nº 3762, 26 de diciembre de 2018 26 DE DICIEMBRE DE 2018.- Autoriza la emisión del pasaporte del Estado Plurinacional de Bolivia con tecnología de lectura mecánica-electrónica.
+[BO-RM-5-2019] Bolivia: Resolución Ministerial Nº 5-2019, 30 de enero de 2019 30 DE ENERO DE 2019.- Modificar el inciso b) del Parágrafo III del Artículo 6 del Reglamento del Régimen de Regulación Tarifaria de los Servicios Públicos de Telecomunicaciones y Tecnologías de Información y Comunicación
+[BO-DS-N3854] Bolivia: Decreto Supremo Nº 3854, 3 de abril de 2019 03 DE ABRIL DE 2019.- Tiene por objeto:a) Crear el Consejo Filatélico Boliviano; yb) Establecer las condiciones para la emisión de los sellos postales y productos filatélicos.
+[BO-RM-72-2019] Bolivia: Resolución Ministerial Nº 72-2019, 18 de abril de 2019 11 DE ABRIL DE 2019.- Modifica la nota BOL9 del Plan Nacional de Frecuencias aprobado por la Resolución Ministerial Nº 294 de 8 de noviembre de 2012, con el siguiente texto:
+[BO-DS-N3896] Bolivia: Decreto Supremo Nº 3896, 8 de mayo de 2019 08 DE MAYO DE 2019.- Modifica el Plan de Implementación de Televisión Digital Terrestre, aprobado en el Anexo del Decreto Supremo N° 3152, de 19 de abril de 2017.
+[BO-DS-N3900] Bolivia: Decreto Supremo Nº 3900, 8 de mayo de 2019 15 DE MAYO DE 2019.- Autoriza a la Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación – AGETIC, para la implementación del Programa de Inclusión Digital:a) El incremento en la gestión 2019, de la subpartida 25220 “Consultores Individuales de Línea”;b) Dotaciones a entidades públicas; yc) Las transferencias público-privadas.
+[BO-RM-162-2019] Bolivia: Resolución Ministerial de 23 de agosto de 2019 Aprobar el Reglamento de Despliegue de Cableado de Redes Públicas y Privadas en Postes en sus ocho artículos, que en anexo forma parte indivisible de la presente Resolución Ministerial.
+[BO-RM-203-2019] Bolivia: Resolución Ministerial de 2 de octubre de 2019 Aprobar el Plan de Asignación de Canales Digitales para el Servicio de Valor Agregado para Radiodifusión Televisiva Digital Terrestre, que la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes aplicará en los procesos y procedimientos de asignación de acuerdo a lo siguiente:a) Hasta cinco (5) canales digitales para el Área de Servicio de La Paz considerando el total de canales digitales disponibles.a) Hasta cuatro (4) canales digitales para el Área de Servicio de Cochabamba considerando el total de canales digitales disponibles.b) Hasta cinco (5) canales digitales para el Área de Servicio de. Santa Cruz considerando el total de canales digitales disponibles.
+[BO-RM-155-2019] Bolivia: Resolución Ministerial de 6 de noviembre de 2019 Otorgar personalidad jurídica FUNDACIÓN COIN TREE correspondiéndole desarrollar actividades no financieras en todos los Departamentos que comprende el territorio del Estado Plurinacional de Bolivia, según el objeto y fines establecidos en su Estatuto Orgánico, con la prohibición de dedicarse a actividades ilícitas que atenten a la seguridad pública y otras tareas no determinadas en su Estatuto Orgánico bajo sanción de revocatoria de la personalidad jurídica.
+[BO-DP-N4170] Bolivia: Decreto Presidencial Nº 4170, 5 de marzo de 2020 Designa MINISTRO INTERINO DE RELACIONES EXTERIORES al ciudadano Yerko Martín Nuñez Negrette, Ministro de la Presidencia, mientras dure la ausencia de la titular.
+[BO-DS-N4206] Bolivia: Decreto Supremo Nº 4206, 1 de abril de 2020 Reglamenta la Ley N° 1294, de 1 de abril de 2020, Excepcional de Diferimiento de Pagos de Créditos y Reducción Temporal del Pago de Servicios Básicos.FE ERRATA(S) :Fecha de corrección : 2020-04-01- Descargar Fe de Erratas
+[BO-DS-N4218] Bolivia: Decreto Supremo Nº 4218, 14 de abril de 2020 Regula el Teletrabajo como una modalidad especial de prestación de servicios caracterizada por la utilización de Tecnologías de la Información y Comunicación – TIC en los sectores público y privado.
+[BO-DS-N4250] Bolivia: Decreto Supremo Nº 4250, 28 de mayo de 2020 Establece condiciones y medidas para la continuidad de los servicios de telecomunicaciones y postal, durante la cuarentena nacional, condicionada y dinámica.
+[BO-RM-52-2020] Bolivia: Resolución Ministerial Nº 52-2020, 12 de junio de 2020 Aprueba el Plan de Asignación de Canales Digitales para el Servicio de Valor Agregado para Radiodifusión Televisiva Digital Terrestre, cuyo contenido se encuentra desarrollado en la Disposición Resolutiva Segunda de la presente Resolución Ministerial
+[BO-DS-N4286] Bolivia: Decreto Supremo Nº 4286, 15 de julio de 2020 Realiza modificaciones e incorporaciones al Reglamento General a la Ley N° 164, de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, para el Sector de Telecomunicaciones, aprobado por Decreto Supremo N° 1391, de 24 de octubre de 2012.
+[BO-DS-N4307] Bolivia: Decreto Supremo Nº 4307, 10 de agosto de 2020 Modifica el Decreto Supremo N° 3251, de 12 de julio de 2017.
+[BO-DS-N4326] Bolivia: Decreto Supremo Nº 4326, 7 de septiembre de 2020 Aprueba el Reglamento de Infracciones y Sanciones para el sector de Telecomunicaciones, Tecnologías de Información y Comunicación, que en Anexo forma parte integrante del presente Decreto Supremo.
+[BO-RE-DS-N4326] Bolivia: Reglamento de infracciones y sanciones para el Sector de Telecomunicaciones, Tecnologías de Información y Comunicación, 7 de septiembre de 2020 Reglamento de infracciones y sanciones para el Sector de Telecomunicaciones, Tecnologías de Información y Comunicación
+[BO-RM-145-2020] Bolivia: Resolución Ministerial de 15 de septiembre de 2020 Modifica los artículos 4 y 8 del Reglamento para la Autorización de Prestación del Servicio de Estación Espacial, aprobado por Resolución Ministerial Nº 038, de 17 de febrero de 2016.
+[BO-DS-N4339] Bolivia: Decreto Supremo Nº 4339, 16 de septiembre de 2020 Crea la Ventanilla Única de Comercio Exterior de Bolivia – VUCEB y establece lineamientos para su implementación.
+[BO-DS-N4353] Bolivia: Decreto Supremo Nº 4353, 29 de septiembre de 2020 Reglamenta parcialmente la Ley N° 351, de 19 de marzo de 2013, de Otorgación de Personalidades Jurídicas, en lo referente a la reserva de nombre, otorgación y registro de la personalidad jurídica y modificación de estatutos orgánicos y reglamento interno de organizaciones sociales, organizaciones no gubernamentales, fundaciones y entidades civiles sin fines de lucro que desarrollen actividades en más de un Departamento y cuyas actividades sean no financieras.
+[BO-DS-N4378] Bolivia: Decreto Supremo Nº 4378, 19 de octubre de 2020 Establece disposiciones técnico-administrativas para la presentación del Formulario de Nivel de Categorización Ambiental – FNCA en las Actividades, Obras o Proyectos – AOPs de Categoría 3, del Sector de Telecomunicaciones.
+[BO-RM-220-2020] Bolivia: Resolución Ministerial de 6 de noviembre de 2020 Aprueba el Plan de Asignación de Frecuencias para del Servicio de Acceso a Internet que se presta a usuarios y usuarias conectados a la red pública mediante equipo terminal fijo a ser provisto exclusivamente en Áreas de Servicio Rural.
+[BO-L-N1356] Bolivia: Ley del Presupuesto General del Estado Gestión 2021, 28 de diciembre de 2020 LEY DEL PRESUPUESTO GENERAL DEL ESTADO GESTIÓN 2021.
+[BO-RM-283-2020] Bolivia: Resolución Ministerial de 16 de enero de 2021 Incorporar el Capítulo IV al Anexo de la Resolución Ministerial N° 046 de 26 de enero de 2018, con el siguiente texto:
+[BO-DS-N4566] Bolivia: Decreto Supremo Nº 4566, 11 de agosto de 2021 Implementa el Certificado Único de Idiomas Oficiales del Estado Plurinacional de Bolivia.
+[BO-DS-N4578] Bolivia: Decreto Supremo Nº 4578, 2 de septiembre de 2021 Modifica el inciso b) del Artículo 14 del Decreto Supremo N° 3495.
+[BO-DS-N4592] Bolivia: Decreto Supremo Nº 4592, 29 de septiembre de 2021 Autoriza a la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes el uso de Software privativo para la gestión, administración, monitoreo y control soberano del Espectro Electromagnético, para lo cual se modifica el Decreto Supremo Nº 3251, de 12 de julio de 2017.
+[BO-DS-N4628] Bolivia: Decreto Supremo Nº 4628, 26 de noviembre de 2021 Amplia el plazo del Apagón Analógico en el Estado Plurinacional de Bolivia hasta el año 2028 según el área de servicio y definir las entidades responsables de la producción de material de comunicación, a fin de establecer una transición adecuada a la Televisión Digital Terrestre, para lo cual se modifica el Anexo “Plan de Implementación de Televisión Digital Terrestre”, aprobado por Decreto Supremo N° 3152, de 19 de abril de 2017, modificado por Decreto Supremo Nº 3896, de 8 de mayo de 2019
+[BO-RM-20-2022] Bolivia: Resolución Ministerial Nº 20-2022, 27 de enero de 2022 Modifica el RESUELVE SEGUNDO, de la Resolución Ministerial N° 283, de fecha 31 de diciembre de 2020, con el siguiente texto:
+[BO-DS-N4669] Bolivia: Decreto Supremo Nº 4669, 17 de febrero de 2022 Mejora las condiciones en la prestación del servicio de telecomunicaciones a las usuarias y usuarios, para lo cual se modifica el Reglamento General a la Ley N° 164, de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación para el Sector de Telecomunicaciones, aprobado por Decreto Supremo N° 1391, de 24 de octubre de 2012.
+[BO-DS-N4735] Bolivia: Decreto Supremo Nº 4735, 8 de junio de 2022 A fin de ampliar el alcance de las actividades de la Agencia Boliviana Espacial – ABE, el presente Decreto Supremo tiene por objeto modificar el Artículo 3 y el Parágrafo I del Artículo 8 del Decreto Supremo N° 0423, de 10 de febrero de 2010.
+Deroga a
+[BO-DS-22616] Bolivia: Decreto Supremo Nº 22616, 3 de octubre de 1990 Créase la Empresa de Correos de Bolivia (ECOBOL) como Empresa Pública de Administración Descentralizada del Estado, con personalidad jurídica propia, la que funcionará conforme al régimen establecido por la Ley de Organización Administrativa del Poder Ejecutivo promulgada por D.L. N° 10460 de 12 de septiembre de 1972, la Ley del Sistema de Administración, Fiscalización, y Control Gubernamental y demás disposiciones legales que rigen este tipo de entidades.
+Derogada por
+[BO-L-N211] Bolivia: Ley Financial - Presupuesto General del Estado - Gestión 2012, 23 de diciembre de 2011 LEY DEL PRESUPUESTO GENERAL DEL ESTADO – GESTIÓN 2012.
+[BO-DS-N3448] Bolivia: Decreto Supremo Nº 3448, 4 de enero de 2018 03 DE ENERO DE 2018.- Reglamenta la aplicación de la Ley N° 1006, de 20 de diciembre de 2017, que aprueba el Presupuesto General del Estado Gestión 2018.
+Nota importante
+Lexivox ofrece esta publicación de normas
+como una ayuda para facilitar su identificación en la búsqueda
+conceptual vía WEB.
+El presente documento, de ninguna manera
+puede ser utilizado como una referencia legal, ya que dicha
+atribución corresponde a la Gaceta
+Oficial de Bolivia .
+Lexivox procura mantener el texto original
+de la norma; sin embargo, si encuentra modificaciones o
+alteraciones con respecto al texto original, sírvase
+comunicarnos para corregirlas y lograr una mayor perfección en
+nuestras publicaciones.
+Toda sugerencia para mejorar el contenido
+de la norma, en cuanto a fidelidad con el original, etiquetas,
+metainformación, gráficos o prestaciones del sistema, estamos
+interesados en conocerla e implementarla.
+La progresiva mejora en la calidad de
+Lexivox, es un asunto de la comunidad. Los resultados, son de
+uso y beneficio de la comunidad.
+LexiVox
+es un Sistema Web de Información
+desarrollado utilizando herramientas y aplicaciones de
+software libre , por
+Devenet SRL
+en el Estado Plurinacional de Bolivia.

@@ -1,0 +1,343 @@
+Decreto N� 66/025
+Volver
+Decreto N� 66/025
+REGLAMENTACION DE LOS ARTS. 55 DE LA LEY N� 18.046, 119 DE LA LEY N� 18.172, 73 DE LA LEY N� 18.362, 149 DE LA LEY N� 18.719 Y 78 A 84 DE LA LEY N� 20.212, RELATIVO A LA DETERMINACION DE LOS COMETIDOS DE LA DIRECCION DE SEGURIDAD DE LA INFORMACION DE LA AGENCIA PARA EL DESARROLLO DEL GOBIERNO DE GESTION ELECTRONICA Y LA SOCIEDAD DE LA INFORMACION Y DEL CONOCIMIENTO (AGESIC)
+Documento Actualizado
+Ver Imagen del D.O.
+Promulgaci�n: 20/02/2025
+Publicaci�n: 14/03/2025
+• El Registro Nacional de Leyes y Decretos del presente semestre a�n no fue editado.
+Reglamentario/a de:
+Ley N� 20.212 de 06/11/2023 art�culos 78 , 79 , 80 , 81 , 82 , 83 y 84 ,
+Ley N� 18.719 de 27/12/2010 art�culo 149 ,
+Ley N� 18.362 de 06/10/2008 art�culo 73 ,
+Ley N� 18.172 de 31/08/2007 art�culo 119 ,
+Ley N� 18.046 de 24/10/2006 art�culo 55 .
+Referencias a toda la norma
+VISTO: lo dispuesto en los art�culos 55 de la Ley N� 18.046, de 24 de octubre de 2006 en la redacci�n dada por el art�culo 118 de la Ley N� 18.172, de 31 de agosto de 2007; 119 de la Ley N� 18.172, de 31 de agosto de 2007, en la redacci�n dada ulteriormente por el art�culo 5� de la Ley N� 20.075, de 20 de octubre de 2022; 73 de la Ley N� 18.362, de 6 de octubre de 2008; art�culo 149 de la Ley N� 18.719, de 27 de diciembre de 2010, en la redacci�n dada por el art�culo 84 de la Ley N� 19.924, de 18 de diciembre de 2020; y los art�culos 78 a 84 de la Ley N� 20.212, de 6 de noviembre de 2023;
+RESULTANDO: I) que las disposiciones citadas regulan distintos aspectos vinculados al funcionamiento, cometidos y organizaci�n en materia de seguridad de la informaci�n de la Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento, a trav�s de su Direcci�n de Seguridad de la Informaci�n;
+II) que, asimismo, se establece la creaci�n y los cometidos del Centro Nacional de Respuesta a Incidentes de Seguridad Inform�tica (CERTuy), el que tiene por objetivo el regular la protecci�n de los activos de informaci�n cr�tica del Estado;
+CONSIDERANDO: I) que, a trav�s del Decreto N� 451/009, de 28 de setiembre de 2009, se regul� el funcionamiento, organizaci�n y cometidos asignados al CERTuy; y por Decreto N� 452/009, de la misma fecha, se reglament� el art�culo 55 de la Ley N� 18.046, de 24 de octubre de 2006, en la redacci�n dada por el art�culo 118 de la Ley N� 18.172, de 31 de agosto de 2007, por el que se asign� a la Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento el cometido de concebir y desarrollar una pol�tica nacional en temas de seguridad de la informaci�n;
+II) que, el art�culo 149 de la Ley N� 18.719, de 27 de diciembre de 2010, en la redacci�n dada por el art�culo 84 de la Ley N� 19.924, de 18 de diciembre de 2020, asign� a la Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento nuevos cometidos dirigidos a la protecci�n de la ciberseguridad a nivel nacional, la fiscalizaci�n y auditor�a de cumplimiento, en entidades estatales y privadas, vinculadas a servicios o sectores cr�ticos del pa�s, y al CERTuy, los de centralizar y coordinar la respuesta a incidentes inform�ticos, y realizar las tareas preventivas que correspondan para la protecci�n de los activos indicados;
+III) que, el art�culo 38 de la Ley N� 19.670, de 15 de octubre de 2018 estableci� la competencia del CERTuy para coordinar junto a la Unidad Reguladora y de Control de Datos Personales (URCDP) el curso de acci�n ante la ocurrencia de vulneraciones de seguridad en responsables o encargados de una base de datos o de tratamiento, aplicable a los sectores p�blico y privado;
+IV) que, los art�culos 78 a 84 de la Ley N� 20.212, de 6 de noviembre de 2023 establecieron obligaciones en materia de ciberseguridad para las entidades p�blicas y las entidades privadas vinculadas a servicios o sectores cr�ticos del pa�s, atribuyendo a la Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento la potestad de adoptar medidas respecto a las entidades que las incumplan, y creando el Registro Nacional de Incidentes de Ciberseguridad;
+V) que, en el marco de la adopci�n de medidas de seguridad por parte de entidades p�blicas y privadas que realicen tratamiento de datos personales al amparo de lo establecido en el art�culo 10� de la Ley N� 18.331, de 11 de agosto de 2008, el art�culo 3� del Decreto N� 64/020, de 17 de febrero de 2020 estableci� que para dicha adopci�n se valorar�n est�ndares nacionales e internacionales en materia de seguridad de la informaci�n, tales como el Marco de Ciberseguridad elaborado por Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento;
+VI) que, en consecuencia, razones de juridicidad y conveniencia ameritan adecuar el funcionamiento del CERTuy y reglamentar los cometidos asignados a la Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento, a ser cumplidos por su Direcci�n de Seguridad de la Informaci�n;
+ATENTO: a lo precedentemente expuesto y a lo preceptuado en las disposiciones citadas y en el art�culo 168 numeral 4� de la Constituci�n de la Rep�blica;
+EL PRESIDENTE DE LA REP�BLICA
+-actuando en Consejo de Ministros-
+DECRETA: Cap�tulo I - Disposiciones generales
+Art�culo 1
+�mbito objetivo. La Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento, a trav�s de la Direcci�n de Seguridad de la informaci�n, tendr� los siguientes cometidos en materia de seguridad de la informaci�n y ciberseguridad a nivel nacional:
+a) Establecer y dirigir pol�ticas y procedimientos, metodolog�as y
+mejores pr�cticas en el �mbito de su competencia.
+b) Dictar las regulaciones pertinentes y elevar al Poder Ejecutivo las
+propuestas de reglamentaci�n en la materia.
+c) Fiscalizar, auditar su cumplimiento y brindar apoyo en las etapas de
+implementaci�n de las pol�ticas, metodolog�as, mejores pr�cticas y
+regulaciones indicadas en los apartados anteriores.
+d) Centralizar y coordinar la respuesta a incidentes inform�ticos, y
+realizar tareas preventivas que correspondan para la protecci�n de los
+activos de informaci�n cr�ticos definidos en el presente Decreto. Este
+cometido ser� ejercido a trav�s del CERTuy.
+e) Requerir informaciones complementarias vinculadas a la ocurrencia de
+incidentes de seguridad, las medidas adoptadas y a la aplicaci�n de la
+normativa en materia de ciberseguridad en general.
+f) Oficiar como �nico interlocutor nacional en las comunicaciones con
+organismos nacionales e internacionales en materia de seguridad de la
+informaci�n y ciberseguridad.
+g) Asesorar al Poder Ejecutivo sobre la normativa y proyectos de ley, en
+sus diferentes etapas, que refieran total o parcialmente a seguridad
+de la informaci�n y ciberseguridad.
+Art�culo 2
+�mbito subjetivo. El presente Decreto ser� de aplicaci�n a todas las entidades p�blicas, y a las entidades privadas vinculadas a servicios o sectores cr�ticos del pa�s.
+(*) Notas: Ver en esta norma, art�culo: 10 .
+Art�culo 3
+Definiciones.
+a) Activos de informaci�n: datos o informaci�n que tienen valor para una
+organizaci�n.
+b) Activos de informaci�n cr�ticos: activos de informaci�n necesarios
+para asegurar y mantener el correcto funcionamiento de los servicios
+cr�ticos.
+c) Centro de Operaciones de Ciberseguridad (SOC): Security Operations
+Center (SOC) es un equipo de profesionales de ciberseguridad seguridad
+que supervisa toda la infraestructura tecnol�gica de una organizaci�n
+o conjunto de organizaciones, las 24 horas del d�a, los 7 d�as de la
+semana, para detectar eventos de ciberseguridad en tiempo real y
+abordarlos de la forma m�s r�pida y eficaz posible.
+d) Ciberseguridad: protecci�n de activos de informaci�n, a trav�s del
+tratamiento de amenazas que ponen en riesgo la informaci�n que es
+procesada, almacenada y transportada por los sistemas de informaci�n
+que se encuentran interconectados.
+e) Equipo de respuesta a incidentes de seguridad inform�tica (CSIRT):
+centro de respuesta para incidentes de ciberseguridad. Se trata de un
+grupo de expertos responsable del desarrollo de medidas preventivas y
+reactivas ante incidencias de ciberseguridad.
+f) Evento de ciberseguridad: hecho que indica una posible brecha de
+ciberseguridad o falla de controles.
+g) Hallazgo de seguridad: desv�o o brecha de seguridad detectado como
+resultado de alg�n tipo de evaluaci�n o auditor�a de seguridad.
+h) Incidente de ciberseguridad: uno o m�ltiples eventos de ciberseguridad
+relacionados e identificados que puede(n) da�ar los activos de una
+organizaci�n o comprometer sus operaciones.
+i) Infraestructuras de informaci�n criticas: Sistemas de informaci�n que
+soportan los servicios cr�ticos y cuya afectaci�n tendr�a un impacto
+debilitante en la seguridad de la informaci�n de los servicios
+cr�ticos.
+j) Sectores cr�ticos: salud, orden p�blico, servicios de emergencia,
+energ�a, telecomunicaciones, transporte, suministro de agua potable,
+ecolog�a y ambiente, agroindustria, industria, servicios p�blicos,
+banca y servicios financieros, y defensa, y otros sectores de inter�s
+que oportunamente determine el Poder Ejecutivo, con el asesoramiento
+de la Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y
+la Sociedad de la Informaci�n y del Conocimiento.
+k) Seguridad de la informaci�n: preservaci�n de la confidencialidad,
+integridad y disponibilidad de la informaci�n. Involucra tambi�n otras
+propiedades, como la autenticidad, la responsabilidad sobre acciones y
+decisiones, el no repudio y la confiabilidad.
+l) Servicios cr�ticos: servicios fundamentales para la operaci�n del
+gobierno y la econom�a del pa�s, pertenecientes a los sectores
+cr�ticos, cualquier otro servicio que afecte a m�s del 30% (treinta
+por ciento) de la poblaci�n, y otros servicios de inter�s que
+oportunamente determine el Poder Ejecutivo, con el asesoramiento de la
+Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la
+Sociedad de la Informaci�n y del Conocimiento.
+m) Sistema de informaci�n: conjunto interconectado de recursos de
+informaci�n bajo el mismo control de gesti�n directo que comparte una
+funcionalidad com�n (incluyendo, entre otros hardware, software,
+activos de informaci�n, comunicaciones y personas).
+n) Sistema inform�tico: los ordenadores y redes de comunicaci�n
+electr�nica, as� como los datos electr�nicos almacenados, procesados,
+recuperados o transmitidos por los mismos para su operaci�n, uso,
+protecci�n y mantenimiento. Cap�tulo II - Direcci�n de Seguridad de la Informaci�n
+Art�culo 4
+Cometidos. Son cometidos de la Direcci�n de Seguridad de la Informaci�n de la Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento:
+a) Definir, dirigir y gestionar la estrategia, las pol�ticas,
+metodolog�as y mejores pr�cticas en seguridad de la informaci�n y
+ciberseguridad a nivel nacional.
+b) Gestionar la prevenci�n y la respuesta a incidentes inform�ticos a
+trav�s del CERTuy.
+c) Regular, fiscalizar y auditar el cumplimiento de lo establecido en el
+marco de los literales a) y b).
+d) Fiscalizar y auditar los equipos de respuesta a incidentes de
+seguridad inform�tica (CSIRT) y de centros de operaciones de
+ciberseguridad (SOC) en el �mbito nacional.
+e) Asesorar a la Direcci�n Ejecutiva de la Agencia para el Desarrollo del
+Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del
+Conocimiento en lo relativo a la definici�n e implementaci�n de las
+pol�ticas derivadas de la Ley N� 18.600, de fecha 21 de setiembre de
+2009.
+f) Proponer a la Direcci�n Ejecutiva de la Agencia para el Desarrollo del
+Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del
+Conocimiento los convenios con instituciones nacionales o
+internacionales que se entiendan pertinentes para el cumplimiento de
+sus objetivos.
+g) Desarrollar, promover la implantaci�n y monitorear una estrategia
+nacional de ciberseguridad.
+Establecer, conjuntamente con el Comit� de Gesti�n de la Estrategia Nacional de Ciberseguridad creado por el art�culo 83, de la Ley N� 20.212, de 6 de noviembre de 2023, la reglamentaci�n de funcionamiento de �ste, y la determinaci�n y forma de funcionamiento de los comit�s asesores ad hoc que se creen, todo lo cual deber� publicarse oportunamente en la p�gina web de la Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento.
+(*) Notas: Ver en esta norma, art�culo: 6 .
+Art�culo 5
+Potestades. A los efectos de cumplir con sus cometidos, la Direcci�n podr�:
+a) Proponer y dirigir pol�ticas, metodolog�as y mejores pr�cticas en
+seguridad de la informaci�n y ciberseguridad.
+b) Fomentar la generaci�n de capacidades, concientizar, entrenar y
+difundir en su materia de competencia, viabilizando la articulaci�n
+con los actores del ecosistema de ciberseguridad.
+c) Consolidar informaci�n obtenida en car�cter del cumplimiento de sus
+cometidos, que permita conocer el estado de situaci�n de la seguridad
+de la informaci�n y ciberseguridad.
+d) Notificar a los organismos reguladores, sectoriales, los
+incumplimientos de seguridad de la informaci�n y ciberseguridad
+detectados en sus regulados.
+e) Solicitar informes circunstanciados a entidades p�blicas y privadas,
+garantizando la seguridad y confidencialidad de los datos y elementos
+recibidos.
+f) Constatado el incumplimiento de las obligaciones establecidas en los
+art�culos 10 a 13 del presente Decreto, requerir el ajuste de
+procedimientos a la normativa vigente en materia de ciberseguridad y
+el cumplimiento de medidas espec�ficas para la prevenci�n de riesgos,
+en los plazos que se definan, en caso de incumplimientos a la
+normativa vigente.
+g) Asesorar a las entidades en su materia de competencia.
+h) Brindar apoyo en las etapas de implementaci�n del punto a),
+viabilizando la articulaci�n con los actores del ecosistema de
+ciberseguridad.
+i) Apercibir a entidades incumplidoras a lo establecido en el presente
+Decreto, de conformidad con lo previsto en el art�culo 21 del presente
+Decreto.
+j) Definir, de entenderlo necesario, un cronograma de cumplimiento de las
+obligaciones establecidas en el presente Decreto para aquellas
+entidades que a la fecha de su publicaci�n no se encontraban
+alcanzadas por dichas obligaciones;
+Art�culo 6
+Publicidad de las actuaciones. Las actuaciones realizadas por la Direcci�n de Seguridad de la Informaci�n en funci�n de los literales a) a d) del art�culo 4� no podr�n ser publicadas hasta su finalizaci�n, y su publicaci�n, alcance y contenido deber� ser consensuado previamente entre todos los organismos involucrados. En ese caso, la comunicaci�n de la informaci�n de las investigaciones y medidas derivadas de las actividades realizadas en el marco del literal b) del art�culo 4� deber� ser realizada por la entidad afectada.
+Durante las actuaciones, el personal de la Direcci�n de Seguridad de la Informaci�n deber� guardar reserva de la informaci�n recibida y recabada. Ello sin perjuicio de la obligaci�n de publicar informaci�n y estad�sticas anuales respecto al estado de la seguridad de la informaci�n y la ciberseguridad. (*) Notas: Ver en esta norma, art�culo: 9 .
+Cap�tulo III - Centro Nacional de Respuesta a Incidentes de Seguridad Inform�tica (CERTuy)
+Art�culo 7
+Cometidos. Son cometidos del CERTuy:
+a) Coordinar, a nivel nacional, con las autoridades competentes y/o los
+responsables de la seguridad de la informaci�n de las entidades para
+la prevenci�n, detecci�n, gesti�n y recopilaci�n de informaci�n sobre
+incidentes de ciberseguridad.
+b) Proponer normas para incrementar los niveles de ciberseguridad en los
+recursos y sistemas relacionados con las Tecnolog�as de la Informaci�n
+y la Comunicaci�n (TIC) en las entidades.
+c) Realizar las tareas preventivas que correspondan, as� como alertar, a
+la mayor brevedad, ante amenazas y vulnerabilidades de seguridad en
+sistemas inform�ticos, a trav�s de un SOC Nacional.
+d) Difundir informaci�n para incrementar los niveles de seguridad de las
+Tecnolog�as de la Informaci�n y la Comunicaci�n (TIC) y fomentar el
+desarrollo de capacidades y buenas pr�cticas.
+e) Fomentar la creaci�n de CSIRT y/o de SOC's para mejorar el trabajo
+colaborativo y la capacidad de prevenci�n y respuesta ante
+incidentes.
+f) Definir los lineamientos m�nimos necesarios, as� como los mecanismos
+de interacci�n con los CSIRT y/o de los SOC a nivel nacional.
+g) Oficiar como �nico interlocutor nacional en las comunicaciones entre
+organismos nacionales e internacionales en materia de incidentes de
+ciberseguridad.
+h) Intervenir en las vulneraciones de seguridad que le sean reportadas
+por la URCDP.
+i) Llevar adelante el Registro Nacional de Incidentes de Ciberseguridad
+(RENIC) creado por el art�culo 80 de la Ley N� 20.212, de 6 de
+noviembre de 2023.
+Art�culo 8
+Potestades. A efectos de cumplir sus cometidos el CERTuy podr�:
+a) Interactuar con las entidades para alertar sobre posibles incidentes
+de ciberseguridad.
+b) Asistir, cuando se entienda necesario, a las entidades durante la
+ocurrencia de un incidente de ciberseguridad.
+c) Definir los criterios para la clasificaci�n, plazos para la
+comunicaci�n, entre otros aspectos relacionados con incidentes de
+ciberseguridad.
+d) Requerir informaciones de las entidades para un entendimiento cabal de
+los sistemas relacionados con las Tecnolog�as de la Informaci�n y la
+Comunicaci�n (TIC), y sea necesaria para la adecuada resoluci�n de los
+incidentes de ciberseguridad, en los tiempos que �ste determine.
+e) Monitorear, en los casos que lo entienda necesario, los sistemas
+inform�ticos de las entidades p�blicas y privadas vinculadas a
+sectores cr�ticos del pa�s, con el fin de prevenir posibles incidentes
+de ciberseguridad. Dicho monitoreo ser� realizado en coordinaci�n con
+las entidades mencionadas y/o con las autoridades competentes en el
+sector al cual pertenezcan dichas entidades.
+f) Intervenir los sistemas inform�ticos de las entidades p�blicas y
+privadas vinculadas a sectores cr�ticos del pa�s durante la ocurrencia
+de un incidente de ciberseguridad, en todos los casos en acuerdo con
+la entidad involucrada y/o en coordinaci�n con la autoridad sectorial
+competente.
+g) Establecer las condiciones, requisitos e informaciones m�nimas que
+deben proveer las entidades p�blicas las privadas vinculadas a
+servicios o sectores cr�ticos del pa�s para comunicar los incidentes
+de ciberseguridad que se produzcan, de conformidad con lo previsto en
+el art�culo 80 de la Ley N� 20.212, de 6 de noviembre de 2023.
+h) Comunicar a entidades p�blicas o privadas pertenecientes a sectores o
+servicios cr�ticos del pa�s datos b�sicos de la ocurrencia de
+incidentes de ciberseguridad que puedan afectarlas o en los que se
+hayan visto involucradas.
+i) Realizar todas aquellas acciones que faciliten el cumplimento de sus
+cometidos.
+(*) Notas: Ver en esta norma, art�culo: 10 .
+Art�culo 9
+Obligaciones del CERTuy. El CERTuy tendr� las siguientes obligaciones:
+a) Liderar, coordinar o asistir, seg�n corresponda, la respuesta a
+incidentes de ciberseguridad, la ejecuci�n de la recuperaci�n de
+desastres y en el an�lisis forense del incidente de ciberseguridad
+reportado.
+b) Guardar reserva acerca de la informaci�n relativa a incidentes de
+ciberseguridad de acuerdo con la normativa vigente, y de conformidad
+con lo dispuesto en el art�culo 6� del presente Decreto.
+c) Publicar en el sitio web las estad�sticas de los incidentes de
+ciberseguridad.
+d) Intercambiar informaci�n y cooperar para la mejora de procesos y
+conocimientos de los CSIRT y en los SOC. Cap�tulo IV - Obligaciones de las entidades
+Secci�n I - Generales
+Art�culo 10
+Obligaciones Generales. Las entidades establecidas en el art�culo 2 del presente Decreto tendr�n las siguientes obligaciones:
+a) Adoptar medidas de seguridad eficaces para proteger sus activos de
+informaci�n cr�ticos conforme los lineamientos establecidos por la
+Direcci�n de Seguridad de la Informaci�n de la Agencia para el
+Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la
+Informaci�n y del Conocimiento.
+b) Responder por la integridad de la informaci�n generada o en su poder
+en el marco de la interacci�n con la Direcci�n de Seguridad de la
+Informaci�n de la Agencia para el Desarrollo del Gobierno de Gesti�n
+Electr�nica y la Sociedad de la Informaci�n y del Conocimiento.
+c) Designar un responsable de Seguridad de la Informaci�n, el que podr�
+ser interno o externo a la entidad, a efectos de facilitar el
+cumplimiento de las obligaciones correspondientes a la seguridad de la
+informaci�n, quien deber� contar con las competencias necesarias e
+independencia t�cnica para cumplir sus funciones en forma apropiada.
+La Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la
+Sociedad de la Informaci�n y del Conocimiento podr� requerir la
+comunicaci�n de la designaci�n realizada o de las modificaciones
+acaecidas, luego de los 90 (noventa) d�as a contar de la promulgaci�n
+del presente Decreto.
+d) Prever los recursos humanos y t�cnicos especializados, necesarios para
+la resoluci�n de los incidentes y/o los hallazgos de seguridad
+cr�ticos en los tiempos recomendados.
+e) Planificar la adopci�n de las medidas necesarias para mitigar y
+mejorar los controles existentes que hayan sido identificadas a partir
+de hallazgos y/o incidentes de ciberseguridad.
+f) Realizar las auditor�as previstas en el presente Decreto siguiendo los
+lineamientos del Marco de Ciberseguridad, de conformidad con lo
+previsto en el art�culo 16.
+g) Comunicar la ocurrencia de incidentes de ciberseguridad al CERTuy en
+un plazo de 24 (veinticuatro) horas de conocido el incidente en la
+forma y condiciones establecidas por �ste de conformidad con lo
+previsto en el art�culo 8 literal i del presente Decreto.
+h) Dar cumplimiento a otras medidas que se determinen por el Poder
+Ejecutivo a efectos de proteger los activos de informaci�n, siguiendo
+los est�ndares nacionales e internacionales en la materia.
+Art�culo 11
+Prevenci�n de incidentes. Con respecto a la prevenci�n de incidentes de ciberseguridad, las entidades obligadas deber�n:
+a) Conservar trazas de auditor�as de los sistemas de informaci�n en forma
+centralizada por un per�odo no inferior a los 12 (doce) meses o el
+periodo que el CERTuy determine.
+b) Proporcionar informaci�n de los sistemas existentes, as� como
+informaci�n de c�mo funciona el sistema para poder interpretar las
+trazas de auditor�a de los mismos.
+c) Notificar cuando existen cambios sustantivos en los sistemas y cuando
+se incorporan nuevos.
+Art�culo 12
+Gesti�n de incidentes. Con respecto a la gesti�n de incidentes de ciberseguridad, las entidades obligadas deber�n:
+a) Informar de forma completa e inmediata la existencia de un potencial
+incidente de ciberseguridad, de conformidad con los criterios
+establecidos por el CERTuy.
+b) Poner a disposici�n del CERTuy, y/o del CSIRT sectorial que
+corresponda, toda la informaci�n que le sea requerida por �ste, en los
+tiempos solicitados.
+c) Reparar las consecuencias de los incidentes de ciberseguridad que
+afecten activos de informaci�n cr�ticos, de acuerdo con las
+recomendaciones informadas.
+Art�culo 13
+Obligaciones de los CSIRT y SOC. Los CSIRT y SOC sectoriales deber�n:
+a) Reportar los incidentes de ciberseguridad que reciba de su comunidad
+objetivo al CERTuy.
+b) Establecer los mecanismos de escalamiento al CERTuy.
+c) Adecuar los reportes a la taxonom�a establecida por CERTuy.
+d) Cumplir con los dem�s lineamientos establecidos por el CERTuy.
+Secci�n II - Marco de ciberseguridad
+Art�culo 14
+Adopci�n. Las entidades obligadas por el presente Decreto deber�n adoptar el Marco de Ciberseguridad desarrollado por la Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento, y cumplir con el nivel de madurez m�nimo asignado al perfil que le corresponda.
+Art�culo 15
+Definici�n de perfiles y plazos de implementaci�n. La Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento asignar� los perfiles de cada entidad en materia de ciberseguridad de acuerdo con lo establecido en el Marco de Ciberseguridad. Adem�s, establecer� los plazos de implementaci�n para los distintos perfiles.
+La asignaci�n y los plazos ser�n comunicados a las entidades obligadas en un plazo de 60 (sesenta) d�as corridos a contar de la publicaci�n del presente Decreto.
+Art�culo 16
+Auditor�as. Las entidades obligadas deber�n realizar auditor�as de acuerdo a los lineamientos previstos en el Marco de Ciberseguridad, y con la periodicidad definida por la Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento.
+(*) Notas: Ver en esta norma, art�culo: 17 .
+Art�culo 17
+Resultado de auditor�as. Las entidades deber�n enviar a la Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento un resumen ejecutivo de las auditor�as referidas en el art�culo anterior, en el formato que �sta establezca, y elaborado por el auditor l�der designado, en un plazo de 30 (treinta) d�as corridos a contar de su finalizaci�n.
+Para el caso de que la auditor�a constate resultados que ameriten la introducci�n de mejoras, se deber� elaborar y enviar un plan de acci�n de cumplimiento en un plazo de 60 (sesenta) d�as corridos a la finalizaci�n de la auditor�a externa. La Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento podr� hacer seguimiento y evaluaci�n del avance del referido plan.
+Art�culo 18
+Servicios tercerizados. Las entidades obligadas por el presente Decreto deber�n garantizar que los servicios que tercericen para el cumplimiento de sus cometidos cumplan con el Marco de Ciberseguridad.
+Art�culo 19
+Transparencia activa. La Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento publicar� indicadores sobre los niveles de madurez y el grado de cumplimiento de la presente normativa, en la forma y con la periodicidad que �sta determine. Secci�n III - Otras disposiciones
+Art�culo 20
+Compras p�blicas. La Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento y la Agencia Reguladora de Compras Estatales (ARCE) establecer�n criterios para la inclusi�n de requisitos de seguridad en el dise�o en los pliegos de compras p�blicas, y definir�n un listado de servicios o productos que requerir�n en forma preceptiva un informe por parte de Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento previo a la publicaci�n del llamado correspondiente.
+Art�culo 21
+Incumplimiento. La Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento podr� apercibir directamente a las entidades obligadas que incumplan con lo establecido en el presente Decreto, sin perjuicio de la comunicaci�n a las entidades competentes en caso de incidentes que afecten tipos especiales de datos.
+En forma semestral, Agencia para el Desarrollo del Gobierno de Gesti�n Electr�nica y la Sociedad de la Informaci�n y del Conocimiento comunicar� a la Asamblea General el listado de las entidades que hayan incumplido con las obligaciones referidas en el presente Decreto, y las medidas adoptadas. Secci�n IV - Derogaciones
+Art�culo 22
+Derogaciones. Der�ganse los Decretos N� 451/009 y 452/009, de 28 de setiembre de 2009, y todas aquellas disposiciones que se opongan al presente Decreto.
+LACALLE POU LUIS - NICOL�S MARTINELLI - OMAR PAGANINI - AZUCENA ARBELECHE - ARMANDO CASTAINGDEBAT - PABLO DA SILVEIRA - JOSE LUIS FALERO - ELISA FACIO - MARIO ARIZTI - JOS� SATDJIAN; FERNANDO MATTOS - EDUARDO SANGUINETTI - RA�L LOZANO - ALEJANDRO SCIARRA - ROBERT BOUVIER
+Ayuda

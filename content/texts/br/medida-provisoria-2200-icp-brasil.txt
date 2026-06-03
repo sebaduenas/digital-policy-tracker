@@ -1,0 +1,179 @@
+2200-2
+Presid�ncia
+da Rep�blica
+Casa Civil
+Subchefia para Assuntos Jur�dicos
+MEDIDA PROVIS�RIA N o 2.200-2, DE
+24 DE AGOSTO DE 2001.
+Institui
+a Infra-Estrutura de Chaves P�blicas Brasileira - ICP-Brasil, transforma o Instituto
+Nacional de Tecnologia da Informa��o em autarquia, e d� outras provid�ncias.
+O PRESIDENTE DA REP�BLICA , no uso da atribui��o que lhe confere o art. 62 da
+Constitui��o, adota a seguinte Medida Provis�ria, com for�a de lei:
+Art. 1 o Fica institu�da a Infra-Estrutura de Chaves
+P�blicas Brasileira - ICP-Brasil, para garantir a autenticidade, a integridade e a
+validade jur�dica de documentos em forma eletr�nica, das aplica��es de suporte e das
+aplica��es habilitadas que utilizem certificados digitais, bem como a realiza��o de
+transa��es eletr�nicas seguras.
+Art. 2 o A ICP-Brasil, cuja organiza��o ser� definida
+em regulamento, ser� composta por uma autoridade gestora de pol�ticas e pela cadeia de
+autoridades certificadoras composta pela Autoridade Certificadora Raiz - AC Raiz, pelas
+Autoridades Certificadoras - AC e pelas Autoridades de Registro - AR.
+Art. 3 o A fun��o de autoridade gestora de pol�ticas
+ser� exercida pelo Comit� Gestor da ICP-Brasil, vinculado � Casa Civil da Presid�ncia
+da Rep�blica e composto por cinco representantes da sociedade civil, integrantes de
+setores interessados, designados pelo Presidente da Rep�blica, e um representante de cada
+um dos seguintes �rg�os, indicados por seus titulares:
+I
+- Minist�rio da Justi�a;
+II
+- Minist�rio da Fazenda;
+III - Minist�rio do Desenvolvimento, Ind�stria e Com�rcio Exterior;
+IV
+- Minist�rio do Planejamento, Or�amento e Gest�o;
+V
+- Minist�rio da Ci�ncia e Tecnologia;
+VI
+- Casa Civil da Presid�ncia da Rep�blica; e
+VII - Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica.
+� 1 o A coordena��o do Comit� Gestor da ICP-Brasil
+ser� exercida pelo representante da Casa Civil da Presid�ncia da Rep�blica.
+� 2 o Os representantes da sociedade civil ser�o
+designados para per�odos de dois anos, permitida a recondu��o.
+� 3 o A participa��o no Comit� Gestor da ICP-Brasil
+� de relevante interesse p�blico e n�o ser� remunerada.
+� 4 o O Comit� Gestor da ICP-Brasil ter� uma
+Secretaria-Executiva, na forma do regulamento.
+Art. 4 o Compete ao Comit� Gestor da ICP-Brasil:
+I - adotar as medidas necess�rias e coordenar a implanta��o e o funcionamento
+da ICP-Brasil;
+II - estabelecer a pol�tica, os crit�rios e as normas t�cnicas para o
+credenciamento das AC, das AR e dos demais prestadores de servi�o de suporte � ICP-Brasil, em todos os n�veis da cadeia de certifica��o;
+III - estabelecer a pol�tica de certifica��o e as regras operacionais da AC
+Raiz;
+IV - homologar, auditar e fiscalizar a AC Raiz e os seus prestadores de
+servi�o;
+V - estabelecer diretrizes e normas t�cnicas para a formula��o de pol�ticas
+de certificados e regras operacionais das AC e das AR e definir n�veis da cadeia de
+certifica��o;
+VI - aprovar pol�ticas de certificados, pr�ticas de certifica��o e regras
+operacionais, credenciar e autorizar o funcionamento das AC e das AR, bem como autorizar a
+AC Raiz a emitir o correspondente certificado;
+VII - identificar e avaliar as pol�ticas de ICP externas, negociar e aprovar
+acordos de certifica��o bilateral, de certifica��o cruzada, regras de
+interoperabilidade e outras formas de coopera��o internacional, certificar, quando for o
+caso, sua compatibilidade com a ICP-Brasil, observado o disposto em tratados, acordos ou
+atos internacionais; e
+VIII - atualizar, ajustar e revisar os procedimentos e as pr�ticas
+estabelecidas para a ICP-Brasil, garantir sua compatibilidade e promover a atualiza��o
+tecnol�gica do sistema e a sua conformidade com as pol�ticas de seguran�a.
+Par�grafo �nico. O Comit� Gestor poder� delegar atribui��es � AC
+Raiz.
+Art. 5 o � AC Raiz, primeira autoridade da cadeia de
+certifica��o, executora das Pol�ticas de Certificados e normas t�cnicas e operacionais
+aprovadas pelo Comit� Gestor da ICP-Brasil, compete emitir, expedir, distribuir, revogar
+e gerenciar os certificados das AC de n�vel imediatamente subseq�ente ao seu, gerenciar
+a lista de certificados emitidos, revogados e vencidos, e executar atividades de
+fiscaliza��o e auditoria das AC e das AR e dos prestadores de servi�o habilitados na
+ICP, em conformidade com as diretrizes e normas t�cnicas estabelecidas pelo Comit�
+Gestor da ICP-Brasil, e exercer outras atribui��es que lhe forem cometidas pela
+autoridade gestora de pol�ticas.
+Par�grafo �nico. � vedado � AC Raiz emitir certificados para o usu�rio final.
+Art. 6 o �s AC, entidades credenciadas a emitir
+certificados digitais vinculando pares de chaves criptogr�ficas ao respectivo titular,
+compete emitir, expedir, distribuir, revogar e gerenciar os certificados, bem como colocar
+� disposi��o dos usu�rios listas de certificados revogados e outras informa��es
+pertinentes e manter registro de suas opera��es.
+Par�grafo �nico. O par de chaves criptogr�ficas ser� gerado sempre
+pelo pr�prio titular e sua chave privada de assinatura ser� de seu exclusivo controle,
+uso e conhecimento.
+Art. 7 o �s AR, entidades operacionalmente vinculadas a
+determinada AC, compete identificar e cadastrar usu�rios na presen�a destes, encaminhar
+solicita��es de certificados �s AC e manter registros de suas opera��es.
+(Revogado pela Medida
+Provis�ria n� 951, de 2020)
+(Vig�ncia Encerrada)
+Art. 7� Compete �s AR, entidades operacionalmente vinculadas
+a determinada AC, identificar e cadastrar usu�rios, encaminhar solicita��es de
+certificados �s AC e manter registros de suas opera��es.
+(Reda��o dada pela Lei n�
+14.063, de 2020)
+Par�grafo �nico. A identifica��o a que se refere o
+caput deste
+artigo ser� feita presencialmente, mediante comparecimento pessoal do
+usu�rio, ou por outra forma que garanta n�vel de seguran�a equivalente,
+observadas as normas t�cnicas da ICP-Brasil.
+(Inclu�do pela Lei n�
+14.063, de 2020)
+Art. 8 o Observados os crit�rios a serem estabelecidos
+pelo Comit� Gestor da ICP-Brasil, poder�o ser credenciados como AC e AR os �rg�os e as
+entidades p�blicos e as pessoas jur�dicas de direito privado.
+Art. 9 o � vedado a qualquer AC certificar n�vel
+diverso do imediatamente subseq�ente ao seu, exceto nos casos de acordos de
+certifica��o lateral ou cruzada, previamente aprovados pelo Comit� Gestor da
+ICP-Brasil.
+Art. 10. Consideram-se documentos p�blicos ou particulares, para todos os
+fins legais, os documentos eletr�nicos de que trata esta Medida Provis�ria.
+� 1 o As declara��es constantes dos documentos em
+forma eletr�nica produzidos com a utiliza��o de processo de certifica��o
+disponibilizado pela ICP-Brasil presumem-se verdadeiros em rela��o aos signat�rios, na
+forma do art. 131 da Lei n o 3.071,
+de 1 o de janeiro de 1916 - C�digo Civil.
+� 2 o O disposto nesta Medida Provis�ria n�o obsta a
+utiliza��o de outro meio de comprova��o da autoria e integridade de documentos em
+forma eletr�nica, inclusive os que utilizem certificados n�o emitidos pela ICP-Brasil,
+desde que admitido pelas partes como v�lido ou aceito pela pessoa a quem for oposto o
+documento.
+Art. 11. A utiliza��o de documento eletr�nico
+para fins tribut�rios atender�, ainda, ao disposto no art. 100 da Lei n o 5.172, de 25 de
+outubro de 1966 - C�digo Tribut�rio Nacional.
+Art. 12. Fica transformado em autarquia federal,
+vinculada ao Minist�rio da Ci�ncia e Tecnologia, o Instituto Nacional de Tecnologia da
+Informa��o - ITI, com sede e foro no Distrito Federal.
+Art. 13. O ITI � a Autoridade Certificadora Raiz da Infra-Estrutura de
+Chaves P�blicas Brasileira.
+Art. 14. No exerc�cio de suas atribui��es, o ITI desempenhar�
+atividade de fiscaliza��o, podendo ainda aplicar san��es e penalidades, na forma da
+lei.
+Art. 15. Integrar�o a estrutura b�sica do ITI uma Presid�ncia, uma
+Diretoria de Tecnologia da Informa��o, uma Diretoria de Infra-Estrutura de Chaves
+P�blicas e uma Procuradoria-Geral.
+Par�grafo �nico. A Diretoria de Tecnologia da Informa��o poder� ser
+estabelecida na cidade de Campinas, no Estado de S�o Paulo.
+Art. 16. Para a consecu��o dos seus objetivos, o ITI poder�, na forma
+da lei, contratar servi�os de terceiros.
+� 1 o O Diretor-Presidente do ITI poder� requisitar,
+para ter exerc�cio exclusivo na Diretoria de Infra-Estrutura de Chaves P�blicas, por
+per�odo n�o superior a um ano, servidores, civis ou militares, e empregados de �rg�os
+e entidades integrantes da Administra��o P�blica Federal direta ou indireta, quaisquer
+que sejam as fun��es a serem exercidas.
+� 2 o Aos requisitados nos termos deste artigo ser�o
+assegurados todos os direitos e vantagens a que fa�am jus no �rg�o ou na entidade de
+origem, considerando-se o per�odo de requisi��o para todos os efeitos da vida
+funcional, como efetivo exerc�cio no cargo, posto, gradua��o ou emprego que ocupe no
+�rg�o ou na entidade de origem.
+Art. 17. Fica o Poder Executivo autorizado a transferir para o ITI:
+I - os acervos t�cnico e patrimonial, as obriga��es e os direitos do
+Instituto Nacional de Tecnologia da Informa��o do Minist�rio da Ci�ncia e Tecnologia;
+II - remanejar, transpor, transferir, ou utilizar, as dota��es or�ament�rias
+aprovadas na Lei Or�ament�ria de 2001, consignadas ao Minist�rio da Ci�ncia e
+Tecnologia, referentes �s atribui��es do �rg�o ora transformado, mantida a mesma
+classifica��o or�ament�ria, expressa por categoria de programa��o em seu menor
+n�vel, observado o disposto no � 2 o
+do art. 3 o da Lei n o 9.995, de 25 de julho de 2000 ,
+assim como o respectivo detalhamento por esfera or�ament�ria, grupos de despesa, fontes
+de recursos, modalidades de aplica��o e identificadores de uso.
+Art. 18. Enquanto n�o for implantada a sua Procuradoria Geral, o ITI
+ser� representado em ju�zo pela Advocacia Geral da Uni�o.
+Art. 19. Ficam convalidados os atos praticados com base na Medida Provis�ria n o 2.200-1, de 27 de julho de 2001.
+Art. 20. Esta Medida Provis�ria entra em vigor na data de sua
+publica��o.
+Bras�lia, 24 de agosto de 2001; 180 o da Independ�ncia e 113 o
+da Rep�blica.
+FERNANDO HENRIQUE CARDOSO
+Jos� Gregori
+Martus Tavares
+Ronaldo Mota Sardenberg
+Pedro Parente
+Este texto n�o substitui o publicado no
+DOU de 27.8.2001

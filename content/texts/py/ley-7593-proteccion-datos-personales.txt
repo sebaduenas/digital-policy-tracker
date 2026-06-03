@@ -1,0 +1,566 @@
+Ley Nº 7593/2025 / DE PROTECCIÓN DE DATOS PERSONALES EN LA REPÚBLICA DEL PARAGUAY.
+• Libros: “Cuentos para niños basados en biografí ...
+• Agenda: Presentación de libro: Voces de la Memor ...
+• Libros: DEUS UBIQUE EST . LIBRO VIVO
+• Libros: Poder y liderazgo del paraguayo Una visi ...
+• Agenda: Presentación de libro "ACERO; la espada ...
+• Noticias: La Biblioteca del Congreso será sede de ...
+• Agenda: Taller sobre fortalecimiento Institucion ...
+• Dinapi: Llanto en los ojos y otros
+• Agenda: 1er. Intercolegial de Juegos de Mesa y l ...
+• Leyes Paraguayas: Ley Nº 7634/2026 / Ley N° 7634 ACUERDO I ...
+Primary Menu
+• Inicio
+• la bacn
+• Quienes somos
+• Mision y vision
+• Comision administrativa
+• orgranigrama
+• presupuesto
+• marco normativo
+• Servicios
+• Publicaciones BACN
+• Antecedentes de la BACN
+• Proyecto edificio BACN
+• leyes paraguayas
+• constitucion nacional de la republica del paraguay
+• conoce tu ley
+• leyes mas solicitadas
+• ultimas leyes publicadas
+• leyes por año
+• Historia de la Ley
+• Multimedia
+• Libros
+• Revistas del a BACCN
+• Bibliografias de la baccn
+• galeria de imagenes
+• Galeria de recortes de prensa
+• Videos de la BACCN
+• Videos Conveción Nacional Constituyente
+• catalogo bibliografico
+• Noticias
+• faqs
+• Blog
+• contacto
+Inicio
+Leyes Paraguayas
+Ley Nº 7593/2025 / DE PROTECCIÓN DE DATOS PERSONALES EN LA REPÚBLICA DEL PARAGUAY.
+Leyes Paraguayas
+Ley Nº 7593/2025 / DE PROTECCIÓN DE DATOS PERSONALES EN LA REPÚBLICA DEL PARAGUAY.
+Escrito por
+Ana Belen
+Lunes 09 de Marzo de 2026
+11,644 vistas
+Comparte
+• Fecha de Promulgación: 27-11-2025
+• Fecha de Publicación: 27-11-2025
+Descargar Archivo: Ley Nº 7593 (17.54 MB)
+LEY N 7593
+DE PROTECCI N DE DATOS PERSONALES EN LA REP BLICA DEL PARAGUAY.
+EL CONGRESO DE LA NACI N PARAGUAYA SANCIONA CON FUERZA DE
+L E Y:
+TITULO I
+DISPOSICIONES GENERALES
+Cap tulo I
+Del objeto y mbito de aplicaci n.
+Art culo 1. Objeto de la ley.
+La presente ley tiene por objeto la protecci n integral de los datos personales de las personas f sicas a fin de garantizar el ejercicio pleno de sus derechos y el libre flujo de la informaci n, de conformidad con lo establecido en la Constituci n, los tratados internacionales, acuerdos y convenios de los cuales la Rep blica del Paraguay es parte.
+Art culo 2 . mbito de aplicaci n.
+• La presente ley se aplica a cualquier tratamiento de datos personales, total o parcialmente automatizado, as como al tratamiento no automatizado cuando se trate de datos personales que forman parte de un archivo, o est n destinados a serlo, realizado por personas f sicas o jur dicas, independientemente del medio, pa s de su sede o el pa s donde se encuentren los datos, en los siguientes casos:
+• Por un responsable o encargado establecido en la Rep blica del Paraguay, incluso si el tratamiento se realiza en otro pa s;
+• Por un responsable o encargado no establecido en territorio nacional, en los siguientes casos:
+• cuando realice tratamiento de datos de personas f sicas situadas en territorio paraguayo, salvo en casos de fines de tr nsito;
+• cuando las actividades del tratamiento de datos est n relacionadas con la oferta de bienes o servicios dirigidos a los residentes de la Rep blica del Paraguay;
+• cuando las actividades de tratamiento de datos est n relacionadas con el control del comportamiento de personas f sicas, en la medida en que ste tenga lugar en el territorio de la Rep blica del Paraguay.
+• La presente ley no ser de aplicaci n en los siguientes casos:
+• En el tratamiento de datos personales cuando est n destinados a actividades exclusivamente en el marco de la vida familiar o dom stica de una persona f sica, que no tengan como prop sito una divulgaci n o utilizaci n comercial;
+• En el tratamiento de datos que tenga por objeto la seguridad p blica, se refiera al mbito migratorio, a la defensa, la seguridad nacional y a las actividades en materia penal, de investigaci n y represi n del delito. En tales casos, deber respetar, en todo momento, los derechos y libertades fundamentales y aplicarse de manera necesaria y proporcionada al fin perseguido, observando los principios generales de protecci n de datos personales, as como las garant as m nimas establecidas en la presente ley, en la medida que resulten compatibles con la naturaleza del tratamiento.
+Art culo 3 . Definiciones.
+A los efectos de la presente ley, se consideran las siguientes definiciones:
+• Anonimizaci n: La aplicaci n de medidas de cualquier naturaleza dirigidas a impedir o dificultar la identificaci n o reidentificaci n de una persona f sica;
+• Bloqueo de datos: La identificaci n y reserva de datos personales, adoptando medidas t cnicas y organizativas, para impedir su tratamiento, incluyendo su visualizaci n, excepto para la puesta a disposici n de los datos a jueces y tribunales, fiscal a y dem s autoridades p blicas competentes, en la forma y condiciones establecidas en las normas vigentes;
+• Consentimiento: Toda manifestaci n de voluntad libre, expresa, espec fica, informada e inequ voca por la que una persona f sica acepta y autoriza, ya sea mediante una declaraci n o una clara acci n afirmativa por escrito o por medios electr nicos, o por cualquier forma equivalente que la tecnolog a permita, el tratamiento de los datos personales propios o de quien represente;
+• Datos biom tricos: Datos personales obtenidos a partir de un tratamiento t cnico espec fico, relativos a las caracter sticas f sicas y/o fisiol gicas de una persona, que permitan o confirmen la identificaci n nica de dicha persona, tales como im genes faciales, reconocimiento de iris o datos dactilosc picos;
+• Datos gen ticos: Datos personales relativos a las caracter sticas gen ticas heredadas que proporcionan una informaci n nica sobre la fisiolog a o la salud de una persona, obtenidos en particular del an lisis de una muestra biol gica de la misma;
+• Dato personal: Informaci n de cualquier tipo referida a personas f sicas determinadas o determinables. Se entender por determinable la persona que pueda ser identificada, directa o indirectamente, mediante alg n identificador o por uno o varios elementos caracter sticos de la identidad f sica, fisiol gica, gen tica, ps quica, econ mica, cultural o social de dicha persona;
+• Datos personales sensibles: Aquellos que se refieran a origen racial o tnico; creencias o convicciones religiosas, filos ficas y morales; afiliaci n sindical o pol tica; datos relativos a la salud, a la preferencia u orientaci n sexual, datos gen ticos o datos biom tricos dirigidos a identificar de manera un voca a una persona y todos aquellos datos cuya utilizaci n indebida pueda dar origen a discriminaci n o conlleve un riesgo grave para el titular;
+• Elaboraci n de perfiles: El resultado del tratamiento de datos personales realizado de forma automatizada y semi automatizada para evaluar determinados aspectos de una persona f sica, para analizar o predecir, cuestiones relativas al rendimiento profesional o laboral, situaci n econ mica, salud, preferencias personales, comportamientos, intereses y otras que podr n contemplarse en la Reglamentaci n;
+• Encargado del tratamiento: La persona f sica o jur dica, p blica o privada, que trate datos personales por cuenta y bajo las instrucciones del responsable del tratamiento;
+• Evaluaci n de impacto relativo a la protecci n de datos: An lisis de car cter previo de aquellos tratamientos de datos que puedan suponer un riesgo para los derechos y libertades de las personas;
+• Incidente de seguridad de datos personales: Es aquel que ocasiona la destrucci n, p rdida o alteraci n accidental o il cita de datos personales transmitidos, conservados o tratados de otra forma, o la comunicaci n o acceso no autorizados a dichos datos;
+• Responsable del tratamiento: La persona f sica o jur dica, p blica o privada u otro organismo que, solo o junto con otros, determine los fines y medios del tratamiento de los datos;
+• Tercero: Persona f sica o jur dica, nacional o extranjera, p blica o privada, distinta del titular de los datos, del responsable, del encargado y de las personas que, bajo la autoridad directa del responsable del tratamiento o del encargado del tratamiento, est n autorizadas a tratar datos personales;
+• Titular de datos: Persona f sica a quien se refieren o a quien corresponden los datos personales;
+• Transferencia internacional de datos: Transferencia de datos personales entre dos o m s personas, sean responsables del tratamiento o encargados del tratamiento, cuando al menos una de ellas tiene su sede en una jurisdicci n fuera de la Rep blica del Paraguay;
+• Tratamiento: Cualquier operaci n o conjunto de operaciones efectuadas mediante procedimientos manuales, automatizados o parcialmente automatizados, realizadas sobre datos personales, relacionadas de manera enunciativa m s no limitativa, con la obtenci n, acceso, recolecci n, registro, organizaci n, estructuraci n, adaptaci n, indexaci n, modificaci n, extracci n, consulta, almacenamiento, conservaci n, bloqueo, elaboraci n, transferencia, cesi n, difusi n, posesi n, aprovechamiento y en general cualquier uso o disposici n de datos personales.
+Art culo 4 . Principios generales de protecci n de datos personales.
+El tratamiento de los datos personales se rige por los siguientes principios:
+• Principio de exactitud de los datos: Los datos ser n exactos. Se presume la exactitud de los datos proporcionados por su titular. Los datos tratados deber n reflejar exactamente la informaci n proporcionada por su titular. Los responsables y encargados del tratamiento deben adoptar todas las medidas razonables para su actualizaci n y para que se supriman o rectifiquen sin dilaci n los inexactos;
+• Principio de licitud: Los datos personales deben ser tratados de manera l cita y leal, de conformidad con las disposiciones y principios establecidos en la ley. El responsable deber ser capaz de acreditar la licitud del tratamiento de los datos personales que realiza;
+• Principio de finalidad: Los datos personales deben ser recogidos y tratados con fines determinados, expl citos, leg timos y de duraci n limitada, y no ser n tratados, posteriormente, de manera incompatible o distinta a dichos fines.
+El tratamiento ulterior con fines de archivo e inter s p blico, fines de investigaci n cient fica e hist rica o fines estad sticos no se considerar incompatible con los fines iniciales, siempre que se adopten medidas para garantizar el respeto del principio de minimizaci n de los datos personales;
+• Principio de minimizaci n o proporcionalidad: Los datos personales que se traten deben limitarse estrictamente a aquellos que resulten necesarios, adecuados y pertinentes con relaci n a los fines del tratamiento y podr n ser conservados s lo por el per odo de tiempo que sea necesario para cumplir con los fines del tratamiento. La reglamentaci n determinar los casos en los que, por excepci n y atendiendo a valores hist ricos, estad sticos, cient ficos o de administraci n de justicia, se conserven datos personales aun cuando haya perimido tal necesidad o pertinencia;
+• Principio de limitaci n del plazo de conservaci n: No podr n conservarse o mantenerse los datos durante m s tiempo del necesario para los fines del tratamiento. La autoridad de control deber establecer los plazos para la supresi n y/o revisi n peri dica.
+El tratamiento ulterior de los datos personales con fines de archivo e inter s p blico, fines de investigaciones cient fica e hist rica o fines estad sticos no se considerar incompatible con los fines iniciales, siempre que se encuentren anonimizados o seudonimizados;
+• Principio de lealtad y transparencia: Los datos personales deber n tratarse de manera leal y transparente con relaci n al interesado.
+El responsable del tratamiento debe entregar al titular, en lenguaje claro y sencillo, toda la informaci n sobre la existencia y caracter sticas principales del tratamiento al que ser n sometidos sus datos, as como la necesaria para el ejercicio de los derechos que establece la presente ley. Esta informaci n deber estar permanentemente accesible, por medios de f cil acceso al titular de los datos;
+• Principio de conciliaci n de la transparencia p blica y protecci n: La obligaci n de publicidad de actos de Organismos y Entidades del Estado, deber tener en cuenta los principios de protecci n de los datos personales establecidos en la presente ley y, en particular, el principio de minimizaci n. Proceder la publicaci n y difusi n de datos personales cuya inclusi n sea necesaria y proporcional a la finalidad de transparencia perseguida por medio de la publicidad en el caso concreto. Los datos personales que excedan de dicha finalidad, o cuya publicaci n no fuere necesaria, deber n ser excluidos o tachados de los actos o documentos a ser publicados. Est prohibida la publicaci n de datos sensibles;
+• Principio de diligencia debida: El responsable de la base de datos o tratamiento y el encargado, en su caso, deber n adoptar las medidas apropiadas, entre ellas, la priivacidad desde el dise o, privacidad por defecto, evaluaci n del impacto a la protecci n de datos, designaci n de un oficial de protecci n de datos, entre otras, a fin de garantizar un tratamiento adecuado de los datos personales y demostrar su efectiva implementaci n;
+• Principio de seguridad: En el tratamiento de datos personales se deber n adoptar medidas t cnicas y organizativas que garanticen la seguridad de los datos y que tendr n como finalidad evitar la alteraci n, p rdida, destrucci n o da o accidental, tratamiento o acceso no autorizado o il cito. En el caso de datos definidos como sensibles, se podr n adoptar medidas adicionales para garantizar su seguridad, las cuales estar n determinadas en la reglamentaci n de la presente ley;
+• Principio de confidencialidad: Los responsables y encargados del tratamiento de datos de car cter personal, as como toda persona que intervenga en cualquier fase de este estar n sujetos al deber de confidencialidad, obligaci n que subsistir aun despu s de finalizar sus relaciones con el titular. Los mismos podr n ser relevados del deber de confidencialidad por resoluci n judicial u obligaci n legal.
+T TULO II
+DEL TRATAMIENTO DE LOS DATOS PERSONALES
+Cap tulo I
+De las bases legales para el tratamiento de datos personales.
+Art culo 5 . Condiciones.
+El tratamiento de datos personales s lo podr realizarse si se cumple al menos una de las siguientes condiciones:
+• Cuando el titular de los datos otorgue su consentimiento, para uno o varios fines espec ficos, conforme lo dispuesto en la presente ley;
+• Cuando el tratamiento sea necesario para el cumplimiento de una obligaci n legal por parte del responsable del tratamiento;
+• En el tratamiento y uso compartido de los datos necesarios y proporcionales, por parte de los Organismos y Entidades del Estado, para el ejercicio de sus funciones propias, la ejecuci n de las pol ticas p blicas, previstas en leyes y reglamentos sujeto a lo dispuesto en la presente ley;
+• Cuando el tratamiento de datos personales sea necesario para la ejecuci n de un contrato o tr mite preliminar relacionado con un contrato del que el titular sea parte, a solicitud de este;
+• Cuando sea necesario para el ejercicio regular de derechos en procedimientos judiciales, administrativos o arbitrales;
+• Cuando el tratamiento sea necesario para la satisfacci n de intereses leg timos perseguidos por el responsable del tratamiento o por un tercero, excepto cuando prevalezcan sobre dichos intereses, el inter s o los derechos y libertades fundamentales del titular de los datos los cuales requieran la protecci n de los datos personales, en particular cuando el titular de los datos sea un ni o, ni a y/o adolescente. Este numeral no resultar aplicable al tratamiento de datos personales realizados por parte del Estado dentro de las limitaciones previstas en la Constituci n y en la presente ley;
+• Para la protecci n de la vida, la seguridad f sica o ps quica y/o la protecci n de la salud del titular o de un tercero, exclusivamente en un procedimiento realizado por profesionales de la salud, servicios de salud o autoridad sanitaria dentro de los l mites de su competencia, o para la protecci n jur dica de una persona f sica dispuesta por autoridad competente en proceso judicial. La reglamentaci n determinar las medidas que correspondan seg n los tipos de datos, tratamientos y responsables, as como la oportunidad para su revisi n y actualizaci n.
+Art culo 6. Condiciones para el consentimiento.
+Si la base legal para el tratamiento de datos personales es el consentimiento, ste debe ser previo, libre, informado e inequ voco, para una o varias finalidades determinadas, ya sea mediante una declaraci n o una clara acci n afirmativa.
+Si el consentimiento del interesado se otorga en el contexto de una declaraci n escrita que tambi n se refiera a otros asuntos, la solicitud de consentimiento se prestar de tal forma que se distinga claramente de los dem s asuntos, de forma inteligible y de f cil acceso y utilizando un lenguaje claro y sencillo. No ser vinculante la declaraci n o parte de la misma que infrinja la presente ley.
+El titular tendr derecho a retirar o revocar su consentimiento en cualquier momento y deber ser informado de ello antes de otorgarlo. El responsable del tratamiento deber establecer mecanismos sencillos, giles, eficaces y gratuitos para el ejercicio de este derecho, que no podr n ser m s complejos que aquellos procesos establecidos para otorgar el consentimiento. El retiro o revocaci n del consentimiento no afectar la licitud del tratamiento realizado con base en el consentimiento previo a su retiro.
+En todos los casos, el responsable del tratamiento tiene la carga de demostrar que el titular de los datos consinti el uso de sus datos personales.
+Art culo 7. Consentimiento de ni os, ni as y adolescentes.
+En el tratamiento de datos personales de un ni o, ni a o adolescente, deber prevalecer la protecci n del inter s superior de stos, conforme a lo previsto en la Constituci n, la Convenci n sobre los Derechos del Ni o, los dem s instrumentos normativos internacionales ratificados por la Rep blica del Paraguay y la legislaci n aplicable.
+El tratamiento de los datos personales de personas menores de diecis is a os, sean estos datos sensibles o no, requerir el consentimiento previo, expreso e informado del titular de la patria potestad, guardaq o tutela legal.
+En el caso de adolescentes que cuenten con diecis is o m s a os y hasta su mayor a de edad, en el tratamiento de datos personales sensibles, se requerir el consentimiento expreso del adolescente, conjuntamente con la autorizaci n del titular de la patria potestad, guarda o tutela legal.
+En todos los casos, el consentimiento deber ser prestado en condiciones que garanticen la comprensi n de su alcance, utilizando medios y lenguajes claros y adecuados a la edad y desarrollo del ni o, ni a o adolescente. La informaci n a que se refiere este art culo debe ser brindada de forma simple, clara y accesible, considerando las caracter sticas f sicomotoras, perceptivas, sensoriales, intelectuales y mentales del titular de los datos o de quienes ejerzan la patria potestad, guarda o tutela legal, con el uso de recursos audiovisuales cuando corresponda.
+Art culo 8. Inter s leg timo.
+El inter s leg timo del responsable o el de un tercero, constituye una base legal para el tratamiento de datos personales, toda vez que el tratamiento sea necesario para la satisfacci n de tal inter s y siempre que no prevalezcan los derechos y libertades fundamentales del titular del dato.
+El tratamiento de datos personales fundado en el inter s leg timo exige que el mismo se cumpla en el marco de una relaci n pertinente y apropiada entre el titular de datos y el responsable, y siempre conforme a las expectativas razonables del titular.
+El responsable del tratamiento deber tratar los datos estrictamente necesarios y adoptar medidas para garantizar la transparencia de dicho tratamiento, informando al titular cu l es el inter s leg timo que persigue.
+La autoridad de control podr requerir al responsable del tratamiento un an lisis previo sobre la protecci n de datos personales, que justifique su inter s leg timo y la necesidad de recolectar o tratar los datos en cada caso, observando secretos comerciales e industriales.
+El titular gozar del derecho a oponerse en cualquier momento, por motivos relacionados con su situaci n particular, al tratamiento de sus datos personales objetando el inter s leg timo del responsable.
+Cap tulo II
+De las obligaciones del responsable y del encargado del tratamiento.
+Art culo 9. Responsable del tratamiento.
+Teniendo en cuenta la naturaleza, el mbito, el contexto y los fines del tratamiento, as como los riesgos de diversa probabilidad y gravedad para los derechos y libertades de los titulares de datos, el responsable del tratamiento aplicar medidas t cnicas y organizativas apropiadas a fin de garantizar y poder demostrar que el tratamiento se cumple en conformidad con la presente ley y su reglamentaci n. Dichas medidas se revisar n y actualizar n cuando sea necesario.
+La reglamentaci n determinar las medidas que correspondan seg n los tipos de datos, tratamientos y responsables, la oportunidad para su revisi n y actualizaci n, as como las medidas de protecci n desde el dise o y por defecto.
+Art culo 10. Corresponsables del tratamiento.
+Cuando dos o m s responsables determinen conjuntamente los objetivos y los medios del tratamiento , ser n considerados corresponsables del tratamiento. Los corresponsables determinar n inter partes de modo transparente y de mutuo acuerdo sus responsabilidades respectivas en el cumplimiento de las obligaciones impuestas por la presente ley. Dichos acuerdos, aunque podr n designar un punto de contacto com n para los titulares de los datos, no exonerar n a los corresponsables de su responsabilidad conjunta y solidaria frente al titular de los datos.
+Independientemente de los t rminos del acuerdo a que se refiere el par grafo precedente, los titulares de datos podr n ejercer sus derechos frente a cada uno de los responsables, conjunta o separadamente.
+Art culo 11. Encargado del tratamiento.
+Cuando se ejecute el tratamiento de datos por cuenta de un responsable de dicho tratamiento, el mismo podr cumplirse nicamente por quien ofrezca garant as suficientes para aplicar medidas t cnicas y organizativas apropiadas, de manera que el tratamiento sea conforme con los requisitos de la presente ley y en garant a de la protecci n de los derechos del titular del dato.
+El tratamiento en estos casos se regir por un contrato u otro acto jur dico que autorice tal delegaci n con arreglo al ordenamiento jur dico, el que deber establecer sin perjuicio de otros elementos, el objeto, la duraci n, la naturaleza y finalidad del tratamiento, el tipo de datos personales y categor as de titulares de datos y las obligaciones y derechos del responsable.
+El encargado del tratamiento tambi n podr delegar en otro encargado dicho tratamiento para lo cual deber estarse al cumplimiento a lo previsto en el par grafo anterior. La delegaci n efectuada en este sentido, no excluye la responsabilidad del encargado delegante frente al responsable del tratamiento de datos en lo que respecta al cumplimiento de las obligaciones del encargado delegado.
+Si un encargado del tratamiento determinase los fines y medios de dicho tratamiento, infringiendo la presente ley, ser considerado responsable con respecto a ese tratamiento frente a quien o quienes tengan derecho a dicho reclamo.
+Art culo 12. Representantes de responsables o encargados del tratamiento no establecidos en la Rep blica del Paraguay.
+La reglamentaci n de la presente ley establecer los casos y condiciones en los cuales ser obligatorio para los responsables o encargados del tratamiento la designaci n de un representante.
+El representante podr responder a la solicitud hecha por el titular del dato, o por la autoridad de control.
+Art culo 13. Mecanismos de autorregulaci n vinculantes.
+La autoridad de control promover la elaboraci n de mecanismos de autorregulaci n vinculantes, que tengan por objeto contribuir a la correcta aplicaci n de la presente ley.
+Los mecanismos de autorregulaci n vinculantes podr n consistir en c digos de conducta, de buenas pr cticas, normas corporativas vinculantes, sellos de confianza, certificaciones u otros mecanismos que coadyuven a contribuir a los objetivos se alados, pudiendo la reglamentaci n establecer los requisitos necesarios para su aprobaci n de parte de la autoridad de control.
+Los c digos de conducta pueden dotarse de mecanismos de resoluci n extrajudicial de conflictos, pero el empleo de estos ltimos no debe suponer costes adicionales al titular del dato ni obligarlo a desplazamientos desproporcionados fuera de la localizaci n de su domicilio.
+Art culo 14. Evaluaci n de impacto.
+Previamente a la implementaci n de operaciones de tratamiento de datos que, por su naturaleza, alcance, contexto o finalidades, puedan suponer riesgos significativos para los derechos de los titulares de tales datos, el responsable del tratamiento deber realizar una evaluaci n del impacto de dichas operaciones en la protecci n de datos personales.
+La evaluaci n de impacto relativa a la protecci n de los datos es obligatoria, en caso de:
+• Evaluaci n sistem tica y completa de aspectos personales de titulares de datos basada en tratamiento de datos automatizado, incluyendo la elaboraci n de perfiles, y sobre cuya base se adopten decisiones que produzcan efectos jur dicos para las personas f sicas o afectaci n significativa de modo similar;
+• Tratamiento a gran escala de datos sensibles, o de datos personales relativos a condenas e infracciones penales; o,
+• Tratamiento sistem tico a gran escala para la observaci n en sitios de acceso p blico.
+La autoridad de control establecer y publicar una lista de los tipos de operaciones de tratamiento que requieran una evaluaci n de impacto relativa a la protecci n de datos, de conformidad con el primer p rrafo del presente art culo. As tambi n, podr establecer y publicar la lista de los tipos de tratamiento que no requieren evaluaciones de impacto relativas a la protecci n de datos.
+El contenido de la evaluaci n de impacto ser establecido en la reglamentaci n de la presente ley.
+Art culo 15. Consulta previa.
+El responsable consultar a la autoridad de control antes de proceder al tratamiento cuando una evaluaci n de impacto demuestre que el tratamiento implicar a un riesgo si el responsable no toma medidas para mitigarlo.
+El responsable del tratamiento no podr iniciar el tratamiento de datos hasta tanto la autoridad de control se pronuncie sobre el informe.
+La autoridad de control deber , en un plazo de treinta d as h biles computados desde la consulta, asesorar por escrito al responsable o encargado, de conformidad con las funciones establecidas en la presente ley. Este plazo podr suspenderse extraordinariamente por causa justificada y solo hasta que la autoridad de control haya obtenido la informaci n solicitada a los fines de la consulta.
+Art culo 16. Medidas de seguridad.
+El responsable y el encargado del tratamiento de datos personales llevar n a cabo, de manera peri dica, una serie de acciones que garanticen el establecimiento, implementaci n, operaci n, monitoreo, revisi n, mantenimiento y mejora continua de las medidas de seguridad aplicables al tratamiento de los datos personales.
+La autoridad de control reglamentar las condiciones t cnicas de seguridad e integridad m nimas que deber n ser aplicadas por los responsables y encargados del tratamiento.
+Art culo 17. Notificaci n de un incidente de seguridad del tratamiento de los datos personales a la Autoridad de Control y al Titular del Dato.
+En caso de acaecimiento de un incidente de seguridad de los datos personales, el responsable del tratamiento notificar a la Autoridad de Control y, en su caso, al Titular del Dato, en un plazo que no podr exceder de setenta y dos horas contadas a partir de haber tenido conocimiento del incidente. Las condiciones y requerimientos, ser n establecidos en la reglamentaci n de la presente ley.
+Art culo 18. Oficial de protecci n de datos.
+El oficial de protecci n de datos es la persona designada para colaborar y supervisar el cumplimiento de las normas relativas a la protecci n de datos personales.
+Los responsables y encargados del tratamiento deber n designar un oficial de protecci n de datos en los casos a ser establecidos en la reglamentaci n de la presente ley.
+El oficial de protecci n de datos ser designado atendiendo a sus cualidades profesionales y a su capacidad para desempe ar las funciones a ser establecidas en la reglamentaci n de la presente ley.
+Un grupo empresarial podr nombrar un nico oficial de protecci n de datos siempre que cumpla con los par metros previstos en esta norma y sea f cilmente accesible desde cada establecimiento. Cuando el responsable o el encargado del tratamiento sea una autoridad u organismo p blico, se podr designar un nico oficial de protecci n de datos para varias de estas autoridades u organismos, teniendo en cuenta su estructura organizativa y tama o.
+El oficial de protecci n de datos podr formar parte del personal del responsable o del encargado del tratamiento o desempe ar sus funciones en el marco de un contrato de prestaci n de servicios.
+La reglamentaci n establecer otros aspectos relativos al oficial de protecci n de datos.
+Cap tulo III
+De la transferencia internacional de datos.
+Art culo 19. Reglas generales para las transferencias internacionales de datos personales.
+Las transferencias de datos personales fuera del territorio nacional, incluidas las transferencias ulteriores, solo podr n realizarse si el pa s, territorio, sector u organizaci n internacional de destino ofrece un nivel de protecci n adecuado, conforme a lo dispuesto en la presente ley.
+La evaluaci n de la adecuaci n ser realizada por la Agencia Nacional de Datos Personales, que determinar mediante resoluci n fundada o a trav s de la publicaci n de una lista oficial tal adecuaci n, de conformidad con los principios, derechos y garant as establecidos en la presente ley.
+En caso que el pa s destinatario no cuente con un nivel de protecci n adecuado, el responsable o encargado deber adoptar garant as apropiadas para asegurar que el tratamiento de los datos personales se efect e conforme a lo dispuesto en la presente ley. Dichas garant as podr n consistir, entre otras, en cl usulas contractuales especificas o est ndares, normas corporativas vinculantes, c digos de conducta o mecanismos de certificaci n, siempre de acuerdo con lo que se establezca en la reglamentaci n de la presente ley.
+No se aplica lo dispuesto en el p rrafo anterior, en los siguientes casos:
+• Acuerdos en el marco de tratados internacionales en los cuales la Rep blica del Paraguay sea parte;
+• Cooperaci n judicial internacional;
+• Cooperaci n internacional entre organismos de inteligencia para la lucha contra el terrorismo, tr fico il cito de drogas, lavado de activos, corrupci n, trata de personas y otras formas de criminalidad;
+• Cuando los datos personales sean necesarios para la ejecuci n de una relaci n contractual en la que el titular de datos personales sea parte, incluyendo lo necesario para actividades como la autentificaci n de usuario, mejora y soporte del servicio, monitoreo de la calidad del servicio, soporte para el mantenimiento y facturaci n de la cuenta y aquellas actividades que el manejo de la relaci n contractual requiera;
+• Cuando se trate de transferencias bancarias o burs tiles, en lo relativo a las transacciones respectivas y conforme a la ley aplicable;
+• Cuando el flujo transfronterizo de datos personales se realice para la protecci n, prevenci n, diagn stico o tratamiento m dico o quir rgico de su titular; o cuando sea necesario para la realizaci n de estudios epidemiol gicos o an logos, en tanto se apliquen procedimientos de anonimizaci n adecuados;
+• Cuando el titular de los datos personales haya dado su consentimiento previo, informado, expreso e inequ voco;
+• Cuando el responsable del tratamiento ofrezca y acredite garant as de cumplimiento de los principios, los derechos del interesado y el r gimen de protecci n de datos previsto en la presente ley, en forma de:
+• Cl usulas contractuales espec ficas para una determinada transferencia;
+• Cl usulas contractuales est ndares;
+• Normas corporativas globales;
+• Sellos, certificados y c digos de conducta emitidos peri dicamente.
+Cap tulo IV
+Del tratamiento de ciertas categor as de datos personales.
+Art culo 20. Tratamiento de datos sensibles.
+Queda prohibido el tratamiento de datos personales sensibles salvo que:
+• El titular haya prestado su consentimiento para el tratamiento de dichos datos personales, excepto cuando se establezca que la prohibici n mencionada no pueda ser suplida por el consentimiento del titular del dato; dicho consentimiento no tendr efecto si no es libre, informado o inequ voco o el otorgamiento del consentimiento haya sido impuesto directa o indirectamente al titular del dato;
+• El tratamiento se refiera a datos personales que el interesado haya hecho manifiestamente p blicos;
+• El tratamiento sea necesario para el cumplimiento de obligaciones y el ejercicio de derechos espec ficos del responsable del tratamiento o del titular en el mbito del derecho laboral y de la seguridad social, en la medida que as lo autorice el ordenamiento jur dico y siempre que se establezcan garant as adecuadas que aseguren el respeto a los derechos fundamentales de los titulares de los datos;
+• El tratamiento sea necesario para proteger intereses vitales del titular, en el supuesto que el titular no est capacitado, f sica o jur dicamente, para prestar su consentimiento, y sus representantes legales no lo puedan realizar en tiempo oportuno;
+• El tratamiento sea efectuado, en el mbito de sus actividades leg timas y con las debidas garant as, por una fundaci n, una asociaci n o cualquier otro organismo sin nimo de lucro, cuya finalidad sea pol tica, filos fica, religiosa o sindical, siempre que el tratamiento se refiera exclusivamente a los miembros actuales de tales organismos o a personas que mantengan contactos regulares con ellos en relaci n con sus fines y siempre que los datos personales no se comuniquen fuera de ellos sin el consentimiento de los titulares;
+• El tratamiento sea necesario para la formulaci n, el ejercicio o la defensa de reclamaciones o cuando las autoridades jurisdiccionales competentes act en en ejercicio de su funci n judicial;
+• El tratamiento sea necesario por razones de inter s p blico en el mbito de la salud p blica por la autoridad sanitaria competente, como la protecci n frente a amenazas transfronterizas graves para la salud, o para garantizar elevados niveles de calidad y de seguridad de la asistencia sanitaria o provisi n alimentaria y de los medicamentos o productos sanitarios o alimentarios, debiendo establecerse medidas adecuadas y espec ficas para proteger los derechos y libertades del interesado, en particular el secreto profesional;
+• El tratamiento sea necesario para fines de medicina preventiva o laboral, evaluaci n de la capacidad laboral del trabajador, diagn stico m dico, prestaci n de asistencia o tratamiento de tipo sanitario o social, o gesti n de los sistemas de servicio de asistencia sanitaria y social, en observancia de la normativa especial o en virtud de un contrato con un profesional sanitario. Los datos personales comprendidos en el presente numeral podr n tratarse toda vez que su tratamiento sea realizado por un profesional sujeto a la obligaci n de secreto profesional o confidencialidad, o bajo su responsabilidad, o por cualquier otra persona sujeta a la obligaci n de secreto de acuerdo con el ordenamiento jur dico;
+• El tratamiento se realice en el marco de asistencia humanitaria en casos de desastres naturales;
+• El tratamiento sea necesario con fines de archivo en inter s p blico, fines de investigaci n cient fica o hist rica o con fines estad sticos, que debe ser proporcional al objetivo perseguido, respetar en lo esencial el derecho a la protecci n de datos у establecer medidas adecuadas y espec ficas para proteger los intereses y derechos fundamentales del titular. Los datos deber n estar eficazmente anonimizados;
+• El tratamiento y uso compartido de los datos necesarios y proporcionales, por parte de los poderes del Estado, para el ejercicio de sus funciones misionales propias, la ejecuci n de las pol ticas p blicas previstas en leyes y normas reglamentarias.
+Art culo 21. Tratamiento de datos de informaci n crediticia
+La protecci n de datos crediticios, la regulaci n de la actividad de recolecci n y el acceso a datos de informaci n crediticia, as como la constituci n, organizaci n, funcionamiento, derechos, obligaciones y extinci n de las personas jur dicas que se dediquen a la obtenci n y provisi n de informaci n crediticia se regir n por la ley espec fica vigente al respecto.
+Salvo las funciones y atribuciones expresamente asignadas al Banco Central del Paraguay, las dem s otorgadas para la implementaci n de la ley que regula los datos crediticios, ser n ejercidas por la autoridad de control y supervisi n de la presente ley.
+La presente ley ser de aplicaci n supletoria para las cuestiones no previstas en la ley que regula los datos crediticios, siempre que las mismas sean compatibles con la naturaleza de dicha informaci n.
+Art culo 22. Tratamientos con fines de videovigilancia.
+Las personas f sicas o jur dicas, p blicas o privadas, podr n llevar a cabo el tratamiento de im genes y sonidos a trav s de sistemas de c maras o videoc maras con la finalidad de preservar la seguridad de las personas y bienes, as como la de sus instalaciones.
+Solo podr n captarse im genes y sonidos de la v a p blica en la medida en que resulte imprescindible para la finalidad mencionada en el apartado anterior.
+No obstante, ser posible la captaci n de im genes y sonidos de la v a p blica en una extensi n superior cuando fuese necesario para garantizar la seguridad de bienes o instalaciones estrat gicas o de infraestructuras vinculadas al transporte, sin que en ning n caso pueda suponer o implicar la captaci n de im genes y sonidos del interior de un domicilio privado.
+Los datos que hubieran de ser conservados para acreditar la comisi n de actos que atenten contra la integridad de las personas, bienes o instalaciones deber n ser puestos a disposici n de la autoridad competente para tomar acciones en la investigaci n y persecuci n de il citos penales y/o administrativos en un plazo m ximo de setenta y dos horas desde que se tuviera conocimiento de la existencia de la grabaci n, sin perjuicio de las facultades de investigaci n de las autoridades competentes en el marco de una investigaci n abierta.
+Se considera excluido del mbito de aplicaci n del presente art culo el tratamiento por una persona f sica de im genes y sonido que solamente capten el interior de su propio domicilio.
+Esta exclusi n no alcanza al tratamiento realizado por una entidad de seguridad privada que hubiera sido contratada para la vigilancia de un domicilio y tuviese acceso a tales grabaciones.
+Art culo 23. Tratamiento de datos de naturaleza penal, sanciones e infracciones administrativas.
+El tratamiento de datos personales relativos a hechos punibles, as como a procedimientos y medidas cautelares y de seguridad conexas, se regir n por la ley respectiva.
+El tratamiento de datos relativos a infracciones y sanciones administrativas, se regir por su ley respectiva.
+Se dispondr n de medidas t cnicas y organizativas, para garantizar el respeto del principio de minimizaci n y dem s principios y disposiciones de protecci n de datos personales.
+Cap tulo V
+Del tratamiento de datos en el sector p blico.
+Art culo 24. Del Acceso a la Informaci n P blica y Protecci n de Datos.
+El derecho de acceso a la informaci n obrante en fuentes p blicas podr ser denegado o limitado, cuando tal medida resultase necesaria para evitar un perjuicio concreto a la protecci n de uno de los intereses privados inherentes a la protecci n de los datos personales, de conformidad con las reglas y principios establecidos en la presente ley y de acuerdo con el tr mite previsto en el presente art culo.
+La excepci n de acceso a la informaci n p blica proceder nicamente cuando el da o causado al inter s protegido sea mayor al inter s p blico de obtener el acceso a la informaci n.
+La excepci n establecida no deber aplicarse cuando:
+• La persona haya consentido expresamente la divulgaci n de sus datos personales;
+• Las circunstancias del caso muestren con claridad que la informaci n fue entregada al sujeto obligado como parte de aquella informaci n que deba estar sujeta al r gimen de publicidad;
+• La Informaci n se encuentre en fuentes de acceso p blico, sin perjuicio de lo dispuesto por las leyes especiales;
+• La informaci n tenga el car cter de p blica de acuerdo con la legislaci n vigente al tiempo del acceso;
+• Exista una orden judicial emanada de rgano competente que requiera o autorice su publicaci n;
+• Por razones de seguridad nacional y salubridad general, se requiera la publicaci n;
+• Se transmita entre entidades de derecho p blico y entre stos y los sujetos de derecho internacional, en t rminos de los tratados y acuerdos interinstitucionales, siempre y cuando la informaci n se provea con la nica finalidad de ser utilizada para el ejercicio de facultades propias de los mismos.
+Si el Organismo o Entidad del Estado al que se dirige la solicitud de acceso a la informaci n advierte que la misma podr a interferir con el derecho a la protecci n de datos personales, deber notificar al titular de los datos concernidos, en un plazo no mayor a tres d as h biles de recibida la solicitud.
+El titular de los datos contar con un plazo de cinco d as h biles para formular oposici n motivada a la solicitud de acceso a los datos personales que le concernieren. En caso que el titular de los datos formule oposici n fundada en el derecho a la protecci n de sus datos personales, dentro del plazo de ley, el Organismo o Entidad del Estado receptora de la solicitud de acceso deber solicitar un dictamen no vinculante de parte de la autoridad de control, sobre la compatibilidad de la solicitud de acceso a la informaci n con un nivel adecuado de protecci n de datos personales. La autoridad de control deber expedirse dentro de un plazo de cinco d as h biles.
+En caso de mediar oposici n, los Organismos y Entidades del Estado contar n con un plazo de cinco d as h biles para resolver la solicitud de acceso a la informaci n, a contar desde la recepci n del dictamen de parte de la autoridad de control o desde el vencimiento del plazo legal que ten a para presentarlo.
+Si la solicitud de acceso es estimada procedente a pesar de la oposici n del titular del dato, el Organismo o Entidad del Estado proceder a notificar al titular del dato y al solicitante, los datos o documentos solicitados, dentro del plazo de tres d as h biles. En los casos de denegaci n total o parcial del acceso o de falta de respuesta en el plazo indicado anteriormente, el solicitante tendr expedita la acci n judicial, en los t rminos del T tulo V de la Ley N 5282/2014 DE LIBRE ACCESO CIUDADANO A LA INFORMACI N P BLICA Y TRANSPARENCIA GUBERNAMENTAL .
+Art culo 25. Intercambio de datos personales entre instituciones p blicas.
+Ser l cita la comunicaci n de datos personales entre instituciones p blicas, en la medida en que:
+• La instituci n p blica responsable de la base de datos haya obtenido los datos en ejercicio de sus funciones y competencias legalmente atribuidas;
+• El tratamiento por parte de la instituci n p blica que recibe la base de datos sea necesario para el cumplimiento de sus funciones legales y la finalidad de dicho tratamiento de datos se encuentre dentro del marco de sus competencias;
+• Los datos involucrados sean adecuados, proporcionales y no excedan el l mite de lo necesario con relaci n a esta ltima finalidad;
+• El titular de los datos sensibles haya dado su consentimiento o se apliquen las excepciones establecidas en el art culo 20 de la presente ley.
+T TULO III
+DE LOS DERECHOS VINCULADOS A LOS DATOS PERSONALES
+Cap tulo nico
+De los derechos de los titulares de datos.
+Art culo 26. Disposiciones generales sobre el ejercicio de los derechos.
+Sin perjuicio de los dem s derechos derivados de las disposiciones de la presente ley, el titular de datos o su representante podr n, en cualquier momento, solicitar al responsable o encargado del tratamiento, el acceso, rectificaci n, supresi n, oposici n y portabilidad de los datos personales que le conciernen.
+El ejercicio de cualquiera de los derechos mencionados no es requisito previo ni impide el ejercicio de otro.
+El responsable deber establecer medios y procedimientos sencillos, expeditos, accesibles y gratuitos que permitan al titular de datos ejercer sus derechos. La solicitud del titular de datos deber ser evacuada por el encargado o responsable del tratamiento en un plazo m ximo de treinta d as corridos computados desde la presentaci n de la solicitud, sin perjuicio de que la reglamentaci n de la presente ley disponga un plazo inferior.
+Vencido el plazo sin que se satisfaga el pedido o si, a criterio del titular de los datos, la respuesta fuera insuficiente, podr ste recurrir ante la autoridad de control o, si correspondiere, podr interponer la acci n de habeas data.
+En caso de optar por la acci n de habeas data, o de haberla ejercido con anterioridad, no podr iniciar el tr mite ante la autoridad de control. El ejercicio de los derechos previstos en el presente Cap tulo es irrenunciable.
+Art culo 27. Derecho a la informaci n.
+El titular de datos tiene derecho a recibir la informaci n suficiente y f cilmente accesible, en lenguaje claro, sencillo y de f cil comprensi n, en particular si va dirigida a ni os, ni as o adolescentes o personas con discapacidad, sobre c mo se lleva a cabo el tratamiento de sus datos personales, los haya proporcionado directamente o no.
+El responsable proporcionar al titular, al momento de la obtenci n de los datos, al menos la siguiente informaci n:
+• Las categor as de datos personales que ser n objeto del tratamiento;
+• La identidad y datos de contacto que cuanto menos ser n el domicilio legal, n mero de tel fono y correo electr nico o canal equivalente;
+• Base legal y finalidades del tratamiento a que ser n sometidos sus datos personales;
+• Las comunicaciones o transferencias internacionales de datos personales que pretenda realizar el responsable, incluyendo los destinatarios o categor as de destinatarios y las finalidades que motivan la realizaci n de estas;
+• La existencia, forma y mecanismos o procedimientos a trav s de los cuales podr ejercer los derechos de acceso, rectificaci n, oposici n, supresi n y portabilidad;
+• Tiempo de conservaci n de los datos personales, o en su defecto, el criterio utilizado para determinar el per odo de tiempo;
+• La existencia de decisiones automatizadas, incluida la elaboraci n de perfiles y, al menos en tales casos, informaci n significativa sobre la l gica aplicada, sin que ello afecte derechos intelectuales del responsable del tratamiento;
+• En su caso, el origen de los datos personales cuando el responsable no los hubiere obtenido directamente del titular;
+• El derecho a recurrir ante la autoridad de control.
+La informaci n facilitada, as como la comunicaci n y cualquier actuaci n realizada debe ser a t tulo gratuito. Cuando las solicitudes sean manifiestamente infundadas o excesivas, especialmente debido a su car cter repetitivo, el responsable del tratamiento podr : a) cobrar un canon razonable en funci n de los costos administrativos afrontados para facilitar la informaci n o la comunicaci n o para realizar la actuaci n solicitada, o b) negarse a actuar respecto de la solicitud.
+El responsable del tratamiento soportar la carga de demostrar el car cter manifiestamente infundado o excesivo de la solicitud.
+El responsable del tratamiento deber guardar registro detallado de los pedidos denegados y los motivos de dicha denegaci n.
+Art culo 28. Derecho de acceso.
+El titular de datos tendr derecho a solicitar y obtener acceso a sus datos personales que obren en posesi n del responsable o encargado del tratamiento y/o una copia de los mismos, previa acreditaci n de su identidad. La informaci n deber ser suministrada en forma clara, inteligible, exenta de codificaciones y, de ser necesario, acompa ada de una explicaci n de los t rminos que se utilicen, en lenguaje comprensible para el titular de los datos.
+En ning n caso el informe puede revelar datos pertenecientes a terceros, aun cuando se vinculen con el titular de los datos, excepto que hayan sido provistos por el titular interesado.
+Art culo 29. Derecho de rectificaci n.
+El titular de datos tendr el derecho a obtener del responsable la rectificaci n de sus datos personales, cuando stos resulten falsos, err neos, incompletos o no se encuentren actualizados.
+En el supuesto de cesi n o transferencia internacional de datos err neos o desactualizados, el responsable del tratamiento debe notificar la rectificaci n al cesionario dentro del quinto d a h bil de haber tomado conocimiento efectivo de la falsedad, error, inexactitud o desactualizaci n.
+Durante el proceso de verificaci n y rectificaci n del error, inexactitud, falsedad o desactualizaci n de la informaci n que se trate, el responsable del tratamiento debe bloquear el dato, o bien consignar, al proveer informaci n relativa a ste, la circunstancia de que se encuentra sometido a revisi n por tales circunstancias.
+Art culo 30. Derecho de oposici n.
+El titular del dato tendr derecho a oponerse, en cualquier momento, por motivos relacionados con su situaci n particular, al tratamiento de los datos personales que le conciernen, incluida la elaboraci n de perfiles basados en dichas disposiciones.
+Cuando el titular de datos se oponga al tratamiento de sus datos personales, estos dejar n de ser tratados en un plazo de diez d as h biles desde el env o de la solicitud de oposici n, salvo que el responsable del tratamiento demuestre motivos leg timos imperiosos para el tratamiento que prevalezcan sobre los intereses, los derechos y las libertades del interesado o el tratamiento sea necesario para el reconocimiento, el ejercicio o la defensa de un derecho en un procedimiento judicial.
+Cuando el titular de datos se oponga al tratamiento con fines de mercadotecnia directa, incluida la elaboraci n de perfiles en la medida en que est relacionada con la citada mercadotecnia, sus datos personales dejar n de ser tratados para dichos fines en un plazo de quince d as h biles desde el env o de la solicitud de oposici n.
+Art culo 31. Derecho de supresi n.
+El titular de datos tendr derecho a obtener del responsable del tratamiento la eliminaci n de sus datos personales sin demora injustificada, a fin de que los mismos dejen de ser tratados por este ltimo, en los siguientes casos:
+• Cuando los datos personales hayan sido tratados il citamente;
+• Cuando los datos personales ya no son necesarios en relaci n con la finalidad para la cual fueron recogidos o tratados;
+• Cuando haya vencido el plazo de conservaci n de los datos personales;
+• Cuando el titular de datos haya revocado el consentimiento en el que se basa el tratamiento y no exista otra base legal para el tratamiento;
+• Cuando el titular de los datos haya ejercido su derecho de oposici n conforme con lo establecido en la presente ley, y no prevalezcan otros motivos leg timos para el tratamiento de sus datos;
+• Los datos personales que deban suprimirse para el cumplimiento de una obligaci n legal.
+La supresi n no proceder cuando pudiese causar perjuicios al derecho a la informaci n y a la libertad de expresi n o intereses leg timos de terceros debidamente comprobados; cuando prevalezcan razones de inter s p blico para el tratamiento de datos cuestionado debidamente acreditados, o los datos personales deban ser conservados durante los plazos previstos en las disposiciones legales imperativas aplicables.
+Art culo 32. Derecho a la portabilidad.
+Cuando se haga el tratamiento de datos personales por v a electr nica o medios automatizados, el titular de datos podr solicitar que sus datos personales se transfieran directamente de responsable a responsable conforme a la reglamentaci n t cnica.
+Este derecho no proceder cuando:
+• Su ejercicio imponga una carga financiera o t cnica excesiva o irrazonable debidamente demostrada sobre el responsable o encargado del tratamiento;
+• Vulnere la privacidad de otro titular de datos;
+• Vulnere obligaciones legales que pudieran estar impuestas al responsable o encargado del tratamiento;
+• Se trate de datos que ya hayan sido anonimizados por el responsable del tratamiento.
+Art culo 33. Derechos ante decisiones individuales automatizadas o semiautomatizadas.
+El titular de datos tiene derecho a solicitar la revisi n de las decisiones tomadas sobre la base del tratamiento automatizado de datos personales, que afecten negativamente a sus intereses o produzcan efectos jur dicos, incluidas las decisiones encaminadas a definir sus aspectos personales, profesionales, de consumo, de cr dito, de su personalidad. Asimismo, derecho a expresar su punto de vista y a impugnar la decisi n.
+El responsable del tratamiento debe proporcionar, siempre que se le solicite, informaci n clara, completa y adecuada sobre los criterios y procedimientos utilizados para la decisi n automatizada, con observancia del respeto por secretos comerciales e industriales del titular o que el titular se vea obligado por ley o por contrato a guardar.
+Debe adoptar las medidas adecuadas para salvaguardar los derechos del titular de los datos. Este derecho no suprime ni sustituye el ejercicio de otros derechos que puedan tener lugar.
+T TULO IV
+DE LA AUTORIDAD DE CONTROL Y SUPERVISI N Y DE SUS FACULTADES
+Cap tulo I
+De la Autoridad de control y supervisi n.
+Art culo 34. Autoridad de control y supervisi n. Naturaleza jur dica.
+Cr ase la Agencia Nacional de Protecci n de Datos Personales, como una unidad desconcentrada dentro de la estructura org nica del Ministerio de Tecnolog as de la Informaci n y Comunicaci n, con rango de Direcci n Nacional, que se constituye como autoridad de control y supervisi n de la presente ley.
+La Agencia Nacional de Protecci n de Datos Personales gozar de autonom a funcional e independencia, y contar con facultades suficientes de decisi n, acci n, reglamentaci n, supervisi n,control, sanci n y todas las dem s funciones necesarias para el cumplimiento de la presente ley, actuando de conformidad con los principios en ella establecidos.
+La Agencia Nacional de Protecci n de Datos Personales, tendr amplias facultades para organizarse administrativamente. Deber contar con los recursos humanos y materiales necesarios para el cumplimiento de sus funciones.
+La estructura org nica y administrativa de la Agencia Nacional de Protecci n de Datos Personales, ser establecida en el decreto reglamentario de la presente ley y comprender , al menos, al Director General como m xima autoridad y a un adjunto.
+La Agencia Nacional de Protecci n de Datos Personales, contar con amplias facultades para dictar los reglamentos internos que sean necesarios para complementar las disposiciones normativas expresamente mencionadas en la presente ley.
+Art culo 35. Funciones y Atribuciones de la Agencia Nacional de Protecci n de Datos Personales.
+La Agencia Nacional de Protecci n de Datos Personales se constituye en autoridad de control de la presente ley y cuenta con suficientes facultades y atribuciones de acci n, decisi n, resoluci n, reglamentaci n, promoci n, investigaci n, supervisi n, fiscalizaci n, control, sanci n y otros que resulten necesarios para garantizar su efectivo cumplimiento, as como el ejercicio y respeto efectivo del derecho a la protecci n de datos personales. La Agencia Nacional de Protecci n de Datos Personales tendr las siguientes funciones y atribuciones:
+• Ejercer la supervisi n, control y evaluaci n de las actividades efectuadas por el responsable y encargado del tratamiento de datos personales;
+• Asistir y asesorar a las personas que lo requieran acerca de los alcances de la presente ley y de los medios legales de que disponen para la defensa de sus derechos;
+• Dictar las normas, reglamentaciones, lineamientos y criterios orientadores que se deben observar en el desarrollo de las actividades comprendidas en la presente ley;
+• Tramitar los reclamos y/o denuncias formuladas, ejecutar actuaciones previas y, si se considera pertinente, instruir sumario administrativo por presunto incumplimiento de la presente ley y sus disposiciones reglamentarias;
+• Realizar auditor as t cnicas al tratamiento de datos personales, de conformidad con la presente ley y la reglamentaci n;
+• Solicitar informaci n que corresponda a su rea de competencia a las instituciones p blicas y privadas, las que deber n dar respuesta en el plazo que para el efecto se establezca;
+• Imponer las sanciones administrativas, previo sumario, por violaci n a las disposiciones de la presente ley y de sus reglamentaciones;
+• Homologar los mecanismos de autorregulaci n vinculantes o c digos de conductas y supervisar su cumplimiento;
+• Dictar las cl usulas est ndar de protecci n de datos;
+• Elaborar y mantener una lista relativa al requisito de la evaluaci n de impacto relativa a la protecci n de datos;
+• Crear mecanismos de certificaci n en materia de protecci n de datos, a fin de aportar las garant as establecidas;
+• Evaluar el car cter adecuado del pa s u organismo receptor en la transferencia internacional de datos;
+• Solicitar informaci n a los oficiales de protecci n de datos, en los t rminos previstos en la presente ley y sus disposiciones reglamentarias;
+• Promover acciones de cooperaci n con autoridades de protecci n de datos personales de otros pa ses, pudiendo suscribir acuerdos internacionales administrativos y no normativos en la materia;
+• Emitir dictamen t cnico no vinculante cuando en sede administrativa o judicial deba ponderarse el derecho de acceso a la informaci n p blica y el derecho a la protecci n de datos personales, cuando existan dudas sobre su aplicaci n;
+• Preparar informes anuales de gesti n sobre sus actividades;
+• Colaborar con los Organismos y Entidades del Estado en materias vinculadas a su competencia;
+• Ejercer las funciones y atribuciones requeridas para la debida implementaci n de las disposiciones vigentes previstas en de la Ley N 6534/2020 DE PROTECCI N DE DATOS PERSONALES CREDITICIOS , o de aquellas que la sustituya, con excepci n de las expresamente asignadas al Banco Central del Paraguay y que correspondan al mbito de su competencia.
+• Las dem s funciones que le asigne la presente ley o su decreto reglamentario, as como aquellas que resulten necesarias para garantizar la efectiva implementaci n у su cumplimiento.
+Art culo 36. De los recursos financieros de la Agencia Nacional de Protecci n de Datos Personales.
+Los recursos financieros de la Agencia Nacional de Protecci n de Datos Personales, estar n constituidos por:
+• Los recursos que anualmente le sean destinados en el Presupuesto General de la Naci n, que ser n incorporados al presupuesto del Ministerio de Tecnolog as de la Informaci n y Comunicaci n, debiendo ser plenamente individualizables en el mismo;
+• Los ingresos provenientes de las multas aplicadas en ejercicio de sus potestades sancionadoras establecidas en la presente ley; y,
+• Los fondos provenientes de convenios y/o acuerdos, cr ditos otorgados, pr stamos, financiamientos, aportes, donaciones, legados, o de cualquier otro concepto, de origen nacional o internacional, siempre que no implique conflicto de intereses.
+Los ingresos enumerados en el numeral 2, ser n depositados en una cuenta especial del Ministerio de Tecnolog as de la Informaci n y Comunicaci n destinada en exclusividad a los recursos de la Agencia Nacional de Protecci n de Datos Personales.
+En ning n caso, se dispondr de los mencionados recursos para otro objeto distinto al establecido en la presente ley y sus reglamentaciones.
+Cap tulo II
+De la Direcci n de la Agencia Nacional de Protecci n de Datos Personales.
+Art culo 37. Designaci n del Director General de la Agencia Nacional de Protecci n de Datos Personales.
+La Agencia Nacional de Protecci n de Datos Personales estar a cargo de un Director General. La Direcci n Nacional estar auxiliada por un director adjunto en el que podr delegar funciones en la forma y condiciones establecidas en la presente ley y su reglamentaci n.
+El Director General y el Adjunto ser n nombrados por decreto del Poder Ejecutivo, a partir de una terna propuesta por el Ministerio de Tecnolog as de la Informaci n y Comunicaci n, previo concurso p blico.
+La Agencia ejercer sus funciones con exclusividad, independencia y objetividad, limit ndose el poder jer rquico de la m xima autoridad del Ministerio de Tecnolog as de la Informaci n y Comunicaci n aquellos asuntos que no guarden relaci n con las funciones de competencia exclusiva de la Agencia Nacional de Protecci n de Datos Personales, excepto en casos de sumario administrativo.
+Art culo 38. De las facultades y deberes del Director General de la Agencia Nacional de Protecci n de Datos Personales.
+Son facultades y deberes del Director General de la Agencia Nacional de Protecci n de Datos Personales:
+• Cumplir y velar por el cumplimiento de la presente ley y de sus disposiciones reglamentarias;
+• Ejercer la potestad reglamentaria en los t rminos previstos en esta ley;
+• Dirigir y organizar la estructura y funciones de la Agencia, dictando reglamentos y manuales internos que resulten necesarios para el efecto;
+• Ejercer la representaci n de la Agencia Nacional de Protecci n de Datos Personales, pudiendo suscribir documentos y otorgar poderes generales y especiales para actuaciones judiciales y administrativas en nombre de la misma;
+• Nombrar, remover o trasladar al personal de la Agencia y fijar horarios de oficina y turnos de trabajo, de conformidad con lo dispuesto en la normativa respectiva;
+• Celebrar contratos, convenios, con instituciones y organismos nacionales, binacionales, internacionales, p blicos o privados, en coordinaci n con el Ministerio de Relaciones Exteriores cuando corresponda, para el cumplimiento de los objetivos y fines de la Agencia y de la presente ley;
+• Ordenar inspecciones y/o fiscalizaciones t cnicas o administrativas y/o auditor as a los sujetos sometidos a la presente ley;
+• Disponer la instrucci n de sumario administrativo y la aplicaci n de sanciones cuando, como consecuencia de los mismos, resultaren pertinentes;
+• Comparecer de forma anual ante la Comisi n de Ciencias, Tecnolog a, Innovaci n y Futuro de la Honorable C mara de Senadores y ante la Comisi n de Ciencia y Tecnolog a de la Honorable C mara de Diputados, a fin de rendir cuentas de su gesti n y exponer sobre sus planes y prioridades para el futuro;
+• Desempe ar cualquier otra funci n relacionada con la protecci n de los datos personales en el marco de lo dispuesto en la presente ley.
+Art culo 39. Requisitos para el cargo de Director General de la Agencia Nacional de Protecci n de Datos Personales.
+Son requisitos para ocupar el cargo de Director General y de Adjunto de la Agencia Nacional de Protecci n de Datos Personales los siguientes:
+• Ser de nacionalidad paraguaya, de treinta a os de edad como m nimo;
+• Poseer t tulo universitario de grado;
+• Contar con condiciones probadas de idoneidad, capacidad y experiencia en la materia de protecci n de datos personales, que aseguren independencia de criterio, eficiencia, objetividad e imparcialidad en el desempe o de su cargo;
+• Gozar de buena reputaci n;
+• No haber sido condenado por hechos punibles previstos en leyes nacionales, mientras dure la condena; o se haya acogido a los modos alternativos de terminaci n del proceso penal, o de suspensi n a prueba de la condena, por el plazo que dure el tiempo de suspensi n del proceso o de la condena;
+• No haber sido inhabilitado para el ejercicio de cargos p blicos, mientras dure la inhabilitaci n.
+Art culo 40. Duraci n del cargo y remoci n.
+El Director General de la Agencia Nacional de Protecci n de Datos Personales y el adjunto durar n tres a os en el cargo, pudiendo ser designados nuevamente para per odos posteriores.
+Asimismo, cesar n en el cargo, en forma previa a la expiraci n de su mandato, en las siguientes circunstancias:
+• Por remoci n motivada en mal desempe o de sus funciones. El sumario administrativo para comprobar las causales de remoci n ser tramitado conforme a lo establecido en la ley que rige la funci n p blica;
+• Renuncia presentada ante el Presidente de la Rep blica;
+• Incapacidad sobrevenida para el ejercicio de su funci n;
+• Condena firme por la comisi n de hecho punible que implique pena privativa de libertad. En ning n caso, los cargos de Director General o Adjunto de la Agencia Nacional de Protecci n de Datos Personales ser n considerados de confianza ni sujetos a libre disposici n.
+El Director General y el Adjunto responder n personalmente por las consecuencias de su gesti n t cnica, administrativa y financiera; y de toda decisi n adoptada en contravenci n a las disposiciones legales y reglamentarias.
+T TULO V
+DE LA TUTELA ADMINISTRATIVA
+Cap tulo I
+De las faltas y sus consecuencias.
+Art culo 41. Tutela administrativa.
+Sin perjuicio de la garant a constitucional de h beas data, el titular de los datos puede formular reclamos o denuncias ante la Agencia para hacer efectivos sus derechos, en la forma y condiciones previstas en la presente ley y en su reglamentaci n.
+La Agencia podr iniciar procedimientos a los efectos de constatar el cumplimiento de las disposiciones de la presente ley a instancia del titular del dato, de su representante legal o convencional, de un tercero que tenga inter s leg timo o de oficio.
+En los procedimientos, se aplicar lo dispuesto en la presente ley, su reglamentaci n y las disposiciones de la Ley N 6715/2021 DE PROCEDIMIENTOS ADMINISTRATIVOS o aquella que la sustituya, en todo cuanto resulte aplicable. Sin perjuicio de la tutela administrativa, el titular podr recurrir a la tutela judicial para ser indemnizado cuando hubiere sufrido da os y perjuicios, como consecuencia de una violaci n de sus derechos a la protecci n de sus datos personales, conforme con lo dispuesto en la presente ley.
+Art culo 42. Medidas correctivas.
+En caso de incumplimiento de las disposiciones previstas en la presente ley, sin perjuicio de la sanci n administrativa que se imponga, la Agencia podr dictar medidas correctivas con el objeto de eliminar, evitar o detener los efectos de las faltas, as como tambi n disuadir reincidencias.
+Las medidas correctivas podr n consistir, entre otras, en:
+• El cese o suspensi n del tratamiento, bajo determinadas condiciones o plazos;
+• La eliminaci n de los datos;
+• La imposici n de medidas t cnicas, jur dicas, organizativas que garanticen un tratamiento adecuado de datos personales.
+El recurso contra las medidas correctivas no tendr efectos suspensivos sobre su ejecuci n.
+Art culo 43. Conductas que constituyen faltas.
+Se considera falta toda acci n u omisi n que implique incumplimiento de disposiciones establecidas en la presente ley y en sus disposiciones reglamentarias y las dictadas por la Agencia en el marco de sus atribuciones para el cumplimiento de las mismas.
+Las faltas se clasifican en leves y graves.
+La actuaci n y medidas administrativas adoptadas como consecuencia de las conductas mencionadas son independientes de las acciones o medidas que se adopten en instancia judicial en los casos de que las conductas generen, al mismo tiempo, responsabilidad civil o penal, y en su caso tambi n lo ser n las reparaciones, penas o condenas que en cada caso se apliquen.
+Art culo 44. Faltas leves.
+Se consideran faltas leves y prescribir n en un a o, las siguientes infracciones:
+• Recolectar datos personales para su uso en base de datos sin que se le otorgue suficiente y amplia informaci n a la persona interesada, de conformidad con las especificaciones t cnicas establecidas en el reglamento de aplicaci n de la presente ley;
+• Recolectar, almacenar y transmitir datos personales de terceros por medio de mecanismos inseguros o que de alguna forma no garanticen la seguridad e inalterabilidad de los datos;
+• No atender los derechos de acceso, rectificaci n, supresi n, limitaci n del tratamiento o a la portabilidad de los datos en tratamientos en los que no se requiere la identificaci n del afectado, cuando ste, para el ejercicio de esos derechos, haya facilitado informaci n adicional que permita su identificaci n;
+• El incumplimiento por el encargado de las estipulaciones impuestas en el contrato o acto jur dico que regule el tratamiento o las instrucciones del responsable del tratamiento, salvo que est legalmente obligado a ello conforme a otras leyes de la Rep blica del Paraguay y la presente ley o en los supuestos en que fuese necesario para evitar la infracci n de la legislaci n en materia de protecci n de datos y se hubiese advertido de ello al responsable o al encargado del tratamiento;
+• La notificaci n incompleta, tard a o defectuosa a la autoridad de control de la informaci n relacionada con una violaci n de seguridad de los datos personales de conformidad con lo previsto en la presente ley;
+• Negarse injustificadamente a dar acceso a un titular del dato sobre sus datos que consten en archivos y bases de datos, a fin de verificar su calidad, recolecci n, almacenamiento y uso conforme a la presente ley;
+• La contrataci n por el responsable del tratamiento de un encargado de tratamiento que no ofrezca las garant as suficientes para aplicar las medidas t cnicas y organizativas apropiadas conforme a lo establecido en la presente ley y su reglamentaci n;
+• No mantener disponibles las pol ticas de protecci n de datos personales afines al tratamiento de datos personales;
+• El incumplimiento de las obligaciones legales o reglamentarias, siempre y cuando las mismas no hayan sido catalogadas como faltas graves.
+Art culo 45. Faltas graves.
+Se consideran faltas graves y prescribir n a los dos a os, las siguientes infracciones:
+• Transferir datos personales a otras personas o empresas en contravenci n de las reglas establecidas en la presente ley;
+• Reiteraci n en la negativa injustificada de dar acceso a un titular sobre sus datos que consten en archivos y bases de datos, a fin de verificar su calidad, recolecci n, almacenamiento y uso conforme a la presente ley;
+• Negarse injustificadamente a eliminar o rectificar los datos de una persona que as lo haya solicitado por medio claro e inequ voco;
+• El tratamiento de datos personales de un menor de edad sin recabar su consentimiento, cuando ste tenga capacidad para ello, o el del titular de su patria potestad o tutela;
+• No acreditar la realizaci n de esfuerzos razonables para verificar la validez del consentimiento prestado por un menor de edad o por el titular de su patria potestad, guarda o tutela sobre el mismo;
+• El impedimento, la obstaculizaci n o la no atenci n reiterada de los derechos de acceso, rectificaci n, supresi n o a la portabilidad de los datos en tratamientos en los que no se requiere la identificaci n del afectado, cuando ste, para el ejercicio de esos derechos, haya facilitado informaci n adicional que permita su identificaci n;
+• La falta de adopci n de aquellas medidas t cnicas y organizativas que resulten apropiadas para aplicar de forma efectiva los principios de protecci n de datos desde el dise o, as como la no implementaci n de las garant as necesarias en el tratamiento;
+• La falta de adopci n de las medidas t cnicas y organizativas apropiadas para garantizar que, por defecto, s lo se trataran los datos personales necesarios para cada uno de los fines espec ficos del tratamiento;
+• La falta de adopci n de aquellas medidas t cnicas y organizativas que resulten apropiadas para garantizar un nivel de seguridad adecuado al riesgo del tratamiento;
+• El quebrantamiento, como consecuencia de la falta de la debida diligencia, de las medidas t cnicas y organizativas que se hubiesen implementado, conforme a lo establecido en la presente ley;
+• El incumplimiento de la obligaci n de designar un representante del responsable o encargado del tratamiento no establecido en la Rep blica del Paraguay, conforme a lo establecido en el art culo 12 de la presente ley;
+• Encargar el tratamiento de datos a un tercero sin la previa formalizaci n de un contrato u otro acto jur dico escrito formalmente apropiado, seg n lo requerido en la presente ley;
+• La subcontrataci n de encargados del tratamiento sin la autorizaci n previa del responsable o sin haberle informado sobre los cambios producidos en la subcontrataci n cuando fueran legalmente exigibles;
+• El incumplimiento del deber del encargado del tratamiento de notificar al responsable del tratamiento las violaciones de seguridad de las que tuviera conocimiento;
+• El incumplimiento del deber de notificaci n a la autoridad de control de una violaci n de seguridad de los datos personales de conformidad con lo establecido en el art culo 17 de la presente ley;
+• El tratamiento de datos personales sin haber llevado a cabo la evaluaci n del impacto de las operaciones de tratamiento en la protecci n de datos personales en los supuestos en que la misma sea exigible;
+• El tratamiento de datos personales sin haber consultado previamente a la autoridad de control en los casos en que la ley establezca la obligaci n de llevar a cabo tal consulta;
+• El incumplimiento de la obligaci n de designar un oficial de protecci n de datos cuando sea exigible su nombramiento de acuerdo con lo dispuesto en la presente ley y su reglamentaci n;
+• No posibilitar la efectiva participaci n del oficial de protecci n de datos en todas las cuestiones relativas a la protecci n de datos personales, no prestar la colaboraci n debida o interferir en el desempe o de sus funciones;
+• La utilizaci n de un sello o certificaci n nacional o internacional falso en materia de protecci n de datos o en caso de que las vigencias de los mismos hubieran expirado;
+• Recolectar, almacenar y transmitir datos personales de terceros por medio de mecanismos inseguros o que de alguna forma no garanticen la seguridad e inalterabilidad de los datos;
+• El incumplimiento de la obligaci n de notificaci n por parte de los responsables o encargados relativa a la rectificaci n o supresi n de datos personales exigida por la presente ley;
+• El incumplimiento de los requisitos exigidos por la presente ley en relaci n a la validez del consentimiento;
+• La omisi n del deber de informar al titular acerca del tratamiento de sus datos personales conforme a lo dispuesto en el art culo 27 de la presente ley;
+• La exigencia del pago de un canon para el ejercicio de cualquiera de los derechos establecidos en el T tulo III, Cap tulo nico De los derechos de los titulares de datos de la presente ley;
+• Recolectar, almacenar, transmitir o de cualquier otra forma emplear, por parte de personas f sicas o jur dicas privadas, datos sensibles, sin contar con una de las exigencias legales establecidas en la legislaci n vigente;
+• Obtener, de los titulares o de terceros, datos personales de una persona por medio de enga o, violencia o amenaza;
+• Revelar informaci n registrada en una base de datos personales cuyo secreto est obligado a guardar conforme a la ley;
+• Proporcionar a un tercero informaci n falsa o distinta contenida en un archivo de datos, con conocimiento de ello;
+• Transferir, a las bases de datos de terceros pa ses, informaci n de car cter personal de los habitantes paraguayos o de los extranjeros situados en el pa s, sin el consentimiento de sus titulares cuando el mismo sea requerido;
+• El tratamiento de datos personales relativos a condenas e infracciones penales o medidas de seguridad conexas fuera de los supuestos permitidos en la legislaci n vigente;
+• La vulneraci n del principio de confidencialidad establecido en la presente ley;
+• No facilitar el acceso de la autoridad de control a los datos personales, informaci n, locales, equipos y medios de tratamiento que sean requeridos por esta autoridad para el ejercicio de sus poderes de investigaci n;
+• La resistencia u obstrucci n del ejercicio de la funci n inspectora por la autoridad de control competente;
+• La reversi n deliberada de un procedimiento de anonimizaci n o seudonimizaci n a fin de permitir la reidentificaci n de los titulares;
+• Recolectar, almacenar, transmitir o de cualquier otra forma emplear datos personales sin contar con una de las exigencias legales establecidas en la presente ley;
+• La falta de evaluaci n de impacto de manera previa a la implementaci n de operaciones de tratamiento de datos que puedan suponer riesgos significativos para los derechos de titulares de datos, en los t rminos de la presente ley.
+Art culo 46. Sanciones administrativas.
+Las sanciones a ser aplicadas por la Agencia por las faltas comprobadas, podr n consistir en:
+• Apercibimiento, indicando el plazo y la forma para la adopci n de medidas correctivas, en su caso;
+• Multas desde veinte hasta dos mil quinientos jornales m nimos para actividades diversas no especificadas en la Rep blica del Paraguay:
+• Trat ndose de infracciones cometidas en el tratamiento de datos sensibles, los montos de las sanciones podr n elevarse hasta cinco mil jornales m nimos para actividades diversas no especificadas en la Rep blica del Paraguay.
+• Trat ndose de infracciones cometidas en el tratamiento de datos sensibles de ni os, ni as y adolescentes, los montos de las sanciones podr n elevarse hasta diez mil jornales m nimos para actividades diversas no especificadas en la Rep blica del Paraguay.
+• Suspensi n de las actividades relacionadas con el tratamiento de datos personales.
+La aplicaci n de los distintos tipos de sanciones podr ser indistinta o acumulativa.
+La Agencia se encuentra facultada para dictar las normas complementarias y/o aclaratorias al presente art culo.
+Art culo 47. Criterios para la aplicaci n de las sanciones administrativas.
+Las sanciones administrativas ser n determinadas considerando los siguientes criterios:
+• La gravedad y naturaleza de las infracciones y el da o o peligro a los intereses jur dicos tutelados en la presente ley;
+• La buena fe del infractor o el reconocimiento o aceptaci n expresa que haga el investigado sobre la comisi n de la infracci n antes de la imposici n de la sanci n a que hubiere lugar;
+• El grado de responsabilidad del infractor, as como la intenci n o negligencia en el car cter de la infracci n;
+• La ventaja o beneficio econ mico obtenido o pretendido por el infractor en virtud de la comisi n de la infracci n;
+• La situaci n econ mica del infractor;
+• La reincidencia en la conducta;
+• La cooperaci n del infractor en la acci n investigadora de la autoridad de control;
+• La adopci n reiterada y demostrada de mecanismos y procedimientos internos capaces de minimizar el da o, encaminados al tratamiento seguro y adecuado de los datos;
+• La adopci n de una pol tica de buenas pr cticas o c digo de conductas;
+• La pronta adopci n de medidas correctivas;
+• Otros que pueda considerar la autoridad de control, seg n la naturaleza del caso.
+Art culo 48. Prescripci n de la ejecuci n de las sanciones.
+El plazo de prescripci n para la ejecuci n de las sanciones ser de dos a os a contar desde el momento en que ha quedado firme la resoluci n que la impone.
+Art culo 49. Pago de multas.
+El monto de las multas deber ser pagado dentro del plazo de treinta d as h biles, contados desde la notificaci n.
+La reglamentaci n establecer las consecuencias que se derivan de su incumplimiento, incluyendo los intereses, as como cualquier otro aspecto relevante para el cumplimiento efectivo de la sanci n impuesta.
+Art culo 50. Supuesto incumplimiento por parte de instituciones p blicas.
+En caso de que la autoridad de control advierta un presunto incumplimiento de las disposiciones de la presente ley por parte de instituciones p blicas, apercibir y dictar una resoluci n estableciendo medidas correctivas que deber n ser adoptadas para que cesen o se corrijan los efectos de la infracci n.
+La resoluci n por la cual se disponga la implementaci n de medidas ser notificada a la m xima autoridad de la instituci n p blica en la cual haya ocurrido la falta y al titular de datos afectado, si los hay.
+Sin perjuicio de lo establecido en los p rrafos anteriores, la instituci n p blica, previo an lisis de los hechos en cuesti n, tomar las medidas que correspondan con respecto a los presuntos responsables, incluyendo, aunque sin limitarse a ello, la instrucci n de sumario administrativo para la imposici n de sanciones disciplinarias conforme al procedimiento establecido para el efecto.
+Cap tulo II
+De la presentaci n de denuncia o reclamo.
+Art culo 51. Del reclamo ante la autoridad de control.
+El titular de los datos o su representante legal pueden realizar un reclamo o denuncia, en forma gratuita, mediante cualquier medio habilitado para dicho efecto por la autoridad de control, expresando con claridad el contenido de su requerimiento y los preceptos de la presente ley que considere vulnerados, y acreditando haber efectuado la solicitud correspondiente ante el encargado o responsable del tratamiento de datos que le incumbe y acompa ando la respuesta en caso de haberse producido.
+La presentaci n debe realizarse dentro de los quince d as h biles siguientes a la fecha en que se comunique la respuesta a la solicitud, por parte del responsable o encargado de tratamiento, o en cualquier momento si el plazo establecido para el efecto hubiere vencido sin respuesta de parte del responsable o encargado de tratamiento. La respuesta, de haberse producido, deber acompa ar la presentaci n del reclamo.
+Art culo 52. Resoluci n de la autoridad de control.
+Tras recibir un reclamo o denuncia, la autoridad de control podr ́, mediante resoluci n fundada:
+• Desestimar el reclamo o denuncia presentada;
+• En caso de considerar que asiste derecho a la persona titular de los datos, requerir al responsable o encargado de tratamiento que haga efectivo el ejercicio de los derechos objeto de protecci n, debiendo dar cuenta por escrito de dicho cumplimiento a la autoridad de control dentro de los quince d as h biles de efectuado;
+• En caso de verificarse la comisi n de una falta, aplicar las sanciones previstas en la presente ley.
+Cap tulo III
+De la comprobaci n de faltas y aplicaci n de sanciones administrativas.
+Art culo 53. Procedimiento para la comprobaci n de faltas y aplicaci n de sanciones.
+Las faltas a las disposiciones de la presente ley y sus reglamentaciones deben probarse en sumario administrativo.
+La instrucci n del sumario ser dispuesta por resoluci n del Director General de la Agencia y contendr una relaci n completa de los hechos, actos u omisiones que se imputen al presunto infractor, as como la designaci n del Juez Instructor de entre quienes presten servicios en la autoridad de control.
+La reglamentaci n determinar el procedimiento y plazos a seguir, incluyendo aquel con que cuenta el Juez Instructor para la presentaci n de su dictamen final ante el Director General y el dispuesto para la emisi n de la resoluci n correspondiente. Todos los dem s aspectos del procedimiento, se regir n por lo establecido en la Ley N 6715/2021 DE PROCEDIMIENTOS ADMINISTRATIVOS o aquella que la sustituya.
+Art culo 54. Medidas cautelares de orden administrativo.
+Una vez iniciado el procedimiento sancionador, se podr disponer, mediante resoluci n motivada, la adopci n de medidas de car cter provisional que aseguren la eficacia de la resoluci n final que pudiera recaer en el referido procedimiento.
+Art culo 55. Recurso de reconsideraci n.
+Contra toda resoluci n o acto administrativo de car cter no reglamentario emitido por la Agencia, procede el recurso de reconsideraci n, que debe ser interpuesto ante el Director General de la misma.
+La instancia administrativa se agota con la resoluci n del Director General de la Agencia de Protecci n de Datos Personales. El Ministerio de Tecnolog as de la Informaci n y Comunicaci n no tendr competencia para el procesamiento de solicitudes y dem s tr mites vinculados a derechos de protecci n de datos personales u otras competencias de esta Agencia.
+Art culo 56. Acci n contencioso-administrativa.
+La acci n contencioso-administrativo podr interponerse ante el Tribunal de Cuentas, dentro del plazo establecido por la Ley N 6715/2021 DE PROCEDIMIENTOS ADMINISTRATIVOS o aquella que la sustituya.
+El recurso de reconsideraci n y la acci n contencioso-administrativa, tendr n efecto suspensivo en los casos en los que se interpongan contra las resoluciones que apliquen sanciones administrativas, pero no suspender n las medidas cautelares de orden administrativos dictadas o las medidas correctivas que tiendan a evitar la ocurrencia de da os.
+T TULO VI
+DISPOSICIONES FINALES Y TRANSITORIAS
+Art culo 57. De la entrada en vigencia.
+La presente ley entrar en vigor luego de transcurridos veinticuatro meses de su publicaci n oficial.
+Art culo 58. De la absorci n de funciones y atribuciones.
+Toda referencia que dentro de la Ley N 6534/2020 DE PROTECCI N DE DATOS PERSONALES CREDITICIOS se haga a la Secretar a de Defensa del Consumidor y el Usuario, a partir de la vigencia de la presente ley, se entender como una referencia a la Agencia Nacional de Protecci n de Datos Personales.
+Art culo 59. Derogaciones.
+Quedan derogados los incisos a) y b) del art culo 3 , el art culo 4 , el inciso b) del art culo 20, el inciso x) del art culo 21 de la Ley N 6534/2020 DE PROTECCI N DE DATOS PERSONALES CREDITICIOS .
+Art culo 60. Reglamentaci n.
+El Poder Ejecutivo reglamentar la presente ley dentro del plazo de veinticuatro meses computados a partir de su publicaci n en la gaceta oficial.
+Art culo 61. Comun quese al Poder Ejecutivo.
+Aprobado el Proyecto de Ley por la Honorable C mara de Diputados, a los catorce d as del mes de octubre del a o dos mil veinticinco, y por la Honorable C mara de Senadores, a los cinco d as del mes de noviembre del a o dos mil veinticinco, queda sancionado, de conformidad con lo dispuesto en el art culo 207 numeral 2) de la Constituci n.
+Tags: Protección Datos Personales Datos Personales Información
+De interes
+Lunes 13 de Enero de 2020
+Ley Nº 6495 / AUTORIZA LA IMPLEMENTACIÓN DEL SISTE ...
+Martes 23 de Julio de 2019
+Ley Nº 6223 / MODIFICA Y AMPLÍA LA LEY N° 1692/01 ...
+Martes 07 de Junio de 2016
+Ley Nº 2348 / ESTABLECE EL QUORUM LEGAL DE LA CORT ...
+¿Tienes alguna duda? ponte en contacto con nosotros
+Buscar:
+Ultimos en Leyes Paraguayas
+Ley Nº 7634/2026 / Ley N° 7634 ACUERDO INTERINO DE ...
+Mi�rcoles 13 de Mayo de 2026
+Ley Nº 7627/2026 / QUE MODIFICA LOS ARTÍCULOS 3° Y ...
+Jueves 07 de Mayo de 2026
+Ley Nº 7342/2024 / QUE CONCEDE PENSIÓN GRACIABLE A ...
+Martes 28 de Abril de 2026
+Ley Nº 7341/2024 / QUE ESTABLECE EL TRATAMIENTO IN ...
+Martes 28 de Abril de 2026
+Lo mas visto en la bacn
+Ley Nº 1337 / CODIGO PROCESAL CIVIL
+Leyes Paraguayas
+Mi�rcoles 25 de Febrero de 2015
+Ley Nº 1680 / CODIGO DE LA NIÑEZ Y LA ADOLESCENCIA
+Leyes Paraguayas
+Jueves 11 de Mayo de 2017
+Ley Nº 213 / ESTABLECE EL CODIGO DEL TRABAJO.
+Leyes Paraguayas
+Mi�rcoles 17 de Septiembre de 2014
+Indice
+• Leyes Paraguayas
+• Declaraciones
+• Conoce tu ley
+• Revistas
+• Libros
+• Videos
+• Noticias
+• Agenda
+• Galería de Imágenes
+• Todas
+• Galería de Recortes de Prensa
+• Archivos Históricos
+• Revistas de la BACCN
+• Bibliografías de la BACCN
+• Actualidad de la BACCN
+• Historia de ley
+Biblioteca y Archivo del Congreso de la Nación. 2026

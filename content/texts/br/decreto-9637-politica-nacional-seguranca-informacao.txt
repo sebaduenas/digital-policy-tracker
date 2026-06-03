@@ -1,0 +1,521 @@
+D9637
+Presid�ncia da Rep�blica
+Secretaria-Geral
+Subchefia para Assuntos Jur�dicos
+DECRETO N� 9.637, DE 26 DE DEZEMBRO DE 2018
+Revogado
+pelo Decreto n� 12.572, de 2025
+Texto para
+impress�o
+Institui a Pol�tica Nacional de Seguran�a da Informa��o, disp�e sobre a governan�a da seguran�a da informa��o, e altera o
+Decreto n� 2.295, de 4 de agosto de 1997 , que regulamenta o disposto no art.
+24,
+caput
+inciso IX, da Lei n� 8.666, de 21 de junho de 1993, e disp�e sobre a dispensa de licita��o nos casos que possam comprometer a seguran�a nacional.
+O PRESIDENTE DA REP�BLICA
+, no uso da atribui��o que lhe confere o art. 84,
+caput
+, inciso VI, al�nea “a”, da Constitui��o,
+DECRETA
+CAP�TULO I
+DISPOSI��ES GERAIS
+Art. 1� Fica institu�da a Pol�tica Nacional de Seguran�a da Informa��o - PNSI, no �mbito da administra��o p�blica federal, com a finalidade de assegurar a disponibilidade, a integridade, a confidencialidade e a autenticidade da informa��o a n�vel nacional.
+Art. 1� Fica institu�da a Pol�tica Nacional de
+Seguran�a da Informa��o - PNSI, no �mbito da administra��o p�blica federal,
+com a finalidade de assegurar a disponibilidade, a integridade, a
+confidencialidade e a autenticidade da informa��o em �mbito nacional.
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+Art. 2� Para os fins do disposto neste Decreto, a seguran�a da informa��o abrange:
+I - a seguran�a cibern�tica;
+(Revogado
+pelo Decreto n� 11.856, de 2023)
+II - a defesa cibern�tica;
+III - a seguran�a f�sica e a prote��o de dados organizacionais; e
+IV - as a��es destinadas a assegurar a disponibilidade, a integridade, a confidencialidade e a autenticidade da informa��o.
+CAP�TULO II
+DOS PRINC�PIOS
+Art. 3� S�o princ�pios da PNSI:
+I - soberania nacional;
+II - respeito e promo��o dos direitos humanos e das garantias fundamentais, em especial a liberdade de express�o, a prote��o de dados pessoais, a prote��o da privacidade e o acesso � informa��o;
+III - vis�o abrangente e sist�mica da seguran�a da informa��o;
+IV - responsabilidade do Pa�s na coordena��o de esfor�os e no estabelecimento de pol�ticas, estrat�gias e diretrizes relacionadas � seguran�a da informa��o;
+V - interc�mbio cient�fico e tecnol�gico relacionado � seguran�a da informa��o entre os �rg�os e as entidades da administra��o p�blica federal;
+VI - preserva��o do acervo hist�rico nacional;
+VII - educa��o como alicerce fundamental para o fomento da cultura em seguran�a da informa��o;
+VIII - orienta��o � gest�o de riscos e � gest�o da seguran�a da informa��o;
+IX - preven��o e tratamento de incidentes de seguran�a da informa��o;
+X - articula��o entre as a��es de seguran�a cibern�tica, de defesa cibern�tica e de prote��o de dados e ativos da informa��o;
+XI - dever dos �rg�os, das entidades e dos agentes p�blicos de garantir o sigilo das informa��es imprescind�veis � seguran�a da sociedade e do Estado e a inviolabilidade da intimidade da vida privada, da honra e da imagem das pessoas;
+XII -
+need to know
+para o acesso � informa��o sigilosa, nos termos da legisla��o;
+XIII - consentimento do propriet�rio da informa��o sigilosa recebida de outros pa�ses, nos casos dos acordos internacionais;
+XIV - coopera��o entre os �rg�os de investiga��o e os �rg�os e as entidades p�blicos no processo de credenciamento de pessoas para acesso �s informa��es sigilosas;
+XV - integra��o e coopera��o entre o Poder P�blico, o setor empresarial, a sociedade e as institui��es acad�micas; e
+XVI - coopera��o internacional, no campo da seguran�a da informa��o.
+CAP�TULO III
+DOS OBJETIVOS
+Art. 4� S�o objetivos da PNSI:
+I - contribuir para a seguran�a do indiv�duo, da sociedade e do Estado, por meio da orienta��o das a��es de seguran�a da informa��o, observados os direitos e as garantias fundamentais;
+II - fomentar as atividades de pesquisa cient�fica, de desenvolvimento tecnol�gico e de inova��o relacionadas � seguran�a da informa��o;
+III - aprimorar continuamente o arcabou�o legal e normativo relacionado � seguran�a da informa��o;
+IV - fomentar a forma��o e a qualifica��o dos recursos humanos necess�rios � �rea de seguran�a da informa��o;
+V - fortalecer a cultura da seguran�a da informa��o na sociedade;
+VI - orientar a��es relacionadas a:
+a) seguran�a dos dados custodiados por entidades p�blicas;
+b) seguran�a da informa��o das infraestruturas cr�ticas;
+c) prote��o das informa��es das pessoas f�sicas que possam ter sua seguran�a ou a seguran�a das suas atividades afetada, observada a legisla��o espec�fica; e
+d) tratamento das informa��es com restri��o de acesso; e
+VII - contribuir para a preserva��o da mem�ria cultural brasileira.
+CAP�TULO IV
+DOS INSTRUMENTOS
+Art. 5� S�o instrumentos da PNSI:
+I - a Estrat�gia Nacional de Seguran�a da Informa��o; e
+II - os planos nacionais.
+Art. 6� A Estrat�gia Nacional de Seguran�a da Informa��o conter� as a��es estrat�gicas e os objetivos relacionados � seguran�a da informa��o, em conson�ncia com as pol�ticas p�blicas e os programas do Governo federal, e ser� dividida nos seguintes m�dulos, entre outros, a serem definidos no momento de sua publica��o:
+I - seguran�a cibern�tica;
+(Revogado
+pelo Decreto n� 11.856, de 2023)
+II - defesa cibern�tica;
+III - seguran�a das infraestruturas cr�ticas;
+IV - seguran�a da informa��o sigilosa; e
+V - prote��o contra vazamento de dados.
+Par�grafo �nico. A constru��o da Estrat�gia Nacional de Seguran�a da Informa��o ter� a ampla participa��o da sociedade e dos �rg�os e das entidades do Poder P�blico.
+Art. 7� Os planos nacionais de que trata o inciso II do
+caput
+do art. 5� conter�o:
+I - o detalhamento da execu��o das a��es estrat�gicas e dos objetivos da Estrat�gia Nacional de Seguran�a da Informa��o;
+II - o planejamento, a organiza��o, a coordena��o das atividades e do uso de recursos para a execu��o das a��es estrat�gicas e o alcance dos objetivos da Estrat�gia Nacional de Seguran�a da Informa��o; e
+III - a atribui��o de responsabilidades, a defini��o de cronogramas e a apresenta��o da an�lise de riscos e das a��es de conting�ncia que garantam o atingimento dos resultados esperados.
+Par�grafo �nico. Os planos nacionais ser�o divididos em temas e designados a um �rg�o respons�vel, conforme estabelecido na Estrat�gia Nacional de Seguran�a da Informa��o.
+CAP�TULO V
+DO COMIT� GESTOR DA SEGURAN�A DA INFORMA��O
+Art. 8� Fica institu�do o Comit� Gestor da Seguran�a da Informa��o, com atribui��o de assessorar o Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica nas atividades relacionadas � seguran�a da informa��o.
+Art. 9� O Comit� ser� composto por um representante titular e respectivo suplente indicados pelos seguintes �rg�os:
+I - Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica, que o coordenar�;
+II - Casa Civil da Presid�ncia da Rep�blica;
+III - Minist�rio da Justi�a;
+III -
+Minist�rio da
+Justi�a e Seguran�a P�blica;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+IV - Minist�rio da Seguran�a P�blica;
+IV - Minist�rio da Defesa;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+V - Minist�rio da Defesa;
+V - Minist�rio das
+Rela��es Exteriores;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+VI - Minist�rio das Rela��es Exteriores;
+VI - Minist�rio da
+Economia;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+VII - Minist�rio da Fazenda;
+VII - Minist�rio da
+Infraestrutura;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+VIII - Minist�rio dos Transportes, Portos e Avia��o
+Civil;
+VIII - Minist�rio da
+Agricultura, Pecu�ria e Abastecimento;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+IX - Minist�rio da Agricultura, Pecu�ria e
+Abastecimento;
+IX - Minist�rio da
+Educa��o;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+X - Minist�rio da Educa��o;
+X - Minist�rio da
+Cidadania;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XI - Minist�rio da Cultura;
+XI - Minist�rio da Sa�de;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XI-A - Minist�rio do Trabalho e Previd�ncia;
+(Inclu�do
+pelo Decreto n� 10.849, de 2021)
+XII - Minist�rio do Trabalho;
+XII - Minist�rio de Minas
+e Energia;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XII-A - Minist�rio das Comunica��es;
+(Inclu�do
+pelo Decreto n� 10.641, de 2021)
+XIII - Minist�rio do Desenvolvimento Social;
+XIII - Minist�rio da
+Ci�ncia, Tecnologia, Inova��es e Comunica��es;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XIII - Minist�rio da Ci�ncia, Tecnologia e
+Inova��es;
+(Reda��o
+dada pelo Decreto n� 10.641, de 2021)
+XIV - Minist�rio da Sa�de;
+XIV - Minist�rio do Meio
+Ambiente;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XV - Minist�rio da Ind�stria, Com�rcio Exterior e
+Servi�os;
+XV - Minist�rio do
+Turismo;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XVI - Minist�rio de Minas e Energia;
+XVI - Minist�rio do
+Desenvolvimento Regional;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XVII - Minist�rio do Planejamento, Desenvolvimento e
+Gest�o;
+XVII - Controladoria-Geral
+da Uni�o;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XVIII - Minist�rio da Ci�ncia, Tecnologia,
+Inova��es e Comunica��es;
+XVIII - Minist�rio da
+Mulher, da Fam�lia e dos Direitos Humanos;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XIX - Minist�rio do Meio Ambiente;
+XIX - Secretaria-Geral da
+Presid�ncia da Rep�blica;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XX - Minist�rio do Esporte;
+XX - Secretaria de Governo
+da Presid�ncia da Rep�blica;
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XXI - Minist�rio do Turismo;
+XXI - Advocacia-Geral da
+Uni�o; e
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XXI - Advocacia-Geral da Uni�o;
+(Reda��o dada
+pelo Decreto n� 10.849, de 2021)
+XXII - Minist�rio da Integra��o Nacional;
+XXII - Banco Central do
+Brasil.
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+XXII - Banco Central do Brasil; e
+(Reda��o dada
+pelo Decreto n� 10.849, de 2021)
+XXII-A - Autoridade Nacional de Prote��o de Dados.
+(Inclu�do
+pelo Decreto n� 10.849, de 2021)
+XXIII - Minist�rio das Cidades;
+(Revogado
+pelo Decreto n� 9.832, de 2019)
+XXIV - Minist�rio da Transpar�ncia e Controladoria-Geral da Uni�o;
+(Revogado
+pelo Decreto n� 9.832, de 2019)
+XXV - Minist�rio dos Direitos Humanos;
+(Revogado
+pelo Decreto n� 9.832, de 2019)
+XXVI - Secretaria-Geral da Presid�ncia da Rep�blica;
+(Revogado
+pelo Decreto n� 9.832, de 2019)
+XXVII - Secretaria de Governo da Presid�ncia da Rep�blica;
+(Revogado
+pelo Decreto n� 9.832, de 2019)
+XXVIII - Advocacia-Geral da Uni�o; e
+(Revogado
+pelo Decreto n� 9.832, de 2019)
+XXIX - Banco Central do Brasil.
+(Revogado
+pelo Decreto n� 9.832, de 2019)
+� 1� Os membros do Comit� ser�o indicados pelos titulares dos �rg�os mencionados no
+caput
+, no prazo de dez dias, contado da data de publica��o deste Decreto, e ser�o designados em ato do Ministro de Estado Chefe do Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica, no prazo de vinte dias, contado da data de publica��o deste Decreto.
+� 1� Os membros do Comit� Gestor da Seguran�a da
+Informa��o e os respectivos suplentes ser�o indicados pelos titulares dos
+�rg�os que representam e designados em ato do Ministro de Estado Chefe do
+Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica.
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+� 2� A indica��o do membro titular dos �rg�os mencionados no
+caput
+recair� no gestor de seguran�a da informa��o de que trata o inciso III do
+caput
+do art. 15, e o respectivo suplente dever� ocupar cargo em comiss�o do Grupo-Dire��o e Assessoramento Superiores, de n�vel 4 ou superior, ou equivalente.
+� 2� O membro titular do
+Comit� Gestor da Seguran�a da Informa��o dever� ser o gestor de seguran�a da
+informa��o de que trata o inciso III do caput do art. 15, e seu
+suplente dever� ser ocupante de cargo em comiss�o ou fun��o de confian�a
+equivalente ou superior ao n�vel 4 do Grupo-Dire��o e Assessoramento
+Superiores.
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+� 2� Os membros de que trata o � 1� dever�o ser
+indicados dentre os agentes p�blicos que possuam atribui��o para definir
+pol�ticas ou normas relacionadas � tecnologia da informa��o ou � seguran�a
+da informa��o nos respectivos �rg�os.
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+� 3� Os membros titulares do Comit� ser�o substitu�dos pelos respectivos suplentes, em suas aus�ncias ou impedimentos.
+� 4� A participa��o no Comit� ser� considerada presta��o de servi�o p�blico relevante, n�o remunerada.
+� 4� A participa��o no
+Comit� Gestor da Seguran�a da Informa��o e nos subcolegiados ser�
+considerada presta��o de servi�o p�blico relevante, n�o remunerada.
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+� 5� No prazo de noventa dias, contado da data de publica��o deste Decreto, ser� aprovado regimento interno para dispor sobre a organiza��o e o funcionamento do Comit�.
+� 5� O
+Coordenador do Comit� Gestor da Seguran�a da Informa��o aprovar� o regimento
+interno, que dispor� sobre a organiza��o e o funcionamento do Comit�, no
+prazo de noventa dias, contado da data de publica��o do
+Decreto n� 9.832, de
+12 de junho de 2019 .
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+Art. 10. O Comit� se reunir�, em car�ter ordin�rio, semestralmente e, em car�ter extraordin�rio, por convoca��o de seu Coordenador.
+� 1� As reuni�es do Comit� ocorrer�o, em primeira convoca��o, com a presen�a da maioria simples de seus membros ou, quinze minutos ap�s a hora estabelecida, em segunda convoca��o, com a presen�a de, no m�nimo, um ter�o de seus membros.
+� 2� O Comit� poder� instituir grupos de trabalho ou c�maras t�cnicas para tratar de temas espec�ficos relacionados � seguran�a da informa��o e poder� convidar representantes do setor p�blico ou privado e especialistas com not�rio saber.
+(Revogado pelo
+Decreto n� 9.832, de 2019)
+� 3� A composi��o, o funcionamento e as compet�ncias dos grupos de trabalho ou c�maras t�cnicas ser�o estabelecidos pelo Comit�.
+(Revogado pelo
+Decreto n� 9.832, de 2019)
+� 4� As delibera��es do Comit� ser�o aprovadas pela maioria simples dos membros presentes e o Coordenador, al�m do voto regular, ter� o voto de desempate.
+� 5� Os membros do
+Comit� Gestor da Seguran�a da Informa��o que se encontrarem no Distrito
+Federal se reunir�o presencialmente e os membros que se encontrem em outros
+entes federativos participar�o da reuni�o por meio de videoconfer�ncia.
+(Inclu�do pelo
+Decreto n� 9.832, de 2019)
+� 5� Os membros do Comit� Gestor da Seguran�a da
+Informa��o que se encontrarem no Distrito Federal se reunir�o
+presencialmente ou por videoconfer�ncia, nos termos do disposto no
+Decreto n� 10.416, de 7 de julho de 2020 , e os membros que se encontrarem em outros
+entes federativos participar�o da reuni�o por meio de videoconfer�ncia.
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+Art. 10-A. O Comit�
+Gestor da Seguran�a da Informa��o poder� instituir subcolegiados com o
+objetivo de tratar de tem�ticas espec�ficas relacionadas � seguran�a da
+informa��o.
+(Inclu�do pelo
+Decreto n� 9.832, de 2019)
+Art. 10-B. Os subcolegiados a que se refere o art. 10-A:
+(Inclu�do pelo
+Decreto n� 9.832, de 2019)
+I - ser�o compostos na
+forma de ato do Comit� Gestor da Seguran�a da Informa��o;
+(Inclu�do pelo
+Decreto n� 9.832, de 2019)
+II - n�o poder�o ter mais
+de sete membros;
+(Inclu�do pelo
+Decreto n� 9.832, de 2019)
+III - ter�o car�ter
+tempor�rio e dura��o n�o superior a um ano; e
+(Inclu�do pelo
+Decreto n� 9.832, de 2019)
+IV
+- est�o limitados a quatro operando simultaneamente.
+(Inclu�do pelo
+Decreto n� 9.832, de 2019)
+Art. 11. O Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica prestar� o apoio t�cnico e administrativo necess�rio ao Comit�.
+Art. 11. A
+Secretaria-Executiva do Comit� Gestor da Seguran�a da Informa��o ser�
+exercida pelo Departamento de Seguran�a da Informa��o da Secretaria de
+Coordena��o de Sistemas do Gabinete de Seguran�a Institucional da
+Presid�ncia da Rep�blica.
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+Art. 11. A Secretaria-Executiva do Comit� Gestor da
+Seguran�a da Informa��o ser� exercida pelo Departamento de Seguran�a da
+Informa��o do Gabinete de Seguran�a Institucional da Presid�ncia da
+Rep�blica.
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+CAP�TULO VI
+DAS COMPET�NCIAS
+Se��o I
+Do Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica
+Art. 12. Compete ao Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica, nos temas relacionados � seguran�a da informa��o, assessorado pelo Comit� Gestor da Seguran�a da Informa��o:
+Art. 12. Compete ao Gabinete de Seguran�a
+Institucional da Presid�ncia da Rep�blica, nos temas relacionados �
+seguran�a da informa��o:
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+I - estabelecer norma sobre a defini��o dos requisitos metodol�gicos para a implementa��o da gest�o de risco dos ativos da informa��o pelos �rg�os e pelas entidades da administra��o p�blica federal;
+II - aprovar diretrizes, estrat�gias, normas e recomenda��es;
+III - elaborar e implementar programas sobre seguran�a da informa��o destinados � conscientiza��o e � capacita��o dos servidores p�blicos federais e da sociedade;
+IV - acompanhar a evolu��o doutrin�ria e tecnol�gica, em �mbito nacional e internacional;
+V - elaborar e publicar a Estrat�gia Nacional de Seguran�a da Informa��o, em articula��o com o Comit� Interministerial para a Transforma��o Digital, criado pelo
+Decreto n� 9.319, de 21 de mar�o de 2018
+VI - apoiar a elabora��o dos planos nacionais vinculados � Estrat�gia Nacional de Seguran�a da Informa��o;
+VII - estabelecer crit�rios que permitam o monitoramento e a avalia��o da execu��o da PNSI e de seus instrumentos;
+VIII - propor a edi��o dos atos normativos necess�rios � execu��o da PNSI; e
+VIII - propor a edi��o dos atos normativos
+necess�rios � execu��o da PNSI;
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+IX - estabelecer os requisitos m�nimos de seguran�a para o uso dos produtos que incorporem recursos de seguran�a da informa��o, de modo a assegurar a disponibilidade, a integridade, a confidencialidade e a autenticidade da informa��o e garantir a interoperabilidade entre os sistemas de seguran�a da informa��o, ressalvadas as compet�ncias espec�ficas de outros �rg�os.
+IX - estabelecer os requisitos m�nimos de seguran�a
+para o uso dos produtos que incorporem recursos de seguran�a da informa��o,
+de modo a assegurar a disponibilidade, a integridade, a confidencialidade e
+a autenticidade da informa��o e garantir a interoperabilidade entre os
+sistemas de seguran�a da informa��o, ressalvadas as compet�ncias espec�ficas
+de outros �rg�os; e
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+X - articular-se com centros nacionais de preven��o,
+tratamento e resposta a incidentes cibern�ticos pertencentes a outros
+pa�ses.
+(Inclu�do pelo
+Decreto n� 10.641, de 2021)
+Par�grafo �nico. Nas hip�teses de que trata o inciso IX do
+caput
+, quando se tratar de compet�ncia de outro �rg�o, caber� ao Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica propor as atualiza��es referentes � seguran�a da informa��o.
+Se��o II
+Do Minist�rio da Defesa
+Art. 13. Ao Minist�rio da Defesa compete:
+I - apoiar o Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica nas atividades relacionadas � seguran�a cibern�tica; e
+II - elaborar as diretrizes, os dispositivos e os procedimentos de defesa que atuem nos sistemas relacionados � defesa nacional contra ataques cibern�ticos.
+Se��o III
+Do Minist�rio da Transpar�ncia e Controladoria-Geral da Uni�o
+Se��o III
+Da Controladoria-Geral da Uni�o
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+Art. 14. Ao Minist�rio da Transpar�ncia e Controladoria-Geral da Uni�o compete auditar a execu��o das a��es da Pol�tica Nacional de Seguran�a da Informa��o de responsabilidade dos �rg�os e das entidades da administra��o p�blica federal.
+Art. 14. Compete � Controladoria-Geral da Uni�o
+auditar a execu��o das a��es da PNSI de responsabilidade dos �rg�os e das
+entidades da administra��o p�blica federal.
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+Se��o IV
+Dos �rg�os e das entidades da administra��o p�blica federal
+Art. 15. Aos �rg�os e �s entidades da administra��o p�blica federal, em seu �mbito de atua��o, compete:
+I - implementar a PNSI;
+II - elaborar sua pol�tica de seguran�a da informa��o e as normas internas de seguran�a da informa��o, observadas as normas de seguran�a da informa��o editadas pelo Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica;
+III - designar um gestor de seguran�a da informa��o interno, indicado pela alta administra��o do �rg�o ou da entidade;
+IV - instituir comit� de seguran�a da informa��o ou estrutura equivalente, para deliberar sobre os assuntos relativos � PNSI;
+V - destinar recursos or�ament�rios para a��es de seguran�a da informa��o;
+VI - promover a��es de capacita��o e profissionaliza��o dos recursos humanos em temas relacionados � seguran�a da informa��o;
+VII - instituir e implementar equipe de tratamento e resposta a incidentes em redes computacionais, que compor� a rede de equipes formada pelos �rg�os e entidades da administra��o p�blica federal, coordenada pelo Centro de Tratamento de Incidentes de Redes do Governo do Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica;
+VII - instituir e implementar equipe de preven��o,
+tratamento e resposta a incidentes cibern�ticos, que compor� a rede de
+equipes dos �rg�os e das entidades da administra��o p�blica federal,
+coordenada pelo Centro de Preven��o, Tratamento e Resposta a Incidentes
+Cibern�ticos de Governo do Departamento de Seguran�a da Informa��o do
+Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica;
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+VIII - coordenar e executar as a��es de seguran�a da informa��o no �mbito de sua atua��o;
+IX - consolidar e analisar os resultados dos trabalhos de auditoria sobre a gest�o de seguran�a da informa��o; e
+X - aplicar as a��es corretivas e disciplinares cab�veis nos casos de viola��o da seguran�a da informa��o.
+� 1� O comit� de seguran�a da informa��o interno de que trata o inciso IV do
+caput
+ser� composto por:
+I - o gestor da seguran�a da informa��o do �rg�o ou da entidade, de que trata o inciso III do
+caput
+, que o coordenar�;
+II - um representante da Secretaria-Executiva ou da unidade equivalente do �rg�o ou da entidade;
+III - um representante de cada unidade final�stica do �rg�o ou da entidade; e
+IV - o titular da unidade de tecnologia da informa��o e comunica��o do �rg�o ou da entidade.
+� 2� Os membros do comit� de seguran�a da informa��o interno de que tratam os incisos II e III do � 1� dever�o ocupar cargo em comiss�o do Grupo-Dire��o e Assessoramento Superiores, de n�vel 5 ou superior, ou equivalente.
+� 2� Os membros do comit�
+de seguran�a da informa��o interno de que tratam os incisos I a III do � 1�
+dever�o ocupar cargo em comiss�o ou fun��o de confian�a de n�vel 5 ou
+superior do Grupo-Dire��o e Assessoramento Superiores ou equivalente.
+(Reda��o dada
+pelo Decreto n� 9.832, de 2019)
+(Revogado pelo
+Decreto n� 10.641, de 2021)
+� 3� O comit� de seguran�a da informa��o interno dos �rg�os e das entidades da administra��o p�blica federal tem as seguintes atribui��es:
+I - assessorar na implementa��o das a��es de seguran�a da informa��o;
+II - constituir grupos de trabalho para tratar de temas e propor solu��es espec�ficas sobre seguran�a da informa��o;
+III - propor altera��es na pol�tica de seguran�a da informa��o interna; e
+IV - propor normas internas relativas � seguran�a da informa��o.
+� 4� O gestor de seguran�a da informa��o ser�
+designado dentre os servidores p�blicos ocupantes de cargo efetivo,
+empregados p�blicos e militares do �rg�o ou da entidade, com forma��o ou
+capacita��o t�cnica compat�vel com as normas estabelecidas por este Decreto.
+(Inclu�do pelo
+Decreto n� 10.641, de 2021)
+Art. 16. Os �rg�os e as entidades da administra��o p�blica federal editar�o atos para definir a forma de funcionamento dos respectivos comit�s de seguran�a da informa��o, observado o disposto neste Decreto e na legisla��o.
+Art. 17. Compete � alta administra��o dos �rg�os e das entidades da administra��o p�blica federal a governan�a da seguran�a da informa��o, e especialmente:
+I - promover a simplifica��o administrativa, a moderniza��o da gest�o p�blica e a integra��o dos servi�os p�blicos, especialmente aqueles prestados por meio eletr�nico, com vistas � seguran�a da informa��o;
+II - monitorar o desempenho e avaliar a concep��o, a implementa��o e os resultados da sua pol�tica de seguran�a da informa��o e das normas internas de seguran�a da informa��o;
+III - incorporar padr�es elevados de conduta para a garantia da seguran�a da informa��o e orientar o comportamento dos agentes p�blicos, em conson�ncia com as fun��es e as atribui��es de seus �rg�os e de suas entidades;
+IV - planejar a execu��o de programas, de projetos e de processos relativos � seguran�a da informa��o;
+V - estabelecer diretrizes para o processo de gest�o de riscos de seguran�a da informa��o;
+VI - observar as normas que estabelecem requisitos e procedimentos para a seguran�a da informa��o publicadas pelo Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica;
+VII - implementar controles internos fundamentados na gest�o de riscos da seguran�a da informa��o;
+VIII - instituir um sistema de gest�o de seguran�a da informa��o;
+IX - implantar mecanismo de comunica��o imediata sobre a exist�ncia de vulnerabilidades ou incidentes de seguran�a que impactem ou possam impactar os servi�os prestados ou contratados pelos �rg�os da administra��o p�blica federal; e
+X - observar as normas e os procedimentos espec�ficos aplic�veis, implementar e manter mecanismos, inst�ncias e pr�ticas de governan�a da seguran�a da informa��o em conson�ncia com os princ�pios e as diretrizes estabelecidos neste Decreto e na legisla��o.
+� 1� O planejamento e a execu��o de programas, de projetos e de processos relativos � seguran�a da informa��o de que trata o inciso IV do
+caput
+ser�o orientados para:
+I - a utiliza��o de recursos criptogr�ficos adequados aos graus de sigilo exigidos no tratamento das informa��es e as restri��es de acesso estabelecidas para o compartilhamento das informa��es, observada a legisla��o;
+II - o aumento da resili�ncia dos ativos de tecnologia da informa��o e comunica��o e dos servi�os definidos como estrat�gicos pelo Governo federal;
+III - a cont�nua coopera��o entre as equipes de resposta e de tratamento de incidentes de seguran�a na administra��o p�blica federal direta, aut�rquica e fundacional e o Centro de Tratamento de Incidentes de Redes do Governo do Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica; e
+III - a cont�nua coopera��o entre as equipes de
+preven��o, tratamento e resposta a incidentes cibern�ticos na administra��o
+p�blica federal direta, aut�rquica e fundacional e o Centro de Preven��o,
+Tratamento e Resposta a Incidentes Cibern�ticos de Governo do Departamento
+de Seguran�a da Informa��o do Gabinete de Seguran�a Institucional da
+Presid�ncia da Rep�blica; e
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+IV - a prioriza��o da interoperabilidade de tecnologias, processos, informa��es e dados, com a promo��o:
+a) da integra��o e do compartilhamento dos ativos de informa��o do Governo federal ou daqueles sob sua cust�dia;
+b) da uniformiza��o e da redu��o da fragmenta��o das bases de informa��o de interesse do Governo federal e da sociedade;
+c) da integra��o e do compartilhamento das redes de telecomunica��es da administra��o p�blica federal direta, aut�rquica e fundacional; e
+d) da padroniza��o da comunica��o entre sistemas.
+� 2� O sistema de gest�o de seguran�a da informa��o de que trata o inciso VIII do
+caput
+identificar� as necessidades da organiza��o quanto aos requisitos de seguran�a da informa��o e implementar� o processo de gest�o de riscos de seguran�a da informa��o.
+Art. 18. Os �rg�os e as entidades da administra��o p�blica federal direta, aut�rquica e fundacional, nos atos administrativos que envolvam ativos de tecnologia da informa��o, sem preju�zo dos demais dispositivos legais, incorporar�o as normas de seguran�a da informa��o estabelecidas pelo Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica e os normativos de gest�o de tecnologia da informa��o e comunica��o e de seguran�a da informa��o do Minist�rio do Planejamento, Desenvolvimento e Gest�o.
+Art. 18. Os �rg�os e as entidades da administra��o
+p�blica federal direta, aut�rquica e fundacional, nos atos administrativos
+que envolvam ativos de tecnologia da informa��o, sem preju�zo dos demais
+dispositivos legais, incorporar�o as normas de seguran�a da informa��o
+estabelecidas pelo Gabinete de Seguran�a Institucional da Presid�ncia da
+Rep�blica.
+(Reda��o dada
+pelo Decreto n� 10.641, de 2021)
+CAP�TULO VII
+DISPOSI��ES FINAIS
+Art. 19. O Ministro de Estado Chefe do Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica editar�, no prazo de noventa dias, contado da data de publica��o deste Decreto, gloss�rio com a defini��o dos termos t�cnicos e operacionais relativos � seguran�a da informa��o, que ser� utilizado como refer�ncia conceitual para as normas e os regulamentos relacionados � seguran�a da informa��o.
+Art. 20. O Ministro de Estado Chefe do Gabinete de Seguran�a Institucional da Presid�ncia da Rep�blica poder� expedir atos complementares necess�rios � aplica��o deste Decreto.
+Art. 21. O
+Decreto n� 2.295, de 4 de agosto de 1997
+, passa a vigorar com as seguintes altera��es:
+(Revogado pelo
+Decreto n� 10.631, de 2021)
+“Art. 1� .........................................................................................................................
+.............................................................................................................................................
+III -
+aquisi��o de equipamentos e contrata��o de servi�os t�cnicos especializados para as �reas de intelig�ncia, de seguran�a da informa��o, de seguran�a cibern�tica, de seguran�a das comunica��es e de defesa cibern�tica.
+.....................................................................................................................................” (NR)
+Art. 22. Ficam revogados:
+I - o Decreto
+n� 3.505, de 13 de junho de 2000
+; e
+II - o
+Decreto n� 8.135, de 4 de novembro de 2013
+Art. 23. Este Decreto entra em vigor na data de sua publica��o.
+Bras�lia, 26 de dezembro de 2018; 197� da Independ�ncia e 130� da Rep�blica.
+MICHEL TEMER
+Sergio Westphalen Etchegoyen
+Este texto n�o substitui o publicado no DOU de 27.12.2018

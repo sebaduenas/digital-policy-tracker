@@ -1,0 +1,139 @@
+Política Nacional de Ciberseguridad - Agencia Nacional de Ciberseguridad
+Enlace al portal principal del Gobierno de Chile
+Sitio
+oficial
+del Gobierno de Chile
+¿Cómo lo verifico?
+Campo de texto
+de búsqueda
+Buscar
+Reportar
+CSIRT
+Ley Marco
+Ciberlupa
+Abrir menú principal
+Quiénes somos
+Misión y objetivos
+Directora Nacional (s)
+Organigrama
+Convenios Internacionales
+Noticias
+Eventos
+Política Nacional de Ciberseguridad
+Normativa
+Ley Marco de Ciberseguridad
+Leyes
+Decretos
+Resoluciones
+Instrucciones
+Normas Sectoriales
+Comité Interministerial
+Misión y objetivos
+Integrantes
+Ciberconsejos
+9 básicos de la ciberseguridad
+Reportar
+CSIRT
+Ley Marco
+Ciberlupa
+Agencia Nacional de Ciberseguridad
+Política Nacional de Ciberseguridad
+Compartir:
+Facebook
+Twitter
+Mastodon
+Telegram
+Twitter
+WhatsApp
+Bluesky
+Política Nacional de Ciberseguridad
+La Política Nacional de Ciberseguridad (2023-2028) fue aprobada en diciembre de 2023 y contiene los lineamientos estratégicos del Estado de Chile en materia de ciberseguridad. Tal como la Política anterior, está estructurada bajo cinco objetivos principales, los que en esta ocasión serán acompañados por cuatro dimensiones transversales, con el fin de enfatizar la protección y promoción de los derechos de las personas.
+Objetivos centrales
+Generación de una cultura de ciberseguridad
+Chile desarrollará una cultura de la ciberseguridad en torno a la educación, buenas prácticas, responsabilidad en el manejo de tecnologías digitales, y promoción y garantía de los derechos de las personas. Para ello, se trabajará en:
+Generar e implementar un plan matriz de introducción y mejora de la educación en higiene digital y ciberseguridad
+Considerado para el sistema de enseñanza básica, media científico-humanista, media técnico-profesional y superior. En particular, este plan matriz considerará de manera preferente la generación de carreras de nivel técnico para la educación técnico-profesional.
+Diseñar e implementar un plan de concienciación nacional sobre ciberseguridad y privacidad
+Para que la población general adquiera nociones de higiene digital, a través de municipalidades y organizaciones del sector civil.
+Generar y financiar investigación y desarrollo (I+D) en ciberseguridad
+En aquellas áreas que, sirviendo a los objetivos del país, permitan generar círculos virtuosos entre la academia, la industria y el sector público.
+Protección de los derechos de las personas
+El Estado protegerá y promoverá la protección de los derechos de las personas en Internet, a través del fortalecimiento de la institucionalidad existente en materias de ciberseguridad; y de la generación, adopción y promoción de los mecanismos y las herramientas tecnológicas suficientes para que cada persona pueda integrarse a la sociedad y desarrollarse y expresarse plenamente. Para ello, se considera fundamental:
+Generar un programa de capacitación básica para todos los funcionarios públicos
+Para la protección de datos personales, y en hábitos y medidas básicas de seguridad digital.
+Fortalecer el marco normativo de protección a los datos personales y de ciberseguridad
+Esto, a través de la actualización de las leyes de protección de datos y la aprobación de la Ley Marco de Ciberseguridad.
+Fomento a la industria de ciberseguridad
+El país promoverá el desarrollo de una industria de la ciberseguridad, que proteja a las personas y las organizaciones y que sirva a sus objetivos estratégicos. Para ello, se trabajará en:
+Promocionar los productos y servicios de las empresas locales en ciberseguridad en el extranjero
+Diseñar e implementar incentivos tributarios y económicos para la creación de emprendimientos tecnológicos en ciberseguridad
+Como así también para la instalación de empresas internacionales de ciberseguridad en Chile.
+Crear institutos de transferencia tecnológica entre la industria y la academia en materias de ciberseguridad
+para que realicen investigación aplicada en aquellas necesidades que tenga la industria y el sector público.
+Infraestructura Crítica
+Contar con una infraestructura de la información robusta y resiliente, preparada para resistir y recuperarse de incidentes de ciberseguridad, bajo una óptima gestión de riesgos. Para esto se considera:
+Fortalecer la resiliencia de nuestros servicios esenciales frente a incidentes de ciberseguridad
+Las instituciones públicas y privadas deben mejorar su nivel de madurez en ciberseguridad y su capacidad de sobreponerse a brechas y ataques. Para las instituciones que no tengan recursos suficientes, el Estado entregará recomendaciones y proveerá recursos gratuitos mínimos que les permitan protegerse de forma básica frente a los ataques más frecuentes o de mayor impacto.
+Fortalecer la resiliencia física de la red en Chile
+El Estado deberá coordinar y priorizar con el sector privado la conexión de lugares previamente no conectados, o donde no exista redundancia de conexiones con al menos otros dos lugares.
+Crear una Agencia Nacional de Ciberseguridad que opere como el órgano rector de la ciberseguridad en Chile
+La Agencia deberá tener facultades normativas, fiscalizadoras y sancionatorias, que ayude a incrementar sustancialmente el nivel de madurez institucional en ciberseguridad, tanto en el sector público como privado.
+Cooperación y coordinación nacional e internacional
+Los organismos públicos y privados deben establecer instancias de cooperación con el resto del sector público, de la industria, o de la autoridad institucional existente en ciberseguridad, con el propósito de a) comunicar y difundir sus esfuerzos en ciberseguridad, b) evitar la duplicación de trabajo y pérdida de recursos, y c) hacer eficientes los esfuerzos en ciberseguridad. Para esto debemos:
+Reportar, en el caso de las instituciones públicas, las iniciativas desarrolladas en ciberseguridad a la institucionalidad existente
+Cuando éstas existan, de manera de tener un panorama claro y completo en términos de ciberseguridad.
+Generar instancias de colaboración públicas, privadas, y mixtas
+En educación, infraestructura, protección de derechos, fomento a la industria, y otros temas que puedan ser de interés del país, todo con el propósito de relevar las iniciativas en desarrollo y coordinarlas adecuadamente.
+Fomentar la generación de capítulos de ciberseguridad en las organizaciones profesionales, y entidades gremiales y de la industria
+Establecer relaciones de cooperación con instituciones de ciberseguridad de países avanzados en el área
+Para aprender sobre sus experiencias y traer experiencia relevante a la implementación de iniciativas o proyectos en ciberseguridad, además de fortalecer la agenda de trabajo con el Programa de Ciberseguridad de la Organización de Estados Americanos.
+Objetivos transversales
+Protección de la infancia
+Todas iniciativas deben considerar protección preferente a niñas, niños y adolescentes.
+Protección al adulto mayor
+Todas las iniciativas deben minimizar su impacto negativo sobre los adultos mayores.
+Protección del Medio Ambiente
+Todas las iniciativas deben minimizar su impacto negativo sobre el medio ambiente.
+Paridad de género
+Todas las iniciativas deben considerar de manera preferente a la mujer, tanto en términos de su protección e inclusión como de la acción positiva dirigida a corregir las inequidades que siguen existiendo en nuestra sociedad.
+Política Nacional de Ciberseguridad 2023 - 2028 (PDF)
+National Cybersecurity Policy 2023 - 2028 (PDF)
+Enlaces Relacionados
+Plan de Acción Política Nacional de Ciberseguridad 2023-2028.
+Política Nacional de Ciberseguridad 2017-2022.
+Documentos Relacionados
+Reporte de resultados de audiencias públicas
+Resultados primera consulta pública
+Resultados segunda consulta pública
+Resultados de la Política Nacional de Ciberseguridad 2017-2022: avances y brechas sobre la inclusión del enfoque de género. Informe de Paz Peña.
+Diagnóstico de especialistas sobre las prioridades de la perspectiva de género en la nueva Política Nacional de Ciberseguridad. Informe de Paz Peña.
+Propuesta de acciones para fortalecer el enfoque de género en la nueva Política Nacional de Ciberseguridad (PNCS). Informe de Paz Peña.
+Contacto
+1510
+[email protected]
+Teatinos 220, piso 10, Santiago, Chile
+Ley del Lobby
+Plataforma Ley del Lobby
+Ley de Transparencia
+Solicitud de Información
+Transparencia Activa
+Ley de Presupuestos
+Definiciones Estratégicas
+Secciones
+Quiénes somos
+Noticias
+Eventos
+Política Nacional de Ciberseguridad
+Normativa
+Comité Interministerial
+Ciberconsejos
+9 básicos de la ciberseguridad
+Política de Privacidad
+API Pública Ciberseguridad
+Estado de nuestros servicios
+Cuenta en Twitter/X
+Página en Facebook
+Cuenta en Instagram
+Página en LinkedIn
+Página en YouTube
+Cuenta en Bluesky

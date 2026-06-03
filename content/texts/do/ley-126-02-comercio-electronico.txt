@@ -1,0 +1,1377 @@
+LEY No.126-02
+
+    SOBRE COMERCIO ELECTRÓNICO, DOCUMENTOS Y FIRMA DIGITAL
+
+
+CONSIDERANDO: Que el cambio cada vez más acelerado de la
+tecnología   informática    y  de    las    telecomunicaciones,
+combinado    con   el    crecimiento     exponencial    de   la
+interconexión digital de las naciones, está generando una
+profunda transformación del quehacer humano en todas su
+dimensiones,
+y por ende del orden social y de la economía global;
+
+CONSIDERANDO:   Que   esta   convergencia tecnológica ha
+revolucionado la forma en la que la sociedad produce,
+guarda y utiliza la información;
+
+CONSIDERANDO: Que el rápido crecimiento de redes a través de
+fronteras nacionales ha borrado los límites geopolíticos y
+económicos entre los que proporcionan, suministran y
+originan la información, democratizan el acceso de los
+países y las personas al conocimiento y los mercados
+globales;
+
+CONSIDERANDO:    Que   las    nuevas    tecnologías   están
+transformando las prácticas tradicionales de comercio al
+permitir la interconexión directa de los sistemas críticos
+de comercio y sus componentes claves, clientes proveedores,
+distribuidores y empleados que posibilitan el comercio
+electrónico en sus diferentes manifestaciones;
+
+CONSIDERANDO: Que el comercio electrónico mundial es
+responsable de los profundos cambios registrados en la
+manera de hacer negocios, por lo cual altera la relación
+entre productores y consumidores de bienes y servicios y
+estimula la rápida integración de los mercados globales.
+Además, en la medida en que crece el comercio electrónico
+mundial, las empresas buscan una estructura permanente para
+las transacciones del comercio electrónico avalado y
+reconocido por los gobiernos nacionales;
+
+CONSIDERANDO: Que el comercio electrónico hace eficientes
+mercados al aumentar de forma exponencial las opciones y
+las elecciones que tienen a su disposición proveedores y
+consumidores, y tiende a facilitar el intercambio entre las
+partes contratantes de información, prácticas óptimas y de
+retroacciones en el mercado en tiempo real;
+CONSIDERANDO: Que las transacciones de intercambio de
+bienes, de información y de servicios entre personas
+naturales y/o jurídicas se beneficiarán enormemente de la
+eficiencia, seguridad jurídica y alcance global que les
+otorga el hecho de su realización ordenada y reglamentada
+sobre los medios digitales de almacenamiento y transporte
+de datos a través de las redes globales de información;
+
+CONSIDERANDO: Que las instituciones y sistemas reguladores
+del Estado deben incrementar su productividad y efectividad
+para garantizar la confianza, protección y seguridad
+jurídica de las partes involucradas en transacciones
+económicas   electrónicas   dentro   del   ámbito   de   la
+globalización tecnológica;
+
+CONSIDERANDO: Que la autenticación y seguridad de documentos
+y mensajes digitales son fundamentales para asegurar a las
+partes involucradas que sus transacciones de comercio
+electrónico se hacen en un ambiente libre de ataques
+ilegales o infracciones, o que, de darse éstos por
+excepción, dichas transacciones satisfacen las condiciones
+necesarias    para   poder   dirimir   conflictos,   asignar
+responsabilidades y reparar daños como fuese el caso;
+
+CONSIDERANDO: Que los Códigos Civil y de Comercio de la
+República   Dominicana   rigen   cuestiones   de   comercio,
+contratos y responsabilidad civil, y por ende son el
+fundamento esencial del comercio electrónico en el país.
+
+TÍTULO I: DISPOSICIONES GENERALES
+Art. 1.- Ámbito de aplicación. La presente ley será
+aplicable a todo tipo de información en forma de documento
+digital o mensaje de datos, salvo en los siguientes casos:
+a) En las obligaciones contraídas por el Estado Dominicano
+en virtud de convenios o tratados internacionales;
+
+b) En las advertencias escritas que, por disposiciones
+legales, deban ir necesariamente impresas en ciertos tipos
+de   productos  en   razón   al  riesgo  que  implica   su
+comercialización, uso o consumo.
+
+
+Art. 2.- Definiciones. Para los efectos de la presente ley
+se entenderá por:
+a) Comercio electrónico: Toda relación de índole comercial,
+sea o no contractual, estructurada a partir de la
+utilización de uno o más documentos digitales o mensajes de
+datos o de cualquier otro medio similar. Las relaciones de
+índole comercial, comprenden, sin limitarse a ellas, las
+siguientes operaciones:
+
+- Toda operación comercial de suministro o intercambio de
+bienes, servicios o información;
+
+- Todo acuerdo de distribución;
+- Toda operación de representación o mandato comercial;
+- De compra de cuentas por cobrar, a precio de descuento
+(factoring);
+- De alquiler o arrendamiento (leasing);
+- De construcción de obras;
+- De consultoría;
+- De ingeniería;
+- De concesión de licencias;
+- De inversión;
+- De financiación;
+- De banca;
+- De seguros;
+- Todo acuerdo de concesión o explotación de un servicio
+público;
+- De empresa conjunta y otras formas de cooperación
+industrial o comercial;
+- De transporte de mercancías o de pasajeros por vía aérea,
+marítima y férrea o por carreteras.
+b) Documento digital: La información codificada en forma
+digital sobre un soporte lógico o físico, en la cual se
+usen métodos electrónicos, fotolitográficos, ópticos o
+similares que se constituyen en representación de actos,
+hechos o datos jurídicamente relevantes;
+
+c) Mensajes de datos: La información generada, enviada,
+recibida, almacenada o comunicada por medios electrónicos,
+ópticos o similares, como pudieran ser, entre otros, el
+intercambio   electrónico   de  datos   (EDI),    el correo
+electrónico, el telegrama, el télex o el telefax;
+
+d) Intercambio electrónico de datos (EDI): La transmisión
+electrónica de información de una computadora a otra,
+cuando la información está estructurada conforme a alguna
+norma técnica convenida al efecto;
+e) Iniciador: Toda persona que, al tenor de un mensaje de
+datos, haya actuado por su cuenta o en cuyo nombre se haya
+actuado, para enviar o generar dicho mensaje antes de ser
+archivado, si este es el caso, pero que no lo haya hecho a
+título de intermediario con respecto a ese mensaje;
+f) Destinatario: La persona designada por el iniciador para
+recibir el mensaje, pero que no esté actuando a título de
+intermediario con respecto a ese mensaje;
+
+g) Intermediario: Toda persona que, en relación con un
+determinado mensaje de datos, actuando por cuenta de otra,
+envíe, reciba o archive dicho mensaje o preste algún otro
+servicio con respecto a él;
+
+h) Sistema de información: Se entenderá por esto todo
+sistema utilizado para generar, enviar, recibir, archivar o
+procesar de alguna otra forma documentos digitales o
+mensajes de datos;
+
+i) Firma digital: Se entenderá como un valor numérico que se
+adhiere a un mensaje de datos y que, utilizando un
+procedimiento matemático conocido, vinculado a la clave del
+iniciador y al texto del mensaje, permite determinar que
+este valor se ha obtenido exclusivamente con la clave del
+iniciador y el texto del mensaje, y que el mensaje inicial
+no ha sido modificado después de efectuada la transmisión;
+
+j) Criptografía: Es la rama de las matemáticas aplicadas y
+la ciencia informática que se ocupa de la transformación de
+documentos   digitales   o   mensajes  de   datos   de   su
+representación original a una representación ininteligible
+e indescifrable que protege y preserva su contenido y
+forma, y de la recuperación del documento o mensaje de
+datos original a partir de ésta;
+
+k) Entidad de certificación: Es aquella institución o
+persona jurídica que, autorizada conforme a la presente
+ley, está facultada para emitir certificados en relación
+con las firmas digitales de las personas, ofrecer o
+facilitar los servicios de registro y estampado cronológico
+de la transmisión y recepción de mensajes de datos, así
+como cumplir funciones relativas a las comunicaciones
+basadas en las firmas digitales;
+
+l) Certificado: Es el documento digital emitido y firmado
+digitalmente   por  una   entidad  de  certificación,  que
+identifica unívocamente a un suscritor durante el período
+de vigencia del certificado, y que se constituye en prueba
+de que dicho suscriptor es fuente u originador del
+contenido de un documento digital o mensaje de datos que
+incorpore su certificado asociado;
+m) Repositorio: Es un sistema de información para el
+almacenamiento y recuperación de certificados u otro tipo
+de información relevante para la expedición y validación de
+los mismos;
+
+n) Suscriptor: Es la persona que contrata con una entidad de
+certificación la expedición de un certificado, para que sea
+nombrada o identificada en él. Esta persona mantiene bajo
+su estricto y exclusivo control el procedimiento para
+generar su firma digital;
+
+ñ) Usuario: Es la persona que sin ser suscriptor y sin
+contratar los servicios de emisión de certificados de una
+entidad de certificación, puede, sin embargo, validar la
+integridad y autenticidad de un documento digital o de un
+mensaje de datos, con base en un certificado del suscriptor
+originador del mensaje;
+
+o) Revocar un certificado: Finalizar definitivamente el
+período de validez de un certificado, desde una fecha
+específica, en adelante;
+
+p) Suspender un certificado: Interrumpir temporalmente el
+período operacional de un certificado desde una fecha
+específica, en adelante.
+
+Art. 3.- Interpretación. En la interpretación de la presente
+ley, se tendrán en cuenta las recomendaciones de organismos
+multilaterales en la materia, la necesidad de promover la
+uniformidad de su aplicación y la observancia de la buena
+fe. Las cuestiones relativas a materias que se rijan por la
+presente ley, y que no estén expresamente resueltas en
+ningún texto, serán dirimidas de conformidad con los
+principios   generales   en  que   se  inspira,  esta   ley,
+incluyendo pero no limitados a:
+
+1. Facilitar el comercio electrónico entre y dentro de las
+naciones;
+
+2. Validar transacciones     entre partes que se hayan
+realizado   por medio de      las  nuevas tecnologías de
+información;
+
+3. Promover y apoyar la implantación de nuevas tecnologías;
+
+4. Promover la uniformidad de aplicación de la ley, y
+
+5. Apoyar las prácticas comerciales.
+Art. 4.- Reconocimiento jurídico de los documentos digitales
+y mensajes de datos. No se negarán efectos jurídicos,
+validez o fuerza obligatoria a todo tipo de información por
+la sola razón de que esté en forma de documento digital o
+mensaje de datos.
+
+
+TÍTULO II: APLICACIÓN DE LOS REQUISITOS JURÍDICOS DE LOS
+DOCUMENTOS DIGITALES Y MENSAJES DE DATOS
+
+Art. 5.- Constancia por escrito. Cuando cualquier norma
+requiera que la información conste por escrito, dicho
+requisito quedará satisfecho con un documento digital o
+mensaje de datos, si la información que éste contiene es
+accesible para su posterior consulta y si el documento
+digital o mensaje de datos cumple con los requisitos de
+validez establecidos en la presente ley. Lo dispuesto en
+este artículo se aplicará tanto si el requisito establecido
+en cualquier norma constituye una obligación, como si las
+normas prevén consecuencias      en el   caso  de  que   la
+información no conste por escrito.
+
+Art. 6.- Firma. Cuando cualquier norma exija la presencia de
+una firma o establezca ciertas consecuencias en ausencia de
+la misma, se entenderá satisfecho dicho requerimiento en
+relación con un documento digital o un mensaje de datos, si
+éste ha sido firmado digitalmente y la firma digital cumple
+con los requisitos de validez establecidos en la presente
+ley.
+
+Párrafo.- En toda interacción con entidad pública que
+requiera de documento firmado, este requisito se podrá
+satisfacer con uno o más documentos digitales o mensajes de
+datos que sean firmados digitalmente conforme a los
+requerimientos contenidos en esta ley. La reglamentación de
+esta ley especificará en detalle las condiciones para el
+uso   de  firma   digital,   certificados   y  entidades   de
+certificación en interacciones documentales entre entidades
+del Estado o entre personas privadas y entes estatales. Lo
+dispuesto en este artículo se aplicará tanto si el
+requisito establecido en cualquier norma constituye una
+obligación,   como   si   las   normas   simplemente   prevén
+consecuencias en el caso de que no exista una firma.
+
+Art. 7.- Original. Cuando cualquier norma requiera que la
+información sea presentada y conservada en su forma
+original, ese requisito quedará satisfecho con un documento
+digital o un mensaje de datos, si:
+a) Existe una garantía confiable de que se ha conservado la
+integridad de la información, a partir del momento en que
+se generó por primera vez su forma definitiva, como
+documento digital, mensaje de datos u otra forma;
+b) De requerirse que la información sea presentada, si
+dicha información puede ser mostrada a la persona a quien
+se debe presentar.
+
+
+Párrafo.- Lo dispuesto en este artículo se aplicará tanto si
+el requisito establecido en cualquier norma constituye una
+obligación,   como   si   las  normas   simplemente   prevén
+consecuencias en el caso que la información no sea
+presentada o conservada en su forma original.
+
+Art. 8.- Integridad del documento digital o mensaje de datos.
+Para efectos del artículo anterior, se considerará que la
+información consignada en un documento digital o mensajes
+de datos es íntegra, si ésta ha permanecido completa e
+inalterada, salvo la adición de algún endoso o de algún
+cambio que sea inherente al proceso de comunicación,
+archivo o presentación. El grado de confiabilidad requerido
+será determinado a la luz de los fines para los que se
+generó la información y de todas las circunstancias
+relevantes del caso.
+
+Art. 9.- Admisibilidad y fuerza probatoria de los documentos
+digitales y mensajes de datos. Los documentos digitales y
+mensajes de datos serán admisibles como medios de prueba y
+tendrán la misma fuerza probatoria otorgada a los actos
+bajo firma privada en el Código Civil y en el Código de
+Procedimiento Civil.
+
+Párrafo.- En las actuaciones administrativas o judiciales no
+se negará eficacia, validez o fuerza obligatoria y
+probatoria a ningún tipo de información en forma de
+documento digital o mensaje de datos, por el solo hecho de
+que se trate de un documento digital o un mensaje de datos
+o en razón de no haber sido presentado en su forma
+original.
+
+Art. 10.- Criterio para valorar aprobatoriamente un documento
+digital o un mensaje de datos. Al valorar la fuerza
+probatoria de un Proy. de ley de Comercio Electrónico,
+Documentos y Firmas Digitales. Documento digital o mensaje
+de datos se tendrá presente la confiabilidad de la forma en
+la que se haya generado, archivado o comunicado el
+documento digital o mensaje, la confiabilidad de la forma
+en que se haya conservado la integridad de la información,
+la forma en la que se identifique a su creador o iniciador
+y cualquier otro factor pertinente.
+Art. 11.- Conservación de los documentos digitales y mensajes
+de datos. Cuando la ley requiera que ciertos documentos,
+registros o informaciones sean conservados, ese requisito
+quedará   satisfecho   mediante  la   conservación   de   los
+documentos digitales y/o mensajes de datos que sean del
+caso,   siempre   y  cuando   se   cumplan   las   siguientes
+condiciones:
+
+1. Que la información que contengan sea accesible para su
+posterior consulta;
+2. Que los documentos digitales o mensajes de datos sean
+conservados en el formato en que se hayan generado, enviado
+o recibido o en algún formato que permita demostrar que
+produce   con   exactitud   la  información   originalmente
+generada, enviada o recibida;
+
+3. En el caso del mensaje de datos que se conserve, de
+haber alguna, toda información que permita determinar el
+origen, el destino, la fecha y a la hora en que fue enviado
+o recibido el mensaje, y
+
+4. En el caso de documento digital que se conserve para
+efectos legales, toda información que permita determinar la
+fecha y hora en que el documento digital fue entregado para
+su conservación, la persona o personas que crearon el
+documento, la persona que entregó el documento y la persona
+receptora del mismo para conservación.
+
+Párrafo.- La información que tenga por única finalidad
+facilitar el acceso al documento digital o el envío o
+recepción de los mensajes de datos no estará sujeta a la
+obligación de conservación, salvo aquella información
+asociada con un mensaje de datos que constituya prueba de
+su transmisión desde su origen hasta su destino, incluyendo
+pero no limitado al enrutamiento del mensaje dentro de la
+red de datos respectiva, su número secuencial único y las
+fechas y horas exactas de recepción y retransmisión e
+identificadores universales de cada servidor o nodo de
+comunicaciones que esté involucrado en la transmisión
+original del mensaje.
+
+Art. 12.- Conservación de documentos digitales y mensajes de
+datos a través de terceros.
+
+El cumplimiento de la obligación de conservar documentos,
+registros o informaciones en mensajes de datos se podrá
+realizar a través de terceros, siempre y cuando se cumplan
+las condiciones enunciadas en el artículo anterior.
+
+TÍTULO III
+PARTE I: COMUNICACIÓN DE DOCUMENTOS DIGITALES Y MENSAJES DE
+DATOS.
+
+Art. 13.- Formación y validez de los contratos. En la
+formación del contrato, salvo acuerdo expreso entre las
+partes, la oferta y su aceptación podrán ser expresadas por
+medio de un documento digital, un mensaje de datos, o un
+mensaje de datos portador de un documento digital, como
+fuere el caso. No se negará validez o fuerza obligatoria a
+un contrato por la sola razón de haberse utilizado en su
+formación uno o más documentos digitales o mensajes de
+datos.
+
+Art. 14.- Reconocimiento de los      documentos    digitales   y
+mensajes de datos por las partes.
+
+En las relaciones entre el iniciador y el destinatario de
+un mensaje de datos, o entre las partes firmantes de un
+documento digital, cuando las hubiere, no se negarán
+efectos jurídicos, validez o fuerza obligatoria a una
+manifestación de voluntad u otra declaración por la sola
+razón de haberse hecho en forma de documento digital o
+mensaje de datos.
+
+Art. 15.- Comunicación y atribución de documentos digitales.
+
+Un documento digital se puede comunicar entre partes, ya
+sea por la entrega del documento digital en un medio físico
+de una parte a la otra, o a través de un mensaje de datos
+que,   adicional  a   su  contenido   propio,  incluya   una
+representación fiel y verificable del documento digital.
+
+Párrafo.- Se entenderá que un documento digital proviene de
+aquella persona o personas que firman digitalmente el
+documento, independientemente del soporte en que se haya
+gravado dicho documento y de su medio de comunicación. En
+el caso de transmisión del documento digital por mensaje de
+datos y ausencia de firma digital interna al documento, se
+entenderá que el documento digital proviene del iniciador
+del mensaje de datos conforme al artículo 16 de la presente
+ley.
+Art. 16.- Atribuciones de un mensaje de datos.
+
+Se entenderá que un mensaje de datos              proviene   del
+iniciador, cuando éste ha sido enviado por:
+1. El propio iniciador;
+
+2. Por alguna persona facultada para actuar en nombre del
+iniciador respecto de ese mensaje, o
+
+3. Por un sistema de información programado por el
+iniciador, o en su nombre, para que opere automáticamente.
+Art. 17.- Presunción del origen de un mensaje de datos.
+
+Se presume que un mensaje de datos ha sido enviado por el
+iniciador y, por lo tanto, el destinatario puede obrar en
+consecuencia, cuando:
+
+1. Haya aplicado en forma adecuada el procedimiento
+acordado previamente con el iniciador, para establecer que
+el mensaje de datos provenía efectivamente de éste, y
+
+2. El mensaje de datos que reciba el destinatario resulte
+de los actos de una persona cuya relación con el iniciador,
+o con algún mandatario suyo, le haya dado acceso a algún
+método utilizado por el iniciador para identificar un
+mensaje de datos como propio.
+
+Art. 18.- Concordancia del mensaje de datos enviado con el
+mensaje de datos recibido.
+
+Siempre que un mensaje de datos provenga del iniciador, o
+que se entienda que proviene de él, o siempre que el
+destinatario tenga derecho a actuar con arreglo a este
+supuesto, en las relaciones entre el iniciador y el
+destinatario, éste último tendrá derecho a considerar que
+el mensaje de datos recibido corresponde al que quería
+enviar el iniciador, y podrá proceder en consecuencia. El
+destinatario no gozará de este derecho si sabía o hubiera
+sabido, de haber actuado con la debida diligencia o de
+haber aplicado algún método convenido, que la transmisión
+había dado lugar a un error en el mensaje de datos
+recibido.
+
+Art. 19.- Mensaje de datos duplicados.
+
+Se presume que cada mensaje de datos recibido es un mensaje
+de datos diferente, salvo en la medida en que duplique otro
+mensaje de datos, y que el destinatario sepa, o debiera
+saber, de haber actuado con la debida diligencia o de haber
+aplicado algún método convenido, que el nuevo mensaje da
+datos era un duplicado.
+Art. 20.- Acuse de recibo de mensajes de datos.
+
+Si al enviar o antes de enviar un mensaje de datos, el
+iniciador solicita o acuerda con el destinatario que se
+acuse recibo del mensaje de datos, pero no se ha acordado
+entre éstos una forma o método determinado para efectuarlo,
+se podrá acusar recibo mediante:
+
+a) Toda comunicación del destinatario, automatizada o no, o
+b) Todo acto del destinatario que baste para indicar al
+iniciador que se ha recibido el mensaje de datos.
+
+Párrafo I.-Si el iniciador ha solicitado o acordado con el
+destinatario que se acuse recibo del mensaje de datos, y
+expresamente aquél ha indicado que los efectos del mensaje
+de datos estarán condicionados a la recepción de un acuse
+de recibo, se considerará que el mensaje de datos no ha
+sido enviado en tanto que no se haya recibido el acuse de
+recibo.
+
+Párrafo II.- Si el iniciador ha solicitado o acordado con el
+destinatario que se acuse recibo del mensaje de datos, pero
+aquél no indicó expresadamente que los efectos del mensaje
+de datos están condicionados a la recepción del acuse de
+recibo y, si no se ha recibido acuse en el plazo fijado o
+convenido, no se ha fijado o convenido ningún plazo, en un
+plazo no mayor de cuarenta y ocho (48) horas, a partir del
+momento del envío o el vencimiento del plazo fijado o
+convenido, el iniciador:
+
+a) Podrá dar aviso al destinatario de que no ha recibido el
+acuse del recibo por medio verificable y fijar un nuevo
+plazo para su recepción, el cual será de cuarenta y ocho
+(48) horas, contadas a partir del momento del envío del
+nuevo mensaje de datos, y
+
+b) De no recibirse acuse de recibo dentro del término
+señalado en el literal anterior, podrá, dando aviso de ello
+al destinatario, considerar que el mensaje de datos no ha
+sido enviado o ejercer cualquier otro derecho que pueda
+tener.
+
+Art. 21.- Acuse de recibo de documentos digitales.
+
+De la misma manera se podrá acusar recibo de un documento
+digital mediante:
+
+a) Toda comunicación automatizada o no de la parte
+receptora del documento digital a la parte que lo entrega
+directamente    o   por   interpuesta   persona   debidamente
+autorizada, y
+
+b) Todo acto de la parte receptora que baste para indicar a
+la parte que entrega el documento digital que éste ha sido
+recibido. En el caso de entrega de documentos digitales por
+medio de mensajes de datos, se tomarán en cuenta las
+disposiciones del artículo 20 de la presente ley. En dicho
+caso, el acuse de recibo del documento digital es idéntico
+al acuse de recibo del mensaje de datos usado para el envío
+de dicho documento digital.
+
+Art. 22.- Presunción de recepción de un mensaje de datos.
+
+Cuando   el   iniciador   recibe   acuso   de   recibo   del
+destinatario, se presumirá que este ha recibido el mensaje
+de datos. Esa presunción no implicará que el mensaje de
+datos corresponda al mensaje recibido. Cuando en el acuse
+de recibo se indique que el mensaje de datos recibido
+cumple con los requisitos técnicos convenidos o enunciados
+en alguna norma técnica aplicable, se presumirá que es así.
+
+Art. 23.- Efectos jurídicos. Los artículos 20, 21 y 22 de la
+presente ley únicamente rigen los efectos relacionados con
+el acuse de recibo. Las consecuencias jurídicas del
+documento digital o del mensaje de datos se regirán
+conforme a las normas aplicables al acto o negocio jurídico
+contenido en dicho documento digital o mensaje de datos.
+
+Art. 24.- Tiempo del envío de un mensaje de datos. De no
+convenir otra cosa el iniciador y el destinatario, el
+mensaje de datos se tendrá por expedido cuando ingrese en
+un sistema de información que no esté bajo control del
+iniciador o de la persona que envió el mensaje de datos en
+nombre de éste.
+
+Art. 25.- Tiempo de la recepción de un mensaje de datos. De
+no convenir otra cosa el iniciador y el destinatario, el
+momento de la recepción de un mensaje de datos se
+determinará como sigue:
+
+a) Si el destinatario    ha  designado  un sistema          de
+información para la recepción de mensaje de datos,          la
+recepción tendrá lugar:
+
+1. En el momento en que ingrese el mensaje de datos en el
+sistema de información designado;
+2. De enviarse el mensaje de datos a un sistema de
+información del destinatario que no sea el sistema de
+información designado, en el momento en que el destinatario
+recupere el mensaje de datos.
+
+b) Si el destinatario no ha designado un sistema de
+información, la recepción tendrá lugar cuando el mensaje de
+datos ingrese a un sistema de información del destinatario.
+
+Párrafo.- Lo dispuesto en este artículo será aplicable aún
+cuando el sistema de información esté ubicado en lugar
+distinto de donde se tenga por recibido el mensaje de datos
+conforme al artículo siguiente.
+
+Art. 26.- Lugar del envío y recepción del mensaje de datos.
+
+De no convenir otra cosa el iniciador y el destinatario, el
+mensaje de datos se tendrá por expedido en el lugar donde
+el iniciador tenga su establecimiento, y se tendrá por
+recibido en el lugar donde el destinatario tenga el suyo.
+Para los fines del presente artículo:
+a) Si el iniciador o destinatario tienen más de un
+establecimiento, su establecimiento será el que guarde una
+relación más estrecha con la operación subyacente, o, de no
+haber   una   operación   subyacente,   su   establecimiento
+principal;
+b)   Si   el  iniciador   o   el  destinatario   no   tienen
+establecimiento, se tendrá en cuenta su lugar de residencia
+habitual.
+
+Art. 27.- Tiempo y lugar de envío y recepción de un documento
+digital.
+
+Para aquellos documentos digitales que se entreguen en
+soporte físico, tales como medios magnéticos, medios
+fotolitográficos de escritura solamente, medios ópticos o
+similares, el tiempo de envío y recepción y el lugar de
+envío y recepción del documento digital se determinarán de
+la misma manera que si el documento hubiese sido entregado
+en medio físico de papel o similar.
+
+Para aquellos documentos digitales que se entreguen por
+medio de mensajes de       datos,  se   aplicará la    norma
+especificada en los artículos 25 y 26 de la presente ley.
+
+Art. 28.- Concesión de derechos o adquisición de obligaciones
+por medio de documentos digitales o mensajes de datos.
+
+Cuando se conceda algún derecho a una persona determinada y
+a ninguna otra, o ésta adquiera alguna obligación, y la ley
+requiera que para que ese acto surta efecto, el derecho o
+la obligación hayan de transferirse a esa persona mediante
+el envío o utilización de un documento emitido en papel,
+ese requisito quedará satisfecho si el derecho o la
+obligación se transfiere mediante el envío o utilización de
+uno o más documentos digitales o mensajes de datos, siempre
+y cuando se emplee un método confiable parta garantizar la
+singularidad de ese o esos documentos digitales o mensajes.
+
+Párrafo I.- Para los fines de éste artículo, el nivel de
+confiabilidad requerido será determinado a la luz de los
+fines para los que se transfirió el derecho o la obligación
+y de todas las circunstancias del caso, incluido cualquier
+acuerdo pertinente.
+
+Párrafo II.- Cuando se aplique obligatoriamente una norma
+jurídica a un contrato registrado o del que se haya dejado
+constancia en un documento emitido en papel, esa norma no
+dejará de aplicarse a dicho contrato del que se haya dejado
+constancia en uno o más mensajes de datos por razón de que
+el contrato conste en ese mensaje o esos mensajes de datos
+en lugar de constar en documentos emitidos en papel.
+
+PARTE II: COMERCIO ELECTRÓNICO EN MATERIA DE TRANSPORTE DE
+MERCANCÍAS
+
+Art. 29.- Actos relacionados con los contratos de transporte
+de mercancías.
+
+Sin perjuicio de lo dispuesto en la presente ley, este
+capítulo será aplicable a cualquiera de los siguientes
+actos que guarde relación con un contrato de trasporte de
+mercancías, o con su cumplimiento, sin que la lista sea
+taxativa:
+
+1. Actos relativos a recepción y embarque de mercancías:
+
+a) Indicación de las marcas, el número, la cantidad o el
+peso de las mercancías;
+
+b) Declaración de la naturaleza o valor de las mercancías;
+
+c) Emisión de un recibo por las mercancías;
+
+d) Confirmación de haberse completado el embarque de las
+mercancías.
+2. Actos relativos al contrato y condiciones de transporte:
+a) Notificación a algunas personas de las cláusulas y
+condiciones del contrato;
+
+b) Comunicación de instrucciones al transportador.
+
+3. Actos relativos     a   las   condiciones    de    entrega   de
+mercancías:
+
+a) Reclamación de la entrega de las mercancías;
+
+b) Autorización    para    proceder   a   la   entrega    de    las
+mercancías;
+
+c) Notificación de la pérdida de las mercancías o de los
+daños que hayan sufrido.
+
+4. Cualquier otra notificación o declaración relativas al
+cumplimiento del contrato.
+
+5. Promesa de hacer entrega de las mercancías a la persona
+designada o a una persona autorizada para reclamar dicha
+entrega.
+6.    Concesión,   adquisición,    renuncia,    restitución,
+transferencia   o  negociación  de   algún   derecho   sobre
+mercancías.
+
+7. Adquisición o transferencia de derechos y obligaciones
+con arreglo al contrato.
+
+Párrafo.- En complemento a las disposiciones establecidas en
+esta ley, para los contratos de transporte de mercancía se
+tendrán en cuenta las disposiciones establecidas por el
+Código de Comercio de la República Dominicana sobre las
+obligaciones de los comisionistas para los transportes por
+tierra y por agua y del porteador.
+
+Art. 30.- Documentos de transporte.
+
+-Con sujeción a lo dispuesto en el párrafo II del presente
+artículo, en los casos en que la ley requiera que alguno de
+los actos enunciados en el artículo 28 de la presente ley
+se lleve a cabo por escrito o mediante documento emitido en
+papel, ese requisito quedará satisfecho cuando el acto se
+lleve a cabo por medio de uno o más documentos digitales o
+mensajes de datos.
+
+Párrafo I.- Lo anterior será aplicable,              tanto si    el
+requisito previsto en él está expresado              en forma    de
+obligación o si la ley simplemente prevé consecuencias en
+el caso de que no se lleve a cabo el acto por escrito o
+mediante un documento emitido en papel.
+
+Párrafo II.- Cuando se utilicen uno o más documentos
+digitales o mensajes de datos para llevar a cabo alguno de
+los actos enunciados en los numerales 6 y 7 del artículo
+29, no será válido ningún documento emitido en papel para
+llevar a cabo cualquiera de estos actos, a menos que se
+haya puesto fin al uso de documento digital o mensaje de
+datos para sustituirlo por el de documentos emitidos en
+papel. Todo documento con soporte en papel que se emita en
+esas circunstancias deberá contener la declaración en tal
+sentido. La sustitución de documentos digitales o mensajes
+de datos por documentos emitidos en papel no afectará los
+derechos ni las obligaciones de las partes.
+
+Párrafo III.- El artículo 28 de la presente ley y, en
+particular,  el   párrafo  II   de  dicho   artículo  serán
+aplicables a contratos de transporte de mercancías que
+estén consignados o de los cuales se haya dejado constancia
+en papel.
+
+
+TÍTULO IV: FIRMAS    DIGITALES,   CERTICADOS   Y   ENTIDADES   DE
+CERTIFICACIÓN
+
+CAPÍTULO I: DE LAS FIRMAS DIGITALES
+
+Art. 31.- Atributos de una firma digital. El uso de una firma
+digital tendrá la misma fuerza y efectos que el uso de una
+firma manuscrita, si incorpora los siguientes atributos;
+1. Es única a la persona que la usa;
+2. Es susceptible de ser verificada;
+3. Está bajo el control exclusivo de la persona que la usa;
+4. Está ligada a la información, documento digital o
+mensaje al que está asociada, de tal manera que si éstos
+son cambiados, la firma digital es invalidada, y
+5. Está conforme a las reglamentaciones adoptadas por el
+Poder Ejecutivo.
+
+Art. 32.- Firma digital segura.
+
+Una firma digital segura es aquélla que puede ser
+verificada de conformidad con un sistema de procedimiento
+de seguridad que cumpla con los lineamientos trazados por
+la presente ley y por su reglamento.
+
+Art. 33.- Mensajes de datos firmados digitalmente.
+Se entenderá que un mensaje de datos ha sido firmado
+digitalmente si el símbolo o la metodología adoptada por la
+parte cumple con un procedimiento de autenticación o
+seguridad establecido por el reglamento de la presente ley.
+Cuando una firma digital haya sido fijada en un mensaje de
+datos se presume que el suscriptor de aquella tenía la
+intención de acreditar ese mensaje de datos y de ser
+vinculado con el contenido del mismo.
+
+Art. 34.- Documentos digitales firmados digitalmente.
+
+Se entenderá que un documento digital ha sido firmado
+digitalmente por una o más partes si el símbolo o la
+metodología adoptada por cada una de las partes cumplen con
+un procedimiento de autenticación o seguridad establecido
+por el reglamento de la presente ley. Cuando una o más
+firmas digitales hayan sido fijadas en un documento
+digital, se presume que las partes firmantes tenían la
+intención de acreditar ese documento digital y de ser
+vinculadas con el contenido del mismo.
+
+
+CAPÍTULO II: DE LAS ENTIDADES DE CERTIFICACIÓN
+
+Art. 35.- Características y requerimientos de las entidades
+de certificación.
+
+Sin perjuicio de lo establecido en este artículo, podrán
+ser entidades de certificación las personas jurídicas,
+tanto públicas como privadas, de origen nacional o
+extranjero, y las cámaras de comercio y producción que,
+previa solicitud, sean       autorizadas   por   el Instituto
+Dominicano de las Telecomunicaciones (INDOTEL), y que
+cumplan   con   los    requerimientos   establecidos   en   los
+reglamentos de aplicación dictados con base en las
+siguientes condiciones:
+a)   Contar   con   la   capacidad   económica   y   financiera
+suficiente para prestar los servicios autorizados como
+entidad de certificación;
+
+b) Contar con la capacidad y elementos técnicos necesarios
+para la generación de firmas digitales, la emisión de
+certificados sobre la autenticidad de las mismas y la
+conservación   de  mensajes de   datos  en   los  términos
+establecidos en esta ley;
+c) Sin perjuicio de las disposiciones reglamentarias que
+rijan    al   efecto,    los   representantes    legales   y
+administradores no podrán ser personas que hayan sido
+condenadas a pena privativa de libertad; o que hayan sido
+suspendidas en el ejercicio de su profesión por falta grave
+contra la ética o hayan sido excluidas de aquélla. Esta
+inhabilitación estará vigente por el mismo período que el
+que la ley penal o administrativa señale para el efecto, y
+
+d) Los certificados de firmas digitales emitidos por
+entidades   de   certificación    extranjeras  podrán   ser
+reconocidos en los mismos términos y condiciones de
+certificados en la ley para la emisión de certificados por
+parte de las entidades de certificación nacionales, siempre
+y cuando tales certificados sean reconocidos por una
+entidad de certificación autorizada que garantice en la
+misma forma que lo hace con sus propios certificados, la
+regularidad de los detalles del certificados, así como su
+validez y vigencia. En todo caso, los proveedores de
+servicios de certificación están sujetos a la normativa
+nacional en materia de responsabilidad.
+
+Párrafo.- Es atribución de La Junta Monetaria, dentro de sus
+prerrogativas, normar todo lo atinente a las operaciones y
+servicios financieros asociados a los medios de pagos
+electrónicos que realice el sistema financiero nacional, y
+le corresponde la supervisión       de   los mismos    a  La
+Superintendencia de Bancos, al amparo de la legislación
+bancaria vigente.
+
+Art. 36.- Actividades de las entidades de certificación.
+
+Las entidades de certificación autorizadas por el Instituto
+Dominicano de las Telecomunicaciones (INDOTEL) en el país,
+podrán prestar los siguientes servicios, sin perjuicio de
+la facultad reglamentaria      del órgano   regulador  para
+modificar el siguiente listado:
+
+a) Emitir certificados en relación con las firmas digitales
+de personas naturales o jurídicas;
+
+b) Ofrecer o facilitar los servicios de creación de firmas
+digitales certificadas;
+
+c) Ofrecer o facilitar      los servicios    de registro y
+estampado cronológico en    la transmisión   y recepción de
+datos;
+d) Emitir certificados en relación con la persona que posea
+un derecho con respecto a los documentos enunciados en los
+numerales 6 y 7 del artículo 27 de la presente ley.
+
+Art. 37.- Auditoria a las entidades de certificación.
+
+El Instituto Dominicano de las Telecomunicaciones (INDOTEL)
+conserva la misma facultad de inspección conferida por la
+ley General de Telecomunicaciones, No.153-98, del 27 de
+mayo del 1998, y, en caso de modificación expresa de aquel
+texto, el presente artículo será interpretado de manera que
+se   conforme    con   la   legislación   en   materia   de
+telecomunicaciones.
+
+Art. 38.- Manifestación    de   práctica   de   la   entidad   de
+certificación.
+
+Cada entidad de certificación autorizada publicará, en un
+repositorio    del    Instituto     Dominicano    de    las
+Telecomunicaciones (INDOTEL) o en el repositorio que el
+órgano regulador designe, una manifestación de práctica de
+entidad   de  certificación  que   contenga    la siguiente
+información:
+
+a) El nombre dirección y el número telefónico de la entidad
+de certificación;
+
+b) La clave pública actual de la entidad de certificación;
+c) El resultado de la evaluación obtenida por la entidad de
+certificación en la última auditoria realizada por el
+Instituto Dominicano de las Telecomunicaciones (INDOTEL);
+
+d) Si la autorización para operar como entidad de
+certificación ha sido revocada o suspendida. En ambos casos
+se considera revocada o suspendida la clave pública de la
+entidad de certificación. Este registro deberá incluir
+igualmente la fecha de la revocación o suspensión para
+operar;
+
+e) Los límites impuestos a la entidad de certificación en
+la autorización para operar;
+
+f) Cualquier evento que sustancialmente afecte la capacidad
+de la entidad de certificación para operar;
+
+g)   Cualquier   información    que   se   requiera     mediante
+reglamento.
+
+Art. 39.- Remuneración por la prestación de servicios.
+La remuneración por los servicios de las entidades de
+certificación será establecida libremente por éstas, a
+menos que el Instituto Dominicano de las Telecomunicaciones
+(INDOTEL), mediante resolución motivada, determine que, en
+un caso concreto, no existen en el mercado de servicios las
+condiciones suficientes para asegurar una competencia
+efectiva y sostenible.
+
+Art. 40.- Obligaciones de las entidades de certificación.
+
+Las entidades de certificación tendrán, entre otras, las
+siguientes obligaciones:
+
+a) Emitir certificados conforme a lo solicitado o acordado
+por el suscriptor;
+
+b) Implementar los sistemas de seguridad para garantizar la
+emisión y creación de firmas digitales;
+
+c) Garantizar la protección, confidencialidad y debido uso
+de la información suministrada por el suscriptor;
+
+d) Garantizar la prestación permanente del servicio de
+entidad de certificación;
+e) Atender oportunamente las solicitudes y reclamaciones
+hechas por los suscriptores;
+
+f) Efectuar los avisos y publicaciones conforme         a   lo
+establecido en la presente ley y sus reglamentos;
+
+g) Suministrar la información que le requieran las
+entidades administrativas competentes o judiciales en
+relación con las firmas digitales y certificados emitidos
+y, en general, sobre cualquier mensaje de datos que se
+encuentre bajo su custodia y administración;
+
+h) Actualizar sus elementos técnicos para la generación de
+firmas digitales, la emisión de certificados sobre la
+autenticidad de las mismas, la conservación y archivo de
+documentos soportados en mensajes de datos y todo otro
+servicio autorizado, sujeto a los reglamentos necesarios
+para garantizar la protección a los consumidores de sus
+servicios;
+
+i) Facilitar la realización de las auditorias por parte del
+Instituto Dominicano de las Telecomunicaciones (INDOTEL);
+j) Publicar en un repositorio su práctica de auditoria de
+certificación,   sujeto  a   los    términos   y   condiciones
+dispuestos en los reglamentos.
+
+Art. 41.- Terminación unilateral.
+
+Salvo acuerdo entre las partes, la entidad de certificación
+podrá dar por terminado el acuerdo de vinculación con el
+suscriptor, dando preaviso de un plazo no menor de noventa
+(90)   días.   Vencido   este  término,   la   entidad   de
+certificación revocará los certificados que se encuentren
+pendientes de expiración. Igualmente, el suscriptor podrá
+dar por terminado el acuerdo de vinculación con la entidad
+de certificación dando preaviso de un plazo no inferior a
+treinta (30) días.
+
+Art. 42.- Responsabilidad de la entidad de certificación.
+
+Salvo   acuerdo  entre   las partes,  las  entidades  de
+certificación responderán por los daños y perjuicios que
+causen a toda persona.
+
+Art. 43.- Cesación de actividades por parte de las entidades
+de certificación.
+
+Las entidades de certificación autorizadas pueden cesar en
+el ejercicio de sus actividades, previa notificación al
+Instituto Dominicano de las Telecomunicaciones (INDOTEL),
+en un plazo no menor de noventa (90) días previo al cese de
+actividades por parte de la entidad de certificación, sin
+perjuicio   de  la   facultad   del   órgano   regulador de
+reglamentar lo necesario para preservar la protección a los
+consumidores de sus servicios. En la aplicación de este
+artículo, y en caso de que sea necesaria su interpretación,
+se tomará en cuenta que subsiste la obligación de
+garantizar la protección, confidencialidad y debido uso de
+la información suministrada por el suscriptor.
+CAPÍTULO III: DE LOS CERTIFICADOS
+
+Art. 44.- Contenido de los certificados.
+
+Un certificado emitido por una entidad de certificación
+autorizada debe contener, además de la firma digital de la
+entidad de certificación, por lo menos los siguientes
+requisitos:
+
+1. Nombre, dirección y domicilio del suscriptor;
+
+2.   Identificación   del    suscriptor    nombrado   en    el
+certificado;
+3. El nombre, la dirección y el lugar            donde    realiza
+actividades la entidad de certificación;
+
+4. La clave pública del usuario;
+
+5. La metodología para verificar la firma          digital     del
+suscriptor impuesta en el mensaje de datos;
+
+6. El número de serie del certificado y
+
+7. Fecha de emisión y expiración del certificado.
+
+Art. 45.- Expiración de un certificado.
+
+Un certificado emitido por una entidad de certificación
+expira en la fecha indicada en el mismo.
+El reglamento de la presente ley determinará todas las
+condiciones adicionales a la vigencia y expiración de
+certificados.
+
+Art. 46.- Aceptación de un certificado.
+
+Se entiende que un suscriptor ha aceptado un certificado
+cuando éste o una persona en nombre de éste lo ha publicado
+en un repositorio o lo ha enviado a una o más personas.
+
+Art. 47.- Garantía     derivada    de   la   aceptación   de    un
+certificado.
+
+Al momento de aceptar un certificado, el suscriptor
+garantiza a todas las personas de buena fe exenta de culpa
+que se soportan en la información en él contenida, que:
+
+a) La firma digital autenticada mediante éste, está bajo su
+control exclusivo;
+
+b) Que ninguna persona ha tenido acceso al procedimiento de
+generación de la firma digital, y
+
+c) Que la información contenida en el certificado es
+verdadera y corresponde a la suministrada por éste a la
+entidad de certificación.
+
+Art. 48.- Suspensión y revocación de certificados.
+
+El suscriptor de una firma digital certificada puede
+solicitar a la entidad de certificación que le expidió un
+certificado,  la   suspensión  o   revocación  de   dicho
+certificado, lo cual se hará en la forma prevista en los
+reglamentos de aplicación de esta ley.
+
+Art. 49.- Causales para la revocación de certificados.
+
+El suscritor de una firma digital certificada está obligado
+a solicitar la revocación del certificado correspondiente
+en los siguientes casos:
+
+a) Por pérdida de la clave privada;
+
+b) La clave privada ha sido expuesta o corre el peligro de
+que se le dé un uso indebido. En el caso de presentarse una
+cualquiera de las anteriores situaciones, si el suscriptor
+no solicitó la revocación del certificado, será responsable
+por los daños y perjuicios en los cuales incurran terceros
+de buena fe exentos de culpa que confiaron en el contenido
+del certificado. Una entidad de certificación revocará un
+certificado emitido por las siguientes razones:
+
+1. A petición del suscriptor o un tercero en su nombre y
+representación legal;
+
+2. Por muerte del suscriptor, sujeto a los medios de prueba
+y publicidad prescritos por el derecho común;
+
+3. Por ausencia o desaparición definitivamente declarada
+por autoridad competente, de acuerdo a lo prescrito por el
+derecho común;
+
+4. Por liquidación    del    suscriptor   en   el   caso   de   las
+personas jurídicas;
+
+5. Por la confirmación de que alguna información o hecho
+contenido en el certificado es falso;
+
+6. La clave privada de la entidad de certificación o su
+sistema de seguridad ha sido comprometido de manera
+material que afecte la confiabilidad del certificado;
+7.   Por  el   cese  de   actividades  de   la  entidad de
+certificación y
+
+8.   Por  orden   judicial    o   de   entidad      administrativa
+competente.
+
+Art. 50.- Notificación de la suspensión o renovación de un
+certificado.
+Una vez registrada la suspensión o revocación de un
+certificado, la entidad de certificación debe publicar, en
+forma inmediata, un aviso de suspensión o revocación en
+todos los repositorios en los cuales la entidad de
+certificación   publicó  el  certificado.   También  deberá
+notificar de este hecho a las personas que soliciten
+información acerca de una firma digital verificable por
+remisión al certificado suspendido o revocado. Si los
+repositorios en los cuales se publicó el certificado no
+existen al momento de la publicación del aviso, o los
+mismos son desconocidos, la entidad de certificación deberá
+publicar dicho aviso en un repositorio que designe el
+Instituto Dominicano de las Telecomunicaciones (INDOTEL)
+para tal efecto.
+
+Art. 51.- Registro de certificado.
+
+Toda entidad de certificación autorizada         llevará un
+registro de todos los certificados emitidos, que se
+encuentre a disposición del público, en el cual se deben
+indicar las fechas de emisión, expiración y los registros
+de suspensión, revocación o reactivación de los mismos.
+
+Art. 52.- Término de conservación de los registros. Los
+registros de certificados expedidos por una entidad de
+certificación deben ser conservados por el término de
+cuarenta (40) años, contados a partir de la fecha de la
+revocación o expiración del correspondiente certificado.
+CAPÍTULO IV: SUSCRIPTORES DE FIRMAS DIGITALES
+
+Art. 53.- Deberes de los suscriptores. Son deberes de los
+suscriptores:
+
+a) Recibir de las claves por parte de la entidad de
+certificación o generar las claves, utilizando un sistema
+de seguridad exigido por la entidad de certificación;
+
+b) Suministrar información completa, precisa y verídica a
+la entidad de certificación;
+
+c) Aceptar los certificados emitidos por la entidad de
+certificación, demostrando aprobación de sus contenidos
+mediante el envío de éstos a una o más personas o
+solicitando la publicación de éstos en repositorios;
+
+d) Mantener el control de la clave privada y reservada del
+conocimiento de terceras personas;
+e) Efectuar oportunamente las correspondientes solicitudes
+de suspensión o revocación.
+
+Párrafo.- Un suscriptor cesa en la obligación de cumplir con
+los anteriores deberes a partir de la publicación de un
+aviso de revocación del correspondiente certificado por
+parte de la entidad de certificado.
+
+Art. 54.- Solicitud de información.
+
+Los   suscriptores   podrán  solicitar  a    la   entidad   de
+certificación    informaciones   acerca   de    todo    asunto
+relacionado con los certificados y firmas digitales que sea
+o información pública o que les competa, y la entidad de
+certificación estará obligada a responder dentro de los
+términos que prescriba el reglamento de la presente ley.
+
+Art. 55.- Responsabilidad de los suscriptores.
+
+Los suscriptores serán responsables por la falsedad o error
+en   la   información   suministrada   a   la   entidad  de
+certificación y que es objeto material del contenido del
+certificado. También serán responsables en los casos en los
+cuales no den oportuno aviso de revocación o suspensión de
+certificados en los casos indicados anteriormente.
+
+CAPÍTULO V: DEL ÓRGANO REGULADOR
+
+Art. 56.- Funciones.-
+
+El Instituto Dominicano de las Telecomunicaciones (INDOTEL)
+ejercerá la función de entidad de vigilancia y control de
+las   actividades   desarrolladas   por   las   entidades   de
+certificación.    Tendrá,   en   especial,    las   siguientes
+funciones:
+
+1. Autorizar, conforme a la reglamentación expedida por el
+Poder ejecutivo, la operación de entidades de certificación
+en el territorio nacional;
+
+2. Velar por el adecuado funcionamiento y la eficiente
+prestación del servicio por parte de las entidades de
+certificación y el cabal cumplimiento de las disposiciones
+legales y reglamentarias de la actividad;
+
+3. Efectuar las auditorias de que trata la presente ley;
+
+4. Definir reglamentariamente los requerimientos técnicos
+que   califiquen    la   idoneidad   de    las    actividades
+desarrolladas por las entidades de certificación;
+5. Evaluar las actividades desarrolladas por las entidades
+de certificación autorizadas conforme a los requerimientos
+definidos en los reglamentos técnicos;
+
+6. Revocar o suspender la autorización para operar como
+entidad de certificación;
+
+7. Requerir en cualquier momento a las entidades de
+certificación para que suministren información relacionada
+con los certificados, las firmas digitales emitidas y los
+documentos   en  soporte  informático   que   custodien  o
+administren;
+
+8. Imponer sanciones a las entidades de certificación por
+el   incumplimiento   o    cumplimiento   parcial   de las
+obligaciones derivadas de la prestación del servicio;
+
+9. Ordenar la revocación o suspensión de certificados
+cuando la entidad de certificación los emita sin el
+cumplimiento de las formalidades legales;
+
+10. Designar los repositorios y entidades de certificación
+en los casos previstos en la ley;
+
+11. Proponer al Poder Ejecutivo la implementación de
+políticas en relación con la regulación de las actividades
+de las entidades de certificación y la adaptación de los
+avances   tecnológicos   para   la  generación de   firmas
+digitales, la emisión de certificados, la conservación y
+archivo de documentos en soporte electrónico;
+
+12. Aprobar los reglamentos internos de la prestación del
+servicio, así como sus reformas;
+
+13. Emitir certificados en relación con          las   firmas
+digitales de las entidades de certificación, y
+
+14.   Velar  por   la  observancia   de  las   disposiciones
+constitucionales y legales sobre la promoción de la
+competencia y prácticas comerciales restrictivas en los
+mercados atendidos por las entidades de certificación.
+
+Art. 57. Faltas y sanciones. El Instituto Dominicano de las
+Telecomunicaciones   (INDOTEL)   podrá   imponer,  según   la
+naturaleza y la gravedad de la falta, las siguientes
+sanciones a las entidades de certificación que incumplan o
+violen las normas a las cuales debe sujetarse su actividad:
+1. Amonestación;
+2. Multas hasta por el equivalente a dos mil (2,000)
+salarios mínimos mensuales. El monto de la multa se
+graduará atendiendo al impacto de la infracción sobre la
+calidad del servicio ofrecido y al factor de reincidencia.
+Las entidades multadas podrán repetir contra quienes
+hubieran realizado los actos u omisiones que dieron lugar a
+la sanción;
+
+3. Suspender de inmediato todas              o       algunas   de    las
+actividades de la entidad infractora;
+
+4. Separar de los cargos que ocupan en la entidad de
+certificación sancionada a los administradores o empleados
+responsables. También se les prohibirá a los infractores
+trabajar en empresas similares por el término de diez (10)
+años;
+
+5. Prohibir a la entidad de certificación infractora
+prestar directa o indirectamente los servicios de entidad
+de certificación por el término de diez (10) años, y
+
+6. Revocación definitiva de la autorización para operar
+como entidad de certificación, cuando la aplicación de las
+sanciones anteriormente enumeradas no haya sido efectiva y
+se pretenda evitar perjuicios reales o potenciales a
+terceros.
+
+CAPÍTULO VI: DE LOS REPOSITORIOS
+
+Art. 58.- Reconocimiento y actividades de los repositorios.
+El Instituto Dominicano de las Telecomunicaciones (INDOTEL)
+autorizará únicamente la operación de los repositorios que
+mantengan las entidades de certificación autorizadas. Los
+repositorios autorizados para operar deberán:
+a) Mantener una base       de   datos  de   certificados de
+conformidad con los reglamentos que, para tal efecto,
+expida el Poder Ejecutivo;
+
+b) Garantizar que la información que mantienen se conserve
+íntegra, exacta y razonablemente confiable;
+
+c) Ofrecer y facilitar      los servicios             de registro y
+estampado cronológico en    la transmisión            y recepción de
+mensajes de datos;
+
+d) Ofrecer los servicios     de    archivo       y    conservación   de
+mensajes de datos, y
+e) Mantener un registro de las publicaciones        de   los
+certificados revocados o suspendidos.
+
+
+CAPÍTULO VII: DISPOSICIONES VARIAS
+
+Art. 59.- Certificaciones recíprocas.
+
+Los certificados digitales emitidos por entidades de
+certificación extranjeras podrán ser reconocidos en los
+mismos términos y condiciones exigidos en la ley para la
+emisión de certificados por parte de las entidades de
+certificación nacionales, siempre que tales certificados
+sean   reconocidos   por   una  entidad   de   certificación
+autorizada que garantice, en la misma forma que lo hace con
+sus propios certificados, la regularidad de los detalles
+del certificado, así como su validez y vigencia.
+
+Art. 60.- Incorporación por emisión.
+
+Salvo acuerdo en contrario entre las partes, cuando en un
+documento digital o mensaje de datos se haga remisión total
+o parcial a directrices, normas, estándares, acuerdos,
+cláusulas, condiciones o términos fácilmente accesibles con
+la intención de incorporarlos como parte del contenido o
+hacerlos vinculantes jurídicamente, se presume que esos
+términos están incorporados por remisión a ese documento
+digital o mensaje de datos. Entre las partes, y conforme a
+la ley, esos términos serán jurídicamente válidos como si
+hubieran sido incorporados en su totalidad en el documento
+digital o mensaje de datos.
+
+TÍTULO V: REGLAMENTO Y VIGENCIA
+
+CAPÍTULO I: DE LA REGLAMENTACIÓN
+
+Art. 61.- Reglamentación.
+
+El Poder Ejecutivo reglamentará la presente ley dentro de
+los seis (6) meses siguientes a su entrada en vigencia.
+De conformidad con la reglamentación que se dicte, el
+Instituto Dominicano de las Telecomunicaciones (INDOTEL)
+contará con un término adicional de seis (6) meses, para
+organizar y asignar a una de sus dependencias la función de
+control y vigencia de las actividades realizadas por las
+entidades de certificación, sin perjuicio de que, para tal
+efecto, el Poder Ejecutivo cree una unidad especializada.
+CAPÍTULO II: VIGENCIA Y DEROGATORIAS
+
+Art. 62.- Vigencia y derogatorias.
+
+La presente ley rige desde la fecha de su publicación y
+deroga las normas que le sean contrarias, con excepción de
+las normas destinadas a la protección del consumidor.
+
+DADA en la Sala de Sesiones de la Cámara de Diputados,
+Palacio del Congreso Nacional, en Santo Domingo de Guzmán,
+Distrito Nacional, capital de la República Dominicana, a
+los diecinueve días del mes de marzo del año dos mil dos;
+años    159º   de   la   Independencia   y    139°   de   la
+Restauración.(FDOS):   Rafaela   Alburquerque,   Presidenta;
+Ambrosina Saviñón Cáceres, Secretaria; Germán Castro García,
+Secretario Ad-Hoc.
+
+DADA en la Sala de Sesiones del Senado, Palacio del Congreso
+Nacional, en Santo Domingo de Guzmán, Distrito Nacional,
+Capital de la República Dominicana, a los catorce (14) días
+del mes de agosto del año dos mil dos (2002); años 159 de
+la Independencia y 139 de la Restauración.
+
+ANDRES BAUTISTA GARCIA,
+Presidente.
+
+RAMIRO ESPINO FERMIN, JULIO A. GONZÁLEZ BURELL,
+Secretario. Secretario Ad-Hoc.
+
+DADA en la Sala de Sesiones del Senado, Palacio del Congreso
+Nacional, en Santo Domingo de Guzmán, Distrito Nacional,
+Capital de la República Dominicana, a los catorce (14) días
+del mes de agosto del año dos mil dos (2002); años 159 de
+la Independencia y 139 de la Restauración.
+
+ANDRES BAUTISTA GARCIA,
+Presidente.
+
+RAMIRO ESPINO FERMIN, JULIO A. GONZÁLEZ BURELL,
+Secretario. Secretario Ad-Hoc.

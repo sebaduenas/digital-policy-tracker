@@ -1,0 +1,199 @@
+REGLAMENTO DE LA LEY N�. 787 LEY DE PROTECCI�N DE DATOS PERSONALES
+Legislaci�n de Nicaragua
+Normas Jur�dicas
+...
+_Publicaci�n oficial
+Categor�a normativa: Reglamentos
+Materia: S/Definir
+Enlace a Legislaci�n Relacionada
+REGLAMENTO DE LA LEY N�. 787 LEY DE PROTECCI�N DE DATOS PERSONALES
+REGLAMENTO N�. 36-2012, aprobado el 17 de octubre de 2012
+Publicado en La Gaceta,Diario Oficial N�. 200 del 19 de octubre de 2012
+El Presidente de la Rep�blica de Nicaragua
+Comandante Daniel Ortega Saavedra
+En uso de las facultades que le confiere la Constituci�n Pol�tica
+HA DICTADO
+El siguiente:
+DECRETO
+REGLAMENTO DE LA LEY NO. 787 “LEY DE PROTECCI�N DE DATOS PERSONALES”
+CAP�TULO I
+OBJETO, ALCANCE Y DEFINICIONES
+Art�culo 1. Objeto. El presente Reglamento tiene por objeto establecer las disposiciones relativas al desarrollo y aplicaci�n de la Ley No. 787, Ley de Protecci�n de Datos Personales, publicada en La Gaceta, Diario Oficial, No. 61 del 29 de marzo de 2012.
+Art�culo 2. Alcance. El presente Reglamento ser� de aplicaci�n y de observancia obligatoria al tratamiento de datos personales que obren en soportes f�sicos o electr�nicos que hagan posible el acceso a los datos personales con arreglo a criterios determinados, con independencia de la forma o modalidad de su creaci�n, tipo de soporte, procesamiento, almacenamiento y organizaci�n.
+Art�culo 3. Definiciones. Para efectos del presente Reglamento, se entiende por:
+a) Aviso Informativo: Documento f�sico, electr�nico o en cualquier otro formato generado por el responsable del fichero de datos que es puesto a disposici�n del titular de los datos, previo al tratamiento de sus datos personales, de conformidad con lo previsto en el presente Reglamento.
+b) Derechos del titular: Se refiere a los derechos de acceso, rectificaci�n, oposici�n y cancelaci�n de datos personales.
+c) DIPRODAP: Direcci�n de Protecci�n de Datos Personales a que se refiere la Ley 787.
+d) Ley: Ley No. 787, Ley de Protecci�n de Datos Personales, publicada en La Gaceta, Diario Oficial, No. 61 del 29 de marzo de 2012.
+e) Medidas de seguridad f�sicas: Conjunto de acciones y mecanismos, ya sea que empleen o no la tecnolog�a, destinados para: a) Prevenir el acceso no autorizado, el da�o o interferencia a las instalaciones f�sicas, �reas cr�ticas de la organizaci�n, equipo e informaci�n; b) Proteger los equipos m�viles, port�tiles o de f�cil remoci�n, situados dentro o fuera de las instalaciones; c) Proveer a los equipos que contienen o almacenan datos personales de un mantenimiento que asegure su disponibilidad, funcionalidad e integridad, y d) Garantizar la eliminaci�n de datos de forma segura.
+f) Medidas de seguridad organizativas: Conjunto de acciones y mecanismos para establecer la gesti�n, soporte y revisi�n de la seguridad de la informaci�n a nivel organizacional, la identificaci�n y clasificaci�n de la informaci�n, as� como, la concientizaci�n, formaci�n y capacitaci�n del personal, en materia de protecci�n de datos personales. Estas incluyen medidas de seguridad f�sicas.
+g) Medidas de seguridad t�cnicas: Conjunto de actividades, controles o mecanismos con resultado medible, que se valen de la tecnolog�a para asegurar que: a) El acceso a las bases de datos de los responsables de ficheros de datos sea por usuarios identificados y autorizados; b) El acceso referido en el inciso anterior sea �nicamente para que el usuario lleve a cabo las actividades que requiere con motivo de sus funciones; c) Se incluyan acciones para la adquisici�n� operaci�n, desarrollo y mantenimiento de sistemas seguros, y d) Se lleve a cabo la gesti�n de comunicaciones y operaciones de los recursos inform�ticos que se utilicen en el tratamiento de datos personales.
+CAP�TULO II
+CONSENTIMIENTO DEL TITULAR DE LOS DATOS
+Art�culo 4. Caracter�sticas del Consentimiento. De conformidad a lo establecido en los art�culos 4 y 6 de la Ley, el consentimiento que otorgue el titular de los datos deber� ser:
+a) Libre: sin que medie error, mala fe, violencia o dolo, que puedan afectar la manifestaci�n de voluntad del titular;
+b) Espec�fico: referido a una o varias finalidades determinadas que justifiquen el tratamiento, y
+c) Informado: que el titular tenga conocimiento del aviso informativo previo al tratamiento a que ser�n sometidos sus datos personales y las consecuencias de otorgar su consentimiento.
+Art�culo 5. Consentimiento T�cito. Salvo que la Ley exija el consentimiento expreso del titular de datos, ser� v�lido el consentimiento t�cito como regla general, conforme a lo dispuesto en el art�culo 4 del presente Reglamento.
+Art�culo 6. Solicitud del Consentimiento T�cito. Cuando el responsable pretenda recabar los datos personales directa o personalmente de su titular, deber� previamente poner a disposici�n de �ste el aviso informativo, el cual debe contener un mecanismo para que, en su caso, el titular pueda manifestar su negativa al tratamiento de sus datos personales para las finalidades que sean distintas a aqu�llas que son necesarias y den origen a la relaci�n jur�dica entre el responsable y el titular.
+En los casos en que los datos personales se obtengan de manera indirecta del titular y tenga lugar un cambio de las finalidades que fueron consentidas en la transferencia, el responsable de fichero de datos deber� poner a disposici�n del titular el aviso informativo previo al aprovechamiento de los datos personales. Cuando el aviso informativo no se haga del conocimiento del titular de manera directa o personal, el titular tendr� un plazo de cinco d�as h�biles para que, de ser el caso, manifieste su negativa para el tratamiento de sus datos personales para las finalidades que sean distintas a aqu�llas que son necesarias y den origen a la relaci�n jur�dica entre el responsable del fichero de datos y el titular de los datos. Si el titular no manifiesta su negativa para el tratamiento de sus datos de conformidad con lo anterior, se entender� que ha otorgado su consentimiento para el tratamiento de los mismos, salvo prueba en contrario.
+Cuando el responsable del fichero de datos utilice mecanismos en medios remotos o locales de comunicaci�n electr�nica, �ptica u otra tecnolog�a, que le permitan recabar datos personales de manera autom�tica y simult�nea al tiempo que el titular de datos hace contacto con los mismos, en ese momento se deber� informar al titular sobre el uso de esas tecnolog�as, que a trav�s de las mismas se obtienen datos personales y la forma en que se podr�n deshabilitar.
+Art�culo 7. Consentimiento Expreso. El responsable del fichero de datos deber� obtener el consentimiento expreso del titular de datos cuando:
+a) Lo exija una ley o reglamento;
+b) Se trate de datos financieros o patrimoniales;
+c) Se trate de datos sensibles;
+d) Lo solicite el responsable para acreditar el mismo, o
+e) Lo acuerden as� el titular de datos y el responsable del fichero de datos.
+Art�culo 8. Solicitud del Consentimiento Expreso. Cuando el consentimiento expreso sea exigido por ley, el responsable del fichero de datos deber� facilitar al titular de datos un medio sencillo y gratuito para que, en su caso, lo pueda manifestar.
+Art�culo 9. Consentimiento Verbal. Se considera que el consentimiento expreso se otorg� verbalmente cuando el titular lo externa oralmente de manera presencial o mediante el uso de cualquier tecnolog�a que permita la interlocuci�n oral.
+Art�culo 10. Consentimiento Escrito. Se considerar� que el consentimiento expreso se otorg� por escrito cuando el titular lo externe mediante un documento con su firma aut�grafa, huella dactilar o cualquier otro mecanismo autorizado por ley. Trat�ndose del entorno digital, podr�n utilizarse firma electr�nica o cualquier mecanismo o procedimiento que al efecto se establezca y permita identificar al titular y recabar su consentimiento.
+Art�culo 11. Prueba para demostrar la obtenci�n del consentimiento. Para efectos de demostrar la obtenci�n del consentimiento, la carga de la prueba recaer� en todos los casos, en el responsable del fichero de datos.
+Art�culo 12. Revocaci�n del Consentimiento. En cualquier momento, el titular de datos podr� revocar su consentimiento para el tratamiento de sus datos personales, para lo cual el responsable del fichero de datos deber� establecer mecanismos sencillos y gratuitos que permitan al titular revocar su consentimiento al menos por el mismo medio por el que lo otorg�.
+Cuando el titular solicite la confirmaci�n del cese del tratamiento de sus datos personales, el responsable del fichero de datos deber� responder por escrito a dicha solicitud.
+En caso de que los datos personales hubiesen sido remitidos con anterioridad a la fecha de revocaci�n del consentimiento y sigan siendo tratados por terceros, el responsable deber� hacer de su conocimiento dicha revocaci�n, para que procedan a efectuar lo conducente.
+Art�culo 13. Procedimiento ante la negativa al cese en el tratamiento de datos. En caso de negativa por parte del responsable del fichero de datos al cese en el tratamiento de estos ante la revocaci�n del consentimiento, el titular de datos podr� presentar ante la DIPRODAP la denuncia correspondiente.
+CAP�TULO III
+OBLIGACI�N DE INFORMAR AL TITULAR DE LOS DATOS
+Art�culo 14. Obligaci�n de informar al Titular de los Datos. El responsable del fichero de datos deber� dar a conocer de previo al titular de los datos la informaci�n prevista en el art�culo 7 de la Ley a trav�s de un aviso informativo de conformidad con lo previsto en el presente Cap�tulo.
+Art�culo 15. Caracter�sticas del Aviso Informativo. El aviso informativo deber� caracterizarse por ser sencillo, con informaci�n necesaria, expresado en lenguaje claro y comprensible, y con una estructura y dise�o que facilite su entendimiento.
+Art�culo 16. Medios de Difusi�n. Para la difusi�n del aviso informativo, el responsable del fichero de datos podr� valerse de formatos f�sicos, electr�nicos o de cualquier otra naturaleza, siempre y cuando logre comprobar que cumpli� con el deber de informar al titular de los datos. En todos los casos, la carga de la prueba recaer� en el responsable del fichero de datos.
+La DIPRODAP podr� dictar norma de car�cter general que regule otros aspectos relacionados con lo establecido en este Cap�tulo.
+CAP�TULO IV
+MEDIDAS DE SEGURIDAD PARA LA PROTECCI�N DE DATOS PERSONALES
+Art�culo 17. Desarrollo e Implementaci�n de Medidas de Seguridad. Para efectos de lo establecido en el art�culo 11 de la Ley, los responsables de ficheros de datos deber�n desarrollar e implementar medidas de seguridad t�cnica y organizativas que resulten necesarias para garantizar la integridad, confidencialidad y seguridad de los datos personales que traten. Dichas medidas deber�n ser proporcionales a sus operaciones, a los riesgos inherentes a �stas y al tama�o de los ficheros de datos que administren, y estar�n sujetas a la aprobaci�n de la DIPRODAP, la cual podr� establecer est�ndares m�nimos de seguridad mediante normativa de car�cter general que dicte al efecto.
+CAP�TULO V
+DERECHOS DEL TITULAR DE LOS DATOS
+Secci�n I
+Disposiciones Generales
+Art�culo 18. Personas facultadas para el ejercicio de los derechos. Los derechos a que se refiere la Ley y el presente Reglamento podr�n ser ejercidos por:
+a) El titular de los datos, previa presentaci�n del documento de identidad requerido conforme la ley de la materia.
+Tambi�n podr�n ser admisibles los instrumentos electr�nicos por medio de los cuales sea posible identificar al titular de los datos, u otros mecanismos de autenticaci�n permitidos por otras disposiciones legales, o aqu�llos previamente establecidos por el responsable de ficheros de datos. La utilizaci�n del instrumento electr�nico que lo sustituya eximir� de la presentaci�n del documento de identificaci�n a que se refiere este inciso, y
+b) El representante del titular de los datos, previa presentaci�n del poder de representaci�n suficiente y documento de identidad requerido conforme la ley de la materia.
+c) Los padres o tutores del titular de los datos, en el caso de menores de edad, previa presentaci�n de partida de nacimiento del menor y c�dula de identidad de los padres. En el caso del tutor, el documento legal que lo acredite como tal.
+d) Los sucesores universales del titular de los datos, en el caso de personas fallecidas, previa presentaci�n del documento legal que lo acredite como tal y el certificado de defunci�n.
+Art�culo 19. Medios para el ejercicio de los derechos . El titular de datos personales, para el ejercicio de sus derechos, podr� presentar la solicitud respectiva ante el responsable del fichero de datos conforme a los medios establecidos en la Ley.
+El responsable del fichero de datos podr� establecer formularios, sistemas y otros m�todos simplificados para facilitar a los titulares de datos el ejercicio de sus derechos, lo cual deber� darlo a conocer a trav�s del aviso informativo a que se refiere este Reglamento.
+Art�culo 20. Servicios de Atenci�n al P�blico. El responsable del fichero de datos deber� contar con servicios de atenci�n al p�blico para atender las solicitudes de los titulares de datos.
+Art�culo 21. Gratuidad del Ejercicio del Derecho de Modificaci�n de Datos. Conforme al art�culo 21 de la Ley, el ejercicio de los derechos de modificaci�n de datos ser� gratuito.
+El responsable del fichero de datos no podr� establecer como �nica v�a para la presentaci�n de las solicitudes del ejercicio de los derechos del titular alg�n servicio o medio que implique costos.
+Art�culo 22. Registro de Solicitudes. El responsable de ficheros de datos deber� tramitar toda solicitud que realice el titular de datos personales en el ejercicio de sus derechos. El plazo para que se atienda la solicitud seg�n lo establecido en el literal b) del art�culo 19 de la Ley, empezar� a computarse a partir del d�a en que la misma haya sido recibida por el responsable del fichero de datos, en cuyo caso, �ste anotar� en el acuse de recibo que entregue al titular la correspondiente fecha de recepci�n.
+El plazo se�alado se interrumpir� en caso de que el responsable requiera informaci�n al titular, en t�rminos de lo dispuesto por el art�culo siguiente.
+Art�culo 23. Requerimiento de Informaci�n Adicional. En caso de que la informaci�n proporcionada en la solicitud sea insuficiente o err�nea para atenderla, el responsable de ficheros de datos podr� requerir al titular, por una vez y dentro de los cinco (5) d�as h�biles siguientes a la recepci�n de la solicitud, que aporte los elementos o documentos necesarios para dar tr�mite a la misma.
+El titular contar� con diez (10) d�as h�biles para atender el requerimiento, contados a partir del d�a siguiente en que lo haya recibido. De no dar respuesta en dicho plazo, se tendr� por no presentada la solicitud correspondiente.
+En caso de que el titular de los datos atienda el requerimiento de informaci�n, el plazo para que el responsable del fichero de datos d� respuesta a la solicitud empezar� a correr al d�a siguiente h�bil de que el titular haya atendido el requerimiento.
+Art�culo 24. Respuesta por parte del Responsable. En todos los casos, el responsable del fichero de datos deber� dar respuesta a las solicitudes que reciba de parte del titular de los datos, con independencia de que figuren o no datos personales del solicitante en sus bases de datos.
+La respuesta al solicitante deber� referirse exclusivamente a los datos personales que espec�ficamente se hayan indicado en la solicitud correspondiente, y deber� presentarse en un formato legible, comprensible y de f�cil acceso. En caso de uso de c�digos, siglas o claves se deber�n proporcionar los significados correspondientes.
+Secci�n II
+Derecho de Acceso
+Art�culo 25. Derecho de Acceso. Conforme a lo dispuesto en el art�culo 17 de la Ley, el titular de datos personales tiene derecho a solicitar y obtener del responsable de ficheros de datos sus datos personales, as� como informaci�n relativa a las condiciones y generalidades del tratamiento de estos.
+Art�culo 26. Medios para el cumplimiento del Derecho de Acceso. La obligaci�n de dar acceso a datos personales se dar� por cumplida cuando el responsable del fichero de datos ponga a disposici�n del titular los datos personales en sus oficinas, o bien, los suministre a trav�s de los medios previstos en el art�culo 18, inciso c) de la Ley, debiendo el remitente conservar la constancia de env�o y recepci�n correspondiente. En todos los casos, el acceso deber� ser en formatos legibles o comprensibles para el titular.
+Art�culo 27. Gratuidad del ejercicio del Derecho de Acceso a Datos.
+Los titulares de datos tendr�n derecho al acceso de los mismos de la manera siguiente:
+a) Cuando solicite informaci�n a la DIPRODAP relativa a la existencia de ficheros de datos personales, sus finalidades y la identidad de sus responsables, de manera gratuita; y
+b) Cuando solicite informaci�n al responsable del fichero de datos relativa a sus datos personales y al tratamiento dado a los mismos, de manera gratuita una vez al a�o, y pagando un cargo que cubra el costo de procesamiento, las veces que lo desee.
+Secci�n III
+Derecho de Rectificaci�n
+Art�culo 28. Derecho de Rectificaci�n. De conformidad con lo dispuesto por el art�culo 19 de la Ley, el titular podr� solicitar en todo momento al responsable del fichero de datos que rectifique sus datos personales que resulten ser inexactos o incompletos.
+Art�culo 29. Requisitos para el ejercicio del Derecho de Rectificaci�n. La solicitud de rectificaci�n deber� indicar a qu� datos personales se refiere, as� como, la correcci�n que haya de realizarse y deber� ir acompa�ada de la documentaci�n que sustente la procedencia de lo solicitado. El responsable del fichero de datos podr� ofrecer mecanismos que faciliten el ejercicio de este derecho en beneficio del titular.
+Secci�n IV
+Derecho de Cancelaci�n
+Art�culo 30. Derecho de Cancelaci�n. La cancelaci�n implica el cese en el tratamiento por parte del responsable del fichero de datos, a partir de un bloqueo de los mismos y su posterior supresi�n.
+Art�culo 31. Ejercicio del Derecho de Cancelaci�n. Salvo en los casos previstos en el art�culo 19, literal a), p�rrafo segundo, de la Ley, el titular de los datos podr� solicitar en todo momento al responsable del fichero de datos la cancelaci�n de los datos personales cuando hayan dejado de ser necesarios o pertinentes para la finalidad que dio lugar a su tratamiento o cuando considere que los mismos no est�n siendo tratados conforme a dicha Ley y el presente Reglamento.
+La cancelaci�n proceder� respecto de la totalidad de los datos personales del titular, contenidos en una base de datos, o s�lo parte de ellos, seg�n lo haya solicitado.
+Art�culo 32. Bloqueo. De resultar procedente la cancelaci�n, el responsable del fichero de datos deber�:
+a) Establecer un per�odo de bloqueo con el �nico prop�sito de determinar posibles responsabilidades en relaci�n con su tratamiento hasta el plazo de prescripci�n legal o contractual de �stas, y notificarlo al titular de los datos o a su representante en la respuesta a la solicitud de cancelaci�n;
+b) Atender las medidas de seguridad adecuadas para el bloqueo;
+c) Transcurrido el per�odo de bloqueo, llevar acabo la supresi�n correspondiente, bajo las medidas de seguridad previamente establecidas por el responsable del fichero de datos.
+Art�culo 33. Prop�sitos del Bloqueo. En t�rminos del art�culo 3, literal b) de la Ley, el bloqueo tiene como prop�sito impedir el tratamiento, a excepci�n del almacenamiento, o posible acceso por persona alguna, salvo que alguna disposici�n legal prevea lo contrario.
+El periodo de bloqueo ser� hasta el plazo de prescripci�n legal o contractual correspondiente y transcurrido �ste, se proceder� a la cancelaci�n de los datos personales en el fichero de datos en el que se encuentran.
+Secci�n V
+Derecho de Oposici�n
+Art�culo 34. Derecho de Oposici�n. Para efectos de lo establecido en el art�culo 9, p�rrafo segundo de la Ley, el titular de los datos tiene derecho a que no se lleve a cabo el tratamiento de sus datos personales o se cese en el mismo, cuando no hubiere prestado su consentimiento para su recopilaci�n por haber sido tomados de fuentes de acceso p�blico.
+A�n cuando hubiere prestado su consentimiento, el titular de los datos tiene derecho a oponerse al tratamiento de sus datos, si acredita la existencia de motivos fundados y leg�timos relativos a una concreta situaci�n personal que justifiquen el ejercicio de este derecho.
+En caso que la oposici�n resulte justificada el responsable del fichero de datos deber� proceder al cese del tratamiento que ha dado lugar a la oposici�n.
+No proceder� el ejercicio del derecho de oposici�n en aquellos casos en los que el tratamiento sea requerido por ley.
+CAP�TULO VI
+PROCEDIMIENTO PARA INTERPONER LA ACCI�N DE PROTECCI�N DE DATOS PERSONALES
+Secci�n I
+Disposiciones Generales
+Art�culo 35. De la investigaci�n e instrucci�n del expediente. Cuando la DIPRODAP tenga conocimiento de cualquier infracci�n a la Ley, su Reglamento y dem�s disposiciones conexas, iniciar� la investigaci�n e instrucci�n del expediente de conformidad al procedimiento administrativo establecido en el presente Reglamento.
+Art�culo 36. Inicio del procedimiento de protecci�n de datos a trav�s de la v�a administrativa. Para efectos de lo establecido en el art�culo 47 de la Ley, el procedimiento se iniciar� a instancia del titular de los datos o de su representante legal, expresando con claridad el contenido de su reclamo y de los preceptos de la Ley que se consideran vulnerados. La acci�n de protecci�n de datos personales deber� presentarse ante la DIPRODAP.
+Recibida la solicitud de acci�n de protecci�n de datos personales por la DIPRODAP, se dar� traslado de la misma al responsable del fichero de datos, para que, en el plazo de quince d�as h�biles, emita respuesta, ofrezca las pruebas que estime pertinentes y manifieste por escrito lo que tenga a bien.
+La DIPRODAP admitir� las pruebas que estime pertinentes. Asimismo, podr� solicitar del responsable del fichero de datos las dem�s pruebas que estime necesarias. Concluido el proceso de an�lisis de las pruebas, la DIPRODAP notificar� al responsable el derecho que le asiste para que, de considerarlo necesario, presente sus alegatos dentro de los cinco d�as h�biles siguientes a su notificaci�n.
+La DIPRODAP resolver� sobre la solicitud de acci�n de protecci�n de datos formulada, una vez analizadas las pruebas y dem�s elementos de convicci�n que estime pertinentes, como pueden serlo aqu�llos que deriven de la o las audiencias que se celebren con las partes.
+Art�culo 37. Plazo para resolver. El plazo m�ximo que tiene la DIPRODAP para dictar la resoluci�n en el procedimiento de solicitudes de acci�n de protecci�n de datos personales ser� de cincuenta (50) d�as h�biles, contados a partir de la fecha de presentaci�n de la solicitud de acci�n correspondiente. Cuando haya causa justificada, la DIPRODAP podr� ampliar por una vez y hasta por un per�odo igual este plazo.
+Art�culo 38. Presentaci�n de solicitudes incompletas. En caso de que la solicitud de acci�n de protecci�n de datos personales no satisfaga alguno de los requisitos de informaci�n a que se refiere el art�culo 42 de este Reglamento, y la DIPRODAP no cuente con elementos para subsanarlo, se prevendr� al titular de los datos, por una sola ocasi�n, para que subsane las omisiones dentro de un plazo de cinco (5) d�as h�biles contados a partir de la respectiva notificaci�n. Transcurrido el plazo sin que se completen o subsanen las omisiones notificadas, se tendr� por no presentada la solicitud de acci�n de protecci�n de datos personales. La prevenci�n tendr� el efecto de interrumpir el plazo que tiene la DIPRODAP para resolver la solicitud de acci�n de protecci�n de datos.
+Art�culo 39. Causales de denegaci�n de solicitudes de acci�n. La solicitud de acci�n de protecci�n de datos personales ser� denegada por improcedente en los siguientes casos:
+a) Cuando la DIPRODAP no sea competente;
+b) Cuando la DIPRODAP haya conocido anteriormente de la solicitud de acci�n de protecci�n de datos personales contra el mismo acto y resuelto en definitiva respecto del mismo recurrente;
+c) Cuando se est� tramitando ante los tribunales competentes alg�n recurso o medio de defensa interpuesto por el titular de los datos que pueda tener por efecto modificar o revocar el acto respectivo; o
+Art�culo 40. Conciliaci�n. Una vez admitida la solicitud de acci�n de protecci�n de datos, la DIPRODAP citar� a las partes a un proceso de conciliaci�n entre el titular de los datos y el responsable del fichero de datos.
+Art�culo 41. Procedimiento de conciliaci�n. Admitida la solicitud, la DIPRODAP promover� la conciliaci�n entre las partes, la cual se llevar� a cabo sigui�ndose el procedimiento que para tal efecto establezca la DIPRODAP mediante normativa de car�cter general.
+De llegarse a un acuerdo de conciliaci�n entre las partes, �ste se har� constar por escrito y tendr� efectos vinculantes. La solicitud de acci�n de protecci�n de datos personales quedar� sin efectos y la DIPRODAP verificar� el cumplimiento del acuerdo respectivo.
+Art�culo 42. Resoluciones favorables al solicitante. En caso que la acci�n de protecci�n de datos personales resulte favorable al solicitante, la DIPRODAP requerir� al responsable del fichero de datos que dentro de los diez (10) d�as h�biles siguientes a la notificaci�n de la resoluci�n respectiva, haga efectivo el ejercicio del derecho a la acci�n de protecci�n de datos personales, debiendo dar cuenta por escrito de dicho cumplimiento a la DIPRODAP dentro de los siguientes diez (10) d�as h�biles.
+El responsable del fichero de datos proceder� al cumplimiento de la resoluci�n que dicte la DIPRODAP sin costo alguno para el solicitante.
+Secci�n II
+Disposiciones Particulares
+Art�culo 43. Requisitos de informaci�n de la solicitud. La solicitud de acci�n de protecci�n de datos personales ser� presentada ante la DIPRODAP, por escrito, y deber� contener la siguiente informaci�n:
+a) El nombre del titular de los datos o, en su caso, el de su representante legal;
+b) El nombre del responsable del fichero de datos que motiv� la presentaci�n de la acci�n de protecci�n de datos personales;
+c) Los actos que motivan su solicitud de acci�n de protecci�n de datos personales;
+d) Las pruebas que ofrece para demostrar sus afirmaciones;
+e) El domicilio para o�r y recibir notificaciones; y
+f) Los dem�s elementos que se considere procedente hacer del conocimiento de la DIPRODAP.
+Art�culo 44. Plazo para admitir la solicitud. La DIPRODAP deber� admitir o rechazar la solicitud de acci�n de protecci�n de datos personales en un plazo no mayor a diez (10) d�as h�biles a partir de su recepci�n.
+Admitida la solicitud, la DIPRODAP notificar� la misma al solicitante y correr� traslado al responsable del fichero de datos, en un plazo no mayor a diez (10) d�as h�biles, anexando copia de todos los documentos que el solicitante hubiere aportado, a efecto de que manifieste lo que a su derecho convenga en un plazo de quince (15) d�as h�biles a partir de la notificaci�n, debiendo ofrecer las pruebas que considere pertinentes.
+Art�culo 45. Admisi�n o rechazo de pruebas. La DIPRODAP resolver� sobre la admisi�n o rechazo de las pruebas presentadas por el responsable del fichero de datos, y de ser necesario, �stas ser�n evacuadas en una audiencia, de la cual se notificar� el lugar, la fecha y hora a las partes.
+Art�culo 46. Presentaci�n de alegatos finales. Dictada la resoluci�n que tenga por evacuadas todas las pruebas, se pondr�n las actuaciones a disposici�n de las partes para que �stos, en caso de quererlo, formulen alegatos en un plazo de cinco (5) d�as h�biles, contados a partir de la notificaci�n de la resoluci�n a que se refiere este art�culo. Al t�rmino de dicho plazo, se cerrar� la instrucci�n y la DIPRODAP emitir� su resoluci�n definitiva.
+Art�culo 47. Tercero interesado. En caso de que no se haya se�alado tercero interesado, �ste podr� a personarse en el procedimiento mediante escrito en el que acredite inter�s jur�dico para intervenir en el asunto, hasta antes del cierre de instrucci�n. Deber� adjuntar a su escrito el documento en el que se acredite su personalidad cuando no act�e en nombre propio y las pruebas documentales que ofrezca.
+Art�culo 48. Recursos contra las Resoluciones de la DIPRODAP. Contra las resoluciones que dicte la DIPRODAP, se podr�n interponer los recursos previstos en el art�culo 52 de la Ley.
+CAP�TULO VII
+PROCEDIMIENTO DE INSPECCI�N
+Art�culo 49. Inicio del procedimiento. Con el objeto de comprobar el cumplimiento de las disposiciones previstas en la Ley o en la regulaci�n que de ella derive, la DIPRODAP podr�, de oficio o a petici�n de parte, iniciar el procedimiento de inspecci�n, requiriendo al responsable del fichero de datos la documentaci�n necesaria o realizando las visitas en el establecimiento en donde se encuentren las bases de datos respectivas.
+Cualquier persona podr� denunciar ante la DIPRODAP las presuntas violaciones a las disposiciones previstas en la Ley o en la regulaci�n que de ella derive. En este caso, la DIPRODAP acusar� recibo de la misma y podr� solicitar al denunciante la documentaci�n que estime pertinente para determinar la procedencia o no de la denuncia presentada.
+Art�culo 50. Visitas de Inspecci�n. Los inspectores de fichero de datos que lleven a cabo visitas de inspecci�n deber�n estar provistos de la orden de inspecci�n firmada por la autoridad competente de la DIPRODAP, en la que deber� precisarse la informaci�n establecida en el art�culo 43 de la Ley.
+Art�culo 51. Identificaci�n de los Inspectores de Ficheros de Datos. Para efectos de lo establecido en el art�culo 33 de la Ley, al iniciar la visita, los inspectores de ficheros de datos deber�n exhibir credencial vigente con fotograf�a, que contenga su nombre completo y apellidos, y n�mero de empleado, expedida por la DIPRODAP que lo acredite para desempe�ar dicha funci�n, as� como la orden escrita fundada y motivada a la que se refiere el art�culo anterior, de la que deber� dejar copia con quien se entendi� la visita.
+Art�culo 52. Acta de Inspecci�n. Las visitas de inspecci�n concluir�n con el levantamiento del acta correspondiente, en la que quedar� constancia de las actuaciones practicadas durante la visita o visitas de inspecci�n. Dicha acta se levantar� en presencia de dos testigos propuestos por la persona con quien se hubiera entendido la diligencia o por quien la practique si aqu�lla se hubiera negado a proponerlos.
+El acta que se emita por duplicado ser� firmada por el inspector respectivo y por el responsable del fichero de datos, encargado o con quien se haya entendido la actuaci�n, quien podr� manifestar lo que a su derecho convenga.
+En caso de que el responsable del fichero de datos o encargado se niegue a firmar el acta, se har� constar expresamente esta circunstancia en la misma. Dicha negativa no afectar� la validez de las actuaciones o de la propia acta. La firma del responsable o encargado no supondr� su conformidad, sino tan s�lo la recepci�n de la misma.
+El inspector deber� entregar al responsable del fichero de datos uno de los originales del acta de inspecci�n, incorporando el otro a las actuaciones.
+Art�culo 53. Contenido de las Actas de Inspecci�n. En las actas de inspecci�n se har� constar lo siguiente:
+a) Nombre, denominaci�n o raz�n social del responsable del fichero de datos;
+b) Hora, d�a, mes y a�o en que se inicie y concluya la inspecci�n;
+c) La direcci�n de las oficinas del responsable del fichero de datos donde se practique la inspecci�n, as� como, n�mero telef�nico, fax, correo electr�nico
+u otra forma de comunicaci�n disponible;
+d) N�mero y fecha de la orden que la motiv�;
+e) Nombre y cargo de la persona con quien se entendi� la inspecci�n;
+f) Nombre y domicilio de las personas que fungieron como testigos;
+g) Datos relativos a la actuaci�n;
+h) Declaraci�n del responsable del fichero de datos o encargado, si quisiera hacerla, y
+i) Nombre y firma de quienes intervinieron en la inspecci�n, incluyendo los de quienes la hubieran llevado a cabo. Si se negara a firmar el inspeccionado, su representante legal o la persona con quien se entendi� la inspecci�n, ello no afectar� la validez del acta, debiendo el personal inspector asentar la raz�n relativa.
+Los responsables de ficheros de datos a quienes se haya levantado acta de inspecci�n, podr�n formular observaciones en el acto de la inspecci�n y manifestar lo que a su derecho convenga en relaci�n a los hechos contenidos en ella, o bien, por escrito dentro del t�rmino de los cinco (5) d�as h�biles siguientes a la fecha en que se hubiere levantado.
+Art�culo 54. Resoluci�n. El procedimiento de inspecci�n concluir� con la resoluci�n que emita la DIPRODAP, en la cual, en su caso, se establecer�n las medidas que deber� adoptar el responsable del fichero de datos en el plazo que la misma establezca.
+La resoluci�n de la DIPRODAP podr� instruir el inicio del procedimiento de imposici�n de sanciones o establecer un plazo para su inicio, el cual se llevar� a cabo conforme a lo dispuesto por la Ley y el presente Reglamento.
+La resoluci�n de la DIPRODAP ser� notificada al responsable del fichero de datos inspeccionado y al denunciante.
+Art�culo 55. Medios de Impugnaci�n. En contra de la resoluci�n que dicte la DIPRODAP, se podr�n interponer los recursos previstos en el art�culo 52 de la Ley.
+CAP�TULO VIII
+PROCEDIMIENTO SANCIONADOR
+Art�culo 56. Inicio. La DIPRODAP iniciar� el procedimiento de imposici�n de sanciones cuando determine presuntas infracciones a la Ley y a las regulaciones que de ella se deriven, susceptibles de ser sancionadas conforme al art�culo 46 de la misma. Finalizado el procedimiento respectivo, se emitir� la resoluci�n correspondiente.
+El procedimiento iniciar� con la notificaci�n que se haga al presunto infractor, en el domicilio que la DIPRODAP tenga registrado.
+La notificaci�n ir� acompa�ada de un informe que describa los hechos constitutivos de la presunta infracci�n, emplazando al presunto infractor para que en un t�rmino de quince (15) d�as h�biles, contados a partir de la notificaci�n, manifieste lo que tenga a bien y rinda las pruebas que estime convenientes.
+Art�culo 57. Ofrecimiento y Evacuaci�n de Pruebas. El presunto infractor en su contestaci�n se manifestar� concretamente respecto de cada uno de los hechos que se le imputen de manera expresa, afirm�ndolos, neg�ndolos, se�alando que los ignora por no ser propios o exponiendo c�mo ocurrieron, seg�n sea el caso; y presentar� los argumentos por medio de los cuales desvirt�e la infracci�n que se presume y las pruebas correspondientes.
+En caso de que se ofrezca prueba pericial o testimonial, se precisar�n los hechos sobre los que deban versar y se se�alar�n los nombres y domicilios del perito o de los testigos, exhibi�ndose el cuestionario o el interrogatorio respectivo en preparaci�n de las mismas. Sin estos se�alamientos se tendr�n por no ofrecidas dichas pruebas.
+Art�culo 58. Admisi�n o Rechazo de las Pruebas. Una vez presentadas las pruebas por el presunto infractor, la DIPRODAP deber� resolver si las admite o rechaza, y se proceder� a su evacuaci�n.
+De ser necesario, se determinar� lugar, fecha y hora para la evacuaci�n de pruebas, que por su naturaleza as� lo requieran. Se levantar� un acta de la celebraci�n de la audiencia y de la evacuaci�n de las pruebas.
+Art�culo 59. Cierre de Instrucci�n y Resoluci�n. Evacuadas, en su caso, las pruebas, se notificar� al presunto infractor que cuenta con cinco (5) d�as h�biles para presentar alegatos, contados a partir del d�a siguiente de que surta efectos la notificaci�n. Al t�rmino de dicho plazo se cerrar� la instrucci�n y la resoluci�n de la DIPRODAP deber� emitirse en un plazo no mayor de cincuenta (50) d�as h�biles, siguientes a los que inici� el procedimiento.
+Cuando haya causa justificada, la DIPRODAP podr� ampliar por una vez y hasta por un per�odo igual el plazo de cincuenta d�as al que refiere el p�rrafo anterior.
+Art�culo 60. Medios de Impugnaci�n. En contra de la resoluci�n que dicte la DIPRODAP, se podr�n interponer los recursos previstos en el art�culo 52 de la Ley.
+CAP�TULO IX
+DISPOSICIONES FINALES
+Art�culo 61. Excepciones. Para efectos de lo establecido en el art�culo 24 de la Ley, la Polic�a Nacional y el Ej�rcito de Nicaragua podr�n emitir las disposiciones administrativas correspondientes al tratamiento de datos personales contenidos en sus ficheros de datos, sin detrimento de lo establecido en la Ley y el presente Reglamento.
+Art�culo 62. Potestad Normativa. De conformidad con las facultades establecidas en el art�culo 29, inciso b) de la Ley, corresponder� a la DIPRODAP regular mediante normas de car�cter general y disposiciones administrativas aspectos que resulten necesarios para dar cumplimiento a los preceptos establecidos en la Ley y en el presente reglamento.
+Art�culo 63. Vigencia . El presente reglamento entrar� en vigencia a partir de su publicaci�n en La Gaceta, Diario Oficial.
+Dado en la Ciudad de Managua, Casa de Gobierno, Rep�blica de Nicaragua, el d�a diecisiete de Octubre del a�o dos mil doce. Daniel Ortega Saavedra, Presidente de la Rep�blica de Nicaragua. Iv�n Acosta Montalv�n, Ministro de Hacienda y Cr�dito P�blico.
+Asamblea Nacional de la Rep�blica de Nicaragua
+Complejo Legislativo "Carlos N��ez T�llez"
+Avenida Peatonal General Augusto C. Sandino
+Edificio Gral. Benjam�n Zeled�n, 7mo. Piso
+Tel�fono Directo: 2276-8460. Ext.: 281
+Enviar sus comentarios a: Direcci�n de Informaci�n Legislativa
