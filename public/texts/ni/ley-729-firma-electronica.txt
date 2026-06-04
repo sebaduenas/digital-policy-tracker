@@ -1,0 +1,726 @@
+30-08-10
+
+LA GACETA - DIARIO OFICIAL 165
+
+ASAMBLEA NACIONAL
+
+Ley No. 729
+El Presidente de la Republica de Nicaragua
+Asus habitantes, Sabed:
+
+Que,
+LA ASAMBLEA NACIONAL
+
+Ha ordenado la siguiente:
+LEY DE FIRMA ELECTRONICA
+
+CAPITULO I
+DISPOSICIONES GENERALES
+
+Articulo 1 Objeto de la Ley.
+
+La presente Ley tiene por objeto otorgar y reconocer eficacia y valor juridico
+a la firma electronica y a los certificados digitales y a toda informacion
+inteligible en formato electrénico, independientemente de su soporte
+material, atribuible a personas naturales o juridicas, publicas o privadas, asi
+como regular todo lo relativo a los proveedores de servicios de certificacién.
+
+Art. 2 Ambito de Aplicacién.
+
+Las disposiciones de la presente Ley seran aplicadas dentro del territorio
+nacional a todos los actos 0 contratos en que se utilice firma electronica en
+el contexto de las actividades no comerciales y comerciales, que garanticen
+su autenticidad e integridad de los documentos electrénicos.
+
+Art. 3 Definiciones:
+Para los fines de la presente Ley se entiende por:
+
+Acreditacién voluntaria: Autorizacion otorgada por el organismo piblico
+encargado de su acreditacion y supervision, a peticién del proveedor al que
+se beneficie, y que establece los derechos y obligaciones especificas para la
+prestacién de servicios.
+
+Certificado: Certificacion electronica que vincula unos datos de verificacion
+de firma a una persona y confirma la identidad de esta.
+
+Certificado de firma electrénica: Es el documento electrénico firmado
+electrénicamente cuyos datos son vinculados a su titular, y suministrado por
+un proveedor de servicios de certificacién.
+
+Certificado digital: Certificacion electronica que da fe sobre los datos que
+identifican a quien posee la clave publica de un criptograma.
+
+Certificador: La entidad proveedora de servicios de certificacién de firma
+electronica.
+
+Clave criptografica: Aquella que se utiliza en un criptosistema asimétrico
+para acceder a un documento con firma electronica.
+
+Criptosistema asimétrico: Algoritmo que utiliza un par de claves, una
+clave privada para firmar electrénicamente y su correspondiente clave
+publica para verificar dicha firma electronica.
+
+Datos de creacién de firma: Son los datos tnicos, cédigos o claves
+criptogrAficas privadas, que el firmante utiliza para crear la firma electronica.
+
+Dispositivos de creacién de firma: Es un mecanismo que sirve para
+aplicar los datos de creacién de firma.
+
+Dispositivo seguro de creacién de firma: Es el mecanismo de creacién
+de firma que cumple los requisitos establecidos en la presente Ley y su
+
+reglamento.
+
+Datos de verificacién de firma: Son los datos, cédigos 0 claves criptograficas
+publicas, que se utilizan para verificar la firma electronica.
+
+Dispositivo de verificacién de firma: Es un programa informatico
+configurado 0 un aparato informatico configurado, que sirve para aplicar los
+datos de verificacién de firma.
+
+Documento electrénico: Toda informacién generada, transferida,
+comunicada o archivada, por medios electrénicos, épticos u otros andlogos.
+
+Encriptar: Es el acto de utilizar una clave Gnica antes de intercambiar
+informacion.
+
+Firma electrénica: Son datos electrénicos integrados en un mensaje de
+datos o légicamente asociados a otros datos electrénicos, que puedan ser
+utilizados para identificar al titular en relaci6n con el mensaje de datos ¢
+indicar que el titular aprueba la informacién contenida en el mensaje de datos.
+
+Firma electrénica certificada: Es la que permite identificar al titular y
+ha sido creada por medios que este mantiene bajo su exclusivo control, de
+manera que vinculada al mismo y a los datos a los que se refiere, permite que
+sea detectable cualquier modificacién ulterior a estos.
+
+Mensaje de datos: Es la informacién generada, enviada, recibida o
+archivada por medios electrénicos, 6pticos o similares, como pudieran ser,
+entre otros, el intercambio electrénico de datos (EDJ), el correo electrénico,
+el telegrama, el télex o el telefax.
+
+Producto de firma electrénica certificada: El programa informatico o
+el material informatico, o sus componentes especificos, que se destinan a ser
+utilizados por el proveedor de servicios de certificacién para la prestacion
+de servicios de firma electronica o que se destinan a ser utilizados para la
+creacion o la verificacién de firmas electrénicas.
+
+Proveedor de servicios de certificacién: Entidades que otorgan, registran,
+mantienen y publican los certificados de firma electronica, para lo cual
+generan, reconocen y revocan claves en forma expedita y segura, siendo
+personas juridicas que pueden prestar otros servicios relacionados con la
+firma electrénica.
+
+Titular: Es la persona que posee los datos de creacién de la firma y que actha
+en nombre propio o de la persona que representa.
+
+Art. 4 Interpretacién de la Ley.
+
+En la interpretacién de la presente Ley se tendra en cuenta los métodos
+aceptados por el derecho comin, asi como las recomendaciones de organismos
+multilaterales en la materia, la necesidad de promover la uniformidad de su
+aplicacién y la observancia de la buena fe.
+
+Art. 5 Requisitos de Validez de la Firma Electrénica Certificada.
+Una firma electronica certificada es valida si cumple los siguientes requisitos:
+
+1. Que los datos de creacién de firma correspondan exclusivamente al titular;
+2. Que el certificado reconocido en que se base, haya sido expedido por un
+proveedor de servicios de certificacién acreditado; y
+
+3. Cuando el dispositivo seguro de creacién de firma provenga de un
+proveedor de servicios de certificacion acreditado.
+
+Art. 6 Efectos Juridicos de Ja Firma Electrénica.
+
+La firma electronica certificada tendré el mismo valor juridico que la firma
+manuscrita. Sera admisible como medio de prueba en el proceso judicial 0
+administrativo, valorandose ésta, segin los criterios de apreciacién
+establecidos en las leyes de la materia.
+
+Cuando la ley exija la firma manuscrita de una persona, ese requisito quedara
+cumplido con una firma electronica certificada. Se exceptuan los casos
+
+4683
+
+
+30-08-10
+
+LA GACETA - DIARIO OFICIAL 165
+
+siguientes:
+
+1. Actos juridicos del derecho de familia;
+
+2. Actos personalisimos en general;
+
+3. Disposiciones por causa de muerte; y
+
+4. Aquellos actos que deban ser realizados bajo las formalidades exigidas por
+la Ley de la materia o por aquellos acuerdos entre las partes.
+
+Art. 7 Extincién de la Firma Electrénica.
+La firma electrénica se extinguira por las siguientes circunstancias:
+
+1. A solicitud de su titular;
+
+2. Fallecimiento o incapacidad definitiva de su titular;
+
+3. Por cese de la actividad del proveedor de servicios de certificacion, en el
+caso de la firma electronica certificada;
+
+4. Disolucién o liquidacién de la persona juridica, titular de la firma; y
+
+5. Por causa judicial que asi lo declare.
+
+La extincion de la firma electrénica no releva de las obligaciones contraidas
+en el ambito civil, administrativo, comercial, laboral y penal.
+
+CAPITULO II
+DE LOS CERTIFICADOS DE FIRMA ELECTRONICA
+
+Art. 8 Requisitos de Validez de tos Certificados de Firma Electronica.
+Los certificados de firma electronica deberén cumplir con los siguientes
+requisitos de validad minimos:
+
+1, Indicar que el certificado se expide como certificado electrénico;
+
+2. Identificar al proveedor de servicios de certificacion y el pais en que se
+encuentra establecido;
+
+3. Contener el nombre y los apellidos del titular o un seudénimo que conste
+como tal;
+
+4. Designarun atributo especifico del titular, en caso de que fuera significativo
+en funcién de la finalidad del certificado;
+
+5. Contener los datos de verificacién de firma que correspondan a los datos
+de creacién de firma bajo control del titular;
+
+6. Estipular una indicacién relativa al periodo de validez del certificado;
+7. Contener el cédigo identificativo del certificado;
+
+8. Identificar la firma electrénica certificada del proveedor de servicios de
+certificacién que expide el certificado;
+
+9. Determinar los limites de uso del certificado; y
+
+10. Establecer los limites del valor de las transacciones para las que puede
+utilizarse el certificado, si procede.
+
+La consignacién en el certificado de cualquier otra informacién relativa al
+titular requeriré su consentimiento expreso, siempre y cuando no contravenga
+la presente Ley.
+
+Art. 9 Mensajes de Datos Firmados Digitalmente.
+
+Se entenderd que un mensaje de datos ha sido firmado digitalmente si el
+simbolo o lametodologia adoptada por la parte cumplen con un procedimiento
+de autenticacién o seguridad establecido por el reglamento de la presente Ley.
+Cuando una firma electrénica haya sido fijada en un mensaje de datos se
+presume que el suscriptor de aquella tenia la intencién de acreditar ese
+mensaje de datos y de ser vinculado con el contenido del mismo.
+
+Art. 10 Periodo de Vigencia del Certificado de Firma Electrénica.
+El certificado de firma electrénica es valido dentro del periodo por el cual
+fue establecido. Los certificados de firma clectrénica quedaran sin efecto por
+el uso indebido, alteracién, sustraccién al proveedor autorizado, y ademas,
+por el incumplimiento de los requisitos de validez establecidos en 1a presente
+Ley.
+
+Art. 11 Reconocimiento de Certificados Extranjeros.
+
+Todo certificado de firma electrénica expedido en el extranjero sera
+reconocido por la instancia rectora de acreditacién de firma electronica, en
+los mismos términos y condiciones establecidos en la presente Ley, su
+
+reglamento o convenios establecidos para tal fin.
+
+El Reglamento a la presente Ley establecera el procedimiento de
+reconocimiento.
+
+CAPITULO III
+USO DE LA FIRMA ELECTRONICA EN EL ESTADO
+
+Art. 12 Uso de la Firma Electrénica en el Estado.
+
+Se autoriza el uso de la firma electronica certificada a las instituciones det
+Estado, entes desconcentrados, descentralizados y auténomos; para que
+emitan documentos electronicos, celebren toda clase de contratos electronicos
+en sus relaciones entre si 0 con personas naturales o juridicas.
+
+Se exceptian aquellos casos mediante el cual la Ley exija la solemnidad que
+no pueda ser satisfecha por ia presente Ley.
+
+Art. 13 Validez de los Actos, Contratos y Documentos Electrénicos.
+Los actos, contratos y documentos electrénicos de las instituciones y entes
+referidos en el articulo anterior, suscritos mediante firma electrénica
+certificada, seran validos y produciran los mismos efectos que los expedidos
+por firma manuscrita.
+
+Art. 14 Notificacién Electrénica.
+
+Se autoriza a las Instituciones del Estado a realizar la notificacién electrénica
+a las personas naturales o juridicas, que sean parte de un proceso judicial o
+administrativo, en el domicilio del correo electrénico que designen para tal
+efecto los interesados y bajo su consentimiento.
+
+En el caso de las personas juridicas, la notificacién se hard a su representante
+legal, abogado, fiscal o procurador designado en las oficinas que estos tuvieren
+o domicilio del correo electrénico que sefialaren. El reglamento a la presente
+ley establecera el procedimiento.
+
+CAPITULO IV
+DELAENTIDAD RECTORA
+
+Art. 15 Entidad Rectora de Acreditacién de Firma Electrénica.
+
+Se designa a la Direccién General de Tecnologia, conocida en adelante como
+DGTEC, dependencia del Ministerio de Hacienda y Crédito Publico, como
+el ente rector del proceso de acreditacién de firma electrénica.
+
+La DGTEC, ademas de las potestades establecidas en las leyes de la materia,
+tendra las siguientes:
+
+1. Autorizar, inspeccionar y evaluar a los proveedores de servicios de
+certificacion;
+
+2. Cancelar o suspender la autorizacién otorgada a los proveedores de
+servicios de certificacién;
+
+3. Administrar el registro de proveedores de servicios de certificacién, que
+para tal efecto se conformara dentro de la DGTEC;
+
+4, Gestionar, por medio de la Direccién General de Ingresos, los ingresos
+provenientes de las tasas y multas establecidas en la presente Ley;
+
+5. Administrar y ejecutar su presupuesto de conformidad con la Ley de la
+materia;
+
+6. Supervisar la prestacién de los servicios que brinden los proveedores de
+servicios de certificacion;
+
+7. Aplicar las sanciones administrativas que correspondan;
+
+8. Seleccionar y contratar al personal técnico administrativo para el
+desempefio de sus funciones de conformidad con la ley de la materia;
+
+9. Solicitar la informacién a los proveedores de servicios de certificacion;
+10. Realizar auditorias técnicasa los proveedores de servicios de certificacion;
+
+11. Velar por el cumplimiento de la presente Ley y su reglamento.
+Art. 16 Confidencialidad.
+
+El personal de la DGTEC, esta obligado a guardar la confidencialidad de la
+informacién y custodia de los documentos que le entreguen los proveedores
+
+4684
+
+
+30-08-10
+
+LA GACETA - DIARIO OFICIAL 165
+
+de servicios de certificacién acreditados.
+
+El Reglamento a la presente Ley estableceré las condiciones de
+confidencialidad.
+
+Art. 17 Presupuesto.
+
+Los ingresos que la DGTEC gestione por los servicios que brinde ante los
+proveedores acreditados de servicios de certificacién 0 ante cualquier otra
+persona natural o Juridica, donaciones y ayudas financieras nacionales e
+internacionales formaran parte del Tesoro Nacional de conformidad con la
+Ley No. 550, “Ley de Administracién Financiera y del Régimen
+Presupuestario”.
+
+Art. 18 Tasas.
+Se establecen las siguientes tasas por los servicios de la DGTEC:
+
+1. Por la acreditacion de la prestacién de servicios de certificacién por un
+término de cinco afios, se cobrara una tasa de Un Mil Délares de los Estados
+Unidos de América (US$ 1,000.00) 0 su equivalente en cérdobas;
+
+2. Por la renovacién de la prestacién de servicios de certificacién, se cobrara
+una tasa de Quinientos Délares de los Estados Unidos de América (US$
+500.00) o su equivalente en cérdobas.
+
+Art. 19 Facultades del Director.
+
+El Director General de la DGTEC tendra, sin perjuicio de las ya establecidas
+en el Decreto Ejecutivo No. 71-98, “Reglamento de la Ley No. 290, Ley
+de Organizacién, Competencia y Procedimientos del Poder Ejecutivo”,
+publicado en La Gaceta, Diario Oficial No. 205 del 30 de octubre de 1998,
+y sus posteriores reformas y adiciones, las siguientes facultades:
+
+1. Representar legalmente a la DGTEC;
+
+2. Suscribir los acuerdos, resoluciones y documentos relacionados con la
+entidad en menci6n;
+
+3. Firmar los contratos del personal a su cargo;
+
+4. Elaborar el informe de trabajo en la fecha correspondiente; y
+
+5. Suscribir convenios e instrumentos de colaboracién con organismos afines
+a la entidad publicos o privados, nacionales e internacionales.
+
+CAPITULO V .
+DE LOS PROVEEDORES DE SERVICIOS DE CERTIFICACION
+
+Art. 20 Requisitos para ser Proveedor de Servicios de Certificacién.
+Para ser proveedor de servicios de certificacién se requiere:
+
+1. Un establecimiento permanente situado en territorio nicaragiiense donde
+resida de forma continua o habitual, asi como de instalaciones o lugares de
+trabajo en los que realice toda o parte de su actividad;
+
+2. Emplear personal que tenga los conocimientos especializados, la
+experiencia y las calificaciones necesarias correspondientes a los servicios
+prestados. En particular, el personal deber4 poseer competencia en materia
+de gestién informatica. Conocimientos técnicos en el ambito de la firma
+electronica y familiaridad con los procedimientos de seguridad adecuados.
+Tal personal debera poner en practica los procedimientos administrativos
+y de gestion adecuada y conformes anormas reconocidas internacionalmente;
+3, Contar con sistemas y productos fiables que estén protegidos contra toda
+alteracién a fin de garantizar la seguridad juridica, técnica y criptografica de
+los procedimientos con que trabajan; y la confidencialidad de la informacién;
+4. Ser persona juridica debidamente constituida e inscrita en el registro
+publico mercantil;
+
+5. Disponer de recursos econémicos suficientes para operar de conformidad
+con lo dispuesto en la presente Ley, en particular para afrontar el riesgo de
+responsabilidad por dafios y perjuicios, segin valoracién de la entidad
+rectora; y
+
+6. Contratar a uno o varios notarios publicos con cinco afios de experiencia
+profesional, a fin de que puedan dar fe publica sobre el cumplimiento de las
+obligaciones del proveedor de servicios en el momento del libramiento del
+certificado al titular.
+
+Art. 21 Obligaciones de los Proveedores de Servicios de Certificacién.
+Los proveedores de servicios de certificacién estan obligados a:
+
+1. Garantizar la utilizacién de un servicio expedito, seguro de guia de usuarios
+y de un servicio de revocacién seguro e inmediato;
+
+2. Garantizar que pueda determinarse con precisién la fecha y la hora en que
+se expidié o revocé un certificado;
+
+3. Comprobar, de conformidad con la legislacién correspondiente, la
+identidad y, si procede, cualesquiera atributos especificos de la persona a la
+que se expide un certificado reconocido;
+
+4. Contratar un seguro apropiado para responder por los dafios y perjuicios
+que ocasione ante et titular de la firma electronica o ante terceros;
+
+5. Registrar toda la informacién pertinente relativa a un certificado
+reconocido durante un periodo de tiempo adecuado, en particular para
+aportar pruebas de certificacién en procedimientos judiciales. Esta actividad
+de registro podra realizarse por medios electrénicos;
+
+6. Antes de entrar en una relacién contractual con una persona que solicite
+un certificado para apoyar a partir del mismo su firma electrénica, informar
+a dicha persona utilizando un medio de comunicacién no perecedero de las
+condiciones precisas de utilizacién del certificado, incluidos los posibles
+limites de la utilizacién del certificado, la existencia de un sistema voluntario
+de acreditacién y los procedimientos de reclamacién y solucién de litigios.
+Dicha informacion deberd hacerse por escrito, ante notario publico con
+cinco afios de experiencia profesional. Deberd estar redactada en un lenguaje
+facilmente comprensible. Las partes pertinentes de dicha informacién
+estaran también disponibles a instancias de terceros afectados por el
+certificado;
+
+7. Utilizar sistemas fiables para almacenar certificados de forma verificable,
+de modo que:
+
+a) Sélo personas autorizadas puedan hacer anotaciones y modificaciones;
+b) Pueda comprobarse la autenticidad de la informacion;
+
+¢) Los certificados estén a disposicién del publico para su consulta sélo en
+los casos en los que se haya obtenido el consentimiento del titular del
+certificado; y
+
+d) El agente pueda detectar todos los cambios que pongan en entredicho los
+Tequisitos de seguridad mencionados.
+
+Art. 22 Responsabilidades de los Proveedores de Servicios de
+Certificacién.
+Los proveedores de servicios de certificacién, son responsables de:
+
+1. Los dafios y perjuicios que en el ejercicio de sus funciones ocasionen por
+Ja certificacién u homologacién de certificados de firma electrénica. En todo
+caso, deberan demostrar que actuaron con la debida diligencia, se exceptuan
+los dafios ocasionados en el uso indebido o fraudulento de un certificado de
+firma electronica. En ningin caso la responsabilidad proveniente de una
+certificacién efectuada por un proveedor de servicio acreditado vincularé la
+responsabilidad pecuniaria det Estado;
+
+2, Tomar medidas de seguridad efectivas contra la falsificacién de certificados
+de firma electronica y garantizar la confidencialidad de la informacién y
+resguardo de los documentos durante el proceso de generacién de datos de
+creacién de firma; y
+
+3. No almacenar ni copiar los datos de creacién de firma electrénica de la
+persona a la que el proveedor de servicios de certificacién ha brindado
+servicios de gestién de claves.
+
+Art. 23 Requisitos de los Dispositivos Seguros de Creacién de Firma
+Electrénica.
+
+Los dispositivos seguros de creacién de firma electrénica tendran los
+siguientes requisitos minimos:
+
+1. Que los datos utilizados para la generaci6n de firma s6lo puedan producirse
+una vez en la practica y se garantice razonablemente su secreto;
+
+2. Que exista la seguridad razonable de que los datos utilizados para la
+generacion de firma no puedan ser hallados por deduccién y que la firma esté
+protegida contra la falsificacién mediante la tecnologia existente en la
+actualidad; y
+
+4685
+
+
+30-08-10
+
+LA GACETA - DIARIO OFICIAL 165
+
+3. Que fos datos utilizados para la generacion de firma puedan ser protegidos
+de forma fiable por el firmante legitimo contra su utilizacion por otros.
+
+Los dispositivos seguros de creacién de firma no alteraran los datos que deben
+firmarse ni impediran que dichos datos se muestren al firmante antes del
+proceso de firma.
+
+Art. 24 Requisitos para la Verificacién Segura de Firma.
+Durante el proceso de verificacién de firma, se requiere lo siguiente:
+
+1. Que los datos utilizados para verificar la firma correspondan a los datos
+mostrados al verificador;
+
+2. Que la firma se verifique de forma fiable y el resultado de esa verificacion
+figure correctamente;
+
+3. Que el verificador pueda, en caso necesario, establecer de forma fiable el
+contenido de los datos firmados;
+
+4. Que se verifiquen, de forma fiable, la autenticidad y la vatidez del
+certificado exigido al verificarse la firma;
+
+5. Que figuren correctamente el resultado de la verificacion y la identidad
+del firmante;
+
+6. Que conste claramente la utilizacién de un seudénimo; y
+
+7. Que pueda detectarse cualquier cambio pertinente relativo a la seguridad.
+
+Art. 25 Proteccién de los Datos Personales.
+Los datos personales del titular de la firma electrénica se protegeran en ta
+presente Ley y su reglamento de la siguiente manera:
+
+1. Ei tratamiento de los datos personales relacionados con los proveedores
+de servicios de certificacién para el desarrotlo de su actividad y el que realice
+el ente regulador que contiene Ja presente Ley, se sujeta a lo dispuesto en la
+Ley de la materia;
+
+2. Los proveedores de servicios de certificacién que expidan certificados de
+firma electronica a los titulares solamente pueden recabar los datos personales
+de los titulares de los mismos y con su consentimiento expreso, con la
+exclusiva finalidad de expedir y mantener el certificado. En caso que haya
+expedido un certificado a un Titular, utilizando un seuddnimo, deberdn
+constatar su verdadera identidad y conservar la documentacién que la
+acredite,
+
+CAPITULO Vi
+DE LA ACREDITACION DE LOS PROVEEDORES DE SERVICIOS
+DECERTIFICACION
+
+Art. 26 De la Acreditacién de los Proveedores de Servicios de
+Certificacién.
+
+La acreditacién es el acto mediante el cual el proveedor de servicios de
+certificacion es autorizado a funcionar como tal por la DGTEC, habiendo
+demostrado su capacidad técnica, infraestructura, recursos humanos y
+econdmicos, asi como programas informaticos necesarios para otorgar los
+certificados en el plazo establecido en la presente Ley y en su reglamento,
+
+permitiendo su inscripcion en el registro que para tal efecto se constituya.
+
+Art. 27 Procedimiento de Acreditacién de los Proveedores de Servicios
+de Certificacién.
+
+El procedimiento de acreditaci6n se llevard a cabo por medio de soticitud ante
+la DGTEC, la que adjuntard los requisitos establecidos en la presente Ley. La
+DGTEC, resolvera sobre dicha solicitud en un plazo de sesenta dias habiles
+a partir de Ja recepcién de la solicitud del interesado. Si pasado el término
+establecido la DGTEC no se pronunciare, la solicitud se entendera aceptada.
+En tal caso, el proceso de registro operara de mero derecho conforme a la
+solicitud con acuse de recibo en manos del interesado.
+
+Otorgada la acreditacién, el proveedor de servicios de certificacion sera
+inscrito en el Registro que se lleve para tal efecto por la DGTEC. El proveedor
+de servicios de certificacin esta obligado ainformarala DGTEC, en un plazo
+no mayor de tres dias habiles, de cualquier modificacién de las condiciones
+que permitieron su acreditacion.
+
+Art. 28 Causas de Cancelacién de la Autorizacién.
+
+La DGTEC, podra cancelar la autorizacién del proveedor de servicios de
+certificacién en el registro, por las siguientes causas:
+
+1. A solicitud del proveedor acreditado;
+2. Por pérdida de las condiciones que motivaron su acreditacién; ¢
+3. Incumplimiento de las obligaciones establecidas en la presente Ley y su
+reglamento.
+CAPITULO VII
+DERECHOS Y OBLIGACIONES DEL TITULAR DE FIRMA
+ELECTRONICA
+
+Art. 29 Derechos del Titular de Firma Electronica.
+El titular de firma electronica tendra los siguientes derechos:
+
+1. A ser informado por el proveedor de servicios de certificacién de todo lo
+relacionado con la creacién y verificacién de firma electronica, asi como de
+la prestacion del Servicio;
+
+2. A la confidencialidad en la informacién proporcionada a los proveedores
+de servicios de certificacion;
+
+3. A ser informado de los costos, uso, limitacién de uso, procedimientos de
+reclamos en los servicios de certificacién;
+
+4. No transferir sus datos a otro proveedor de servicios de certificacion sin
+su consentimiento expreso;
+
+5. Acceder al registro de proveedores acreditados que tendra la DGTEC; y
+6. Ser indemnizado y reclamar e] seguro comprometido cuando corresponda.
+
+Art. 30 Obligaciones del Titular de Firma Electrénica,
+
+El titular de firma electrénica, tendra las siguientes obligaciones:
+
+1, Brindar datos exactos y completos;
+
+2. Cuidar de manera responsable el mecanismo de seguridad para el
+funcionamiento del sistema de certificacién que les proporcione el
+certificador; y
+
+3. Actualizar sus datos 0 cancelarlos cuando estime conveniente.
+
+CAPITULO VIII
+INFRACCIONES Y SANCIONES
+
+Art. 31 Infracciones.
+Las Infracciones contenidas en la presente Ley y su reglamento, se clasifican
+en leves y graves.
+
+Art, 32 Infracciones Leves.
+Son infracciones leves:
+
+|. La entrega incompleta de la informacién o fuera del término previsto,
+solicitada por la entidad rectora;
+
+2. Emitir el certificado de firma electronica sin Ilenar los requisitos totales
+de los datos;
+
+3. Omitir el registro de los certificados expedidos;
+
+4, Omitir la revocacién en forma o tiempo de un certificado cuando
+corresponda hacerlo; e
+
+5. Incumplir las normas dictadas por la entidad rectora.
+
+Art. 33 Infracciones Graves.
+Son infracciones graves:
+
+1. La negligencia en la seguridad de los servicios de certificacién;
+
+2. No permitir la inspeccién u obstruir ta realizacién de las mismas 0
+auditorias técnicas por parte de la entidad rectora;
+
+3. Reincidir en la comisién de infracciones que dieran lugar a la sancién de
+suspension;
+
+4. Expedir certificados falsos;
+
+5. La comisién de delitos en la prestacién de servicio; y
+
+6. Uso indebido del certificado de firma electronica por omisiones, cuya
+responsabilidad es del proveedor de Servicios de certificacion.
+
+Art. 34 Establecimiento de Sanciones.
+Para el establecimiento de las sanciones, se tomara en cuenta lo siguiente:
+
+4686
+
+
+30-08-10 LA GACETA - DIARIO OFICIAL
+
+165
+
+1. La gravedad de las infracciones cometidas, asi como su reincidencia;
+2. El dafio causado o beneficio reportado al infractor;
+3. El efecto social de la infraccion.
+
+Art. 35 Sanciones Administrativas.
+
+La DGTEC, sin perjuicio de las responsabilidades civiles y penales que
+correspondan, impondra a los proveedores de servicios de certificacién, 0
+a sus representantes legales, o administradores, las siguientes sanciones
+administrativas:
+
+1. Amonestacién escrita;
+
+2. Multa de Cien Délares a Diez Mil Délares de los Estados Unidos de América
+0 su equivalente en Cordobas; -
+
+3. Suspensién temporal de hasta dos afios de la autorizacién de funcionamiento;
+y
+
+4, Cancelacion de la autorizacién para continuar operando como proveedora
+de servicios de certificacion.
+
+CAPITULO IX
+DE LOS RECURSOS ADMINISTRATIVOS
+
+Art. 36 De los Recursos Administrativos.
+
+Los recursos administrativos que se interpongan ante la DGTEC, se tramitaran
+conforme 1o establece la Ley No. 290, “Ley de Organizacién, Competencia
+y Procedimientos del Poder Ejecutivo”, aprobada el 27 de marzo de 1998
+y publicada en La Gaceta, Diario Oficial No. 102 del 3 de junio de 1998 y
+su reglamento.
+
+CAPITULO X
+DISPOSICIONES TFRANSITORIAS
+
+Art. 37 Plazo para la Implementacién de la Ley.
+Se autoriza a las instituciones det Estado, entes desconcentrados,
+descentralizados y autnomos para que implementen la presente Ley dentro
+del plazo de un afio calendario contado a partir de la entrada en vigencia de
+la misma.
+CAPITULO XI
+DESPOSICIONES FINALES
+
+Art. 38 Reglamentacién.
+
+La presente Ley sera reglamentada por el Presidente de la Repitblica dentro
+det plazo establecido en el numeral 10 del articulo 150 de ta Constitucién
+Politica de la Republica de Nicaragua.
+
+Art. 39 Vigencia.
+Esta Ley entrard en vigencia a partir de su publicacion en La Gaceta, Diario
+Oficial.
+
+Dadoen la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional,
+el primero de julio del aio dos mil diez. Ing. René Nuitez Téllez, Presidente
+de la Asamblea Nacional. Dr. Wilfredo Navarro Moreira, Secretario de
+la Asamblea Nacional.
+
+Por tanto. Téngase como Ley de la Republica. Publiquese y Ejecttese.
+Managua, diecisiete de Agosto del afio dos mil diez. DANIEL ORTEGA
+SAAVEDRA, PRESIDENTE DE LA REPUBLICA DE NICARAGUA.
+
+4687

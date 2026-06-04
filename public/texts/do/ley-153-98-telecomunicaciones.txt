@@ -1,0 +1,1311 @@
+Ley General de
+Telecomunicaciones
+Núm. 153-98
+G.O. 9983 DEL 28 DE MAYO DE 1998
+2                                                                                                    3
+
+
+                      CONSIDERANDO: Que es deber del Estado fomentar el desarrollo de las
+                      telecomunicaciones para contribuir a la expansión socioeconómica de la
+                      Nación;
+
+
+    EL CONGRESO       CONSIDERANDO: Que es de interés del Estado organizar y promover
+                      la competencia leal, eficaz y sostenible dentro del sector de las
+                      telecomunicaciones;
+
+
+    NACIONAL          CONSIDERANDO: Que es objetivo del Estado asegurar a la Nación un
+                      servicio de telecomunicaciones, a través de la participación del sector
+
+
+    EN NOMBRE DE LA
+                      privado, que sea eficiente, moderno y a costo razonable;
+
+                      CONSIDERANDO: Que es de interés del Estado garantizar los servicios
+                      de telecomunicaciones en condiciones asequibles en todo el país y para
+
+
+    REPÚBLICA
+                      todos los grupos sociales, conforme a los principios del servicio universal
+                      auspiciados por los organismos internacionales de que forma parte la
+                      República Dominicana;
+
+
+    LEY NÚM. 153-98   CONSIDERANDO: Que la Ley de telecomunicaciones Núm. 118, de fecha 1
+                      de febrero de 1966, debe ser sustituida por un nuevo instrumento legal que
+                      responda a las necesidades presentes y futuras del país, en consistencia con
+                      los acuerdos, convenios y tratados suscritos y ratificados por la República
+                      Dominicana.
+
+                      HA DADO LA SIGUIENTE LEY:
+                      LEY GENERAL DE TELECOMUNICACIONES
+4                                                                                                                                                                                           5
+                                                             Alquiler de circuitos: Cesión temporal en uso, brindada         Difusión sonora: Forma de telecomunicación que permite
+                                                             por un concesionario de servicio portador, del medio            la emisión o transmisión de señales audibles destinadas a
+                                                             para el establecimiento de un enlace punto a punto o de         la recepción directa por el público en
+                                                             punto a multipuntos, para la transmisión de señales de          general.
+                                                             telecomunicaciones, por cierta renta convenida.
+
+
+                        CAPÍTULO I
+                                                                                                                             Difusión televisiva: Forma de telecomunicación que
+                                                             Área de concesión: Área geográfica dentro de la                 permite la emisión o transmisión de imágenes no
+                                                             cual se permite la prestación de servicios públicos de          permanentes de objetos fijos o móviles, por medio de
+
+                        DEFINICIONES                         telecomunicaciones por un concesionario.                        ondas electromagnéticas transmitidas por cable, a través
+                                                                                                                             del espacio, sin guía artificial, ya sea mediante estaciones
+                                                             Asignación: Autorización del órgano regulador, en el acto       terrestres o satélites, o por cualquier otro
+                                                             de otorgar una concesión o licencia, para la utilización de     medio.
+                                                             una frecuencia asociada a determinadas
+                                                             condiciones de uso, por parte de una estación                   Discriminación: Es el trato desigual que se da a situaciones
+                                                             radioeléctrica.                                                 equivalentes.
+
+                                                             Atribución: Inscripción de una banda de frecuencias             Dominio público radioeléctrico: Se entiende por dominio
+    Artículo 1.-Definiciones de la ley                       determinada en el plan nacional de atribución de                público radioeléctrico el espectro radioeléctrico o espectro
+                                                             frecuencias, para que sea utilizada por uno o varios            de frecuencias radioeléctricas, y el espacio por el que
+     A los efectos de la presente ley y sus reglamentos de   servicios de radiocomunicación terrena o espacial o por el      pueden propagarse las ondas radioeléctricas o hertzianas.
+                                                             servicio de radioastronomía en condiciones especificadas.
+    aplicación, se entenderá por:
+                                                             Este término se aplica también a la banda de frecuencias        Equipo terminal: Dispositivo en el cual termina un circuito
+                                                             consideradas.                                                   de telecomunicaciones para permitir al usuario el acceso a
+                                                                                                                             un punto de terminación de red.
+                                                             Cliente: Usuario que ha celebrado un contrato de
+                                                             prestación de servicios públicos de telecomunicaciones,         Espectro radioeléctrico: Conjunto de ondas radioeléctricas
+                                                             con un concesionario de esos servicios.                         cuya frecuencia está comprendida entre los 9 kilohertzios
+                                                                                                                             y 3,000 gigahertzios.
+                                                             Competencia efectiva: Es aquella que tiene lugar entre
+                                                             dos o más personas, físicas o jurídicas, a fin de servir        Estación terrena: Estación situada en la superficie de la
+                                                             una porción determinada del mercado mediante el                 tierra, o en la parte principal de la atmósfera terrestre,
+                                                             mejoramiento de la oferta en calidad y precio, en beneficio     destinada a establecer comunicación con una o varias
+                                                             del cliente o usuario.                                          estaciones espaciales, así como, con una o varias
+                                                                                                                             estaciones de la misma naturaleza, mediante el empleo
+                                                             Competencia leal: Es aquella que se desarrolla sin incurrir     de una o varias estaciones satelitales reflectoras u otros
+                                                             en prácticas que actual o potencialmente la distorsionen        objetos situados en el espacio.
+                                                             o restrinjan. Esas prácticas pueden ser predatorias o
+                                                             restrictivas de la competencia, o bien, desleales.              Instalaciones esenciales: Toda instalación de una red
+                                                                                                                             o servicio público de transporte de telecomunicaciones
+                                                             Competencia sostenible: Es aquella que por sus                  que sea suministrada exclusivamente o de manera
+                                                             características puede perdurar en el tiempo, pues se basa       predominante por un solo proveedor o por un número
+                                                             en condiciones propias de la prestación.                        limitado de proveedores, y cuya sustitución con miras al
+                                                                                                                             suministro de un servicio no sea factible en lo económico
+                                                             Comunicaciones intraempresariales:                              o en lo técnico.
+                                                             Las telecomunicaciones mediante las cuales una sociedad
+                                                             se comunica internamente con sus filiales, sucursales y,
+                                                             a reserva de las leyes y reglamentos del país, afiliadas, o
+                                                             éstas se comunican entre sí. Las mismas no incluyen los
+                                                             servicios comerciales o no comerciales suministrados
+                                                             a sociedades que no sean filiales, sucursales o afiliadas
+                                                             vinculadas, o que se ofrezcan a clientes o posibles clientes.
+                                                                                                                                                                                                    7
+Interconexión: Unión de dos o más redes, técnica y              Posición dominante: Es aquella condición en la              Prácticas desleales: Es toda acción deliberada tendiente a
+funcionalmente compatibles, pertenecientes a diferentes         que se encuentra una prestadora de servicios de             perjudicar o eliminar a los competidores y/o confundir al usuario y/o
+operadoras de servicios públicos de telecomunicaciones,         telecomunicaciones que posee facilidades únicas o cuya
+                                                                                                                            a procurarse una ventaja ilícita, tales como:
+siendo el objeto de la unión transportar el tráfico de          duplicación sea antieconómica; o la condición en que
+señales que se cursen entre ellas. La interconexión incluye     se encuentran aquellas prestadoras de servicios que
+los mecanismos comerciales y técnicos con arreglo a los         tengan una situación monopólica en el mercado de un         a) Publicidad engañosa o falsa destinada a impedir o limitar la libre
+cuales los proveedores de servicios conectan sus equipos,       determinado servicio o producto de telecomunicaciones,      competencia;
+redes y servicios, para proporcionar a sus clientes, acceso     suficientemente importante como para permitirles
+a los clientes, servicios y redes de otros proveedores.         imponer su voluntad por falta de alternativa dentro del     b) Promoción de productos y servicios en base en declaraciones
+                                                                mercado de dicho producto o servicio, o cuando, sin
+                                                                                                                            falsas, concernientes a desventajas o riesgos de otros productos o
+Interfaz: Zona limítrofe compartida entre dos unidades          ser la única prestadora de dicho producto o servicio, los
+                                                                                                                            servicios de los competidores; y
+funcionales y definida por características funcionales,         mismos no son susceptibles de prestarse en un ambiente
+características comunes de interconexión físicas,               de competencia efectiva.
+características de las señales y otras características, según                                                               c) El soborno industrial, la violación de secretos industriales, la
+proceda.                                                                                                                    obtención de información sensible por medios no legítimos y la
+                                                                                                                            simulación de productos.
+Llamada telefónica de larga distancia internacional:
+Llamada telefónica establecida entre un equipo terminal
+                                                                                                                            Prácticas restrictivas a la competencia en el sector de las
+situado dentro del territorio nacional, con otro situado en
+el exterior del país.                                                                                                       telecomunicaciones:
+
+Llamada telefónica de larga distancia nacional: Llamada                                                                     Todas aquellas acciones, conductas, acuerdos, convenios y
+telefónica establecida entre un equipo terminal situado                                                                     condiciones que puedan, actual o potencialmente, distorsionar,
+dentro de una zona dada de tasación local, con otro situado
+                                                                                                                            restringir o falsear la libre competencia en un servicio determinado
+fuera de dicha zona, en el territorio nacional.
+                                                                                                                            o producto de telecomunicaciones en todo o parte del mercado
+Llamada telefónica local: Llamada telefónica establecida                                                                    nacional y en perjuicio de proveedores y usuarios de dicho servicio
+entre dos equipos terminales ubicados dentro de una                                                                         o producto. Están constituidas por:
+misma zona de tasación local en la que se aplica una tarifa
+uniforme.                                                                                                                   a) Acuerdos o convenios verbales o escritos que sean
+                                                                                                                            concertados entre los sujetos de esta ley o acciones o conductas
+Ondas radioeléctricas u ondas hertzianas: Ondas elec-
+                                                                                                                            que, deliberadamente o no, impidan u obstaculicen la entrada
+tromagnéticas cuya frecuencia se fija convencionalmente
+por debajo de los 3,000 gigahertzios y por encima de 9                                                                      o la permanencia de empresas, productos o servicios de
+kilohertzios, que se propagan por el espacio sin guía ar-                                                                   telecomunicaciones en todo o parte del mercado; y
+tificial.
+                                                                                                                            b) El abuso de uno o varios sujetos de esta ley de su posición de
+Órbita: Trayectoria que describe, con relación a un sistema
+                                                                                                                            dominio.
+de referencia especificado, el centro de gravedad de un
+satélite o de un objeto espacial, por la acción principal de
+fuerzas naturales, fundamentalmente las de gravitación.
+
+Orbita satelital: Trayectoria que recorre un satélite de
+telecomunicaciones al girar alrededor de la tierra.
+
+Plan mínimo de expansión: Es el programa de
+instalaciones y ampliaciones de servicios y sistemas que
+una operadora autorizada para la prestación del servicio
+de telecomunicaciones se ha comprometido a cumplir, con
+el objeto de alcanzar las metas y objetivos convenidos en
+su contrato de concesión durante un período determinado.
+                                                                                                                                                                                                                  9
+Principio de continuidad: Por el principio de continuidad, el servicio debe       Red pública de transporte de telecomunicaciones: La            Servicio público de transporte de telecomunicaciones:
+prestarse en el área de concesión sin interrupciones injustificadas.              infraestructura pública de telecomunicaciones que permite      Todo servicio de transporte de telecomunicaciones que
+                                                                                  las telecomunicaciones entre dos o más puntos terminales       se ofrezca al público en general. Tales servicios pueden
+Principio de generalidad: Por el principio de generalidad, el servicio debe       definidos en una red.                                          incluir, entre otros: telégrafo, teléfono, télex y transmisión
+prestarse en el área de concesión, a quien lo requiera y esté en condiciones                                                                     de datos caracterizadas por la transmisión en un tiempo
+reglamentarias, técnicas y económicas de acceder a él.                            Señal: Fenómeno físico en el que una o más de sus              real de información facilitada por los clientes, entre dos o
+                                                                                  características varían para representar una información.       más puntos, sin ningún cambio de extremo a extremo
+Principio de igualdad: Por el principio de igualdad, el servicio debe                                                                            en la forma o contenido de dicha información.
+prestarse sin discriminaciones de precio y calidad al público en general. Las     Servicios básicos: Son los servicios portadores o finales de
+categorizaciones de los usuarios que se hagan deberán tener fundamento            telecomunicaciones.                                            Servicios verticales: Se denominan así a las modalidades
+razonable y no ser arbitrarias a criterio del órgano regulador.                                                                                  de los servicios básicos que les agregan más facilidad. Se
+                                                                                  Servicio de difusión por cable: Conjunto de servicios de       considerarán servicios verticales del servicio telefónico,
+Principio de neutralidad: Por el principio de neutralidad, el servicio            difusión consistente en el suministro, o en el intercambio     entre otros, a la señal de llamada en espera, a la
+debe prestarse teniendo en cuenta sus propios condicionamientos, sin              de información en forma de imágenes o sonidos que se           transferencia de llamadas, a los mecanismos de reiteración
+distorsionar mediante discriminación o arbitrariedad el funcionamiento de         prestan a los usuarios en general, en sus domicilios o         de llamadas o a las teleconferencias.
+otros mercados.                                                                   dependencias, mediante redes de cables o fibra óptica.
+                                                                                                                                                 Tarifa: Es el precio al público en general o usuario final de
+Principio de transparencia: Se entenderá por principio de transparencia el        Servicio fijo: Servicio prestado por redes o sistemas          un servicio público de telecomunicaciones.
+que las operadoras ofrezcan los servicios en condiciones tales, que todos los     instalados en puntos fijos, con equipos terminales fijos.
+posibles usuarios puedan tener conocimiento previo de todas y cada una de                                                                        Tasa contable o tasa de distribución: Es la tasa por unidad
+las condiciones técnicas y económicas relacionadas con sus prestaciones.          Servicio de información: Servicio de producción y              de tráfico fijada de acuerdo entre operadoras, para una
+                                                                                  generación de noticias, entretenimientos o informaciones       relación determinada que se utiliza para el establecimiento
+Proveedor importante: Es un proveedor que tiene la capacidad de afectar           de cualquier tipo, normalmente asociado o vinculado            de las cuentas entre dichas operadoras en sus relaciones
+de manera importante las condiciones de participación (desde el punto             para su transmisión, emisión o recepción, a servicios de       del servicio de larga distancia internacional. La tasa
+devista de los precios y del suministro) en un mercado dado de servicios de       telecomunicaciones.                                            contable o de distribución incluye las tasas de liquidación
+telecomunicaciones básicas, como resultado del control de las instalaciones                                                                      y, en su caso, las de tránsito.
+esenciales, o de la utilización de su posición en el mercado.                     Servicio móvil: Servicio que se presta a través del medio
+                                                                                  radioeléctrico con equipos terminales móviles.                 Tasa de liquidación: Es la tasa que corresponde al
+Punto de interconexión: Es el lugar o punto de la red en donde se produce la                                                                     prestador de un país en el que se origina o termina una
+interconexión, esto es, el punto donde se entrega o se recibe tráfico.            Servicios de radiocomunicaciones: Son los servicios de         comunicación proveniente de la distribución de la tasa
+                                                                                  telecomunicaciones públicos o privados cuyo medio              contable.
+Punto de terminación de red: Conjunto de conexiones físicas o radioeléctricas     de transmisión sea fundamentalmente el espectro
+y sus especificaciones técnicas de acceso, que forman parte de la red pública     radioeléctrico.                                                Telecomunicaciones: La transmisión y recepción de
+y que son necesarias para tener acceso a esta red pública y a un servicio                                                                        señales por cualquier medio electromagnético.
+portador.                                                                         Servicio de radiodifusión por satélite: Servicio de
+                                                                                  radiocomunicación en el cual las señales emitidas o            Usuarios: Consumidores de servicios y los proveedores de
+Radiocomunicación: Toda telecomunicación transmitida por medio de las             retransmitidas por estaciones espaciales están destinadas      servicios.
+ondas radioeléctricas.                                                            a la recepción directa por el público en general. En el
+                                                                                  servicio de radiodifusión por satélite, la expresión de        Zona mundial de numeración 1: Zona geográfica definida
+Red privada de transporte de telecomunicaciones: Red o sistema de                 recepción directa abarca tanto la recepción individual         por la Unión Internacional de Telecomunicaciones (UIT)
+telecomunicaciones que establece una persona natural o jurídica, con su           como la comunal.                                               para fines de numeración, constituida por los Estados
+propia infraestructura y/o mediante el alquiler de canales o circuitos de redes                                                                  Unidos, Canadá y un grupo de islas del Caribe, entre las
+públicas detelecomunicaciones, que permite las telecomunicaciones entre           Servicio de radiodifusión terrestre: Servicio de difusión      que se encuentra la República Dominicana.
+dos o más puntos terminales definidos en una red.                                 que utiliza sistemas de transmisión mediante ondas
+                                                                                  radioeléctricas, que se propagan por la superficie de la       Zona de servicio: Parte del área de concesión en la que un
+                                                                                  tierra o mediante reflexión ionosférica.                       concesionario de un servicio público de telecomunicaciones
+                                                                                                                                                 presta efectivamente el servicio concesionado al público
+                                                                                                                                                 en general.
+10                                                                                                                                                                                                11
+
+                                                                 Artículo 3.- Objetivos de la ley
+
+                                                                 Los objetivos de interés público y social del presente orde-    c) Garantizar el derecho del usuario a elegir el prestador
+                                                                 namiento, a la luz de los cuales deberán interpretarse sus      del servicio de telecomunicaciones que a su criterio le con-
+
+
+     CAPÍTULO II
+                                                                 disposiciones, son los siguientes:                              venga;
+
+                                                                 a) Reafirmar el principio del servicio universal a través de:   d) Ratificar el principio de la libertad de la prestación, por
+                                                                                                                                 parte de titulares de concesiones obtenidas de acuerdo
+     ALCANCE Y OBJETIVOS                                         i. La garantía, en áreas rurales y urbanas de bajos ingresos,   a la presente ley, de todo tipo de servicios públicos de te-
+                                                                 de la posibilidad de acceso a un servicio mínimo y eficaz de    lecomunicaciones, incluida la libertad de construcción y
+                                                                 telefonía, a precios asequibles, mediante el libre funciona-    operación de sistemas y facilidades;
+                                                                 miento de los mercados y la utilización de los
+                                                                 mecanismos previstos por esta ley;                              e) Promover la participación en el mercado de servicios
+                                                                                                                                 públicos de telecomunicaciones de prestadores con ca-
+                                                                 ii. La satisfacción de la demanda de servicios públicos de      pacidad para desarrollar una competencia leal, efectiva y
+                                                                 telecomunicaciones en condiciones de libre competencia,         sostenible en el tiempo, que se traduzca en una mejor ofer-
+                                                                 asegurando la continuidad, generalidad, igualdad y neutra-      ta de telecomunicaciones en términos de precios, calidad
+     Artículo 2.- Alcance de la ley
+                                                                 lidad de dichos servicios; y                                    de servicio e innovación tecnológica;
+
+     La presente ley constituye el marco regulatorio básico      iii. El libre acceso a las redes y servicios públicos de        f) Asegurar el ejercicio, por parte del Estado, de su función
+     que se ha de aplicar en todo el territorio nacional, para   telecomunicaciones en condiciones de transparencia y de         deregulación y fiscalización de las modalidades de presta-
+     regular la instalación, mantenimiento y operación           no discriminación por parte de los prestadores y usuarios       ción, dentro de los límites de esta ley, de modo imparcial,
+     de redes, la prestación de servicios y la provisión de      de servicios de telecomunicaciones, los generadores y re-       mediante la creación y desarrollo de un órgano regulador
+                                                                 ceptores de información y los proveedores y usuarios de         de las telecomunicaciones
+     equipos de telecomunicaciones. La misma deberá
+                                                                 servicios de información;                                       independiente y eficaz; y
+     ser interpretada de conformidad con los convenios
+     internacionales ratificados por la República Dominicana     b) Promover la prestación de servicios de telecomunica-         g) Garantizar la administración y el uso eficiente del domi-
+     y se complementará con los reglamentos dictados por         ciones con características de calidad y precio que con-         nio público del espectro radioeléctrico.
+     las autoridades competentes.                                tribuyan al desarrollo de las actividades productivas y de
+                                                                 servicios en condiciones de competitividad internacional;
+12                                                                                                                                                                                                                                        13
+
+                                                                                                             Artículo 8.- Prácticas restrictivas a la competencia          10.2 La comercialización de equipos terminales y la
+                                                                                                                                                                           instalación de facilidades del lado usuario de la red se
+                                                                                                             8.1. En las relaciones comerciales entre prestadores de       efectuarán en condiciones de libre competencia. En
+                                                                                                             servicios públicos de telecomunicaciones, está prohibida      consecuencia, la responsabilidad de los prestadores
+
+
+     CAPÍTULO III
+                                                                                                             la aplicación de condiciones desiguales para prestaciones     de servicios públicos se extenderá hasta el punto de
+                                                                                                             equivalentes, que creen situaciones desventajosas a           terminación de sus redes. Las instalaciones del lado
+                                                                                                             terceros.                                                     usuario de la red deberán ser realizadas por un profesional
+                                                                                                                                                                           competente, de acuerdo a la reglamentación que se dicte
+     PRINCIPIOS GENERALES                                                                                    8.2. Los prestadores de servicios públicos de                 al efecto.
+                                                                                                             telecomunicaciones no podrán realizar prácticas que
+                                                                                                             limiten, impidan o distorsionen el derecho del usuario a la   10.3 Todos los aparatos, dispositivos, sistemas e
+                                                                                                             libre elección.                                               instalaciones de telecomunicaciones que generen ondas
+                                                                                                                                                                           electromagnéticas, cualquiera que sea su naturaleza,
+                                                                                                             8.3. Se consideran prácticas restrictivas a la competencia,   deberán ser instalados y operados de modo que no causen
+                                                                                                             entre otras que puedan existir, las siguientes:               lesiones a personas o daños a las cosas ni interferencias
+     Artículo 4.- Jurisdicción nacional                   Artículo 6.- Uso indebido de las                                                                                 perjudiciales a los servicios de telecomunicaciones
+                                                                                                             a) El abuso de posiciones determinantes en el mercado,        nacionales o extranjeros, ni interrupciones en su
+                                                          telecomunicaciones
+                                                                                                             especialmente sobre instalaciones esenciales;                 funcionamiento.
+     Las telecomunicaciones son de jurisdicción
+     nacional, por consiguiente, los impuestos, tasas,    Se prohíbe el uso de las telecomunicaciones        b) Las acciones o prácticas predatorias que tiendan           Artículo 11.- Bienes del dominio público
+     contribuciones y derechos serán aplicables a nivel   contrario a las leyes o que tenga por objeto       a falsear o que, efectiva o potencialmente limiten o
+     nacional. No podrán dictarse normas especiales       cometer delitos o entorpecer la acción de la       distorsionen una competencia sostenible, leal y efectiva; y   Los titulares de servicios públicos de telecomunicaciones
+     que limiten, impidan u obstruyan la instalación      justicia.                                                                                                        tendrán derecho a utilizar bienes del dominio público para
+                                                                                                             c) La negativa a negociar de buena fe o la generación de      el tendido de sus redes e instalación de sus sistemas,
+     de los servicios de telecomunicaciones, salvo las
+                                                                                                             dilaciones injustificadas en las negociaciones que pongan     adecuándose a las normas municipales pertinentes,
+     que provengan de la aplicación de la presente        Artículo 7.- Emergencia, defensa y seguridad       en desventaja a un competidor actual o potencial.             especialmente en materia de protección del patrimonio
+     ley.                                                 nacional                                                                                                         cultural e histórico, en cuyo caso deberán ser subterráneos.
+                                                                                                             Artículo 9.- Planes técnicos fundamentales y normas
+     Artículo 5.- Secreto e inviolabilidad de las         En caso de encontrarse comprometidas               técnicas aplicables                                           Artículo 12.- Servidumbre
+     telecomunicaciones                                   condiciones de seguridad y defensa nacional o en
+                                                                                                             Los concesionarios estarán obligados a respetar los           12.1 Las servidumbres para la instalación de facilidades y
+                                                          caso de emergencia o catástrofes oficialmente
+                                                                                                             planes técnicos fundamentales y las normas técnicas           sistemas de telecomunicaciones para servicios públicos
+     Las comunicaciones y las informaciones y             declaradas, el Poder Ejecutivo, por medio del      establecidas por el órgano regulador. Dichas normas se        que recaigan sobre propiedades privadas, deberán ser
+     datos emitidos por medio de servicios de             organismo competente, podrá dictar directrices     adecuarán a las prácticas internacionales en uso en la        convenidas por las partes y se regirán por las normas
+     telecomunicaciones son secretos e inviolables,       que deberán ser cumplidas por los prestadores y    Zona Mundial de Numeración 1 y a las recomendaciones          generales del derecho común, a excepción del plazo de
+     con excepción de la intervención judicial de         usuarios de los servicios de telecomunicaciones.   de organismos internacionales de los que forme parte          prescripción de las acciones, que será de un año.
+     acuerdo al derecho común y a lo dispuesto por        Dichas directrices se adoptarán dentro del pleno   la República Dominicana, garantizando el libre acceso
+                                                                                                             y la interoperabilidad de redes en condiciones no             12.2 Cuando las partes no lleguen a un acuerdo, y se trate
+     las leyes especiales. Los prestadores de servicios   respeto al marco constitucional vigente.
+                                                                                                             discriminatorias y transparentes.                             de servicios públicos de telecomunicaciones, se entenderá
+     públicos de telecomunicaciones deberán velar                                                                                                                          constituida de pleno derecho una servidumbre legal para
+     por dicha inviolabilidad, y no serán responsables                                                       Artículo 10.- Conexión de sistemas y equipos                  los efectos indicados, siempre que el órgano regulador,
+     de las violaciones cometidas por usuarios o                                                                                                                           por resolución motivada, declare imprescindible la
+     terceros sin su participación, culpa o falta.                                                           10.1 Los titulares de redes públicas de telecomunicaciones    servidumbre para el servicio. En este caso, la indemnización
+                                                                                                             deberán permitir la conexión de todos los equipos,            que corresponda será fijada judicialmente conforme al
+                                                                                                             interfaces y aparatos de telecomunicación debidamente         procedimiento de expropiación que establece la ley, y será
+                                                                                                             homologados por los procedimientos que se establezcan         abonada por el concesionario interesado. Podrá ejercerse
+                                                                                                             en la presente ley y en sus reglamentos, con excepción de     el derecho de este artículo aún antes de existir sentencia
+                                                                                                             aquellos homologados por otros prestadores en los             definitiva y con autoridad de cosa juzgada, siempre que el
+                                                                                                             términos del inciso a) del Artículo 62.                       concesionario interesado afiance el pago de la cantidad
+                                                                                                                                                                           que el tribunal judicial fije provisionalmente, oyendo a las
+                                                                                                                                                                           partes y a un perito.
+14                                                                                                                                                                                                                                  15
+
+
+     CAPÍTULO IV
+     SERVICIOS DE TELECOMUNICACIONES
+
+
+     Artículo 13.- Clasificación de los       Artículo 14.- Tipos de servicios                       Artículo 15.- Servicios portadores de telecomunicaciones        Artículo 18.- Servicios de difusión
+     servicios de telecomunicaciones
+                                              14.1 Los servicios de telecomunicaciones pueden        15.1 Son servicios portadores los servicios de                  18.1 Los servicios de difusión, ya sean de difusión sonora
+                                              ser públicos o privados.                               telecomunicaciones que proporcionan la capacidad                o televisiva, son servicios de telecomunicaciones en los
+     Los servicios de telecomunicaciones se
+                                                                                                     necesaria para transportar las señales entre dos puntos de      que la comunicación se realiza, normalmente, en un solo
+     clasifican en:                           14.2 Son servicios públicos de telecomunicaciones      terminación de red definidos, que permiten la prestación de     sentido a varios puntos de recepción simultáneamente.
+                                              los que se prestan al público en general, en           otros servicios públicos o privados de telecomunicaciones.      Los servicios de difusión pueden incluir facilidades que
+     a) servicios portadores;                 condiciones de no discriminación, a cambio de una                                                                      permitan la comunicación en sentido inverso, esto es,
+     b) Servicios finales o teleservicios;    contraprestación económica.                            15.2 Los servicios portadores de carácter público se rigen      desde los receptores al centro emisor, siempre que dicha
+                                                                                                     por los principios de transparencia, de no discriminación y     comunicación no constituya un servicio independiente al
+     c) Servicios de valor agregado; y
+                                              14.3 Son servicios privados de telecomunicaciones      neutralidad con respecto a los servicios que transportan.       servicio de difusión.
+     d) Servicios de difusión.
+                                              los establecidos por una persona natural o
+                                              jurídica para satisfacer estrictamente sus propias     15.3 Los servicios portadores pueden ser locales, de            18.2 Los servicios de difusión pueden ser públicos o
+                                              necesidades de comunicación o las de otros             larga distancia nacional y de larga distancia internacional.    privados, según vayan destinados al público en general
+                                              integrantes del grupo social, económico o financiero   Se considera servicio portador al alquiler de enlaces o         o sean prestados por una persona natural o jurídica para
+                                              al cual pertenezca.                                    circuitos.                                                      satisfacer sus propias necesidades.
+
+                                              14.4 Los servicios privados de telecomunicaciones      Artículo 16.- Servicios finales o teleservicios                 18.3 Según el medio que utilicen para transmitir las
+                                              no pueden ser prestados a terceros, salvo que se                                                                       emisiones pueden clasificarse en servicio de radiodifusión
+                                              trate de un servicio de valor agregado utilizado       Son aquellos servicios de telecomunicaciones que                o servicios de difusión por cable.
+                                              como medio para cumplir el objeto social de la         proporcionan la capacidad completa que hacen posible
+                                              empresa, siempre que dicho objeto social no            la comunicación entre usuarios. El prestador de un              18.4 Los servicios de radiodifusión pueden utilizar
+                                              sea, precisamente, la prestación de servicios de       servicio final público proveerá el interfaz usuario-red         sistemas terrestres o sistemas de satélites.
+                                              telecomunicaciones.                                    correspondiente a ese servicio.
+                                                                                                                                                                     18.5 Son servicios de difusión el servicio de radiodifusión
+                                                                                                     Artículo 17.- Servicios de valor agregado                       sonora y de televisión, y el servicio de difusión por cable.
+
+                                                                                                     17.1 Son servicios de valor agregado los servicios de           18.6 Servicios portadores de los servicios de difusión,
+                                                                                                     telecomunicaciones que, utilizando como soporte servicios       podrán ser utilizados para servir de portadores a otros
+                                                                                                     portadores, finales o de difusión agregan o añaden alguna       servicios de telecomunicaciones yviceversa.
+                                                                                                     característica o facilidad al servicio que les sirve de base.
+
+                                                                                                     17.2 Las entidades prestadoras de servicios portadores,
+                                                                                                     finales y de difusión, presten o no servicios de valor
+                                                                                                     agregado, garantizarán el principio de neutralidad y no
+                                                                                                     discriminación frente a los prestadores de servicios de
+                                                                                                     valor agregado que necesiten utilizar sus instalaciones
+                                                                                                     esenciales.
+                                                                                                                                                                                                                                                           17
+
+                                                                                                                            Artículo 25.- Trámite de concesión                              27.5 Las licencias que se otorguen vinculadas a una
+                                                                                                                                                                                            concesión de servicios públicos de telecomunicaciones
+                                                                                                                            En los casos determinados por el reglamento, en que             tendrán la misma duración que dicha concesión, incluidas
+                                                                                                                            no proceda el mecanismo de concurso, y formulada una            sus renovaciones.
+
+
+    CAPÍTULO V
+                                                                                                                            solicitud de concesión con los requisitos reglamentarios,
+                                                                                                                            por parte de un interesado que reúna las condiciones            Artículo 28.- Cesión
+                                                                                                                            previstas en los Artículos 22 y 23, el órgano regulador
+                                                                                                                            procederá a su examen, y una vez comprobado que reúne           28.1 La transferencia, cesión, arrendamiento u
+    CONCESIONES Y LICENCIAS                                                                                                 todos los requisitos exigidos, lo comunicará al solicitante     otorgamiento de derecho de uso de cualquier título y la
+                                                                                                                            para que proceda a publicar, en un periódico de amplia          constitución de gravamen sobre concesiones o licencias
+                                                                                                                            circulación nacional, un extracto de la solicitud con los       deberán llevarse a cabo, bajo pena de caducidad, previa
+                                                                                                                            requisitos que establezca la reglamentación.                    autorización del órgano regulador, el que no podrá
+                                                                                                                                                                                            denegarlos sin causa justificada. El adquiriente, que
+                                                                                                                            Cualquier    persona     interesada    podrá     formular       deberá reunir los requisitos exigidos al otorgante, quedará
+                                                                                                                            observaciones en el plazo de treinta (30) días calendario,      sometido a las mismas obligaciones del concesionario o
+Artículo 19.- Concesiones                                     23.2 El reglamento respectivo deberá prever, como             contados a partir de la publicación. Vencido dicho              licenciatario.
+                                                              mínimo, los requisitos técnicos y económicos necesarios,      plazo, considerando las observaciones que se hubieren
+Se requerirá concesión otorgada por el órgano regulador,      la presentación de proyectos y los compromisos de plazos      formulado, el órgano regulador procederá, en su caso, al        28.2 En las situaciones previstas en el párrafo anterior, la
+para la prestación a terceros de servicios públicos de        de implementación.                                            inmediato otorgamiento de la concesión solicitada.              venta o cesión de acciones o participaciones sociales que
+telecomunicaciones, con las excepciones previstas en este                                                                                                                                   implique la pérdida, por parte del vendedor o cedente, del
+capítulo. La reglamentación dispondrá los procedimientos      Artículo 24.- Mecanismo de concurso                           Artículo 26.- Inicio de prestación de nuevos servicios          control social o de la posibilidad de formar la voluntad
+de concurso, el cobro por determinado tipo de concesión                                                                                                                                     social, requerirá la autorización del órgano regulador.
+y respetará los principios de igualdad y no discriminación.   24.1 El órgano regulador deberá llamar a concurso público     Cuando un concesionario posea una concesión que
+                                                              para el otorgamiento de concesiones o licencias cuando        implique la posibilidad de prestar varios servicios públicos,   28.3 No se autorizarán transferencias cuando
+Artículo 20.- Licencias                                       se requiera utilizar el espectro radioeléctrico atribuido     dentro de los treinta (30) días del inicio de la prestación     el concesionario de los servicios públicos de
+                                                              a servicios públicos de radiocomunicaciones, salvo en         de un servicio que, hasta ese momento no prestaba,              telecomunicaciones no hubiese cumplido, en calidad
+Se requerirá licencia otorgada por el órgano regulador        casos de emergencia justificada ante el órgano regulador.     deberá informar al órgano regulador el cumplimiento de          y plazo, con el plan mínimo de expansión previsto en
+para el uso del dominio público radioeléctrico, con las       Se exceptúan de este procedimiento las instituciones del      los requisitos necesarios para prestar dicho servicio, en       su contrato de concesión, o cuando dicha concesión
+excepciones que establezca la reglamentación.                 Estado y aquellas autorizadas a operar sin fines de lucro,    materia de contabilidad, plan mínimo de expansión o de          estuviese en condiciones de ser revocada. Tampoco se
+                                                              así como las instituciones religiosas reconocidas por         otro tipo que fije la reglamentación.                           autorizarán transferencias hasta tanto no se hubiesen
+Artículo 21.- Simultaneidad de requisitos                     el Estado y que actúen en virtud a lo establecido por el                                                                      cancelado los derechos, cargos por incumplimiento e
+                                                              Artículo 8 de la Constitución de la República.                Artículo 27.- Duración, renovación y revisión                   impuestos previstos por esta ley que el concesionario
+Cuando para la prestación de un servicio público de                                                                                                                                         tuviere pendientes de pago.
+telecomunicaciones se requiera de concesiones y licencias,    24.2 El aviso de concurso deberá publicarse, por lo menos,    27.1 Las concesiones tendrán la duración que solicite
+éstas se otorgarán simultáneamente.                           con noventa (90) días calendario de anticipación a la         el interesado entre cinco (5) y veinte (20) años, y serán       28.4 En las situaciones previstas en el párrafo anterior,
+                                                              presentación de propuestas, consignándose en forma clara      renovables, a solicitud del interesado, por períodos iguales.   estará prohibida la venta o cesión de acciones o
+Artículo 22.- Personalidad jurídica                           el objeto y los plazos. Dicha publicación será realizada en                                                                   participaciones sociales que implique la pérdida, por
+                                                              un periódico de amplia circulación nacional.                  27.2 Las solicitudes de renovación deberán efectuarse con       parte del vendedor o cedente, del control social o de la
+Para obtener concesiones y las licencias correspondientes                                                                   un plazo de antelación no mayor de un (1) año, antes de         posibilidad de formar la voluntad social.
+para prestar servicios públicos de telecomunicaciones, se     24.3 Los concursos se dividirán en dos etapas; la             que finalice el período de vigencia y el órgano regulador
+requerirá estar constituido como persona jurídica de la       primera, de calificación, de acuerdo a pautas generales       deberá pronunciarse en un plazo máximo de seis (6)
+República Dominicana.                                         y requisitos particulares objetivos, no discriminatorios      meses, desde que reciba la solicitud. Finalizado dicho
+                                                              y comprobables, que previamente se establezcan; y la          plazo sin pronunciamiento negativo expreso del órgano
+Artículo 23.- Calificación                                    segunda, de comparación de ofertas. Los mecanismos de         regulador, se considerará otorgada la renovación.
+                                                              selección serán objetivos debiendo los concursos prever
+23.1 Para acceder a una concesión para prestar servicios      pautas homogéneas que permitan la comparación de              27.3 Solo serán causas de no renovación de la concesión,
+públicos de telecomunicaciones, deberán reunirse las          ofertas. La adjudicación corresponderá a la oferta más        las previstas para su revocación.
+calificaciones que establezca la reglamentación, ya sean      conveniente de acuerdo a los criterios establecidos en las
+generales o eventualmente específicas para servicios          bases del concurso.                                           27.4 El órgano regulador podrá, cada cinco (5) años, revisar
+determinados.                                                                                                               las condiciones de prestación del servicio. Esta revisión se
+                                                                                                                            efectuará previa consulta con las partes y observando el
+                                                                                                                            respeto a los derechos adquiridos, el equilibrio económico
+                                                                                                                            del contrato y las inversiones realizadas por las empresas
+                                                                                                                            concesionarias.
+                                                                                                                                                                                                                                                 19
+
+Artículo 29.- Causas de revocación
+                                                               d) Permitir el libre acceso a sus redes y a los servicios
+29.1 Serán causas de revocación de la concesión o registro     que por ellas presten, en condiciones reglamentarias y no      Artículo 31.- Asistencia al usuario                       dicho convenio, con las excepciones que prevea la
+y, en su caso, de las licencias correspondientes:              discriminatorias, a los prestadores y usuarios de servicios                                                              reglamentación. Los operadores deberán observar
+                                                               de telecomunicaciones, a los generadores y receptores de       De acuerdo a la reglamentación, los prestadores de        los reglamentos nacionales e internacionales
+a) No haber cumplido en calidad y plazo con el plan            información y a los proveedores y usuarios de servicios de     servicios públicos de telecomunicaciones deberán          correspondientes.
+mínimo de expansión previsto en su concesión;                  información;                                                   proveer un servicio de consulta de abonados
+                                                                                                                              relacionado con aquellos que no hayan indicado            Artículo 35.- Registro de los servicios de valor
+b) El estado de cesación de pagos del concesionario,           e) El establecimiento, por parte de los concesionarios que     su voluntad de reserva y figuren en guía. Además,         agregado
+declarado por sentencia irrevocable del tribunal               provean servicio telefónico local, en forma paulatina, de      deberán disponer de servicios gratuitos de consulta
+competente;                                                    modo de abarcar todos sus sistemas, de un mecanismo            de tarifas aplicables a los distintos servicios que       Para la prestación de servicios públicos de valor
+                                                               de acceso e identificación automática del número               presten; atención de consultas generales; recepción       agregado, así calificados por el órgano regulador,
+c) La reincidencia en la comisión de infracciones muy          telefónico del cliente, que permita al usuario del servicio    y procesamiento de reclamos de clientes y usuarios        no se requerirá concesión, sino solamente la
+graves, con sanción definitiva aplicada;                       seleccionar los servicios de larga distancia nacional e        y atención de emergencias. A todos estos servicios        inscripción en un registro especial que el órgano
+                                                               internacional del prestador de su preferencia. El acceso       se deberá poder acceder desde todo teléfono,              regulador llevará al efecto.
+d) El uso ilegítimo de los recursos del “Fondo de desarrollo   a otros prestadores diferentes al que ofrece el servicio       incluidos los de uso público.
+de las telecomunicaciones y del servicio universal”;           local se hará marcando el mismo número de dígitos                                                                        Artículo 36.- Reventa de servicios
+                                                               para identificar a cualquier concesionario prestador de        Artículo 32.- Servicio de radioaficionados
+e) La imposibilidad de cumplimiento del objeto social del      servicios de larga distancia. Para ello, los concesionarios                                                              Quienes contraten servicios a concesionarios para
+concesionario según su mandato estatutario en la medida        prestadores de servicio telefónico local deberán dar a los     Para operar estaciones de radioaficionados, se            revenderlos comercializándolos al público en gene-
+en que esté relacionada con la concesión y/o licencia          concesionarios prestadores de servicios de larga distancia     requerirá la inscripción en un registro especial que,     ral deberán inscribirse en un registro especial que
+otorgadas;                                                     igual clase de acceso a su red y servicios de facturación,     al efecto, llevará el órgano regulador. A solicitud       llevará al efecto el órgano regulador. No podrán re-
+                                                               quedando prohibido todo tipo de discriminación. Este           del interesado o de una entidad reconocida como           venderse servicios si con ello se perjudica la calidad
+f) La desconexión, cuando implique la imposibilidad            sistema de acceso y su evolución hasta llegar al “Sistema      asociación de radioaficionados, el órgano regulador       del servicio prestado por el concesionario, siempre
+definitiva de continuar prestando el servicio; y               de acceso igual”, se pondrá en vigor siguiendo las normas      podrá inscribir al interesado en la categoría que         y cuando ello sea previamente avalado por el órgano
+                                                               técnicas adoptadas por los países de la Zona Mundial de        corresponda.                                              regulador.
+g) La suspensión injustificada del servicio.                   Numeración 1 sobre este particular. La forma de aplicación
+                                                               de estas normas, sus plazos y evolución serán establecidos     Artículo 33.- Servicio móvil aeronáutico                  Artículo 37.- Servicios privados de
+29.2. Las revocaciones pueden ser totales o parciales, para    por el órgano regulador mediante los reglamentos                                                                         telecomunicaciones
+uno o más servicios.                                           pertinentes;                                                   Para operar estaciones de servicio móvil aeronáutico
+                                                                                                                              se requerirá la inscripción en un registro especial       37.1. Para la utilización de servicios privados de
+Artículo 30.- Obligaciones generales de los                    f) Participar en la percepción de la “Contribución al          que, al efecto, llevará el órgano regulador. El titular   telecomunicaciones será necesaria la inscripción en
+concesionarios                                                 desarrollo de las telecomunicaciones” (CDT) en la forma        de la inscripción será responsable de la utilización      un registro especial que el órgano regulador llevará
+                                                               prevista en esta ley y su reglamentación;                      de la estación autorizada conforme a los acuerdos         al efecto.
+Con carácter general, y sin perjuicio de otras que                                                                            internacionales y a las normas técnicas que dicte
+establezca la reglamentación, serán obligaciones               g) Permitir a los funcionarios del órgano regulador, tanto     el órgano regulador dentro de la esfera de su             37.2. El solicitante de la inscripción deberá aportar
+esenciales de los concesionarios de servicios públicos de      los titulares de concesión como sus dependientes, el           competencia.                                              toda la documentación que le sea requerida, al
+telecomunicaciones las siguientes:                             libre acceso a sus instalaciones, dependencias y equipos,                                                                objeto de poder determinar la calificación del
+                                                               con el único y exclusivo objeto de que puedan fiscalizar       Artículo 34.- Servicio móvil marítimo                     servicio como privado.
+a) El cumplimiento del plan mínimo de expansión de los         el cumplimiento de las normas legales y reglamentarias
+servicios previstos en el documento de la concesión, en los    pertinentes, en los casos previstos por esta ley para          Para operar estaciones de servicio móvil marítimo se      Artículo 38.- Duración y renovación
+plazos establecidos por un cronograma determinado, bajo        requerimiento de inspección e información;                     requerirá la inscripción en un registro especial que,
+pena de revocación de su concesión;                                                                                           al efecto, llevará a cabo el órgano regulador. Todo       Las inscripciones en los registros especiales
+                                                               h) En caso en que un concesionario preste varios               barco o embarcación que esté sujeto al Convenio           previstos en este capítulo se regirán por lo que
+b) La continuidad en la prestación de los servicios públicos   servicios públicos de telecomunicaciones, deberá llevar        Internacional sobre Seguridad de la Vida Humana           establezcan los ordenamientos específicos
+a su cargo;                                                    contabilidades separadas para cada servicio, de modo de        en el Mar (SOLAS) deberá estar equipado con               correspondientes.
+                                                               posibilitar el control de una competencia leal y efectiva; e   una estación de radiocomunicaciones que cumpla
+c) La prestación de servicio a los interesados que lo                                                                         con las normas técnicas mínimas establecidas en
+soliciten dentro de la zona de servicio, en condiciones no     i) Otras que establezcan esta ley, sus reglamentos de
+discriminatorias, en los plazos y con las condiciones de       aplicación, las concesiones o licencias.
+calidad que fijen sus concesiones o el órgano regulador en
+los reglamentos pertinentes;
+                                                                                                                          21
+
+                                Artículo 39.- Libertad tarifaria
+
+                                Los precios al público o tarifas de los servicios públicos de telecomunicaciones serán
+
+
+CAPÍTULO VI                     fijados libremente por las empresas prestadoras, a menos que el órgano regulador,
+                                mediante resolución motivada, determine que, en un caso concreto, no existen en
+                                el mercado de servicios las condiciones suficientes para asegurar una competencia
+TARIFAS Y COSTOS DE SERVICIOS   efectiva y sostenible por existir prácticas restrictivas a la competencia. Sólo en esas
+                                circunstancias el órgano regulador procederá a fijarlos.
+
+                                Artículo 40.- Mecanismo de fijación tarifaria
+
+                                40.1. En los casos en que el órgano regulador deba intervenir en la fijación de tarifas
+                                por las causas previstas en el artículo anterior, dichas tarifas se fijarán tomando
+                                como parámetro los costos, incluyendo una remuneración razonable de la inversión,
+                                calculados de acuerdo a lo que establezca el “Reglamento de tarifas y costos de
+                                servicios”.
+
+                                40.2. A los efectos de garantizar la existencia de una competencia efectiva y
+                                sostenible, no se podrá cobrar al público por un servicio menos que el costo que
+                                el mismo tenga para la prestadora. Reglamentariamente se establecerán los
+                                procedimientos especiales para la fijación de las tarifas del servicio financiado
+                                por el “Fondo de desarrollo de las telecomunicaciones y del servicio universal”, así
+                                como las tarifas en proceso de rebalanceo.
+
+                                Artículo 41.- Cargos de interconexión
+
+                                41.1. Los cargos de interconexión se pactarán libremente entre las empresas
+                                concesionarias que operen en el territorio nacional.
+
+                                41.2. El órgano regulador velará porque los cargos no sean discriminatorios y
+                                aseguren una competencia efectiva y sostenible. En caso de desacuerdo entre
+                                las partes, podrá intervenir en la fijación de los mismos mediante una resolución
+                                motivada, tomando como parámetros los costos, incluyendo una remuneración
+                                razonable de la inversión, calculados de acuerdo a lo que establezca el “Reglamento
+                                de tarifas y costos de servicios”.
+
+                                Artículo 42.- Tasa contable
+
+                                Las tasas contables (tasas de distribución) para el servicio internacional se
+                                pactarán libremente entre las partes interesadas. Los acuerdos que se suscriban
+                                no deberán incurrir en prácticas restrictivas a la competencia, deberán ser no
+                                discriminatorios, respetar las recomendaciones que al respecto formulen los
+                                organismos internacionales a los que pertenece la República Dominicana y ser
+                                comunicados al órgano regulador, el cual podrá revisar los acuerdos celebrados, de
+                                oficio o a petición de parte.
+22                                                                                                                                                      23
+
+                                                         Artículo 45.- Contribución al desarrollo de las telecomunicaciones
+
+                                                         45.1. Créase la “Contribución al desarrollo de las telecomunicaciones” (CDT), que
+                                                         consistirá en una alícuota del dos por ciento (2%) sobre:
+
+
+     CAPÍTULO VII                                        a) Los importes percibidos en el mes anterior a la liquidación de la CDT, antes de
+                                                         impuestos, por concepto de facturaciones a los usuarios finales de servicios públicos de
+                                                         telecomunicaciones, excepto los de radiodifusión; y
+     PROMOCIÓN DEL SERVICIO UNIVERSAL
+                                                         b) Los importes percibidos por los prestadores de servicios públicos de telecomunicaciones
+                                                         en el mes anterior a la liquidación de la CDT, por concepto de saldos de corresponsalía
+                                                         (liquidación) por servicios internacionales, excepto los de radiodifusión.
+
+                                                         45.2. A los efectos de este artículo, se consideran usuarios finales de los prestadores
+                                                         de servicios públicos de telecomunicaciones a los titulares de servicios privados de
+     Artículo 43.- Proyectos de desarrollo               telecomunicaciones, cuando las redes de estos últimos estén conectadas a una red
+                                                         pública de los primeros. No se considerarán, en cambio, usuarios finales de un prestador
+                                                         a los revendedores de sus servicios ni a los prestadores con redes interconectadas por la
+     43.1. A los efectos del cumplimiento de             relación de interconexión.
+     lo establecido por el Artículo 3, inciso a),
+     apartados i) y iii) de la presente ley, el órgano   Artículo 46.- Destino y aplicación de la CDT
+     regulador formulará un plan bianual de
+     proyectos concretos a ser financiados, los que      La CDT se aplicará en un porcentaje fijo al financiamiento del órgano regulador y en un
+                                                         porcentaje fijo al financiamiento de proyectos de desarrollo. Los porcentajes respectivos
+     se denominarán “Proyectos de desarrollo”, de
+                                                         serán establecidos por la reglamentación.
+     acuerdo a la reglamentación.
+                                                         Artículo 47.- Mecanismo de percepción
+     43.2. Una vez asignado cada proyecto,
+     realizará un seguimiento de su ejecución de         Los prestadores de servicios públicos de telecomunicaciones y los revendedores de dichos
+     acuerdo a lo que disponga la reglamentación.        servicios serán agentes de percepción de la CDT. Los agentes de percepción cargarán en su
+                                                         facturación a los usuarios finales el importe de la CDT correspondiente.
+
+     Artículo 44.- Contenido y asignación de             Artículo 48.- De la cuenta especial
+     proyectos
+                                                         48.1. Cada prestador de servicio público de telecomunicaciones depositará en una cuenta
+     44.1. Los proyectos serán adjudicados por           especial del órgano regulador, en un Banco con sede en la ciudad capital de la República
+     concurso público al oferente calificado que         Dominicana, el importe total de la CDT.
+
+     solicite menor subsidio, calculado sobre bases
+                                                         48.2. Los recursos depositados en la cuenta especial son inembargables.
+     homogéneas preestablecidas, y contendrán
+     indicación de zonas de servicio; calidad de         Artículo 49.- Fondo para la financiación de proyectos de desarrollo
+     servicio; tarifa máxima aplicable, en su caso;
+     plazos de prestación del servicio y penalidades     El órgano regulador administrará, en forma independiente de todas sus demás actividades
+     por incumplimiento.                                 ordinarias, un “Fondo para la financiación de proyectos de desarrollo”, a cuyo efecto abrirá
+                                                         una cuenta especial. Con los recursos de esta cuenta pagará o financiará los proyectos de
+                                                         desarrollo adjudicados.
+     44.2. Los concursos podrán adjudicar la
+     instalación de sistemas, la prestación de           Artículo 50.- Participación en los proyectos de desarrollo
+     servicios o ambos.
+                                                         Cualquier interesado que reúna las calificaciones para ser concesionario de servicio
+                                                         público telefónico podrá participar en los concursos previstos en el Artículo 44.
+                                                                                                                                                                                                                                                          25
+
+                                                                                                                               TÍTULO II
+                                                                                                                               INTERVENCIÓN DEL ÓRGANO REGULADOR
+
+
+    CAPÍTULO VIII                                                                                                              Artículo 56.- Libertad de negociación                          59.2. Las redes privadas se pueden conectar a las redes
+                                                                                                                                                                                              públicas de telecomunicaciones, previo acuerdo de
+
+    INTERCONEXIÓN                                                                                                              Los convenios de interconexión serán libremente
+                                                                                                                               negociados por las partes, y se guiarán por lo establecido
+                                                                                                                                                                                              las partes sobre los términos y condiciones técnicos y
+                                                                                                                                                                                              económicos de tal conexión. En caso de desacuerdo, el
+                                                                                                                               en los reglamentos correspondientes. En caso de                órgano regulador fijará las condiciones de esta conexión.
+                                                                                                                               desacuerdo, a pedido de cualquiera de ellas o aún de
+                                                                                                                               oficio, intervendrá el órgano regulador, quien, en un plazo    Artículo 60.- Reglamento de interconexión
+                                                                                                                               no superior a treinta (30) días calendario, determinará
+                                                                                                                               las condiciones preliminares de interconexión, y previa        El órgano regulador dictará un “Reglamento de
+                                                                                                                               consulta no vinculante con las partes, fijará los términos y   interconexión”, conteniendo las normas técnicas, las
+TÍTULO I                                                                                                                       condiciones definitivos, conformándose, en relación a los      pautas económicas y las reglas de procedimiento a que
+PRINCIPIOS                                                                                                                     cargos, a lo previsto en el Artículo 41 de la presente ley.    deban sujetarse los convenios de interconexión y la
+                                                                                                                                                                                              intervención del mismo órgano regulador.
+                                                                                                                               Artículo 57.- Publicación y observación
+Artículo 51.- Obligatoriedad                                     en que aquél a quien se solicite una interconexión carezca
+                                                                                                                               Celebrado un convenio de interconexión de redes
+                                                                 de disponibilidad suficiente, el solicitante podrá proveer
+                                                                                                                               públicas de telecomunicaciones, deberá ser sometido
+La interconexión de las redes de los distintos prestadores       las facilidades necesarias para que ella exista, las que se
+                                                                                                                               por las partes al órgano regulador para su consideración.
+de servicios públicos de telecomunicaciones es de interés        descontarán de los pagos futuros que deba efectuar de
+                                                                                                                               Simultáneamente deberá ser publicado, en sus aspectos
+público y social y, por lo tanto, obligatoria, en los términos   conformidad a lo que las partes acuerden.
+                                                                                                                               substanciales, al menos en un periódico de amplia
+de la presente ley y su reglamentación.
+                                                                                                                               circulación nacional, luego de lo cual cualquier afectado
+                                                                                                                               que acredite un interés legítimo y directo podrá hacer las
+Artículo 52.- Acuerdos de cooperación entre prestadores          Artículo 55.- Procedimiento de desconexión
+                                                                                                                               observaciones que considere, en el plazo de treinta (30)
+                                                                                                                               días calendario. El órgano regulador podrá observar el
+Los prestadores de servicios públicos de telecomunicacio-        Cuando por sentencia judicial con autoridad de la
+                                                                                                                               convenio en el plazo de diez (10) días calendario, vencidos
+nes podrán celebrar acuerdos entre sí para compartir edi-        cosa irrevocablemente juzgada, o por un laudo arbitral
+                                                                                                                               los cuales sin observación, se considerará aceptado
+ficios, sistemas, facilidades y equipos, los que previamente     homologado o por decisión definitiva del órgano
+                                                                                                                               en todas sus partes. Si el órgano regulador encontrara
+a su implementación deberán ser comunicados al órgano            regulador, basadas en normas reglamentarias o en normas
+                                                                                                                               que el convenio es violatorio de las normas vigentes, lo
+regulador. El órgano regulador los observará, en caso en         contractuales lícitas se decidiera una desconexión,
+                                                                                                                               reenviará con su dictamen a las partes contratantes para
+que existan cláusulas discriminatorias o que distorsionen        ella no podrá llevarse a cabo sin que antes el órgano
+                                                                                                                               su modificación y nuevo sometimiento.
+la competencia sostenible, leal y efectiva.                      regulador haya tomado las medidas pertinentes al solo
+                                                                 efecto de resguardar la situación de los usuarios. El
+                                                                                                                               Artículo 58.- Conexión de servicios de valor agregado
+Artículo 53.- Responsabilidad                                    órgano regulador podrá resolver, además de la medida de
+                                                                 revocación de la concesión o licencia, en su caso, que el
+                                                                                                                               El acceso de los prestadores de servicios de valor agregado
+Cuando las redes de dos o más prestadores de servicios           sistema comprometido sea transitoriamente operado por
+                                                                                                                               a las redes públicas de telecomunicaciones se regirá por
+públicos estén interconectadas, frente a los clientes o          un tercero a los efectos de garantizar la continuidad del
+                                                                                                                               las normas de este capítulo que sean de aplicación.
+usuarios de todos los prestadores, cada empresa será             servicio. El órgano regulador podrá entonces proceder a
+responsable solo por los hechos o actos originados en            subastar el sistema y, en ese caso, el titular del sistema
+                                                                                                                               Artículo 59.- Conexión de redes privadas
+su red y no por los que se originen en las demás redes           pasible de desconexión solo tendrá derecho a percibir el
+interconectadas.                                                 valor remanente de la subasta, después de cubrirse los
+                                                                                                                               59.1. Las redes privadas no podrán conectarse entre si
+                                                                 costos y deudas pendientes. El órgano regulador aplicará
+                                                                                                                               por medios propios, salvo que ello fuera necesario para el
+Artículo 54.- Satisfacción de la demanda                         estos procedimientos de conformidad a la reglamentación
+                                                                                                                               cumplimiento estricto del objeto social de los titulares de
+                                                                 que se dicte.
+                                                                                                                               ambas redes a conectar. En ese caso, el órgano regulador
+Los concesionarios cuyas redes se interconecten deberán
+                                                                                                                               deberá autorizar la instalación y operación de la red de
+proveer las facilidades de interconexión necesarias para
+                                                                                                                               enlace.
+satisfacer la demanda y su crecimiento, en forma no
+discriminatoria y de acuerdo a su disponibilidad. En caso
+                                                                                                     27
+
+                                     Artículo 61.- Certificado de homologación
+
+                                     Todo terminal, equipo o sistema susceptible de ser
+                                     conectado directa o indirectamente a una red pública
+
+
+CAPÍTULO IX
+                                     de telecomunicaciones, o que utilice el dominio público
+                                     radioeléctrico, deberá contar con el correspondiente
+                                     certificado de homologación. Quedan excluidos de la
+                                     obtención del certificado de homologación los equipos
+HOMOLOGACIÓN DE EQUIPOS Y APARATOS   destinados a ser operados en el servicio de radioaficionados.
+
+                                     Artículo 62.- Expedición del certificado de homologación
+
+                                     Se considerará que un equipo cuenta con el certificado de
+                                     homologación en los siguientes casos:
+
+                                     a) Cuando un concesionario de servicio público de
+                                     telecomunicaciones acepte la conexión del equipo a su red,
+                                     comunicándolo al órgano regulador por medio de los listados
+                                     correspondientes. Esta aceptación (autohomologación) no
+                                     implicará autorización para conectar el equipo a otras redes
+                                     públicas.
+
+                                     b) Cuando cuente con homologación expedida por las
+                                     autoridades competentes de un país de la Zona Mundial de
+                                     Numeración 1; y
+
+                                     c) Cuando lo expida el órgano regulador, previa realización
+                                     de las comprobaciones técnicas pertinentes por parte de un
+                                     tercero especializado, nacional o extranjero, debidamente
+                                     autorizado por el mismo para ello. No obstante, los equipos
+                                     que estén destinados o puedan ser susceptibles de utilizar el
+                                     espectro radioeléctrico deben contar con el correspondiente
+                                     certificado de homologación obtenido por este procedimiento.
+
+                                     Artículo 63.- Comercialización de equipos
+
+                                     Para la comercialización en el país de cualquier equipo o
+                                     aparato de telecomunicaciones será requisito imprescindible
+                                     que cuente con el correspondiente certificado de
+                                     homologación.
+28                                                                                                                                                                                                                                         29
+
+                                                                                                               Artículo 67.- Derecho por utilización                        Artículo 69.- Estaciones de comprobación técnica de
+                                                                                                                                                                            emisiones radioeléctricas y su protección
+                                                                                                               67.1. A partir de su asignación, la utilización de las
+                                                                                                               frecuencias del espectro radioeléctrico será gravada con     69.1. Para facilitar las funciones de control, vigilancia
+
+
+     CAPÍTULO X
+                                                                                                               un derecho anual, cuyo importe será destinado a la gestión   y conservación del espectro radioeléctrico, el órgano
+                                                                                                               y control del mismo.                                         regulador tendrá la potestad de instalar estaciones de
+                                                                                                                                                                            comprobación técnica de emisiones radioeléctricas. Para
+                                                                                                               67.2. El “Reglamento general de uso del espectro             el adecuado funcionamiento de las estaciones podrán
+     ESPECTRO RADIOELÉCTRICO                                                                                   radioeléctrico” definirá las formas de utilización y los     establecerse imitaciones a la propiedad y al dominio sobre
+                                                                                                               métodos de cálculo del derecho a ser aplicado a cada uno     los predios colindantes, de conformidad con lo que se
+                                                                                                               de los usos y servicios. Las pautas reglamentarias deberán   establezca en los reglamentos pertinentes.
+                                                                                                               ser generales, basarse en criterios objetivos y ser no
+                                                                                                               discriminatorias.                                            69.2. A los efectos de lo dispuesto en la presente ley, se
+                                                                                                                                                                            entenderá por limitación de la propiedad y a la posesión,
+                                                                                                               67.3. El uso del espectro radioeléctrico para aplicaciones   para la defensa del dominio público del espectro radioeléc-
+     Artículo 64.- Naturaleza jurídica                 Artículo 66.- Facultades           de    regulación,    de investigaciones científicas y médicas (ICM) en las        trico y de las estaciones de comprobación técnica de emi-
+                                                       administración y control                                bandas que se atribuyan al efecto, y por equipos de baja     siones, la obligación impuesta sobre los propietarios y
+                                                                                                               potencia así definidos por la reglamentación, quedará        poseedores de los predios colindantes de las instalaciones
+     El espectro radioeléctrico es un bien del                                                                 exento del pago del derecho.                                 objeto de la protección, de soportar las limitaciones que se
+                                                       66.1. El órgano regulador, actuando de conformidad
+     dominio público, natural, escaso e inalienable,                                                                                                                        establezcan en los reglamentos pertinentes.
+                                                       con esta ley, con el “Plan nacional de atribución de
+     que forma parte del patrimonio del Estado. Su     frecuencias” y con las normas y recomendaciones,        67.4. El valor de la unidad de reserva radioeléctrica será
+     utilización y el otorgamiento de derechos de      internacionales, tiene la facultad de gestión,          fijado y revisado mediante decreto del Poder Ejecutivo,      69.3. Los mencionados propietarios o poseedores no
+     uso se efectuará en las condiciones señaladas     administración y control del espectro radioeléctrico,   a propuesta motivada del Consejo Directivo del órgano        podrán realizar obras o modificaciones en lo predios
+                                                       incluyendo las facultades de atribuir a determinados    regulador.                                                   afectados, que no tengan en cuenta las limitaciones, una vez
+     en la presente ley y su reglamentación.
+                                                       usos, bandas específicas, asignar frecuencias a                                                                      las mismas se hayan concretado por el órgano regulador de
+                                                       usuarios determinados y controlar su correcto uso.      67.5. En caso de que el Poder Ejecutivo no estime            las telecomunicaciones a través del procedimiento que se
+     Artículo 65.- Normas internacionales                                                                      conveniente la propuesta del Consejo Directivo del órgano    establecerá en el “Reglamento general de uso del dominio
+                                                       66.2. El órgano regulador, de conformidad con           regulador, la devolverá a éste con las observaciones         público del espectro radioeléctrico”. Las limitaciones
+     El uso del espectro radioeléctrico y los          lo establecido en las normas internacionales,           pertinentes, con el objeto de que formule una nueva          no podrán afectar nunca los derechos adquiridos con
+     recursos órbita espectro están sujetos a las      elaborará el “Plan nacional de atribución de            propuesta.                                                   anterioridad al establecimiento de las citadas estaciones.
+
+     normas y recomendaciones internacionales,         frecuencias”, el cual someterá al Poder Ejecutivo
+                                                       para su aprobación.                                     Artículo 68.- Uso de satélites                               69.4. Las limitaciones a las que se refieren los párrafos
+     especialmente aquellas dictadas por los                                                                                                                                anteriores podrán imponerse para la protección
+     organismos internacionales de los que forma                                                               El uso del espectro radioeléctrico mediante satélites de     radioeléctrica de estaciones terrenas de satélites,
+                                                       66.3. El órgano regulador dictará un “Reglamento
+     parte la República Dominicana, no pudiéndose      general de uso del espectro radioeléctrico”.            comunicaciones se rige eminentemente por el derecho          estaciones de radio astronomía y astrofísica y centros
+     alegar derecho adquirido en la utilización de                                                             internacional, sin perjuicio del sometimiento al derecho     similares, instalaciones radioeléctricas aeronáuticas
+     una determinada porción del mismo.                                                                        interno, en cuanto al segmento terreno se refiera.           establecidas, o cuando resulte necesario para el buen
+                                                                                                                                                                            funcionamiento del servicio público o en virtud de acuerdos
+                                                                                                                                                                            internacionales.
+30                                                                                                                                                              31
+
+                                                                                                              Artículo 73.- Requisitos para ser
+                                                                                                              concesionario de un servicio público de
+                                                                                                              difusión
+
+
+     CAPÍTULO XI
+                                                                                                              73.1. Para ser concesionario de un servicio
+                                                                                                              público de difusión deberá cumplirse con
+                                                                                                              los requisitos establecidos en el Artículo 22
+                                                                                                              de la presente ley y con aquellos requisitos
+     SERVICIOS DE DIFUSIÓN                                                                                    específicos que reglamentariamente se
+                                                                                                              determinen para prestar cada servicio.
+
+                                                                                                              73.2. En el caso de los Servicios públicos
+                                                                                                              de Radiodifusión, se requerirá, además
+                                                                                                              ser nacional dominicano o extranjero
+                                                                                                              naturalizado para mantener el control social
+     Artículo 70.- Legislación de difusión                 Artículo 72.- Reglamento de prestación del         de la gestión de la empresa concesionaria.
+
+                                                           servicio y planes técnicos de frecuencias
+                                                                                                              Artículo 74.- Cesión
+     Los servicios de difusión se regirán
+     esencialmente por la presente ley y por los           72.1. El órgano regulador aprobará los             La transferencia, cesión, arrendamiento u
+     reglamentos que apruebe el órgano regulador.          correspondientes reglamentos de Prestación         otorgamiento de derecho de uso de cualquier
+     Asimismo, se regirán, en su contenido, por lo         del Servicio para cada modalidad de servicio       título y la constitución de gravamen sobre
+     que disponga la legislación específica que regule     de difusión. En el caso de que se trate de         concesiones de servicios públicos de difusión,
+                                                                                                              deberán llevarse a cabo de conformidad con
+     los medios de comunicación social y por la que        servicios de radiodifusión, el reglamento
+                                                                                                              lo establecido en el Artículo 28 de la presente
+     regule los derechos de autor, sean normas de          contendrá, asimismo, las bases técnicas para       ley.
+     derecho interno o resultantes de convenios o          el establecimiento del correspondiente plan
+     acuerdos internacionales suscritos y ratificados      técnico de frecuencias.                            Artículo 75.- Puesta en funcionamiento
+     por la República Dominicana.
+                                                           72.2. El Poder Ejecutivo determinará el carácter   75.1 Para los casos de servicios de
+                                                                                                              radiodifusión, una vez adjudicada la
+     Artículo 71.- Acceso igualitario                      de la explotación y sus objetivos en caso de
+                                                                                                              concesión, el órgano regulador asignará la
+                                                           explotación pública, evitando el monopolio y el    correspondiente frecuencia con sujeción a lo
+     Los servicios públicos de difusión, sean de           abuso de posición dominante.                       previsto en el “Plan técnico de frecuencias”,
+     radiodifusión sonora o de televisión por ondas                                                           aprobado para el servicio objeto de la
+     terrestres o por satélite o de difusión por cable o   72.3. Los reglamentos de prestación de servicio    concesión. Dicha asignación deberá ser
+     de otro tipo, estarán siempre dirigidos al público    contendrán, como mínimo, disposiciones sobre:      notificada al concesionario e inscrita en el
+                                                                                                              correspondiente registro de frecuencias.
+     en general y se prestarán garantizando el libre
+     e igualitario acceso a las correspondientes           a) Objeto del servicio;                            75.2. Con carácter previo al comienzo de
+     concesiones otorgadas por el órgano regulador.                                                           la prestación de los servicios de difusión,
+                                                           b) Naturaleza y régimen jurídico;                  el órgano regulador deberá comprobar que
+                                                                                                              la instalación realizada se corresponde
+                                                           c) Ambito de cobertura;                            fielmente con el proyecto técnico aprobado.
+
+
+                                                           d) Procedimiento para los concursos públicos y
+                                                           pliegos de condiciones; y
+
+                                                           e) Servicios portadores.
+32                                                                                                                                                                                                                                        33
+
+                                                                                                            Artículo 78.- Funciones del órgano regulador                   j) Administrar, gestionar y controlar el uso del espectro
+                                                                                                                                                                           radioeléctrico, efectuando por sí o por intermedio de
+                                                                                                            Son funciones del órgano regulador:                            terceros la comprobación técnica de emisiones, la
+
+
+     CAPITULO XII
+                                                                                                                                                                           identificación, localización y eliminación de interferencias
+                                                                                                            a) Elaborar reglamentos de alcance general y dictar            perjudiciales velando por que los niveles de radiación no
+                                                                                                            normas de alcance particular, dentro de las pautas de la       supongan peligro para la salud pública;
+                                                                                                            presente ley.
+     DEL ÓRGANO REGULADOR DE LAS                                                                                                                                           k) Aplicar el régimen sancionador ante la comisión de
+                                                                                                            b) Regular aquellos servicios en los que la ausencia de        faltas administrativas previstas en la presente ley y sus
+     TELECOMUNICACIONES                                                                                     competencial resulte perjudicial al usuario;                   reglamentos;
+
+                                                                                                            c) Otorgar, ampliar y revocar concesiones y licencias          l) Administrar y gestionar los recursos de la CDT;
+                                                                                                            en las condiciones previstas por la normativa vigente,
+                                                                                                            permitiendo la incorporación de nuevos prestadores de          m) Autorizar a los concesionarios de servicios públicos de
+                                                                                                            servicios de telecomunicaciones;                               telecomunicaciones que así lo soliciten, a que asuman la
+                                                                                                                                                                           condición de signatarios de organismos internacionales
+     TÍTULO I                                       Artículo 77.- Objetivos del órgano regulador
+                                                                                                            d) Prevenir o corregir prácticas anticompetitivas o            de telecomunicaciones, de conformidad a las reglas
+     OBJETIVOS Y FACULTADES                                                                                 discriminatorias, con arreglo a la presente ley y sus          aplicables, y, en su caso, coordinar la participación no
+                                                    El órgano regulador deberá:
+                                                                                                            reglamentaciones;                                              discriminatoria de los concesionarios de servicios públicos
+                                                    a) Promover el desarrollo de las telecomunicaciones,                                                                   de telecomunicaciones en los organismos internacionales
+     Artículo 76.- Organo regulador                                                                         e) Reglamentar y administrar, incluidas las funciones de       de telecomunicaciones;
+                                                    implementando el principio del servicio universal
+                                                    definido por esta ley;                                  control, mediante las estaciones de comprobación técnica
+     76.1. Se crea el órgano regulador de las                                                               de emisiones que al efecto se instalen, el uso de recursos     n) Aprobar, previa consulta y coordinación con
+     telecomunicaciones con carácter de entidad     b) Garantizar la existencia de una competencia          limitados en materia de telecomunicaciones, tales como         los interesados, y administrar los planes técnicos
+                                                    sostenible, leal y efectiva en la prestación de         el dominio público radioeléctrico, las facilidades de          fundamentales     de    telecomunicaciones    que   la
+     estatal descentralizada, con autonomía
+                                                    servicios públicos de telecomunicaciones;               numeración, facilidades únicas u otras similares;              reglamentación establezca, otorgando plazos razonables
+     funcional, jurisdiccional y financiera,                                                                                                                               para adecuarse a los mismos;
+     patrimonio propio y personalidad jurídica.                                                             f) Gestionar y administrar los recursos órbita espectro,
+                                                    c) Defender y hacer efectivos los derechos de los
+     Tendrá capacidad jurídica para adquirir        clientes, usuarios y prestadores de dichos servicios,   incluida la gestión de las posiciones orbitales de los         o) Dictar normas técnicas que garanticen la compatibilidad
+     derechos y contraer obligaciones. Realizará    dictando los reglamentos pertinentes, haciendo          satélites de telecomunicaciones con sus respectivas            técnica, operativa y funcional de las redes públicas de
+     los actos y ejercerá los mandatos previstos    cumplir las obligaciones correspondientes a las         bandas de frecuencias, así como las órbitas satelitales para   telecomunicaciones, la calidad mínima del servicio y la
+                                                    partes y, en su caso, sancionando a quienes no las      satélites dominicanos que puedan existir y coordinar su uso    interconexión de redes. Dichas normas se adecuarán a
+     en la presente ley y sus reglamentos y será
+                                                    cumplan, de conformidad con las disposiciones           y operación con organismos y entidades internacionales y       las prácticas internacionales y a las recomendaciones
+     inembargable.                                                                                          con otros países;                                              de los organismos internacionales de que forme parte la
+                                                    contenidas en la presente ley y sus reglamentos; y
+                                                                                                                                                                           República Dominicana;
+     76.2.     El   órgano    regulador     de      d) Velar por el uso eficiente del dominio público del   g) Dirimir, de acuerdo a los principios de la presente ley y
+     las    telecomunicaciones,     que     se      espectro radioeléctrico.                                sus reglamentaciones y en resguardo del interés público,       p) Elaborar especificaciones técnicas para la homologación
+     denominará Instituto Dominicano de                                                                     los diferendos que pudieran surgir entre los prestadores de    de equipos, aparatos y sistemas de telecomunicaciones,
+                                                                                                            servicios de telecomunicaciones entre sí y con sus clientes    así como expedir, en su caso, los correspondientes
+     las    Telecomunicaciones    (INDOTEL),
+                                                                                                            o usuarios;                                                    certificados de homologación;
+     tendrá su domicilio en la capital de la
+     República y tendrá jurisdicción nacional                                                               h) Controlar el cumplimiento de las obligaciones de los        q) Administrar sus propios recursos;
+     en materia de regulación y control de las                                                              concesionarios de servicios públicos de telecomunica-
+     telecomunicaciones.                                                                                    ciones y de los usuarios del espectro radioeléctrico, res-     r) Ejercer las facultades de inspección sobre todos los
+                                                                                                            guardando en sus actuaciones el derecho de defensa de          servicios, instalaciones y equipos de telecomunicaciones.
+                                                                                                            las partes;                                                    A estos efectos, los funcionarios de la inspección del
+     76.3. El órgano regulador estará sujeto a
+                                                                                                                                                                           órgano regulador tendrán, en el ejercicio de sus funciones,
+     la fiscalización y control de la Contraloría                                                           i) Fijar, cuando sea necesario, las tarifas de servicios al    la condición de autoridad pública y deberán levantar acta
+     General de la República.                                                                               público y los cargos de interconexión, de acuerdo con la       comprobatoria de las mismas, las cuales harán fe de su
+                                                                                                            presente ley y su reglamentación;                              contenido hasta prueba en contrario;
+                                                                                                                                                                                                                                                                                                 35
+                                                                                 TÍTULO II
+                                                                                 CONFORMACIÓN
+
+  s) Proponer al Poder Ejecutivo, mediante resolución                            Artículo 80.- Conformación del órgano regulador                               Artículo 82.- Requisitos para integrar el Consejo               h) Los titulares, socios, empleados o personas que tengan
+  motivada, el valor de las unidades de reserva radioeléctrica;                                                                                                Directivo y los Cuerpos colegiados                              intereses en empresas sujetas a la facultad reglamentaria
+  y                                                                              80.1. El órgano regulador estará integrado por un Consejo                                                                                     del órgano regulador, en un porcentaje que fije la
+                                                                                 Directivo que será la máxima autoridad del mismo, y por                       82.1. Para ser miembro del Consejo Directivo y los Cuerpos      reglamentación, o haberlo sido o haberlos tenido en los
+  t) Garantizar en el “Plan nacional de atribución de                            una Dirección Ejecutiva.                                                      colegiados se requerirá: a) Ser ciudadano dominicano            dos (2) años previos a la designación;
+  frecuencias” la reserva de las bandas y frecuencias                                                                                                          y en pleno ejercicio de sus derechos civiles; y b) Tener
+  necesarias para los órganos de defensa nacional.                               Artículo 81.- Consejo Directivo                                               experiencia acreditable en algunas de las siguientes            i) Las que presentaren las mismas causas de inhibición y
+                                                                                                                                                               disciplinas: i. En el control de prácticas anticompetitivas     recusación que las correspondientes a los miembros del
+  Artículo 79.- Solución de controversias y protección del                       81.1. El Consejo Directivo estará integrado por cinco                         o en regulación de servicios públicos, preferiblemente en       Poder Judicial; o
+  usuario                                                                        miembros designados por el Poder Ejecutivo, distribuidos                      el mercado de telecomunicaciones; ii. En la resolución
+                                                                                 de la siguiente manera: un (1) presidente con rango                           de conflictos, ya sea mediante procedimientos arbitrajes,       j) Aquellas que por cualquier razón sean legalmente
+  La reglamentación establecerá los mecanismos de                                de Secretario de Estado; el Secretario Técnico de la                          administrativos, o judiciales; iii. En la economía de las       incapaces.
+  solución de controversias y protección al usuario por ante                     Presidencia; un (1) miembro seleccionado de una terna                         empresas, preferiblemente de telecomunicaciones; o iv. En
+  cuerpos colegiados a los cuales deberán acudir las partes.                     elaborada a propuesta de las empresas prestadoras de                          la explotación o ingeniería de redes, sistemas o servicios      Artículo 84.- Funciones del Consejo Directivo
+  Las decisiones arbitrales homologadas por el órgano                            servicios públicos finales de telecomunicaciones; un (1)                      de telecomunicaciones.
+  regulador no estarán sujetas, para ser ejecutorías, a los                      miembro seleccionado de una terna elaborada a propuesta                                                                                       Son funciones del Consejo Directivo:
+  requisitos establecidos en los Artículos 1020 y 1021 del                       de las empresas prestadoras de servicios de difusión,                         82.2. El Consejo Directivo podrá fijar requisitos adicionales
+  Código de Procedimiento Civil, y sólo podrán ser apeladas                      disponiéndose que dos de los candidatos de esta última                        para ser Director Ejecutivo.                                    a) Establecer las directrices de política general y criterios a
+  ante la Suprema Corte de Justicia.1                                            terna serán propuestos por las empresas de televisión con                                                                                     seguir por el órgano regulador;
+                                                                                 alcance nacional, y el otro a propuesta de las empresas                       Artículo 83.- Impedimentos para integrar el Consejo
+                                                                                 de radiodifusión sonora y las empresas de televisión por                      Directivo y los Cuerpos colegiados                              b) Dictar reglamentos de alcance general y normas de
+                                                                                 cable; y un (1) miembro escogido directa y libremente, con                                                                                    alcance particular, dentro de las reglas y competencias
+                                                                                 calificación profesional, que velará por los derechos de los                  No podrán ser miembros del Consejo Directivo o de los           fijadas por la presente ley y manteniendo el criterio
+                                                                                 usuarios de servicios de las empresas antes mencionadas.                      Cuerpos colegiados, ni Director Ejecutivo del órgano            consultivo de las empresas prestadoras de los diversos
+                                                                                                                                                               regulador, las siguientes personas:                             servicios públicos regulados y de sus usuarios;
+                                                                                 81.2. El Director Ejecutivo del órgano regulador será
+                                                                                 miembro del Consejo Directivo con voz pero sin voto, y                        a) Los menores de 25 años de edad;                              c) Designar y remover al Director Ejecutivo y al Auditor
+                                                                                 fungirá como secretario del mismo.                                                                                                            Interno,
+                                                                                                                                                               b) Los miembros del Congreso nacional;
+                                                                                 81.3. Para la nominación de candidatos, las empresas                                                                                          d) Aprobar los reglamentos internos relativos a la
+                                                                                 prestadoras de servicios públicos de telecomunicaciones                       c) Los miembros activos del Poder Judicial;                     administración del órgano, y fijar las remuneraciones
+                                                                                 y de difusión deberán presentar al Secretario Técnico de la                                                                                   correspondientes. Las remuneraciones del personal del
+                                                                                 Presidencia las ternas con los candidatos que seleccionen,                    d) Los que desempeñaren cargos o empleos remunerados            órgano regulador serán equivalentes a las de niveles
+                                                                                 a propuesta conjunta de todos los prestadores. En caso                        en cualesquiera de los organismos de Estado o de las            decisorios semejantes del sector privado;
+                                                                                 de que los concesionarios de la categoría respectiva no                       municipalidades, ya sea por elección popular o mediante
+                                                                                 acordaran una terna dentro de los sesenta (60) días                           nombramiento, salvo los cargos de carácter docente;             e) Conocer de los recursos contra los actos administrativos
+                                                                                 subsiguientes a la entrada en vigor de la presente ley, el                                                                                    dictados por cualquier funcionario del órgano regulador;
+                                                                                 cargo será cubierto en forma directa por el Poder Ejecutivo.                  e) Dos (2) o más personas que sean parientes dentro del
+                                                                                                                                                               cuarto grado de consanguinidad o segundo de afinidad; o         f) Adoptar las medidas precautorias y correctivas a las que
+                                                                                 81.4. Con excepción del Secretario Técnico de la                              que pertenezcan a la misma sociedad en nombre colectivo,        se refiere la presente ley dentro del contexto de su régimen
+                                                                                 Presidencia, los demás miembros del Consejo Directivo                         o que formen parte de un mismo directorio de una sociedad       sancionador;
+                                                                                 durarán cuarto (4) años, y su nombramiento podrá ser                          por acciones;
+                                                                                 renovado por los mismos procedimientos de designación. 2                                                                                      g) Actualizar los montos de los derechos, tasas,
+                                                                                                                                                               f) Las personas que hayan sido declaradas en estado de          contribuciones, cánones, así como los cargos por
+                                                                                                                                                               quiebra, así como aquellas contra las cuales estuvieren         incumplimiento previstos en la presente ley;
+                                                                                                                                                               pendientes procedimientos de quiebra;
+                                                                                                                                                                                                                               h) Someter al Poder Ejecutivo para su aprobación el “Plan
+                                                                                                                                                               g) Las personas que estuvieren subjúdices, o cumpliendo         nacional de atribución de frecuencias”;
+                                                                                                                                                               condena o que hayan sido condenadas a penas aflictivas o
+1. Mediante las Sentencias núms., 22, 24, 25, 27, 26, dictadas el 3 de abril de 2013, el Pleno de la Suprema Corte de Justicia ha asumido el criterio de que   infamantes;                                                     i) Imponer los cargos por incumplimiento derivados de
+en aplicación de lo dispuesto por el artículo 165.2 de la Constitución Dominicana, ese Alto tribunal es incompetente para conocer de los recursos contra                                                                       faltas calificadas como graves y muy graves;
+las Resoluciones de Homologación del Consejo Directivo del INDOTEL, siendo competente a tal fin el Tribunal Superior Administrativo.
+
+2. Este artículo fue declarado no conforme con la Constitución de la República, declarando su inconstitucionalidad erga omnes de dicha disposición
+legal, por la Suprema Corte de Justicia, mediante Sentencia núm. 9 dictada el 9 de agosto del año 2000, disponible en el Boletín Judicial núm. 1077.
+                                                                                                                                                                                                                                                              37
+
+j) Aprobar la memoria anual, los estados financieros y el      c) Transmitir al órgano regulador las directrices del          Artículo 89.- Remoción                                          Consejo Directivo para su cumplimiento en el término de
+presupuesto anual del órgano regulador;                        Gobierno respecto de las relaciones con otros países o con                                                                     los tres (3) días subsiguientes a la fecha de dicha decisión.
+                                                               organismos internacionales bilaterales o multilaterales en     89.1. El Poder Ejecutivo podrá remover a los miembros
+k) Designar los miembros de los cuerpos colegiados             materia de telecomunicaciones;                                 titulares del Consejo Directivo, así como los miembros          89.5. El procedimiento especial establecido por el presente
+para la solución de controversias y protección del                                                                            de los cuerpos colegiados, en cualquiera de los casos           artículo se declara libre de gastos, derechos, impuestos,
+usuario conforme al “Reglamento orgánico-funcional” del        d) Impartir directrices al Director Ejecutivo respecto de      siguientes:                                                     costos y honorarios legales de todo género.
+INDOTEL;                                                       medidas a tomar cuando se encuentre comprometida la
+                                                               seguridad o lo requieran las necesidades de la defensa         a) Cuando por cualquier causa no justificada debidamente,       Artículo 90.- Normas de conducta
+l) Tomar las decisiones finales acerca de los proyectos        nacional o situaciones de emergencia oficialmente              hubieren dejado de concurrir a seis (6) sesiones ordinarias
+de desarrollo y administrar el “Fondo de financiación          declaradas;                                                    al año;                                                         90.1. Ningún funcionario o empleado del órgano regulador
+al desarrollo de las telecomunicaciones” previsto en el                                                                                                                                       podrá revelar información confidencial obtenida en
+Capítulo VII;                                                  e) Convocar y presidir las sesiones del Consejo Directivo,     b) Cuando por incapacidad física no hubieren podido             el ejercicio de sus funciones. La revelación de tales
+                                                               con doble voto, en caso de empate, y determinar los            desempeñar su cargo durante seis (6) meses;                     informaciones será sancionada con el cese de las funciones
+m) Tomar cuantas decisiones sean necesarias para               asuntos a ser incorporados en la agenda, a partir de los                                                                       de dicho empleado, sin perjuicio de otras acciones civiles o
+viabilizar el cumplimiento de las disposiciones de la          que les someta el Director Ejecutivo; y                        c) Por condenación definitiva a pena criminal.                  penales en su contra.
+presente ley; y
+                                                               f) Supervisar la correcta ejecución de las resoluciones        89.2. No obstante lo indicado en el párrafo anterior, los       90.2. Ningún funcionario o empleado del órgano
+n) En caso de ausencia, incapacidad u otro impedimento         adoptadas por el Consejo Directivo.                            miembros titulares del Consejo Directivo, así como los          regulador, mientras esté en ejercicio de su cargo, podrá
+temporal o definitivo del presidente del Consejo Directivo                                                                    miembros de los cuerpos colegiados, podrán ser removidos        recibir pago alguno por ningún concepto de empresas
+sus funciones serán ejercidas interinamente por el             Artículo 87.- Del Director Ejecutivo                           mediante decisión de la Suprema Corte de Justicia por las       sujetas a la facultad reglamentaria del órgano regulador.
+Secretario de Estado Técnico de la Presidencia.                                                                               causas previstas en los casos siguientes:                       Dicha prohibición se extenderá por el período de un año
+                                                               El órgano regulador tendrá un Director Ejecutivo, con las                                                                      posterior al abandono del cargo para los miembros del
+Artículo 85.- Quórum y mayoría                                 siguientes funciones:                                          a) Cuando se demostrare negligencia manifiesta en el            Consejo Directivo, de los cuerpos colegiados y el Director
+                                                                                                                              cumplimiento de sus cargos o en el caso de que, sin debida      Ejecutivo.
+85.1. El Consejo Directivo podrá funcionar legalmente          a) Ejercer la representación legal del órgano regulador;       justificación, dejaren de cumplir las obligaciones que les
+con la mitad más uno de sus miembros, uno de los cuales                                                                       corresponden, de acuerdo con la ley, los reglamentos y las      90.3. Serán prohibidos los contactos informales o
+deberá ser el presidente del Consejo Directivo.                b) Ejercer, en cumplimiento de los mandatos del Consejo        decisiones del Consejo Directivo; o                             individuales entre las partes interesadas y el personal del
+                                                               Directivo, la administración interna del órgano regulador;                                                                     órgano regulador, sobre temas pendientes de resolución
+85.2. Para tener validez legal, las decisiones del Consejo                                                                    b) Cuando fueren responsables de actos u operaciones            por el ente. Esas comunicaciones deberán ser formales
+Directivo deberán adoptarse por mayoría de tres.               c) Decidir la aplicación de las sanciones leves previstas en   fraudulentas, ilegales o evidentemente opuestas a los fines     y accesibles a los interesados o sus representantes en
+                                                               esta ley;                                                      e intereses de la institución;                                  casos de actos de alcance general, ya sea participando
+85.3. El Secretario Técnico de la Presidencia podrá hacerse                                                                                                                                   en las reuniones o conociendo las presentaciones o actas
+representar por un funcionario debidamente acreditado.         d) Recomendar la aplicación de las sanciones graves y muy      89.3. La denuncia se hará al Procurador General de la           respectivas, en la forma en que lo reglamente el órgano
+                                                               graves previstas en esta ley; y                                República, por cualquier persona física o jurídica que          regulador.
+Artículo 86.- Funciones del Presidente del Consejo                                                                            demuestre un interés legal. El Procurador General de la
+Directivo                                                      e) Ejercer las demás funciones que le encomiende el            República someterá el caso a la Suprema Corte de Justicia,
+                                                               Consejo Directivo.                                             la cual comisionará inmediatamente a uno de sus jueces
+El Presidente tendrá las funciones siguientes:                                                                                para que instruya el asunto en forma sumaria y le rinda
+                                                               Artículo 88.- Caducidad                                        el informe procedente dentro del más breve plazo, que
+a) Firmar las resoluciones mediante las cuales se otorgan,                                                                    no podrá exceder de quince días. Dicho informe será
+amplían y revocan concesiones, licencias y permisos            88.1. Cuando se advierta o sobrevenga alguna de las            debidamente notificado por el Secretario de la Corte al
+provisionales, en las condiciones previstas por la normativa   causas de incapacidad mencionadas en esta ley, caducará        miembro denunciado, para que éste exponga por escrito
+vigente;                                                       la designación o gestión del miembro respectivo y se           los medios de defensa que juzgue de lugar, en el término
+                                                               procederá a su reemplazo.                                      de diez (10) días a contar de la fecha de dicha notificación.
+b) Representar al Estado Dominicano ante los organismos
+internacionales de telecomunicaciones de los que forme         88.2. No obstante tal caducidad, los actos o contratos         89.4. Vencido el término indicado, la Suprema Corte de
+parte la República Dominicana, asistido por la Dirección       autorizados por el incapaz, antes de que fuera declarada la    Justicia, en Cámara de Consejo, conocerá del informe del
+Ejecutiva del órgano regulador, a la que podrá delegarle       caducidad, no se invalidarán por esta circunstancia, ni con    juez comisionado y del escrito de defensa, si lo hubiere, y
+funciones determinadas;                                        respecto del órgano regulador, ni con respecto a terceros.     en el término de un mes, a más tardar, decidirá si acoge
+                                                                                                                              o desestima la causa de remoción invocada, decisión que
+                                                                                                                              no será objeto de ningún recurso y que se comunicará al
+                                                                                                                                                                                                                                                              39
+
+TÍTULO III                                                     93.2. Cuando los interesados sean de carácter
+PROCEDIMIENTOS                                                 indeterminado, el órgano regulador convocará a una               96.3. Las decisiones del Consejo Directivo serán objeto de      100.2. Los informes deberán ser proporcionados en los
+                                                               audiencia pública en la que, previa acreditación y por los       recurso jerárquico ante la jurisdicción de lo contencioso       plazos razonables que se fijen en cada oportunidad, los
+                                                               procedimientos que se prevean en el reglamento que se            administrativo, en la forma y plazos previstos por la ley que   que no podrán ser inferiores a cinco (5) días hábiles. En
+                                                               dicte, los posibles interesados podrán emitir su opinión,        rige la materia.                                                los casos previstos, los concesionarios o licenciatarios
+Artículo 91.- Resoluciones y su contenido                      que no será vinculante para el órgano regulador. Como                                                                            deberán permitir el libre acceso del órgano regulador a los
+                                                               método de consulta alternativo, el órgano regulador podrá        Artículo 97.- Motivos de impugnación                            libros, documentación contable e información registrada
+91.1. El órgano regulador tomará sus decisiones por medio      publicar, en un periódico de amplia circulación nacional,                                                                        bajo cualquier forma.
+de resoluciones, las cuales serán fechadas, numeradas          la norma prevista, estableciendo un plazo razonable para         Los recursos contra las decisiones del Consejo Directivo
+consecutivamente y registradas en un medio de acceso           recibir comentarios del público, vencido el cual se dictará      solo podrán basarse en las siguientes causas:                   100.3. El órgano regulador podrá requerir directamente
+público. Las resoluciones de carácter general, y otras         la norma.                                                                                                                        el auxilio de la fuerza pública para el ejercicio de las
+de interés público que el órgano regulador determine,                                                                           a) Extralimitación de facultades;                               facultades que le confieren este artículo y el Artículo 30,
+deberán ser además publicadas en un periódico de amplia        Artículo 94.- Propuestas regulatorias                                                                                            literal g).
+circulación nacional.                                                                                                           b) Falta de fundamento sustancial en los hechos de la
+                                                               En los casos en que sea necesario ejecutar acciones              causa;                                                          100.4. El órgano regulador podrá establecer los
+91.2. Las resoluciones del órgano regulador deberán estar      determinadas en beneficio del interés público, ello se hará                                                                      requisitos mínimos razonables que deberá reunir la
+debidamente motivadas y como mínimo contener:                  sin perjuicio de la obligación de consulta y del derecho de      c) Evidente error de derecho; o                                 contabilidad de los concesionarios de servicios públicos
+                                                               participación, dictando el órgano regulador una resolución                                                                       de telecomunicaciones, incluyendo, en su caso, plazos
+a) Descripción de las posiciones de las partes y de los        provisional ejecutoria. Dicha resolución se publicará            d) Incumplimiento de las normas procesales fijadas por          de depreciación de facilidades, equipos y sistemas.
+motivos para acoger o rechazar cada una de ellas;              y estará sujeta a observaciones por sesenta (60) días            esta ley o por el propio órgano regulador.                      Asimismo establecerá los requisitos mínimos razonables
+                                                               calendario, plazo en el que deberá tomarse una resolución                                                                        para el suministro y conservación de la información
+b) Los hechos relevantes en que se fundamenta su               definitiva. En ese plazo, y antes de la resolución definitiva,   Artículo 98.- Obligatoriedad de recurso administrativo          contable, de costos, de tráficos y de operaciones que
+adopción;                                                      el órgano regulador puede modificar su propuesta                                                                                 fuere estrictamente necesaria para el cumplimiento de sus
+                                                               regulatoria provisional.                                         La vía administrativa previa es obligatoria para los            facultades reglamentarias.
+c) Las normas que aplican;                                                                                                      concesionarios de servicios públicos de telecomunicaciones
+                                                               Artículo 95.- Publicidad                                         que requieran recurrir a la vía judicial.                       Artículo 101.- Defensa del usuario y participación
+d) El interés público protegido; y
+                                                               Todas las actuaciones ante el órgano regulador y sus actos       Artículo 99.- Ejecutoriedad del acto administrativo             101.1. El órgano regulador dictará un “Reglamento
+e) El dispositivo de la resolución.                            podrán ser consultados por el público en general, salvo                                                                          general del servicio telefónico” que regule las relaciones
+                                                               que, por solicitud motivada de parte interesada, en un caso      Los actos administrativos del órgano regulador serán de         entre los concesionarios de ese servicio y sus clientes y
+Artículo 92.- Criterios de acción                              concreto, y por tiempo que se fije, el órgano regulador,         obligado cumplimiento, salvo mandato judicial consentido        usuarios, garantizando sus derechos y estableciendo sus
+                                                               basándose en razones de secreto o reserva comercial o de         que expresamente señale lo contrario.                           obligaciones.
+92.1. Al dictar regulaciones relacionadas con el               otro tipo que se justifique, determine no hacerlo público.
+funcionamiento y desarrollo de los mercados de                                                                                  Artículo 100.- Entrega de información                           101.2. El órgano regulador podrá dictar otros reglamentos
+telecomunicaciones, el órgano regulador deberá                 Artículo 96.- Recursos                                                                                                           para otros servicios.
+ajustarse a la regla de la mínima regulación y del máximo                                                                       100.1. El órgano regulador podrá solicitar a los
+funcionamiento del mercado, y deberá actuar de modo            96.1. Las decisiones del Director Ejecutivo y del                concesionarios o licenciatarios, informes y datos contables     101.3. Todo interesado con interés legítimo podrá requerir
+tal que los efectos de sus decisiones equiparen los de una     Consejo Directivo podrán ser objeto de un recurso de             y estadísticos que sean adecuados a la finalidad legítima y     ser consultado y exponer su posición antes de la toma de
+competencia leal, efectiva y sostenible, en los casos en que   reconsideración, el cual deberá ser sometido dentro del          reglamentaria, en los casos siguientes:                         decisiones de carácter general o particular que lo afecten,
+ella no exista.                                                plazo de diez (10) días calendario, contados a partir de                                                                         de acuerdo a las normas de procedimiento que fije el
+                                                               la notificación o publicación del acto recurrible. Tanto el      a) Cuando existiera una controversia en la que el órgano        órgano regulador.
+92.2. Asimismo en sus actuaciones el órgano regulador          Director Ejecutivo cuanto el Consejo Directivo deberán           regulador tuviera que intervenir, entre concesionarios y/o
+deberá respetar el derecho de defensa de los interesados.      pronunciarse en un plazo máximo de diez (10) días                licenciatarios; entre éstos y el órgano regulador; o entre
+                                                               calendario desde la interposición.                               aquellos y usuarios o clientes de servicios o terceros;
+Artículo 93.- Normas de alcance general
+                                                               96.2. Asimismo, las decisiones del Director Ejecutivo            b) Cuando existiere una imputación de infracción y la
+93.1. Antes de dictar resoluciones de carácter general,        podrán ser objeto de un recurso jerárquico por ante              infracción estuviere estrictamente vinculada al hecho
+el órgano regulador deberá consultar a los interesados,        el Consejo Directivo; debiendo éste interponerse                 imputado; o
+debiendo quedar constancia escrita de la consulta y sus        simultáneamente con el recurso de reconsideración. El
+respuestas.                                                    Consejo Directivo deberá pronunciarse en un plazo máximo         c) Cuando la información sea necesaria y tenga una
+                                                               de diez (10) días calendario desde dicha interposición.          vinculación directa con la formulación de políticas públicas.
+                                                             41
+
+TÍTULO IV
+RECURSOS DEL ÓRGANO REGULADOR
+
+
+Artículo 102.- Recursos económicos del órgano regulador
+
+102.1. El órgano regulador se financiará mediante los
+siguientes recursos económicos:
+
+a) El porcentaje establecido que le corresponda de la CDT;
+
+b) El derecho por uso del dominio público del espectro
+radioeléctrico;
+
+c) Los derechos que se establezcan, en su caso, en los
+procedimientos para el otorgamiento de concesiones y
+licencias, de acuerdo con la reglamentación;
+
+d) Los rendimientos que genere su propio patrimonio;
+
+e) Las asignaciones presupuestarias que, en su caso, le
+asigne el Gobierno Central; y
+
+f) Lo que pueda obtener por cualquier otro concepto.
+
+102.2. Una vez cubiertas las necesidades presupuestarias
+del órgano regulador, el Consejo Directivo destinará el
+excedente de los recursos que pudieran existir al Fondo de
+Desarrollo previsto en el Capítulo VII.
+42                                                                                                                                                                                                                                          43
+
+                                                                                                             f) La producción deliberada de interferencias definidas        resoluciones definitivas; y
+                                                                                                             como perjudiciales de acuerdo a las normas y estándares
+                                                                                                             internacionales;                                               r) Cualquier otra acción de las operadoras que, a juicio
+                                                                                                                                                                            del Consejo Directivo del órgano regulador, atente en
+
+
+     CAPÍTULO XIII
+                                                                                                             g) La producción de interferencias definidas como              forma notoria y deliberada en contra de los principios de
+                                                                                                             perjudiciales de acuerdo a las reglas y normas                 libertad de prestación de servicios y de libre competencia
+                                                                                                             internacionales, cuando provenga de la utilización del         garantizados por la presente ley.
+                                                                                                             dominio público radioeléctrico sin la correspondiente
+     FALTAS Y SANCIONES                                                                                      licencia o del uso de frecuencias distintas de las             Artículo 106.- Faltas graves
+                                                                                                             autorizadas;
+                                                                                                                                                                            Constituyen faltas graves:
+                                                                                                             h) El uso de una red pública de telecomunicaciones sin el
+                                                                                                             pago correspondiente a la empresa concesionaria titular        a) La discriminación arbitraria entre clientes o usuarios;
+                                                                                                             de dicha red;
+                                                                                                                                                                            b) La utilización del dominio público del espectro
+                                                                                                             i) La negativa, obstrucción o resistencia a las inspecciones   radioelectrónico sin la correspondiente licencia o el uso de
+     TÍTULO I                                        TÍTULO II                                               administrativas que deba realizar el órgano regulador o a la   frecuencias distintas a las autorizadas;
+     SUJETOS                                         CLASIFICACIÓN                                           entrega de la información solicitada por el mismo;
+                                                                                                                                                                            c) Los cambios de ubicación o de las características técnicas
+                                                                                                             j) La intercepción sin autorización de las telecomunica-       de las estaciones radioeléctricas, sin la correspondiente
+     Artículo 103.- Sujetos responsables de las      Artículo 104.- Clasificación de las faltas              ciones no destinadas al público en general;                    autorización;
+     faltas                                          administrativas
+                                                                                                             k) La divulgación del contenido, existencia, publicación       d) La asociación comercial o contratación con
+                                                     Las faltas administrativas a las disposiciones de la    o cualquier otro uso, sin autorización, de toda clase de       cualquier entidad nacional o extranjera, para canalizar
+     Se reputarán responsables de cometer
+                                                     presente ley se clasifican en muy graves, graves y      información obtenida mediante la intercepción o recepción      comunicaciones hacia o desde otros países, sin
+     faltas administrativas tipificadas en la        leves.                                                  de aquellas comunicaciones que no estén destinadas al          intervención de operadores debidamente autorizadas para
+     presente ley:                                                                                           público en general;                                            la prestación de dichos servicios;
+                                                     Artículo 105.- Faltas muy graves
+     a) Quienes realicen actividades reguladas                                                               l) La falta de pago de los derechos previstos en la presente   e) La producción no deliberada de interferencias
+                                                     Constituyen faltas muy graves:                          ley, conforme a los plazos establecidos por los diferentes     perjudiciales definidas como tales en las normas y
+     por las disposiciones legales vigentes en
+     materia de telecomunicaciones sin poseer                                                                reglamentos que la complementan;                               estándares internacionales, incluyendo las producidas por
+                                                     a) La realización de prácticas restrictivas a la                                                                       defectos de los aparatos o equipos;
+     la concesión o licencia respectiva;             competencia;                                            m) La instalación de aparatos o equipos no homologados
+                                                                                                             que produzcan daños muy graves en las redes de                 f) La conexión de aparatos o equipos no homologados que
+     b) Quienes, aún contando con la respectiva      b) El uso indebido de los recursos de la CDT;           telecomunicaciones o a terceros;                               produzcan daños graves a las redes de telecomunicaciones
+     concesión o licencia, realicen actividades en                                                                                                                          o a terceros;
+                                                     c) La utilización de potencias de emisión               n) El incumplimiento de las condiciones esenciales
+     contra de lo dispuesto en la presente ley; o
+                                                     notoriamente superiores a las autorizadas;              establecidas en el contrato de concesión, incluyendo la        g) La alteración o manipulación de las características
+                                                                                                             falta de construcción de las instalaciones y la explotación    técnicas, marcas, etiquetas o signos de identificación de
+     c) El usuario de los servicios de               d) La prestación de servicios de telecomunicaciones     de los servicios dentro de los plazos señalados;               equipo o aparatos, quedando excluidos los equipos de
+     telecomunicaciones, por la mala utilización     sin la correspondiente concesión, licencia o                                                                           radioaficionados, siempre que no hayan sido adquiridos en
+     de                                              inscripción;                                            o) La negativa a cumplir con la obligación de interconexión,   el mercado y se destinen a este servicio;
+                                                                                                             en los casos en que esta proceda, de acuerdo a las
+                                                     e) Dar facilidades a terceros para que presten          previsiones de la presente ley, o la reticencia en llevar a    h) La utilización de los servicios de telecomunicaciones
+                                                     servicios   de    telecomunicaciones       sin     la   cabo las obligaciones que de ella se derivan;                  para fines distintos de los que se hubieran autorizado por
+                                                     correspondiente concesión, licencia o inscripción;                                                                     el órgano regulador;
+                                                                                                             p) La aplicación, en su caso, de tarifas distintas a las
+                                                                                                             autorizadas;                                                   i) La emisión de señales de identificación falsas o
+                                                                                                                                                                            engañosas;
+                                                                                                             q) La comisión, en el transcurso de un (1) año, de dos
+                                                                                                             (2) o más infracciones graves sancionadas mediante
+44                                                                                                                                                                                                                                                              45
+
+     j) La no publicación o exposición al público de las tarifas     TÍTULO III                                                    110.2. Lo recaudado por concepto de cargos por                  TÍTULO V
+     vigentes en cada servicio;                                      SANCIONES                                                     incumplimiento que se perciban por aplicación de la             DESTINO DE LOS BIENES INCAUTADOS
+                                                                                                                                   presente ley y sus reglamentaciones será destinado
+     k) La comisión, en el plazo de un (1) año, de dos o más                                                                       íntegramente al “Fondo de desarrollo” previsto en el
+     infracciones leves sancionadas mediante resolución                                                                            Capitulo VII.
+     definitiva;                                                     Artículo 108.- Cargo por incumplimiento                                                                                       Artículo 113.- Incautación
+                                                                                                                                   Artículo 111.- Independencia de las acciones civiles o
+     l) El cobro a clientes o usuarios por servicios no prestados;   Se establece un cargo por incumplimiento (CI), equivalente    penales                                                         Los bienes y equipos que hayan sido incautados como
+                                                                     al valor de veinte mil pesos oro (RD$20,000.00) de 1997.                                                                      producto de incautaciones y clausuras definitivas pasarán
+     m) La comercialización de equipos de telecomunicaciones         El órgano regulador, por resolución, actualizará el valor     Las sanciones administrativas a las que se refiere el           al patrimonio del órgano regulador.
+     que no cuenten con el correspondiente certificado de            del CI a fin de preservar su nivel de sanción económica,      presente título se aplicarán previa e independientemente
+     homologación, emitido de acuerdo con las previsiones de         utilizando los índices de precios al consumidor publicado     de la responsabilidad penal o civil en que pudieran incurrir    Artículo 114.- Destino de los bienes decomisados
+     la presente ley; y                                              por el Banco Central de la República Dominicana.              los infractores.
+                                                                                                                                                                                                   114.1. Con el objeto de desarrollar servicios de
+     n) Cualquier otra acción de las operadoras que, a juicio del    Artículo 109.- Monto de las sanciones                                                                                         telecomunicaciones en áreas o lugares donde ellos no
+     Consejo Directivo del órgano regulador, atente en forma
+                                                                                                                                   TÍTULO IV                                                       sean prestados, el órgano regulador podrá, mediante
+     notoria contra los principios de libertad de prestación         109.1. La faltas consideradas muy graves serán
+                                                                                                                                   MEDIDAS PRECAUTORIAS                                            pública subasta, vender a prestadores de servicios de
+     de servicios y de libre competencia garantizados por la         sancionadas con mínimo de treinta (30) el y un máximo                                                                         telecomunicaciones o donar a entidades del sector
+     presente ley, y no constituya infracción muy grave.             de doscientos (200) CI.                                                                                                       público o a personas o entidades sin fines de lucro que lo
+                                                                                                                                   112.1. Para los casos que se presuma que la infracción          soliciten, los bienes o equipos incautados. En todo caso,
+     Artículo 107.- Faltas leves                                     109.2. Las faltas consideradas graves, serán sancionadas      puede ser calificada como muy grave, el órgano regulador        para el otorgamiento de licencia o concesión de servicios
+                                                                     con un mínimo de diez (10) CI y un máximo de treinta          podrá disponer la adopción de medidas precautorias              de telecomunicaciones con tales equipos, el operador o
+     Constituyen faltas leves:                                       (30) CI. En el caso de alteración de las características de   tales como la clausura provisional de las instalaciones o       solicitante deberá garantizar el funcionamiento de los
+                                                                     los equipos, la sanción podrá incluir la incautación de los   la suspensión provisional de la concesión; y podrá, en su       mismos.
+     a) La producción de interferencias no admisibles, que           mismos.                                                       caso, solicitar judicialmente la incautación provisional de
+     no sean ostensiblemente perjudiciales, definidas en las                                                                       los equipos o aparatos.                                         114.2. Lo recaudado por concepto de venta de equipos
+     normas y estándares internacionales;                            109.3. Las faltas consideradas leves serán sancionadas                                                                        incautados será destinado íntegramente al “Fondo de
+                                                                     con un mínimo de dos (2) CI y un máximo de diez (10) CI.      112.2. Para los efectos de la clausura provisional y            desarrollo” del Capitulo VII.
+     b) la utilización o prestación indebida de los servicios que                                                                  decomiso, el órgano regulador hará el requerimiento
+     no esté considerada como falta muy grave o grave;               109.4. El pago de la sanción no implica la convalidación      pertinente al juez que corresponda, transcribiéndose la
+                                                                     de la situación irregular, debiendo el infractor cesar        resolución que autoriza tal medida, para que disponga el
+     c) La instalación de aparatos o equipos no homologados a        de inmediato los actos que dieron lugar a la sanción.         diligenciamiento correspondiente, autorizando la rotura
+     las redes de telecomunicaciones;                                El infractor que realice actividades sin concesión o          de puertas y apoyo de la fuerza pública, en caso de ser
+                                                                     autorización, independientemente de la sanción que se         necesario.
+     d) Cualquier otra acción de los prestadores que, a juicio       le aplique, estará obligado a pagar los derechos, tasas o
+     del Consejo Directivo del órgano regulador, atente contra       cánones correspondientes, en su caso, por todo el tiempo      112.3. En los casos de infracciones relacionadas con la
+     los principios de libertad de prestación de servicios y de      en que operó irregularmente.                                  indebida utilización del espectro radioeléctrico, el personal
+     libre competencia garantizados por la presente ley, y no                                                                      autorizado por el órgano regulador que lo detecte podrá
+     constituya infracción grave o muy grave.                        Artículo 110.- Graduación y destino                           disponer la clausura provisional y sugerir al órgano regular
+                                                                                                                                   la solicitud judicial de incautación de los equipos.
+                                                                     110.1. El valor de la sanción imponible dependerá:
+                                                                                                                                   112.4. Tratándose de delitos flagrantes, conforme al
+                                                                     a) Del número de infracciones cometidas;                      Código Penal, el órgano regulador podrá solicitar el apoyo
+                                                                                                                                   de la fuerza pública y la intervención del ministerio público
+                                                                     b) De la reincidencia;                                        para la realización de su cometido.
+
+                                                                     c) De la repercusión social de las mismas.
+46                                                                                                           47
+
+
+     CAPÍTULO XIV
+     OTRAS DISPOSICIONES
+
+
+     Artículo 115.- De la Dirección General de       Artículo 117.- Reglamento Núm. 824
+     Telecomunicaciones
+                                                     Todas las alusiones que se hacen en el Reglamento
+                                                     Núm. 824, de fecha 25 de marzo de 1971 a la
+     Se suprime la Dirección General de
+                                                     Dirección General de Telecomunicaciones, se
+     Telecomunicaciones (DGT). Todas las             entenderán hechas a la Secretaría Administrativa
+     referencias que se hagan a la citada            de la Presidencia.
+     Dirección General, en las normas que no
+     hayan sido derogadas por la presente ley,       Artículo 118.- De los contratos de interconexión
+                                                     vigentes y del acuerdo ante la Organización
+     se entenderán referidas a órgano regulador
+                                                     Mundial del Comercio (OMC)
+     establecido en el Capítulo XII de esta ley, a
+     excepción de aquellas normas a las que se       118.1. Las entidades prestadoras de servicios
+     refieren los dos artículos siguientes.          públicos finales de telecomunicaciones revisarán,
+                                                     dentro del plazo de un año, los contratos de
+     Artículo 116.- Decreto 85-93                    interconexión suscritos entre ellas hasta la fecha
+                                                     de entrada en vigor de esta ley, con el objeto de
+                                                     adaptarlos a las previsiones de la misma y su
+     116.1. A partir de la entrada en vigor de la
+                                                     reglamento de aplicación.
+     presente ley, todas las referencias que se
+     hacen en el Decreto 85-93, de fecha 28 de       118.2. Una vez revisados los contratos, los
+     marzo de 1993, a la DGT y a la Comisión de      comunicarán al órgano regulador para su revisión,
+     Derecho de Autor, se entenderán hechas a        quien, en el caso de estimarlo necesario, podrá
+                                                     adoptar las medidas previstas en el Capítulo VIII,
+     la Oficina Nacional de Derechos de Autor
+                                                     Título II de la presente ley.
+     (ONDA).
+                                                     118.3. Se ratifica en todas sus partes el Cuarto
+     116.2 El patrimonio de la DGT pasa de           Protocolo anexo al Acuerdo General Sobre
+     forma íntegra al Instituto Dominicano de las    Comercio de Servicios (GATS), relativo a las
+     Telecomunicaciones (INDOTEL) creado por         negociaciones sobre telecomunicaciones básicas
+                                                     de la Organización Mundial del Comercio (OMC),
+     la presente ley.
+                                                     para que rija, en lo que respecta a la República
+                                                     Dominicana, a partir de la entrada en vigencia de la
+                                                     presente ley, la cual será considerada el instrumento
+                                                     ratificador.
+48                                                                                                                                                                                                                                 49
+
+                                                                                                      Artículo 120.- Rebalanceo tarifario                            Artículo 123.- Disposición derogatoria
+
+                                                                                                      120.1. Los precios al público del servicio telefónico local    Con la promulgación de la presente ley, quedan derogadas:
+                                                                                                      de la primera línea residencial deberán reflejar sus costos
+
+
+     CAPÍTULO XV
+                                                                                                      dentro del período transitorio o de rebalanceo tarifario,      a) La Ley 118 de Telecomunicaciones, de fecha 1 de febrero
+                                                                                                      establecido por el órgano regulador mediante resolución        de 1966; sin que ello implique desaparición inmediata de
+                                                                                                      motivada, luego de la promulgación de la presente ley.         la Dirección General de Telecomunicaciones (DGT), la cual
+                                                                                                                                                                     mantendrá su existencia hasta tanto el Consejo Directivo
+     DISPOSICIONES TRANSITORIAS Y DEROGATORIAS                                                        120.2. Para fines de implantación del rebalanceo tarifario,    del órgano regulador no sea designado de conformidad
+                                                                                                      el Poder Ejecutivo nombrará, dentro de los treinta (30)        con las previsiones de esta ley, y fungir provisionalmente
+                                                                                                      días de la fecha de promulgación de esta ley una “Comisión     como Director Ejecutivo del nuevo órgano regulador;
+                                                                                                      asesora para el rebalanceo tarifario”, adscrita al órgano
+                                                                                                      regulador. Esta comisión estará compuesta por el Secretario    b) El Artículo 381 de la Ley 11-92, de fecha 16 de mayo de
+                                                                                                      Técnico de la Presidencia, quien la presidirá en calidad del   1992;
+                                                                                                      presidente de la misma; el Secretario de Estado de Obras
+     Artículo 119.- Concesiones vigentes                                                              Públicas, quien será suplente del presidente; el Director      c) El Decreto Núm. 84-93, de fecha 28 de marzo de 1993,
+                                                                                                      Ejecutivo del organismo regulador, quien fungirá como          que aprobó el “Segundo Reglamento para la aplicación de
+                                                                                                      Secretario Ejecutivo, y tres miembros del sector privado       la Ley de Derecho de Autor, para la retransmisión por cable
+     119.1. En el plazo de un año, a partir de la entrada en vigencia de la presente ley, el órgano   relacionados con el sector de telecomunicaciones, en           de programas de televisión”;
+     regulador ajustará a sus disposiciones las concesiones vigentes, otorgando los actos             calidad de vocales y seleccionados por el Poder Ejecutivo.
+     correspondientes. Este proceso de ajuste se realizará manteniendo las concesiones                Las decisiones de la comisión serán tomadas por el voto        d) La Resolución Núm. 1-95, de fecha 23 de enero de
+     para todos los servicios otorgados y estableciendo la igualdad entre concesionarios              mayoritario de sus miembros, correspondiendo al voto           1995, de la Secretaría de Estado de Obras Públicas y
+     respecto del alcance de las concesiones. Para aquellas concesiones que tuvieren en               del presidente romper cualquier empate. Esta comisión          Comunicaciones (SEOPC);
+                                                                                                      evaluará los estudios y recomendaciones presentados por
+     plazo de duración determinado, la duración del nuevo título será igual al período de
+                                                                                                      la Unión Internacional de Telecomunicaciones y, en base        e) La Resolución Núm. 2-95, de fecha 23 de enero de 1995,
+     tiempo que le faltare a la concesión originaria para la terminación de su plazo; para            a las mismas, someterá, dentro de los sesenta (60) días        de la SEOPC;
+     aquellas concesiones que no tuvieran un plazo de duración determinado, el nuevo plazo            posteriores a su incorporación, un plazo de rebalanceo
+     será el máximo que se establece en el Artículo 27 de la presente ley, todo lo anterior sin       tarifario, el cual deberá ejecutarse antes del treinta y uno   f) La Resolución Núm. 4-91, de fecha 29 de noviembre de
+     perjuicio de los derechos de renovación que tendrán los concesionarios de conformidad            (31) de diciembre del año dos mil (2000).                      1991, de la DGT;
+     con el mencionado articulo. En todos los casos, el régimen impositivo aplicable a los
+                                                                                                      Artículo 121.- Instalación del órgano regulador                g) La Resolución Núm. 94-001, de fecha 2 de febrero de
+     concesionarios deberá ser el mismo.
+                                                                                                                                                                     1994, de la DGT;
+                                                                                                      Dentro de los primeros doce (12) meses, contados a
+     119.2. Hasta tanto se suscriban los nuevos contratos de concesión, se entenderán                 partir de la promulgación de la presente ley, se dedicará      h) La Resolución Núm. 001-94 de fecha 8 de abril de 1994,
+     vigentes los suscritos entre el Estado y las empresas concesionarias y habilitarán a sus         la totalidad de lo recaudado por concepto de la CDT a la       de la SEOPC;
+     titulares para seguir prestando todos los servicios que, hasta el momento de la entrada          instalación del órgano regulador.
+     en vigor de esta ley, estuvieran prestando.                                                                                                                     i) La Resolución Núm. 94-003, de fecha 20 de marzo de
+                                                                                                      Artículo 122.- Sistemas celulares                              1994, de la DGT;
+
+                                                                                                      La Resolución Núm.2-91, del 22 de agosto de 1991, de la        j) La Resolución Núm. 94-003/R/95-001, de fecha 7 de
+                                                                                                      DGT, relativa a “Cambios y reglamentación para el uso          abril de 1995, de la DGT; y
+                                                                                                      de los sistemas celulares en la República Dominicana”,
+                                                                                                      seguirá siendo aplicada por el órgano regulador, hasta         k) Todas las disposiciones legales que le sean contrarias.
+                                                                                                      tanto el mismo dicte el reglamento que lo sustituya. Lo        DADA en la Sala de Sesiones de la Cámara de Diputados,
+                                                                                                      anterior no implicará perjuicio alguno de los derechos y       Palacio del Congreso Nacional, en Santo Domingo de
+                                                                                                      licencias otorgados por la DGT a la fecha de entrada de        Guzmán, Distrito Nacional, Capital de la República
+                                                                                                      vigencia de esta ley.                                          Dominicana, a los diecinueve (19) días del mes de marzo
+                                                                                                                                                                     del año mil novecientos noventa y ocho, año 155 de la
+                                                                                                                                                                     Independencia y 135 de la Restauración.
+50
+
+
+                                   Héctor Rafael Peguero Méndez
+                                                Presidente
+
+
+         Jesús Radhamés Santana Díaz                         Néstor Orlando Mazara Lorenzo
+                 Secretario Ad-Hoc                                         Secretario
+
+
+     DADA en la Sala de Sesiones del Senado, Palacio del Congreso Nacional, en Santo Domingo
+     de Guzmán, Distrito Nacional, Capital de la República Dominicana,a los quince (15) días del
+     mes de abril del año mil novecientos noventa y ocho, año 155 de la Independencia y 135 de la
+                                            Restauración.
+
+
+                                         Amable Aristy Castro
+                                                Presidente
+
+
+                  Enrique Pujals                                  Jesús Vásquez Martínez
+                     Secretario                                            Secretario
+
+
+                                         LEONEL FERNÁNDEZ
+                                  Presidente de la República Dominicana
+
+     En ejercicio de las atribuciones que me confiere el Artículo 55 de la Constitución de la República.
+
+     PROMULGO la presente Ley y mando que sea publicada en la Gaceta Oficial, para su
+                              conocimiento y cumplimiento.
+
+     DADA en Santo Domingo de Guzmán, Distrito Nacional, Capital de la República Dominicana, a
+     los veintisiete (27) días del mes de mayo del año mil novecientos noventa y ocho, año 155 de la
+                                   Independencia y 135 de la Restauración.
+
+                                           Leonel Fernández

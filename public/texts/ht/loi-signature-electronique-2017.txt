@@ -1,0 +1,476 @@
+Paraissant DIRECTEUR GENERAL
+du Lundi au Vendredi JOURNAL OFFICIEL DE LA REPUBLIQUE D'HAITI Fritzner Beauzile
+
+171° Année No. 20 PORT-AU-PRINCE Vendredi 29 Janvier 2016
+
+SOMMAIRE
+
+* Décret portant sur la signature électronique.
+
+* Décret reconnaisssant le droit de tout administré a s’adresser & l'Administration Publique |
+par des moyens électroniques.
+
+* Décret établissant les procédures, et les modalités nécessaires pour la formulation et la
+gestion du Programme d'Investissement Public.
+
+LIBERTE EGALITE FRATERNITE
+REPUBLIQUE D’HAITI
+
+DECRET
+
+MICHEL JOSEPH MARTELLY
+PRESIDENT
+
+Vu la Constitution, notamment ses articles 136 et 159 ;
+Vu les articles 933 et suivants et les articles 1168 et suivants du Code Civil :
+Vu les articles 1100, 1101, 1102, 1111 du Code Civil :
+
+Vu Particle 30 du Décret-Loi du 27 novembre 1969 harmonisant les dispositions de la Loi du 24 février 1919 sur le
+notariat en fonction des exigences nouvelles créées par le statut économique et social du pays ;
+
+Vu le Décret du 12 octobre 1977 accordant a |’ Etat le monopole des services de télécommunications ;
+
+
+2 << LE MONITEUR >> No. 20 - Vendredi 29 Janvier 2016
+
+Vu le Décret du 10 juin 1987 redéfinissant la mission du Conseil National des Télécommunications et fixant ses
+attributions en ce qui a trait a lz planification, la réglementation et le contrdle des services de télécommunication ;
+
+Considérant qu’il y a lieu d harmoniser le droit de la preuve et |’évolution technologique ;
+
+Considérant que les moyens électroniques sont de plus en plus utilisés dans le cadre des échanges et de la création
+d’ obligations et que les opérations commerciales recourent de plus en plus a l’échange de données informatisées et a
+d’autres moyens de communication, qualifiés généralement de « commerce électronique » qui supposent I’ utilisation de
+moyens autres que les documents papier pour communiquer et conserver l'information ;
+
+Considérant que les communications et le commerce électronique nécessitent des signatures électroniques et des
+services connexes permettant d’authentifier les données ; que |’établissement d’un cadre légal contribuera 4 favoriser
+l’acceptation générale des actes électroniques ; qu’il y a lieu d’adapter la législation aux réalités actuelles ;
+
+Considérant que le Pouvoir Législatif est, pour le moment, inopérant et qu’il y a alors lieu pour le Pouvoir Exécutif
+de légiférer par Décret sur les objets d’intérét public ;
+
+Sur le rapport des Ministres de la Justice et de la Sécurité Publique, de l’Economie et des Finances, des Travaux
+Publics, Transports et Communications, du Commerce et de |’ Industrie ;
+
+Et aprés délibération en Conseil des Ministres ;
+
+DECRETE
+
+CHAPITRE PREMIER
+DE LA PREUVE ET DE LA SIGNATURE ELECTRONIQUE
+
+Article 1*.- L’article 1101 du Code Civil se lit désormais comme suit :
+
+« Article 1101.- Les régles qui concernent la preuve littérale, la preuve testimoniale, les présomptions,
+l’aveu de la partie et le serment, sont expliquées dans les sections suivantes.
+
+« La preuve littérale, ou preuve par écrit, résulte d’une suite de lettres, de caractéres, de chiffres ou de
+tous autres signes ou symboles dotés d’une signification intelligible, quels que soient leur support et
+leurs modalités de transmission.
+
+« L’écrit sous forme électronique est admis en preuve au méme titre que |’ écrit sur support papier,
+sous réserve que puisse étre diment identifiée la personne dont il émane et qu’ il soit établi et conservé
+dans des conditions de nature 4 en garantir l’intégrité.
+
+« Lorsque la loi n’a pas fixé d'autres principes, et 4 défaut de convention valable entre les parties, le
+juge régle les conflits de preuve littérale en déterminant par tous moyens le titre le plus vraisemblable,
+quel qu’en soit le support.
+
+« L’écrit sur support électronique a la méme force probante que 1’ écrit sur support papier.
+
+« La signature nécessaire a la perfection d’un acte juridique identifie celui qui I’ appose. Elle manifeste
+le consentement des parties aux obligations qui découlent de cet acte. Quand elle est apposée par un
+officier public, elle confére |’authenticité 4 I’ acte. Lorsqu’elle est électronique, elle consiste en l’usage
+d’un procédé fiable d’identification garantissant son lien avec l'acte auquel elle s’ attache. La fiabilité
+de ce procédé est présumée, jusqu’a preuve contraire, lorsque la signature électronique est créée,
+
+
+No. 20 - Vendredi 29 Janvier 2016 << LE MONITEUR >> 3
+
+Article 2.-
+
+Article 3.-
+
+Article 4.-
+
+Article 5.-
+
+Article 6.-
+
+lidentité du signataire assurée et l’intégrité de l’acte garantie, dans des conditions fixées par Arrété
+présidentiel.
+
+« Les réglements mentionnés au paragraphe précédent ne s’appliquent pas aux signatures électroniques
+utilisées exclusivement a l’intérieur de systémes résultant d’ accords volontaires de droit privé entre un
+nombre défini de participants. Il est reconnu aux parties la liberté de convenir entre,elles des modalités
+et conditions dans lesquelles elles acceptent les données signées électroniquement. La loi reconnait
+lefficacité juridique des signatures électroniques utilisées dans de tels systémes et leur recevabilité
+comme preuves en justice. »
+
+L’article 1102 du Code Civil se lit désormais comme suit :
+
+« Article 1102.- L’acte authentique est celui qui a été regu par un officier public ayant le droit
+d’instrumenter dans le lieu od I’acte a été rédigé, et avec les solennités requises.
+
+« II peut étre dressé sur support électronique s’il est établi et conservé dans des conditions fixées par
+Arrété présidentiel. »
+
+L’article 1111 du Code Civil se lit désormais comme suit :
+
+« Article 1111.- Le billet ou la promesse sous seing privé, par lequel une partie s’engage envers
+l'autre a lui payer une somme d'argent ou une chose appréciable, doit étre écrit en entier par celui qui
+le souscrit ; ou du moins, il faut qu’outre sa signature, il ait écrit par lui-méme un « bon » ou un
+« approuvé », portant en toutes lettres la somme ou la quantité de la chose.
+
+« Excepté dans le cas oi |’acte émane de marchands, artisans, cultivateurs, gens de journée et de
+service. »
+
+L’article 1112 du Code Civil se lit désormais comme suit :
+
+« Article 1112.- Lorsque la somme exprimée au corps de l’acte est différente de celle exprimée au
+bon, l’obligation est présumée n’étre que la somme moindre, lors méme que |’acte ainsi que le bon
+sont écrits en entier par celui qui s’est obligé, 4 moins qu’il ne soit prouvé de quel cété est I’erreur. »
+
+Le premier paragraphe de I’article 30 du Décret-Loi du 27 novembre 1969 harmonisant les disposi-
+tions de la Loi du 24 février 1919 sur le notariat en fonction des exigences nouvelles créées par le
+statut économique et social du pays se lit désormais comme suit :
+
+« Les actes des notaires seront, sous la responsabilité de ces officiers publics, écrits 4 l’encre,
+manuellement ou mécaniquement, sur papier timbré ou visé pour timbre en un seul et méme contexte,
+lisiblement, sans blanc, abréviation, lacune ou intervalle. »
+
+CHAPITRE II
+
+DES PRESTATAIRES DE SERVICES DE CERTIFICATION ELECTRONIQUE
+
+Les personnes physiques ou morales, de droit public ou de droit privé, haitiennes ou étrangéres,
+pourront, sur requéte, étre qualifiées par le Conseil National des Télécommunications (CONATEL) a
+fournir des services de certification électronique. Elles devront satisfaire aux exigences établies dans
+les Arrétés d’ application tout en respectant les conditions suivantes :
+
+a) Démontrer la capacité financiére suffisante pour fournir les services de certification électronique;
+
+
+<< LE MONITEUR >> No. 20 - Vendredi 29 Janvier 2016
+
+Article 7.-
+
+Article 8.-
+
+Article 9.-
+
+b) Démontrer la capacité technique pour la création de signatures électroniques, I’ émission de certificats
+y afférents et la conservation de messages de données.
+
+Les personnes physiques et les administrateurs des personnes morales ne devront jamais avoir été
+condamnées a une peine privative de liberté, ni avoir été suspendues ou radiées de |’exercice de leur
+profession pour faute éthique grave.
+
+Cette disqualification demeurera en vigueur durant la validité de la sanction pénale, administrative ou
+disciplinaire.
+
+La valeur juridique des certificats de signature électronique délivrés par des prestataires de services de
+certification électronique établis dans un pays étranger est conditionnée au respect des conditions
+
+établies par Arrété présidentiel.
+
+Les prestataires de service de certification électronique qualifiés par le Conseil National des
+Télécommunications (CONATEL) pourront offrir les services suivants :
+
+a) Délivrer les certificats de signature électronique pour des personnes physiques ou morales ;
+b) Offrir les services de création de signature électronique sécurisée ;
+
+c) Offrir les services d’enregistrement et d’impression dans |’ordre chronologique de la
+transmission et de la réception de données.
+
+Le Conseil National des Télécommunications (CONATEL) peut par voie réglementaire modifier la
+liste.
+
+Par l’effet du présent Décret, le pouvoir d’inspection reconnu au Conseil National des
+Télécommunications (CONATEL) par le Décret du 12 octobre 1977 accordant a l’Etat le monopole
+des services de télécommunications et celui du 10 juin 1987 organisant ledit Conseil s’exercera également
+a l’endroit des prestataires de service de certification électronique. En cas de modification du régime
+des télécommunications, le pouvoir d’ inspection du CONATEL défini dans le présent article continuera
+a s’appliquer selon les procédures définies par la nouvelle législation.
+Tout prestataire de services de certification électronique qualifié affichera au local du CONATEL
+durant le premier trimestre de chaque exercice fiscal une attestation de pratique contenant les informa-
+tions suivantes :
+a) Le nom, l’adresse et le numéro de téléphone du prestataire ;
+b) Laclé publique actuelle du prestataire ;
+c) Le résultat de la plus récente inspection effectuée par le CONATEL ;
+d) La suspension ou la révocation de la qualification du prestataire ainsi que leurs dates ;
+
+Dans ces cas, est réputée suspendue ou éliminée la clé publique du prestataire.
+
+e) Les limites de l’attestation de qualification du prestataire ;
+
+f) Toute autre information requise par le CONATEL.
+
+Ces informations seront publiées sur le site internet du CONATEL.
+
+
+No. 20 - Vendredi 29 Janvier 2016 << LE MONITEUR >> 5
+
+Article 10.-
+
+Article 11.-
+
+Article 12.-
+
+Article 13.-
+
+Article 14.-
+
+La rémunération des services fournis par les prestataires de service de certification électronique sera
+fixée librement par eux.
+
+Les prestataires de services de certification électronique devront :
+
+a) Délivrer les certificats électroniques conformément a ce qui est convenu avec les titulaires des
+certificats ;
+
+b) Mettre en place les systémes de sécurité visant a garantir la création et la délivrance de signatures
+électroniques ;
+
+c) Garantir la protection, la confidentialité et le traitement responsable de l’information soumise par
+le titulaire du certificat;
+
+d) Garantir la permanence du service de certification électronique ;
+e) Répondre diligemment aux requétes et réclamations formulées par les titulaires de certificats ;
+f) Procéder aux publications requises par le présent Décret et ses réglements d’ application ;
+
+g) Fournir les renseignements requis par les autorités administratives ou judiciaires compétentes
+relatifs aux signatures électroniques et certificats délivrés et, en général, 4 tout message de données
+dont ils ont la garde et l’administration ;
+
+h) Mettre & jour les dispositifs de création de signature électronique, d’émission de certificat
+électronique, de conservation et d’archivage des documents prenant la forme de messages de données
+informatisées, ainsi que les éléments techniques relatifs a la fourniture de tout autre service autorisé,
+selon les réglements nécessaires a la protection des destinataires de leurs services H
+
+i) Collaborer aux missions d’inspection réalisées par le Conseil National des Télécommunications.
+
+A moins que les parties n’en conviennent autrement, un prestataire de services de certification électronique
+pourra résilier le contrat qui le lie a un titulaire de certificat aprés un préavis qui ne peut étre inférieur
+a quatre-vingt-dix (90) jours. A I’expiration de ce délai, les certificats émis seront révoqués. Sauf
+convention contraire, le titulaire d’un certificat électronique pourra, dans le méme délai, résilier le
+contrat qui le lie au prestataire de services de certification.
+
+Sauf convention contraire des parties, la responsabilité contractuelle, délictuelle ou quasi-délictuelle
+@un prestataire de services de certification électronique est régie par les dispositions pertinentes du
+Code Civil.
+
+Les prestataires de services de certification électronique qui désirent mettre fin a leurs activités devront
+notifier leur décision au Conseil National des Télécommunications au plus tard quatre-vingt-dix (90)
+jours avant la fin prévue de leurs activités. Le CONATEL s’assurera de la mise en ceuvre de toutes
+mesures adéquates pour la protection des titulaires de certificats. Les prestataires de service et leurs
+administrateurs demeurent tenus postérieurement A la cessation des activités aux obligations de protec-
+tion, de confidentialité et de traitement responsable des informations fournies par les titulaires de
+certificats.
+
+
+<< LE MONITEUR >> No. 20 - Vendredi 29 Janvier 2016
+
+CHAPITRE Il
+
+DU CONSEIL NATIONAL DES TELECOMMUNICATIONS
+
+Article 15.-_ Le Conseil National des Télécommunications (CONATEL) exercera les compétences suivantes en
+
+a)
+b)
+c)
+
+d)
+
+e)
+
+g)
+h)
+i)
+aD)
+
+k)
+
+1)
+
+plus de celles que lui reconnaissent sa loi organique et la législation sur les télécommunications :
+Attester de la qualification des prestataires de services de certification électronique ;
+Superviser le fonctionnement desdits prestataires ;
+
+Effectuer les inspections et audits prévus par le présent Décret et les reglements d’ application ;
+
+Suspendre ou révoquer la qualification des prestataires de services de certification électronique contrevenant aux
+exigences légales, réglementaires et techniques ;
+
+Instruire et sanctionner les violations de ces exigences, ou ordonner les mesures de redressement;
+
+Publier sur son site internet ou sur tout réseau public de transmission de données, de maniére permanente et
+ininterrompue, les domiciles, si¢ges sociaux, numéros de téléphone, adresses internet, date d’expiration de la
+qualification, certificats électroniques contenant les clés publiques des prestataires de services de certification
+électronique qualifiés, et des prestataires de services dont la qualification est suspendue ou révoquée ;
+
+Fixer le montant des droits et cofits applicables aux prestataires de services de certification électronique ;
+
+Veiller au respect de la confidentialité, par les prestataires de services de certification électronique, des informa-
+tions relatives aux titulaires de certificats électroniques ;
+
+Superviser l’exécution du plan de cessation d’activités des prestataires de services de certification électronique ;
+Contrdler l’application des recommandations formulées lors des visites d’inspection et des audits ;
+
+Recevoir les plaintes et les réclamations des titulaires et des usagers des certificats électroniques relativement a la
+qualité du service offert ;
+
+Fixer le montant et recevoir des prestataires de services de certification électronique les droits de traitement de
+dossier et les droits de supervision.
+CHAPITRE IV
+
+DISPOSITION TRANSITOIRE
+
+Article 16.- Un Arrété présidentiel déterminera les critéres 4 respecter pour l’admission en justice du document
+
+électronique, réglementera le fonctionnement et la responsabilité des prestataires de services de certi-
+fication de signatures électroniques, ainsi que |’ admissibilité des certificats électroniques délivrés par
+des prestataires de services de certification électronique établis hors d’ Haiti.
+
+CHAPITRE V
+
+DISPOSITION FINALE
+
+Article 17.- Le présent Décret abroge toutes Lois ou dispositions de Lois, tous Décrets ou dispositions de Décrets,
+
+tous Décrets-Lois ou dispositions de Décrets-Lois qui lui sont contraires et sera publié et exécuté & la
+
+
+No. 20 - Vendredi 29 Janvier 2016
+
+<< LE MONITEUR >>
+
+diligence des Ministres de la Justice et de la Sécurité Publique, de I’Economie et des Finances, des
+Travaux Publics, Transports et Communications, du Commerce et de I’ Industrie, chacun en ce qui le
+
+concerme.
+
+Donné au Palais National, 4 Port-au-Prince, le 9 décembre 2015, An 212° de I’Indépendance.
+
+Par:
+
+Le Président
+
+Le Premier Ministre
+
+Le Ministre de la Planification
+et de la Coopération Externe :
+
+Le Ministre a.i. des Affaires Etrangéres
+et des Cultes
+
+Le Ministre de la Justice
+et de la Sécurité Publique
+
+Michel Joseph MARTELLY
+
+Evans PAUL
+
+Yves Germain JOSEPH
+
+Lener RENAULD
+
+—
+
+Pierre Richard CASIMIR
+
+
+<< LE MONITEUR >> No. 20 - Vendredi 29 Janvier 2016
+
+Le Ministre de I’Economie
+et des Finances
+
+Le Ministre des Travaux Publics,
+Transports et Communications
+
+Le Ministre de I’ Agriculture, des Ressources
+Naturelles et du Développement Rural
+
+La Ministre du Tourisme
+et des Industries Créatives
+
+Le Ministre de |’Education Nationale
+et de la Formation Professionnelle
+
+La Ministre de la Santé Publique
+et de la Population
+
+Wilson LALEAU
+
+pr Jacques ROUSSEAU
+
+Lyonel VALBRUN
+
+Ay bee Mp.
+
+Stéphanie BALMIR VILLEDROUIN
+
+pr Nesmy MANIGAT
+
+Florence DUPERVAL GUILLAUME
+
+
+No. 20 - Vendredi 29 Janvier 2016 << LE MONITEUR >>
+
+Le Ministre des Affaires Sociales
+et du Travail Ariel HENRY
+
+Le Ministre de I’Intérieur Cyd — ;
+
+et des Collectivités Territoriales Ardouin ZEPHIRIN
+
+Le Ministre du Commerce oil
+et de I’ Industrie Hervey DAY
+La Ministre de la Culture Dithny Joan RATON
+
+Le Ministre de la Communication
+
+La Ministre 4 la Condition Féminine
+
+et aux Droits des Femmes Gabrielle HY ACI
+
+
+<< LE MONITEUR >> No. 20 - Vendredi 29 Janvier 2016
+
+10
+
+Lener RENAULD
+
+p>
+
+Robert LABROUSSE
+
+Le Ministre de la Défense
+
+Le Ministre des Haitiens Vivant 4 I’ Btranger
+
+Le Ministre Délégué auprés du Premier Ministre,
+
+Chargé des Questions Electorales Jean Fritz JEAN-LOUIS
+
+7 Naas,
+Dominique PIERRE
+
+Le Ministre de l'Environnement
+
+—
+
+ry MO
+
+Le Ministre de la Jeunesse, des Sports
+Jimmy ALBERT
+
+et de I’ Action Civique
+
+—_
+Le Ministre Délégué auprés du Premier Ministre, & Ad
+
+Chargé des Programmes sociaux, des Projets
+et Chantiers du Gouvernement Edouard JULES

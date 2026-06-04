@@ -1,0 +1,1802 @@
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+CONSIDERANDO:
+
+Que el numeral 11 del articulo 66 de la Constitucién de la Republica reconoce y garantiza
+el derecho a guardar reserva sobre sus convicciones;
+
+Que el numeral 19 del articulo 66 de la Constitucién de la Republica reconoce y garantiza
+el derecho a la proteccidn de datos de caracter personal, que incluye el acceso y la decision
+sobre informacion y datos de este caracter, asi como su correspondiente proteccién;
+
+Que el numeral 13 del articulo 147 de la Constitucién de la Republica faculta al Presidente
+de la Republica a expedir los reglamentos necesarios para la aplicacién de las leyes, sin
+contravenirlas ni alterarlas, asi como los que convengan a la buena marcha de la
+administracion:
+
+Que en el Quinto Suplemento del Registro Oficial No. 459 de 26 de mayo de 2021, se
+expidid la Ley Organica de Proteccién de Datos Personales, en cuyo articulo 2 se dispone
+que la Ley regula el tratamiento de datos personales contenidos en cualquier tipo de
+soporte:
+
+Que es necesario emitir el Reglamento a la Ley Organica de Proteccién de Datos
+Personales para establecer con claridad los preceptos y procedimientos para la ejecucion
+de la Ley; y,
+
+En ejercicio de las funciones conferidas en el numeral 13 del articulo 147 de la
+Constitucién de la Republica, expide el siguiente:
+
+REGLAMENTO GENERAL DE LA LEY ORGANICA DE PROTECCION DE
+DATOS PERSONALES
+
+CAPITULO I
+GENERALIDADES
+
+Articulo 1.- Objeto.- El presente Reglamento General tiene por objeto desarrollar la
+normativa para la aplicacion de la Ley Organica de Proteccién de Datos Personales y la
+proteccion de los derechos y libertades fundamentales de los titulares de datos personales.
+
+
+Ne 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Articulo 2.-. Ambito.- Este Reglamento se aplica a todas las personas naturales y
+juridicas, nacionales y extranjeras, del sector publico y privado, que realicen tratamiento
+de datos personales, en el contexto de que sus actividades como responsable 0 encargado
+de tratamiento de datos personales, tenga lugar en el territorio ecuatoriano 0 no.
+
+El presente Reglamento también se aplica al tratamiento de datos personales por parte de
+personas naturales y juridicas, que actin como responsables y encargados del
+tratamiento de datos personales de titulares no residentes en Ecuador, cuando sus
+actividades de tratamiento sean realizadas en territorio nacional.
+
+El presente Reglamento aplicara para los responsables y encargados del tratamiento de
+datos personales no establecidos en territorio ecuatoriano a quienes les resulte aplicable
+la legislaci6n nacional en virtud de un contrato o de las regulaciones vigentes del derecho
+internacional publico. Estos deberan designar a un apoderado especial de acuerdo con el
+articulo 3 de este Reglamento
+
+Articulo 3.- De la obligacién de contar con poder de los responsables y/o
+encargados del tratamiento de datos de residentes ecuatorianos fuera del territorio
+nacional.- Los responsables y encargados del tratamiento de datos personales no
+establecidos en el Ecuador deberan designar a un apoderado especial, de conformidad
+con las siguientes reglas:
+
+1. Cuando el responsable y/o encargado del tratamiento de datos personales no tenga
+domicilio en territorio nacional, conforme el Articulo 3, numeral 3 de la Ley
+Organica de Proteccién de Datos Personales, deberan designar un apoderado
+especial en el Ecuador con residencia en el pais, que cuente con facultades
+suficientes para comparecer a nombre de su representado ante instancias
+administrativas y judiciales en la materia.
+
+2. De forma excepcional, no sera necesaria la designacion de dicho apoderado o
+representante, cuando el tratamiento de datos personales sea ocasional y no incluya
+el manejo a gran escala de datos personales de categoria especial establecidos en el
+articulo 25 de la Ley y que sea improbable que entrajie un riesgo para los derechos
+y libertades de las personas naturales, teniendo en cuenta la naturaleza, contexto,
+alcance y objetivos del tratamiento.
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+La Autoridad de Proteccién de Datos Personales emitira una guia técnica respecto de la
+aplicabilidad de los criterios anteriores.
+
+Articulo 4.-- Definiciones.- Sin perjuicio de lo dispuesto en la Ley, para efectos de la
+aplicacion del presente Reglamento, se establecen las siguientes definiciones:
+
+1
+
+wn
+
+Actividades familiares 0 domésticas: aquellas en las cuales el tratamiento de los
+datos personales se dé en un entorno de amistad, parentesco 0 grupo personal
+cercano, en propiedad privada, y que no tenga como finalidad su comunicacién o
+transferencia con fines comerciales.
+
+Datos relativos a la salud: La definicién de datos de salud establecida en la Ley
+comprende la informacion relativa a todos los aspectos de salud, tanto fisicos como
+psiquicos, de la persona. Se incluyen todos los datos relativos al estado de salud del
+titular que dan informacion sobre su estado de salud fisica o mental pasado, presente
+o futuro. Asi también contiene la informacién sobre la persona natural recogida con
+ocasion de su inscripcién a efectos de asistencia sanitaria, 0 con ocasién de la
+prestacion de tal asistencia; todo numero, simbolo o dato asignado a una persona
+natural que la identifique de manera univoca a efectos sanitarios; la informacion
+obtenida de pruebas 0 examenes de una parte del cuerpo o de una sustancia corporal,
+incluida la procedente de datos genéticos y muestras biolégicas, y cualquier
+informacion relativa, a titulo de ejemplo, a una enfermedad, una discapacidad, el
+riesgo de padecer enfermedades, el historial médico, el tratamiento clinico o el
+estado fisiol6gico 0 biomédico del titular, independientemente de su fuente.
+Normas corporativas vinculantes: Las politicas o céddigos de conducta
+juridicamente vinculantes dentro de un grupo de empresas 0 en una unién de
+empresas que tienen la finalidad de ofrecer garantias suficientes cuando los datos
+personales van a ser transferidos internacionalmente a uno 0 varios responsables o
+encargados del tratamiento que estan en un tercer pais sin nivel adecuado.
+Persona Identificable: se considera que una persona es identificable cuando su
+identidad pueda determinarse directa 0 indirectamente, siempre y cuando esto no
+requiera plazos 0 actividades desproporcionadas.
+
+Representante: Persona natural o juridica establecida en el territorio ecuatoriano
+que, habiendo sido designada por escrito por el responsable o el encargado del
+tratamiento con arreglo al articulo 3, represente al responsable o al encargado en lo
+que respecta a sus respectivas obligaciones en virtud de la Ley Organica de
+Proteccién de Datos Personales y al presente Reglamento.
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Tercero: Persona natural o juridica, autoridad publica, servicio u organismo
+distinto del titular, del responsable del tratamiento, del encargado del tratamiento y
+de las personas autorizadas para tratar los datos personales bajo la autoridad directa
+del responsable.
+
+Tratamiento a gran escala: es aquel que afecta a una gran cantidad de datos,
+referentes a un elevado numero de titulares, procedentes de una amplia diversidad
+geografica, y que pueden entrafiar un riesgo a sus derechos y libertades. Para
+determinar cuando se esta en presencia de un tratamiento “a gran escala” la
+Autoridad de Proteccién de Datos Personales y los responsables del tratamiento
+deberan tener en cuenta los siguientes aspectos:
+
+a. El nimero de interesados o titulares, bien como cifra concreta 0 como
+proporcion de la poblacién correspondiente;
+
+b. El volumen de datos 0 la variedad de elementos de datos que son objeto de
+tratamiento;
+
+¢. La duracién o permanencia de la actividad de tratamiento de datos; y,
+
+d. El alcance geografico de la actividad de tratamiento.
+
+Se considera tratamiento a gran escala:
+
+a. El tratamiento de datos de pacientes en el desarrollo normal de la actividad de
+un hospital, o de las instituciones que conforman el Sistema Nacional de Salud:
+
+b. El tratamiento de datos de desplazamiento de las personas que utilizan el
+sistema de transporte pubblico de una ciudad (p. ej. seguimiento a través de
+tarjetas de transporte):
+
+¢. El] tratamiento de datos de geolocalizacién en tiempo real de clientes por parte
+de un responsable del tratamiento de datos personales especializado en la
+prestacion de estos servicios;
+
+d. El tratamiento de datos de clientes en el desarrollo normal de la actividad de
+una compafiia de seguros, corredores, agentes, prestadores 0 de instituciones
+financieras;
+
+e. El tratamiento de datos personales para publicidad comportamental por un
+motor de busqueda; y,
+
+f. El tratamiento de datos (contenido, trafico, ubicacién) por proveedores de
+servicios de telefonia o internet.
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Articulo 5.- De la recogida del consentimiento.- El responsable de datos personales
+deberd obtener el consentimiento del titular de conformidad con lo establecido en la Ley
+Organica de Proteccién de Datos Personales.
+
+En todos los casos en los que de conformidad con la Ley se requiera el consentimiento
+explicito del titular para el tratamiento de sus datos, el responsable deberd informar previa
+y detalladamente los tipos de tratamiento, finalidades, el tiempo de conservacién, las
+medidas de proteccién a adoptarse, las consecuencias de su entrega, entre otros aspectos
+determinados en la Ley, lo cual debera ser consentido inequivocamente por el titular.
+
+El consentimiento del titular debera reflejar de manera indubitada la aceptacion de éste
+en relacién con el tratamiento de sus datos personales a través de una declaracién,
+pronunciamiento para darse de baja o clara acci6n afirmativa. El consentimiento otorgado
+por el titular debera ser demostrado por el responsable que lo obtiene, cuando asi sea
+requerido por la autoridad competente.
+
+Cuando los datos personales recogidos pertenecen a un incapaz, bastara con el
+consentimiento del representante legal debidamente acreditado ante el responsable, en los
+términos sefialados en el presente articulo. El consentimiento de nifias, nifios y
+adolescentes y, en general, de personas incapaces, se obtendra a través de sus
+representantes legales y curadores, segtn lo dispuesto en la Ley Organica de Proteccién
+de Datos Personales y el Cédigo Civil.
+
+El silencio 0 la inacci6n, por si solos, no presumen el consentimiento del titular.
+
+Articulo 6.-_ De la revocatoria del consentimiento.- E] titular tendra derecho a retirar
+su consentimiento en cualquier momento. La revocatoria del consentimiento no afectara
+a la licitud del tratamiento de datos Ilevado a cabo hasta el momento de la revocatoria. El
+responsable del tratamiento debera contar con un procedimiento sencillo para que el
+titular pueda revocar su consentimiento.
+
+El responsable del tratamiento debera suspender el tratamiento de los datos del titular que
+haya revocado su consentimiento, una vez recibida la notificacion por parte del titular.
+
+Articulo 7.- Tratamiento legitimo.- Para efectos del correcto tratamiento de datos
+personales, se considerara lo siguiente:
+
+on
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Cumplimiento de una misi6n realizada en interés publico o en ejercicio de
+poderes publicos: Se entendera que el tratamiento de datos personales esta basado
+en el cumplimiento de una mision realizada en interés ptblico o en ejercicio de
+poderes publicos, debidamente motivado y de acuerdo con los principios
+establecidos en la Ley, cuando la competencia correspondiente esté atribuida en
+una norma con rango de ley.
+
+E] tratamiento de datos personales realizado sobre esta base legitimadora debera
+observar lo siguiente:
+
+a. Los tipos de datos objeto del tratamiento;
+
+b. Los titulares 0 interesados afectados;
+
+c. Las entidades a las que se pueden comunicar datos personales y los fines de
+tal comunicacion:
+
+d. —_ La limitacion de la finalidad;
+
+e. Los plazos de conservacién de los datos, asi como las operaciones y los
+procedimientos del tratamiento, incluidas las medidas para garantizar un
+tratamiento licito y equitativo.
+
+El tratamiento de datos personales bajo esta base legitimadora debera cumplir un
+objetivo de interés publico y ser proporcional al fin legitimo perseguido.
+
+Intereses vitales del interesado o de otra persona: Sera licito el tratamiento de
+datos personales si es necesario para proteger un interés esencial para la vida del
+interesado o de otra persona, como epidemias o situaciones de emergencia
+humanitaria. Los datos personales tnicamente deben tratarse sobre la base del
+interés vital de otra persona fisica, cuando el tratamiento no pueda basarse
+manifiestamente en una base juridica diferente.
+
+Interés legitimo del responsable: En el caso de que sea necesario satisfacer un
+interés legitimo del responsable del tratamiento 0 de un tercero interesado, se
+aplicara la regla de ponderacién, siempre que no prevalezcan los intereses o
+derechos y libertades del titular.
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+La ponderacién se realizara a través de una evaluacién meticulosa que atienda los
+siguientes factores:
+
+a. _ Evaluacién del interés legitimo del responsable del tratamiento 0 del tercero
+interesado que debera ser necesario y proporcionado;
+
+b. Impacto sobre los titulares que mida las consecuencias reales 0 potenciales
+derivadas del tratamiento;
+
+c. Equilibrio provisional, que contemple las medidas adoptadas por el
+responsable del tratamiento para cumplir sus obligaciones en términos de
+proporcionalidad y transparencia: y.
+
+d. Garantias adicionales aplicadas por el responsable del tratamiento para
+impedir cualquier impacto indebido sobre los titulares.
+
+Fuente accesible al publico: Para el tratamiento de datos personales que consten
+en bases de datos de acceso ptblico, se considerara que los datos deben ser
+obtenidos de fuentes accesibles al publico, segtin la definicién de la Ley y el
+presente Reglamento, respetando el principio de limitacién de la finalidad,
+atendiendo a las razones concretas que han determinado la publicacién de la
+informaci6n, especialmente cuando dicha publicaci6n se realiza en cumplimiento
+de una obligacion legal 0 por razones de interés publico.
+
+Consecuentemente, el tratamiento de los datos personales obtenidos de fuentes
+accesibles al publico requiere que la finalidad pretendida con el nuevo tratamiento
+sea compatible con la finalidad que justifico la publicacion de los datos, por lo que
+el hecho de que los datos figuren en fuentes publicas no determina la posibilidad de
+realizar un tratamiento indiscriminado por parte de los responsables.
+
+CAPITULO I
+CONSERVACION DE DATOS PERSONALES
+
+Articulo 8.- Plazos de conservacién de los datos personales.- Los plazos de
+conservacion de los datos personales no deberan exceder aquéllos que sean estrictamente
+necesarios para el cumplimiento de las finalidades que justificaron el tratamiento.
+
+La Autoridad de Proteccién de Datos regulara los plazos de conservacién de datos
+personales atendiendo las disposiciones aplicables a la materia de que se trate.
+
+
+Ne 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Articulo 9.- Eliminacién, bloqueo o anonimizacién.- Una vez cumplida la o las
+finalidades del tratamiento y cuando no exista disposicién legal o reglamentaria 0 no
+incurra la necesidad de mantener los datos en virtud del interés legitimo del responsable.
+0 por cumplimiento de una obligacién legal que establezca lo contrario, el responsable
+debera proceder a la eliminacion, bloqueo 0 anonimizacion de los datos en su posesi6n.
+
+El responsable establecera procedimientos para la conservacién, revisién periddica,
+eliminacion de los datos personales.
+
+Articulo 10.- Fichero de registro.- El fichero del registro de la base de datos debera
+contener obligatoriamente el plazo de conservacién de los datos, que debera observar
+necesariamente la materia, naturaleza del dato, su tratamiento y finalidad.
+
+Articulo 11.- Eliminacién de datos.- Finalizado el plazo de conservacién de los datos,
+el responsable del tratamiento de datos debera proceder a la eliminacién segura de los
+mismos.
+
+La eliminacion de datos personales no aplicara cuando el tratamiento sea necesario en los
+siguientes supuestos:
+
+1. Por razones de interés publico en el ambito de la salud publica y privada, asi como
+en materia estatal, seguridad, laboral y educaci6n:
+2. Para la formulacion, el ejercicio 0 la defensa de reclamaciones.
+
+La Autoridad de Proteccién de Datos Personales podra requerir informacion cuando lo
+considere necesario. Para el efecto, ajustara los requerimientos a normas, lineamientos
+sobre plazo de conservacion y estandares internacionales sobre la eliminacién de datos.
+
+CAPITULO III
+DERECHOS
+
+Articulo 12.-. Medios para el ejercicio de los derechos.- Para efectivizar el ejercicio de
+los derechos establecidos en la Ley Organica de Proteccién de Datos Personales, el
+responsable habilitara, preferentemente, herramientas o canales  informaticos
+simplificados de facil acceso para el titular, con la finalidad de receptar y atender
+
+8
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+oportunamente las solicitudes 0 peticiones formuladas que permitan y garanticen una
+interaccin segura, fiable y rapida entre el responsable y el titular, sin perjuicio de que
+
+también puedan ser presentadas por medios fisicos.
+
+Por lo tanto, se podran habilitar plataformas digitales, centros de contacto, lineas
+telefonicas u otros mecanismos tecnolégicos que se consideren idéneos para la
+presentacion de las solicitudes por parte de los titulares.
+
+En todos los casos, el requirente debera demostrar la titularidad 0 la representaci6n legal
+para ejercer el derecho.
+
+Articulo 13.- Contenido de la solicitud.- En la solicitud para el ejercicio de los
+derechos consagrados en la Ley, se hara constar:
+
+1. Los nombres y apellidos completos del titular, numero de cédula de identidad o
+pasaporte y direccién domiciliaria o electronica para notificaciones. Cuando se
+actu en calidad de representante legal. se hara constar también los datos de la o del
+representado;
+
+2. Deser posible, la descripcion clara y precisa de los datos personales respecto de los
+que se busca ejercer alguno de los derechos antes mencionados y cualquier otro
+elemento o documento que facilite la localizacion de los datos personales;
+
+3. Relacion de lo que solicita expuesto de manera clara y precisa:
+
+4. Derecho 0 derechos que desea ejercer: y,
+
+5. A la solicitud se acompafiara los documentos que acrediten la identidad 0, en su
+caso, la representacion legal o convencional del titular.
+
+Articulo 14.- Requerimiento de informacién adicional.- En caso de que la
+informacion constante en la solicitud requiera ser aclarada 0 ampliada, el responsable
+podra requerir al titular, por una sola vez y dentro del término de cinco (5) dias de recibida
+la solicitud, que la aclare 0 complete.
+
+E] titular emplazado contara con el término de diez (10) dias contados a partir del dia
+siguiente en el que haya sido notificado, para aclarar o completar la solicitud.
+
+Si el titular aclara 0 completa la solicitud dentro del término concedido, el responsable le
+dara la debida atencion, caso contrario, la archivara notificando este particular al titular
+
+9
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+con las razones de su decision. El archivo del requerimiento inicial no impedira la
+presentacion de una nueva solicitud.
+
+Articulo 15.- Registro de solicitudes.- El responsable debera registrar todas las
+solicitudes de ejercicio de derechos, incluyendo el detalle de la atencién dada a las
+mismas. La Autoridad de Proteccién de Datos determinara el contenido de dichos
+registros.
+
+Articulo 16.- Reclamo ante la Autoridad de Proteccién de Datos Personales.- El
+titular de datos personales que encuentre motivos para creer que se han vulnerado sus
+derechos con la respuesta que el responsable ha dado a su solicitud, 0 que no haya recibido
+respuesta en el plazo establecido, podra acudir a la Autoridad de Proteccién de Datos a
+presentar su reclamo, el cual se sustanciara conforme al procedimiento previsto en el
+Cédigo Organico Administrativo y en la normativa complementaria que, para el efecto,
+emita la Autoridad de Proteccién de Datos.
+
+El procedimiento de reclamo contemplara la debida notificacién al responsable a fin de
+que ejerza su derecho a la defensa.
+
+CAPITULO IV
+DISPOSICIONES APLICABLES A TRATAMIENTOS CONCRETOS
+
+Articulo 17.- De los datos de personas fallecidas.- A efectos de que los titulares de
+derechos sucesorios, 0 las personas © instituciones que el fallecido haya designado
+expresamente para ello, puedan ejercer los derechos de acceso, rectificacién,
+actualizacion y eliminacién de los datos del fallecido ante el responsable del tratamiento,
+segtin lo dispuesto en la Ley, deberan acreditar su comparecencia a través de los
+instrumentos legales reconocidos por el ordenamiento juridico ecuatoriano.
+
+Los derechos podran ser ejercidos las veces que se considere oportuno, dentro de las
+limitaciones que plantea la normativa vigente para el ejercicio de derechos por parte de
+los titulares de los datos personales.
+
+Articulo 18.- De los datos crediticios.- A efectos de lo dispuesto en la Ley, sera licito
+el tratamiento de datos personales que tenga como fin informar sobre el cumplimiento o
+incumplimiento de obligaciones comerciales 0 crediticias. La Junta de Politica y
+
+10
+
+
+N° ogy
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Regulaci6n Financiera, como organismo de regulacion, y la Superintendencia de Bancos,
+como organismo de control. regularan la proteccién de los datos crediticios, en el Ambito
+de sus competencias.
+
+Articulo 19.- De los datos de menores de edad.- De conformidad con lo previsto en la
+Ley Organica de Proteccion de Datos Personales, para el tratamiento de datos personales
+de menores de 15 afios de edad, se requerira el consentimiento de su representante legal.
+
+Para el tratamiento de datos sensibles, asi como para las decisiones basadas en
+valoraciones automatizadas de menores de edad, se requerira el consentimiento expreso
+de su representante legal.
+
+Los adolescentes a partir de los 15 afios de edad podran otorgar su consentimiento
+explicito para el tratamiento de sus datos personales. Para este efecto, el responsable
+debera proporcionar informacién clara, en un lenguaje sencillo propio de su edad,
+utilizando métodos que le permitan entender lo que ocurrira con sus datos personales, las
+finalidades que se persiguen, los derechos que tiene y como ejercerlos y cualquier otra
+informaci6n necesaria para obtener su consentimiento explicito.
+
+También podra otorgar el consentimiento del adolescente mayor de 15 afios, quien ejerce
+la representacion legal, sin perjuicio de que el adolescente, en cualquier momento, pueda
+revocar este consentimiento. El representante legal del adolescente no podra revocar el
+consentimiento otorgado explicitamente por el adolescente en su calidad de titular.
+
+Articulo 20.- Del interés superior del nifio.- El consentimiento obtenido para el
+tratamiento de datos personales de un menor de edad, no podra, bajo ninguna
+circunstancia, menoscabar el interés superior de la nifia, nifio 0 adolescente, conforme a
+las disposiciones del Cédigo de la Nifiez y Adolescencia y demas normativa vigente. De
+identificarse aquello, el consentimiento obtenido sera considerado invalido.
+
+CAPITULO V
+TRANSFERENCIA O COMUNICACION DE DATOS A TERCEROS
+
+Articulo 21.- Transferencia de datos personales a un tercero.- La transferencia o
+comunicaci6n de datos personales a un tercero 0 encargado requerira el consentimiento
+del titular, a menos que, previo a realizar la misma, se han disociado los datos, se han
+
+11
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+utilizado mecanismos de cifrado robustos de los datos u otros mecanismos orientados a
+la privacidad e intimidad de los titulares de los datos personales; de manera que no se
+pueda identificar a qué persona se refieren.
+
+Articulo 22.- Supuestos para la transferencia de datos a terceros.- La transferencia
+© comunicacién de datos personales a terceros se podra realizar siempre que concurran
+los siguientes supuestos:
+
+1. Para el cumplimiento de fines directamente relacionados con las funciones
+legitimas del responsable y del tercero destinatario, en cuyo caso el destinatario se
+obliga a cumplir con la normativa de proteccién de datos: y,
+
+2. Cuando se cuente con el consentimiento previo del titular, el cual puede ser
+revocado en cualquier momento.
+
+No se requerira el consentimiento del titular en los supuestos previstos en la Ley.
+
+Articulo 23.- Ejercicio de derechos en los casos de transferencia de datos a
+terceros.- El titular de los datos personales ejercera los derechos de rectificacién,
+actualizacion, oposicion y eliminacion, directamente ante el responsable del tratamiento,
+quien, a su vez, debera notificar de aquello al tercero destinatario de la comunicacién de
+datos personales para que proceda con la rectificacién, actualizacion. oposicién o
+eliminacion, segtin sea el caso.
+
+CAPITULO VI
+VULNERACION A LA SEGURIDAD DE DATOS PERSONALES
+
+Articulo 24.- De la notificaci6n de vulneracién de seguridad.- De conformidad con
+lo dispuesto en la Ley, el responsable del tratamiento deberd notificar a la Autoridad de
+Proteccidn de Datos Personales y a la Agencia de Regulacién y Control de
+Telecomunicaciones cualquier vulneracién a la seguridad de los datos personales,
+siempre que sea probable que dicha violacion de la seguridad constituya un riesgo para
+los derechos y las libertades de las personas naturales.
+
+Se entiende que la vulneraci6n 0 violacién a la seguridad constituye un riesgo para los
+derechos y las libertades de las personas naturales cuando concurre cualquiera de las
+siguientes causales:
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Cuando los datos fueron destruidos, ya no existen 0 no estén disponibles de una
+forma que sea de utilidad para el responsable del tratamiento;
+
+Cuando los datos personales han sido alterados, corrompidos o dejan de estar
+completos:
+
+Cuando el responsable del tratamiento ha perdido el control 0 el acceso a los datos,
+0 ya no obran en su poder; o,
+
+Cuando el tratamiento no ha sido autorizado o es ilicito, lo cual incluye la
+divulgacion de datos personales o el acceso por parte de destinatarios que no estan
+autorizados a recibir 0 acceder a los datos 0 cualquier otra forma de tratamiento que
+se ejecuta contrariando las disposiciones de la Ley.
+
+Articulo 25.- Finalidad de la notificacién.- Las notificaciones de las vulneraciones de
+seguridad de datos personales tendran como finalidad principal que la Autoridad de
+Proteccién de Datos Personales y la Agencia de Regulacién y Control de
+Telecomunicaciones lIleven un registro estadistico sobre vulneraciones para determinar
+posibles medidas de seguridad para cada una de ellas, asi como identificar sectores 0
+instituciones mas vulnerables y promover la adaptacién de estandares internacionales y
+mejores practicas en la gestion de incidentes y vulnerabilidades.
+
+Articulo 26.- Contenido de la notificacién.- La notificacién de vulneracién de
+seguridad debera contener lo siguiente:
+
+yee
+
+52)
+
+La naturaleza y tipo de vulneracion;
+
+Identificar los titulares 0 interesados afectados:
+
+E] detalle inicial de los sistemas vulnerados;
+
+La causa presunta de la vulneracién:
+
+El volumen y tipos de datos expuestos 0 comprometidos:
+
+Las medidas adoptadas y previstas para responder y remediar la vulneracion con la
+finalidad de mitigar las consecuencias presuntas;
+
+La evaluaci6n del riesgo que la vulneracién implica para los derechos y libertades
+de los titulares; y,
+
+Otros aspectos determinados por la Autoridad de Proteccién de Datos Personales.
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Articulo 27.- Notificaci6n de vulneracién de seguridad por parte del encargado.- E]
+encargado debera notificar al responsable del tratamiento de datos personales la
+vulneracién de la seguridad de datos personales.
+
+La notificacion de vulneracién de seguridad deberd contener la misma informaci6n
+detallada en el articulo precedente, a excepcion de la evaluacion del riesgo.
+
+Articulo 28.- Notificacién de vulneracién de seguridad al titular.- La notificacién de
+vulneracion de datos al titular contendra la misma informacion establecida en los articulos
+anteriores.
+
+La notificacion debera realizarse en lenguaje claro y sencillo, observando los derechos de
+los titulares.
+
+La Autoridad de Proteccién de Datos Personales velara por que las excepciones a la
+obligacién de notificacion sefialadas en la Ley sean utilizadas de manera restringida y de
+manera justificada.
+
+CAPITULO VII
+EVALUACION DE IMPACTO
+
+Articulo 29.- Evaluacién de impacto del tratamiento de datos personales.- La
+evaluacion de impacto consiste en un analisis preventivo, de naturaleza técnica, mediante
+el cual el responsable valora los impactos reales del tratamiento de datos personales, a
+efecto de identificar y mitigar posibles riesgos relacionados con el cumplimiento de los
+principios y el respeto de los derechos y de las obligaciones establecidas en la Ley
+Organica de Proteccién de Datos Personales, este Reglamento y demas normativa
+aplicable.
+
+Articulo 30.-. Objeto de la evaluacién de impacto.- La evaluacion de impacto tiene por
+objeto:
+
+1. Identificar y describir los riesgos potenciales y probables de determinados
+tratamientos de datos personales:
+2. Describir las acciones concretas para la gestion de los riesgos identificados;
+
+
+N° 90%
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+3. Actuar de forma preventiva en el cumplimiento de las obligaciones establecidas en
+la Ley, su Reglamento y demas normativa aplicable; y,
+
+4. Propiciar lineamientos para la construccién de una cultura preventiva de la
+proteccion de datos personales de la organizacion.
+
+Articulo 31.- Evaluacién de impacto obligatoria.- Las evaluaciones de impacto del
+tratamiento de datos seran obligatorias en los casos establecidos en la Ley y deberan
+realizarse de forma previa al inicio del tratamiento de datos personales.
+
+Los responsables utilizaran los criterios establecidos en el presente Reglamento para
+determinar en qué casos se esta en presencia de una evaluacién sistematica y exhaustiva
+de aspectos personales, de un tratamiento a gran escala de categorias especiales de datos,
+de datos relativos a condenas e infracciones penales o, de una observacién sistematica a
+gran escala de una zona de acceso publico.
+
+En caso de duda, el responsable podra dirigir una consulta a la Autoridad de Proteccién
+de Datos Personales con la finalidad de que determine la obligatoriedad de la evaluacién
+de impacto. La Autoridad de Proteccién de Datos personales debera contestar dicha
+consulta en el término maximo de cinco (5) dias contados desde la recepcién de la
+consulta.
+
+Articulo 32.- Requisitos de la evaluacién de impacto.- En los casos en que sea
+obligatoria, la evaluacion de impacto sera presentada ante la Autoridad de Proteccién de
+Datos Personales y contendra, al menos, lo siguiente:
+
+1. La descripcion sistematica de las operaciones de tratamiento y las finalidades de
+ese tratamiento;
+
+2. La justificacion de la necesidad de llevar a cabo esas operaciones de tratamiento.
+asi como su proporcionalidad con respecto de la finalidad;
+
+3. La evaluacion de riesgos a los derechos y libertades de los titulares: y.
+
+4. Las medidas previstas para hacer frente a los riesgos, las garantias, medidas de
+seguridad y mecanismos destinados a salvaguardar y demostrar el respeto al
+derecho de los titulares a la proteccién de sus datos personales.
+
+La informaci6én otorgada en virtud de los numerales precedentes debe limitarse a la que
+sea necesaria para respaldar la evaluacién y no incluir detalles potencialmente
+
+15
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+confidenciales relacionados con las implementaciones de seguridad o la informacién
+confidencial.
+
+CAPITULO VIII
+RESPONSABLE DEL TRATAMIENTO
+
+Articulo 33.- Obligaciones del responsable del tratamiento.- El responsable del
+tratamiento debera, tanto en el momento de la determinacién de los medios para el
+tratamiento como en el momento mismo del procesamiento de datos personales, aplicar
+medidas apropiadas que sean adecuadas para la observancia efectiva de los principios de
+proteccion de datos. asi como de los derechos reconocidos en la Ley. Para ello, tendra en
+cuenta el estado de la técnica, los costes de aplicacién, la naturaleza, el alcance, las
+circunstancias y los fines del tratamiento, asi como la probabilidad y la gravedad de los
+riesgos para los intereses de los titulares.
+
+Articulo 34.- Estado de la técnica.- Se entiende por estado de la técnica a los progresos
+actuales de la tecnologia disponible en el mercado, que debera ser considerado al
+determinar las medidas técnicas y organizativas adecuadas. El responsable del
+tratamiento debera evaluar continuamente el estado de la técnica.
+
+Articulo 35.- Costos de aplicacién.- Los costos de aplicaci6n no se limitan solamente
+a términos monetarios sino también a los recursos que, en general, deba invertir el
+responsable del tratamiento, incluidos el tiempo y el humano. El responsable del
+tratamiento debera evaluar los riesgos que conlleva el tratamiento para los derechos y
+libertades de los titulares y estimar los costos de la aplicacién de las medidas adecuadas
+para mitigar dichos riesgos. La incapacidad de asumir los costos no es excusa para el
+incumplimiento de la Ley y el presente Reglamento, para lo cual se observara el principio
+de proporcionalidad entre el volumen del tratamiento de los datos y la capacidad
+economica del responsable del tratamiento.
+
+Articulo 36.- De la prueba de las medidas de proteccién.- Los responsables del
+tratamiento deberén demostrar que han aplicado todas la medidas necesarias para la
+proteccién de datos personales. Para ello, el responsable del tratamiento podra determinar
+los indicadores clave de rendimiento adecuados para demostrar el cumplimiento. Estos
+indicadores pueden incluir métricas para demostrar la eficacia de las medidas tomadas.
+Las métricas pueden ser cuantitativas, como el nivel de riesgo, la reduccién de las
+
+16
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+reclamaciones, la reducci6n del tiempo de respuesta cuando los interesados ejercen sus
+derechos; 0, cualitativas, como las evaluaciones del rendimiento, el uso de escalas o
+evaluaciones de expertos.
+
+Articulo 37.- Responsables conjuntos.- Si dos 0 mas responsables del tratamiento
+determinan conjuntamente los mismos fines y los medios del tratamiento de los datos
+personales, se consideraran responsables conjuntos, quienes definiran sus respectivas
+tareas y responsabilidades en materia de proteccién de datos de forma transparente a
+través de un contrato, en la medida en que estas no estén ya definidas en disposiciones
+legales, buscando precautelar los intereses y derechos de los titulares.
+
+Dicho acuerdo no impediré que el titular 0 interesado ejerza sus derechos contra
+cualquiera de los responsables conjuntos del tratamiento y que estos sean responsables
+solidarios ante la autoridad de control y los titulares.
+
+Ademis, cada responsable conjunto debera cumplir las obligaciones que determina la
+Ley, en funcién de las responsabilidades asumidas en el acuerdo, cuya evidencia debera
+estar a disposicion de la autoridad de control, cuando asi lo solicite. En este sentido, cada
+responsable conjunto es sujeto del régimen sancionador, en forma diferenciada sobre la
+base de las responsabilidades adquiridas.
+
+Los acuerdos de proteccién de datos entre responsables conjuntos deben ser compartidos
+con los titulares interesados cuando asi sea requerido por éstos, sobre la base del principio
+de transparencia.
+
+Articulo 38.- Registro de actividades de tratamiento.- E] responsable del tratamiento
+que cuente con cien o mas trabajadores, Ilevara un registro de todas las actividades de
+tratamiento de datos personales que sean de su competencia.
+
+Este registro contendra la siguiente informacién:
+
+1. El nombre y los datos de contacto del responsable del tratamiento y, en su caso, del
+responsable que actia conjuntamente con el responsable del tratamiento de datos
+personales, asi como el nombre y los datos de contacto del delegado de proteccion
+de datos;
+
+2. Los fines del tratamiento:
+
+
+N°904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+3. Las categorias de destinatarios a los que se han comunicado 0 se comunicaran los
+datos personales;
+
+4. Identificar a los titulares y las categorias de datos personales de los titulares;
+
+5. Ensucaso, el uso de perfiles:
+
+6. — Ensu caso, definir las transferencias de datos personales a organismos de un tercer
+pais 0 a una organizacion internacional;
+
+7. Descripcion de las bases legitimadoras que facultan el tratamiento;
+
+8. Los plazos de retencion previstos para la supresi6n o la revisién de la necesidad de
+conservar las diferentes categorias de datos personales: y,
+
+9. Una descripcidn general de las medidas técnicas, juridicas, administrativas y
+organizativas.
+
+El registro se llevara por escrito 0 electrénicamente. Los responsables pondran a
+disposicion de la Autoridad de Proteccion de Datos Personales los registros de actividades
+cuando ésta lo solicite.
+
+Articulo 39.- Extension de la obligacién de registro.- La obligacion de registro de
+actividades también la tendran los responsables de tratamiento que, teniendo menos de
+cien trabajadores, cumplan alguna de las siguientes condiciones:
+
+1. _ El tratamiento que realice pueda entrafiar un riesgo para los derechos y libertades
+de los titulares, de acuerdo con el analisis de riesgos, amenazas y vulnerabilidades.
+de conformidad con lo dispuesto en la ley:
+
+2. No se trate de un tratamiento ocasional: 0,
+
+3. Incluya categorias especiales de datos personales.
+
+CAPITULO IX
+ENCARGADO DEL TRATAMIENTO
+
+Articulo 40.- Encargado.- El encargado del tratamiento debera ofrecer garantias
+suficientes para aplicar medidas técnicas, juridicas, administrativas y organizativas
+apropiadas para que el tratamiento cumpla con las disposiciones de la Ley garantizando
+el adecuado tratamiento de los datos personales y la proteccién de los derechos de los
+
+titulares.
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Articulo 41.- De la relacién entre responsable y encargado.- La relacién entre el
+responsable del tratamiento y un encargado debe regirse por un contrato escrito, en el cual
+se detallen las instrucciones encomendadas respecto del tratamiento de datos personales
+y. al menos, los siguientes aspectos:
+
+1. — El objeto:
+
+2. La duracién:
+
+3. Lanaturaleza;
+
+4. La finalidad del tratamiento de los datos;
+
+5. La categoria de los datos personales;
+
+6. — Identificar a los titulares de los datos personales tratados: y,
+7. Las obligaciones y responsabilidades del encargado.
+
+El encargado del tratamiento debera respetar las instrucciones que, para el efecto,
+determine el responsable en cuanto al tratamiento de los datos personales. Para ello,
+debera establecer las medidas técnicas y organizativas adecuadas, previo a brindar el
+servicio, que deberan ser equiparables a aquellas a las que esta obligado el responsable
+en funcién de los datos y los tipos de tratamiento aplicables, de tal forma que se garantice
+la proteccién de datos de los titulares.
+
+Articulo 42.- Obligacién del responsable.- El responsable del tratamiento de datos
+personales sera el directo obligado de garantizar el correcto ejercicio de los derechos
+reconocidos en la Ley a los titulares, sin embargo, el encargado deberé asistir al
+responsable y realizar todas las acciones necesarias, y bajo su responsabilidad, para que
+el responsable pueda cumplir con esta obligacién.
+
+Articulo 43.- Responsabilidad del encargado.- El encargado del tratamiento que, por
+cualquier causa, determine los fines y los medios del tratamiento, se considerara, para
+efectos de la Ley, responsable del tratamiento en lo que respecta a dicho tratamiento. En
+tal sentido, para que el encargado sea considerado como tal, debe actuar a nombre y por
+cuenta del responsable y conforme a las instrucciones documentadas. Si el encargado
+considera que una instruccién es ilegal, informara al responsable del tratamiento, sin
+demora injustificada, para que se corrija la instruccion, de ser pertinente.
+
+Articulo 44.- Registro de actividades del tratamiento.- E] encargado del tratamiento
+debera mantener un registro de actividades del tratamiento cuando el responsable del
+
+19
+
+
+N°904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+tratamiento esté obligado a ello, de conformidad con lo previsto en la Ley, el presente
+Reglamento y demas normativa aplicable.
+
+Articulo 45.- Contratacién.- El encargado del tratamiento podra contratar a un tercero
+para complementar la prestacion de un servicio al responsable del tratamiento de datos
+personales, siempre que esto se haga constar expresamente en el contrato celebrado entre
+el responsable y el encargado del tratamiento. Caso contrario, requerira la autorizacion
+escrita del responsable del tratamiento para la subcontratacion.
+
+En este caso, el tercero contratado asumira las obligaciones del encargado de tratamiento
+establecidas en la ley y en el presente Reglamento, debiendo cumplir con las instrucciones
+de tratamiento de datos establecidas entre el responsable y encargado del tratamiento, en
+aquello que fuere pertinente en funcidn de los servicios que han sido contratados.
+
+Articulo 46.- Eliminacién de datos personales.- E] encargado debera devolver o
+eliminar todos los datos personales, segtin las instrucciones impartidas por el responsable
+del tratamiento, una vez finalizada la relacién que justifica el tratamiento de datos
+personales, destruyendo todas las copias existentes, salvo que exista la obligacién de
+conservar los datos en virtud de una disposicién legal.
+
+Articulo 47.- Revisién de registros.- E] encargado de tratamiento debera permitir al
+responsable o a la persona determinada por este, en cualquier momento que asi lo solicite
+el responsable, la revision de los registros y procesos que tengan relacién con los
+tratamientos de datos personales encomendados, a fin de verificar el correcto
+cumplimiento del contrato y las obligaciones de la Ley y el presente Reglamento, asi
+como la adopcion de medidas técnicas, organizativas y de seguridad adecuadas.
+
+En tal sentido, el encargado debera proporcionar al responsable 0 a la persona
+determinada por este, todas las facilidades y toda la informacion necesaria para demostrar
+el cumplimiento de sus obligaciones.
+
+CAPITULO X
+DELEGADO DE PROTECCION DE DATOS
+
+Articulo 48.- Delegado de proteccién de datos.— El delegado de proteccién de datos
+personales es la persona natural que se encarga principalmente de asesorar, velar y
+
+20
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+supervisar, de manera independiente, el cumplimiento de las obligaciones legales
+imputables al responsable y al encargado del tratamiento de datos personales.
+
+Podra realizar otras actividades relacionadas con la proteccién de datos personales que le
+sean encomendadas por el responsable, siempre que no supongan o exijan del delegado
+una preparacion diversa ni exista un conflicto con las responsabilidades previamente
+adquiridas.
+
+El delegado de proteccién de datos personales desempefiara sus funciones de manera
+profesional, con total independencia del responsable y del encargado del tratamiento de
+datos personales, quienes estaran obligados a facilitar la asistencia, recursos y elementos
+que les sea oportunamente requeridos para garantizar el cumplimiento de los deberes,
+funciones y responsabilidades a cargo del delegado.
+
+Sin perjuicio de lo que disponga la Ley y este Reglamento, correspondera a la Autoridad
+de Proteccién de Datos Personales emitir la normativa que garantice la independencia del
+delegado de proteccién de datos personales en el desempefio de sus funciones en relacién
+con el responsable y encargado.
+
+Articulo 49.- Tipo de contratacién.- El delegado de proteccién de datos podra ser
+contratado por el responsable del tratamiento de datos personales, bajo la figura de
+relacion de dependencia o a través de un contrato de prestacion de servicios. Sin perjuicio
+de lo indicado, en cualquiera de los casos, debera respetar y garantizar que se presten los
+servicios de manera independiente.
+
+Tratandose de las instituciones del sector ptblico, el delegado de proteccién de datos sera
+designado por la maxima autoridad institucional.
+
+Articulo 50.- Delegado de proteccién de datos de grupos empresariales.- Los grupos
+empresariales podran designar a un tinico delegado de proteccidén de datos personales, en
+la medida en que pueda ejecutar sus actividades y sin que esto genere conflicto de
+intereses.
+
+Articulo 51.- Prohibicién de sancién al delegado de proteccién de datos. - El
+responsable y el encargado del tratamiento de datos personales deberan respetar el trabajo
+que ejecute el delegado de proteccién de datos personales. y no se aplicarén sanciones
+
+21
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+por el hecho de desempefiar y cumplir sus funciones. En caso que el delegado sea
+sancionado o removido por motivo de la ejecucién de sus funciones, podra poner este
+hecho en conocimiento de la Autoridad de Proteccion de Datos Personales, que valorara
+las circunstancias en las que se produjo la desvinculacién o sancién y validara las
+sanciones que correspondan, sin perjuicio de las acciones legales o judiciales a que
+hubiere a lugar por parte del delegado perjudicado.
+
+La Autoridad de Proteccién de Datos Personales establecera el procedimiento de
+denuncia y las sanciones correspondientes para los casos de remocion o sancion
+injustificadas del delegado de proteccion de datos.
+
+Articulo 52.- Buenas practicas.- Los responsables 0 encargados del tratamiento de
+datos personales, que no se encuentren dentro de las categorias de obligados a designar
+un delegado de proteccién de datos, podran hacerlo de manera voluntaria como un
+mecanismo de buena practica y como parte de las medidas de responsabilidad proactiva
+a adoptar.
+
+En atencién a sus necesidades institucionales, los responsables y encargados del
+
+tratamiento de datos personales podran designar un delegado suplente, que actuara en
+caso de ausencia 0 impedimento temporal o definitivo del primero.
+
+Articulo 53.- Actividades de control permanente y sistematizado de datos.- Para
+determinar si las actividades de un responsable 0 encargado en materia de proteccién de
+datos requieren de un control permanente, se debera considerar, entre otros factores que
+defina la Autoridad de Proteccion de Datos Personales, alguno de los siguientes:
+
+1. Si el tratamiento de datos es continuado o si se produce en intervalos concretos
+durante un periodo de tiempo:
+
+2. Si el tratamiento de datos es recurrente o repetido en momentos prefijados; 0,
+
+3. Si el tratamiento tiene lugar de manera constante o periddica.
+
+Asi mismo, para determinar si el control es sistematizado, ademas de aquellos que
+determine la Autoridad de Proteccion de Datos Personales, se debera verificar alguno de
+los siguientes aspectos:
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+1. Si el tratamiento de datos esta de alguna manera preestablecido, organizado o es
+metddico;
+
+2. Si el tratamiento de datos tiene lugar como parte de un plan general de recogida de
+datos; 0,
+
+3. Siel tratamiento de datos es llevado a cabo como parte de una estrategia.
+
+En caso de suscitarse dudas entre los responsables y encargados respecto a los supuestos
+que dan lugar a la designacion del delegado de proteccidn de datos personales, podran
+dirigir sus respectivas consultas a la Autoridad de Proteccién de Datos Personales, cuya
+decisién sera de cumplimiento obligatorio para los consultantes.
+
+Articulo 54.- Tratamiento a gran escala de datos de categoria especiales.- Para
+determinar el tratamiento de datos de categorias especiales a gran escala, se consideraran,
+entre otros factores que defina la Autoridad de Proteccién de Datos Personales. los
+establecidos en el presente Reglamento.
+
+Articulo 55.- Requisitos para ser delegado.- Sin perjuicio de otros requisitos que
+establezca la Autoridad de Proteccién de Datos Personales, para ser delegado de
+proteccion de datos personales, se requerira:
+
+1. _ Estar en goce de los derechos politicos:
+
+2. Ser mayor de edad:
+
+3. Tener titulo de tercer nivel en Derecho, Sistemas de Informacién, de Comunicacion,
+o de Tecnologias; y,
+
+4. Acreditar experiencia profesional de por lo menos cinco afios;
+
+Articulo 56.- Impedimento para ser delegado.- Sin perjuicio de otras que defina la
+Autoridad de Proteccién de Datos Personales, no podran ser delegados de proteccién de
+datos personales las siguientes personas:
+
+1. Quienes formen parte de los 6rganos de administracién y control del responsable y
+encargado;
+
+2. Los socios 0 accionistas del responsable y encargado:
+
+3. Los cényuges de los administradores, directores 0 comisarios de la compafiia, en
+caso de haberlos, del responsable y encargado, o sus parientes hasta el cuarto grado
+de consanguinidad 0 segundo de afinidad; y,
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+4. Quienes tengan conflictos de intereses con el responsable y encargado, para lo cual
+la Autoridad de Proteccién de Datos Personales emitira la normativa
+
+correspondiente en la que se estableceran los supuestos especificos que darian lugar
+a dicho conflicto de intereses.
+
+Tratandose de las instituciones del sector publico, la Autoridad de Proteccién de Datos
+Personales definira las incompatibilidades para ser delegado de proteccién de datos
+personales para cada caso en particular.
+
+Articulo 57.- Acuerdos de Confidencialidad.- El delegado de proteccién de datos
+personales suscribira un acuerdo de confidencialidad respecto de la informacién que
+llegase a conocer o respecto de la cual pueda llegar a tener acceso por el desempefio de
+su cargo. Las partes acordaran, libremente, los términos y condiciones del acuerdo, pero
+en ningun caso tales documentos podran limitar el acceso del delegado a la informacion
+que estime necesaria para el desempefio de su funci6én.
+
+El incumplimiento de los acuerdos de confidencialidad estara sujeto a las
+responsabilidades civiles y penales a las que hubiere lugar.
+
+Este deber de guardar confidencialidad subsistiré incluso una vez que haya concluido la
+relacion juridica con el responsable o encargado.
+
+CAPITULO XI
+RESPONSABILIDAD PROACTIVA Y AUTORREGULACION
+
+Articulo 58.- Obligatoriedad.- El responsable del tratamiento esta obligado a aplicar
+medidas técnicas, juridicas, administrativas y organizativas apropiadas a fin de garantizar
+y poder demostrar que el tratamiento de datos que realiza es conforme con la normativa.
+Para ello se debera atender:
+
+La naturaleza;
+
+El ambito;
+
+La finalidad del tratamiento; y,
+Los riesgos.
+
+Pen
+
+Esta obligacién implica también revisar y actualizar las medidas cuando sea necesario.
+
+24
+
+
+N°Qo4
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Articulo 59.- Medidas de proteccién de datos desde el disefio.- El responsable del
+tratamiento tiene la obligacion de establecer medidas técnicas y organizativas adecuadas
+para aplicar los principios establecidos en la normativa de forma eficaz, y proteger los
+derechos de los titulares, de manera previa al tratamiento de datos personales.
+
+Para la fijacion de estas medidas debe tenerse en cuenta:
+
+La naturaleza, ambito y finalidad del tratamiento;
+
+Los riesgos de diversa probabilidad y gravedad asociados al tratamiento;
+El estado de la técnica; y,
+
+El coste de aplicacién.
+
+SSP
+
+Articulo 60.- Medidas de proteccién de datos por defecto.- El responsable del
+tratamiento adoptara las medidas técnicas y organizativas apropiadas para garantizar que,
+mediante ajustes, por defecto, solo puedan tratarse aquellos datos personales cuyo
+tratamiento sea necesario para la respectiva finalidad especifica del tratamiento.
+
+Ademas, mediante los respectivos ajustes, las medidas deben garantizar que. por defecto,
+los datos no puedan ser accesibles a un numero indefinido de personas de forma
+automatizada.
+
+Esta obligacion es aplicable a:
+
+La cantidad de los datos recopilados:
+La extension del tratamiento;
+
+El periodo de almacenamiento; y,
+La accesibilidad
+
+Reno
+
+Para acreditar el cumplimiento de esta medida, podra utilizarse un mecanismo de
+certificacion, segtin lo previsto en la Ley Organica de Proteccién de Datos Personales.
+
+Articulo 61.- Mecanismos de autorregulacién.- Los mecanismos de autorregulacién
+pueden ser adoptados para el cumplimiento de los principios, ejercicio de derechos,
+medidas de seguridad, transferencias, procedimientos y, en general, para cumplir
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+cualquiera de las obligaciones previstos en la Ley Organica de Proteccién de Datos
+Personales, este Reglamento y demas normativa aplicable.
+
+Los mecanismos de autorregulacién constituyen instrumentos que permiten adecuar de
+mejor forma esquemas de cumplimiento para sectores especificos 0 en situaciones muy
+particulares, y dar cumplimiento a la Ley Organica de Proteccién de Datos Personales,
+asi como el resto de normativa aplicable.
+
+Articulo 62.-- Mecanismos de autorregulacién.- Seran mecanismos de autorregulacion
+los siguientes:
+
+1. Esquemas certificados en materia de proteccion de datos personales por el Servicio
+Ecuatoriano de Acreditacion;
+
+2. Reglas especificas creadas para adaptar la normativa de proteccién de datos
+personales a un determinado sector o situacién. En este tipo de reglas estaran
+comprendidos los cédigos de conducta, las normas corporativas vinculantes y las
+clausulas tipo; y,
+
+3. Esquemas validados por la Autoridad de Proteccidén de Datos Personales, conforme
+a las reglas que para el efecto emita.
+
+Articulo 63.- Registro de mecanismos de autorregulacién.- La Autoridad de
+Proteccién de Datos Personales mantendra un registro de mecanismos de autorregulacion
+a fin de dar a conocer la siguiente informacion:
+
+1. Las reglas destinadas a adaptar la normativa de datos personales para determinado
+sector 0 situaci6n, con la finalidad de facilitar y hacer efectivo su cumplimiento:
+
+2. Las entidades de acreditacién autorizadas por el Servicio Ecuatoriano de
+Acreditacion en materia de proteccién de datos personales;
+
+3. Las entidades de evaluaci6n acreditadas para otorgar certificaciones en materia de
+proteccién de datos personales por el Servicio Ecuatoriano de Acreditacién, en el
+marco de la Ley, este Reglamento y las reglas que se emitan para el efecto; y,
+
+4. Los responsables y encargados que hayan adoptado algun mecanismo.
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+SECCION I
+CERTIFICACION
+
+Articulo 64.- Objeto de la certificacién.- La certificacién tiene por objeto determinar
+el grado de cumplimiento de un mecanismo de autorregulacién con relacién a las
+obligaciones de la Ley Organica de Proteccién de Datos Personales, este Reglamento y
+demas normativa aplicable.
+
+Correspondera, privativamente, a la Autoridad de Proteccién de Datos Personales emitir
+y actualizar periddicamente los parametros basicos o estandares minimos de evaluacién
+a los que deberan someterse los responsables y encargados para obtener la certificacién a
+la que se refiere este Reglamento.
+
+Articulo 65.- Temporalidad de la certificacién.- La certificacion se expedira por un
+periodo maximo de tres afios, vencido el cual podra ser renovada en las mismas
+condiciones, siempre y cuando se cumplan los requisitos establecidos para el efecto.
+
+Articulo 66.- Entidades de certificacién.- La certificacién en materia de proteccién de
+datos estara a cargo de las entidades de certificacién acreditadas por el Servicio
+Ecuatoriano de Acreditacion, de conformidad con la normativa que para el efecto emitan
+en conjunto la Autoridad de Proteccién de Datos Personales y la Autoridad Nacional de
+Acreditacion.
+
+Para la acreditacién de la entidad de certificacién se revisara el cumplimiento de. entre
+otros establecidos por la Autoridad de Proteccién de Datos Personales, los siguientes
+requisitos:
+
+1. | Haber demostrado su independencia y pericia en relacién con el objeto de la
+certificacion;
+
+2. Haber establecido procedimientos adecuados para la expedicion, revision periédica
+y la retirada de sellos y certificaciones de cumplimiento en materia de proteccién
+de datos: y,
+
+3. | Haber demostrado que sus funciones y cometidos no dan lugar a conflictos de
+intereses.
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Para la aprobacion de las entidades certificadoras se tomara en cuenta, ademas, el
+cumplimiento por parte de estas entidades de normas internacionales como la relativa a
+los requisitos para organismos que certifican productos, procesos y servicios.
+
+Articulo 67.- Revocatoria.- Cuando el responsable 0 encargado del tratamiento de
+datos personales dejen de cumplir con los requisitos que dieron paso al otorgamiento de
+la certificacién, ésta podra ser revocada por el mismo organismo de certificacion que la
+otorgo o por la autoridad de control competente.
+
+SECCION II
+CODIGOS DE CONDUCTA
+
+Articulo 68.- Aprobacién de cédigos de conducta.- Cualquier persona natural o
+Juridica, asociacién, gremio o grupo de empresas podra presentar, para aprobacién de la
+Autoridad de Proteccién de Datos, cddigos de conducta que tengan como fin el
+cumplimiento de la normativa vigente en materia de proteccién de datos personales.
+
+Los cédigos de conducta deberan contener al menos lo siguiente:
+
+1. _ Exposicién de motivos, clara y concisa, que describa detalladamente el objetivo del
+cdédigo, su ambito de aplicacion y como facilitara la aplicacién efectiva de la Ley y
+este Reglamento;
+
+2. Ambito de aplicacién que determine de forma especifica las operaciones de
+tratamiento 0 las caracteristicas del tratamiento de datos personales que abarca, asi
+como las categorias de responsables 0 encargados del tratamiento a las que se
+aplica. Esto incluira las cuestiones del tratamiento que pretenda abordar el cédigo
+y aportara soluciones practicas; y,
+
+3. Mecanismos de supervisién para controlar el pleno cumplimiento de sus
+disposiciones.
+
+Articulo 69.-. Admisibilidad.- El proponente del cédigo presentara formalmente su
+proyecto de codigo, ya sea en formato electrénico o fisico a la Autoridad de Proteccién
+de Datos Personales.
+
+Presentado el proyecto de codigo, la Autoridad de Proteccién de Datos, en el término
+maximo de cinco (5) dias, examinara si cumple con los requisitos de forma establecidos
+
+28
+
+
+Ne 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+en el articulo anterior. Si lo hace calificaré, tramitara y dispondraé la evaluacién del
+contenido del proyecto de cédigo.
+
+Si el proyecto no cumple con los requisitos formales, la Autoridad de Proteccién de Datos
+Personales dispondra que el proponente la complete o aclare en el término de cinco (5)
+dias, determinando explicitamente el 0 los defectos. Si no lo hace, ordenara el archivo y
+la devolucion del proyecto, sin necesidad de dejar copias.
+
+Articulo 70.- Evaluacién del fondo.- Admitido el proyecto de cédigo, la Autoridad de
+Protecci6n de Datos Personales debera, en el término de un treinta (30) dias, evaluar y
+verificar que el cédigo contribuya a la correcta aplicacién de la Ley, el presente
+Reglamento y la normativa aplicable en materia de proteccién de datos, teniendo en
+cuenta las caracteristicas especificas de los diversos sectores del tratamiento, asi como
+las obligaciones y los requisitos concretos de los responsables 0 encargados del
+tratamiento a los que se aplique.
+
+Ademas de los criterios que determine la Autoridad de Proteccién de Datos para la
+aprobacion de los Cédigos de Conducta, se verificara que el proyecto cumpla con los
+siguientes criterios:
+
+1. Satisfacer una necesidad puntual de ese sector 0 actividad de tratamiento:
+
+2. Especificar la aplicacién de la Ley y el Reglamento a la naturaleza de la actividad
+o el sector del tratamiento;
+
+3. Aportar mejoras al sector en cuanto al cumplimiento de la legislacién en materia de
+proteccion de datos;
+
+4. Establecer normas realistas, aplicables, concretas, inequivocas y estar formuladas
+con la calidad y coherencia interna necesarias para aportar valor:
+
+5. Desarrollar de manera especifica, practica y precisa como ha de aplicarse la ley, el
+reglamento y demas normativa de proteccién de datos:
+
+6. | Aportar garantias suficientes y eficaces para mitigar el riesgo que entrafia el
+tratamiento de datos y respetar los derechos y las libertades de los particulares;
+
+7. Disponer de mecanismos eficaces para supervisar el cumplimiento del cédigo; y,
+
+8. Identificar y proponer especificamente las estructuras, procedimientos y érganos
+que velen por una supervision eficaz y una sancién de las infracciones.
+
+
+N°904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Los citados mecanismos pueden incluir una auditoria periddica y requisitos de
+presentacién de informes, la gestion clara y transparente de las reclamaciones y los
+procedimientos de solucién de conflictos, sanciones especificas y medidas correctivas en
+caso de infraccion del codigo, asi como mecanismos para denunciar las infracciones de
+sus disposiciones.
+
+CAPITULO XII
+TRANSFERENCIA O COMUNICACION INTERNACIONAL DE DATOS
+
+Articulo 71.- Transferencia 0 comunicacién internacional de datos personales a
+paises declarados como nivel adecuado de proteccién.- De oficio 0 a peticién de parte,
+la Autoridad de Proteccién de Datos Personales, mediante resolucién motivada,
+determinara los paises, organizaciones 0 personas juridicas que cuentan con adecuados
+niveles de proteccién para transferencia de datos personales. Para ello, revisaré que los
+estandares de proteccién sean equivalentes o superiores a aquellos establecidos en la Ley
+y demas normativa respectiva.
+
+La resoluci6n tendra efectos generales, por lo que las transferencias internacionales hacia
+ese pais, organizacion o persona juridica no requerira de autorizacion previa.
+
+Articulo 72.- Contenido y publicacién de la resolucién.- La Autoridad de Proteccion
+de Datos Personales establecera el mecanismo de revisién periddica de los niveles
+adecuados de proteccion, que deberd Ilevarse a cabo anualmente. De ser el caso, podra
+revocar, modificar 0 suspender la resolucién que reconocié el adecuado nivel de
+proteccién al pais, organizacién o persona juridica, sin que este acto tenga efectos
+retroactivos.
+
+La resoluci6n sera publicada en el Registro Oficial y por medios digitales disponibles al
+publico en su pagina web institucional.
+
+Articulo 73.- Criterios de estandares de nivel adecuado de proteccién.- Para
+determinar si un pais, organizacién o persona juridica posee un nivel adecuado de
+protecci6n de datos se tendra en cuenta los siguientes criterios, sin perjuicio de otros que
+pueda definir la Autoridad de Proteccién de Datos:
+
+30
+
+
+aoe
+
+sa
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+La legislacioén nacional y normativa sectorial del pais, que tenga incidencia en
+materia de proteccion de datos personales;
+
+La legislacién en materia de seguridad nacional, publica y, en general aquella que
+tenga relacion con la defensa y seguridad del Estado, asi como la legislacién penal.
+En estas materias se debera poner especial énfasis en la revision de las disposiciones
+que habiliten el acceso a datos personales por parte de las autoridades de ese pais,
+organizacion o persona juridica:
+
+La normativa sobre transferencias ulteriores de datos personales a terceros paises,
+organizaciones 0 personas juridicas:
+
+La jurisprudencia vinculada a la proteccién de datos personales:
+
+El reconocimiento de derechos y los mecanismos para su ejercicio en favor de los
+titulares de datos personales;
+
+El establecimiento de deberes y obligaciones de los responsables y encargados del
+tratamiento de datos personales:
+
+La existencia de una autoridad de proteccion de datos personales que sea
+independiente y que tenga competencias de control y vigilancia del cumplimiento
+de la normativa en materia proteccion de datos personales, asi como de sancién en
+caso del cometimiento de infracciones en esta materia. Ademas, debera brindar
+asistencia y asesoria a los titulares y cooperacién internacional con otras
+autoridades; y,
+
+Los compromisos internacionales asumidos por el pais, organizacién o persona
+juridica en cuanto a la materia de proteccién de datos personales.
+
+Articulo 74.- Transferencia o comunicacién internacional mediante garantias
+adecuadas.- De conformidad con la Ley, los instrumentos juridicos que sustentan la
+transferencia internacional de datos personales a un pais, organizacién o territorio
+economico internacional que no haya sido calificado por la Autoridad de Proteccién de
+Datos de tener un nivel adecuado de proteccién seran los siguientes:
+
+1.
+
+Instrumentos juridicamente vinculantes y exigibles entre las autoridades u
+organismos publicos:
+
+Normas corporativas vinculantes aprobadas por la Autoridad de Proteccién de
+Datos;
+
+Clausulas tipo de proteccién de datos adoptadas por organismos internacionales de
+proteccion de datos avaladas por la autoridad de control;
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+4.  Cédigos de conducta, que incluyan compromisos vinculantes del responsable o el
+encargado del tratamiento en el tercer pais. organizaciOn o territorio econdmico
+
+internacional de aplicar garantias adecuadas, que incluya las relativas a los derechos
+de los interesados;
+
+mn
+
+Mecanismos de certificacién que incluyen sellos y marcas de proteccién, que
+incorporen compromisos vinculantes del responsable o el encargado del tratamiento
+en el tercer pais, organizacion o territorio econdmico internacional de aplicar
+garantias adecuadas, asi como aquellos relativos a los derechos de los interesados;
+y;
+
+6. | Clausulas contractuales que no correspondan a las clausulas tipo y que estén
+debidamente autorizadas por la autoridad de proteccién de datos.
+
+Articulo 75.-_ Normas corporativas vinculantes.- Son normas corporativas vinculantes
+las politicas de proteccion de datos personales asumidas por un responsable o encargado
+del tratamiento establecido en la Republica del Ecuador, para garantizar una adecuada
+proteccion de los datos personales, que permiten realizar transferencias internacionales
+de datos personales a un responsable o encargado en uno 0 mas paises, dentro de un grupo
+empresarial 0 una union de empresas dedicadas a una actividad econdédmica conjunta.
+
+Todo grupo empresarial, 0 unién de empresas dedicadas a una actividad econdmica
+conjunta, tendra la posibilidad de invocar normas corporativas vinculantes autorizadas
+para sus transferencias internacionales de datos a terceros paises, siempre que tales
+normas corporativas incorporen todos los principios de tratamiento de datos personales y
+derechos aplicables y garantias de seguridad adecuadas para la transferencia de datos de
+personales.
+
+Articulo 76.-- Autorizaci6n de normas corporativas vinculantes.- Para que las normas
+corporativas vinculantes constituyan garantias adecuadas de proteccion, deberan ser
+autorizadas por la Autoridad de Proteccién de Datos.
+
+Para ello, la Autoridad de Proteccién de Datos debera observar que las normas
+corporativas vinculantes cumplan los siguientes requisitos:
+
+1. Sean juridicamente vinculantes:
+2.  Confieran expresamente a los titulares derechos exigibles en relacion con el
+tratamiento de sus datos personales; y,
+
+
+3.
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Cumplan con los requisitos establecidos en la Ley.
+
+Articulo 77.- Transferencia. o comunicacién internacional en casos no
+contemplados.- En casos no contemplados en los articulos precedentes, la Autoridad de
+Proteccién de Datos Personales autorizaraé, con caracter previo, la transferencia
+internacional de datos personales, unicamente cuando el responsable cumpla con alguno
+de los siguientes supuestos:
+
+1.
+
+Que mediante contrato entre el responsable o encargado y el destinatario, este
+ultimo se obligue, voluntaria y formalmente, a cumplir con la Ley, el Reglamento
+y demas normativa aplicable, asi como a aceptar la autoridad y competencia de la
+Autoridad de Proteccién de Datos y de los tribunales ecuatorianos, para cualquier
+efecto relacionado con el tratamiento de los datos objeto de la transferencia; 0,
+Que mediante contrato entre el responsable o encargado y el destinatario, este
+ultimo se obligue, voluntaria y formalmente, a cumplir con la Ley, el Reglamento
+y demas normativa aplicable, y que en el pais o territorio donde se encuentre
+establecido el destinatario se garantice el ejercicio de los derechos, incluido aquel
+a presentar una reclamacion ante una autoridad de proteccién de datos personales y
+el derecho a la tutela judicial efectiva, por parte de los titulares.
+
+Articulo 78.- Registro de informacién sobre transferencias internacionales en el
+Registro Nacional de Proteccién de Datos.- En el Registro Nacional de Proteccién de
+Datos se registrara la siguiente informacion:
+
+Peps
+
+6.
+
+El pais donde se ubica el destinatario de los datos;
+
+Las categorias de datos objeto de la transferencia;
+
+Las finalidades de la transferencia:
+
+El nombre, denominaci6n, raz6n social o nombre comercial con el que se
+identifique al destinatario;
+
+El mecanismo 0 esquema autorizado, conforme a la Ley y este Reglamento, para
+realizar la transferencia; y,
+
+El criterio de excepcién utilizado de los previstos en la Ley, cuando sea el caso.
+
+La Autoridad de Proteccién de Datos privilegiara la utilizacion de medios digitales para
+el registro de la informacion descrita, y emitira las reglas conforme a las cuales se
+
+33
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+realizara el registro de la informacion, los medios disponibles para el registro, los plazos.
+asi como los mecanismos para la actualizacion de dicha informacion, de ser el caso.
+
+CAPITULO XIII
+AUTORIDAD DE PROTECCION DE DATOS
+
+Articulo 79.- Autoridad de Proteccién de Datos Personales.- La Autoridad de
+Proteccién de Datos Personales goza de autonomia administrativa, técnica, operativa y
+financiera. Estara a cargo del Superintendente de Proteccidn de Datos Personales y tendra
+su sede en el Distrito Metropolitano de Quito.
+
+El Estatuto Organico Funcional sera aprobado por la maxima autoridad y contendra la
+estructura institucional necesaria para el cumplimiento de sus fines y atribuciones.
+
+Articulo 80.- Atribuciones.- La Autoridad de Proteccion de Datos Personales, ademas
+de las sefialadas en la Ley de la materia, tendra las siguientes:
+
+1. Hacer cumplir las regulaciones en el marco de la proteccién de datos personales:
+Registrar las bases de datos que contengan datos personales en el Registro Nacional
+de Proteccién de Datos Personales:
+
+3. Dirigir y administrar el Registro Unico de Responsables y Encargados Incumplidos;
+
+4. Emitir regulaciones para la proteccion de datos personales;
+
+5. Emitir los informes técnicos dentro de los mecanismos de control y supervision que
+se dispongan;:
+
+6. — Proponer reformas a la Ley y su reglamento:
+
+7. Emitir guias de referencias que ayuden a los responsables y encargados del
+tratamiento de datos en el proceso de adecuacion y cumplimiento de la normativa
+de proteccion de datos personales:
+
+8. Conocer y resolver las peticiones, quejas, reclamos y recursos que se propongan en
+el ambito de su competencia y de conformidad con la Ley; y,
+
+9. Las demas que se le asignen en este reglamento.
+
+Articulo 81.- Planes anuales.- Las actividades de control se realizaran de acuerdo con
+
+el plan anual aprobado por la maxima autoridad, el cual sera elaborado considerando la
+naturaleza de las organizaciones controladas, el volumen y la sensibilidad de los datos
+
+34
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+personales sujetos a tratamiento. la aplicacion de los diferentes procedimientos de control
+y la disponibilidad presupuestaria.
+
+Se podran ejecutar procedimientos de control no considerados dentro de los planes
+anuales si la situacién lo amerita, basados en criterios de criticidad, oportunidad y
+posibles lesiones al derecho a la proteccion de datos personales de uno o mas titulares de
+datos personales.
+
+Articulo 82.- Mecanismos de control. - La Autoridad de Proteccién de Datos
+Personales determinara los procedimientos de control que se regiran por las reglas
+previstas en el Codigo Organico Administrativo.
+
+Articulo 83.-. Atribuciones del Superintendente de Proteccién de Datos Personales.-
+Son atribuciones del Superintendente de Proteccién de Datos Personales, a mas de las
+sefialadas en la Ley y este Reglamento, las siguientes:
+
+1. _ Representar legal y judicialmente a la Autoridad de Proteccién de Datos Personales,
+en todos los actos, contratos y relaciones juridicas sujetas a su competencia.
+
+2. Elaborar y publicar, anualmente, informacién estadistica, de las organizaciones
+sujetas a su control y de los tratamientos de datos personales.
+
+3. Formular, aprobar y ejecutar el presupuesto de la Autoridad de Proteccién de Datos
+Personales.
+
+4. Preparar estudios y propuestas sobre reformas legales y reglamentarias que se
+requieran para el correcto ejercicio del derecho a la proteccion de datos personales,
+y ponerlos en consideracion de los érganos encargados de aprobarlas.
+
+5. Aprobar y expedir normas internas, resoluciones y manuales que sean necesarios
+para el buen funcionamiento de la Autoridad a su cargo.
+
+Articulo 84.- Registro Nacional de Proteccién de Datos Personales.- E] Registro
+Nacional de Proteccién de Datos Personales constituye un registro publico a cargo de la
+Autoridad de Proteccion de Datos Personales, que contiene las bases de datos personales
+0 tratamiento realizado por los responsables de tratamiento de datos personales en los
+términos previstos en la Ley.
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+Articulo 85.- Responsabilidad del registro.- El reporte y la actualizacion de la
+informacion en el Registro Nacional de Proteccion de Datos Personales, sera obligacién
+del responsable de tratamiento.
+
+Esta obligacion no implica el registro de los datos contenidos en la base de datos o que
+son objeto del tratamiento, y se realizara de manera independiente por cada base de datos
+o tratamiento.
+
+La Autoridad de Proteccion de Datos Personales regulara los procesos de reporte y
+actualizacion en el Registro Nacional de Proteccioén de Datos Personales a su cargo que
+deberan cumplir los responsables de tratamiento de datos personales.
+
+Articulo 86.- Inscripcién oportuna.- E] reporte de bases de datos 0 tratamiento en el
+Registro Nacional de Proteccién de Datos Personales debera realizarse dentro del término
+de diez dias contados a partir del dia siguiente al inicio del tratamiento.
+
+Articulo 87.- Registro Unico de Responsables y Encargados del tratamiento de
+datos personales incumplidos. - El Registro Unico de Responsables y Encargados de
+tratamiento de datos personales incumplidos constituye un registro publico a cargo de la
+Autoridad de Proteccién de Datos, en el que se haran constar los responsables y
+encargados del tratamiento que hubieren incurrido en alguna de las infracciones
+establecidas en la Ley y cuenten con una resolucion firme, de conformidad con lo
+dispuesto en el ordenamiento juridico vigente.
+
+Dicho registro contendra los siguientes datos:
+
+Nombre de la persona natural 0 juridica infractora;
+
+Indicacién de la infraccién cometida:
+
+Indicaci6n de la sancién impuesta: y.
+
+Reiteracién o reincidencias en el cometimiento de infracciones.
+
+eye
+
+Articulo 88.- Fines del Registro Unico de Responsables y Encargados del
+tratamiento de datos personales Incumplidos.- El Registro Unico de Responsables y
+Encargados del tratamiento de datos personales Incumplidos sera utilizado
+exclusivamente para fines estadisticos, preventivos y de capacitacion.
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+La Autoridad de Proteccién de Datos guardara la confidencialidad y privacidad de los
+datos contenidos en el Registro y aplicara las medidas de seguridad a fin de proteger la
+informacién personal contenida en el mismo.
+
+La Autoridad de Proteccién de Datos mantendra permanentemente actualizado el
+Registro, de tal forma que responda con veracidad y exactitud a los datos contenidos en
+el mismo.
+
+Articulo 89.- Plazo de conservaci6n.- El plazo maximo de conservacion de los datos
+contenidos en el Registro de Responsables y Encargados del Tratamiento de datos
+personales Incumplidos es de siete (7) afios contados desde la fecha de la emisién de la
+resoluciOn o sentencia en firme.
+
+CAPITULO XIV
+REGIMEN SANCIONATORIO
+
+Articulo 90.- Cometimiento de infracciones.- En los casos en que se presuma el
+cometimiento de alguna de las infracciones previstas en la Ley, la Autoridad de
+Proteccion de Datos iniciara el correspondiente procedimiento administrativo
+sancionatorio, de conformidad con las disposiciones establecidas en el Codigo Organico
+Administrativo.
+
+La resolucion que ponga fin al procedimiento debera estar debidamente fundamentada y
+motivada, de conformidad con lo establecido en la Ley.
+
+Las sanciones a las que hubiere lugar se impondran sin perjuicio de la responsabilidad
+civil o penal que resulten del cometimiento de la infracci6én.
+
+DISPOSICION GENERAL
+
+Los procedimientos administrativos se regiran por lo previsto en el Cédigo Organico
+Administrativo.
+
+37
+
+
+N° 904
+
+GUILLERMO LASSO MENDOZA
+
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+DISPOSICION TRANSITORIA
+
+PRIMERA.- La implementacién y funcionamiento de la Superintendencia de Proteccién
+de Datos Personales estara sujeta a la disponibilidad presupuestaria, previo dictamen
+favorable del ente rector de las finanzas publicas.
+
+SEGUNDA.- En el plazo maximo de un (1) afio, contado a partir de la fecha de
+implementacién y funcionamiento de la Superintendencia de Proteccién de Datos
+Personales, esta coordinara y llevara a cabo capacitaciones técnicas y cursos de formacién
+dirigidos al ptiblico en general, orientados a promover el ejercicio del derecho a la
+proteccion de datos personales y a la profesionalizacién de los delegados de proteccién
+de datos personales. Para tal efecto, podra celebrar alianzas con instituciones de
+educaciOn superior con experiencia en la materia, asi como con organizaciones
+especializadas que promuevan la proteccién de datos personales.
+
+DISPOSICION FINAL
+
+El presente Reglamento General entrard en vigencia a partir de su publicacién en el
+Registro Oficial.
+
+Dado en el Palacio Nacional, Distrito Metropolitano de Quito, el 6 de noviembre de 2023.
+
+Guillermo Lasso Mend6za
+PRESIDENTE CONSTITUCIONAL DE LA REPUBLICA
+
+38

@@ -1,0 +1,1508 @@
+ESTRATEGIA NACIONAL DE‌
+SEGURIDAD DIGITAL DE
+COLOMBIA 2025 - 2027‌
+Presidencia de la República‌‌
+
+Saúl Kattan Cohen‌‌
+C‌oordinador Nacional de Seguridad Digital‌‌
+
+Ingrid Paola Hernández Sierra‌‌
+Coordinadora del Grupo de Transformación Digital‌
+
+Manuel Humberto Sierra López‌
+Asesor del Grupo de Transformación Digital‌
+
+Diana Marcela Arias Rojas‌
+Asesora del Grupo de Transformación Digital‌
+
+Pedro Pablo Gonzalez Barrera‌
+Asesor del Grupo de Transformación Digital‌
+
+Agradecimientos:‌‌
+Viviana Vanegas‌‌
+Directora de Desarrollo Digital del Departamento Nacional de Planeación‌‌
+
+Grupo Interno de Trabajo de Prevención del Delito del Ministerio de Relaciones Exteriores‌
+
+
+Con el objetivo de fortalecer la seguridad digital del país, el Coordinador de Seguridad Digital, presenta
+recomendaciones a través de la Estrategia Nacional de Seguridad Digital a todas las partes interesadas.
+Esta iniciativa permitirá, en un mundo hiperconectado donde los riesgos cibernéticos amenazan todas
+las infraestructuras críticas y servicios esenciales, establecer una política de protección integral del
+ecosistema digital del país y de sus ciudadanos. Para lograrlo, se ha tenido en cuenta el estado actual de
+las capacidades de seguridad digital en Colombia, así como las mejores prácticas internacionales y
+regionales para mejorar las capacidades nacionales en esta materia. Todo ello, teniendo como enfoque
+central el bienestar del ser humano y la sociedad en su conjunto.
+
+La colaboración y el apoyo de la sección de ciberseguridad de la Secretaría del Comité Interamericano
+contra el Terrorismo de la Organización de los Estados Americanos, así como del sector público, las
+diversas entidades del Estado, la academia y la sociedad civil, fueron fundamentales para lograr una
+Estrategia Nacional de Seguridad Digital sólida y coherente, que respalde las políticas públicas del
+Gobierno Nacional y su Plan de Desarrollo. Su participación y compromiso han sido esenciales para el
+éxito de esta iniciativa, garantizando un futuro más seguro y próspero para todos.‌
+
+
+“LA SEGURIDAD NO ES ALGO QUE SE ESPERA, ES ALGO QUE SE PLANEA.”‌
+                                                                                              Anónima‌ ‌
+
+
+Marzo 2025‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                              Página 2 / 36‌
+                                                CONTENIDO‌
+                                                I. INTRODUCCIÓN‌                                                      4‌
+                                                II. CONT‌EXTO‌                                                        5‌
+                                                Colombia en mediciones internacionales de capacidades de
+                                                seguridad digital 6‌
+                                                III. RETOS Y DESAFÍOS‌                                                8‌
+                                                IV. MARCO ESTRATÉGICO‌                                                12‌
+                                                1. ARTICULACIÓN ESTRATÉGICA‌                                          13‌
+                                                2. ENFOQUES RECTORES‌                                                 15‌
+                                                3. VISIÓN‌                                                            16‌
+                                                4. PRINCIPIOS ORIENTADORES‌                                           16‌
+                                                5. OBJETIVO GENERAL‌                                                  17‌
+                                                6. OBJETIVOS ESPECÍFICOS‌                                             17‌
+
+
+                                                6.1.‌ ‌Consolidar la gobernanza de seguridad digital‌‌                17‌
+                                                Línea de Acción 1.2.‌Fomento de la cooperación internacional‌‌
+                                                Línea de Acción 1.3. ‌Impulso de alianzas público-privadas‌
+
+                                                                                                                      19‌
+                                                6.2.‌ ‌Mejorar la ciber resiliencia nacional‌‌
+                                                Línea de Acción 2.1.‌Fortalecimiento de la gestión de riesgos y
+                                                respuesta a incidentes‌
+                                                Línea de Acción 2.2. ‌Protección de infraestructuras críticas
+                                                nacionales y servicios esenciales‌
+                                                Línea de Acción 2.3. ‌Fortalecimiento de las capacidades de
+                                                ciberdefensa‌
+                                                Línea de Acción 2.4.‌Fomento de la innovación y desarrollo
+                                                tecnológico‌
+                                                Línea de Acción 2.5.‌Gestión de riesgos en la adopción de
+                                                tecnologías emergentes‌
+                                                                                                                      23‌
+                                                6.3.‌ ‌Desarrollar la fuerza laboral de seguridad digital‌‌
+                                                Línea de Acción 3.1. ‌Fortalecimiento de la cultura de seguridad
+                                                digital‌‌
+                                                Línea de Acción 3.2.‌Desarrollo del talento en seguridad digital‌‌
+                                                Línea de Acción 3.3.‌Protección de datos y privacidad.‌
+                                                Línea de Acción 3.4.‌Apoyo a las pequeñas y medianas empresas‌
+                                                                                                                      25‌
+                                                6.4.‌ ‌Adaptar y adecuar el marco normativo cibernético‌
+                                                Línea de Acción 4.1.‌Revisar la normatividad relacionada con la‌
+                                                seguridad digital‌‌
+                                                Línea de Acción 4.2.‌Actualizar y adaptar el marco sustantivo y
+                                                procesal para combatir el ciberdelito‌
+                                                Línea de Acción 4.3. ‌Crear reglas claras para la protección de datos
+                                                y privacidad                                                          27‌
+                                                7. PLAN DE ACCIÓN‌                                                    33‌
+                                                8. GLOSARIO‌‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌          ‌                                                  Página 3 / 36‌
+I. INTRODUCCIÓN‌
+
+
+En la era digital actual, la seguridad digital se   A partir de estos enfoques, se busca lograr
+ha convertido en un pilar fundamental para el       cuatro objetivos específicos: consolidar la
+desarrollo socioeconómico y la estabilidad          gobernanza de seguridad digital, mejorar la
+nacional de Colombia. ‌La Estrategia Nacional       ciber resiliencia nacional, desarrollar la fuerza
+de Seguridad Digital de Colombia 2025-2027          laboral de seguridad digital, y adaptar y
+se presenta como una respuesta integral y           adecuar el marco normativo cibernético. Cada
+proactiva a los desafíos y oportunidades que        uno de estos objetivos se desglosa en líneas de
+surgen en un entorno digital en constante           acción concretas, diseñadas para abordar los
+evolución.‌                                         desafíos identificados y aprovechar las
+                                                    oportunidades emergentes en el panorama
+Esta estrategia se construye sobre los cimientos    digital.‌
+establecidos por los documentos CONPES 3701
+de 2011, 3854 de 2016 y 3995 de 2020, los cuales    Al adoptar un enfoque integral que abarca
+han guiado la política de seguridad digital del     desde la protección de infraestructuras críticas
+país en la última década. Reconociendo los          cibernéticas y servicios esenciales, hasta el
+avances logrados y las lecciones aprendidas,        desarrollo de capacidades humanas, esta
+esta nueva estrategia busca ‌fortalecer la          estrategia busca no solo fortalecer la seguridad
+postura de Colombia en materia de                   digital de Colombia, sino también ‌posicionar
+seguridad digital, adaptándose a las                al país como un referente regional ‌en la
+amenazas emergentes ‌y aprovechando las             materia. Con un compromiso firme con la
+innovaciones tecnológicas para crear un             innovación, la colaboración multisectorial y la
+ciberespacio más seguro y resiliente.‌              protección de los derechos digitales, Colombia
+                                                    se prepara para enfrentar los retos del
+La Estrategia Nacional de Seguridad Digital de      ciberespacio y aprovechar las oportunidades de
+Colombia 2025-2027 se fundamenta en cuatro          la era digital, contribuyendo así a un futuro más
+enfoques rectores: el ‌enfoque de "Toda la          seguro y próspero para todos sus ciudadanos.‌
+Sociedad"‌, que promueve la colaboración
+                                                    El Gobierno de Colombia confirma su
+multisectorial; el ‌enfoque Centrado en el Ser
+                                                    compromiso para mantener un ciberespacio
+Humano, ‌que prioriza la protección de los
+                                                    seguro a partir de la formulación de este
+derechos digitales; el ‌enfoque de Gestión de
+                                                    documento estratégico, y agradece el apoyo
+Riesgos cibernéticos, ‌que fortalece la
+                                                    técnico especializado de la Sección de
+resiliencia nacional; y el ‌enfoque de
+                                                    Ciberseguridad del Comité Interamericano
+Innovación y Desarrollo de Capacidades,             contra el Terrorismo de la Organización de los
+que impulsa la investigación y la formación en      Estados Americanos (OEA/CICTE).‌
+ciberseguridad.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                         Página 4 / 36‌
+                                                      En América Latina y el Caribe, la situación
+
+II. CONTEXTO‌                                         de la seguridad digital refleja tanto avances
+                                                      como desafíos persistentes. Los países de la
+En el contexto global, la seguridad digital           región han mostrado progresos dispares en
+se ha convertido en una preocupación                  sus capacidades de seguridad digital. No
+primordial para gobiernos, empresas y                 obstante, la región en su conjunto enfrenta
+ciudadanos en todo el mundo. El año                   desafíos críticos en áreas como la
+2024 ha sido testigo de un aumento                    implementación de políticas nacionales
+significativo   en      la    sofisticación   y       coherentes y el desarrollo de capacidades
+frecuencia de los incidentes cibernéticos y           tecnológicas para proteger infraestructuras
+ciberataques, impulsados en gran medida
+                                                      críticas cibernéticas y servicios esenciales.‌
+por     la   adopción      generalizada     de
+tecnologías      emergentes         como     la
+Inteligencia Artificial (IA) y la computación         En el contexto nacional, Colombia ha
+cuántica. ‌Actualmente, se aprecia un                 demostrado un compromiso activo en la
+incremento en el uso de IA por parte                  formulación de políticas nacionales que
+de los atacantes para evadir los                      tienen relación con la ciberseguridad,la
+sistemas de detección, ‌así como un                   ciberdefensa y la seguridad digital, como lo
+aumento       en     las     actividades    de        evidencian los documentos CONPES 3701 de
+hacktivismo relacionadas con conflictos               2011‌[1]‌, 3854 de 2016‌[2]‌ y 3995 de 2020‌[3]‌. El país
+globales. Además, la escasez global de                ha sido reconocido como uno de los líderes
+profesionales de seguridad digital sigue              regionales en el desarrollo de marcos
+siendo un desafío crítico, con una fuerza             normativos y estrategias de seguridad digital.
+laboral que lucha por mantenerse al día               Sin embargo, Colombia enfrenta desafíos
+con la evolución constante de las                     significativos en la implementación efectiva
+amenazas.‌                                            de estas políticas.‌‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌     ‌                                          Página 5 / 36‌
+     Los recientes incidentes cibernéticos tanto a
+     organizaciones públicas como privadas han
+     puesto de manifiesto la vulnerabilidad
+     persistente de las infraestructuras críticas
+     cibernéticas y servicios esenciales. Estos
+     incidentes evidencian la brecha entre la
+     formulación de políticas y su ejecución práctica,
+     revelando debilidades en la coordinación
+     institucional, la capacidad de respuesta a
+     incidentes y la protección de infraestructuras
+     críticas cibernéticas y servicios esenciales. A
+     pesar de los esfuerzos normativos, Colombia
+     continúa luchando para traducir sus ambiciosas
+     políticas en acciones concretas y efectivas,
+     evidenciando la dificultad del país para pasar
+     de la planificación a la implementación robusta
+     de medidas de seguridad digital.‌
+
+
+Según los resultados de la aplicación del                                     De manera similar y según las mediciones del
+Modelo de Madurez de Capacidades de                                           Global Cybersecurity Index (GCI‌[5]‌ de la Unión
+Seguridad Cibernética‌[4]‌ por parte de la                                    Internacional de Telecomunicaciones-UIT), se
+Organización de Estados Americanos (OEA) y el                                 aprecia una evolución positiva entre 2020 y
+Banco Interamericano de Desarrollo (BID), se                                  2024 en aspectos relacionados con Medidas
+evidenció un avance integral entre 2016 y 2020                                Legales. Sin embargo, existen áreas con
+de todas las dimensiones que, en conjunto,                                    progresos limitados e incluso retrocesos, como
+constituyen la amplitud de la capacidad                                       es el caso de las Medidas Técnicas y Medidas
+nacional que un país requiere para ser eficaz en                              de Cooperación, donde se observa un
+la prestación de servicios de seguridad digital.‌‌                            decremento en el nivel de madurez.‌
+
+1‌
+   La política nacional expedida en el año 2011 (CONPES 3701) concentró los esfuerzos del país en la creación y aplicación de unos lineamientos
+orientados a desarrollar una estrategia nacional en materia de ciberseguridad y ciberdefensa, con el fin de fortalecer las capacidades del Estado
+para enfrentar las amenazas que atentan contra su seguridad y defensa en el ámbito cibernético (ciberseguridad y ciberdefensa), creando la
+institucionalidad, el ambiente y las condiciones necesarias para brindar protección en el ciberespacio. Estos avances permitieron un
+posicionamiento importante de Colombia a nivel internacional en torno al tema. En consonancia con la evolución del panorama de amenazas,
+dicha estrategia nacional se revisó durante los años 2014 y 2015, logrando expedir una nueva política nacional en torno al tema.‌
+2‌
+   La política nacional de seguridad digital en Colombia expedida en el año 2016 (CONPES 3854) articuló una visión estratégica en el Gobierno
+nacional, diferenció los objetivos de prosperidad económica y social con los objetivos de defensa del país y de lucha contra el crimen y la
+delincuencia en el entorno digital, inició el establecimiento de un marco institucional articulado e inició un proceso para que los ciudadanos
+en el país hicieran un uso responsable del entorno digital y fortalecieran sus capacidades para identificar, gestionar, tratar y mitigar los riesgos
+de seguridad digital.‌
+3‌
+   La política nacional de confianza y seguridad digital en Colombia expedida en el año 2020 (CONPES 3995) El documento CONPES 3995 de
+2020 establece la Política Nacional de Confianza y Seguridad Digital en Colombia, con el objetivo de fortalecer la confianza y la seguridad en el
+entorno digital. Esta política busca desarrollar un ambiente digital seguro y confiable que maximice los beneficios económicos y sociales para
+todos los actores públicos y privados, impulsando la competitividad y productividad en todos los sectores de la economía13. El documento
+propone medidas para fortalecer las capacidades en seguridad digital de los ciudadanos, el sector público y el sector privado, actualizar el
+marco de gobernanza en materia de seguridad digital, y analizar la adopción de modelos, estándares y marcos de trabajo con énfasis en nuevas
+tecnologías para preparar al país ante los desafíos de la Cuarta Revolución Industrial24. Además, establece un plan de acción a corto plazo para
+implementar en los siguientes dos años, con actuaciones concretas para lograr estos objetivos1.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌                      ‌                                                                 Página 6 / 36‌
+                                Colombia en mediciones internacionales
+                                  ‌de capacidades de seguridad digital‌
+
+
+          Mediciones CMM de OEA & BID (2016 y                                     Mediciones GCI de UIT (2020 y 2024)‌
+                     2020)‌      ‌
+
+
+      Fuente: Elaboración propia a partir de (OEA & BID, 2016), (OEA & BID, 2020), (OEA & BID, 2024), (ITU, 2023) y (ITU, 2024)‌
+
+
+ A partir de lo anterior, se evidencia que ‌Colombia presenta un progreso leve en la madurez de
+ sus capacidades de protección, detección y respuesta ante incidentes cibernéticos. ‌Esta
+ situación debe revisarse, ya que el entorno digital continúa evolucionando rápidamente con la
+ aparición de nuevas vulnerabilidades y vectores de ataque cada vez más sofisticados.‌‌
+
+ El contexto nacional actual sugiere la necesidad de redoblar esfuerzos en ciertos ámbitos
+ específicos para abordar los respectivos retos y desafíos para alcanzar un desarrollo integral y
+ sostenido en todas las dimensiones de la seguridad digital.‌
+
+
+ 4‌
+    El Modelo de Madurez de la Capacidad de Seguridad Cibernética para las Naciones (CMM, por sus siglas en inglés, Cybersecurity Capacity
+ Maturity Model for Nations) es un marco metódico diseñado por el Centro de Capacidad de Seguridad Cibernética Global del
+ Departamento de Ciencias de la Computación de la Universidad de Oxford para revisar la capacidad de ciberseguridad de un país
+ (https://gcscc.ox.ac.uk/the-cmm).‌
+ 5‌
+    El Global Cybersecurity Index (GCI) es un referente de confianza que mide el compromiso de los países con la ciberseguridad a nivel global
+ (https://www.itu.int/en/ITU-D/Cybersecurity/pages/global-cybersecurity-index.aspx).‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌                   ‌                                                                Página 7 / 36‌
+     III. RETOS Y DESAFÍOS‌
+     Colombia enfrenta actualmente una serie de desafíos críticos en materia de seguridad digital que
+     ponen en riesgo la integridad de sus sistemas de información, la privacidad de sus ciudadanos y la
+     estabilidad de sus instituciones. Estos retos se manifiestan en cuatro áreas principales: debilidad
+     institucional y falta de coordinación, vulnerabilidad frente a amenazas cibernéticas sofisticadas,
+     escasez de talento especializado y desactualización del marco normativo.‌
+
+     En primer lugar, la debilidad institucional y la falta de coordinación efectiva en materia de
+1‌   seguridad digital ‌representan un obstáculo significativo para la protección del ciberespacio
+     colombiano.‌
+
+
+                 La ausencia de una institución                    La limitada cooperación internacional
+                 nacional especializada y robusta‌ ‌para           en materia de seguridad digital,‌
+                 coordinar los esfuerzos de seguridad              especialmente frente a amenazas
+                 digital‌   ha    resultado   en      una          transfronterizas y el cibercrimen,
+                 fragmentación de las iniciativas y una            presenta desafíos para Colombia en el
+
+       1.1‌                                                 1.3‌
+                 dispersión de los recursos. Esta                  escenario global. Esta situación se ve
+                 situación se ve agravada por la falta de          agravada por la falta de suficiente
+                 un marco de coordinación efectivo                 colaboración entre el sector público,
+                 entre     las     distintas  entidades            privado y académico para impulsar la
+                 involucradas en la seguridad digital a            innovación en seguridad digital, lo que
+                 nivel nacional, lo que dificulta la               dificulta el desarrollo de soluciones
+                 implementación         de   estrategias           locales y adaptadas al contexto
+                 coherentes y efectivas.‌                          nacional.‌
+
+                 La     insuficiente    capacidad      de
+                 respuesta ante crisis cibernéticas a
+                 gran escala‌ es otra manifestación de              La falta de un enfoque que
+                 esta debilidad institucional. Colombia             considere la equidad de género y la
+                 carece de mecanismos eficientes para               diversidad ‌en todos los aspectos de la
+                 el intercambio de información sobre                gobernanza de seguridad digital es
+                 amenazas cibernéticas entre entidades              otra debilidad significativa. Esta
+
+       1.2‌                                                 1.4‌
+                 públicas y privadas, lo que limita la              omisión no solo perpetúa las
+                 capacidad de anticipación y respuesta              desigualdades existentes en el campo
+                 ante incidentes. Además, la falta de               tecnológico, sino que también limita
+                 análisis   estratégico    y   monitoreo            la capacidad del país para aprovechar
+                 continuo de las amenazas y tendencias              plenamente      el   talento   y    las
+                 en seguridad digital, especialmente                perspectivas diversas en la lucha
+                 considerando aspectos de género y                  contra las amenazas cibernéticas.‌
+                 diversidad, deja al país vulnerable ante
+                 nuevas formas de ataques.‌
+
+
+     Estrategia Nacional‌ ‌
+     de Segu‌r idad Digital de Colombia 2025-2027‌     ‌                                             Página 8 / 36‌
+     En segundo lugar, Colombia enfrenta una preocupante falta de preparación frente a
+2‌   amenazas cibernéticas cada vez más sofisticadas. ‌La insuficiente capacidad para identificar,
+     evaluar y mitigar riesgos cibernéticos de manera integral y efectiva deja al país expuesto a ataques
+     que podrían tener consecuencias devastadoras.‌‌
+
+
+                 La falta de un sistema robusto de
+                 respuesta a incidentes cibernéticos,
+
+       2.1‌
+                 especialmente en entidades públicas,
+                 agrava esta situación, permitiendo                     La     falta   de    preparación    para
+                 que los ataques se propaguen y                         enfrentar      riesgos    asociados   al
+                 causen daños significativos antes de                   desarrollo          de       tecnologías
+                 ser contenidos.‌                                       emergentes, ‌como la Inteligencia
+
+
+                                                                 2.4‌
+                                                                        Artificial (IA), representa un desafío
+                 La escasez de personal capacitado                      adicional. La ausencia de directrices
+                 en gestión de incidentes de                            claras     y     estándares    para   la
+                 seguridad digital, ‌particularmente en                 implementación segura de la IA en los
+                 roles de liderazgo, es un factor crítico               sectores público y privado abre la
+                 que limita la capacidad de respuesta                   puerta a vulnerabilidades que podrían
+
+       2.2‌
+                 del país. Esta carencia se hace                        ser       explotadas     por     actores
+                 especialmente      evidente     en     la              malintencionados.‌
+                 vulnerabilidad de las infraestructuras
+                 críticas   cibernéticas    y   servicios
+                                                                        Las brechas de género y diversidad
+                 esenciales    frente    a    incidentes
+                                                                        en el campo de la seguridad digital,
+                 cibernéticos, poniendo en riesgo la
+                                                                        desde     la   formación      hasta    la
+                 continuidad          de        servicios
+                                                                        participación en roles clave, limitan la
+                 fundamentales para la sociedad.‌
+                                                                        capacidad del país para abordar de
+                                                                        manera integral los desafíos de
+
+                                                                 2.5‌
+                 La falta de coordinación efectiva
+                                                                        seguridad    digital.    La   falta   de
+                 entre los equipos de respuesta a
+                                                                        consideración     de     los   impactos
+                 incidentes     cibernéticos    (CSIRT)
+                                                                        diferenciados    de     las   amenazas
+                 dificulta una reacción rápida y
+                                                                        cibernéticas en diferentes grupos
+
+       2.3‌
+                 coordinada ante amenazas complejas.
+                                                                        poblacionales     deja      a   sectores
+                 Además, la insuficiente innovación y
+                                                                        vulnerables expuestos a riesgos
+                 desarrollo tecnológico en el campo de
+                                                                        específicos       que        no      son
+                 la seguridad digital deja a Colombia
+                                                                        adecuadamente abordados por las
+                 rezagada en la carrera por desarrollar
+                                                                        estrategias actuales.‌‌
+                 herramientas      y   soluciones    de
+                 vanguardia para proteger sus activos
+                 digitales.‌
+
+
+     Estrategia Nacional‌ ‌
+     de Segu‌r idad Digital de Colombia 2025-2027‌           ‌                                            Página 9 / 36‌
+     En tercer lugar, la escasez de talento especializado y la falta de una cultura de seguridad
+3‌   digital ‌generalizada representan un obstáculo significativo para el fortalecimiento de las defensas
+     digitales de Colombia.‌‌
+
+
+                 La     falta   de    conciencia      y                    La dificultad para retener talento
+                 conocimiento      sobre     seguridad                     especializado en seguridad digital,
+
+       3.1‌
+                 digital en la población general ‌y en                     especialmente en el sector público,
+                 diversos sectores profesionales, crea
+
+                                                                    3.4‌
+                                                                           crea una brecha de conocimiento y
+                 un    entorno    propicio    para   la                    experiencia que debilita las defensas
+                 propagación de amenazas y la                              del país. La falta de liderazgo en TI con
+                 explotación de vulnerabilidades.‌                         conocimientos avanzados en seguridad
+                                                                           digital limita la capacidad de las
+                 La     escasez      de      profesionales                 organizaciones      para     implementar
+                 especializados en seguridad digital,                      estrategias efectivas de protección.‌
+                 particularmente en roles de liderazgo
+                 para la atención de incidentes de
+                 seguridad      digital    y    en     áreas               El insuficiente conocimiento y
+                 emergentes como la IA aplicada a la                       aplicación     de      normativas      de
+                 seguridad, limita la capacidad del país                   protección de datos y privacidad
+                 para desarrollar e implementar                            expone      a    los     ciudadanos     y
+
+       3.2‌
+                 soluciones avanzadas de protección
+
+                                                                    3.5‌
+                                                                           organizaciones            a       riesgos
+                 de        infraestructuras          criticas              significativos. ‌La falta de preparación
+                 cibernéticas y servicios esenciales                       para    abordar      los    desafíos   de
+                 frente a ciberataques. Esta situación                     privacidad        relacionados        con
+                 se    ve    agravada      por    la    baja               tecnologías emergentes como IA, el
+                 representación de mujeres y grupos                        Big Data, IoT y edge computing deja
+                 diversos en el campo de la seguridad                      al país vulnerable ante nuevas formas
+                 digital, lo que no solo perpetúa las                      de explotación de datos personales.‌
+                 desigualdades existentes, sino que
+                 también       priva    al    sector       de
+                 perspectivas y talentos valiosos.‌
+                                                                           La vulnerabilidad de las pequeñas y
+                                                                           medianas       empresas     frente   a
+                 La insuficiente integración de
+                                                                           amenazas cibernéticas, ‌debido a la
+                 habilidades de seguridad digital en
+                                                                           falta de recursos y conocimientos en
+                 la educación básica y media ‌deja a
+                                                                           seguridad digital representa un riesgo
+
+                                                                    3.6‌
+                 las    generaciones     futuras  mal
+                                                                           significativo    para   la   economía
+
+       3.3‌
+                 preparadas     para    enfrentar  los
+                                                                           nacional. La ausencia de una cultura
+                 desafíos digitales. La falta de
+                                                                           de seguridad digital que aborde los
+                 programas       de     formación    y
+                                                                           riesgos específicos asociados con la
+                 certificación en seguridad digital
+                                                                           violencia digital basada en género y el
+                 adaptados a las necesidades del
+                                                                           ciberacoso, deja a grupos vulnerables
+                 sector público y privado dificulta el
+                                                                           expuestos a formas específicas de
+                 desarrollo de una fuerza laboral
+                                                                           victimización digital.‌
+                 especializada y actualizada.‌
+
+
+     Estrategia Nacional‌ ‌
+     de Segu‌r idad Digital de Colombia 2025-2027‌              ‌                                           Página 10 / 36‌
+     Finalmente, la desactualización y falta de adecuación del marco normativo colombiano ‌frente
+4‌   a los desafíos cibernéticos actuales y emergentes representa un obstáculo significativo para la
+     protección efectiva del ciberespacio nacional.‌‌
+
+
+                 La      obsolescencia       normativa,                  La ausencia de un enfoque inclusivo
+                 evidenciada por leyes como la Ley                       en las normativas actuales, que no
+                 1273     de   2009    sobre     delitos                 consideran      adecuadamente        las
+                 informáticos, ‌genera riesgos para                      perspectivas de género ‌y diversidad
+
+       4.1‌
+                 enfrentar las amenazas cibernéticas                     en su diseño e implementación,
+
+
+                                                                4.4‌
+                 modernas. Adicionalmente, existen                       perpetúa las desigualdades existentes
+                 dificultades       para        ratificar                en el ámbito digital. Las debilidades en
+                 integralmente la adopción y adhesión                    la persecución del cibercrimen, debido
+                 a convenios y medidas internacionales                   a la falta de herramientas legales
+                 para combatir el ciberdelito.‌                          suficientes para combatir eficazmente
+                                                                         las nuevas formas de ciberdelincuencia,
+                 La    falta  de    mecanismos       de                  dejan al país vulnerable ante amenazas
+                 actualización periódica para revisar                    criminales sofisticadas.‌
+                 y actualizar la normativa de
+                                                                         La falta de claridad en las
+                 seguridad digital de manera regular
+                                                                         responsabilidades de los ejecutivos
+                 resulta en un marco legal que se
+                                                                         en materia de seguridad digital
+
+       4.2‌
+                 queda rápidamente atrás frente al
+                                                                         dificulta   la   implementación      de
+                 acelerado avance tecnológico. La
+                                                                         medidas efectivas de protección a
+
+                                                                4.5‌
+                 desalineación     con      estándares
+                                                                         nivel organizacional. La necesidad de
+                 internacionales      dificulta       la
+                                                                         actualización en la protección de
+                 cooperación transfronteriza y la
+                                                                         infraestructuras críticas cibernéticas y
+                 adopción    de   mejores     prácticas
+                                                                         servicios     esenciales     frente    a
+                 globales en materia de seguridad
+                                                                         amenazas cibernéticas modernas
+                 digital.‌
+                                                                         pone en riesgo servicios esenciales
+                                                                         para la sociedad y la economía.‌
+                 Los continuos retos en materia de
+                 protección de datos personales y los
+                 desafíos de privacidad ‌relacionados           En conclusión, ‌Colombia enfrenta un panorama
+                 con tecnologías emergentes como IA             complejo y desafiante en materia de seguridad
+                 y el Big Data deja a los ciudadanos
+
+       4.3‌
+                                                                digital.‌ La      combinación      de   debilidades
+                 vulnerables ante nuevas formas de
+                 explotación    de   su    información          institucionales, vulnerabilidades técnicas, escasez
+                 personal. Se requiere regulación               de talento especializado y un marco normativo
+                 específica para nuevas tecnologías             desactualizado, crea un entorno propicio para la
+                 como IA, IoT y computación en la               proliferación de amenazas cibernéticas. Abordar
+                 nube crea vacíos legales que pueden            estos desafíos requerirá un esfuerzo coordinado y
+                 ser     explotados     por     actores
+                                                                sostenido que involucre a todos los sectores de la
+                 malintencionados.‌
+                                                                sociedad, así como una inversión significativa en
+                                                                recursos, educación y desarrollo tecnológico. Solo a
+                                                                través de un enfoque integral y proactivo,
+                                                                Colombia podrá fortalecer su postura de seguridad
+                                                                digital y proteger eficazmente sus activos digitales
+                                                                en un mundo cada vez más interconectado y
+                                                                vulnerable.‌
+
+
+     Estrategia Nacional‌ ‌
+     de Segu‌r idad Digital de Colombia 2025-2027‌          ‌                                               Página 11 / 36‌
+IV. MARCO
+ESTRATÉGICO‌
+La Estrategia Nacional de Seguridad Digital
+de Colombia 2025-2027 se ha diseñado
+para abordar de manera integral y efectiva
+los desafíos críticos que enfrenta el país en
+materia     de    seguridad     digital. ‌Esta
+estrategia se enfoca en cuatro áreas
+principales que han sido identificadas
+como fundamentales para fortalecer la
+postura cibernética del país:‌ i) la
+consolidación de la gobernanza de
+seguridad digital para superar la debilidad
+institucional y la falta de coordinación; ii) la
+mejora de la ciber resiliencia nacional para
+hacer frente a la vulnerabilidad ante
+amenazas cibernéticas sofisticadas; iii) el
+desarrollo de una fuerza laboral robusta en
+seguridad digital para abordar la escasez de
+talento especializado; y iv) la adaptación y
+adecuación       del      marco     normativo
+cibernético para actualizar el marco legal
+frente a los desafíos emergentes.‌
+
+A través de un conjunto de acciones
+estratégicas y líneas de acción específicas
+en cada una de estas áreas, la estrategia
+busca transformar el panorama de la
+seguridad      digital    en     Colombia,
+fortaleciendo las capacidades nacionales,
+fomentando la colaboración intersectorial e
+internacional, y promoviendo una cultura
+de seguridad digital inclusiva y equitativa.
+Con esta aproximación holística, Colombia
+se posicionará para enfrentar eficazmente
+las amenazas cibernéticas actuales y
+futuras,    protegiendo     los   intereses
+nacionales y el bienestar digital de sus
+ciudadanos.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌      ‌   Página 12 / 28‌
+                    1. ARTICULACIÓN ESTRATÉGICA‌
+                    La Estrategia Nacional de Seguridad Digital de Colombia 2025-2027, se construye a
+                    partir de lo dispuesto en los principales instrumentos de política nacionales, junto
+                    con los planes y estrategias sectoriales e institucionales relacionadas.‌
+
+                     Con instrumentos jurídicos:‌              la Ransomware Task Force. Estas
+                                                               alianzas    estratégicas   permiten     a
+                    La Estrategia Nacional de Seguridad        Colombia       contar     con     apoyo
+                    Digital de Colombia 2025-2027 está         internacional en la respuesta a
+                    diseñada para respetar y fortalecer el     incidentes     de    seguridad   digital,
+                    cumplimiento de los instrumentos           intercambio de inteligencia sobre
+                    jurídicos, tanto nacionales como           amenazas, y adopción de mejores
+                    internacionales, en el ámbito digital.     prácticas. En el ámbito nacional, la
+                    En su elaboración, se han alineado         estrategia tiene en cuenta regulaciones
+                    principios      fundamentales         de   específicas para sectores estratégicos,
+                    derechos           humanos,           no   alineándose con directrices sectoriales y
+                    discriminación, combate a la               directivas regulatorias que aseguran
+                    violencia, y desarrollo sostenible         una implementación efectiva y una
+                    con las prácticas de seguridad             respuesta unificada frente a las
+                    digital, ‌reafirmando el compromiso        amenazas cibernéticas emergentes​.‌
+                    del país con los convenios y tratados
+                    internacionales que abordan estas
+                    áreas críticas. Al mantener un
+                    enfoque de derechos humanos y
+                    seguridad digital centrado en el ser
+                                                                Con instrumentos de política:‌
+                    humano, la estrategia busca proteger
+                                                               La Estrategia Nacional de Seguridad
+                    la privacidad, la libertad de expresión
+                                                               Digital de Colombia 2025-2027 se
+                    y la no discriminación, reforzando así
+                                                               articula de manera integral con los
+                    el derecho de cada ciudadano a un
+                                                               principales instrumentos de política
+                    entorno digital seguro e inclusivo​.‌
+                                                               nacionales, asegurando coherencia y
+                                                               alineación    con     las     directrices
+                    La estrategia también establece
+                                                               establecidas   en   los     Documentos
+                    un marco sólido de cooperación             CONPES 3701 de 2011, CONPES 3854 de
+                    internacional      que    incluye   la     2016 y CONPES 3995 de 2020. También
+                    colaboración       con    organismos       con el Plan Nacional de Desarrollo
+                    transcontinentales, regionales y           (PND) 2022-2026 "Colombia, Potencia
+                    multilaterales,‌     así   como     el     Mundial de la Vida" y la Estrategia
+                    fortalecimiento       de      acuerdos     Nacional Digital de Colombia (END)
+                    multilaterales y bilaterales, tales        2023-2026. En este marco, la estrategia
+                    como el Convenio de Budapest,              no solo se fundamenta en los objetivos
+                    junto con iniciativas conjuntas como‌‌     de crecimiento digital y transformación‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌     ‌                                          Página 13 / 36‌
+                                                    del país, sino que refuerza las capacidades de
+                                                    seguridad digital como un eje transversal para
+                                                    el desarrollo sostenible y la inclusión digital.‌‌
+                                                    En cuanto a las políticas y planes sectoriales, la
+                                                    estrategia se alinea con la Política de Gobierno
+                                                    Digital, la Política de Seguridad, Defensa y
+                                                    Convivencia Ciudadana, y el Plan Estratégico
+                                                    de TIC 2023-2026 del sector defensa,
+                                                    fortaleciendo así los sistemas de respuesta
+                                                    ante incidentes y promoviendo la cooperación
+                                                    interinstitucional en temas de seguridad
+                                                    digital. Asimismo, el Plan Decenal de Justicia y
+                                                    el Plan Estratégico ‌de Tecnologías de la
+                                                    Información del Ministerio de Justicia (PETI),
+                                                    proveen una estructura sólida para abordar los
+                                                    desafíos en cibercrimen y seguridad digital en
+                                                    el ámbito judicial, asegurando la protección
+                                                    de infraestructuras críticas cibernéticas y
+                                                    servicios esenciales y la salvaguarda de
+                                                    información sensible.‌
+
+                                                    Estos planes sectoriales se complementan con
+                                                    la Hoja de Ruta para la Adopción Ética y
+                                                    Sostenible de la Inteligencia Artificial, la
+                                                    Política Nacional de Inteligencia Artificial, y el
+                                                    Plan Estratégico de Seguridad de la
+                                                    Información, los cuales garantizan una
+                                                    adopción      responsable        de tecnologías
+                                                    emergentes y promueven un entorno digital
+                                                    ético y sostenible en el país​.‌
+
+                                                    Con esta articulación, la Estrategia Nacional de
+                                                    Seguridad Digital de Colombia 2025-2027 no
+                                                    solo apoya la digitalización de servicios
+                                                    esenciales, sino que también ‌fomenta una
+                                                    cultura de seguridad integral, protegiendo
+                                                    los derechos fundamentales de los
+                                                    ciudadanos ‌y respondiendo a las amenazas
+                                                    crecientes en el ciberespacio de manera ética
+                                                    y efectiva.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                             Página 14 / 36‌
+                                                           Enfoque de "Toda la Sociedad"
+                                                           (Whole of Society):‌‌
+  2. ENFOQUES                                       Promoviendo la colaboración entre todos los
+  RECTORES‌                                         sectores de la sociedad, incluyendo el sector
+                                                    público, el sector privado, la academia, la sociedad
+  La    Estrategia   Nacional    de                 civil y los ciudadanos. En Colombia se contará con
+  Seguridad Digital de Colombia                     una cultura de seguridad digital que involucre a
+  2025-2027 se formula para ser                     todos los actores del ecosistema digital,
+  implementada     bajo   enfoques                  fomentando la cooperación y el intercambio de
+  estratégicos    nacionales,  ‌que                 información para fortalecer la resiliencia cibernética
+  fundamentan el accionar de las                    del país.‌
+  actuaciones que se realicen y
+                                                           Enfoque Centrado en el Ser
+  ayuden a guiar la toma de
+                                                           Humano:‌‌
+  decisiones:
+                                                    Priorizando la protección de los derechos digitales,
+                                                    la privacidad y la seguridad de los ciudadanos en el
+                                                    entorno digital. En Colombia se garantizará un
+                                                    acceso seguro y equitativo a las tecnologías de
+                                                    información      y    las   comunicaciones     (TIC),
+                                                    promoviendo la educación y concientización en
+                                                    seguridad digital para todos los segmentos de la
+                                                    población.‌
+
+                                                           Enfoque de Gestión de Riesgos
+                                                           cibernéticos:‌‌
+                                                    Centrando los esfuerzos en identificar, evaluar,
+                                                    mitigar y monitorear continuamente las amenazas
+                                                    y las vulnerabilidades en el entorno digital nacional.
+                                                    En Colombia se fortalecerá la resiliencia cibernética
+                                                    de las infraestructuras críticas nacionales y se
+                                                    protegerán sus activos digitales críticos, asegurando
+                                                    la prestación de servicios esenciales.‌
+
+                                                           Enfoque de Innovación y
+                                                           Desarrollo de Capacidades:‌‌
+                                                    Promoviendo la inversión en investigación y
+                                                    desarrollo en seguridad digital, el fomento de la
+                                                    innovación tecnológica y la formación continua de
+                                                    profesionales en el campo. En Colombia se
+                                                    priorizarán     los     programas      educativos
+                                                    especializados, el establecimiento de centros de
+                                                    excelencia en seguridad digital, y el apoyo a
+                                                    startups y proyectos de investigación en
+                                                    tecnologías emergentes de seguridad digital.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                             Página 15 / 36‌
+3. VISIÓN‌
+En 2034, Colombia es una potencia regional          Resiliencia:‌ Desarrollar la capacidad de
+en seguridad digital con un ecosistema              anticipar, resistir, recuperarse y adaptarse
+ciberseguro y resiliente que impulsa la             a      las      amenazas        cibernéticas,
+confianza digital, el crecimiento económico y       implementando un enfoque basado en la
+el bienestar social, promoviendo una sociedad       gestión de riesgos para proteger la
+inclusiva, innovadora y competitiva en la era       infraestructura crítica cibernética y los
+digital y garantizando la protección de las         servicios esenciales.‌
+libertades, dignidad y desarrollo integral de las
+personas.‌                                          Innovación:‌ Promover la innovación
+                                                    tecnológica y la formación continua en
+
+4. PRINCIPIOS                                       seguridad   digital,    desarrollando
+                                                    habilidades necesarias en el personal y
+                                                                                           las
+
+
+ORIENTADORES‌                                       fomentando     la    investigación
+                                                    desarrollo de soluciones de seguridad
+                                                                                         y  el
+
+La Estrategia Nacional de Seguridad Digital         avanzadas.‌
+de    Colombia     2025-2027    aplica  los
+siguientes principios orientadores:‌                Transparencia y confianza digital:‌
+                                                    Establecer mecanismos de transparencia
+Protección de los derechos humanos y la             y    rendición    de     cuentas     en  la
+privacidad: ‌Garantizar que todas las medidas       implementación         de    políticas  de
+de seguridad digital respeten y promuevan los       seguridad     digital,    fomentando     la
+derechos        humanos        fundamentales,       confianza en el entorno digital y
+incluyendo la privacidad, la libertad de            promoviendo la participación ciudadana
+expresión y la protección de datos personales.‌     en la formulación y evaluación de estas
+                                                    políticas.‌
+Coordinación, colaboración y cooperación
+multisectorial: ‌Fomentar la interacción entre
+el sector público, el sector privado, la
+academia y la sociedad civil, tanto a nivel
+nacional como internacional, para compartir
+información, recursos y mejores prácticas en
+seguridad digital.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                 Página 16 / 36‌
+            5. OBJETIVO
+            GENERAL‌
+            Fortalecer y consolidar un entorno digital seguro, confiable y resiliente en
+            Colombia que promueva el desarrollo económico, l‌a inclusión social, la
+            innovación tecnológica y la protección de infraestructuras críticas cibernéticas
+            y servicios esenciales, garantizando la privacidad, integridad, disponibilidad y
+            seguridad de la información de ciudadanos, empresas e instituciones.‌‌
+
+
+                                                       robustos para el intercambio de información y
+                                                       mejores prácticas, así como para la lucha
+6. OBJETIVOS                                           coordinada contra amenazas cibernéticas
+                                                       transfronterizas. Finalmente, se impulsarán
+ESPECÍFICOS‌ ‌                                         alianzas público-privadas estratégicas para
+La Estrategia Nacional de Seguridad Digital de         promover la innovación y el desarrollo de
+Colombia 2025-2027 establece acciones que              soluciones avanzadas de seguridad digital,
+se dedican a todos los sectores de la                  con un énfasis particular en el uso seguro y
+economía      y   la   sociedad,      desde las        responsable de la inteligencia artificial.‌‌
+instituciones de la administración pública,
+hasta los líderes de la industria y la                 Este enfoque holístico no solo fortalecerá la
+ciudadanía, con el fin de alcanzar el objetivo         resiliencia cibernética del país, sino que
+general y los objetivos específicos.‌‌                 también posicionará a Colombia como un
+                                                       líder regional en materia de seguridad digital,
+                                                       promoviendo al mismo tiempo la inclusión, la
+6.1. CONSOLIDAR LA                                     equidad de género y la diversidad en todo el
+GOBERNANZA        DE                                   ecosistema de seguridad digital.‌‌
+
+SEGURIDAD DIGITAL                                      A continuación, las líneas de acción y sus
+                                                       respectivas acciones estratégicas.‌
+Colombia consolidará su gobernanza nacional
+de seguridad digital, a través de un enfoque            Línea de Acción 1.1. Fortalecimiento del
+integral y colaborativo que abarca tres pilares         liderazgo y la coordinación nacional‌ ‌
+fundamentales. En primer lugar, se fortalecerá
+el liderazgo y la coordinación nacional,                  Crear una entidad nacional especializada
+mediante la creación de una instancia                     para planificar, definir, coordinar y hacer
+especializada y la revisión y adecuación del              seguimiento     a     las   actividades    de
+Modelo de Gobernanza de la Seguridad                      seguridad     digital,    asegurando      una
+Digital, asegurando una representación                    representación equitativa de género y
+equitativa y diversa en todos los niveles. En             diversidad en su estructura y liderazgo.‌
+segundo lugar, se fomentará la cooperación
+internacional, estableciendo mecanismos‌
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                           Página 17 / 36‌
+    Revisar el Modelo de Gobernanza de la           Línea de Acción 1.2. Fomento de la‌‌
+    Seguridad Digital establecido en el             cooperación internacional‌                    ‌
+    Decreto 338 de 2022, incorporando
+    principios de igualdad de género y                Generar espacios de cooperación técnica
+    enfoque diferencial en su implementación.         internacional para el intercambio de
+    Con base en la revisión, proponer e               información sobre seguridad informática y
+    implementar         las     modificaciones        el desarrollo de capacidades nacionales,
+    necesarias para adaptar el modelo al              promoviendo la participación equitativa
+    nuevo contexto nacional e internacional           de mujeres y grupos subrepresentados en
+    de ciberseguridad.‌                               estos intercambios.‌
+
+    Diseñar e implementar mecanismos de               D‌iseñar e implementar mecanismos de
+    coordinación para la gestión de crisis            cooperación internacional y regional para
+    cibernéticas a gran escala, incluyendo la         abordar        amenazas        cibernéticas
+    realización de ejercicios de simulación           transfronterizas y combatir el cibercrimen
+    interinstitucionales para    mejorar   la         de manera coordinada, con especial
+    capacidad de respuesta ante incidentes,           atención a delitos cibernéticos, que
+    garantizando la participación activa de           generen cualquier forma de violencia
+    mujeres y grupos subrepresentados en              basada en género.‌
+    estos ejercicios.‌
+                                                      Fortalecer la participación en foros y
+    Crear y poner en funcionamiento un                organizaciones       internacionales    de
+    sistema de intercambio de información             seguridad digital, estableciendo convenios
+    sobre   amenazas      cibernéticas entre          con actores internacionales expertos para
+    entidades públicas y privadas.‌                   el intercambio de información y mejores
+                                                      prácticas, asegurando la representación
+    Crear e implementar un observatorio               equitativa de mujeres y grupos diversos en
+    nacional de seguridad digital para                estas delegaciones.‌
+    identificar patrones, crear acciones de
+    respuesta y proporcionar inteligencia             Desarrollar e implementar un Marco
+    estratégica en materia de seguridad               Integral para la Acción contra el
+    digital, con un enfoque específico en el          Ransomware, que ofrezca un conjunto de
+    análisis de brechas de género y diversidad        directrices y herramientas para mejorar la
+    en el ámbito cibernético.‌                        capacidad de respuesta y preparación de
+                                                      las organizaciones frente a ataques de
+    Establecer herramientas vinculantes para          ransomware con apoyo de la cooperación
+    asegurar el cumplimiento y la acción              internacional y regional.‌
+    coordinada de las entidades estatales en
+    materia de seguridad digital.‌                    Continuar los esfuerzos para impulsar la
+                                                      implementación de las medidas de
+                                                      fomento de la confianza en el ciberespacio
+                                                      regionales y globales.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                     Página 18 / 28‌
+  Línea de Acción 1.3. Impulso de
+  alianzas público-privadas‌     ‌                   6.2 MEJORAR LA
+    Cr‌ear y poner en marcha una plataforma          CIBER RESILIENCIA
+    nacional de colaboración entre el sector
+    público, el sector privado, la academia y la     NACIONAL‌
+    sociedad civil para fomentar la innovación,
+                                                     Colombia mejorará su ciber resiliencia
+    discutir iniciativas normativas y desarrollar
+                                                     nacional a través de un enfoque multifacético
+    soluciones de seguridad digital.‌
+                                                     y proactivo que abarca cinco áreas clave de
+    Promover        alianzas     público-privadas
+                                                     acción. ‌En primer lugar,‌ se fortalecerá la
+    estratégicas      para    la    investigación,
+    desarrollo      e     implementación       de    gestión de riesgos y respuesta a incidentes,
+    tecnologías de seguridad avanzadas, que          mediante la implementación de un sistema
+    fortalezcan la resiliencia cibernética           nacional integral que incorpora tecnologías
+    nacional.‌                                       avanzadas como la IA, asegurando la inclusión
+    Identificar y definir temas críticos y           y equidad en todos los procesos. ‌En segundo
+    estratégicos para el Estado colombiano           lugar, se priorizará la protección de
+    sobre el uso seguro y responsable de             infraestructuras críticas cibernéticas y servicios
+    sistemas de IA, incluyendo el análisis de        esenciales, implementando estrategias de
+    sesgos de género y diversidad en los             seguridad de vanguardia como la arquitectura
+    algoritmos de IA y su impacto en la              "Zero Trust". ‌Tercero, ‌se potenciarán las
+    seguridad digital.‌                              capacidades de ciberdefensa, integrando‌‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                          Página 19 / 36‌
+tecnologías emergentes y realizando ejercicios      Evaluar el estado de madurez de las
+de simulación regulares para enfrentar              capacidades de los equipos de respuesta
+amenazas avanzadas. ‌Cuarto,‌ se fomentará la       rápida a incidentes cibernéticos (CSIRT), a
+innovación y el desarrollo tecnológico en           nivel nacional, con el apoyo de actores de la
+seguridad digital, estableciendo centros de         comunidad técnica especializada como el
+excelencia    y   apoyando      iniciativas  de     CSIRT Américas Networks de la OEA,
+investigación diversas e inclusivas. Finalmente,    soportado bajo el Modelo de Madurez de
+se gestionarán los riesgos asociados con la         Gestión de Incidentes de Seguridad (SIM3).‌
+adopción     de     tecnologías     emergentes,
+desarrollando directrices éticas y mecanismos       Diseñar e implementar un programa de
+de monitoreo robustos.‌‌                            formación,          entrenamiento           y
+                                                    acompañamiento en gestión de incidentes
+Este enfoque integral no solo fortalecerá la        de seguridad digital dirigido a líderes de
+capacidad del país para prevenir, detectar y        Tecnologías de la Información (TI) públicos y
+responder a amenazas cibernéticas, sino que         privados, teniendo en cuenta la selección y
+también promoverá un ecosistema digital más         utilización de herramientas y servicios
+seguro, innovador e inclusivo, posicionando a       acorde a las diferentes organizaciones,
+Colombia como un referente regional en ciber        promoviendo activamente la participación
+resiliencia.‌‌                                      de mujeres y grupos subrepresentados.‌
+
+A continuación, las líneas de acción y sus          F‌ortalecer las capacidades tecnológicas y el
+respectivas acciones estratégicas.‌                 catálogo de servicios de seguridad digital
+                                                    del Estado colombiano, implementando
+Línea de Acción 2.1. Fortalecimiento de la‌‌        arquitecturas de confianza cero en los
+gestión de riesgos y respuesta a incidentes‌        sistemas gubernamentales y desarrollando
+                                                    capacidades avanzadas de análisis forense
+    Desarrollar e implementar un sistema            digital, con enfoque en la protección de
+    nacional     integral   de    identificación,   datos sensibles de poblaciones vulnerables.‌
+    evaluación y mitigación de riesgos
+    cibernéticos, que incluya el uso seguro y       Acompañar a las entidades públicas y
+    responsable de IA para mejorar la detección     evaluar   el     cumplimiento   de    los
+    y respuesta a incidentes, incorporando          lineamientos y estándares del modelo de
+    análisis de impacto diferenciado por género     seguridad y privacidad de la información
+    y grupos poblacionales.‌                        dispuestos en el marco de la Política de
+                                                    Gobierno Digital.‌
+    Establecer un plan de acción robusto para
+    optimizar la respuesta ante incidentes en       Realizar evaluaciones periódicas de la
+    entidades públicas, incluyendo un manual        efectividad de los planes de respuesta a
+    nacional y protocolos de comunicación y         incidentes,   asegurando    una   mejora
+    coordinación interinstitucional para la         continua en la resiliencia cibernética
+    gestión eficaz de crisis cibernéticas,          nacional, incluyendo métricas específicas
+    asegurando la participación equitativa de       sobre la participación y el impacto en
+    mujeres y grupos diversos en los equipos de     mujeres y grupos diversos.‌
+    respuesta.‌
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                    Página 20 / 36‌
+      Elaborar      un    modelo     técnico    de     público-privadas    para    mejorar    la
+      capacidades mínimas en el uso seguro y           seguridad de aquellas operadas por el
+      responsable de IA para el sector público         sector privado, en cumplimiento del
+      que permita la efectiva identificación,          manual nacional y los protocolos de
+      gestión, tratamiento y mitigación de             comunicación        y       coordinación
+      riesgos       y     amenazas       digitales,    interinstitucional, y fomentando la
+      estableciendo mecanismos de compra               participación equitativa de mujeres y
+      pública para implementarlo en entidades          grupos diversos en estos procesos.‌
+      nacionales, y revisando y estableciendo
+      mecanismos         para  que      entidades      Desarrollar    planes    de    resiliencia
+      territoriales lo implementen,‌                   cibernética específicos para cadenas de
+                                                       suministro e impulsar el concepto de
+      Elaborar      recomendaciones       sobre        "seguridad digital por defecto" en los
+      capacidades mínimas en el uso seguro y           servicios públicos.‌
+      responsable de IA para el sector privado,
+      que permita la efectiva identificación,
+                                                      Línea de Acción 2.3. Fortalecimiento
+      gestión, tratamiento y mitigación de
+                                                      de las capacidades de ciberdefensa‌‌
+      riesgos y amenazas digitales, realizando
+      un     estudio    de  viabilidad    sobre
+                                                       M‌ejorar las capacidades de defensa
+      mecanismos vinculantes de seguridad
+                                                       cibernética de las fuerzas armadas y
+      digital.‌
+                                                       organismos de inteligencia, integrando
+                                                       tecnologías avanzadas como IA y
+     Línea de Acción 2.2. Protección de‌‌
+     infraestructuras críticas nacionales              aprendizaje automático en los sistemas
+     y servicios esenciales‌                           de defensa.‌
+
+    Diseñar e implementar una estrategia               Crear e implementar una estrategia
+    integral para salvaguardar la infraestructura      para la coordinación de equipos de
+    crítica cibernética y servicios esenciales del     respuesta      rápida   a    incidentes
+    país,     incluyendo     la     identificación,    cibernéticos (CSIRT) del sector defensa
+    clasificación y elaboración de un inventario       con otros equipos de respuesta,
+    detallado.‌                                        implementando sistemas de detección
+                                                       temprana y prevención de amenazas
+    Implementar       medidas   de    seguridad        cibernéticas.‌
+    avanzadas,      incluyendo     arquitecturas
+    basadas en el concepto de "Zero Trust", para       Realizar    ejercicios   regulares   de
+    proteger y fortalecer las infraestructuras         simulación de ciberataques para evaluar
+    críticas cibernéticas y servicios esenciales       y mejorar las capacidades de respuesta,
+    contra ciberataques, asegurando que estas          incluyendo el desarrollo de capacidades
+    medidas no exacerben brechas de género o           de     defensa      contra    amenazas
+    exclusión digital.‌                                emergentes como los deepfakes y
+                                                       ataques basados en IA, incorporando
+    Establecer un sistema de monitoreo                 escenarios que aborden amenazas
+    continuo y evaluación de vulnerabilidades          específicas basadas en género.‌
+    para las infraestructuras críticas cibernéticas
+    y los servicios esenciales, promoviendo
+    alianzas‌
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                    Página 21 / 36‌
+  Línea de Acción 2.4. Fomento de la‌‌
+  innovación y desarrollo tecnológico‌
+
+    Promover la investigación y el desarrollo
+    de nuevas tecnologías de seguridad
+    digital, ofreciendo incentivos para
+    startups y proyectos de investigación en
+    el campo de la seguridad digital, con
+    énfasis en apoyar iniciativas lideradas
+    por mujeres y grupos subrepresentados.‌
+
+    Establecer centros de excelencia en
+    seguridad digital, en colaboración con la
+    academia     y     el   sector   privado,
+    fomentando la adopción de tecnologías
+    emergentes como la IA y el blockchain
+    para mejorar la seguridad digital,
+    asegurando la participación equitativa
+    de mujeres y grupos diversos en estos
+    centros.‌
+
+    Desarrollar capacidades nacionales en
+    computación cuántica y criptografía
+    post-cuántica,        creando       e
+    implementando un programa de
+    innovación     en   seguridad  digital
+    centrado en la protección de IoT y
+    dispositivos conectados.‌
+
+  Línea de Acción 2.5. Gestión de riesgos
+  en la adopción de tecnologías
+  emergentes‌
+
+    Desarrollar directrices integrales para la
+    implementación segura de IA en los
+    sectores público y privado, incluyendo
+    estándares para la auditoría y evaluación
+    de riesgos de sistemas de IA.‌
+
+    Establecer pautas éticas robustas para el
+    uso de IA en seguridad digital e
+    implementar        mecanismos         de
+    monitoreo para amenazas impulsadas
+    por IA.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌    ‌   Página 22 / 36‌
+                                                    Este enfoque holístico no solo fortalecerá las
+                                                    capacidades técnicas del país en seguridad
+6.3 DESARROLLAR                                     digital, sino que también promoverá una
+
+LA FUERZA                                           fuerza laboral diversa, inclusiva y altamente
+                                                    capacitada, posicionando a Colombia como
+LABORAL DE                                          un referente regional en el desarrollo de
+                                                    talento en seguridad digital.‌
+SEGURIDAD
+DIGITAL‌
+                                                    A continuación, las líneas de acción y sus
+                                                    respectivas acciones estratégicas.‌
+Colombia desarrollará su fuerza laboral de
+                                                    Línea de Acción 3.1. Fortalecimiento de
+seguridad digital mediante un enfoque
+                                                    la cultura de seguridad digital‌
+integral y multidimensional que abarca cuatro
+áreas estratégicas clave. En primer lugar, se          Crear e implementar un programa
+fortalecerá la cultura de seguridad digital a          nacional     integral de    educación   y
+través de programas nacionales de educación            sensibilización sobre seguridad digital
+y sensibilización, abordando las necesidades           incluyendo módulos específicos para
+específicas de diversos grupos demográficos y          diferentes     demografías   y   sectores,
+sectores, con un énfasis particular en la              asegurando la inclusión de contenidos que
+inclusión      de      mujeres     y      grupos       aborden las necesidades y perspectivas de
+subrepresentados. En segundo lugar, se                 mujeres y grupos diversos.‌
+impulsará el desarrollo del talento en
+seguridad digital mediante programas de                Incorporar habilidades de protección y
+formación,      certificación    y     retención,      ciber higiene en los planes de educación
+estableciendo cuotas de participación para             básica y media, realizando campañas de
+grupos diversos y creando entornos laborales           concientización sobre riesgos cibernéticos,
+inclusivos. Tercero, se reforzará la protección        buenas prácticas de seguridad digital y
+de datos y privacidad, implementando                   uso seguro del entorno digital, con énfasis
+políticas robustas y desarrollando marcos de           en la prevención de violencia digital
+trabajo     específicos     para     tecnologías       basada en género.‌
+emergentes como la IA y el Big Data.
+Finalmente, se brindará apoyo específico a las         Capacitar sobre el uso seguro y
+pequeñas y medianas empresas para mejorar              responsable de sistemas de IA a los
+su postura de seguridad digital, con un                directivos, jefes de oficina TI, oficiales de
+enfoque en la transformación digital segura y          seguridad y equipos de TI, promoviendo
+la inclusión de empresas lideradas por                 activamente la participación de mujeres y
+mujeres y grupos subrepresentados.‌‌                   grupos subrepresentados en estos roles.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                       Página 23 / 36‌
+   Desarrollar y poner en marcha un programa           Implementar programas de retención
+   de concientización sobre los riesgos asociados      de talento en seguridad digital en el
+   con la IA y las tecnologías emergentes,             sector público y desarrollar iniciativas
+   promoviendo la adopción de autenticación sin        para aumentar la diversidad en el
+   contraseñas    en    todos      los   sectores,     campo, con énfasis en la inclusión de
+   considerando las barreras específicas que           mujeres y minorías, estableciendo
+   enfrentan las mujeres y grupos diversos en la       metas específicas de representación y
+   adopción de nuevas tecnologías.‌                    creando entornos laborales inclusivos.‌
+
+   Estructurar y ejecutar un programa integral         Formar líderes de TI públicos y
+   para prevenir riesgos y delitos en Internet, con    privados mediante programas de
+   énfasis en la salud mental y emocional de la        entrenamiento avanzado en seguridad
+   ciudadanía, incluyendo módulos específicos          digital.‌
+   sobre ciberacoso y violencia digital de género.‌
+                                                      Línea de Acción 3.3. Protección de
+   Desarrollar y poner en marcha un programa          datos y privacidad‌
+   único de oferta institucional sobre uso seguro
+   y responsable de sistemas de IA dirigido a          Implementar y fortalecer políticas y
+   personas, entidades públicas, organizaciones y      procedimientos para asegurar el
+   entidades      privadas,     asegurando     la      cumplimiento de normativas de
+   representación equitativa de mujeres y grupos       protección de datos, estableciendo
+   diversos en el diseño e implementación del          mecanismos de auditoría y control
+   programa.‌                                          para garantizar la privacidad de los
+                                                       datos de los ciudadanos, con especial
+Línea de Acción 3.2. Desarrollo del talento            atención a la protección de datos
+en seguridad digital‌                                  sensibles de mujeres y grupos
+                                                       vulnerables.
+    Establecer programas de formación y
+    certificación en seguridad digital para            Desarrollar programas de capacitación
+    profesionales del sector público y privado,        en    protección    de   datos   para
+    incluyendo programas específicos en IA             funcionarios públicos y empleados del
+    aplicada a la seguridad digital y capacitación     sector    privado,     implementando
+    especializada en riesgos cibernéticos, con         tecnologías      de      cifrado    y
+    cuotas de participación para mujeres y grupos      anonimización de datos en sistemas
+    subrepresentados.‌                                 gubernamentales.
+
+    Crear y poner en marcha programas de becas         D‌esarrollar marcos de trabajo para la
+    y pasantías para estudiantes en el campo de la     protección de la privacidad en el
+    seguridad digital, fomentando la colaboración      contexto de la IA y el Big Data,
+    entre la academia y el sector privado para         implementando medidas específicas
+    desarrollar programas educativos relevantes,       para tecnologías emergentes como
+    priorizando la inclusión de mujeres y grupos       IoT y edge computing, considerando
+    diversos en estos programas.‌                      los impactos diferenciados en mujeres
+                                                       y grupos diversos.
+
+  Estrategia Nacional‌ ‌
+  de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                              Página 24 / 36‌
+  Línea de Acción 3.4. Apoyo a las                   la seguridad digital, asegurando su
+  pequeñas y medianas empresas‌                      actualización constante y la participación
+                                                     equitativa de diversos actores en el
+     Cr‌ear directrices y estándares de seguridad
+                                                     proceso.‌
+     digital específicos para Pequeñas y
+     Medianas Empresas (PYMES), desarrollando
+                                                     En segundo lugar, se actualizará y adaptará
+     programas        de      apoyo    para     la
+                                                     el marco sustantivo y procesal para
+     implementación de medidas de seguridad
+                                                     combatir el ciberdelito, alineándolo con las
+     y estableciendo estándares para la
+                                                     obligaciones internacionales y abordando
+     transformación digital segura, con énfasis
+                                                     las nuevas amenazas digitales con una
+     en el apoyo a empresas lideradas por
+                                                     perspectiva inclusiva. Finalmente, se
+     mujeres y grupos subrepresentados.‌
+                                                     crearán reglas claras para la protección de
+                                                     datos    y    privacidad,    alineando   las
+     Formular incentivos fiscales y financieros
+                                                     regulaciones          con         estándares
+     para fomentar la inversión en seguridad
+                                                     internacionales y desarrollando normativas
+     digital en el sector de las pequeñas y
+                                                     específicas para tecnologías emergentes
+     medianas empresas.‌
+                                                     como la IA.‌‌
+
+   6.4 ADAPTAR Y                                     Este enfoque holístico no solo fortalecerá la
+   ADECUAR EL MARCO                                  capacidad legal del país para enfrentar los
+                                                     desafíos cibernéticos actuales y futuros,
+   NORMATIVO                                         sino que también promoverá un entorno
+   CIBERNÉTICO‌                                      digital más seguro, equitativo y respetuoso
+                                                     de los derechos de todos los ciudadanos,
+   Colombia adaptará y adecuará su marco             posicionando a Colombia como un
+   normativo cibernético a través de un enfoque      referente regional en materia de legislación
+   integral y dinámico que abarca tres áreas         cibernética.‌
+   fundamentales.     En    primer    lugar,  se
+   establecerá un mecanismo de revisión              A continuación, las líneas de acción y
+   periódica de la normatividad relacionada con‌     sus respectivas acciones estratégicas.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                       Página 25 / 36‌
+                                                      D‌esarrollar regulaciones específicas para la
+  Línea de Acción 4.1. Revisar la normatividad
+  relacionada con la seguridad digital‌               protección de datos en el contexto de
+                                                      tecnologías      emergentes      como      la
+    Establecer un mecanismo de revisión               inteligencia artificial y el aprendizaje
+    periódica bienal para mantener actualizada la     automático, incluyendo medidas para
+    normativa en ma‌teria de seguridad digital, en    prevenir y mitigar sesgos de género y
+    coordinación con las múltiples partes             discriminación algorítmica.‌
+    interesadas, asegurando la participación
+    equitativa de mujeres y grupos diversos en        Implementar      normativas     para  la
+    estos procesos de revisión.‌                      responsabilidad ejecutiva en materia de
+                                                      seguridad digital, siguiendo tendencias
+    Crear una hoja de ruta interinstitucional que     globales de rendición de cuentas.‌
+    integre los esfuerzos normativos en seguridad
+    digital,  incluyendo    medidas    legislativas   Brindar acompañamiento técnico y jurídico
+    nacionales y de cooperación internacional         a las entidades públicas para asegurar el
+    para combatir el ciberdelito, incorporando        cumplimiento de los lineamientos de
+    perspectivas de género y diversidad en su         seguridad y privacidad de la información.‌
+    diseño e implementación.‌
+                                                      Actualizar   el   marco     normativo     de
+  Línea de Acción 4.2. Actualizar y adaptar el        seguridad para la adopción de tecnologías
+  marco sustantivo y procesal para combatir           cloud en el sector público, con énfasis en la
+  el ciberdelito‌                                     nube pública gubernamental.‌
+
+    Actualizar y fortalecer el marco legal y
+    regulatorio nacional en ma‌teria de seguridad
+    digital para abordar las nuevas amenazas
+    digitales, cumplir con las obligaciones del
+    Convenio de Budapest y robustecer la
+    persecución del cibercrimen, considerando el
+    impacto diferenciado de los ciberdelitos en
+    mujeres y grupos vulnerables.‌
+
+
+    Línea de Acción 4.3. Crear reglas claras‌‌
+    para la protección de datos y privacidad‌
+
+     Alinear las regulaciones de privacidad con
+     los estándares internacionales, atendiendo
+     las necesidades nacionales, estableciendo
+     requisitos   claros   de   notificación    de
+     violaciones de da‌tos e implementando
+     principios de privacidad por diseño, con
+     especial atención a la protección de datos
+     sensibles de mujeres y grupos vulnerables.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                      Página 26 / 36‌
+7. PLAN DE ACCIÓN‌
+Colombia continuará avanzando en su desarrollo y empleará las oportunidades de optimización
+para reforzar su estrategia en la lucha contra los ataques informáticos, fomentando de esta manera
+una sociedad y economía estable y segura al definir áreas clave para la implementación de su
+Estrategia Nacional de Seguridad Digital de Colombia 2025-2027.‌‌
+
+Colombia, consciente de que las amenazas informáticas son una realidad presente y no un riesgo
+futuro, asignará los recursos gubernamentales necesarios para garantizar el éxito de esta estrategia.
+Además, establecerá alianzas con todos los actores relevantes para avanzar en sus objetivos y metas.
+También se impulsará una cultura de seguridad digital en el sector público y fomentará la
+asignación de recursos para este propósito.‌
+
+A continuación, se presentan las intervenciones públicas teniendo en cuenta el marco
+estratégico de la Estrategia Nacional de Seguridad Digital de Colombia 2025-2027.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                        Página 27 / 36‌
+CON EL FIN DE CONSOLIDAR LA GOBERNANZA DE SEGURIDAD DIGITAL:‌
+                              INDICADOR DE‌     MÉTODO DE                               ENTIDAD‌
+   N°‌        ACCIÓN                                         CLASIFICACIÓN‌   PLAZO
+                                PRODUCTO‌        MEDICIÓN‌                            RESPONSABLE‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                       Página 28 / 36‌
+                              INDICADOR DE‌     MÉTODO DE                               ENTIDAD‌
+   N°‌        ACCIÓN                                         CLASIFICACIÓN‌   PLAZO
+                                PRODUCTO‌        MEDICIÓN‌                            RESPONSABLE‌
+
+
+ CON EL FIN DE MEJORAR LA CIBER RESILIENCIA NACIONAL:‌
+                              INDICADOR DE‌     MÉTODO DE                               ENTIDAD‌
+   N°‌        ACCIÓN                                         CLASIFICACIÓN‌   PLAZO
+                                PRODUCTO‌        MEDICIÓN‌                            RESPONSABLE‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                       Página 29 / 36‌
+                              INDICADOR DE‌     MÉTODO DE                               ENTIDAD‌
+   N°‌        ACCIÓN                                         CLASIFICACIÓN‌   PLAZO
+                                PRODUCTO‌        MEDICIÓN‌                            RESPONSABLE‌
+
+
+ CON EL FIN DE DESARROLLAR LA FUERZA LABORAL DE SEGURIDAD
+ DIGITAL:‌
+                              INDICADOR DE‌     MÉTODO DE                               ENTIDAD‌
+   N°‌       ACCIÓN                                          CLASIFICACIÓN‌   PLAZO
+                                PRODUCTO‌        MEDICIÓN‌                            RESPONSABLE‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                        Página 30 / 36‌
+                              INDICADOR DE‌     MÉTODO DE                               ENTIDAD‌
+   N°‌        ACCIÓN                                         CLASIFICACIÓN‌   PLAZO
+                                PRODUCTO‌        MEDICIÓN‌                            RESPONSABLE‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                        Página 31 / 36‌
+CON EL FIN DE ADAPTAR Y ADECUAR EL MARCO NORMATIVO CIBERNÉTICO:‌
+                              INDICADOR DE‌     MÉTODO DE                               ENTIDAD‌
+   N°‌        ACCIÓN                                         CLASIFICACIÓN‌   PLAZO
+                                PRODUCTO‌        MEDICIÓN‌                            RESPONSABLE‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌   ‌                                       Página 32 / 36‌
+8. GLOSARIO‌
+            CERT:‌          (Computer            Emergency                 CSIRT:‌       (Computer             Security
+   01       Response Team) Equipo de Respuesta
+                                                                      05   lncident & Response Team) Equipo
+            a Emergencias cibernéticas, por su                             de    Respuesta      a   Incidentes         de
+            sigla en inglés. Es el equipo que                              Seguridad Cibernética, por su sigla
+            dispone de la capacidad centralizada                           en inglés. Es el equipo que provee
+            para la coordinación de gestión de                             las capacidades de gestión de
+            incidentes de seguridad digital.‌                              incidentes               a                 una
+                                                                           organización/sector          en    especial.
+            Ciberespacio:‌ Red interdependiente
+   02       de infraestructuras de tecnología de la
+                                                                           Esta capacidad permitir minimizar
+                                                                           y controlar el daño resultante de
+            información       que      incluye         Internet,
+                                                                           incidentes,         proveyendo              la
+            redes de telecomunicaciones, sistemas
+                                                                           respuesta,          contención               y
+            informáticos,           procesadores                  y
+                                                                           recuperación efectiva, así como
+            controladores integrados en industrias.‌
+                                                                           trabajar en pro de prevenir la
+            Ciberseguridad:‌ Es el conjunto de
+  03        herramientas, políticas, conceptos de
+                                                                           ocurrencia de futuros incidentes.‌
+
+                                                                           CSIRT sectorial: ‌Son los equipos
+            seguridad, salvaguarda de seguridad,                      06   de respuesta a incidentes de cada
+            directrices, métodos de gestión de
+                                                                           uno    de     los   sectores,       para    el
+            riesgos, acciones, formación, prácticas
+                                                                           adecuado        desarrollo         de      sus
+            idóneas, seguros y tecnologías que
+                                                                           actividades económicas y sociales,
+            pueden utilizarse para proteger los
+                                                                           a partir del uso de las tecnologías
+            activos    de    la   organización          y       los
+                                                                           de     la     información            y     las
+            usuarios en el ciberespacio.‌
+                                                                           comunicaciones.‌
+            Ciberdefensa: ‌Capacidad del Estado
+  04        para prevenir y contrarrestar toda                        07
+                                                                           CSIRT sectorial crítico: ‌Son los
+                                                                           equipos de respuesta a incidentes
+            amenaza o incidente de naturaleza
+                                                                           sectoriales de cada uno de los
+            cibernética que afecte la sociedad, la
+                                                                           sectores       identificados             como
+            soberanía nacional, la independencia,
+                                                                           críticos.‌
+            la   integridad       territorial,    el     orden
+            constitucional         y     los       intereses               Gobernanza          de   la       seguridad
+            nacionales. Implica el empleo de las                      08   digital         para              Colombia:
+            capacidades militares ante amenazas                            Corresponde         al   conjunto           de
+            cibernéticas, ataques cibernéticos o                           interacciones y enfoques entre las
+            ante    actos     hostiles    de     naturaleza                múltiples partes interesadas para
+            cibernética.‌                                                  identificar, enmarcar, proponer, y‌‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌               ‌                                                Página 33 / 36‌
+            reactivas a posibles amenazas a la                              país, con el fin de fortalecer las
+            confidencialidad,              integridad              o        capacidades para la gestión de
+            disponibilidad           de      los     servicios              riesgos e incidentes de seguridad
+            tecnológicos, sistemas de información,                          digital    y   para              la   respuesta
+            infraestructura tecnológica, redes e                            proactiva y reactiva a posibles
+            información            que      en      conjunto                amenazas a la confidencialidad,
+            constituyen el entorno digital.‌                                integridad o disponibilidad de los
+                                                                            servicios tecnológicos, sistemas de
+            Incidente        de      seguridad        digital:
+  09        Ocurrencia de una situación que pone
+                                                                            información,                 infraestructura
+                                                                            tecnológica        y        las       redes       e
+            en     peligro          la     confidencialidad,
+                                                                            información     que,             en    conjunto,
+            integridad o disponibilidad de un
+                                                                            constituyen el entorno digital en el
+            sistema        de       información          o        la
+                                                                            país.‌
+            información que el sistema procesa,
+            almacena           o    transmite;       o           que        Múltiples      partes             interesadas:
+            constituye una violación a las políticas                   13   Corresponde            al        conjunto        de
+            de    seguridad,         procedimientos               de        actores que dependen del entorno
+            seguridad o políticas de uso aceptable.‌                        digital para todas o algunas de sus
+                                                                            actividades, económicas y sociales.
+           Infraestructura crítica cibernética:
+  10       Sistemas y activos, físicos o virtuales,
+                                                                            Comprende a las autoridades, las
+                                                                            organizaciones               privadas,           los
+           soportados        por     Tecnologías         de       la
+                                                                            operadores o propietarios de las
+           Información y las Comunicaciones,
+                                                                            infraestructuras                           críticas
+           cuya afectación significativa tendría
+                                                                            cibernéticas           nacionales,               los
+           un impacto grave en el bienestar
+                                                                            prestadores                 de          servicios
+           social o económico de los ciudadanos,
+                                                                            esenciales,    la       academia             y    la
+           o en el funcionamiento efectivo del
+                                                                            sociedad civil.‌
+           gobierno o la economía.‌
+                                                                            Riesgo de seguridad digital: ‌Es
+
+   11
+           Modelo           de           Gobernanza              de    14   la combinación de amenazas y/o
+           Seguridad digital: ‌Es el esquema de
+                                                                            vulnerabilidades que se pueden
+           trabajo compuesto por un conjunto de
+                                                                            materializar       en        el       curso      de
+           políticas      de       operación,      principios,
+                                                                            cualquier actividad en el entorno
+           normas,        reglas,    procedimientos              de
+                                                                            digital y que puede afectar el logro
+           toma      de     decisiones       y     programas
+                                                                            de los objetivos económicos o
+           compartidos por las múltiples partes
+                                                                            sociales        al               alterar          la
+           interesadas de la seguridad digital del‌‌
+                                                                            confidencialidad,             integridad          y
+                                                                            disponibilidad.‌
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌                ‌                                                     Página 34 / 36‌
+     Seguridad          de          la      información:‌
+15   Preservación          de        la      autenticidad,
+     confidencialidad,                   integridad,           y
+     disponibilidad de la información, en
+     cualquier medio de almacenamiento:
+     impreso o digital, y la aplicación de
+     procesos de resiliencia operativa.‌
+
+     Seguridad digital: ‌Es la situación de
+16   normalidad y de tranquilidad en el
+     entorno        digital,     a        través         de    la
+     apropiación           de       políticas,       buenas
+     prácticas, y mediante: (i) la gestión del
+     riesgo de seguridad digital; (ii) la
+     implementación efectiva de medidas
+     de ciberseguridad; y (iii) el uso efectivo
+     de las capacidades; que demanda la
+     voluntad       social      y        política    de       las
+     múltiples partes interesadas.‌
+
+     Servicio esencial: ‌En el marco de la
+17   gestión de riesgos de la seguridad
+     digital es aquel servicio necesario para
+     el mantenimiento de las actividades
+     sociales y económicas del país, que
+     dependen del uso de tecnologías de la
+     información y las comunicaciones, y
+     un incidente en su infraestructura o
+     servicio   podría          generar         un        daño
+     significativo que afecte la prestación
+     de dicho servicio y la consecuente
+     parálisis de las actividades.‌
+
+     Vulnerabilidad                 de          seguridad
+18   digital: ‌Debilidad, atributo o falta de
+     aplicación de un control que permite
+     o   facilita     la     actuación              de    una
+     amenaza           contra             los       servicios
+     tecnológicos,                  sistemas                  de
+     información,                         infraestructura
+     tecnológica y las redes e información
+     de la organización.‌
+                                                                    Page 3 / 28‌
+                                                                    Página 35 / 36‌
+9.‌ ‌B IBLIOGRAFIA‌
+
+
+ITU. (2023b). Global Cybersecurity Index (GCI) 4th Edition. Obtenido de https://www.itu.int/en/ITU-
+D/Cybersecurity/Pages/global-cybersecurity-index.aspx‌
+
+ITU. (2024). Global Cybersecurity Index 2024 5th Edition. Obtenido de https://www.itu.int/en/ITU-
+D/Cybersecurity/Documents/GCIv5/2401416_1b_Global-Cybersecurity-Index-E.pdf‌
+
+OEA & BID. (2016). Ciberseguridad: ¿Estamos preparados en América Latina y el Caribe? Obtenido
+de https://publications.iadb.org/publications/spanish/document/Ciberseguridad-%C2%BFEstamos-
+preparados-en-Am%C3%A9rica-Latina-y-el-Caribe.pdf‌
+
+OEA & BID. (2020). Ciberseguridad 2020: riesgos, avances y el camino a seguir en América Latina y
+el Caribe. Obtenido de https://publications.iadb.org/publications/spanish/document/Reporte-
+Ciberseguridad-2020-riesgos-avances-y-el-camino-a-seguir-en-America-Latina-y-el-Caribe.pdf‌
+
+
+  Se espera que estas recomendaciones fortalezcan el
+  trabajo realizado hasta la fecha por Presidencia de
+  la República para la formulación de la Estrategia
+  Nacional de Seguridad Digital de Colombia 2025-
+  2027. Esperamos que se adelante una consulta
+  pública con el fin de aumentar la confianza digital
+  de múltiples actores del país y fortalecer las
+  capacidades nacionales en materia de seguridad
+  digital.‌
+
+  La Sección de Ciberseguridad de la OEA/CICTE
+  felicita nuevamente a la República de Colombia por
+  su trabajo y expresamos nuestra disposición a
+  seguir colaborando tanto en la formulación de este
+  documento estratégico como en la formulación e
+  implementación del plan de acción.‌
+
+
+Estrategia Nacional‌ ‌
+de Segu‌r idad Digital de Colombia 2025-2027‌    ‌                                       Página 36 / 36‌

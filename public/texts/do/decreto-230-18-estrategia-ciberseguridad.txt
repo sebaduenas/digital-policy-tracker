@@ -1,0 +1,833 @@
+festdente de le Tipiibleea Yominteana
+
+NUMERO: 230-18
+
+CONSIDERANDO: Que el articulo 7 de la Constitucién establece que la Reptiblica
+Dominicana es un Estado Social y Democratico de Derecho, organizado en forma de
+Republica unitaria, fundado en el respeto de la dignidad humana, los derechos
+fundamentales, el trabajo, la soberania popular y la separacién e independencia de los
+poderes publicos.
+
+CONSIDERANDO: Que el articulo 8 de la Constitucién de la Republica establece que es
+funcién esencial del Estado la proteccién efectiva de los derechos de la persona, el respeto
+de su dignidad y la obtencidn de los medios que le permitan perfeccionarse de forma
+igualitaria, equitativa y progresiva, dentro de un marco de libertad individual y de justicia
+social, compatibles con el orden ptblico, el bienestar general y los derechos de todos y
+todas.
+
+CONSIDERANDO: Que el derecho a Ja intimidad esta consagrado como un derecho
+fundamental en nuestra Constitucion, garantizandose el respeto y la no injerencia en la vida
+privada, familiar, el domicilio y la correspondencia de] individuo, sus documentos o
+mensajes privados en formatos fisico, digital, electrénico o de todo otro tipo, asi como la
+inviolabilidad del secreto de la comunicacién telegrafica, telefénica, cablegrafica,
+electrénica, telematica o a establecida en otro medio, salvo cuando sea mediante
+autorizaciones otorgadas por un juez o autoridad competente, de conformidad con la ley.
+
+CONSIDERANDO: Que los derechos fundamentales vinculan a todos los poderes
+publicos, los cuales deben garantizar su efectividad, de conformidad con la Constitucién y
+las leyes.
+
+CONSIDERANDO: Que la integracion de las telecomunicaciones y las tecnologias de la
+informacion y la comunicacién (TIC) en nuestras actividades econdmicas y sociales ha
+creado una creciente dependencia de estas en el Ambito mundial, pues se han convertido en
+esenciales para el desarrollo econdémico, cohesion social y seguridad nacional.
+
+CONSIDERANDO: Que la alta incidencia de las telecomunicaciones y las tecnologias de
+la informacion y la comunicacién (TIC) en el desarrollo de las actividades econdmicas,
+sociales y gubernamentales, hace imprescindible la adopcién de medidas que garanticen la
+proteccién de los activos crilicos de informacion del Estado y la seguridad de la
+informacion por parte de las instituciones pblicas y privadas y demas sectores que han
+incorporado el uso de estas tecnologias.
+
+CONSIDERANDO: Que conscientes de la necesidad de implementar instrumentos
+indispensables para responder a las nuevas amenazas que afectan a las naciones y sus
+ciudadanos, los Estados integrados en los principales organismos internacionales han
+acordado la realizacién de esfuerzos mancomunados para la adopcién de estrategias
+
+
+Kt if
+catderle Ce la. Ticpillica Yomintcand
+
+integrales sobre ciberseguridad que tengan impacto nacional, regional y mundial para
+prevenir eficazmente el riesgo ante cualquier ataque cibernético y poder responder a estos
+en caso de que se presenten.
+
+CONSIDERANDO: Que el Estado dominicano en el proceso de desarrollo y crecimiento
+de las politicas y estrategias integrales que propician el uso extensivo e incluyente de las
+tecnologias de la informacién y la comunicacién (TIC) ha entendido la necesidad de
+establecer mecanismos eficientes que respondan a las nuevas y graves amenazas que
+surgen a través de estas.
+
+CONSIDERANDO: Que el articulo 260 de la Constitucién de la Reptblica establece
+como objetivos de alta prioridad nacional: combatir actividades criminales transnacionales
+que pongan en peligro los intereses de la Reptiblica y de sus habitantes; y organizar y
+sostener sistemas eficaces que prevengan o mitiguen dafios ocasionados por desastres
+naturales y tecnoldgicos.
+
+CONSIDERANDO: Que en el articulo 16 de la Ley nim. 1-12, del 25 d enero de 2015,
+que establece la Estrategia Nacional de Desarrollo 2030 , relativo al uso de las tecnologias
+de la informacién y la comunicacién (TIC) se establece que en el disefio y ejecucién de los
+programas, proyectos y actividades en que se concretan las politicas ptiblicas, se debera
+promover el uso de las tecnologias de la informacién y comunicacién como instrumento
+para mejorar la gestién ptiblica y fomentar una cultura de transparencia y acceso a la
+informacién, mediante la eficientizacién de los procesos de provision de servicios ptiblicos
+y la facilitacién del acceso a los mismos.
+
+CONSIDERANDO: Que el Programa Reptiblica Digital, creado mediante Decreto nim.
+258-16, del 16 de septiembre de 2016, y concebido como el conjunto de politicas y
+acciones que promueven la inclusion de las tecnologias de informacién y comunicacién en
+los procesos productivos, educativos, gubernamentales y a los servicios ciudadanos, tiene
+como eje transversal la ciberseguridad para el desarrollo de un Estado digital.
+
+CONSIDERANDO: Que la responsabilidad de crear un entorno seguro y fiable en el
+ciberespacio corresponde al Estado, eje transversal del esquema de seguridad y defensa
+nacional preestablecido.
+
+CONSIDERANDO: Que la ciberseguridad constituye la garantia para que los Estados
+salvaguarden sus infraestructuras criticas y el derecho de sus habitantes de utilizar las
+tecnologias de la informacion y la comunicacién (TIC) de manera segura y confiable,
+basandose en la coleccién de herramientas, dispositivos, regulaciones y mejores practicas
+para proteger el ciberespacio y los activos de los usuarios y organizaciones.
+
+CONSIDERANDO: Que el Instituto Dominicano de las Telecomunicaciones
+(INDOTEL), en su calidad de érgano regulador de las telecomunicaciones y como
+integrante de la Comisién Interinstitucional contra Crimenes y Delitos de Alta Tecnologia
+
+
+Presidente de lee Tipuillioe Yosmirteane
+
+(CICDAT), ha asumido un rol activo en el desarrollo de un marco comiin de politicas y
+lineamientos en materia de ciberseguridad para el pafs, a fin de garantizar la proteccién
+adecuada de la informacién, en el marco de su deber de asegurar el principio de servicio
+universal, objetivo de interés publico y social establecido en la Ley nim. 153-98, del 27 de
+mayo de 1998, General de Telecomunicaciones.
+
+CONSIDERANDO: Que en el marco de la modernizacién de la gestién del Estado, el
+Instituto Dominicano de Jas Telecomunicaciones (INDOTEL) ha propuesto la adopcién de
+una Estrategia Nacional de Ciberseguridad y la creacién de un Equipo de Respuestas a
+Incidentes Cibernéticos de la Repiblica Dominicana (CSIRT-RD), en consonancia con la
+tendencia internacional, lo que permitira establecer las directrices a ser adoptadas para que
+nuestro pais se encuentre en condiciones de detectar, mitigar y, en general, gestionar
+incidentes generados en los sistemas de informacién del Estado y en todas las
+infraestructuras criticas nacionales.
+
+CONSIDERANDO: Que la Estrategia Nacional de Ciberseguridad 2018-2021 debe
+contemplar la creacién de un érgano responsable de coordinar las acciones relacionadas
+con la ciberseguridad en ef Ambito nacional.
+
+CONSIDERANDO: Que Ja Comisién Interamericana de Telecomunicaciones (CITEL), el
+Comité Interamericano contra el Terrorismo (CICTE) y la Reunién de Ministros de Justicia
+o Procuradores Generales de las Américas (REMJA) elaboraron una estrategia hemisférica
+para la seguridad cibernética en la regién, conforme a lo dispuesto por la Resolucién
+AG/RES. 2004 (XXXIV-0/04) de la Asamblea General de la Organizacién de Estados
+Americanos (OEA), del 8 de junio de 2004.
+
+CONSIDERANDO: Que, mediante la Resolucién ntim. 158-12, del 11 de junio de 2012,
+del Congreso Nacional, el Estado dominicano ratificéS el Convenio sobre la
+Cibercriminalidad, suscrito en Budapest el 23 de noviembre de 2001, cuyo objetivo es la
+prevencién de los actos que pongan en peligro la confidencialidad, integridad y
+disponibilidad de los sistemas, redes y datos informaticos, asi como el abuso de estos, y el
+establecimiento de esferzos comunes para la luchar contra tales delitos y proveer a las
+autoridades competentes de las herramientas para investigarlos y perseguirlos penalmente.
+
+CONSIDERANDO: Que la Estrategia Nacional de Ciberseguridad 2018-2021debe
+establecer las lineas de accién a ser implementadas para mitigar el riesgo y minimizar e]
+impacto de las amenazas cibernéticas en los sistemas de informacién y proteger las
+infraestructuras criticas para que la poblacién utilice de manera confiada los servicios que
+se ofrecen a través de las tecnologias de la informacion y la comunicacion (TIC).
+
+CONSIDERANDO:; Que en el marco de la Estrategia Nacional de Ciberseguridad 2018-
+2021 resulta de alto interés el establecimiento de un Equipo de Respuestas a Incidentes
+Cibernéticos de la Republica Dominicana (CSIRT-RD) para prevenir, mitigar y responder
+a los incidentes cibernéticos.
+
+
+VISTA: La Constitucién de la Reptiblica, proclamada el 13 junio de 2015.
+
+VISTO: El Convenio sobre la Cibercriminalidad, suscrito en Budapest el 23 de noviembre
+de 2001, ratificado por el Congreso Nacional, mediante Resolucién nim. 158-12, del 11 de
+junio de 2012.
+
+VISTA: La Ley ntim. 153-98, del 27 de mayo de 1998, General de las
+Telecomunicaciones.
+
+VISTA: La Ley ntim, 200-04, del 28 de julio de 2004, General de Libre Acceso a la
+Informacién Publica
+
+VISTA: La Ley nim, 53-07, del 23 de abril de 2007, sobre Crimenes y Delitos de Alta
+Tecnologia.
+
+VISTA: La Ley nim. 41-08, del 16 de enero de 2008, de Funcién Publica.
+
+VISTA: La Ley nim. I-12, del 25 d enero de 2015, que establece la Estrategia Nacional
+de Desarrollo 2030.
+
+VISTA: La Ley niim. 247-12, del 9 de agosto de 2012, Organica de la Administracién
+Publica.
+
+VISTO: El Decreto ntim. 134-14, del 9 de abril de 2014, que establece el Reglamento de
+Aplicacién de la Ley Organica nim. 1-12.
+
+VISTO: El Decreto nim. 258-16, del 16 de septiembre de 2016, que crea el Programa
+Reptiblica Digital, para promover la inclusién de las tecnologias de informacion y
+comunicacién en los procesos productivos, educativos, gubernamentales y de servicios a
+los ciudadanos y crea e integra la Comision Presidencial de Reptiblica Digital.
+
+VISTA: La Resolucién AG/RES.2004 (XXXIV-0/04), del 8 de junio de 2004, de la
+Asamblea General de la Organizacion de Estados Americanos (OEA) para la Adopcién de
+una Estrategia Interamericana Integral para Combatir las Amenazas a la Seguridad
+Cibernética,
+
+VISTA: La Declaracién de Santo Domingo AG/DEC. 46 (XXXVI-0/06), del 6 de junio
+de 2006, sobre Gobernabilidad y Desarrollo en la Sociedad del Conocimiento, de la
+Organizacion de los Estados Americanos (OEA).
+
+
+seit:
+
+y y
+siderite de le . Tipuilliea Lesinicana
+
+VISTO: El] Acuerdo de Cooperacién en materia de Seguridad Cibernética entre el Instituto
+Dominicano de las Telecomunicaciones (INDOTEL) y la Secretaria General de la
+Organizacién de Estados Americanos (SG/OEA), firmado el 20 de noviembre de 2015.
+
+En ejercicio de las atribuciones que me confiere el articulo 128 de la Constitucién de la
+Republica dicto el siguiente:
+
+DECRETO:
+
+Articulo 1. Objeto del decreto. El objeto de este decreto es establecer y regular la
+Estrategia Nacional de Ciberseguridad 2018-2021.
+
+Articulo 2. Misién de la Estrategia Nacional de Ciberseguridad 2018-2021. La
+Estrategia Nacional de Ciberseguridad 2018-2021 tiene como misi6n establecer los
+mecanismos de ciberseguridad adecuados para la proteccién del Estado, sus habitantes y,
+en general, del desarrollo y la seguridad nacional.
+
+Articulo 3. Vision de la Estrategia Nacional de Ciberseguridad 2018-2021. Para el afio
+2021 Ja Reptiblica Dominicana cuenta con un ciberespacio mas seguro, en el que estan
+implementadas las medidas necesarias para el desarrollo confiable de las actividades
+productivas y Itidicas de toda la poblacion, de conformidad con la Constitucién y demas
+leyes del ordenamiento juridico dominicano.
+
+Articulo 4. Pilares de la Estrategia Nacional de Ciberseguridad 2018-2021. El marco
+de accion de la Estrategia Nacional de Ciberseguridad 2018-2021 se desarrollara
+contemplando cuatro (4) pilares estratégicos:
+
+1. Marco Legal y Fortalecimiento Institucional.
+
+2. Proteccidén de Infraestructuras Criticas Nacionales e Infraestructuras TI del Estado.
+
+3. Educacién y Cultura Nacional de Ciberseguridad.
+
+4. Alianzas Nacionales e Internacionales.
+
+Articulo 5. Pilar 1: Marco Legal y Fortalecimiento Institucional. El objetivo general de
+este pilar es fortalecer el marco legal que incide en los temas relacionados con la
+ciberseguridad y las capacidades de las unidades especializadas y competentes para
+prevenir, investigar y decidir sobre crimenes y delitos de alta tecnologia. De este se derivan
+
+los siguientes objetivos especificos y lineas de accién:
+
+Objetivo especffico 1: Fortalecer el marco juridico que facilite un ciberespacio seguro en la
+Reptiblica Dominicana.
+
+
+Danite Medina
+
+Bese level de la Tepuillea G at
+
+Vospetovtcase
+
+Linea de accién 1.1: Establecer y ejecutar un plan de actualizacién y reforma detallada del
+marco juridico vigente e identificar las oportunidades de mejora, para recomendar y aplicar
+las modificaciones correspondientes.
+
+Linea de accién 1.2: Establecer y ejecutar un plan de actualizacién y reformas periédicas
+del marco regulatorio, tomando en consideracién la naturaleza cambiante de la materia.
+
+Objetivo especifico 2: Fortalecer la capacidad de los érganos de investigacién de crimenes
+y delitos de alta tecnologia del Estado para recolectar y procesar adecuadamente la
+evidencia electronica,
+
+Linea de accion 2.1: Realizar una evaluacién de las capacidades de los organos de
+investigacién para determinar el nivel de capacidad que existe en el Distrito Nacional y
+cada una de las provincias del pafs.
+
+Linea de accién 2.2: Incluir en el plan de estudios de las escuelas de los érganos de
+investigacidn, la recopilacién de la evidencia electronica y cursos de desarrollo profesional
+continuo para la investigacién, procesamiento y conservacién de evidencias electrénicas.
+
+Linea de accion 2.3: Fortalecer la relacién del servicio de la Policia Nacional con el
+publico para fomentar la colaboracién ciudadana y la confianza para la notificacién sobre
+delitos cibernéticos e incidentes de impacto nacional.
+
+Linea de accién 2.4: Desarrollar las normas y directrices para el procesamiento de las
+escenas de hechos 0 sucesos que puedan contener potencial evidencia electrénica, su
+manipulacién, cadena de custodia, procesamiento y conservacién para su posterior
+presentacién en los tribunales, de conformidad con los principios del debido proceso
+establecidos en el articulo 69 de la Constitucién de la Reptiblica.
+
+Objetivo especifico 3: Aumentar y fortalecer la capacidad del Ministerio Ptiblico y sus
+organismos auxiliares para perseguir, y del Poder Judicial para decidir, sobre delitos
+cibernéticos de manera adecuada y justa.
+
+Linea de accion 3.1: Desarrollar una formacién especifica tanto para el Ministerio Piblico
+y sus organismos auxiliares como para el Poder Judicial sobre delitos cibernéticos y
+evidencia digital con el objetivo de mejorar sus conocimientos y promover la aplicacién
+coherente de Ia ley.
+
+Articulo 6. Pilar 2: Proteccién de Infraestructuras Criticas Nacionales e
+Infraestructuras TI del Estado. El objetivo general de este pilar es asegurar el continuo
+funcionamiento y la proteccién de la informacion almacenada en las infraestructuras
+criticas nacionales e infraestructuras TI relevantes del Estado. De este se derivan los
+siguientes objetivos especificos y lineas de accion:
+
+
+QDunik. Medina
+
+Objetivo especifico 1: Identificar las infraestructuras criticas nacionales y las
+infraestructuras T] relevantes del Estado y efectuar un andlisis de riesgo.
+
+Linea de accién 1.1: Establecer los criterios que determinan el grado de criticidad de una
+infraestructura, basado en los estandares internacionales en la materia.
+
+Linea de accién 1.2: Catalogar las infraestructuras criticas nacionales e infraestructuras TI
+relevantes del Estado de acuerdo a los criterios que determinan su grado de criticidad,
+incluyendo los servicios colaterales que las soportan.
+
+Linea de accién 1.3: Efectuar analisis de riesgo sobre las infraestructuras criticas
+nacionales e infraestructuras TI relevantes del Estado y determinar su nivel de
+vulnerabilidad.
+
+Objetivo especifico 2: Elaborar e implementar un plan de robustecimiento de la seguridad
+de las infraestructuras criticas nacionales e infraestructuras TI relevantes del Estado, asi
+como de los servicios colaterales que las soportan, frente a las amenazas cibernéticas.
+
+Linea de accién 2.1: Considerar las mejores practicas en la gestion de la ciberseguridad.
+
+Linea de accién 2.2: Analizar, mejorar e implementar las normas emitidas por los entes
+reguladores correspondientes.
+
+Linea de acci6n 2.3: Establecer e implementar esquemas de gobernabilidad que permitan la
+supervision y evaluacién periddicas de las infraestructuras criticas nacionales e
+infraestructuras TI relevantes del Estado.
+
+Objetivo especifico 3: Mejorar la coordinacion intersectorial e interinstitucional para la
+proteccién de los sistemas de informacion y las infraestructuras criticas nacionales e
+infraestructuras TI relevantes del Estado y el sector privado.
+
+Linea de accién 3.1: Establecer un Equipo de Respuestas a Incidentes Cibernéticos de la
+Reptiblica Dominicana (CSIRT-RD).
+
+Linea de acciédn 3.2: Promover la creacién de Equipos Sectoriales de Respuestas a
+Incidentes Cibernéticos en fos sectores que asi lo requieran para gestionar los riesgos de
+ciberseguridad y reportar oportunamente sus operaciones y hallazgos al Equipo de
+Respuestas a Incidentes Cibernéticos de la Reptiblica Dominicana (CSIRT-RD)..
+
+Linea de accién 3.3: Definir el protocolo para el intercambio de informacién y
+comunicacién entre los Equipos Sectoriales de Respuestas a Incidentes Cibernéticos y el
+Equipo de Respuestas a Incidentes Cibernéticos de la Reptiblica Dominicana (CSIRT-RD).
+
+
+Linea de accién 3.4: Establecer y hacer cumplir requisitos minimos de seguridad, listeza
+forense y planes de recuperacién de las infraestructuras criticas nacionales e
+infraestructuras TI relevantes del Estado.
+
+Objetivo especifico 4: Elaborar un plan de respuesta ante incidentes cibernéticos en las
+infraestructuras criticas nacionales e infraestructuras TI relevantes del Estado y el sector
+privado.
+
+Linea de accién 4.1: Identificar los organismos principales en el area de respuesta a
+incidentes que puedan proporcionar apoyo critico a las infraestructuras criticas nacionales
+e infraestructuras TI del Estado y el sector privado, en base al Plan Nacional de Respuesta
+a Incidentes de Ciberseguridad.
+
+Linea de accién 4.2: Definir el protocolo de activacién y accién de los organismos de
+respuesta frente a incidentes de ciberseguridad.
+
+Linea de accion 4.3: Coordinar y monitorear las actividades de recuperacion de incidentes
+hasta asegurar el estado normal de operacion.
+
+Lineas de accion 4.4: Crear un plan de ejercicios periddicos de simulacion de incidentes y
+practicas ante incidentes cibernéticos en las infraestructuras criticas nacionales e
+infraestructuras TI relevantes del Estado y el sector privado.
+
+Articulo 7. Pilar 3: Educacién y Cultura Nacional de Ciberseguridad. EI objetivo
+general de este pilar es fomentar la inclusién de la formacién en ciberseguridad en todos
+los niveles del sistema educativo e impulsar una cultura nacional de ciberseguridad. De
+este se derivan los siguientes objetivos especificos y lineas de accién:
+
+Objetivo especifico 1: Incorporar el manejo de fos conceptos fundamentales de la
+seguridad de la informacién en las escuelas ptiblicas y privadas.
+
+Linea de accién 1.1: Incluir planes de capacitacién en materia de ciberseguridad al
+personal docente de nivel basico y secundario, con énfasis en la equidad de género.
+
+Linea de accién 1.2: Adecuar los planes de estudio de educacién basica y secundaria para
+incluir la ciberseguridad y el cibercivismo, con énfasis en la equidad de género.
+
+Objetivo especifico 2: Aumentar la disponibilidad de programas educativos de grado y
+postgrado en seguridad de la informacion.
+
+Linea de accién 2.1: Extender los planes de capacitacién en materia de ciberseguridad al
+personal docente universitario de grado y postgrado, con énfasis en la equidad de género.
+
+
+Dunit Medina
+
+Pesta lexele che lee Tipuibliea Vominicani
+
+Linea de acci6n 2.2: Fortalecer en materia de ciberseguridad los pénsum de las carreras
+tecnoldgicas y de derecho, entre otras, de las universidades ptiblicas y privadas.
+
+Linea de accién 2.3: Crear un marco de coordinacién para implementar programas
+avanzados de investigaci6n en ciberseguridad, en cooperacién con _ instituciones
+acadéinicas.
+
+Linea de accién 2.4: Desarrollar programas de formacidn, desarrollo y captacién de
+talentos en materia de ciberseguridad.
+
+Objetivo especifico 3: Mejorar las capacidades técnicas y procesales de ciberseguridad en
+las entidades del Gobierno y del sector privado que operan infraestructuras criticas
+nacionales e infraestructuras TI.
+
+Linea de accion 3.1: Establecer programas de formaci6n continua de los recursos humanos
+en la prevencién, proteccién y respuesta de las amenazas cibernéticas.
+
+Linea de accién 3.2: Establecer un sistema de certificacién emitida por parte de una
+institucion acreditada para el personal de ciberseguridad.
+
+Objetivo especifico 4: Sensibilizar a la sociedad civil y politica en los temas de
+ciberseguridad y el uso responsable de las tecnologias de Ja informacién.
+
+Linea de accién 4.1: Realizar campafias de educacion sobre los aspectos de ciberseguridad.
+
+Linea de accién 4.2: Crear un plan nacional para la proteccién en linea de los nifios, nifias
+y adolescentes.
+
+Linea de accién 4.3: Desarrollar programas de incentivos para las organizaciones del sector
+o
+privado que colaboren con el Gobierno en las campaiias de sensibilizacién
+
+Linea de accion 4.4: Llevar a cabo una encuesta nacional para determinar el nivel de
+conocimiento sobre la materia del sector piblico, en sentido general, y sectores
+especificos.
+
+Articulo 8. Pilar 4: Alianzas Nacionales e Internacionales. El objetivo general de este
+pilar es establecer alianzas nacionales e internacionales entre los sectores ptiblico y
+privado, asi como con la sociedad civil y organismos e¢ instituciones internacionales. De
+este se derivan los siguientes objetivos especificos y lineas de accion:
+
+Objetivo especifico 1: Fomentar mecanismos de cooperacién nacional entre los sectores
+publico y privado, asi como con la sociedad civil.
+
+
+Yurnih Medora
+
+Sresidente de le Kepuibliocn Yesminicana
+
+Linea de accién 1.1: Establecer alianzas para la creacién de una_plataforma que permita
+compartir informacién de incidentes, amenazas, mejores practicas, directrices, eventos e
+iniciativas de creacién de capacidad y resiliencia cibernética.
+
+Objetivo especifico 2: Fomentar la relacién con organismos e instituciones internacionales
+para facilitar la cooperacién transfronteriza y crear mds confianza en el area de respuesta a
+incidentes regionales y en la colaboracién y el intercambio de informacién internacional.
+
+Linea de accién 2.1: Fomentar los acuerdos bilaterales y multilaterales para cooperacién,
+intercambio de experiencias e informacién relacionada con la ciberseguridad y la lucha
+contra la ciberdelincuencia.
+
+Linea de accién 2.2: Asegurar la participacién de Reptiblica Dominicana en los foros
+internacionales sobre los avances de laciberseguridad y la lucha contra la
+ciberdelincuencia.
+
+Linea de accién 2.3: Identificar los paises con objetivos de investigacién y desarrollo
+similares a los del pais y fomentar el intercambio de informacién y conocimiento con
+estos.
+
+Articulo 9, Plan de Accién y Revisién. Dentro de los noventa (90) dias siguientes a la
+emisién de este decreto se establecera el Plan de Accién y Revision, en el que se definiran
+las actividades prioritarias, los plazos, el presupuesto y las instituciones responsables de la
+implementacién de cada una de las acciones. En este se identificaran y acordaran los
+indicadores claves para asegurar que la Estrategia Nacional de Ciberseguridad 2018-2021
+esté cumpliendo con sus metas y objetivos. También se definird el marco de evaluacién
+para fines de seguimiento y mejora continua.
+
+Parrafo. De esta forma, la Estrategia Nacional de Ciberseguridad 2018-2021 sera revisada
+a los dieciocho (18) meses de su implementacién para identificar lecciones aprendidas,
+suministrar recomendaciones en cuanto a si existe o no la necesidad de modificar los
+objetivos e identificar el grado de cumplimiento de los indicadores claves definidos en el
+marco de evaluacién. Las revisiones subsiguientes serdn definidas en el Plan Estratégico
+Institucional y Operativo Anual del Centro Nacional de Ciberseguridad.
+
+Articulo 10. Creacién del Centro Nacional de Ciberseguridad. Se crea el Centro
+Nacional de Ciberseguridad como dependencia del Ministerio de la Presidencia de la
+Republica Dominicana.
+
+Articulo 11. Objeto del Centro Nacional de Ciberseguridad. El Centro Nacional de
+Ciberseguridad tiene por objeto la elaboracién, desarrollo, actualizacién y evaluacion de la
+Estrategia Nacional de Ciberseguridad 2018-2021, la formulacion de politicas derivadas de
+dicha estrategia y la definicién de las iniciativas, programas y proyectos que Ileven a la
+realizacién exitosa de esta, asi como la prevencién, deteccién y gestién de incidentes
+
+
+ODPUPIUCEA
+
+generados en los sistemas de informacién relevantes del Estado e infraestructuras criticas
+nacionales.
+
+Articulo 12, Conformacién del Centro Nacional de Ciberseguridad. El Centro
+Nacional de Ciberseguridad estara integrado por un Consejo Directivo, su maxima
+autoridad, y por una Direccién Ejecutiva.
+
+Parrafo 1. El Consejo Directivo estara compuesto por las siguientes entidades:
+
+a) Ministerio de la Presidencia, el cual lo preside.
+
+b) Direccién Ejecutiva del Centro Nacional de Ciberseguridad, representada por su
+Director Ejecutivo, quien ostentaré la calidad de Secretario y miembro de pleno
+derecho del Consejo.
+
+c) Ministerio de Defensa.
+
+d) Ministerio de Interior y Policia.
+
+e) Procuraduria General de la Reptiblica.
+
+f) Policia Nacional.
+
+g) Departamento Nacional de Investigaciones (DNI).
+
+h) Instituto Dominicano de las Telecomunicaciones (INDOTEL).
+
+i) Oficina Presidencial de Tecnologias de la Informacién y Comunicacién (OPTIC).
+
+Parrafo II. El Consejo Directivo tendré Ia facultad, cuando el caso lo amerite, de requerir la
+participacién de otros representantes del Estado, tales como: el Ministerio de Relaciones
+Exteriores, la Direccién Nacional de Control de Drogas, la Administracién Monetaria y
+Financiera, la Academia, operadores de infraestructuras criticas, el sector privado, el Poder
+Legislativo, el Poder Judicial y la ciudadania en general.
+
+Parrafo II]. Ademas, el Centro Nacional de Ciberseguridad contara con dos equipos
+principales: un Equipo de Coordinacién de Estrategias de Ciberseguridad (ECEC) y un
+Equipo de Respuestas a Incidentes Cibernéticos de la Reptblica Dominicana (CSIRT-RD),
+el cual se auxiliaré de los Equipos Sectoriales de Respuestas a Incidentes.
+
+Articulo 13. Atribuciones del Centro Nacional de Ciberseguridad. El Centro Nacional
+de Ciberseguridad tendra las siguientes atribuciones:
+
+a) Articular, alinear e insertar en fos entes y rganos del Estado las distintas iniciativas en
+materia de ciberseguridad.
+
+b)  Prestar asesoria en la ejecucién de las iniciativas en materia de ciberseguridad.
+c) Celebrar contratos, acuerdos y convenios en materia de ciberseguridad.
+
+d) Recomendar la adhesion de la Reptiblica Dominicana a los acuerdos, convenios y
+tratados internacionales en materia de ciberseguridad.
+
+
+8)
+
+h)
+
+ky
+
+n)
+
+~ ye -
+
+Incentivar una cultura de resguardo, control y manejo adecuado de la informacion de
+los entes del Estado.
+
+Impulsar y promover, a nivel nacional, los aspectos juridicos, tecnoldgicos, de
+formacion y de gestidn de la ciberseguridad.
+
+Coadyuvar en el establecimiento de lineas de investigacién asociadas al area de
+ciberseguridad del Estado dominicano.
+
+Colaborar y proponer legislacién, normas y estrategias destinadas a incrementar los
+esfuerzos con la finalidad de aumentar los niveles de seguridad en los recursos y
+sistemas relacionados con las tecnologias de la informacion y la comunicaci6n.
+
+Liderar actividades de capacitacién, entrenamiento y sensibilizacién en la prevencién
+de incidentes cibernéticos y en el buen uso de las tecnologias de la informacién y
+comunicacion a las instituciones del Estado.
+
+Ser el punto de contacto entre el Estado Dominicano y otros organismos nacionales e
+internacionales de similar naturaleza.
+
+Apoyar a las fuerzas de orden y cuerpos de seguridad e investigacién para la
+prevencién e investigacién de crimenes y delitos que involucren tecnologias de la
+informacién y comunicacién en sistemas informaticos de los érganos y entes del
+Estado.
+
+Elaborar y difundir recomendaciones, buenas practicas y estandares en materia de
+proteccién de activos de informacién criticos.
+
+Emitir su opinién cuando le sea solicitada o cuando por la naturaleza del incidente de
+ciberseguridad estime pertinente.
+
+Cualquier otra funcién que les sea encomendada para garantizar la seguridad en los
+sistemas informaticos de las entidades del Estado.
+
+Articulo 14, Funciones del Consejo Directive del Centro Nacional de Ciberseguridad.
+El] Consejo Directivo del Centro Nacional de Ciberseguridad tendré las siguientes
+funciones:
+
+a)
+b)
+
+Coordinar el funcionamiento interinstitucional del Centro Nacional de Ciberseguridad.
+
+Aprobar el Plan Operativo Nacional del Centro Nacional de Ciberseguridad y sus
+actualizaciones, su presupuesto y los estados financieros.
+
+
+g)
+
+Dunit. Medhua
+
+resin larle de ta Tipuitlea Yominicana
+
+Aprobar el Plan de Accién y Revision de la Estrategia Nacional de Ciberseguridad
+2018-2021;
+
+Aprobar el Plan Estratégico Institucional de Ciberseguridad.
+
+Definir politicas, establecer directrices y elaborar propuestas de estrategias y planes
+para someterlas a la aprobacién del Poder Ejecutivo.
+
+Garantizar mecanismos eficaces de financiamiento para el Centro Nacional de
+Ciberseguridad.
+
+Garantizar la sostenibilidad y el buen funcionamiento del Centro Nacional de
+Ciberseguridad.
+
+Articulo 15. Funciones de la Direccién Ejecutiva del Centro Nacional de
+Ciberseguridad. La Direccién Ejecutiva del Centro Nacional de Ciberseguridad tendra las
+siguientes funciones:
+
+a)
+
+8)
+
+h)
+
+Disefiar las politicas y aprobar los estatutos, reglamentos y manuales organizativos y
+de funciones de Ia institucién.
+
+Administrar los recursos de la institucién acorde a la planificacion anual.
+Representar legalmente a la institucién.
+
+Fijar las remuneraciones del personal de la institucién, de conformidad con las leyes
+que regulan la materia.
+
+Elaborar el Plan de Accién y Revisién de la Estrategia Nacional de Ciberseguridad
+2018-2021;
+
+Disponer las medidas de seguridad necesarias y suficientes para proteger todas
+aquellas informaciones o datos que por sus caracterfsticas deban permanecer en
+condicién de confidencialidad, con el objeto de prevenir el uso indebido de estos.
+
+Presentar informes periddicos de las actividades realizadas y estadisticas recopiladas
+asi como aprobar y divulgar la memoria anual de la institucién.
+
+Convocar las sesiones del Consejo Directivo y determinar los asuntos a ser
+incorporados en la agenda.
+
+Ejecutar cualesquier otra funcién sefialada por otras normativas.
+
+
+elites
+
+Dunit. Meboun
+
+Articulo 16. Funciones del Equipo de Coordinacion de Estrategias de Ciberseguridad
+(ECEC). El Equipo de Coordinacién de Estrategias de Ciberseguridad (ECEC) tendra las
+siguientes funciones:
+
+a)
+
+b)
+
+d)
+
+g)
+
+D
+
+Definir politicas, establecer directrices y elaborar propuestas de estrategias y planes de
+accién para el desarrollo de la Estrategia Nacional de Ciberseguridad 2018-2021, a fin
+de que las entidades a las que correspondan su ejecucién puedan gestionar los
+proyectos conforme a tales directrices.
+
+Elaborar y mantener un catdlogo de las actividades que sobre ciberseguridad
+desarrollen los sectores involucrados.
+
+Coordinar con los sectores, en los 4mbitos de sus respectivas competencias, la
+implementacién y el cumplimiento de los objetivos y prioridades establecidos en la
+Estrategia Nacional de Ciberseguridad 2018-2021.
+
+Sensibilizar a los distintos sectores de la vida nacional sobre la importancia de la
+ciberseguridad como la herramienta fundamental para asegurar los servicios que
+oftecen a través de sus sistemas de informacién.
+
+Evaluar las ejecutorias en el marco de la Estrategia Nacional de Ciberseguridad 2018-
+2021 y reportar anualmente al Director Ejecutivo.
+
+Proponer al Gobierno, sin perjuicio de las competencias que correspondan a los
+diversos estamentos del Estado, las lineas generales de la posicién dominicana en los
+foros y organismos internacionales relacionados con la ciberseguridad,
+
+Apoyar, propiciar y liderar la creacién de redes de cooperacién entre los sectores
+publico, privado y académico para el impulso de la Estrategia Nacional de
+Ciberseguridad 2018-2021.
+
+Contribuir a la difusién y promocién para la creacién de una cultura nacional de
+ciberseguridad.
+
+Contribuir a la adopcién de una posicién pais unificada a través de la coordinacién e
+integracién de las iniciativas de los diferentes sectores de la sociedad vinculadas con la
+ciberseguridad.
+
+Cualquier otra funcién que les sea encomendada para garantizar la seguridad en los
+sistemas informaticos de las entidades del Estado.
+
+Articulo 17. Funciones de] Equipo de Respuestas a Incidentes Cibernéticos (CSIRT-
+RD). El Equipo de Respuestas a Incidentes Cibernéticos (CSIRT-RD) tendra los siguientes
+cometidos:
+
+
+8)
+
+h)
+
+JD
+
+m)
+
+Asistir en la respuesta a incidentes de seguridad cibernética a los organismos de su
+comunidad objetivo afectados.
+
+Coordinar con los responsables de la seguridad de Ja informacion de los organismos de
+su comunidad objetivo para la prevencién, deteccidn, manejo y recopilacién de
+informacion sobre incidentes cibernéticos.
+
+Asesorar y difundir informacion para incrementar los niveles de seguridad de las
+tecnologias de la informacién y la comunicacién (TIC), desarrollar herramientas,
+técnicas de proteccién y defensa de los organismos de su comunidad objetivo.
+
+Alertar ante amenazas y vulnerabilidades de seguridad en sistemas informaticos de los
+organismos de su comunidad objetivo.
+
+Realizar las tareas preventivas que correspondan para garantizar la seguridad en
+sistemas informaticos de los organismos de su comunidad objetivo,
+
+Coordinar planes de recuperacion de desastres.
+
+Realizar andlisis forenses de los incidentes de seguridad cibernética reportados que no
+constituyan crimen o delito.
+
+Centralizar los reportes y Ilevar un registro de toda la informacion sobre incidentes de
+seguridad cibernética ocurridos en sistemas informaticos de los organismos de su
+comunidad objetivo.
+
+Fomentar el desarrollo de capacidades y buenas practicas asi como la creacién de
+Equipos Sectoriales de Respuestas a Incidentes.
+
+Coordinar y asesorar los Equipos Sectoriales de Respuestas a Incidentes y entidades
+tanto del nivel ptiblico, como privado y de la sociedad civil para responder ante
+incidentes de seguridad cibernética.
+
+Establecer y mantener un vinculo fluido y una relacién colaborativa con otros
+organismos nacionales e internacionales de respuesta internacionales de similar
+naturaleza,
+
+Fomentar y coordinar la creacién de laboratorios orientados a la investigacién en
+temas de ciberseguridad.
+
+Cualquier otra funcién que les sea encomendada para garantizar la seguridad en los
+sistemas informaticos de las entidades del Estado.
+
+
+Dunit. Medora
+
+siderite de la Lepillea Dominican
+
+Articulo 18. De las coordinaciones sectoriales. Cada entidad del Gobierno, a través de su
+unidad de seguridad de la informacién o la que haga sus veces, creard una unidad
+coordinadora de respuesta a incidentes cibernéticos, la cual coordinara con el Equipo de
+Respuestas a Incidentes Cibernéticos de la Reptblica Dominicana (CSIRT-RD) para
+cumplir sus objetivos, a través del responsable que sera designado a tales fines por cada
+entidad del Estado dominicano.
+
+Articulo 19. De la responsabilidad. El resguardo de la integridad de la informacién es
+responsabilidad del organismo que la genera o administra. La investigacién del origen de
+los ataques y sus responsables, asi como la implementacién de las posibles soluciones
+frente a futuros ataques de seguridad a las redes informaticas, corresponde a las
+autoridades de cada organismo que haya sufrido el incidente cibernético.
+
+Articulo 20. De Ja informacién secreta por seguridad del Estado. Debido al interés
+ptiblico preponderante, se declaran clasificadas como informaciones secretas y, por ende,
+sujetas a las limitaciones y excepciones dispuestas por la Ley ntim. 200-04, del 28 de julio
+de 2004, General de Libre Acceso a la Informacién Publica las siguientes:
+
+a) Las especificaciones técnicas de los sistemas de informacién, asi como los detalles que
+permitan individualizar su ubicacion, y forma de suministro eléctrico.
+
+b) Los datos personales de todo aquel que preste servicio en el Centro Nacional de
+Ciberseguridad.
+
+c) La topologia y arquitectura de la red y la infraestructura tecnolégica y de
+telecomunicaciones.
+
+d) Los esquemas de direcciones de Protocolo de Internet (IP), ptiblicas y privadas.
+
+e) Laconfiguracién y credenciales de acceso de los equipos.
+
+f) Los eédigos de acceso y protocolos de encriptacién de los sistemas y redes.
+
+g) Las rutas de enlace desde las prestadoras de servicios de telecomunicaciones.
+
+h) _ Trafico de internet entrante y saliente.
+
+i) Plan de continuidad, proteccién y recuperacién ante desastres de las operaciones.
+Articulo 21. De la informacién reservada. Los datos producidos por el Equipo de
+Respuestas a Incidentes Cibernéticos de la Reptiblica Dominicana (CSIRT-RD), se
+
+consideran informaci6n reservada. Se pueden obtener a solicitud del Ministerio Pablico, a
+raiz de una investigacion penal, sin perjuicio de lo que disponen los articulos 26, 27, 28 y
+
+
+csrdeaete. ce te. Hiepuillioa Yomesicavia
+
+29 de la Ley nim. 200-04, del 28 de julio de 2004, General de Libre Acceso a la
+Informacién Publica.
+
+Articulo 22. De la confidencialidad y el deber de secreto. Los funcionarios 0 empleados
+del Centro Nacional de Ciberseguridad tienen la obligacién de guardar fa reserva y
+confidencialidad que requieren los asuntos relacionados con su trabajo, especialmente los
+concernientes al Estado en razén de su naturaleza o en virtud de instrucciones especiales,
+atin después de haber cesado en el cargo. En ese sentido, en caso de difundir, hacer
+circular, retirar o reproducir de los archivos de las oficinas documentos o asuntos
+confidenciales o de cualquier naturaleza que los servidores piblicos tengan conocimiento
+por su investidura oficial, seran sancionados de conformidad con lo dispuesto por la Ley
+nim. 41-08, del 16 de enero de 2008, de Funcién Publica.
+
+Articulo 23. De la sostenibilidad financiera. Las actividades y operaciones del Centro
+Nacional de Ciberseguridad seran financiadas con los montos que se les asignen en la Ley
+de Presupuesto General del Estado y las donaciones y recursos provenientes de la
+cooperacién técnica internacional y cualquier otro ingreso que provenga de leyes
+especiales o aportes especificos.
+
+Articulo 24. De las estrategias complementarias. Se instruye a los organismos
+competentes a que dentro de los sesenta (60) dias siguientes a la entrada en vigor de este
+decreto presenten las politicas y planes de accién necesarios en materia de
+ciberdelincuencia, ciberterrorismo, ciberdefensa, ciberguerra y criptografia.
+
+DADO en Santo Domingo de Guzman, Distrito Nacional, capital de la Republica,
+alos diecinueve (19diasdelmesde junio del afio dos mil dieciocho (2018),
+afio 175 de la Independencia y 155 de la Restauracién.

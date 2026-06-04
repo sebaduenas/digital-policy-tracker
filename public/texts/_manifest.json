@@ -222,6 +222,13 @@
     "bytes": 13137,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
   },
+  "bo/decreto-supremo-2514-creacion-agetic": {
+    "source": "https://agetic.gob.bo/sites/default/files/2025-02/decreto-supremo-2514-creacion-AGETIC.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:05:49.724Z",
+    "bytes": 27315,
+    "notes": "Texto extraído por OCR"
+  },
   "bo/decreto-supremo-3251-plan-gobierno-electronico": {
     "source": "https://www.lexivox.org/norms/BO-DS-N3251.html",
     "sourceType": "html",
@@ -284,6 +291,13 @@
     "fetchedAt": "2026-06-03T05:53:59.892Z",
     "bytes": 54825,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
+  },
+  "bo/resolucion-bcb-082-2024-activos-virtuales": {
+    "source": "https://www.bcb.gob.bo/webdocs/01_resoluciones/RD%20082%202024.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:05:10.043Z",
+    "bytes": 9979,
+    "notes": "Texto extraído por OCR"
   },
   "br/anpd-resolucao-2-2022-empresas-pequeno-porte": {
     "source": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd/resolucao-cd-anpd-no-2-de-27-de-janeiro-de-2022",
@@ -733,6 +747,12 @@
     "bytes": 7273,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
   },
+  "co/conpes-3975-politica-nacional-ia": {
+    "source": "https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3975.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:04:18.308Z",
+    "bytes": 165469
+  },
   "co/decreto-1377-reglamento-pdp": {
     "source": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53646",
     "sourceType": "html",
@@ -760,6 +780,12 @@
     "fetchedAt": "2026-06-03T05:54:13.161Z",
     "bytes": 43754,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
+  },
+  "co/estrategia-nacional-seguridad-digital-2025-2027": {
+    "source": "https://www.mintic.gov.co/portal/715/articles-403023_recurso_2.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:07:32.658Z",
+    "bytes": 109420
   },
   "co/ley-1273-delitos-informaticos": {
     "source": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34492",
@@ -971,6 +997,13 @@
     "bytes": 1362,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
   },
+  "do/decreto-230-18-estrategia-ciberseguridad": {
+    "source": "https://cncs.gob.do/wp-content/uploads/2020/02/Decreto-230-18.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:05:57.639Z",
+    "bytes": 40043,
+    "notes": "Texto extraído por OCR"
+  },
   "do/decreto-258-16-republica-digital": {
     "source": "https://www.consultoria.gov.do/Consulta/Home/FileManagement?documentId=3379590&managementType=1",
     "sourceType": "pdf",
@@ -1010,6 +1043,12 @@
     "fetchedAt": "2026-06-03T05:54:42.309Z",
     "bytes": 58116
   },
+  "do/ley-153-98-telecomunicaciones": {
+    "source": "https://indotel.gob.do/wp-content/uploads/2022/10/ley-general-de-telecomunicaciones-153-98-d.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:08:04.795Z",
+    "bytes": 196369
+  },
   "do/ley-172-proteccion-datos": {
     "source": "https://www.bancentral.gov.do/a/d/4154-ley-no-17213-sobre-proteccion-de-datos-de-caracter-personal",
     "sourceType": "html",
@@ -1040,6 +1079,27 @@
     "sourceType": "html",
     "fetchedAt": "2026-06-03T05:54:47.505Z",
     "bytes": 133812,
+    "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
+  },
+  "do/proyecto-ley-ciberseguridad-2024": {
+    "source": "https://www.senadord.gob.do/el-senado-aprueba-en-segunda-lectura-proyecto-de-ley-sobre-ciberseguridad/",
+    "sourceType": "html",
+    "fetchedAt": "2026-06-04T05:06:11.153Z",
+    "bytes": 8628,
+    "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
+  },
+  "do/proyecto-ley-inteligencia-artificial-2024": {
+    "source": "https://www.senadord.gob.do/comision-de-educacion-superior-ciencia-y-tecnologia-analiza-proyecto-de-ley-que-regula-sistema-de-inteligencia-artificial-ia/",
+    "sourceType": "html",
+    "fetchedAt": "2026-06-04T05:06:31.106Z",
+    "bytes": 3211,
+    "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
+  },
+  "ec/adhesion-convenio-budapest": {
+    "source": "https://www.cancilleria.gob.ec/2024/12/13/deposito-del-instrumento-de-ratificacion-del-convenio-de-budapest/",
+    "sourceType": "html",
+    "fetchedAt": "2026-06-04T05:04:21.356Z",
+    "bytes": 5496,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
   },
   "ec/codigo-economia-social-conocimientos-ingenios": {
@@ -1117,6 +1177,20 @@
     "fetchedAt": "2026-06-03T05:55:04.026Z",
     "bytes": 2320,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
+  },
+  "ec/reglamento-ley-organica-proteccion-datos-personales": {
+    "source": "https://www.telecomunicaciones.gob.ec/wp-content/uploads/2023/11/Decreto-Ejecutivo-No.-904.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:09:04.979Z",
+    "bytes": 79813,
+    "notes": "Texto extraído por OCR"
+  },
+  "gt/acuerdo-gubernativo-106-2024-comite-modernizacion-transformacion-digital": {
+    "source": "https://gae.gob.gt/wp-content/uploads/2025/03/Acuerdo-Gubernativo-106-2024.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:06:50.989Z",
+    "bytes": 13169,
+    "notes": "Texto extraído por OCR"
   },
   "gt/iniciativa-6347-ciberseguridad": {
     "source": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/iniciativas/ea912-6347.pdf",
@@ -1244,11 +1318,25 @@
     "bytes": 4647,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
   },
+  "ht/loi-signature-electronique-2017": {
+    "source": "https://www.omrh.gouv.ht/Media/Publications/3-Decrets/Decret%20portant%20sur%20la%20signature%20%C3%A9lectronique.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:08:16.483Z",
+    "bytes": 19098,
+    "notes": "Texto extraído por OCR"
+  },
   "mx/agenda-nacional-ia-2024-2030": {
     "source": "https://www.ania.org.mx/propuestadeagendanacionaldeia",
     "sourceType": "html",
     "fetchedAt": "2026-06-03T05:55:31.772Z",
     "bytes": 687,
+    "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
+  },
+  "mx/decreto-creacion-atdt-2024": {
+    "source": "https://www.dof.gob.mx/nota_detalle.php?codigo=5744005&fecha=28/11/2024",
+    "sourceType": "html",
+    "fetchedAt": "2026-06-04T05:07:35.762Z",
+    "bytes": 101872,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
   },
   "mx/estrategia-nacional-ciberseguridad-2017": {
@@ -1299,6 +1387,13 @@
     "bytes": 40565,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
   },
+  "ni/ley-729-firma-electronica": {
+    "source": "http://legislacion.asamblea.gob.ni/SILEG/Gacetas.nsf/5eea6480fc3d3d90062576e300504635/cbd27d56d8932c1d06257790005a8e56/$FILE/Ley%20No.%20729,%20Ley%20de%20firma%20electr%C3%B3nica.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:10:05.721Z",
+    "bytes": 29188,
+    "notes": "Texto extraído por OCR"
+  },
   "ni/ley-787-proteccion-datos-personales": {
     "source": "http://legislacion.asamblea.gob.ni/normaweb.nsf/9e314815a08d4a6206257265005d21f9/e5d37e9b4827fc06062579ed0076ce1d",
     "sourceType": "html",
@@ -1317,6 +1412,13 @@
     "sourceType": "pdf",
     "fetchedAt": "2026-06-03T05:56:22.627Z",
     "bytes": 89262
+  },
+  "pa/decreto-709-csirt-panama": {
+    "source": "https://cert.pa/wp-content/uploads/2015/09/Decreto-Ejecutivo-no-709.pdf",
+    "sourceType": "html",
+    "fetchedAt": "2026-06-04T05:09:49.068Z",
+    "bytes": 378476,
+    "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
   },
   "pa/estrategia-nacional-ciberseguridad-2021-2024": {
     "source": "https://cert.pa/?p=3011",
@@ -1361,6 +1463,18 @@
     "sourceType": "pdf",
     "fetchedAt": "2026-06-03T05:56:27.265Z",
     "bytes": 15715
+  },
+  "pa/ley-81-proteccion-datos": {
+    "source": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/2010/2019/LEY/Administrador%20Legispan_28743-A_2019_3_29_ASAMBLEA%20NACIONAL_81.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:10:09.383Z",
+    "bytes": 50075
+  },
+  "pa/ley-82-firma-electronica-cualificada": {
+    "source": "https://s3-legispan.asamblea.gob.pa/legispan/NORMAS/2010/2012/LEY/Administrador%20Legispan_27160_2012_11_9_ASAMBLEA%20NACIONAL_82.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:10:02.764Z",
+    "bytes": 91800
   },
   "pe/decreto-legislativo-1182-geolocalizacion": {
     "source": "https://busquedas.elperuano.pe/normaslegales/decreto-legislativo-que-regula-el-uso-de-los-datos-derivados-decreto-legislativo-n-1182-1268121-1",
@@ -1530,11 +1644,35 @@
     "bytes": 88325,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
   },
+  "sv/ley-bitcoin-decreto-57": {
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/43DA8049-AA39-4DA8-B892-437B2DD27C1C.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:10:07.383Z",
+    "bytes": 7113
+  },
+  "sv/ley-ciberseguridad-143": {
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/D056D9A1-299D-4188-941A-9C3B5898D3F3.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:10:08.245Z",
+    "bytes": 45315
+  },
+  "sv/ley-comercio-electronico-463": {
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/BAA0E931-E117-487D-8900-A1D9876D5FBE.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:10:08.785Z",
+    "bytes": 30757
+  },
   "sv/ley-delitos-informaticos-260": {
     "source": "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2010-2019/2016/02/B6B74.PDF",
     "sourceType": "pdf",
     "fetchedAt": "2026-06-03T05:56:36.474Z",
     "bytes": 46948
+  },
+  "sv/ley-emision-activos-digitales-643": {
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/BED5A3F8-8937-4547-A291-CE06802B0B23.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:10:09.375Z",
+    "bytes": 78862
   },
   "sv/ley-firma-electronica-133": {
     "source": "https://www.jurisprudencia.gob.sv/DocumentosBoveda/R/2/2010-2019/2015/10/E8EC9.HTML",
@@ -1542,6 +1680,18 @@
     "fetchedAt": "2026-06-03T05:56:36.802Z",
     "bytes": 86744,
     "notes": "Extraído desde HTML; puede incluir navegación/pie del sitio"
+  },
+  "sv/ley-fomento-ia-234": {
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/277EFC88-1C8D-4ACD-BE44-9DAFD64C6797.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:10:09.989Z",
+    "bytes": 31386
+  },
+  "sv/ley-proteccion-datos-144": {
+    "source": "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/7A4FBD85-7E1B-46BE-9408-6FC549E53E00.pdf",
+    "sourceType": "pdf",
+    "fetchedAt": "2026-06-04T05:10:10.526Z",
+    "bytes": 84941
   },
   "sv/ley-telecomunicaciones-142": {
     "source": "https://www.siget.gob.sv/wp-content/uploads/2021/02/Ley_Telecomunicaciones_Mayo_2016.pdf",
