@@ -11,12 +11,8 @@ import {
   BookOpen,
   Hash,
   Search,
-  Sun,
-  Moon,
   Package,
 } from "lucide-react";
-import { useTheme } from "next-themes";
-import { useEffect, useState } from "react";
 import { cn } from "@/lib/utils";
 
 type NavItem = {
@@ -57,10 +53,6 @@ export function Sidebar({
   onOpenSearch,
 }: SidebarProps) {
   const pathname = usePathname();
-  const { theme, setTheme, resolvedTheme } = useTheme();
-  const [mounted, setMounted] = useState(false);
-  useEffect(() => setMounted(true), []);
-  const current = resolvedTheme || theme;
 
   const counts: Record<string, number> = {
     all: totalRegs,
@@ -163,26 +155,10 @@ export function Sidebar({
         </div>
       </nav>
 
-      <div className="px-3 py-3 border-t border-border flex items-center justify-between">
+      <div className="px-3 py-3 border-t border-border flex items-center">
         <span className="text-[0.65rem] text-fg-muted/70 tabular-nums">
           {totalRegs} normas · {totalCountries} países
         </span>
-        <button
-          type="button"
-          onClick={() => setTheme(current === "dark" ? "light" : "dark")}
-          aria-label="Cambiar tema"
-          className="inline-flex h-7 w-7 items-center justify-center rounded-full text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
-        >
-          {mounted ? (
-            current === "dark" ? (
-              <Sun className="h-3.5 w-3.5" />
-            ) : (
-              <Moon className="h-3.5 w-3.5" />
-            )
-          ) : (
-            <span className="h-3.5 w-3.5" />
-          )}
-        </button>
       </div>
     </aside>
   );

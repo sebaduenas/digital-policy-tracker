@@ -1,16 +1,10 @@
 "use client";
 
 import Link from "next/link";
-import { Mail, Sun, Moon, Linkedin } from "lucide-react";
-import { useTheme } from "next-themes";
-import { useEffect, useState } from "react";
+import { Mail, Linkedin } from "lucide-react";
 import { useLocale } from "@/lib/i18n";
 
 export function MainFooter() {
-  const { theme, setTheme, resolvedTheme } = useTheme();
-  const [mounted, setMounted] = useState(false);
-  useEffect(() => setMounted(true), []);
-  const current = resolvedTheme || theme;
   const { t, locale } = useLocale();
 
   return (
@@ -50,28 +44,6 @@ export function MainFooter() {
           >
             <Mail className="h-3.5 w-3.5" /> {t("footer.contact")}
           </a>
-          <button
-            type="button"
-            onClick={() => setTheme(current === "dark" ? "light" : "dark")}
-            aria-label={
-              current === "dark" ? t("footer.themeLight") : t("footer.themeDark")
-            }
-            className="inline-flex items-center gap-1.5 px-2 py-1 rounded-md text-fg-muted hover:text-fg hover:bg-bg-sunken transition-colors"
-          >
-            {mounted ? (
-              current === "dark" ? (
-                <>
-                  <Sun className="h-3.5 w-3.5" /> {t("footer.themeLight")}
-                </>
-              ) : (
-                <>
-                  <Moon className="h-3.5 w-3.5" /> {t("footer.themeDark")}
-                </>
-              )
-            ) : (
-              <span className="h-3.5 w-3.5" />
-            )}
-          </button>
         </div>
       </div>
       <div className="border-t border-border">

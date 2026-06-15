@@ -1,7 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
-import { ThemeProvider } from "@/components/theme/ThemeProvider";
 import { AppShell } from "@/components/AppShell";
 import { getIndex } from "@/lib/index";
 
@@ -53,10 +52,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#FFFFFF" },
-    { media: "(prefers-color-scheme: dark)", color: "#10121C" },
-  ],
+  themeColor: "#FFFFFF",
 };
 
 export default async function RootLayout({
@@ -67,20 +63,9 @@ export default async function RootLayout({
   const index = await getIndex();
 
   return (
-    <html
-      lang="es"
-      suppressHydrationWarning
-      className={`${inter.variable} ${mono.variable}`}
-    >
+    <html lang="es" className={`${inter.variable} ${mono.variable}`}>
       <body>
-        <ThemeProvider
-          attribute="class"
-          defaultTheme="dark"
-          enableSystem={false}
-          disableTransitionOnChange
-        >
-          <AppShell index={index}>{children}</AppShell>
-        </ThemeProvider>
+        <AppShell index={index}>{children}</AppShell>
       </body>
     </html>
   );
