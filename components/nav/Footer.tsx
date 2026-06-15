@@ -69,7 +69,7 @@ export function Footer() {
           </a>
           <a
             className="hover:text-fg inline-flex items-center gap-1"
-            href="mailto:sebaduenas@gmail.com"
+            href="mailto:sebastian.duenas@uc.cl"
           >
             <Mail className="h-3.5 w-3.5" /> Contacto
           </a>

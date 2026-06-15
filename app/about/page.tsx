@@ -91,7 +91,7 @@ export default function AboutPage() {
           Leer metodología
         </Link>
         <a
-          href="mailto:contacto@policytracker.lat"
+          href="mailto:sebastian.duenas@uc.cl"
           className="inline-flex items-center gap-2 rounded-md border border-border bg-bg-elevated px-4 py-2 text-sm font-medium hover:border-accent/60 transition-colors"
         >
           <Mail className="h-4 w-4" />

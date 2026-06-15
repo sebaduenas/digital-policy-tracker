@@ -40,7 +40,7 @@ export function MainFooter() {
         <div className="flex md:justify-end gap-3 items-center text-fg-muted text-xs md:col-span-1">
           <a
             className="inline-flex items-center gap-1 hover:text-fg"
-            href="mailto:contacto@policytracker.lat"
+            href="mailto:sebastian.duenas@uc.cl"
           >
             <Mail className="h-3.5 w-3.5" /> {t("footer.contact")}
           </a>
