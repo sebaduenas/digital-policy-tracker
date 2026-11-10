@@ -59,13 +59,16 @@ pnpm build
 ## Descubrir normas nuevas
 
 ```bash
-pnpm discover                 # últimos 30 días, los 20 países
+pnpm discover                            # últimos 30 días, los 20 países
 pnpm discover --country cl --days 90
-pnpm discover --selftest      # sin red
+python3 scripts/discover.py --selftest   # sin red
 ```
 
-Busca en el RSS de Google Noticias, filtra por señal normativa y área, descarta
-lo que ya tiene ficha y acumula los candidatos en `content/_candidates.json`.
+`scripts/discover.py` busca en el RSS de Google Noticias, filtra por señal
+normativa y área, descarta lo que ya tiene ficha y acumula los candidatos en
+`content/_candidates.json`. Es Python 3 con biblioteca estándar nada más, así
+que corre en un clon limpio sin instalar dependencias.
+
 No crea fichas: el campo `status` de cada candidato se edita a mano
 (`descartado`, `fichado`) y las corridas siguientes lo respetan.
 

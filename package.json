@@ -9,7 +9,7 @@
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "build:index": "tsx scripts/build-index.ts",
-    "discover": "tsx scripts/discover.ts"
+    "discover": "python3 scripts/discover.py"
   },
   "dependencies": {
     "next": "^15.1.0",
