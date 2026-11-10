@@ -8,3 +8,5 @@ out
 public/data/index.json
 tsconfig.tsbuildinfo
 *.tsbuildinfo
+__pycache__/
+*.pyc
