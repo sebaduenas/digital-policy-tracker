@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
-    "build:index": "tsx scripts/build-index.ts"
+    "build:index": "tsx scripts/build-index.ts",
+    "discover": "tsx scripts/discover.ts"
   },
   "dependencies": {
     "next": "^15.1.0",

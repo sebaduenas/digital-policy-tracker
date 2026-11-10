@@ -56,6 +56,19 @@ pnpm typecheck
 pnpm build
 ```
 
+## Descubrir normas nuevas
+
+```bash
+pnpm discover                 # últimos 30 días, los 20 países
+pnpm discover --country cl --days 90
+pnpm discover --selftest      # sin red
+```
+
+Busca en el RSS de Google Noticias, filtra por señal normativa y área, descarta
+lo que ya tiene ficha y acumula los candidatos en `content/_candidates.json`.
+No crea fichas: el campo `status` de cada candidato se edita a mano
+(`descartado`, `fichado`) y las corridas siguientes lo respetan.
+
 ## Añadir una ficha
 
 Crea `content/regulations/{cc}/{slug}.mdx` con frontmatter que valide contra
