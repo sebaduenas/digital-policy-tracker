@@ -101,10 +101,17 @@ COUNTRY_NAMES = {
     "ve": ["Venezuela", "venezolano"],
 }
 
-# Fuera de la región, pero copan los resultados en español.
+# Fuera de la región, pero copan los resultados en español. Van sin tildes
+# porque se comparan contra el titular ya normalizado, y con las variantes en
+# portugués y francés que hacen falta para Brasil y Haití. Quedan fuera a
+# propósito "inde" y "franca", que aparecen dentro de palabras comunes como
+# "independencia" y "zona franca".
 FOREIGN = [
     "espana", "union europea", "parlamento europeo", "estados unidos",
-    "california", "texas", "china",
+    "california", "texas", "china", "japon", "japao", "rusia", "russia",
+    "russie", "corea", "coreia", "coree", "india", "israel", "francia",
+    "france", "alemania", "alemanha", "allemagne", "reino unido",
+    "royaume-uni",
 ]
 
 # Primer término de cada área va a la consulta; todos sirven para etiquetar.
@@ -361,6 +368,14 @@ def selftest() -> None:
 
     assert is_elsewhere("Congreso de Guatemala aprueba ley de ciberseguridad", "cl"), "otro país"
     assert is_elsewhere("La UE prepara una ley para España", "cl"), "fuera de la región"
+    assert is_elsewhere(
+        "La primera ministra de Japón ordena revisar la ley de ciberseguridad", "uy"
+    ), "potencia de fuera que se colaba"
+    assert is_elsewhere("Projeto de lei sobre dados pessoais no Japão", "br"), "fuera, en portugués"
+    assert not is_elsewhere("Ley de independencia de la agencia de datos", "cl"), (
+        "independencia no es India"
+    )
+    assert not is_elsewhere("Regula la zona franca digital", "uy"), "zona franca no es Francia"
     assert not is_elsewhere("Senado chileno aprueba la ley de datos", "cl"), "país propio"
     assert not is_elsewhere("Diputados aprueban la ley de ciberseguridad", "cl"), "sin país nombrado"
     assert not is_elsewhere("Costa Rica regula la IA", "cr"), "nombre compuesto propio"
