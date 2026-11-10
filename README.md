@@ -80,6 +80,7 @@ Crea `content/regulations/{cc}/{slug}.mdx` con frontmatter que valide contra
 
 ## Licencias
 
-- Código: **MIT**
-- Contenido editorial: **CC BY 4.0**
-- Textos oficiales: licencia de origen
+- Contenido editorial (fichas, resúmenes, análisis, taxonomía): **CC BY 4.0**,
+  texto completo en [`LICENSE`](LICENSE)
+- Código: **MIT**, texto completo en [`LICENSE-CODE`](LICENSE-CODE)
+- Textos oficiales en `public/texts`: licencia de origen
